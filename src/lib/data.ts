@@ -364,7 +364,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/100",
     price: "NT$3,486",
     releaseDate: "P-Bandai 限定",
-    officialUrl: "",
+    officialUrl: "https://p-bandai.com/tw/item/AZ005366002",
     imageUrl: "/images/mgex-strike-freedom-mechanical-clear.jpg",
     tags: ["Gundam SEED", "Strike Freedom", "MGEX", "1/100", "Gunpla", "透明色", "P-Bandai限定", "已購入"],
     description: "Bandai 頂規 MGEX（Master Grade Extreme）強攻自由鋼彈的 P-Bandai 限定「MECHANICAL CLEAR」配色版。MGEX 是 MG 骨架再進化的新世代規格，機體內部的 LED 骨架及 Super Dragoon 系統在透明外裝甲板下完整可視，全透明外裝配合特殊染色展現有別於一般配色版本的視覺魅力。",
