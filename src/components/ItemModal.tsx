@@ -23,23 +23,23 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
       onClick={onClose}
     >
       <div
-        className="relative bg-zinc-900 rounded-2xl w-full max-w-2xl max-h-[90vh] overflow-y-auto border border-zinc-700 shadow-2xl"
+        className="relative bg-zinc-900 rounded-2xl w-full max-w-3xl max-h-[92vh] overflow-y-auto border border-zinc-700 shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
         <button
-          className="absolute top-4 right-4 z-10 text-zinc-400 hover:text-white transition-colors bg-zinc-800 rounded-full p-1.5"
+          className="absolute top-4 right-4 z-10 text-zinc-400 hover:text-white transition-colors bg-zinc-800/80 rounded-full p-1.5"
           onClick={onClose}
         >
           <X size={18} />
         </button>
 
         <div className="flex flex-col sm:flex-row">
-          <div className="sm:w-64 shrink-0 bg-zinc-800">
+          <div className="sm:w-72 shrink-0 bg-zinc-800 flex items-center justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none min-h-64">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={item.imageUrl}
               alt={item.name}
-              className="w-full h-72 sm:h-full object-cover rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none"
+              className="w-full sm:h-full object-contain rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none max-h-[50vh] sm:max-h-[85vh]"
               onError={(e) => {
                 ;(e.target as HTMLImageElement).src =
                   "https://placehold.co/300x400/18181b/52525b?text=No+Image"
