@@ -701,9 +701,14 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
-        title: "EXCLUSIVE! DX Chogokin VF-25S Armored Messiah Valkyrie (Ozma Lee use) Revival Ver.",
-        url: "https://www.youtube.com/watch?v=DZ0yNdjD6G4",
-        lang: "en",
+        title: "【マクロス玩具レビュー】 DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）リバイバルVer.",
+        url: "https://www.youtube.com/watch?v=ViOlLmgTqvM",
+        lang: "ja",
+      },
+      {
+        title: "雑談フィギュアレビュー：DX超合金 VF-25Sアーマードメサイアバルキリー(オズマ・リー機)リバイバルver.",
+        url: "https://www.youtube.com/watch?v=omJgbgXGqCk",
+        lang: "ja",
       },
     ],
   },
@@ -752,9 +757,14 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
-        title: "[4K UNBOXING] DX Chogokin YF-29 Durandal Valkyrie (Maximilian Jenius Use) Full Set Pack (EN Sub)",
-        url: "https://www.youtube.com/watch?v=hMdJ9N3gpy8",
-        lang: "en",
+        title: "【マクロス玩具レビュー】DX超合金 YF-29 デュランダルバルキリー（マクシミリアン・ジーナス機）",
+        url: "https://www.youtube.com/watch?v=WIbcnS_g0vs",
+        lang: "ja",
+      },
+      {
+        title: "【星4つ】天才の翼！DX超合金 デュランダルバルキリー（マクシミリアン・ジーナス機）フルセットパック 徹底レビュー",
+        url: "https://www.youtube.com/watch?v=qyAuKqmPcgE",
+        lang: "ja",
       },
     ],
   },
@@ -856,7 +866,18 @@ export const collection: CollectibleItem[] = [
     tags: ["Macross", "Macross Delta", "VF-31J", "Siegfried", "Hayate", "Fold Projection", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31J 齊格弗里德，附帶劇場版特有的「摺疊投影裝置（Fold Projection Unit）」配件。此選配裝置大幅改變了機體外型，是劇場版與電視版最明顯的機體差異之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】DX超合金 VF-31J ジークフリード フォールドプロジェクションユニット",
+        url: "https://www.youtube.com/watch?v=3vF45A2aQN4",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31J ジークフリード ハヤテ機 フォールドプロジェクションユニット装備 レビュー",
+        url: "https://www.youtube.com/watch?v=Yi6OivTI07E",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf31ax-first-limited-hayate",
@@ -875,9 +896,14 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
-        title: "DX Chogokin First Limited Edition VF-31AX Kairos Plus (Hayate Immelman Machine) - first look",
-        url: "https://www.youtube.com/watch?v=hv3VjAWd2Hc",
-        lang: "en",
+        title: "【マクロスΔ】DX超合金 初回限定版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）劇場版マクロスΔ 絶対LIVE サンプルレビュー",
+        url: "https://www.youtube.com/watch?v=-6_k1b8CBbo",
+        lang: "ja",
+      },
+      {
+        title: "【劇場版マクロスΔ絶対LIVE!!!!!!】DX超合金 VF-31AX カイロスプラス ハヤテ機 ヲタファの変形レビュー",
+        url: "https://www.youtube.com/watch?v=14LLXtlE6iU",
+        lang: "ja",
       },
     ],
   },
@@ -898,9 +924,14 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
-        title: "DX Chogokin Macross Delta - VF-31AX Kairos-Plus - Mirage Farina Jenius Custom",
-        url: "https://www.youtube.com/watch?v=WCDwApEOKH4",
-        lang: "en",
+        title: "【劇場版マクロスΔ絶対LIVE!!!!!!】DX超合金 VF-31AX カイロスプラス ミラージュ機 ヲタファのレビュー",
+        url: "https://www.youtube.com/watch?v=FhyMTw8jdk8",
+        lang: "ja",
+      },
+      {
+        title: "【マクロス玩具レビュー】マクロスΔ DX超合金 VF-31AX カイロスプラス（ミラージュ機）",
+        url: "https://www.youtube.com/watch?v=UQ-HfcvzP_w",
+        lang: "ja",
       },
     ],
   },
@@ -943,6 +974,11 @@ export const collection: CollectibleItem[] = [
     description: "《劇場版 Macross Delta》Delta 小隊成員 Borg Confert 機 VF-31AX Kairos-Plus，魂ウェブ限定。相較 Hayate 機與 Mirage 機，Borg 機採用不同個人識別塗裝，是 Delta 小隊全員 VF-31AX 收藏中不可缺少的一件。",
     reviews: [],
     youtube: [
+      {
+        title: "【マクロス玩具レビュー】マクロスΔ DX超合金 VF-31AX カイロスプラス（ボーグ機）",
+        url: "https://www.youtube.com/watch?v=Joml_BJ--dk",
+        lang: "ja",
+      },
       {
         title: "DX CHOGOKIN VF-31AX Kairos-Plus (Bogue Con-Vaart Use) | MACROSS DELTA ZETTAI LIVE!",
         url: "https://www.youtube.com/watch?v=9ZqYwMqHZ8U",

@@ -23,7 +23,7 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
       onClick={onClose}
     >
       <div
-        className="relative bg-zinc-900 rounded-2xl w-full max-w-3xl max-h-[92vh] overflow-y-auto border border-zinc-700 shadow-2xl"
+        className="relative bg-zinc-900 rounded-2xl w-full max-w-4xl max-h-[92vh] overflow-y-auto border border-zinc-700 shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
         <button
@@ -103,7 +103,7 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
                       <span className="text-xs bg-zinc-700 text-zinc-400 rounded px-1.5 py-0.5 shrink-0">
                         {langLabel[r.lang]}
                       </span>
-                      <span className="truncate">{r.title}</span>
+                      <span className="break-words min-w-0 leading-snug">{r.title}</span>
                       <ExternalLink size={12} className="shrink-0 text-zinc-600" />
                     </a>
                   ))}
@@ -128,7 +128,7 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
                       <span className="text-xs bg-zinc-700 text-zinc-400 rounded px-1.5 py-0.5 shrink-0">
                         {langLabel[y.lang]}
                       </span>
-                      <span className="truncate">{y.title}</span>
+                      <span className="break-words min-w-0 leading-snug">{y.title}</span>
                       <ExternalLink size={12} className="shrink-0 text-zinc-600" />
                     </a>
                   ))}
