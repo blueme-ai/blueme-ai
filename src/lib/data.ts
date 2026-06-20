@@ -1310,7 +1310,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/6",
     price: "TBD",
     releaseDate: "2024~2025年",
-    officialUrl: "https://www.hpoi.net/hobby/97060",
+    officialUrl: "https://www.hpoi.net/hobby/96791",
     imageUrl: "/images/supernova-cifang-1-6.jpg",
     tags: ["Original Character", "此方醬", "Super Nova", "1/6", "貓耳", "美少女", "中國品牌"],
     description: "Super Nova 出品的原創貓耳少女角色「此方醬」1/6 比例完成品，以兔女郎風格造型搭配俏皮貓耳呈現。Super Nova 為中國新興人形品牌，此方醬系列是其旗下頗具人氣的原創 IP 之一。",
@@ -1398,8 +1398,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-stormbringer-pf.jpg",
     tags: ["Gunpla", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列鋼彈風暴使者 P.F.（Phantom Fang），P-Bandai 限定。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "A KIT WITH A PEDIGREE! | MG Gundam Stormbringer P.F. UNBOXING & REVIEW [4K]", url: "https://www.youtube.com/watch?v=2siiknsaWYk", lang: "en" },
+      { title: "P-BANDAI MASTER GRADE STORMBRINGER P.F. REVIEW", url: "https://www.youtube.com/watch?v=Q70qjzF_9ig", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Gundam Stormbringer P.F. Unboxing & Review", url: "2siiknsaWYk", lang: "en" },
+    ],
   },
   {
     id: "fm-boost-raider-gundam",
@@ -1414,8 +1419,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/fm-boost-raider-gundam.jpg",
     tags: ["Gunpla", "Full Mechanics", "Bandai", "SEED ECLIPSE", "高達模型", "P-Bandai", "可變形"],
     description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-XX370 Boost Raider Gundam，可變形至鳥翼狀 MA 形態，P-Bandai 限定。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "1/100 Full Mechanics Raider Gundam Review | GUNDAM SEED", url: "https://www.youtube.com/watch?v=c5TOd-NKalM", lang: "en" },
+    ],
+    youtube: [
+      { title: "FM 1/100 Raider Gundam Review (SEED)", url: "c5TOd-NKalM", lang: "en" },
+    ],
   },
   {
     id: "re100-base-jabber-unicorn",
@@ -1430,8 +1439,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/re100-base-jabber-unicorn.jpg",
     tags: ["Gunpla", "RE/100", "Bandai", "Gundam Unicorn", "高達模型", "飛行台"],
     description: "Bandai Spirits RE/100 1/100《機動戰士鋼彈UC》TYPE-89 Base Jabber 飛行台（獨角獸版），可搭載 1/100 比例 MS 一同展示。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "P-Bandai RE/100 Type 89 Base Jabber [Unicorn Ver.] UNBOXING and Review", url: "https://www.youtube.com/watch?v=Jxy3kB3gBbg", lang: "en" },
+    ],
+    youtube: [
+      { title: "RE/100 Base Jabber Unicorn Ver. Unboxing & Review", url: "Jxy3kB3gBbg", lang: "en" },
+    ],
   },
   {
     id: "mg-raijin-striker",
@@ -1446,8 +1459,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-raijin-striker.jpg",
     tags: ["Gunpla", "MG", "Bandai", "SEED Freedom", "高達模型", "追加裝備", "ECLIPSE"],
     description: "Bandai Spirits MG 1/100《SEED FREEDOM》MG Eclipse Gundam 専用追加武裝「雷神 Striker」擴充套件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "P-Bandai MG Raijin Striker Pack Review | Gundam Seed Eclipse", url: "https://www.youtube.com/watch?v=540vm2e1guI", lang: "en" },
+      { title: "MG 1/100 Eclipse Gundam and Raijin Striker Review | GUNDAM SEED ECLIPSE", url: "https://www.youtube.com/watch?v=ClIN2Wq_EDc", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Raijin Striker Pack Review (SEED Eclipse)", url: "540vm2e1guI", lang: "en" },
+    ],
   },
   {
     id: "mg-lightning-striker",
@@ -1462,8 +1480,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-lightning-striker.jpg",
     tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "追加裝備", "Strike"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》Aile Strike Gundam 専用追加武裝「Lightning Striker」擴充套件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "P-Bandai Exclusive MG Lightning Strike Gundam Review", url: "https://www.youtube.com/watch?v=WNRyMnJ2Dso", lang: "en" },
+      { title: "RIDE THE LIGHTENING! | MG 1/100 Lightning Strike Gundam Review", url: "https://www.youtube.com/watch?v=CkTJuMyvecs", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Lightning Striker P-Bandai Review", url: "WNRyMnJ2Dso", lang: "en" },
+    ],
   },
   {
     id: "metal-build-justice-gundam",
@@ -1474,12 +1497,17 @@ export const collection: CollectibleItem[] = [
     scale: "Metal Build（約1/100）",
     price: "¥17,600",
     releaseDate: "2012年",
-    officialUrl: "https://bandai-hobby.net/",
+    officialUrl: "https://tamashii.jp/item/12017/",
     imageUrl: "/images/metal-build-justice-gundam.jpg",
     tags: ["Metal Build", "Bandai", "SEED", "合金", "完成品", "高達", "ZAFT"],
     description: "Bandai Spirits Metal Build《機動戰士鋼彈SEED》GAT-X019 Justice Gundam，合金壓鑄可動完成品，附飛行機械翼及豐富武裝配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "Metal Build Justice Gundam Unboxing & Review", url: "https://www.youtube.com/watch?v=oAGMTIONGys", lang: "en" },
+      { title: "Bandai Metal Build Justice Gundam Unboxing & Review", url: "https://www.youtube.com/watch?v=7YXColQwZrk", lang: "en" },
+    ],
+    youtube: [
+      { title: "Metal Build Justice Gundam Unboxing & Review", url: "oAGMTIONGys", lang: "en" },
+    ],
   },
   {
     id: "mg-victory-gundam-verka",
@@ -1494,8 +1522,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-victory-gundam-verka.jpg",
     tags: ["Gunpla", "MG", "Bandai", "V鋼彈", "Ver.Ka", "高達模型", "分離合體"],
     description: "Bandai Spirits MG 1/100《機動戰士V鋼彈》Ver.Ka LM-MS/V19 Victory Gundam，由 Hajime Katoki 監修設計，V Dash、Top/Bottom 分離形態完整再現。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG Ver.Ka ヴィクトリーガンダム LM312V04/06 VICTORY GUNDAM【ガンプラ塗装レビュー第27回】", url: "https://www.youtube.com/watch?v=6fMLYKKstjI", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG Victory Gundam Ver.Ka 塗装レビュー", url: "6fMLYKKstjI", lang: "ja" },
+    ],
   },
   {
     id: "mg-aegis-gundam",
@@ -1510,8 +1542,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-aegis-gundam.jpg",
     tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "可變形", "ZAFT"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X303 Aegis Gundam，地球聯合 G 兵器，可變形至 MA 形態，ZAFT 奪取後由 Athrun Zala 駕駛。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "AEGIS Gundam MG - BANDAI Gundam SEED MASTERGRADE Model Kit UNBOX REVIEW", url: "https://www.youtube.com/watch?v=iEle5Z94ljI", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Aegis Gundam Unbox Review", url: "iEle5Z94ljI", lang: "en" },
+    ],
   },
   {
     id: "mg-full-armor-zz-gundam-verka",
@@ -1521,13 +1557,17 @@ export const collection: CollectibleItem[] = [
     manufacturer: "Bandai Spirits",
     scale: "MG 1/100",
     price: "¥7,700",
-    releaseDate: "2016年12月",
-    officialUrl: "https://bandai-hobby.net/",
+    releaseDate: "2026年2月",
+    officialUrl: "https://www.hlj.com/1-100-scale-mg-full-armor-zz-gundam-ver-ka-banh720269",
     imageUrl: "/images/mg-full-armor-zz-gundam-verka.jpg",
     tags: ["Gunpla", "MG", "Bandai", "ZZ鋼彈", "Ver.Ka", "高達模型", "全裝甲"],
-    description: "Bandai Spirits MG 1/100《機動戰士ZZ鋼彈》MSZ-010S Full Armor ZZ Gundam Ver.Ka，Katoki 設計的強化全裝甲型，機體全高增加並附大量武裝。",
-    reviews: [],
-    youtube: [],
+    description: "Bandai Spirits MG 1/100《機動戰士ZZ鋼彈》MSZ-010S Full Armor ZZ Gundam Ver.Ka，2026年 Katoki 監修全新版本，全裝甲型完整重現，可拆裝甲切換強化 ZZ 形態。",
+    reviews: [
+      { title: "MG Full Armor ZZ Gundam Ver.Ka Review!", url: "https://www.youtube.com/watch?v=2LeMEp5dqVI", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Full Armor ZZ Gundam Ver.Ka Review (2026)", url: "2LeMEp5dqVI", lang: "en" },
+    ],
   },
   {
     id: "mg-zaku2-j-ridden-custom",
@@ -1542,8 +1582,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-zaku2-j-ridden-custom.jpg",
     tags: ["Gunpla", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "高達模型", "Zaku"],
     description: "Bandai Spirits MG 1/100 MS-06S 薩克II J.Ridden's Custom，吉翁公國精銳隊長機，個人塗裝版薩克，附豐富武器選擇。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG 1/100 Johnny Ridden's Zaku II Review", url: "https://www.youtube.com/watch?v=nj8ssjx-y3M", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Zaku II Johnny Ridden Review", url: "nj8ssjx-y3M", lang: "en" },
+    ],
   },
   {
     id: "fm-aile-calamity-gundam",
@@ -1558,8 +1602,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/fm-aile-calamity-gundam.jpg",
     tags: ["Gunpla", "Full Mechanics", "Bandai", "SEED ECLIPSE", "高達模型", "地球聯合"],
     description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-X130 Aile Calamity Gundam，搭載 Aile Striker 的 Calamity 改裝型。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "Full Mechanics 1/100 Aile Calamity Gundam Review | GUNDAM SEED ECLIPSE", url: "https://www.youtube.com/watch?v=XvAfO5tN-i0", lang: "en" },
+    ],
+    youtube: [
+      { title: "FM Aile Calamity Gundam Review (SEED ECLIPSE)", url: "XvAfO5tN-i0", lang: "en" },
+    ],
   },
   {
     id: "mg-impulse-gundam-blanche",
@@ -1574,8 +1622,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-impulse-gundam-blanche.jpg",
     tags: ["Gunpla", "MG", "Bandai", "SEED ASTRAY", "高達模型", "P-Bandai", "ZAFT", "Destiny Silhouette"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED ASTRAY》ZGMF-X56S/ι Impulse Gundam Blanche，P-Bandai 限定，搭載 Destiny R Silhouette 及 Wolfsbane 大型遠程射擊炮。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG 1/100 Impulse Gundam Blanche Review - GUNDAM SEED ASTRAY", url: "https://www.youtube.com/watch?v=qDQrmy7KDks", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Impulse Gundam Blanche Review (SEED ASTRAY)", url: "qDQrmy7KDks", lang: "en" },
+    ],
   },
   {
     id: "mg-duel-gundam-assault-shroud",
@@ -1590,8 +1642,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-duel-gundam-assault-shroud.jpg",
     tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "地球聯合"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X102 Duel Gundam 加裝 Assault Shroud 追加甲冑，Yzak Joule 座機。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG Duel Gundam Assault Shroud UNBOXING", url: "https://www.youtube.com/watch?v=HjaQNrOEifc", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Duel Gundam Assault Shroud Unboxing", url: "HjaQNrOEifc", lang: "en" },
+    ],
   },
   {
     id: "mg-aile-strike-gundam",
@@ -1606,8 +1662,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-aile-strike-gundam.jpg",
     tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "主角機", "Strike"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X105 Strike Gundam 裝備 Aile Striker，SEED 代表主角機，Kira Yamato 初期座機。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "A Great Example Of The Master Grade Line - MG 1/100 Ver RM Aile Strike Gundam | REVIEW", url: "https://www.youtube.com/watch?v=2K8_TxIxPFQ", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Aile Strike Gundam Ver.RM Review", url: "2K8_TxIxPFQ", lang: "en" },
+    ],
   },
   {
     id: "mg-gundam-ex-impulse-manfred",
@@ -1622,8 +1682,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-ex-impulse-manfred.jpg",
     tags: ["Gunpla", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列 Gundam EX-Impulse，Manfred von Sakazaki 座機，P-Bandai 限定。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "My New Favourite SEED Master Grade! - MG 1/100 Gundam Ex Impulse Review", url: "https://www.youtube.com/watch?v=zkowDz5tzR4", lang: "en" },
+      { title: "Unboxing MG EX-Impulse Gundam 1/100 P-Bandai", url: "https://www.youtube.com/watch?v=qkI-TWbar8w", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG Gundam Ex Impulse Review", url: "zkowDz5tzR4", lang: "en" },
+    ],
   },
   {
     id: "mg-re-gz-unicorn-ver",
@@ -1639,7 +1704,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Gunpla", "MG", "Bandai", "Gundam Unicorn", "逆夏", "高達模型", "可變形", "P-Bandai"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈UC》RGZ-91 Re-GZ（獨角獸版），P-Bandai 限定，以 UC 新設定重新詮釋《逆夏》可變形機體，附 Back Weapon System。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "P-Bandai MG Re-GZ Unicorn Ver. Review", url: "Jxy3kB3gBbg", lang: "en" },
+    ],
   },
   {
     id: "mg-tallgeese-2",
