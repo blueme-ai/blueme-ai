@@ -2,7 +2,7 @@
 
 import { useEffect } from "react"
 import { CollectibleItem, ReviewLink } from "@/lib/data"
-import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box } from "lucide-react"
+import { X, ExternalLink, PlayCircle, Tag, Ruler, Calendar, DollarSign, Box } from "lucide-react"
 
 const langLabel: Record<ReviewLink["lang"], string> = {
   zh: "中文",
@@ -85,30 +85,6 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
               </div>
             )}
 
-            {item.reviews.length > 0 && (
-              <div>
-                <p className="text-xs text-zinc-500 uppercase tracking-wider mb-2 font-medium flex items-center gap-1.5">
-                  <BookOpen size={13} /> 開箱文
-                </p>
-                <div className="flex flex-col gap-1.5">
-                  {item.reviews.map((r, i) => (
-                    <a
-                      key={i}
-                      href={r.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center gap-2 text-sm text-zinc-300 hover:text-white transition-colors"
-                    >
-                      <span className="text-xs bg-zinc-700 text-zinc-400 rounded px-1.5 py-0.5 shrink-0">
-                        {langLabel[r.lang]}
-                      </span>
-                      <span className="truncate">{r.title}</span>
-                      <ExternalLink size={12} className="shrink-0 text-zinc-600" />
-                    </a>
-                  ))}
-                </div>
-              </div>
-            )}
 
             {item.youtube.length > 0 && (
               <div>
