@@ -114,7 +114,7 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
             {item.youtube.length > 0 && (
               <div>
                 <p className="text-xs text-zinc-500 uppercase tracking-wider mb-2 font-medium flex items-center gap-1.5">
-                  <PlayCircle size={13} className="text-red-500" /> YouTube 開箱
+                  <PlayCircle size={13} className="text-red-500" /> 影片開箱
                 </p>
                 <div className="flex flex-col gap-1.5">
                   {item.youtube.map((y, i) => (

@@ -1155,6 +1155,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "量産機翻身做主角！萬代DX超合金 VF-31AX 開箱分享【超時空要塞△】",
+        url: "https://www.youtube.com/watch?v=LzMCTV_lL0k",
+        lang: "zh",
+      },
+      {
         title: "【劇場版マクロスΔ絶対LIVE!!!!!!】DX超合金 VF-31AX カイロスプラス ハヤテ機 ヲタファの変形レビュー",
         url: "https://www.youtube.com/watch?v=14LLXtlE6iU",
         lang: "ja",
