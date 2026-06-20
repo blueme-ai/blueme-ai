@@ -37,7 +37,7 @@ export const collection: CollectibleItem[] = [
     height: "約275mm（含傘及台座）",
     officialUrl: "https://www.goodsmile.com/zh/product/7068/Saber+Alter+%E5%92%8C%E6%9C%8Dver.",
     imageUrl: "/images/saber-alter-kimono.jpg",
-    tags: ["Fate", "Saber Alter", "和服", "1/7", "KADOKAWA", "已購入", "有盒裝", "Heaven's Feel"],
+    tags: ["Fate", "Saber Alter", "和服", "1/7", "KADOKAWA", "已購入", "Heaven's Feel"],
     description: "Saber Alter（黑化的 Artoria Pendragon）以華麗和服姿態呈現的 1/7 比例完成品。原畫由武內崇繪製，最初刊登於《月刊Newtype》特刊，人物穿著帶有金色刺繡的黑色和服，左手撐開一把淺紫色油紙傘，姿態沉靜中透著不容逼近的王者氣場。\n\n服裝細節豐富——和服的絲質光澤、腰帶的立體浮雕花紋、袖口若隱若現的刺繡，均在 1/7 比例下精細重現。台座採用日式石燈籠造型，與整體和風意境融為一體。全高約 275mm（含傘及台座），是《Heaven's Feel》三部曲完結後最具話題性的衍生商品之一。此為原版 2024 年 1 月發售後的第二次再版，入手難度相對原版大幅降低。",
     reviews: [],
     youtube: [
@@ -94,7 +94,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "P-Bandai 限定",
     officialUrl: "https://p-bandai.com/tw/item/A2302840001",
     imageUrl: "/images/mg-turn-a-gundam-moonlight-butterfly.jpg",
-    tags: ["Gundam", "∀ Gundam", "Turn A", "MG", "1/100", "Bandai", "P-Bandai限定", "有盒裝"],
+    tags: ["Gundam", "∀ Gundam", "Turn A", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "富野由悠季監督 1999 年電視動畫《∀ Gundam》主角機 WD-M01 Turn A Gundam 的 MG 1/100 P-Bandai 限定特別版，主打「月光蝶（Moonlight Butterfly）」展開效果零件。\n\n月光蝶是 Turn A Gundam 潛藏的最終兵器：機體散放出無數奈米機器人形成絢爛的蝶翼光場，可以侵蝕並分解所有工業科技文明，是宇宙世紀（UC）所有鋼彈系列中公認殺傷範圍最廣的武裝之一。此版本特別附有大量透明效果零件，精細重現月光蝶展開瞬間的光翼形態，令整組完成後極具陳設觀賞價值。\n\n基礎骨架延續 MG Turn A 的精密結構，全身具備流暢可動性，除月光蝶零件外亦附有一般展示用姿勢的備用手型與武裝配件。此為 P-Bandai（Premium Bandai）限定商品，非一般通路販售。",
     reviews: [],
     youtube: [
@@ -122,7 +122,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年",
     officialUrl: "",
     imageUrl: "/images/macross-plus-yf21-yamato.jpg",
-    tags: ["Macross", "Macross Plus", "YF-21", "1/60", "YAMATO", "可變形", "有盒裝", "絕版"],
+    tags: ["Macross", "Macross Plus", "YF-21", "1/60", "YAMATO", "可變形", "絕版"],
     description: "河森正治原案、菱田正和監督的 OVA 作品《Macross Plus》（1994）中由天才試驗飛行員 Guld Goa Bowman 駕駛的次世代可變戰機原型機 YF-21，由 YAMATO 以 1/60 比例製作的完全變形完成品。\n\nYF-21 在劇中是 Macross 宇宙中最具野心的機體設計之一——採用無操縱桿的腦波控制系統（BCS, Brain Computer System），令機體直接接受駕駛員的意念指令運動。外型上以大型三角翼搭配前置鴨翼，機首修長，充滿空氣動力學美感，與競爭機 YF-19 形成截然不同的設計哲學。\n\n此 YAMATO 1/60 版本支援 Fighter（戰鬥機）、GERWALK（半變形）、Battroid（人形）三型態完全切換，機身各面板、手臂收納、機首展開等機構均以精密塑膠件組成，是 Macross 比例模型中工業設計含量極高的一款。YAMATO 品牌已於 2013 年停業，現行市場流通量稀少，收藏與增值潛力兼具，是 Macross 模型收藏家必備的里程碑作品。",
     reviews: [],
     youtube: [
@@ -178,7 +178,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_5509",
     imageUrl: "/images/rx783-g3-gundam-ver30-base-limited.jpg",
-    tags: ["Gundam", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "Gundam Base限定", "有盒裝", "聯邦軍"],
+    tags: ["Gundam", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "Gundam Base限定", "聯邦軍"],
     description: "《機動戰士鋼彈》（1979）中宇宙世紀地球聯邦軍所開發的初期量產型試作モビルスーツ（MS）RX-78 鋼彈第三號機，俗稱「G-3 Gundam」。G-3 是三架試作機中以「耐磁塗裝（磁力無效塗裝）」為特徵的特殊規格機，外裝塗裝以低調的灰白調為主，有別於一號機（RX-78-1）與二號機（RX-78-2）的標準紅白藍配色，因此在眾多鋼彈模型版本中獨具辨識度。\n\n此版本採用 MG Ver.3.0 骨架——這是截至目前 RX-78 系列 MG 最新世代的骨架規格，具備極為精密的全身關節構造（包括手指各節可動、腳掌踝關節自由傾斜等），並徹底重製了內部骨架造型，即使不裝外裝甲板，骨架本身也完整呈現 RX-78 的機體輪廓。外裝甲板則採用帶有金屬光澤的珍珠灰塗裝，搭配 THE GUNDAM BASE（鋼彈基地旗艦店）限定的專屬水貼，是正統派鋼彈 MG 模型中的高規格珍藏版本。",
     reviews: [],
     youtube: [
