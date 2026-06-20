@@ -463,7 +463,18 @@ export const collection: CollectibleItem[] = [
     tags: ["Macross", "VF-1D", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》（1982）中以雙座教練型登場的 VF-1D 女武神，與同款機體改裝的「Fan Racer」賽車形態同捆的 DX CHOGOKIN 魂ウェブ商店限定組合。VF-1D 是系列正規版中唯一的雙座型，此組合附帶兩架不同配置，可分別重現訓練場景與競速形態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【超時空要塞マクロス】DX超合金 VF-1D バルキリー＆ファン・レーサー ヲタファの変形レビュー",
+        url: "https://www.youtube.com/watch?v=0-lygy8xwZA",
+        lang: "ja",
+      },
+      {
+        title: "【マクロス玩具レビュー】DX超合金 VF-1D バルキリー & ファンレーサー",
+        url: "https://www.youtube.com/watch?v=lFHkMx3oFqk",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf1j-armored-hikaru",
@@ -508,7 +519,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Macross", "VF-1A", "Angel Birds", "特別塗裝", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中統合軍飛行表演隊「Angel Birds」的專屬塗裝版 VF-1A 女武神，魂ウェブ商店限定。全機採用藍白為主調的表演塗裝，有別於作戰機塗色，是 DX CHOGOKIN VF-1 系列中視覺最清爽亮眼的特別版。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【DX超合金 VF-1A バルキリー エンジェルバーズ】ヲタファの超時空要塞マクロスレビュー / MACROSS DX Chogokin VF-1A Valkyrie Angel Birds",
+        url: "https://www.youtube.com/watch?v=FBtBkTrLTX0",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf1j-hikaru-store-limited",
@@ -525,7 +542,18 @@ export const collection: CollectibleItem[] = [
     tags: ["Macross", "VF-1J", "DX Chogokin", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
     description: "《超時空要塞 Macross》主角一条輝機 VF-1J 女武神的 TAMASHII STORE 限定版，在標準版基礎上採用特別細緻的塗裝規格，配件更為完整。Fighter/GERWALK/Battroid 三型態完全可變，是 VF-1J Hikaru 機最精緻的 DX 版本。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【比較したら結構違う！】DX超合金 VF-1J バルキリー（一条輝機）-Store Limited Edition ヲタファのレビュー",
+        url: "https://www.youtube.com/watch?v=IXoqw2ZQk28",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-1J バルキリー（一条輝機）-Store Limited Edition レビュー",
+        url: "https://www.youtube.com/watch?v=JiWliNCq3ks",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vt1-super-ostrich",
