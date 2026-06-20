@@ -1046,6 +1046,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.youtube.com/watch?v=UQ-HfcvzP_w",
         lang: "ja",
       },
+      {
+        title: "【マクロス玩具レビュー】戻し変形！DX超合金 VF-31AX カイロスプラス（ミラージュ機）Part 2",
+        url: "https://www.youtube.com/watch?v=UV5ltovX7B4",
+        lang: "ja",
+      },
     ],
   },
   {
@@ -1205,6 +1210,11 @@ export const collection: CollectibleItem[] = [
     description: "《劇場版 Macross Delta》敵軍 Windermerean 皇家騎士團的反派機 Sv-262Hs Draken III（Bogue Con-Vaart 機），深紅金色的歐式塗裝與有別於 VF 系列的異型機設計，是整個 Delta 系列中最具個性的機體之一。",
     reviews: [],
     youtube: [
+      {
+        title: "【最速開封】萬代DX超合金 玫瑰金的龍三？SV262Hs【超時空要塞△】",
+        url: "https://www.youtube.com/watch?v=MZ28BIBWil4",
+        lang: "zh",
+      },
       {
         title: "【マクロス玩具レビュー】DX超合金 劇場版 Sv-262Hs ドラケンⅢ（ボーグ・コンファールト機）Part 1",
         url: "https://www.youtube.com/watch?v=-2TkX1VAu00",
