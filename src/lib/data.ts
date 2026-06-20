@@ -264,6 +264,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "「爆玩具」GFFMC 新機動戰記高達W Endless Waltz Wing Gundam Zero Rebellion TOYSTV Review",
+        url: "https://www.youtube.com/watch?v=jWmBnW3vgVE",
+        lang: "zh",
+      },
+      {
         title: "色より武装が凄い！ウイングガンダムゼロリベリオン！【GFFメタルコンポジットレビュー】",
         url: "https://www.youtube.com/watch?v=xA7jCZ5EpNY",
         lang: "ja",
@@ -465,6 +470,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "全靠配件拯救銷量了，萬代DX超合金 VF-1D 開箱試玩",
+        url: "https://www.youtube.com/watch?v=HYO1M9ZjLF0",
+        lang: "zh",
+      },
+      {
         title: "【超時空要塞マクロス】DX超合金 VF-1D バルキリー＆ファン・レーサー ヲタファの変形レビュー",
         url: "https://www.youtube.com/watch?v=0-lygy8xwZA",
         lang: "ja",
@@ -492,6 +502,16 @@ export const collection: CollectibleItem[] = [
     description: "《超時空要塞 Macross》主角一条輝（Hikaru Ichijo）機 VF-1J 加裝全套戰鬥裝甲（ARMORED）的 DX CHOGOKIN 版本。裝甲套件大幅增加了機體的攻防能力，外觀更具壓迫感，是 VF-1 系列中視覺衝擊最強烈的配置之一。",
     reviews: [],
     youtube: [
+      {
+        title: "初代火力怪獸！萬代DX超合金 VF-1J+AP裝甲 開箱試玩【超時空要塞】",
+        url: "https://www.youtube.com/watch?v=f8HMYBwOXUM",
+        lang: "zh",
+      },
+      {
+        title: "【玩具】DX超合金 VF-1J Armored Parts Set 徹底介紹 Full Review",
+        url: "https://www.youtube.com/watch?v=3PVw2p7zSOY",
+        lang: "zh",
+      },
       {
         title: "【マクロス玩具レビュー】DX超合金 VF-1J アーマードバルキリー",
         url: "https://www.youtube.com/watch?v=_i7AHfEP2As",
@@ -581,6 +601,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.youtube.com/watch?v=92vUE-FpdTI",
         lang: "en",
       },
+      {
+        title: "【マクロス玩具レビュー】 輝・未沙 編！ DX超合金 VT-1 スーパーオストリッチ ／ VT-1 SUPER OSTRICH （Part 2）",
+        url: "https://www.youtube.com/watch?v=OxxpGPaXyW8",
+        lang: "ja",
+      },
     ],
   },
 
@@ -601,6 +626,16 @@ export const collection: CollectibleItem[] = [
     description: "《Macross Plus》（1994）中 Guld Goa Bowman 駕駛的次世代試驗可變戰機 YF-21，TAMASHII NATIONS DX CHOGOKIN 版本。採用腦波控制系統（BCS）設計的未來感三角翼造型，Fighter/GERWALK/Battroid 三型態可完全切換，以現代 DX 標準精確重現這架 Macross Plus 的傳奇機體。",
     reviews: [],
     youtube: [
+      {
+        title: "終於來了！激動到小手顫抖！萬代DX超合金 YF-21 開箱試玩",
+        url: "https://www.youtube.com/watch?v=RgyM-9bMYc0",
+        lang: "zh",
+      },
+      {
+        title: "等足幾年終於到手｜DX超合金 Macross Plus YF-21 開箱",
+        url: "https://www.youtube.com/watch?v=3jEpEQNjG-U",
+        lang: "zh",
+      },
       {
         title: "【マクロス玩具レビュー】賛否ありそう？ DX超合金 YF-21（GULD GOR BOWMAN USE）開封レビュー",
         url: "https://www.youtube.com/watch?v=QLg6rZ4HS1w",
@@ -632,6 +667,16 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "封印數十年終於解禁！超時空要塞 VF-25 彌賽亞女武神【玩具人玩玩具】DX超合金 MACROSS VF-25 WORLDWIDE Anniv.",
+        url: "https://www.youtube.com/watch?v=q_Ii93ebngY",
+        lang: "zh",
+      },
+      {
+        title: "這螺絲都是金子做的？萬代DX超合金 VF-25 走向全球 開箱試玩",
+        url: "https://www.youtube.com/watch?v=eZlnlM4pVSM",
+        lang: "zh",
+      },
+      {
         title: "【マクロス世界進出記念！】DX超合金 VF-25メサイアバルキリー WORLDWIDE Anniv. ヲタファのレビュー",
         url: "https://www.youtube.com/watch?v=b7YcRM8qF8E",
         lang: "ja",
@@ -654,6 +699,16 @@ export const collection: CollectibleItem[] = [
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）機 VF-25F 加裝 Super Pack（超音速噴射背包）形態的 REVIVAL 復刻版。此款對應造型與塗裝均依據現行 DX CHOGOKIN 製造規格重新優化，整體可動性與零件精度較原版大幅提升。",
     reviews: [],
     youtube: [
+      {
+        title: "又一海景房再版！萬代DX超合金 VF-25F+SP背包 開箱試玩",
+        url: "https://www.youtube.com/watch?v=lBehvs1Phh0",
+        lang: "zh",
+      },
+      {
+        title: "【爆箱】DX超合金 VF-25F SUPER MESSIAH VALKYRIE (早乙女アルト機) REVIVAL VER. 超時空要塞Frontier",
+        url: "https://www.youtube.com/watch?v=ga3vwWTwpmY",
+        lang: "zh",
+      },
       {
         title: "DX超合金VF-25F スーパーメサイアバルキリー (早乙女アルト機) リバイバルVer. 丁寧にレビュー",
         url: "https://www.youtube.com/watch?v=218TTQss_Eo",
@@ -701,6 +756,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "同模換色都能出問題？萬代DX超合金 VF-25G+SP背包 開箱試玩",
+        url: "https://www.youtube.com/watch?v=hmMFNIpZCmc",
+        lang: "zh",
+      },
+      {
         title: "【マクロス玩具レビュー】DX超合金 VF-25G スーパーメサイアバルキリー（マイケル機）リバイバルVer.",
         url: "https://www.youtube.com/watch?v=JfmL-tkmaDY",
         lang: "ja",
@@ -728,6 +788,11 @@ export const collection: CollectibleItem[] = [
     description: "《Macross Frontier》小隊長 Ozma Lee 機 VF-25S（指揮官型，背部附四片額外水平翼）加裝全套戰鬥裝甲（ARMORED PACK）形態的 REVIVAL 版。Armored 配置是 VF-25 系列中攻擊力最強的形態，渾身布滿武裝艙門，整體份量感十足。",
     reviews: [],
     youtube: [
+      {
+        title: "十年等一回！萬代DX超合金 VF-25S+AP背包 開箱試玩",
+        url: "https://www.youtube.com/watch?v=tHCyAZJUbQs",
+        lang: "zh",
+      },
       {
         title: "【マクロス玩具レビュー】 DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）リバイバルVer.",
         url: "https://www.youtube.com/watch?v=ViOlLmgTqvM",
@@ -785,6 +850,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "【最速開封】一代神物的前世今生 DX超合金 YF-29 開箱試玩",
+        url: "https://www.youtube.com/watch?v=jS0r0T5k6OU",
+        lang: "zh",
+      },
+      {
         title: "【マクロス玩具レビュー】DX超合金 YF-29 デュランダルバルキリー（マクシミリアン・ジーナス機）",
         url: "https://www.youtube.com/watch?v=WIbcnS_g0vs",
         lang: "ja",
@@ -838,6 +908,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "【マクロス玩具レビュー】これでいいのか？ DX超合金 VF-17S ナイトメア ステルスバルキリー",
+        url: "https://www.youtube.com/watch?v=3CXf0MP3ZZk",
+        lang: "ja",
+      },
+      {
         title: "【マクロス玩具レビュー】DX超合金 VF-17S ナイトメア ステルスバルキリー",
         url: "https://www.youtube.com/watch?v=3CXf0MP3ZZk",
         lang: "ja",
@@ -865,6 +940,11 @@ export const collection: CollectibleItem[] = [
     description: "《Macross 7》中搖滾主唱 Nekki Basara（熱気バサラ）的座機 VF-19 Custom Excalibur（附大型揚聲器裝備），Bandai DX CHOGOKIN Special 版本。肩部巨型揚聲器單元可開閉，可重現 Basara 邊戰鬥邊唱歌的標誌性場景。附 Fire Valkyrie 形態轉換配件，是 Macross 7 DX 中最具特色的一件。",
     reviews: [],
     youtube: [
+      {
+        title: "30年前的飛機還能玩出新花樣！？萬代DX超合金 VF-19改 開箱試玩",
+        url: "https://www.youtube.com/watch?v=SL4ckbDjhMU",
+        lang: "zh",
+      },
       {
         title: "これが決定版！完全変形 ファイヤーバルキリー【DX超合金 VF-19改 バサラ機 マクロス7】ヲタファのレビュー",
         url: "https://www.youtube.com/watch?v=QX_yJY3SlMo",
@@ -923,6 +1003,11 @@ export const collection: CollectibleItem[] = [
     description: "《劇場版 Macross Delta》登場的強化型 VF-31AX Kairos-Plus（ハヤテ機）初回限定版，附更多配件與特別規格。VF-31AX 相較電視版 VF-31 採用全新骨架，強化了可動性與戰鬥性能，是 Delta 機體中技術層次最高的機型。",
     reviews: [],
     youtube: [
+      {
+        title: "量産機翻身做主角！萬代DX超合金 VF-31AX 開箱分享【超時空要塞△】",
+        url: "https://www.youtube.com/watch?v=LzMCTV_lL0k",
+        lang: "zh",
+      },
       {
         title: "【マクロスΔ】DX超合金 初回限定版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）劇場版マクロスΔ 絶対LIVE サンプルレビュー",
         url: "https://www.youtube.com/watch?v=-6_k1b8CBbo",
@@ -1093,6 +1178,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "【マクロスΔ 】DX超合金 VF-31J ジークフリード ハヤテ機 ヲタファの変形徹底レビュー / Macross Δ DX Chogokin VF-31J Siegfried",
+        url: "https://www.youtube.com/watch?v=HR3K3vQ-lk4",
+        lang: "ja",
+      },
+      {
         title: "DX CHOGOKIN VF-31J SUPERSIEGFRIED (HAYATE IMMELMANN USE) REVIVAL Ver. / MACROSS Delta",
         url: "https://www.youtube.com/watch?v=Evh2gb7bln8",
         lang: "en",
@@ -1142,6 +1232,12 @@ export const collection: CollectibleItem[] = [
     tags: ["Macross", "Macross Delta", "VF-31A", "Kairos", "10週年", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
     description: "為紀念《超時空要塞Δ》十週年發售的 DX CHOGOKIN VF-31A Kairos，重現劇中 Delta 小隊支援機（非個人識別機）的一般配色。Kairos 是 Macross Delta 宇宙中的量產型可變機，此 10th Anniversary 版本是 VF-31A 首次以一般配色形式發售，具有重要的周年紀念意義。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "真愛黨的春天！萬代DX超合金 VF-31A（10週年紀念版） 開箱試玩",
+        url: "https://www.youtube.com/watch?v=K5nTCEtIhuo",
+        lang: "zh",
+      },
+    ],
   },
 ]
