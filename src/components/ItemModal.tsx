@@ -71,17 +71,19 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
               <p className="text-sm text-zinc-300 leading-relaxed">{item.description}</p>
             </div>
 
-            <div>
-              <a
-                href={item.officialUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 text-sm text-indigo-400 hover:text-indigo-300 transition-colors"
-              >
-                <ExternalLink size={14} />
-                官方商品頁面
-              </a>
-            </div>
+            {item.officialUrl && (
+              <div>
+                <a
+                  href={item.officialUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 text-sm text-indigo-400 hover:text-indigo-300 transition-colors"
+                >
+                  <ExternalLink size={14} />
+                  官方商品頁面
+                </a>
+              </div>
+            )}
 
             {item.reviews.length > 0 && (
               <div>
