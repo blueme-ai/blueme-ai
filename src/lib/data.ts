@@ -1037,6 +1037,11 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
+        title: "日版 萬代DX超合金 VF-31AX KAIROS-PLUS 米拉洁機 超時空要塞 真實把玩評測",
+        url: "https://www.bilibili.com/video/BV1yS4y1b7Bb/",
+        lang: "zh",
+      },
+      {
         title: "【劇場版マクロスΔ絶対LIVE!!!!!!】DX超合金 VF-31AX カイロスプラス ミラージュ機 ヲタファのレビュー",
         url: "https://www.youtube.com/watch?v=FhyMTw8jdk8",
         lang: "ja",
