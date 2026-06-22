@@ -37,7 +37,7 @@ export const collection: CollectibleItem[] = [
     height: "約275mm（含傘及台座）",
     officialUrl: "https://www.goodsmile.com/zh/product/7068/Saber+Alter+%E5%92%8C%E6%9C%8Dver.",
     imageUrl: "/images/saber-alter-kimono.jpg",
-    tags: ["Fate", "Saber Alter", "和服", "1/7", "KADOKAWA", "Heaven's Feel"],
+    tags: ["Fate", "セイバーオルタ", "和服", "1/7", "KADOKAWA", "Heaven's Feel"],
     description: "Saber Alter（黑化的 Artoria Pendragon）以華麗和服姿態呈現的 1/7 比例完成品。原畫由武內崇繪製，最初刊登於《月刊Newtype》特刊，人物穿著帶有金色刺繡的黑色和服，左手撐開一把淺紫色油紙傘，姿態沉靜中透著不容逼近的王者氣場。\n\n服裝細節豐富——和服的絲質光澤、腰帶的立體浮雕花紋、袖口若隱若現的刺繡，均在 1/7 比例下精細重現。台座採用日式石燈籠造型，與整體和風意境融為一體。全高約 275mm（含傘及台座），是《Heaven's Feel》三部曲完結後最具話題性的衍生商品之一。此為原版 2024 年 1 月發售後的第二次再版，入手難度相對原版大幅降低。",
     reviews: [],
     youtube: [
@@ -66,7 +66,7 @@ export const collection: CollectibleItem[] = [
     height: "約230mm",
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054058129/",
     imageUrl: "/images/jeanne-alter-casual.jpg",
-    tags: ["FGO", "Fate/Grand Order", "Jeanne Alter", "黑聖女", "1/7", "Kotobukiya", "展示中", "新宿"],
+    tags: ["FGO", "Fate/Grand Order", "ジャンヌ〔オルタ〕", "黑聖女", "1/7", "Kotobukiya", "展示中", "新宿"],
     description: "《Fate/Grand Order》第一部第一章「異聞帶 I：新宿幻靈事件」的主角之一，黑化的聖女貞德（Jeanne d'Arc Alter）以日常便服形象登場的 1/7 比例完成品。\n\n人物穿著正面有拉鍊設計的黑色皮質迷你裙，搭配深色長靴與紅黑漸層的披風型外套，頭上帶有象徵 Avenger 職階的小型王冠。身體微微前傾、腳步向前踏出，一手叉腰、一手輕提、頭微微側傾的姿勢，同時展現少女的俏皮感與 Avenger 的銳利眼神。\n\n台座為充滿廢墟感的裂紋石板地面，重現新宿廢街背景。附可替換右手臂，可切換為持劍（勝利之劍 La Pucelle）的戰鬥姿勢。此款為初版 2019 年發售後 Kotobukiya 的再版。非 ArtFX J 系列，屬 Kotobukiya 一般 PVC 1/7 完成品線。",
     reviews: [],
     youtube: [
@@ -94,7 +94,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "P-Bandai 限定",
     officialUrl: "https://p-bandai.com/tw/item/A2302840001",
     imageUrl: "/images/mg-turn-a-gundam-moonlight-butterfly.jpg",
-    tags: ["Gundam", "∀ Gundam", "Turn A", "MG", "1/100", "Bandai", "P-Bandai限定"],
+    tags: ["ガンダム", "∀ Gundam", "∀ガンダム", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "富野由悠季監督 1999 年電視動畫《∀ Gundam》主角機 WD-M01 Turn A Gundam 的 MG 1/100 P-Bandai 限定特別版，主打「月光蝶（Moonlight Butterfly）」展開效果零件。\n\n月光蝶是 Turn A Gundam 潛藏的最終兵器：機體散放出無數奈米機器人形成絢爛的蝶翼光場，可以侵蝕並分解所有工業科技文明，是宇宙世紀（UC）所有鋼彈系列中公認殺傷範圍最廣的武裝之一。此版本特別附有大量透明效果零件，精細重現月光蝶展開瞬間的光翼形態，令整組完成後極具陳設觀賞價值。\n\n基礎骨架延續 MG Turn A 的精密結構，全身具備流暢可動性，除月光蝶零件外亦附有一般展示用姿勢的備用手型與武裝配件。此為 P-Bandai（Premium Bandai）限定商品，非一般通路販售。",
     reviews: [],
     youtube: [
@@ -122,7 +122,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年",
     officialUrl: "",
     imageUrl: "/images/macross-plus-yf21-yamato.jpg",
-    tags: ["Macross", "Macross Plus", "YF-21", "1/60", "YAMATO", "可變形", "絕版"],
+    tags: ["マクロス", "マクロスプラス", "YF-21", "1/60", "YAMATO", "可變形", "絕版"],
     description: "河森正治原案、菱田正和監督的 OVA 作品《Macross Plus》（1994）中由天才試驗飛行員 Guld Goa Bowman 駕駛的次世代可變戰機原型機 YF-21，由 YAMATO 以 1/60 比例製作的完全變形完成品。\n\nYF-21 在劇中是 Macross 宇宙中最具野心的機體設計之一——採用無操縱桿的腦波控制系統（BCS, Brain Computer System），令機體直接接受駕駛員的意念指令運動。外型上以大型三角翼搭配前置鴨翼，機首修長，充滿空氣動力學美感，與競爭機 YF-19 形成截然不同的設計哲學。\n\n此 YAMATO 1/60 版本支援 Fighter（戰鬥機）、GERWALK（半變形）、Battroid（人形）三型態完全切換，機身各面板、手臂收納、機首展開等機構均以精密塑膠件組成，是 Macross 比例模型中工業設計含量極高的一款。YAMATO 品牌已於 2013 年停業，現行市場流通量稀少，收藏與增值潛力兼具，是 Macross 模型收藏家必備的里程碑作品。",
     reviews: [
       {
@@ -156,7 +156,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年1月22日",
     officialUrl: "https://suisei-music.com/",
     imageUrl: "/images/suisei-shinsei-mokuroku-vinyl.jpg",
-    tags: ["星街すいせい", "Hoshimachi Suisei", "hololive", "黑膠", "Vinyl", "LP", "音樂", "專輯", "UNIVERSAL"],
+    tags: ["星街すいせい", "hololive", "黑膠", "LP", "音樂", "專輯", "UNIVERSAL"],
     description: "VTuber 界最具代表性的歌手之一、hololive 旗下的星街すいせい（Hoshimachi Suisei）第三張個人全長專輯《新星目録》的 Vinyl LP 黑膠盤版本（2LP）。\n\n《新星目録》意為「新星的目錄/星表」，承繼前作《Specter》（2023）的暗黑電子搖滾路線，進一步拓展至更寬廣的流行曲風，收錄包括深受玩家喜愛的〈Bibbidiba〉、與製作人 Taku Inoue 合作的高能電音曲目、以及個人色彩最濃厚的抒情創作，是她音樂生涯中最全面的一次集結。\n\n封面由長期配合的插畫師繪製，以深邃宇宙藍為主調，すいせい的角色站於散落繽紛花瓣的場景中，呼應「彗星 × 新星」的視覺主軸。黑膠盤採 2LP 格式，音質與觸感均遠勝一般 CD 版本，對於同時身為 Suisei 粉絲與黑膠收藏者的樂迷而言極具紀念意義。",
     reviews: [],
     youtube: [
@@ -184,7 +184,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_5509",
     imageUrl: "/images/rx783-g3-gundam-ver30-base-limited.jpg",
-    tags: ["Gundam", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "Gundam Base限定", "聯邦軍"],
+    tags: ["ガンダム", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "ガンダムベース限定", "聯邦軍"],
     description: "《機動戰士鋼彈》（1979）中宇宙世紀地球聯邦軍所開發的初期量產型試作モビルスーツ（MS）RX-78 鋼彈第三號機，俗稱「G-3 Gundam」。G-3 是三架試作機中以「耐磁塗裝（磁力無效塗裝）」為特徵的特殊規格機，外裝塗裝以低調的灰白調為主，有別於一號機（RX-78-1）與二號機（RX-78-2）的標準紅白藍配色，因此在眾多鋼彈模型版本中獨具辨識度。\n\n此版本採用 MG Ver.3.0 骨架——這是截至目前 RX-78 系列 MG 最新世代的骨架規格，具備極為精密的全身關節構造（包括手指各節可動、腳掌踝關節自由傾斜等），並徹底重製了內部骨架造型，即使不裝外裝甲板，骨架本身也完整呈現 RX-78 的機體輪廓。外裝甲板則採用帶有金屬光澤的珍珠灰塗裝，搭配 THE GUNDAM BASE（鋼彈基地旗艦店）限定的專屬水貼，是正統派鋼彈 MG 模型中的高規格珍藏版本。",
     reviews: [],
     youtube: [
@@ -229,7 +229,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年（TAMASHII NATION 2025 活動限定）",
     officialUrl: "https://p-bandai.com/tw/item/A2785243001",
     imageUrl: "/images/metal-build-providence-climax-battle.jpg",
-    tags: ["Gundam SEED", "Providence", "天帝鋼彈", "METAL BUILD", "Bandai", "合金", "魂展限定"],
+    tags: ["Gundam SEED", "プロヴィデンスガンダム", "天帝鋼彈", "METAL BUILD", "Bandai", "合金", "魂展限定"],
     description: "《機動戰士鋼彈 SEED》（2002）終盤登場的最強 ZAFT 試驗型 MS、由 Rau Le Creuset 駕駛的 GAT-X131 Providence Gundam，以 Bandai Namco TAMASHII NATIONS 的頂級完成品品牌「METAL BUILD」打造的 CLIMAX BATTLE Ver.，為 TAMASHII NATION 2025 活動限定商品。\n\nProvidence Gundam 最大的設計特色是其掛載於背部的大型 DRAGOON System（ドラグーン・システム）——這是一套可分離飛行的全方位射擊兵器群，由機動可動砲台組成，可對敵方展開立體全向射擊，是鋼彈 SEED 宇宙中最具威壓感的武裝之一。CLIMAX BATTLE Ver. 充分再現了 DRAGOON 全展開的極限形態，大量合金壓鑄零件賦予機體沉甸甸的重量感，配合精緻塗裝，視覺衝擊力十足。",
     reviews: [],
     youtube: [
@@ -292,7 +292,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年8月",
     officialUrl: "https://tamashiiweb.com/item/15365/",
     imageUrl: "/images/metal-build-burning-gundam-second.jpg",
-    tags: ["G Gundam", "神鋼彈", "Burning Gundam", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
+    tags: ["Gガンダム", "神鋼彈", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
     description: "《機動武闘傳 G 鋼彈》（1994）主角機 GF13-017NJ 神鋼彈（英文版稱 Burning Gundam）的 METAL BUILD 完成品，附帶第二形態「弐式（Second）」替換零件。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現劇中「God Finger」最終決戰形態，合金壓鑄骨架帶來紮實的重量感。",
     reviews: [],
     youtube: [
@@ -320,7 +320,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（METAL BUILD FESTIVAL 2024 活動限定）",
     officialUrl: "https://tamashiiweb.com/item/14987/",
     imageUrl: "/images/metal-build-strike-freedom-festival2024.jpg",
-    tags: ["Gundam SEED", "Strike Freedom", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
+    tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
     description: "《機動戰士鋼彈 SEED DESTINY》主角機 ZGMF-X20A 強攻自由鋼彈的 METAL BUILD FESTIVAL 2024 活動限定特仕版。相較標準版進一步強化配色與金屬光澤質感，全展開的羽翼砲（Super Dragoon）形態是整件作品最壯觀的展示配置，彰顯 SEED 宇宙最強機體的威壓。",
     reviews: [],
     youtube: [
@@ -348,7 +348,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（METAL BUILD FESTIVAL 2024 活動限定）",
     officialUrl: "https://tamashiiweb.com/item/14988/",
     imageUrl: "/images/metal-build-destiny-gundam-full-festival2024.jpg",
-    tags: ["Gundam SEED", "Destiny", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
+    tags: ["Gundam SEED", "デスティニー", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
     description: "《機動戰士鋼彈 SEED DESTINY》反派主角機 ZGMF-X42S 命運鋼彈的 METAL BUILD FESTIVAL 2024 活動限定版「Full Package」，附全套武裝配件：掌槍、光束迴旋鏢（Wings of Light）展開形態、高能量長程狙擊砲等。光翼全展配置重現劇中最具視覺衝擊力的戰鬥形態。",
     reviews: [],
     youtube: [
@@ -376,7 +376,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15065/",
     imageUrl: "/images/metal-build-strike-freedom-wing-of-light-repackage.jpg",
-    tags: ["Gundam SEED", "Strike Freedom", "METAL BUILD", "Bandai", "追加配件", "option-parts"],
+    tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "追加配件", "オプションパーツ"],
     description: "METAL BUILD 強攻自由鋼彈專用追加零件「光の翼（Wings of Light）」的 Re:PACKAGE 重新包裝版，附帶展開形態的大型光翼效果零件，可裝設於 METAL BUILD 強攻自由機體使其重現劇中最終決戰的全力形態。",
     reviews: [],
     youtube: [],
@@ -393,7 +393,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "P-Bandai 限定",
     officialUrl: "https://p-bandai.com/tw/item/AZ005366002",
     imageUrl: "/images/mgex-strike-freedom-mechanical-clear.jpg",
-    tags: ["Gundam SEED", "Strike Freedom", "MGEX", "1/100", "Gunpla", "透明色", "P-Bandai限定"],
+    tags: ["Gundam SEED", "ストライクフリーダム", "MGEX", "1/100", "ガンプラ", "透明色", "P-Bandai限定"],
     description: "Bandai 頂規 MGEX（Master Grade Extreme）強攻自由鋼彈的 P-Bandai 限定「MECHANICAL CLEAR」配色版。MGEX 是 MG 骨架再進化的新世代規格，機體內部的 LED 骨架及 Super Dragoon 系統在透明外裝甲板下完整可視，全透明外裝配合特殊染色展現有別於一般配色版本的視覺魅力。",
     reviews: [],
     youtube: [],
@@ -410,7 +410,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/13995/",
     imageUrl: "/images/chogokin-rx93ff-nu-gundam.jpg",
-    tags: ["Gundam", "Nu Gundam", "新型鋼彈", "CHOGOKIN", "超合金", "Bandai", "合金"],
+    tags: ["ガンダム", "νガンダム", "新型鋼彈", "CHOGOKIN", "超合金", "Bandai", "合金"],
     description: "《機動戰士鋼彈：逆襲的夏亞》（1988 劇場版）阿姆羅·雷最後的座機 RX-93ff νGundam，以 TAMASHII NATIONS 的 CHOGOKIN（超合金）品牌製作的完成品。「ff」特別版配色帶有全球巡迴展覽「THE GUNDAM BASE」限定色調，機體搭載象徵性的 Fin Funnel（鰭狀助推器）全展開形態，是 UC 鋼彈迷不可錯過的 CHOGOKIN 高級完成品。",
     reviews: [],
     youtube: [
@@ -440,7 +440,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15164/",
     imageUrl: "/images/soc-gx116-pliers-gaogaigar.jpg",
-    tags: ["GaoGaiGar", "勇者王", "SOC", "SOUL OF CHOGOKIN", "超合金", "Bandai", "合金"],
+    tags: ["ガオガイガー", "勇者王", "SOC", "SOUL OF CHOGOKIN", "超合金", "Bandai", "合金"],
     description: "《勇者王 GaoGaiGar》（1997）中協助主角 GaoGaiGar 執行「勇氣合體」的支援機 PLIERS（プライヤーズ）的 SOUL OF CHOGOKIN GX-116 完成品。SOC 系列是 TAMASHII NATIONS 最高規格的超合金玩具品牌，充分再現 PLIERS 的機械細節與合體功能，配合其他 SOC GaoGaiGar 系列零件可進行聯合展示。",
     reviews: [],
     youtube: [
@@ -465,7 +465,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年7月",
     officialUrl: "https://tamashiiweb.com/item/13540/",
     imageUrl: "/images/dx-chogokin-vf1d-fan-racer.jpg",
-    tags: ["Macross", "VF-1D", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》（1982）中以雙座教練型登場的 VF-1D 女武神，與同款機體改裝的「Fan Racer」賽車形態同捆的 DX CHOGOKIN 魂ウェブ商店限定組合。VF-1D 是系列正規版中唯一的雙座型，此組合附帶兩架不同配置，可分別重現訓練場景與競速形態。",
     reviews: [],
     youtube: [
@@ -498,7 +498,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年9月",
     officialUrl: "https://tamashiiweb.com/item/13603/",
     imageUrl: "/images/dx-chogokin-vf1j-armored-hikaru.jpg",
-    tags: ["Macross", "VF-1J", "Armored", "裝甲型", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VF-1J", "アーマード", "裝甲型", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》主角一条輝（Hikaru Ichijo）機 VF-1J 加裝全套戰鬥裝甲（ARMORED）的 DX CHOGOKIN 版本。裝甲套件大幅增加了機體的攻防能力，外觀更具壓迫感，是 VF-1 系列中視覺衝擊最強烈的配置之一。",
     reviews: [],
     youtube: [
@@ -536,7 +536,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月",
     officialUrl: "https://tamashiiweb.com/item/14111/",
     imageUrl: "/images/dx-chogokin-vf1a-angel-birds.jpg",
-    tags: ["Macross", "VF-1A", "Angel Birds", "特別塗裝", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中統合軍飛行表演隊「Angel Birds」的專屬塗裝版 VF-1A 女武神，魂ウェブ商店限定。全機採用藍白為主調的表演塗裝，有別於作戰機塗色，是 DX CHOGOKIN VF-1 系列中視覺最清爽亮眼的特別版。",
     reviews: [],
     youtube: [
@@ -559,7 +559,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/15096/",
     imageUrl: "/images/dx-chogokin-vf1j-hikaru-store-limited.jpg",
-    tags: ["Macross", "VF-1J", "DX Chogokin", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
+    tags: ["マクロス", "VF-1J", "DX超合金", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
     description: "《超時空要塞 Macross》主角一条輝機 VF-1J 女武神的 TAMASHII STORE 限定版，在標準版基礎上採用特別細緻的塗裝規格，配件更為完整。Fighter/GERWALK/Battroid 三型態完全可變，是 VF-1J Hikaru 機最精緻的 DX 版本。",
     reviews: [],
     youtube: [
@@ -587,7 +587,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年7月",
     officialUrl: "https://tamashiiweb.com/item/14813/",
     imageUrl: "/images/dx-chogokin-vt1-super-ostrich.jpg",
-    tags: ["Macross", "VT-1", "Super Ostrich", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中非戰鬥改裝型可變形戰機 VT-1「Super Ostrich」的 DX CHOGOKIN 完成品，魂ウェブ商店限定。VT-1 是 VF-1 的民間/訓練用改裝版本，外觀呈現有別於軍用型的獨特設計，是 Macross 世界觀中最具生活感的機體之一。",
     reviews: [],
     youtube: [
@@ -622,7 +622,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14740/",
     imageUrl: "/images/dx-chogokin-yf21-guld.jpg",
-    tags: ["Macross", "Macross Plus", "YF-21", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Plus》（1994）中 Guld Goa Bowman 駕駛的次世代試驗可變戰機 YF-21，TAMASHII NATIONS DX CHOGOKIN 版本。採用腦波控制系統（BCS）設計的未來感三角翼造型，Fighter/GERWALK/Battroid 三型態可完全切換，以現代 DX 標準精確重現這架 Macross Plus 的傳奇機體。",
     reviews: [],
     youtube: [
@@ -662,7 +662,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/13806/",
     imageUrl: "/images/dx-chogokin-vf25-worldwide-anniv.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25", "Worldwide Anniversary", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》（2008）主角機 VF-25 Messiah 的 Worldwide Anniversary 紀念版，特別塗裝配合全球周年活動設計，配件豐富。Fighter/GERWALK/Battroid 三型態可完全切換，是 Frontier 系列 DX 中具有特殊收藏意義的紀念版本。",
     reviews: [],
     youtube: [
@@ -695,7 +695,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/14151/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25F", "Super Messiah", "Alto", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）機 VF-25F 加裝 Super Pack（超音速噴射背包）形態的 REVIVAL 復刻版。此款對應造型與塗裝均依據現行 DX CHOGOKIN 製造規格重新優化，整體可動性與零件精度較原版大幅提升。",
     reviews: [],
     youtube: [
@@ -728,7 +728,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15185/",
     imageUrl: "/images/dx-chogokin-vf25f-tornado-messiah-alto-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25F", "Tornado", "Alto", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "トルネード", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Frontier》特有的 Tornado Pack 強化形態 VF-25F，以超高速突入配置搭配前段機首展開的 Tornado 推進器再現劇場版最終決戰場面。REVIVAL 版依現行 DX 規格重新調整模具，可動性與配件精度均優於初版。",
     reviews: [],
     youtube: [
@@ -751,7 +751,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14354/",
     imageUrl: "/images/dx-chogokin-vf25g-super-messiah-michael-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25G", "Super Messiah", "Michael", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》狙擊手 Michael Blanc 機 VF-25G（狙擊型，配備長槍管）加裝 Super Pack 形態的 REVIVAL 版。VF-25G 的機首改裝為大型感測器頭以支援長程狙擊，外觀有別於其他 VF-25 系列，是 Frontier 小隊中最具特色的機體之一。",
     reviews: [],
     youtube: [
@@ -784,7 +784,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/14997/",
     imageUrl: "/images/dx-chogokin-vf25s-armored-messiah-ozma-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25S", "Armored", "Ozma", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25S", "アーマード", "オズマ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》小隊長 Ozma Lee 機 VF-25S（指揮官型，背部附四片額外水平翼）加裝全套戰鬥裝甲（ARMORED PACK）形態的 REVIVAL 版。Armored 配置是 VF-25 系列中攻擊力最強的形態，渾身布滿武裝艙門，整體份量感十足。",
     reviews: [],
     youtube: [
@@ -817,7 +817,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14559/",
     imageUrl: "/images/dx-chogokin-vf171ex-armored-alto-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-171EX", "Armored", "Nightmare", "Alto", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Frontier：The Wings of Goodbye》中早乙女アルト搭乘的 VF-171EX（夢魘改良型）加裝全套裝甲形態的 REVIVAL 版。VF-171EX Armored 是 Alto 在劇場版決戰中的最終機體，大型裝甲外殼賦予機體強烈的重裝壓迫感。",
     reviews: [],
     youtube: [
@@ -845,7 +845,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/13952/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-max-full-set.jpg",
-    tags: ["Macross", "Macross Frontier", "Macross Delta", "YF-29", "Durandal", "Max Jenius", "Full Set", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta 絕對 LIVE!!!!!!》中傳奇 Ace 飛行員 Maximilian Jenius（Max 素人）搭乘的次世代高性能可變機 YF-29 Durandal 的 Full Set Pack 版本，附全套 Super Part 追加零件。YF-29 是 Macross 宇宙中性能最頂尖的可變機之一，由《Frontier》帶入《Delta》宇宙橋接劇情。",
     reviews: [],
     youtube: [
@@ -878,7 +878,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15256/",
     imageUrl: "/images/dx-chogokin-vf27-sp-lucifer.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-27", "Lucifer", "Brera", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-27", "スーパールシファー", "ブレラ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》反派兼最終盟友 Brera Sterne（布雷拉·斯特恩）機 VF-27γ Super Lucifer 的 REVIVAL 版本。深紅色的塗裝配合流線型機身設計，是 Frontier 宇宙中最帥氣的機體之一；Super Pack 追加配件讓整體作戰能力與視覺份量感再度升級。",
     reviews: [],
     youtube: [
@@ -903,7 +903,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年",
     officialUrl: "https://tamashiiweb.com/item/15495/",
     imageUrl: "/images/dx-chogokin-vf17s-nightmare-stealth.jpg",
-    tags: ["Macross", "Macross 7", "VF-17S", "Nightmare", "Stealth", "Gamlin", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross 7》（1994）中 Diamond Force 小隊長木崎ガムリン（Gamlin Kizaki）機 VF-17S 夢魘隱形女武神，Bandai DX CHOGOKIN 第一款 Macross 7 機體。VF-17 的隱形戰機設計強調匿蹤性，外型與其他 VF 大相徑庭，是 DX CHOGOKIN 系列中最期待已久的新作之一。",
     reviews: [],
     youtube: [
@@ -936,7 +936,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15361/",
     imageUrl: "/images/dx-chogokin-vf19-custom-excalibur-basara.jpg",
-    tags: ["Macross", "Macross 7", "VF-19", "Excalibur", "Basara", "熱気バサラ", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロス7", "VF-19", "エクスカリバー", "熱気バサラ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross 7》中搖滾主唱 Nekki Basara（熱気バサラ）的座機 VF-19 Custom Excalibur（附大型揚聲器裝備），Bandai DX CHOGOKIN Special 版本。肩部巨型揚聲器單元可開閉，可重現 Basara 邊戰鬥邊唱歌的標誌性場景。附 Fire Valkyrie 形態轉換配件，是 Macross 7 DX 中最具特色的一件。",
     reviews: [],
     youtube: [
@@ -971,7 +971,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月",
     officialUrl: "https://tamashiiweb.com/item/13624/",
     imageUrl: "/images/dx-chogokin-vf31j-movie-fold-unit.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31J", "Siegfried", "Hayate", "Fold Projection", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "フォールドプロジェクション", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31J 齊格弗里德，附帶劇場版特有的「摺疊投影裝置（Fold Projection Unit）」配件。此選配裝置大幅改變了機體外型，是劇場版與電視版最明顯的機體差異之一。",
     reviews: [],
     youtube: [
@@ -999,7 +999,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13691/",
     imageUrl: "/images/dx-chogokin-vf31ax-first-limited-hayate.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Kairos-Plus", "Hayate", "FIRST LIMITED", "初回限定", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》登場的強化型 VF-31AX Kairos-Plus（ハヤテ機）初回限定版，附更多配件與特別規格。VF-31AX 相較電視版 VF-31 採用全新骨架，強化了可動性與戰鬥性能，是 Delta 機體中技術層次最高的機型。",
     reviews: [],
     youtube: [
@@ -1032,7 +1032,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13759/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Kairos-Plus", "Mirage", "ジーナス", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》中女主角 Mirage Farina Jenius（傳奇 Ace Max Jenius 的孫女）機 VF-31AX Kairos-Plus，獨特的翠綠色塗裝有別於 Hayate 機，是 Delta 小隊中辨識度最高的機體。",
     reviews: [],
     youtube: [
@@ -1070,7 +1070,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/13888/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-parts-set.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Super Parts", "追加配件", "option-parts", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的魂ウェブ限定超音速追加背包（Super Parts），裝設後大幅提升機體航程與加速性能，外觀也更具強度感。為配合本體另外販售的追加配件組。",
     reviews: [],
     youtube: [
@@ -1093,7 +1093,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/13935/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-borg.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Kairos-Plus", "Borg", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》Delta 小隊成員 Borg Confert 機 VF-31AX Kairos-Plus，魂ウェブ限定。相較 Hayate 機與 Mirage 機，Borg 機採用不同個人識別塗裝，是 Delta 小隊全員 VF-31AX 收藏中不可缺少的一件。",
     reviews: [],
     youtube: [
@@ -1121,7 +1121,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/14072/",
     imageUrl: "/images/dx-chogokin-vf31ax-armored-parts-set.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Armored Parts", "追加配件", "option-parts", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的追加裝甲套件，裝設後讓機體呈現全副武裝的 ARMORED 形態，大幅強化防禦力與砲擊火力。配合本體使用可再現劇場版決戰場景中的重裝備型態。",
     reviews: [],
     youtube: [],
@@ -1138,7 +1138,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14235/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-ghost-set.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Super Ghost", "追加配件", "option-parts", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーゴースト", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的「Super Ghost」無人機追加組件，可掛載於機體翼端，再現 Macross 宇宙中的無人攻擊支援無人機戰術。",
     reviews: [],
     youtube: [],
@@ -1155,7 +1155,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/14281/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-hayate.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31AX", "Kairos-Plus", "Hayate", "Movie", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "劇場版", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31AX Kairos-Plus 標準版，以現行 DX CHOGOKIN 規格呈現 Hayate 機白藍配色的標誌性外觀，Fighter/GERWALK/Battroid 三型態完全切換。",
     reviews: [],
     youtube: [
@@ -1188,7 +1188,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/14876/",
     imageUrl: "/images/dx-chogokin-vf31j-supersiegfried-hayate-revival.jpg",
-    tags: ["Macross", "Macross Delta", "VF-31J", "Supersiegfried", "Hayate", "REVIVAL", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta》電視版主角 Hayate 機 VF-31J 加裝 Super Pack 形態「Super Siegfried」的 REVIVAL 版本，依現行 DX 規格重製模具與塗裝，可動性大幅提升。Super Pack 的戰略轟炸配件讓機體整體份量感倍增。",
     reviews: [],
     youtube: [
@@ -1216,7 +1216,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/15103/",
     imageUrl: "/images/dx-chogokin-sv262hs-draken3.jpg",
-    tags: ["Macross", "Macross Delta", "Sv-262", "Draken III", "Windermerean", "Bogue", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》敵軍 Windermerean 皇家騎士團的反派機 Sv-262Hs Draken III（Bogue Con-Vaart 機），深紅金色的歐式塗裝與有別於 VF 系列的異型機設計，是整個 Delta 系列中最具個性的機體之一。",
     reviews: [],
     youtube: [
@@ -1249,7 +1249,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15635/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
-    tags: ["Macross", "Macross Delta", "VF-31A", "Kairos", "10週年", "DX Chogokin", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10週年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "為紀念《超時空要塞Δ》十週年發售的 DX CHOGOKIN VF-31A Kairos，重現劇中 Delta 小隊支援機（非個人識別機）的一般配色。Kairos 是 Macross Delta 宇宙中的量產型可變機，此 10th Anniversary 版本是 VF-31A 首次以一般配色形式發售，具有重要的周年紀念意義。",
     reviews: [],
     youtube: [
@@ -1272,7 +1272,7 @@ export const collection: CollectibleItem[] = [
     height: "約30cm",
     officialUrl: "https://giantoy.com/products/1-6-ninja-cat-n001-female-fighter-action-figure",
     imageUrl: "/images/ninja-cat-n001.jpg",
-    tags: ["KOF", "King of Fighters", "Mai Shiranui", "不知火舞", "1/6", "Ninja Cat", "可動", "軟膠", "SNK", "NIC"],
+    tags: ["KOF", "King of Fighters", "不知火舞", "1/6", "Ninja Cat", "可動", "軟膠", "SNK", "NIC"],
     description: "Ninja Cat（忍貓）N001 是以《拳皇》系列女主角不知火舞為靈感的 1/6 可動人形，採用醫療級矽膠打造皮膚部件，配合不鏽鋼骨架提供流暢的動態姿勢調整。人偶附多組替換手部及道具，可重現原作中不知火舞的各種代表性忍術動作，是以高寫實風格演繹這位 SNK 人氣角色的收藏精品。",
     reviews: [],
     youtube: [
@@ -1296,7 +1296,7 @@ export const collection: CollectibleItem[] = [
     height: "約280mm",
     officialUrl: "https://www.hlj.com/1-6-scale-hapitopi-x-k-pring-dongtan-don-tank-painted-finished-figure-hpt80002",
     imageUrl: "/images/hapitopi-dongtan-kpring.jpg",
-    tags: ["Original Character", "DONGTAN", "Hapitopi", "K Pring", "1/6", "美少女", "中國品牌"],
+    tags: ["オリジナルキャラクター", "DONGTAN", "Hapitopi", "K Pring", "1/6", "美少女", "中國品牌"],
     description: "由中國人形廠商 Hapitopi 與熱門插畫師 K Pring 聯合企劃的原創角色《DONGTAN（東坦）》1/6 完成品，全高約 280mm。DONGTAN 以半透明薄紗長裙搭配精緻珠寶細節呈現，附贈伸舌表情臉及口罩臉替換配件，多樣化的配件組合讓作品更具互動趣味。",
     reviews: [],
     youtube: [],
@@ -1312,7 +1312,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024~2025年",
     officialUrl: "https://www.hpoi.net/hobby/96791",
     imageUrl: "/images/supernova-cifang-1-6.jpg",
-    tags: ["Original Character", "此方醬", "Super Nova", "1/6", "貓耳", "美少女", "中國品牌"],
+    tags: ["オリジナルキャラクター", "此方醬", "Super Nova", "1/6", "貓耳", "美少女", "中國品牌"],
     description: "Super Nova 出品的原創貓耳少女角色「此方醬」1/6 比例完成品，以兔女郎風格造型搭配俏皮貓耳呈現。Super Nova 為中國新興人形品牌，此方醬系列是其旗下頗具人氣的原創 IP 之一。",
     reviews: [],
     youtube: [],
@@ -1347,7 +1347,7 @@ export const collection: CollectibleItem[] = [
     height: "約400mm（含台座）",
     officialUrl: "https://www.sideshow.com/collectibles/the-king-of-fighters-mai-shiranui-bearpanda-914068",
     imageUrl: "/images/bearpanda-mai-shiranui-kof97.jpg",
-    tags: ["KOF", "King of Fighters", "Mai Shiranui", "不知火舞", "1/6", "BearPanda", "Biya", "SNK", "正版授權", "旗袍"],
+    tags: ["KOF", "King of Fighters", "不知火舞", "1/6", "BearPanda", "Biya", "SNK", "正版授權", "旗袍"],
     description: "由 BearPanda 與插畫師 Biya 聯名製作、SNK 正版授權的《拳皇 '97》不知火舞「紅裳舞 Ver.」1/6 固定姿勢人形，全高含台座約 400mm。以鮮豔紅色旗袍搭配金扇演繹不知火舞的傳統東洋美學，精緻布料質感與金色飾品細節在 1/6 比例下忠實呈現，是 BearPanda 旗下 SNK 授權系列的代表作之一。",
     reviews: [],
     youtube: [],
@@ -1363,7 +1363,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年",
     officialUrl: "https://www.lego.com/en-us/product/the-delorean-time-machine-21103",
     imageUrl: "/images/lego-21103-delorean.jpg",
-    tags: ["LEGO", "Back to the Future", "DeLorean", "積木", "CUUSOO", "LEGO Ideas", "絕版", "回到未來"],
+    tags: ["LEGO", "回到未來", "DeLorean", "積木", "CUUSOO", "LEGO Ideas", "絕版"],
     description: "LEGO CUUSOO（現 LEGO Ideas）第一波推出的《回到未來》DeLorean 時光機（Set 21103），401 個零件重現電影最具代表性的改裝 DeLorean DMC-12，附 Marty McFly 與 Doc Brown 兩個人偶，台座標記三部曲的經典時間點。2013 年發售後迅速絕版，目前二手市場全盒未開售價超過 $150 USD，是 LEGO Ideas 史上最具收藏與增值潛力的作品之一。",
     reviews: [],
     youtube: [],
@@ -1396,7 +1396,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年8月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5418/",
     imageUrl: "/images/mg-gundam-stormbringer-pf.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
+    tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列鋼彈風暴使者 P.F.（Phantom Fang），P-Bandai 限定。",
     reviews: [
       { title: "A KIT WITH A PEDIGREE! | MG Gundam Stormbringer P.F. UNBOXING & REVIEW [4K]", url: "https://www.youtube.com/watch?v=2siiknsaWYk", lang: "en" },
@@ -1417,7 +1417,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5505/",
     imageUrl: "/images/fm-boost-raider-gundam.jpg",
-    tags: ["Gunpla", "Full Mechanics", "Bandai", "SEED ECLIPSE", "高達模型", "P-Bandai", "可變形"],
+    tags: ["ガンプラ", "フルメカニクス", "Bandai", "SEED ECLIPSE", "高達模型", "P-Bandai", "可變形"],
     description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-XX370 Boost Raider Gundam，可變形至鳥翼狀 MA 形態，P-Bandai 限定。",
     reviews: [
       { title: "1/100 Full Mechanics Raider Gundam Review | GUNDAM SEED", url: "https://www.youtube.com/watch?v=c5TOd-NKalM", lang: "en" },
@@ -1437,7 +1437,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/re100-base-jabber-unicorn.jpg",
-    tags: ["Gunpla", "RE/100", "Bandai", "Gundam Unicorn", "高達模型", "飛行台"],
+    tags: ["ガンプラ", "RE/100", "Bandai", "Gundam Unicorn", "高達模型", "飛行台"],
     description: "Bandai Spirits RE/100 1/100《機動戰士鋼彈UC》TYPE-89 Base Jabber 飛行台（獨角獸版），可搭載 1/100 比例 MS 一同展示。",
     reviews: [
       { title: "P-Bandai RE/100 Type 89 Base Jabber [Unicorn Ver.] UNBOXING and Review", url: "https://www.youtube.com/watch?v=Jxy3kB3gBbg", lang: "en" },
@@ -1457,7 +1457,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-raijin-striker.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "SEED Freedom", "高達模型", "追加裝備", "ECLIPSE"],
+    tags: ["ガンプラ", "MG", "Bandai", "SEED Freedom", "高達模型", "追加裝備", "ECLIPSE"],
     description: "Bandai Spirits MG 1/100《SEED FREEDOM》MG Eclipse Gundam 専用追加武裝「雷神 Striker」擴充套件。",
     reviews: [
       { title: "P-Bandai MG Raijin Striker Pack Review | Gundam Seed Eclipse", url: "https://www.youtube.com/watch?v=540vm2e1guI", lang: "en" },
@@ -1478,7 +1478,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-lightning-striker.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "追加裝備", "Strike"],
+    tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "追加裝備", "ストライク"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》Aile Strike Gundam 専用追加武裝「Lightning Striker」擴充套件。",
     reviews: [
       { title: "P-Bandai Exclusive MG Lightning Strike Gundam Review", url: "https://www.youtube.com/watch?v=WNRyMnJ2Dso", lang: "en" },
@@ -1520,7 +1520,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-victory-gundam-verka.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "V鋼彈", "Ver.Ka", "高達模型", "分離合體"],
+    tags: ["ガンプラ", "MG", "Bandai", "V鋼彈", "Ver.Ka", "高達模型", "分離合體"],
     description: "Bandai Spirits MG 1/100《機動戰士V鋼彈》Ver.Ka LM-MS/V19 Victory Gundam，由 Hajime Katoki 監修設計，V Dash、Top/Bottom 分離形態完整再現。",
     reviews: [
       { title: "MG Ver.Ka ヴィクトリーガンダム LM312V04/06 VICTORY GUNDAM【ガンプラ塗装レビュー第27回】", url: "https://www.youtube.com/watch?v=6fMLYKKstjI", lang: "ja" },
@@ -1540,7 +1540,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-aegis-gundam.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "可變形", "ZAFT"],
+    tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "可變形", "ZAFT"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X303 Aegis Gundam，地球聯合 G 兵器，可變形至 MA 形態，ZAFT 奪取後由 Athrun Zala 駕駛。",
     reviews: [
       { title: "AEGIS Gundam MG - BANDAI Gundam SEED MASTERGRADE Model Kit UNBOX REVIEW", url: "https://www.youtube.com/watch?v=iEle5Z94ljI", lang: "en" },
@@ -1560,7 +1560,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年2月",
     officialUrl: "https://www.hlj.com/1-100-scale-mg-full-armor-zz-gundam-ver-ka-banh720269",
     imageUrl: "/images/mg-full-armor-zz-gundam-verka.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "ZZ鋼彈", "Ver.Ka", "高達模型", "全裝甲"],
+    tags: ["ガンプラ", "MG", "Bandai", "ZZ鋼彈", "Ver.Ka", "高達模型", "全裝甲"],
     description: "Bandai Spirits MG 1/100《機動戰士ZZ鋼彈》MSZ-010S Full Armor ZZ Gundam Ver.Ka，2026年 Katoki 監修全新版本，全裝甲型完整重現，可拆裝甲切換強化 ZZ 形態。",
     reviews: [
       { title: "MG Full Armor ZZ Gundam Ver.Ka Review!", url: "https://www.youtube.com/watch?v=2LeMEp5dqVI", lang: "en" },
@@ -1580,7 +1580,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-zaku2-j-ridden-custom.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "高達模型", "Zaku"],
+    tags: ["ガンプラ", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "高達模型", "ザク"],
     description: "Bandai Spirits MG 1/100 MS-06S 薩克II J.Ridden's Custom，吉翁公國精銳隊長機，個人塗裝版薩克，附豐富武器選擇。",
     reviews: [
       { title: "MG 1/100 Johnny Ridden's Zaku II Review", url: "https://www.youtube.com/watch?v=nj8ssjx-y3M", lang: "en" },
@@ -1600,7 +1600,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/fm-aile-calamity-gundam.jpg",
-    tags: ["Gunpla", "Full Mechanics", "Bandai", "SEED ECLIPSE", "高達模型", "地球聯合"],
+    tags: ["ガンプラ", "フルメカニクス", "Bandai", "SEED ECLIPSE", "高達模型", "地球聯合"],
     description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-X130 Aile Calamity Gundam，搭載 Aile Striker 的 Calamity 改裝型。",
     reviews: [
       { title: "Full Mechanics 1/100 Aile Calamity Gundam Review | GUNDAM SEED ECLIPSE", url: "https://www.youtube.com/watch?v=XvAfO5tN-i0", lang: "en" },
@@ -1620,7 +1620,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年（2024年再版）",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-impulse-gundam-blanche.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "SEED ASTRAY", "高達模型", "P-Bandai", "ZAFT", "Destiny Silhouette"],
+    tags: ["ガンプラ", "MG", "Bandai", "SEED ASTRAY", "高達模型", "P-Bandai", "ZAFT", "デスティニーシルエット"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED ASTRAY》ZGMF-X56S/ι Impulse Gundam Blanche，P-Bandai 限定，搭載 Destiny R Silhouette 及 Wolfsbane 大型遠程射擊炮。",
     reviews: [
       { title: "MG 1/100 Impulse Gundam Blanche Review - GUNDAM SEED ASTRAY", url: "https://www.youtube.com/watch?v=qDQrmy7KDks", lang: "en" },
@@ -1640,7 +1640,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-duel-gundam-assault-shroud.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "地球聯合"],
+    tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "地球聯合"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X102 Duel Gundam 加裝 Assault Shroud 追加甲冑，Yzak Joule 座機。",
     reviews: [
       { title: "MG Duel Gundam Assault Shroud UNBOXING", url: "https://www.youtube.com/watch?v=HjaQNrOEifc", lang: "en" },
@@ -1660,7 +1660,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年（多次再版）",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-aile-strike-gundam.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "SEED", "高達模型", "主角機", "Strike"],
+    tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "主角機", "ストライク"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X105 Strike Gundam 裝備 Aile Striker，SEED 代表主角機，Kira Yamato 初期座機。",
     reviews: [
       { title: "A Great Example Of The Master Grade Line - MG 1/100 Ver RM Aile Strike Gundam | REVIEW", url: "https://www.youtube.com/watch?v=2K8_TxIxPFQ", lang: "en" },
@@ -1680,7 +1680,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-gundam-ex-impulse-manfred.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
+    tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列 Gundam EX-Impulse，Manfred von Sakazaki 座機，P-Bandai 限定。",
     reviews: [
       { title: "My New Favourite SEED Master Grade! - MG 1/100 Gundam Ex Impulse Review", url: "https://www.youtube.com/watch?v=zkowDz5tzR4", lang: "en" },
@@ -1701,7 +1701,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年12月",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-re-gz-unicorn-ver.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "Gundam Unicorn", "逆夏", "高達模型", "可變形", "P-Bandai"],
+    tags: ["ガンプラ", "MG", "Bandai", "Gundam Unicorn", "逆夏", "高達模型", "可變形", "P-Bandai"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈UC》RGZ-91 Re-GZ（獨角獸版），P-Bandai 限定，以 UC 新設定重新詮釋《逆夏》可變形機體，附 Back Weapon System。",
     reviews: [],
     youtube: [
@@ -1719,7 +1719,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年",
     officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-tallgeese-2.jpg",
-    tags: ["Gunpla", "MG", "Bandai", "Gundam Wing", "OZ", "高達模型", "Treize"],
+    tags: ["ガンプラ", "MG", "Bandai", "Gundam Wing", "OZ", "高達模型", "Treize"],
     description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W》OZ-00MS II Tallgeese II，Treize Khushrenada 親自座駕，以白色加金色貴族風格塗裝為特色。",
     reviews: [],
     youtube: [],
@@ -1758,7 +1758,7 @@ export const collection: CollectibleItem[] = [
     height: "約460mm",
     officialUrl: "https://www.goodsmile.info/ja/product/7415/",
     imageUrl: "/images/freeing-miku-my-dear-bunny.jpg",
-    tags: ["FREEing", "B-Style", "初音ミク", "Hatsune Miku", "Vocaloid", "Project DIVA", "兔女郎", "1/4", "完成品フィギュア"],
+    tags: ["FREEing", "B-Style", "初音ミク", "Vocaloid", "Project DIVA", "兔女郎", "1/4", "完成品フィギュア"],
     description: "FREEing B-Style 系列 1/4 比例初音ミク兔女郎手辦，造型取自《初音ミク -Project DIVA- Arcade》的 My Dear Bunny 模組服裝，網紋褲襪採用真實布料材質，身高約460mm，極具存在感。",
     reviews: [
       { title: "FREEing 初音ミク マイディアバニーVer. レビュー", url: "https://www.youtube.com/watch?v=XmhWzhQZR6M", lang: "ja" },
@@ -1780,7 +1780,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年10月（2022年10月再販）",
     officialUrl: "https://p-bandai.com/us/item/N2381811001003",
     imageUrl: "/images/mg-enhanced-zz-gundam-verka.jpg",
-    tags: ["Bandai", "MG", "Master Grade", "ZZ Gundam", "Ver.Ka", "Katoki", "UC", "P-Bandai", "強化型"],
+    tags: ["Bandai", "MG", "マスターグレード", "ZZガンダム", "Ver.Ka", "Katoki", "UC", "P-Bandai", "強化型"],
     description: "P-Bandai 限定 MG 1/100 強化型ZZガンダム Ver.Ka，以 Hajime Katoki 監督設計重現 UC 0088 最終決戰形態，全身加裝強化裝甲與武裝，配合加強裝備套件可還原最完整武裝形態。",
     reviews: [],
     youtube: [],
@@ -1912,7 +1912,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（P-Bandai 抽選販売）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102666819000&grp_id=5325",
     imageUrl: "/images/musha-gundam-mk2-tokugawa-nanban.jpg",
-    tags: ["MG", "Gunpla", "武者ガンダム", "Musha Gundam", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
+    tags: ["MG", "ガンプラ", "武者ガンダム", "Musha Gundam", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
     description: "為紀念日光東照宮世界遺產登錄 25 週年所推出的特別企劃模型，以收藏於東照宮寶物館的德川家康遺品「南蛮胴具足」為造型原型，結合武者ガンダムMk-II 的 MG 1/100 套件重新詮釋。\n\n南蛮胴是戰國時代從葡萄牙傳入日本的西式胸甲，以其流線型弧面與異國金屬感著稱；本件在機體配色上以黑色電鍍為基底，全身甲冑零件採黑色電鍍與銀色電鍍雙重質感搭配，裙甲（草摺）等紅色部位以和紙質感貼紙印刷呈現，胸甲更燙印德川家三葉葵紋家徽。2024 年 5 月 27 日先行於日光東照宮現地販售、同年奉納於神社，其後透過 Premium Bandai 抽選販售，入手難度極高，是結合歷史文化與鋼彈的稀有聯名企劃。",
     reviews: [],
     youtube: [
@@ -1959,7 +1959,7 @@ export const collection: CollectibleItem[] = [
     height: "約100mm",
     officialUrl: "https://www.goodsmile.com/en/product/57427",
     imageUrl: "/images/nendo-suisei-sailor-outfit.jpg",
-    tags: ["星街すいせい", "Hoshimachi Suisei", "hololive", "Nendoroid", "ねんどろいど", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
+    tags: ["星街すいせい", "hololive", "ねんどろいど", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
     description: "Good Smile Company ねんどろいど 系列 hololive production 旗下人氣 VTuber 星街すいせい（彗星）的「Sailor Outfit Ver.」，商品編號 #2893，GOODSMILE ONLINE SHOP 獨家限定商品，預計 2026 年 8 月發售。\n\nすいせい以藍白配色水手服為主造型，搭配她標誌性的藍色長髮與彗星主題頭飾；套件附三款替換表情（笑臉、活潑臉、自信臉），以及蘋果汁飲料、烤肉配餐具等多款道具配件，可重現直播中她各種逗趣的互動場景。ねんどろいど 系列一貫的 Q 版頭身比例配合 GSC 精工彩繪面部，完美詮釋すいせい的星空主題個人魅力。是 hololive 周邊收藏中廣受彗星粉絲歡迎的必備款。",
     reviews: [],
     youtube: [],
