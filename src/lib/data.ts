@@ -26,7 +26,7 @@ export type CollectibleItem = {
 export const collection: CollectibleItem[] = [
   {
     id: "saber-alter-kimono",
-    name: "Saber Alter 和服ver.",
+    name: "セイバーオルタ 和服ver.",
     nameJa: "セイバーオルタ 和服ver.",
     series: "Fate/stay night [Heaven's Feel]",
     character: "Saber Alter",
@@ -55,7 +55,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "jeanne-alter-casual",
-    name: "Avenger/Jeanne d'Arc [Alter] Casual Ver.",
+    name: "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 カジュアルver.",
     nameJa: "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 カジュアルver.",
     series: "Fate/Grand Order",
     character: "Jeanne d'Arc (Alter) / 黑聖女貞德",
@@ -84,7 +84,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-turn-a-gundam-moonlight-butterfly",
-    name: "MG 1/100 WD-M01 ∀ Gundam Moonlight Butterfly ver.",
+    name: "MG 1/100 WD-M01 ∀ガンダム ムーンライトバタフライver.",
     nameJa: "MG 1/100 WD-M01 ∀ガンダム ムーンライトバタフライver.",
     series: "∀ Gundam（∀ガンダム）",
     character: "WD-M01 ∀ Gundam / Turn A Gundam",
@@ -112,7 +112,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "macross-plus-yf21-yamato",
-    name: "Macross Plus 1/60 YF-21 完全変形",
+    name: "マクロスプラス 1/60 完全変形 YF-21",
     nameJa: "マクロスプラス 1/60 完全変形 YF-21",
     series: "Macross Plus（マクロスプラス）",
     character: "YF-21（Guld Goa Bowman 機）",
@@ -146,7 +146,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "suisei-shinsei-mokuroku-vinyl",
-    name: "新星目録 Vinyl LP",
+    name: "新星目録（しんせいもくろく）",
     nameJa: "新星目録（しんせいもくろく）",
     series: "星街すいせい（Hoshimachi Suisei）",
     character: "星街すいせい",
@@ -174,7 +174,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rx783-g3-gundam-ver30-base-limited",
-    name: "MG 1/100 RX-78-3 G-3 Gundam Ver.3.0 THE GUNDAM BASE LIMITED",
+    name: "MG 1/100 RX-78-3 G-3ガンダム Ver.3.0 THE GUNDAM BASE LIMITED",
     nameJa: "MG 1/100 RX-78-3 G-3ガンダム Ver.3.0 THE GUNDAM BASE LIMITED",
     series: "機動戦士ガンダム（Mobile Suit Gundam, 1979）",
     character: "RX-78-3 G-3 Gundam",
@@ -202,7 +202,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gff-mc-wing-gundam-zero-cloaked",
-    name: "GFF METAL COMPOSITE Wing Gundam Zero Cloaked Custom",
+    name: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ クロークドカスタム",
     nameJa: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ クロークドカスタム",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
     character: "XXXG-00W0 Wing Gundam Zero Custom / 飛翼零式",
@@ -219,7 +219,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-providence-climax-battle",
-    name: "METAL BUILD Providence Gundam CLIMAX BATTLE Ver.",
+    name: "METAL BUILD プロヴィデンスガンダム CLIMAX BATTLE Ver.",
     nameJa: "METAL BUILD プロヴィデンスガンダム CLIMAX BATTLE Ver.",
     series: "機動戦士ガンダムSEED（Mobile Suit Gundam SEED）",
     character: "GAT-X131 Providence Gundam / 天帝鋼彈",
@@ -249,7 +249,7 @@ export const collection: CollectibleItem[] = [
   // ── GFF / METAL BUILD / Gundam ───────────────────────────────────────────
   {
     id: "gff-mc-wing-gundam-zero-rebellion",
-    name: "GFF METAL COMPOSITE Wing Gundam Zero [EW] Rebellion",
+    name: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ [EW] REBELLION",
     nameJa: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ [EW] REBELLION",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
     character: "XXXG-00W0 Wing Gundam Zero Custom / 飛翼零式",
@@ -282,7 +282,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-burning-gundam-second",
-    name: "METAL BUILD Burning Gundam & Burning Gundam Second",
+    name: "METAL BUILD バーニングガンダム＆バーニングガンダム弐式",
     nameJa: "METAL BUILD バーニングガンダム＆バーニングガンダム弐式",
     series: "機動武闘伝Gガンダム（Mobile Fighter G Gundam）",
     character: "GF13-017NJ God Gundam / 神鋼彈",
@@ -310,7 +310,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-strike-freedom-festival2024",
-    name: "METAL BUILD Strike Freedom Gundam [METAL BUILD FESTIVAL 2024]",
+    name: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
     nameJa: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-X20A Strike Freedom Gundam",
@@ -338,7 +338,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-destiny-full-festival2024",
-    name: "METAL BUILD Destiny Gundam (Full Package) [METAL BUILD FESTIVAL 2024]",
+    name: "METAL BUILD デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
     nameJa: "METAL BUILD デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-X42S Destiny Gundam",
@@ -366,7 +366,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-sf-wing-of-light-repackage",
-    name: "METAL BUILD Strike Freedom Wing of Light Option Set [Re:PACKAGE]",
+    name: "METAL BUILD ストライクフリーダムガンダム 光の翼 オプションセット [Re:PACKAGE]",
     nameJa: "METAL BUILD ストライクフリーダムガンダム 光の翼 オプションセット [Re:PACKAGE]",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-X20A Strike Freedom Gundam",
@@ -383,7 +383,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mgex-strike-freedom-mechanical-clear",
-    name: "MGEX 1/100 Strike Freedom Gundam [MECHANICAL CLEAR]",
+    name: "MGEX 1/100 ストライクフリーダムガンダム [MECHANICAL CLEAR]",
     nameJa: "MGEX 1/100 ストライクフリーダムガンダム [MECHANICAL CLEAR]",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-X20A Strike Freedom Gundam",
@@ -430,7 +430,7 @@ export const collection: CollectibleItem[] = [
   // ── SOUL OF CHOGOKIN ─────────────────────────────────────────────────────
   {
     id: "soc-gx116-pliers",
-    name: "SOUL OF CHOGOKIN GX-116 PLIERS",
+    name: "魂OF超合金 GX-116 プライヤーズ",
     nameJa: "魂OF超合金 GX-116 プライヤーズ",
     series: "勇者王ガオガイガー（GaoGaiGar: King of the Braves）",
     character: "PLIERS / プライヤーズ",
@@ -455,7 +455,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Classic (VF-1 series) ──────────────────────────
   {
     id: "dx-chogokin-vf1d-fan-racer",
-    name: "DX CHOGOKIN VF-1D Valkyrie & Fan Racer",
+    name: "DX超合金 VF-1D バルキリー & ファンレーサー",
     nameJa: "DX超合金 VF-1D バルキリー & ファンレーサー",
     series: "超時空要塞マクロス（Macross, 1982）",
     character: "VF-1D Valkyrie（雙座型教練機）",
@@ -488,7 +488,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf1j-armored-hikaru",
-    name: "DX CHOGOKIN VF-1J Armored Valkyrie (Hikaru Ichijo use)",
+    name: "DX超合金 VF-1J アーマードバルキリー（一条輝機）",
     nameJa: "DX超合金 VF-1J アーマードバルキリー（一条輝機）",
     series: "超時空要塞マクロス（Macross, 1982）",
     character: "VF-1J Armored Valkyrie（一条輝機）",
@@ -526,7 +526,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf1a-angel-birds",
-    name: "DX CHOGOKIN VF-1A Valkyrie Angel Birds",
+    name: "DX超合金 VF-1A バルキリー エンジェルバーズ",
     nameJa: "DX超合金 VF-1A バルキリー エンジェルバーズ",
     series: "超時空要塞マクロス（Macross, 1982）",
     character: "VF-1A Valkyrie（天使鳥表演隊塗裝）",
@@ -549,7 +549,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf1j-hikaru-store-limited",
-    name: "DX CHOGOKIN VF-1J Valkyrie (Hikaru Ichijo use) STORE LIMITED EDITION",
+    name: "DX超合金 VF-1J バルキリー（一条輝機）-STORE LIMITED EDITION-",
     nameJa: "DX超合金 VF-1J バルキリー（一条輝機）-STORE LIMITED EDITION-",
     series: "超時空要塞マクロス（Macross, 1982）",
     character: "VF-1J Valkyrie（一条輝機）",
@@ -577,7 +577,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vt1-super-ostrich",
-    name: "DX CHOGOKIN VT-1 SUPER OSTRICH",
+    name: "DX超合金 VT-1 スーパーオーストリッチ",
     nameJa: "DX超合金 VT-1 スーパーオーストリッチ",
     series: "超時空要塞マクロス（Macross, 1982）",
     character: "VT-1 Super Ostrich（クローデ・ラサル機）",
@@ -612,7 +612,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Plus ───────────────────────────────────────────
   {
     id: "dx-chogokin-yf21-guld",
-    name: "DX CHOGOKIN YF-21 (Guld Goa Bowman use)",
+    name: "DX超合金 YF-21（ガルド・ゴア・ボーマン機）",
     nameJa: "DX超合金 YF-21（ガルド・ゴア・ボーマン機）",
     series: "マクロスプラス（Macross Plus）",
     character: "YF-21（Guld Goa Bowman 機）",
@@ -652,7 +652,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Frontier ──────────────────────────────────────
   {
     id: "dx-chogokin-vf25-worldwide-anniv",
-    name: "DX CHOGOKIN VF-25 Messiah Valkyrie Worldwide Anniv.",
+    name: "DX超合金 VF-25 メサイアバルキリー WORLDWIDE Anniv.",
     nameJa: "DX超合金 VF-25 メサイアバルキリー WORLDWIDE Anniv.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-25 Messiah Valkyrie",
@@ -685,7 +685,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25f-super-messiah-alto-revival",
-    name: "DX CHOGOKIN VF-25F Super Messiah Valkyrie (Alto Saotome Custom) REVIVAL Ver.",
+    name: "DX超合金 VF-25F スーパーメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25F スーパーメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-25F Super Messiah Valkyrie（早乙女アルト機）",
@@ -718,7 +718,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25f-tornado-messiah-alto-revival",
-    name: "DX CHOGOKIN VF-25F Tornado Messiah Valkyrie (Alto Saotome Custom) REVIVAL Ver.",
+    name: "DX超合金 VF-25F トルネードメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25F トルネードメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-25F Tornado Messiah Valkyrie（早乙女アルト機）",
@@ -741,7 +741,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25g-super-messiah-michael-revival",
-    name: "DX CHOGOKIN VF-25G Super Messiah Valkyrie (Michael Blanc use) REVIVAL Ver.",
+    name: "DX超合金 VF-25G スーパーメサイアバルキリー（マイケル・ブラン機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25G スーパーメサイアバルキリー（マイケル・ブラン機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-25G Super Messiah Valkyrie（マイケル・ブラン機）",
@@ -774,7 +774,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25s-armored-messiah-ozma-revival",
-    name: "DX CHOGOKIN VF-25S Armored Messiah Valkyrie (Ozma Lee use) REVIVAL Ver.",
+    name: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-25S Armored Messiah Valkyrie（オズマ・リー機）",
@@ -807,7 +807,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf171ex-armored-alto-revival",
-    name: "DX CHOGOKIN VF-171EX Armored Nightmare Plus EX (Alto Saotome use) REVIVAL Ver.",
+    name: "DX超合金 VF-171EX アーマードナイトメアプラスEX（早乙女アルト機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-171EX アーマードナイトメアプラスEX（早乙女アルト機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-171EX Armored Nightmare Plus EX（早乙女アルト機）",
@@ -835,7 +835,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-max-full-set",
-    name: "DX CHOGOKIN YF-29 Durandal Valkyrie (Maximilian Jenius use) Full Set Pack",
+    name: "DX超合金 YF-29 デュランダルバルキリー（マキシミリアン・ジーナス機）Full Set Pack",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー（マキシミリアン・ジーナス機）Full Set Pack",
     series: "マクロスΔ 絶対LIVE!!!!!! (Macross Delta Movie: Passionate Walküre)",
     character: "YF-29 Durandal Valkyrie（マキシミリアン・ジーナス機）",
@@ -868,7 +868,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf27-sp-super-lucifer",
-    name: "DX CHOGOKIN VF-27γ Lucifer Valkyrie (Brera Sterne use) SP Revival Ver.",
+    name: "DX超合金 VF-27γ スーパールシファーバルキリー（ブレラ・スターン機）リバイバル Ver.",
     nameJa: "DX超合金 VF-27γ スーパールシファーバルキリー（ブレラ・スターン機）リバイバル Ver.",
     series: "マクロスF（Macross Frontier）",
     character: "VF-27γ Super Lucifer Valkyrie（ブレラ・スターン機）",
@@ -893,7 +893,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross 7 ──────────────────────────────────────────────
   {
     id: "dx-chogokin-vf17s-nightmare-stealth",
-    name: "DX CHOGOKIN VF-17S Nightmare Stealth Valkyrie (Gamlin Kizaki use)",
+    name: "DX超合金 VF-17S ナイトメアステルスバルキリー（木崎ガムリン機）",
     nameJa: "DX超合金 VF-17S ナイトメアステルスバルキリー（木崎ガムリン機）",
     series: "マクロス7（Macross 7）",
     character: "VF-17S Nightmare Stealth Valkyrie（木崎ガムリン機）",
@@ -926,7 +926,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf19-custom-excalibur-basara",
-    name: "DX CHOGOKIN VF-19 Custom Excalibur Basara Nekki Special",
+    name: "DX超合金 VF-19 カスタム エクスカリバー 熱気バサラスペシャル",
     nameJa: "DX超合金 VF-19 カスタム エクスカリバー 熱気バサラスペシャル",
     series: "マクロス7（Macross 7）",
     character: "VF-19 Custom Excalibur（熱気バサラ機）",
@@ -961,7 +961,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Delta ──────────────────────────────────────────
   {
     id: "dx-chogokin-vf31j-movie-fold-unit",
-    name: "DX CHOGOKIN Movie VF-31J Siegfried (Hayate Immelmann use) w/Fold Projection Unit",
+    name: "DX超合金 劇場版 VF-31J ジークフリード（ハヤテ・インメルマン機）【フォールドプロジェクターユニット装備】",
     nameJa: "DX超合金 劇場版 VF-31J ジークフリード（ハヤテ・インメルマン機）【フォールドプロジェクターユニット装備】",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31J Siegfried（ハヤテ・インメルマン機）",
@@ -989,7 +989,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-first-limited-hayate",
-    name: "DX CHOGOKIN VF-31AX Kairos-Plus (Hayate Immelmann use) FIRST LIMITED EDITION",
+    name: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）初回限定版",
     nameJa: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）初回限定版",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ハヤテ・インメルマン機）",
@@ -1022,7 +1022,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-movie-mirage",
-    name: "DX CHOGOKIN Movie Edition VF-31AX Kairos-Plus (Mirage Farina Jenius use)",
+    name: "DX超合金 劇場版 VF-31AX カイロスプラス（ミラージュ・ファリーナ・ジーナス機）",
     nameJa: "DX超合金 劇場版 VF-31AX カイロスプラス（ミラージュ・ファリーナ・ジーナス機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ミラージュ・ファリーナ・ジーナス機）",
@@ -1060,7 +1060,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-super-parts-set",
-    name: "DX CHOGOKIN Super Parts Set for VF-31AX Kairos-Plus (Hayate Immelmann use)",
+    name: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーパーツセット",
     nameJa: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーパーツセット",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ハヤテ・インメルマン機）",
@@ -1083,7 +1083,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-movie-borg",
-    name: "DX CHOGOKIN Movie Edition VF-31AX Kairos-Plus (Borg Confert use)",
+    name: "DX超合金 劇場版 VF-31AX カイロスプラス（ボーグ・コンフェート機）",
     nameJa: "DX超合金 劇場版 VF-31AX カイロスプラス（ボーグ・コンフェート機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ボーグ・コンフェート機）",
@@ -1111,7 +1111,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-armored-parts-set",
-    name: "DX CHOGOKIN VF-31AX Kairos-Plus Armored Parts Set (Hayate Immelmann use)",
+    name: "DX超合金 VF-31AX カイロスプラス用アーマードパーツセット（ハヤテ・インメルマン機）",
     nameJa: "DX超合金 VF-31AX カイロスプラス用アーマードパーツセット（ハヤテ・インメルマン機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ハヤテ・インメルマン機）",
@@ -1128,7 +1128,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-super-ghost-set",
-    name: "DX CHOGOKIN Super Ghost Set for VF-31AX Kairos-Plus (Hayate Immelmann use)",
+    name: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーゴーストセット",
     nameJa: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーゴーストセット",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ハヤテ・インメルマン機）",
@@ -1145,7 +1145,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-movie-hayate",
-    name: "DX CHOGOKIN VF-31AX Kairos-Plus Movie Edition (Hayate Immelmann use)",
+    name: "DX超合金 劇場版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）",
     nameJa: "DX超合金 劇場版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "VF-31AX Kairos-Plus（ハヤテ・インメルマン機）",
@@ -1178,7 +1178,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31j-supersiegfried-hayate-revival",
-    name: "DX CHOGOKIN VF-31J Supersiegfried (Hayate Immelmann use) REVIVAL Ver.",
+    name: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）REVIVAL Ver.",
     series: "マクロスΔ（Macross Delta）",
     character: "VF-31J Supersiegfried（ハヤテ・インメルマン機）",
@@ -1206,7 +1206,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-sv262hs-draken3",
-    name: "DX CHOGOKIN MOVIE EDITION Sv-262Hs Draken III (Bogue Con-Vaart use)",
+    name: "DX超合金 劇場版 Sv-262Hs ドラケンIII（ボーグ・コンヴァート機）",
     nameJa: "DX超合金 劇場版 Sv-262Hs ドラケンIII（ボーグ・コンヴァート機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
     character: "Sv-262Hs Draken III（ボーグ・コンヴァート機）",
@@ -1239,7 +1239,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31a-kairos-delta10th",
-    name: "DX CHOGOKIN VF-31A Kairos Macross Delta 10th Anniv.",
+    name: "DX超合金 VF-31A カイロス マクロスΔ 10周年記念",
     nameJa: "DX超合金 VF-31A カイロス マクロスΔ 10周年記念",
     series: "マクロスΔ（Macross Delta）",
     character: "VF-31A Kairos（Delta 小隊支援機）",
@@ -1285,7 +1285,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hapitopi-dongtan-kpring",
-    name: "Hapitopi × K Pring DONGTAN (DON TANK) 1/6 Scale Figure",
+    name: "ドンタン",
     nameJa: "ドンタン",
     series: "Original Character",
     character: "DONGTAN（DON TANK）",
@@ -1319,7 +1319,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "animester-2b-nier-1-9",
-    name: "AniMester × NieR:Automata Ver1.1a YoRHa No.2 Type B 1/9 Metal Mecha Figure",
+    name: "ヨルハ二号B型（2B）",
     nameJa: "ヨルハ二号B型（2B）",
     series: "NieR:Automata Ver1.1a",
     character: "YoRHa No.2 Type B（2B）",
@@ -1336,7 +1336,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-mai-shiranui-kof97",
-    name: "BearPanda × Biya 1/6 SNK The King of Fighters Mai Shiranui Hong Shang Wu Ver.",
+    name: "不知火舞（紅裳舞 Ver.）",
     nameJa: "不知火舞（紅裳舞 Ver.）",
     series: "THE KING OF FIGHTERS '97",
     character: "不知火舞（Mai Shiranui）紅裳舞 Ver.",
@@ -1726,7 +1726,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "moderoid-bismark",
-    name: "MODEROID 星銃士ビスマルク Bismark",
+    name: "MODEROID ビスマルク",
     nameJa: "MODEROID ビスマルク",
     series: "星銃士ビスマルク（Saber Rider and the Star Sheriffs）",
     character: "ビスマルク（Bismark）",
@@ -1804,7 +1804,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "taito-coreful-mahiru-school-uniform",
-    name: "Coreful フィギュア 椎名真昼 制服ver.",
+    name: "お隣の天使様にいつの間にか駄目人間にされていた件 Coreful フィギュア 椎名真昼～制服ver.～",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 Coreful フィギュア 椎名真昼～制服ver.～",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
     character: "椎名真昼（Mahiru Shiina）",
@@ -1828,7 +1828,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "banpresto-mahiru-shiina",
-    name: "フィギュア 椎名真昼",
+    name: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼-",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼-",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
     character: "椎名真昼（Mahiru Shiina）",
@@ -1858,7 +1858,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "banpresto-mahiru-relax-time",
-    name: "-Relax time- 椎名真昼",
+    name: "お隣の天使様にいつの間にか駄目人間にされていた件 -Relax time- 椎名真昼",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 -Relax time- 椎名真昼",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
     character: "椎名真昼（Mahiru Shiina）",
@@ -1882,7 +1882,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "banpresto-mahiru-onepiece",
-    name: "フィギュア 椎名真昼 ワンピースver.",
+    name: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼- ワンピースver.",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼- ワンピースver.",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
     character: "椎名真昼（Mahiru Shiina）",
@@ -1925,7 +1925,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "volks-dd-nier-automata",
-    name: "Dollfie Dream® Dynamite NieR:Automata 2B / YoRHa No.2 Type B",
+    name: "ドルフィードリームダイナマイト NieR:Automata YoRHa二号B型（2B）",
     nameJa: "ドルフィードリームダイナマイト NieR:Automata YoRHa二号B型（2B）",
     series: "NieR:Automata",
     character: "YoRHa No.2 Type B（2B）",
@@ -1948,7 +1948,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendo-suisei-sailor-outfit",
-    name: "Nendoroid 星街すいせい Sailor Outfit Ver. (#2893)",
+    name: "ねんどろいど 星街すいせい セーラー服Ver.",
     nameJa: "ねんどろいど 星街すいせい セーラー服Ver.",
     series: "星街すいせい（Hoshimachi Suisei）/ hololive production",
     character: "星街すいせい（Hoshimachi Suisei）",
