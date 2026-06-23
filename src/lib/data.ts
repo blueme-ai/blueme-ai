@@ -2623,7 +2623,7 @@ export const collection: CollectibleItem[] = [
     character: "YoRHa No.2 Type B（2B）",
     manufacturer: "Volks（ボークス）",
     scale: "Dollfie Dream Dynamite（DDdy）約60cm",
-    price: "—",
+    price: "¥88,000（税別）",
     releaseDate: "2019年（限量抽選発売）",
     officialUrl: "https://www.volks.co.jp/nierautomata/dddy_2b/",
     imageUrl: "/images/volks-dd-nier-automata.jpg",
