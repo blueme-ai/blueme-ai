@@ -39,7 +39,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/saber-alter-kimono.jpg",
     tags: ["Fate", "セイバーオルタ", "和服", "1/7", "KADOKAWA", "Heaven's Feel"],
     description: "Saber Alter（黑化的 Artoria Pendragon）以華麗和服姿態呈現的 1/7 比例完成品。原畫由武內崇繪製，最初刊登於《月刊Newtype》特刊，人物穿著帶有金色刺繡的黑色和服，左手撐開一把淺紫色油紙傘，姿態沉靜中透著不容逼近的王者氣場。\n\n服裝細節豐富——和服的絲質光澤、腰帶的立體浮雕花紋、袖口若隱若現的刺繡，均在 1/7 比例下精細重現。台座採用日式石燈籠造型，與整體和風意境融為一體。全高約 275mm（含傘及台座），是《Heaven's Feel》三部曲完結後最具話題性的衍生商品之一。此為原版 2024 年 1 月發售後的第二次再版，入手難度相對原版大幅降低。",
-    reviews: [],
+    reviews: [
+      {
+        title: "Kadokawa Fate Heaven's Feel Saber Alter Kimono Ver. 1/7 Review | MyFigureCollection",
+        url: "https://myfigurecollection.net/blogpost/47980",
+        lang: "en",
+      },
+      {
+        title: "KDColle - Saber Alter Kimono ver - 1/7 Review | MyFigureCollection",
+        url: "https://myfigurecollection.net/blogpost/48173",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "KADOKAWA Saber Alter 和服Ver. 開箱 — 粉色蒂國",
@@ -68,7 +79,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/jeanne-alter-casual.jpg",
     tags: ["FGO", "Fate/Grand Order", "ジャンヌ〔オルタ〕", "黑聖女", "1/7", "Kotobukiya", "展示中", "新宿"],
     description: "《Fate/Grand Order》第一部第一章「異聞帶 I：新宿幻靈事件」的主角之一，黑化的聖女貞德（Jeanne d'Arc Alter）以日常便服形象登場的 1/7 比例完成品。\n\n人物穿著正面有拉鍊設計的黑色皮質迷你裙，搭配深色長靴與紅黑漸層的披風型外套，頭上帶有象徵 Avenger 職階的小型王冠。身體微微前傾、腳步向前踏出，一手叉腰、一手輕提、頭微微側傾的姿勢，同時展現少女的俏皮感與 Avenger 的銳利眼神。\n\n台座為充滿廢墟感的裂紋石板地面，重現新宿廢街背景。附可替換右手臂，可切換為持劍（勝利之劍 La Pucelle）的戰鬥姿勢。此款為初版 2019 年發售後 Kotobukiya 的再版。非 ArtFX J 系列，屬 Kotobukiya 一般 PVC 1/7 完成品線。",
-    reviews: [],
+    reviews: [
+      {
+        title: "Fate/Grand Order Jeanne d'Arc (Alter) casual ver. Review | MyFigureCollection",
+        url: "https://myfigurecollection.net/blogpost/40719",
+        lang: "en",
+      },
+      {
+        title: "Avenger / Jeanne d'Arc (Alter) Casual ver. 1/7 (Kotobukiya) | MyFigureCollection",
+        url: "https://myfigurecollection.net/item/604029",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "壽屋 Kotobukiya FGO 1/7 貞德Alter 私服ver. 開箱",
@@ -96,7 +118,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-turn-a-gundam-moonlight-butterfly.jpg",
     tags: ["ガンダム", "∀ Gundam", "∀ガンダム", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "富野由悠季監督 1999 年電視動畫《∀ Gundam》主角機 WD-M01 Turn A Gundam 的 MG 1/100 P-Bandai 限定特別版，主打「月光蝶（Moonlight Butterfly）」展開效果零件。\n\n月光蝶是 Turn A Gundam 潛藏的最終兵器：機體散放出無數奈米機器人形成絢爛的蝶翼光場，可以侵蝕並分解所有工業科技文明，是宇宙世紀（UC）所有鋼彈系列中公認殺傷範圍最廣的武裝之一。此版本特別附有大量透明效果零件，精細重現月光蝶展開瞬間的光翼形態，令整組完成後極具陳設觀賞價值。\n\n基礎骨架延續 MG Turn A 的精密結構，全身具備流暢可動性，除月光蝶零件外亦附有一般展示用姿勢的備用手型與武裝配件。此為 P-Bandai（Premium Bandai）限定商品，非一般通路販售。",
-    reviews: [],
+    reviews: [
+      {
+        title: "P-Bandai MG Turn A Gundam Moonlight Butterfly Ver. Color Guide | Mech9",
+        url: "https://www.mech9.com/2023/03/p-bandai-mg-1100-wd-m01-turn-gundam.html",
+        lang: "en",
+      },
+      {
+        title: "MG 1/100 Turn A Gundam Moonlight Butterfly Ver. Review | Supreme Mecha",
+        url: "https://suprememecha.blogspot.com/2015/08/review-mg-1100-moonlight-butterfly-for.html",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "MG Turn A Gundam Moonlight Butterfly Ver. 開箱 — 金金貓模型",
@@ -128,6 +161,11 @@ export const collection: CollectibleItem[] = [
       {
         title: "YF-21 Valkyrie Review — CollectionDX（圖文評測）",
         url: "https://www.collectiondx.com/toy_review/yf_21_valkyrie/",
+        lang: "en",
+      },
+      {
+        title: "Yamato 1/60 YF-21 & VF-22S Toy Review | Anymoon",
+        url: "https://anymoon.com/blog/?p=2477",
         lang: "en",
       },
     ],
@@ -186,7 +224,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/rx783-g3-gundam-ver30-base-limited.jpg",
     tags: ["ガンダム", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "ガンダムベース限定", "聯邦軍"],
     description: "《機動戰士鋼彈》（1979）中宇宙世紀地球聯邦軍所開發的初期量產型試作モビルスーツ（MS）RX-78 鋼彈第三號機，俗稱「G-3 Gundam」。G-3 是三架試作機中以「耐磁塗裝（磁力無效塗裝）」為特徵的特殊規格機，外裝塗裝以低調的灰白調為主，有別於一號機（RX-78-1）與二號機（RX-78-2）的標準紅白藍配色，因此在眾多鋼彈模型版本中獨具辨識度。\n\n此版本採用 MG Ver.3.0 骨架——這是截至目前 RX-78 系列 MG 最新世代的骨架規格，具備極為精密的全身關節構造（包括手指各節可動、腳掌踝關節自由傾斜等），並徹底重製了內部骨架造型，即使不裝外裝甲板，骨架本身也完整呈現 RX-78 的機體輪廓。外裝甲板則採用帶有金屬光澤的珍珠灰塗裝，搭配 THE GUNDAM BASE（鋼彈基地旗艦店）限定的專屬水貼，是正統派鋼彈 MG 模型中的高規格珍藏版本。",
-    reviews: [],
+    reviews: [
+      {
+        title: "MG 1/100 RX-78-3 Gundam G-3 Ver.3.0 Release Info | Gundam Kits Collection",
+        url: "https://www.gundamkitscollection.com/2024/09/mg-1100-rx-78-3-gundam-g-3-ver-30.html",
+        lang: "en",
+      },
+      {
+        title: "Let's Talk Gunpla Vol.571 | Kimi The Builder Blog",
+        url: "https://kimithebuilderblog.com/2024/09/06/lets-talk-gunpla-vol-571/",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "開箱 MG 1/100 RX-78-2 鋼彈Ver.3.0 TGB配色 — tony ver",
@@ -214,8 +263,30 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gff-mc-wing-gundam-zero-cloaked.jpg",
     tags: ["Gundam Wing", "飛翼零式", "GFF", "METAL COMPOSITE", "Bandai", "合金"],
     description: "《新機動戰記鋼彈W Endless Waltz》（1997）主角機 XXXG-00W0 Wing Gundam Zero（飛翼零式）的 GUNDAM FIX FIGURATION METAL COMPOSITE（GFF MC）完成品，特別加入「Cloaked Custom（換裝外裝版）」追加零件套組。\n\nGFF METAL COMPOSITE 系列是 Bandai Namco 旗下頂級完成品品牌，主體以 ABS、PVC 及壓鑄合金（ダイキャスト）混合構成，呈現有別於一般塑膠模型的金屬分量感與光澤。Cloaked Custom 版本的最大特色是附有一件以真實布料製作的白色大型斗篷，可披在機體肩上，完全遮蓋翅翼，與展開翅翼的標準形態形成強烈視覺落差。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "ウイングガンダムゼロ クロークドカスタム レビュー | toroplus",
+        url: "https://toroplus.blog/metalbuild-gff/wingzero-cloakedcustom/",
+        lang: "ja",
+      },
+      {
+        title: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ クロークドカスタム レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52131955.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "思わず絶叫する！ウイングガンダムゼロ クロークドカスタム！【G.F.F.M.C.メタルコンポジットレビュー】",
+        url: "https://www.youtube.com/watch?v=BfJuvqbfgIw",
+        lang: "ja",
+      },
+      {
+        title: "GFFMC WING GUNDAM ZERO Cloaked Custom Review",
+        url: "https://www.youtube.com/watch?v=bSmoSsBzInE",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "metal-build-providence-climax-battle",
@@ -231,7 +302,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/metal-build-providence-climax-battle.jpg",
     tags: ["Gundam SEED", "プロヴィデンスガンダム", "天帝鋼彈", "METAL BUILD", "Bandai", "合金", "魂展限定"],
     description: "《機動戰士鋼彈 SEED》（2002）終盤登場的最強 ZAFT 試驗型 MS、由 Rau Le Creuset 駕駛的 GAT-X131 Providence Gundam，以 Bandai Namco TAMASHII NATIONS 的頂級完成品品牌「METAL BUILD」打造的 CLIMAX BATTLE Ver.，為 TAMASHII NATION 2025 活動限定商品。\n\nProvidence Gundam 最大的設計特色是其掛載於背部的大型 DRAGOON System（ドラグーン・システム）——這是一套可分離飛行的全方位射擊兵器群，由機動可動砲台組成，可對敵方展開立體全向射擊，是鋼彈 SEED 宇宙中最具威壓感的武裝之一。CLIMAX BATTLE Ver. 充分再現了 DRAGOON 全展開的極限形態，大量合金壓鑄零件賦予機體沉甸甸的重量感，配合精緻塗裝，視覺衝擊力十足。",
-    reviews: [],
+    reviews: [
+      {
+        title: "METAL BUILD プロヴィデンスガンダム レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52104992.html",
+        lang: "ja",
+      },
+      {
+        title: "METAL BUILD Providence Gundam (Climax Battle Ver.) | Gundam Kits Collection",
+        url: "https://www.gundamkitscollection.com/2025/08/metal-build-providence-gundam-climax.html",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "史上最貴搶不到的天帝鋼彈！METAL BUILD PROVIDENCE GUNDAM — MR.JOE HOBBY",
@@ -261,7 +343,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gff-mc-wing-gundam-zero-rebellion.jpg",
     tags: ["Gundam Wing", "飛翼零式", "GFF", "METAL COMPOSITE", "Bandai", "合金"],
     description: "飛翼零式 GFF MC 系列的全新版本「REBELLION」，採用全新配色與強化外裝設計，翅翼形狀更具攻擊性，展現出有別於標準版的壓迫氣場。以高品質合金骨架搭配精密塗裝完成品展示價值，是飛翼零式玩具系列中繼 Cloaked Custom 之後的又一重量級作品。",
-    reviews: [],
+    reviews: [
+      {
+        title: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロリベリオン レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52128567.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "「爆玩具」GFFMC 新機動戰記高達W Endless Waltz Wing Gundam Zero Rebellion TOYSTV Review",
@@ -294,7 +382,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/metal-build-burning-gundam-second.jpg",
     tags: ["Gガンダム", "神鋼彈", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
     description: "《機動武闘傳 G 鋼彈》（1994）主角機 GF13-017NJ 神鋼彈（英文版稱 Burning Gundam）的 METAL BUILD 完成品，附帶第二形態「弐式（Second）」替換零件。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現劇中「God Finger」最終決戰形態，合金壓鑄骨架帶來紮實的重量感。",
-    reviews: [],
+    reviews: [
+      {
+        title: "METAL BUILD ゴッドガンダム＆ゴッドガンダム弐（セカンド） レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52124401.html",
+        lang: "ja",
+      },
+      {
+        title: "METAL BUILD ゴッドガンダム＆ゴッドガンダム弐（セカンド）レビュー | hobby.watch.impress.co.jp",
+        url: "https://hobby.watch.impress.co.jp/docs/review/2045335.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "神鋼彈到底行不行？METAL BUILD 神鋼彈&神鋼彈貳 — MR.JOE HOBBY",
@@ -322,7 +421,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/metal-build-strike-freedom-festival2024.jpg",
     tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
     description: "《機動戰士鋼彈 SEED DESTINY》主角機 ZGMF-X20A 強攻自由鋼彈的 METAL BUILD FESTIVAL 2024 活動限定特仕版。相較標準版進一步強化配色與金屬光澤質感，全展開的羽翼砲（Super Dragoon）形態是整件作品最壯觀的展示配置，彰顯 SEED 宇宙最強機體的威壓。",
-    reviews: [],
+    reviews: [
+      {
+        title: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024] レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52110418.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "[映画でも大活躍!!!]METAL BUILDストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024] レビュー",
@@ -350,7 +455,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/metal-build-destiny-gundam-full-festival2024.jpg",
     tags: ["Gundam SEED", "デスティニー", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
     description: "《機動戰士鋼彈 SEED DESTINY》反派主角機 ZGMF-X42S 命運鋼彈的 METAL BUILD FESTIVAL 2024 活動限定版「Full Package」，附全套武裝配件：掌槍、光束迴旋鏢（Wings of Light）展開形態、高能量長程狙擊砲等。光翼全展配置重現劇中最具視覺衝擊力的戰鬥形態。",
-    reviews: [],
+    reviews: [
+      {
+        title: "METAL BUILD デスティニーガンダム（フルパッケージ）[METAL BUILD FESTIVAL 2024] レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52111644.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "十年前老模現在還香？萬代MB系列 命運高達 2024節日紀念 開箱試玩",
@@ -378,8 +489,30 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/metal-build-strike-freedom-wing-of-light-repackage.jpg",
     tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "追加配件", "オプションパーツ"],
     description: "METAL BUILD 強攻自由鋼彈專用追加零件「光の翼（Wings of Light）」的 Re:PACKAGE 重新包裝版，附帶展開形態的大型光翼效果零件，可裝設於 METAL BUILD 強攻自由機體使其重現劇中最終決戰的全力形態。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "METAL BUILD ストライクフリーダムガンダム 光の翼オプションセット ［Re：PACKAGE］レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52119182.html",
+        lang: "ja",
+      },
+      {
+        title: "METAL BUILD ストライクフリーダムガンダム 光の翼オプションセット Re:PACKAGE レビュー | 早耳ガンプラ情報局",
+        url: "https://hayamimi-gunpla.com/blog-entry-23476.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "(METAL BUILD) 今さらレビュー♪ 「光の翼オプションセット」ストライクフリーダム専用",
+        url: "https://www.youtube.com/watch?v=1Dr--iEvWU8",
+        lang: "ja",
+      },
+      {
+        title: "Metal Build Strike Freedom Wings of Light Add-on Review",
+        url: "https://www.youtube.com/watch?v=TLVB4Md_47w",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mgex-strike-freedom-mechanical-clear",
@@ -395,8 +528,30 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mgex-strike-freedom-mechanical-clear.jpg",
     tags: ["Gundam SEED", "ストライクフリーダム", "MGEX", "1/100", "ガンプラ", "透明色", "P-Bandai限定"],
     description: "Bandai 頂規 MGEX（Master Grade Extreme）強攻自由鋼彈的 P-Bandai 限定「MECHANICAL CLEAR」配色版。MGEX 是 MG 骨架再進化的新世代規格，機體內部的 LED 骨架及 Super Dragoon 系統在透明外裝甲板下完整可視，全透明外裝配合特殊染色展現有別於一般配色版本的視覺魅力。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MGEX ストライクフリーダムガンダム［メカニカルクリア］ レビュー | schizophonic9",
+        url: "https://schizophonic9.com/re9/mgex_strikefreedomclear.html",
+        lang: "ja",
+      },
+      {
+        title: "MGEX ストライクフリーダムガンダム レビュー | ガンプラの館",
+        url: "https://www.gunplayakata.com/entry/2025/09/03/MGEX_%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AA%E3%83%BC%E3%83%80%E3%83%A0%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "MGEX Strike Freedom Gundam Mechanical Clear Review – Best Strike Freedom Yet? 4K",
+        url: "https://www.youtube.com/watch?v=TLoTlCfkg2I",
+        lang: "en",
+      },
+      {
+        title: "MGEX 1/100 Strike Freedom Gundam (Mechanical Clear) Review",
+        url: "https://www.youtube.com/watch?v=FAVnv3Douvs",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "chogokin-rx93ff-nu-gundam",
@@ -412,7 +567,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/chogokin-rx93ff-nu-gundam.jpg",
     tags: ["ガンダム", "νガンダム", "新型鋼彈", "CHOGOKIN", "超合金", "Bandai", "合金"],
     description: "《機動戰士鋼彈：逆襲的夏亞》（1988 劇場版）阿姆羅·雷最後的座機 RX-93ff νGundam，以 TAMASHII NATIONS 的 CHOGOKIN（超合金）品牌製作的完成品。「ff」特別版配色帶有全球巡迴展覽「THE GUNDAM BASE」限定色調，機體搭載象徵性的 Fin Funnel（鰭狀助推器）全展開形態，是 UC 鋼彈迷不可錯過的 CHOGOKIN 高級完成品。",
-    reviews: [],
+    reviews: [
+      {
+        title: "超合金 RX-93ff νガンダム レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52093660.html",
+        lang: "ja",
+      },
+      {
+        title: "超合金 RX-93ff νガンダム レビュー | アナハイム工房 TAKAブログ",
+        url: "https://www.alstakayuki.org/2022/11/30/%E8%B6%85%E5%90%88%E9%87%91-rx-93ff-%CE%BD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "[玩具收容所#104] 超合金 福岡 Nu Gundam (RX-93ff) 開箱 Unboxing & Review 4K",
@@ -442,7 +608,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/soc-gx116-pliers-gaogaigar.jpg",
     tags: ["ガオガイガー", "勇者王", "SOC", "SOUL OF CHOGOKIN", "超合金", "Bandai", "合金"],
     description: "《勇者王 GaoGaiGar》（1997）中協助主角 GaoGaiGar 執行「勇氣合體」的支援機 PLIERS（プライヤーズ）的 SOUL OF CHOGOKIN GX-116 完成品。SOC 系列是 TAMASHII NATIONS 最高規格的超合金玩具品牌，充分再現 PLIERS 的機械細節與合體功能，配合其他 SOC GaoGaiGar 系列零件可進行聯合展示。",
-    reviews: [],
+    reviews: [
+      {
+        title: "SOUL OF CHOGOKIN GX-116 プライヤーズ レビュー | HJウェブ",
+        url: "https://hjweb.jp/article/1830076/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "機械人研究所：超合金魂《勇者王GAOGAIGAR》GX-116 プライヤーズ レビュー",
@@ -467,7 +639,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf1d-fan-racer.jpg",
     tags: ["マクロス", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》（1982）中以雙座教練型登場的 VF-1D 女武神，與同款機體改裝的「Fan Racer」賽車形態同捆的 DX CHOGOKIN 魂ウェブ商店限定組合。VF-1D 是系列正規版中唯一的雙座型，此組合附帶兩架不同配置，可分別重現訓練場景與競速形態。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-1D バルキリー＆ファン・レーサー レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52072262.html",
+        lang: "ja",
+      },
+      {
+        title: "Bandai DX VF-1 Macross Toys Review | Anymoon",
+        url: "https://anymoon.com/blog/?p=12016",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "全靠配件拯救銷量了，萬代DX超合金 VF-1D 開箱試玩",
@@ -500,7 +683,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf1j-armored-hikaru.jpg",
     tags: ["マクロス", "VF-1J", "アーマード", "裝甲型", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》主角一条輝（Hikaru Ichijo）機 VF-1J 加裝全套戰鬥裝甲（ARMORED）的 DX CHOGOKIN 版本。裝甲套件大幅增加了機體的攻防能力，外觀更具壓迫感，是 VF-1 系列中視覺衝擊最強烈的配置之一。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-1J バルキリー(一条輝機) レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52036391.html",
+        lang: "ja",
+      },
+      {
+        title: "「DX超合金 VF-1J対応アーマードパーツセット」フォトレビュー | hobby.watch.impress.co.jp",
+        url: "https://hobby.watch.impress.co.jp/docs/review/1354579.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "初代火力怪獸！萬代DX超合金 VF-1J+AP裝甲 開箱試玩【超時空要塞】",
@@ -545,6 +739,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.youtube.com/watch?v=FBtBkTrLTX0",
         lang: "ja",
       },
+      {
+        title: "【5機も買えって？w】DX超合金 VF-1Aバルキリー エンジェルバーズ 3形態 完全変形 徹底レビュー",
+        url: "https://www.youtube.com/watch?v=PhiNAPltkJY",
+        lang: "ja",
+      },
     ],
   },
   {
@@ -561,7 +760,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf1j-hikaru-store-limited.jpg",
     tags: ["マクロス", "VF-1J", "DX超合金", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
     description: "《超時空要塞 Macross》主角一条輝機 VF-1J 女武神的 TAMASHII STORE 限定版，在標準版基礎上採用特別細緻的塗裝規格，配件更為完整。Fighter/GERWALK/Battroid 三型態完全可變，是 VF-1J Hikaru 機最精緻的 DX 版本。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 初回限定版 VF-1J バルキリー（一条輝機）レビュー | ノアのガンプラライフ",
+        url: "https://noahs9999.com/dx_chogokin_vf-1j/",
+        lang: "ja",
+      },
+      {
+        title: "魂レビュー「DX超合金 VF-1J バルキリー（一条輝機）」 | GAME Watch",
+        url: "https://game.watch.impress.co.jp/docs/series/tamashii/1164456.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【比較したら結構違う！】DX超合金 VF-1J バルキリー（一条輝機）-Store Limited Edition ヲタファのレビュー",
@@ -589,7 +799,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vt1-super-ostrich.jpg",
     tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中非戰鬥改裝型可變形戰機 VT-1「Super Ostrich」的 DX CHOGOKIN 完成品，魂ウェブ商店限定。VT-1 是 VF-1 的民間/訓練用改裝版本，外觀呈現有別於軍用型的獨特設計，是 Macross 世界觀中最具生活感的機體之一。",
-    reviews: [],
+    reviews: [
+      {
+        title: "「DX超合金 VT-1 スーパーオーストリッチ」フォトレビュー | hobby.watch.impress.co.jp",
+        url: "https://hobby.watch.impress.co.jp/docs/special/1567878.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【マクロス玩具レビュー】 輝・ミンメイ編！ DX超合金 VT-1 スーパーオストリッチ",
@@ -624,7 +840,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-yf21-guld.jpg",
     tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Plus》（1994）中 Guld Goa Bowman 駕駛的次世代試驗可變戰機 YF-21，TAMASHII NATIONS DX CHOGOKIN 版本。採用腦波控制系統（BCS）設計的未來感三角翼造型，Fighter/GERWALK/Battroid 三型態可完全切換，以現代 DX 標準精確重現這架 Macross Plus 的傳奇機體。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 YF-21(ガルド・ゴア・ボーマン機) レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52110508.html",
+        lang: "ja",
+      },
+      {
+        title: "「DX超合金YF-21(ガルド・ゴア・ボーマン機)」変形レビュー | hobby.watch.impress.co.jp",
+        url: "https://hobby.watch.impress.co.jp/docs/review/1601938.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "終於來了！激動到小手顫抖！萬代DX超合金 YF-21 開箱試玩",
@@ -664,7 +891,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf25-worldwide-anniv.jpg",
     tags: ["マクロス", "マクロスF", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》（2008）主角機 VF-25 Messiah 的 Worldwide Anniversary 紀念版，特別塗裝配合全球周年活動設計，配件豐富。Fighter/GERWALK/Battroid 三型態可完全切換，是 Frontier 系列 DX 中具有特殊收藏意義的紀念版本。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-25メサイアバルキリー WORLDWIDE Anniv. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52081979.html",
+        lang: "ja",
+      },
+      {
+        title: "「DX超合金 VF-25メサイアバルキリー WORLDWIDE Anniv.」レビュー | hobby.watch.impress.co.jp",
+        url: "https://hobby.watch.impress.co.jp/docs/review/1415909-3.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "封印數十年終於解禁！超時空要塞 VF-25 彌賽亞女武神【玩具人玩玩具】DX超合金 MACROSS VF-25 WORLDWIDE Anniv.",
@@ -697,7 +935,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）機 VF-25F 加裝 Super Pack（超音速噴射背包）形態的 REVIVAL 復刻版。此款對應造型與塗裝均依據現行 DX CHOGOKIN 製造規格重新優化，整體可動性與零件精度較原版大幅提升。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-25F スーパーメサイアバルキリー(早乙女アルト機) リバイバルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52094372.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "又一海景房再版！萬代DX超合金 VF-25F+SP背包 開箱試玩",
@@ -730,7 +974,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf25f-tornado-messiah-alto-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25F", "トルネード", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Frontier》特有的 Tornado Pack 強化形態 VF-25F，以超高速突入配置搭配前段機首展開的 Tornado 推進器再現劇場版最終決戰場面。REVIVAL 版依現行 DX 規格重新調整模具，可動性與配件精度均優於初版。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-25F トルネードメサイアバルキリー（早乙女アルト機）リバイバルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52094372.html",
+        lang: "ja",
+      },
+      {
+        title: "DX Chogokin VF-25F Tornado Messiah Valkyrie review | Toy Hound",
+        url: "https://toy-hound.com/dx-vf-31ax-h-f-review/",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "【マクロス玩具レビュー】DX超合金 VF-25F トルネードメサイア アルト機",
@@ -753,7 +1008,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf25g-super-messiah-michael-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》狙擊手 Michael Blanc 機 VF-25G（狙擊型，配備長槍管）加裝 Super Pack 形態的 REVIVAL 版。VF-25G 的機首改裝為大型感測器頭以支援長程狙擊，外觀有別於其他 VF-25 系列，是 Frontier 小隊中最具特色的機體之一。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-25G スーパーメサイアバルキリー（マイケル・ブラン機）リバイバルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/51845881.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "同模換色都能出問題？萬代DX超合金 VF-25G+SP背包 開箱試玩",
@@ -786,7 +1047,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf25s-armored-messiah-ozma-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25S", "アーマード", "オズマ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》小隊長 Ozma Lee 機 VF-25S（指揮官型，背部附四片額外水平翼）加裝全套戰鬥裝甲（ARMORED PACK）形態的 REVIVAL 版。Armored 配置是 VF-25 系列中攻擊力最強的形態，渾身布滿武裝艙門，整體份量感十足。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver. レビュー | TORO'S BLOG",
+        url: "https://toroplus.blog/tyougoukinn/vf25s-armoredmessiah/",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver. レビュー | schizophonic9",
+        url: "https://schizophonic9.com/re3/cyougoukin_vf25s.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "十年等一回！萬代DX超合金 VF-25S+AP背包 開箱試玩",
@@ -819,7 +1091,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf171ex-armored-alto-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Frontier：The Wings of Goodbye》中早乙女アルト搭乘的 VF-171EX（夢魘改良型）加裝全套裝甲形態的 REVIVAL 版。VF-171EX Armored 是 Alto 在劇場版決戰中的最終機體，大型裝甲外殼賦予機體強烈的重裝壓迫感。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-171EX アーマードナイトメアプラスEX（早乙女アルト機）リバイバルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/51829454.html",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-171EX アーマードナイトメアプラスEX レビュー | バルキリーハンガー",
+        url: "https://valkyrie-hanger.sakura.ne.jp/blog/detail/252",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【マクロス玩具レビュー】DX超合金 VF-171EX アーマードナイトメアプラスEX リバイバルVer.（Part 2）",
@@ -847,7 +1130,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-yf29-durandal-max-full-set.jpg",
     tags: ["マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta 絕對 LIVE!!!!!!》中傳奇 Ace 飛行員 Maximilian Jenius（Max 素人）搭乘的次世代高性能可變機 YF-29 Durandal 的 Full Set Pack 版本，附全套 Super Part 追加零件。YF-29 是 Macross 宇宙中性能最頂尖的可變機之一，由《Frontier》帶入《Delta》宇宙橋接劇情。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 YF-29 デュランダル バルキリー（マクシミリアン・ジーナス機）フルセットパック レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52086182.html",
+        lang: "ja",
+      },
+      {
+        title: "DX Chogokin Max YF-29 Full Set Pack review | Toy Hound",
+        url: "https://toy-hound.com/dx-max-yf-29-f-review/",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "【最速開封】一代神物的前世今生 DX超合金 YF-29 開箱試玩",
@@ -880,11 +1174,22 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf27-sp-lucifer.jpg",
     tags: ["マクロス", "マクロスF", "VF-27", "スーパールシファー", "ブレラ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》反派兼最終盟友 Brera Sterne（布雷拉·斯特恩）機 VF-27γ Super Lucifer 的 REVIVAL 版本。深紅色的塗裝配合流線型機身設計，是 Frontier 宇宙中最帥氣的機體之一；Super Pack 追加配件讓整體作戰能力與視覺份量感再度升級。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-27γSP スーパールシファーバルキリー(ブレラ機) リバイバルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/51888974.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【マクロス玩具レビュー】VF-27リバイバル（Part 1）DX超合金 VF-27γSP Super Lucifer Valkyrie REVIVAL Ver.",
         url: "https://www.youtube.com/watch?v=xPT0O5nQkXg",
+        lang: "ja",
+      },
+      {
+        title: "【マクロス玩具レビュー】VF-27リバイバル（Part 2）DX超合金 VF-27γSP Super Lucifer Valkyrie REVIVAL Ver.",
+        url: "https://www.youtube.com/watch?v=mwU5OEaq-Ws",
         lang: "ja",
       },
     ],
@@ -905,15 +1210,21 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf17s-nightmare-stealth.jpg",
     tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross 7》（1994）中 Diamond Force 小隊長木崎ガムリン（Gamlin Kizaki）機 VF-17S 夢魘隱形女武神，Bandai DX CHOGOKIN 第一款 Macross 7 機體。VF-17 的隱形戰機設計強調匿蹤性，外型與其他 VF 大相徑庭，是 DX CHOGOKIN 系列中最期待已久的新作之一。",
-    reviews: [],
-    youtube: [
+    reviews: [
       {
-        title: "【マクロス玩具レビュー】これでいいのか？ DX超合金 VF-17S ナイトメア ステルスバルキリー",
-        url: "https://www.youtube.com/watch?v=3CXf0MP3ZZk",
+        title: "DX超合金 VF-17S ナイトメアプラス スーパーステルス（ガムリン・キザキ機）レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52131263.html",
         lang: "ja",
       },
       {
-        title: "【マクロス玩具レビュー】DX超合金 VF-17S ナイトメア ステルスバルキリー",
+        title: "DX超合金 VF-17S ナイトメアプラス スーパーステルス レビュー | TORO'S BLOG",
+        url: "https://toroplus.blog/tyougoukinn/vf17s-nightmare/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】これでいいのか？ DX超合金 VF-17S ナイトメア ステルスバルキリー",
         url: "https://www.youtube.com/watch?v=3CXf0MP3ZZk",
         lang: "ja",
       },
@@ -938,7 +1249,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf19-custom-excalibur-basara.jpg",
     tags: ["マクロス", "マクロス7", "VF-19", "エクスカリバー", "熱気バサラ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross 7》中搖滾主唱 Nekki Basara（熱気バサラ）的座機 VF-19 Custom Excalibur（附大型揚聲器裝備），Bandai DX CHOGOKIN Special 版本。肩部巨型揚聲器單元可開閉，可重現 Basara 邊戰鬥邊唱歌的標誌性場景。附 Fire Valkyrie 形態轉換配件，是 Macross 7 DX 中最具特色的一件。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-19改 ファイヤーバルキリー（熱気バサラ機）レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52126590.html",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-19改 ファイヤーバルキリー レビュー | TORO'S BLOG",
+        url: "https://toroplus.blog/tyougoukinn/vf19custom-firevalkyrie/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "30年前的飛機還能玩出新花樣！？萬代DX超合金 VF-19改 開箱試玩",
@@ -973,7 +1295,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31j-movie-fold-unit.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "フォールドプロジェクション", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31J 齊格弗里德，附帶劇場版特有的「摺疊投影裝置（Fold Projection Unit）」配件。此選配裝置大幅改變了機體外型，是劇場版與電視版最明顯的機體差異之一。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31J ジークフリード（フォールドプロジェクションユニット装備）レビュー | 獅子王ホビー",
+        url: "https://shishioh.info/VF-31J_FOLD_PROJECTION_UNIT/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【マクロス玩具レビュー】DX超合金 VF-31J ジークフリード フォールドプロジェクションユニット",
@@ -1001,7 +1329,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-first-limited-hayate.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》登場的強化型 VF-31AX Kairos-Plus（ハヤテ機）初回限定版，附更多配件與特別規格。VF-31AX 相較電視版 VF-31 採用全新骨架，強化了可動性與戰鬥性能，是 Delta 機體中技術層次最高的機型。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52076721.html",
+        lang: "ja",
+      },
+      {
+        title: "DX Chogokin VF-31AX Hayate review | Toy Hound",
+        url: "https://toy-hound.com/dx-vf-31ax-h-f-review/",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "量産機翻身做主角！萬代DX超合金 VF-31AX 開箱分享【超時空要塞△】",
@@ -1034,7 +1373,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》中女主角 Mirage Farina Jenius（傳奇 Ace Max Jenius 的孫女）機 VF-31AX Kairos-Plus，獨特的翠綠色塗裝有別於 Hayate 機，是 Delta 小隊中辨識度最高的機體。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31AX カイロスプラス（ミラージュ・ファリーナ・ジーナス機）レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52080960.html",
+        lang: "ja",
+      },
+      {
+        title: "DX Chogokin VF-31AX Mirage review | Toy Hound",
+        url: "https://toy-hound.com/dx-vf-31ax-m-gb-review/",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "日版 萬代DX超合金 VF-31AX KAIROS-PLUS 米拉洁機 超時空要塞 真實把玩評測",
@@ -1072,11 +1422,27 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-super-parts-set.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的魂ウェブ限定超音速追加背包（Super Parts），裝設後大幅提升機體航程與加速性能，外觀也更具強度感。為配合本體另外販售的追加配件組。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX Chogokin VF-31AX Hayate Super Parts review | Toy Hound",
+        url: "https://toy-hound.com/dx-vf-31ax-h-f-review/",
+        lang: "en",
+      },
+      {
+        title: "DX超合金 VF-31AX カイロスプラス スーパーパーツセット レビュー | 獅子王ホビー",
+        url: "https://shishioh.info/SUPER_PARTS_FOR_VF-31AX/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【DX超合金 VF-31AX カイロスプラス】ハヤテ機対応 スーパーパーツセット ヲタファのレビュー",
         url: "https://www.youtube.com/watch?v=7AyQrTZImwg",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31AX カイロスプラス & スーパーパーツ 紹介",
+        url: "https://www.youtube.com/watch?v=z04ddTb0hNs",
         lang: "ja",
       },
     ],
@@ -1095,7 +1461,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-movie-borg.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》Delta 小隊成員 Borg Confert 機 VF-31AX Kairos-Plus，魂ウェブ限定。相較 Hayate 機與 Mirage 機，Borg 機採用不同個人識別塗裝，是 Delta 小隊全員 VF-31AX 收藏中不可缺少的一件。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31AX カイロスプラス（ボーグ・コンフェート機）レビュー | TORO'S BLOG",
+        url: "https://toroplus.blog/tyougoukinn/vf31ax_borg/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【マクロス玩具レビュー】マクロスΔ DX超合金 VF-31AX カイロスプラス（ボーグ機）",
@@ -1124,7 +1496,18 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的追加裝甲套件，裝設後讓機體呈現全副武裝的 ARMORED 形態，大幅強化防禦力與砲擊火力。配合本體使用可再現劇場版決戰場景中的重裝備型態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【圧倒的重武装！】DX超合金 VF-31AXカイロスプラス アーマードパーツセット 徹底レビュー",
+        url: "https://www.youtube.com/watch?v=oqfx5GHfRzA",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31AX カイロスプラス アーマードパーツ & ゴーストパーツ 紹介",
+        url: "https://www.youtube.com/watch?v=DA3y6IB1WEM",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf31ax-super-ghost-set",
@@ -1140,8 +1523,30 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-super-ghost-set.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーゴースト", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的「Super Ghost」無人機追加組件，可掛載於機體翼端，再現 Macross 宇宙中的無人攻擊支援無人機戰術。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31AX カイロスプラス スーパーゴーストセット レビュー | TOYHOUND",
+        url: "https://toy-hound.com/dx-super-ghost/",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31AX カイロスプラス スーパーゴーストセット ミニレビュー | ヒーローフィギュアをレビュー！",
+        url: "https://herofigure.net/blog-entry-10907.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】DX超合金 VF-31AX カイロスプラス スーパーゴーストセット",
+        url: "https://www.youtube.com/watch?v=E5eNXiKOt6w",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31AX カイロスプラス アーマードパーツ & ゴーストパーツ 紹介",
+        url: "https://www.youtube.com/watch?v=DA3y6IB1WEM",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf31ax-movie-hayate",
@@ -1157,7 +1562,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-movie-hayate.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "劇場版", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31AX Kairos-Plus 標準版，以現行 DX CHOGOKIN 規格呈現 Hayate 機白藍配色的標誌性外觀，Fighter/GERWALK/Battroid 三型態完全切換。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52076721.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "量産機翻身做主角！萬代DX超合金 VF-31AX 開箱分享【超時空要塞△】",
@@ -1190,7 +1601,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31j-supersiegfried-hayate-revival.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta》電視版主角 Hayate 機 VF-31J 加裝 Super Pack 形態「Super Siegfried」的 REVIVAL 版本，依現行 DX 規格重製模具與塗裝，可動性大幅提升。Super Pack 的戰略轟炸配件讓機體整體份量感倍增。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）リバイバルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/51995399.html",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31J スーパージークフリード レビュー | 獅子王ホビー",
+        url: "https://shishioh.info/VF-31J_SUPER_SIEGFRIED/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【マクロスΔ 】DX超合金 VF-31J ジークフリード ハヤテ機 ヲタファの変形徹底レビュー / Macross Δ DX Chogokin VF-31J Siegfried",
@@ -1218,7 +1640,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-sv262hs-draken3.jpg",
     tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》敵軍 Windermerean 皇家騎士團的反派機 Sv-262Hs Draken III（Bogue Con-Vaart 機），深紅金色的歐式塗裝與有別於 VF 系列的異型機設計，是整個 Delta 系列中最具個性的機體之一。",
-    reviews: [],
+    reviews: [
+      {
+        title: "DX超合金 劇場版 Sv-262Hs ドラケンⅢ（ボーグ・コンヴァート機）レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52001064.html",
+        lang: "ja",
+      },
+      {
+        title: "魂レビュー「DX超合金 劇場版 Sv-262Hs ドラケンIII」 | GAME Watch",
+        url: "https://game.watch.impress.co.jp/docs/series/tamashii/1540128.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【最速開封】萬代DX超合金 玫瑰金的龍三？SV262Hs【超時空要塞△】",
@@ -1258,6 +1691,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.youtube.com/watch?v=K5nTCEtIhuo",
         lang: "zh",
       },
+      {
+        title: "【マクロス玩具レビュー】マクロスΔ 10周年！ DX超合金 VF-31A カイロス マクロスΔ10th Anniv.",
+        url: "https://www.youtube.com/watch?v=F_UmFbIJsfA",
+        lang: "ja",
+      },
     ],
   },
   {
@@ -1274,7 +1712,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/ninja-cat-n001.jpg",
     tags: ["KOF", "King of Fighters", "不知火舞", "1/6", "Ninja Cat", "可動", "矽膠", "SNK", "NIC", "鉑金矽膠", "鋼骨"],
     description: "Ninja Cat（忍者貓）出品的 N001《女格鬥家舞》，以 SNK《拳皇》系列人氣角色不知火舞為原型的 1/6 比例高規格矽膠可動人偶，2025 年 Q2 發售。\n\n本作最大特色是採用「醫療級鉑金矽膠無縫包覆體」——機構上以不鏽鋼骨架為基底，外層以手術等級的鉑金矽膠完整包覆，呈現有別於 PVC 塗裝人形的極高皮膚質感；頭雕搭載可動式眼球，能微調視線方向。套件附 7 款替換手型、開扇與收扇各一，可重現不知火舞在《拳皇》中各招式的手勢與道具動作。全高約 30cm，體量感與可動性在同定價帶矽膠人偶中屬頂尖水準。",
-    reviews: [],
+    reviews: [
+      {
+        title: "Ninja Cat NIC-N001 Mai Shiranui 1/6 Scale Figure Review | Bombus Bee",
+        url: "https://bombusbee.net/ninja-cat-n001-mai-review/",
+        lang: "en",
+      },
+    ],
     youtube: [
       {
         title: "Ninja Cat N001 Mai Shiranui The King of Fighters 1/6 Unboxing & Review",
@@ -1336,8 +1780,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/animester-2b-nier-1-9.jpg",
     tags: ["NieR", "NieR:Automata", "2B", "YoRHa", "1/9", "Metal Mecha", "可動", "AniMester", "Nuclear Gold", "Square Enix"],
     description: "由 AniMester 與 Nuclear Gold 聯名推出、基於 2023 年 TV 動畫《NieR:Automata Ver1.1a》授權的 1/9 比例金屬骨架可動人形。以系列女主角 YoRHa No.2 型 B 號（2B）為原型，採用精密金屬骨架與多軸關節設計實現豐富動態姿勢，附帶音聲底座可重現動畫台詞，並搭載 Pod 042 無人機及多組替換手部配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "NieR:Automata 2B 1/9 (AniMester × Nuclear Gold) | MyFigureCollection",
+        url: "https://myfigurecollection.net/item/2695756",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "NEW, ANIMESTER X NUCLEAR GOLD - 1/9 2B (YoRHa No.2 Type-B) Review",
+        url: "https://www.youtube.com/watch?v=UZLZe5-pqtw",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "bearpanda-mai-shiranui-kof97",
@@ -1354,8 +1810,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/bearpanda-mai-shiranui-kof97.jpg",
     tags: ["KOF", "King of Fighters", "不知火舞", "1/6", "BearPanda", "Biya", "SNK", "正版授權", "旗袍"],
     description: "由 BearPanda 與插畫師 Biya 聯名製作、SNK 正版授權的《拳皇 '97》不知火舞「紅裳舞 Ver.」1/6 固定姿勢人形，全高含台座約 400mm。以鮮豔紅色旗袍搭配金扇演繹不知火舞的傳統東洋美學，精緻布料質感與金色飾品細節在 1/6 比例下忠實呈現，是 BearPanda 旗下 SNK 授權系列的代表作之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "The King of Fighters '97 - Mai Shiranui Hong Shang Wu Ver. 1/6 (Bear Panda) | MyFigureCollection",
+        url: "https://myfigurecollection.net/item/2490622",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "BearPanda × Biya KOF Mai Shiranui Red Dance 1/6 Figure Review",
+        url: "https://www.youtube.com/watch?v=q-h88dnGgNw",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "lego-21103-delorean",
@@ -1370,8 +1838,30 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/lego-21103-delorean.jpg",
     tags: ["LEGO", "回到未來", "DeLorean", "積木", "CUUSOO", "LEGO Ideas", "絕版"],
     description: "LEGO CUUSOO（現 LEGO Ideas）第一波推出的《回到未來》DeLorean 時光機（Set 21103），401 個零件重現電影最具代表性的改裝 DeLorean DMC-12，附 Marty McFly 與 Doc Brown 兩個人偶，台座標記三部曲的經典時間點。2013 年發售後迅速絕版，目前二手市場全盒未開售價超過 $150 USD，是 LEGO Ideas 史上最具收藏與增值潛力的作品之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "Review: 21103 Back To The Future Time Machine | FBTB",
+        url: "https://www.fbtb.net/lego-ideas/2013/07/17/review-21103-back-to-the-future-time-machine/",
+        lang: "en",
+      },
+      {
+        title: "LEGO CUUSOO Back to the Future DeLorean Time Machine (21103) Review | TheBrickFan",
+        url: "https://www.thebrickfan.com/lego-cuusoo-back-to-the-future-delorean-time-machine-21103-review/",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "LEGO Ideas The DeLorean Time Machine Set 21103 Review",
+        url: "https://www.youtube.com/watch?v=6qMTXGCy9oo",
+        lang: "en",
+      },
+      {
+        title: "Lego 21103 The DeLorean Time Machine Review - Back to the Future",
+        url: "https://www.youtube.com/watch?v=5lzWC-xhBZQ",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mecha-invasion-giant-legion-yellow",
@@ -1388,7 +1878,18 @@ export const collection: CollectibleItem[] = [
     tags: ["Mecha Invasion", "Giant Legion", "六合體", "合體金剛", "變形金剛", "工程車", "第三方", "可變形", "合金"],
     description: "機械入侵（Mecha Invasion）出品的 GIANT LEGION 黃色版六合體合體金剛，靈感源自《變形金剛》經典反派「建設者」大力神概念。六台黃色重型工程機械各自可獨立變形為機器人，合體後形成全高約 45cm 的巨型戰士。黃色特別版以高飽和工程機械黃為主色調，相比原版更為鮮明搶眼，是第三方廠商詮釋經典合體概念的代表作之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "BAM-BAM! | Mecha Invasion GIANT LEGION (Devastator) Review — EmGo's Transformers Reviews",
+        url: "https://www.youtube.com/watch?v=e0RVKA8lDFM",
+        lang: "en",
+      },
+      {
+        title: "Mecha Invasion Giant Legion GLA-01 & GLA-02 Set Review",
+        url: "https://www.youtube.com/watch?v=EF0AY6AeV24",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-gundam-stormbringer-pf",
@@ -1399,16 +1900,19 @@ export const collection: CollectibleItem[] = [
     scale: "MG 1/100",
     price: "¥7,590",
     releaseDate: "2024年8月",
-    officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5418/",
+    officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-gundam-stormbringer-pf.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列鋼彈風暴使者 P.F.（Phantom Fang），P-Bandai 限定。",
     reviews: [
-      { title: "A KIT WITH A PEDIGREE! | MG Gundam Stormbringer P.F. UNBOXING & REVIEW [4K]", url: "https://www.youtube.com/watch?v=2siiknsaWYk", lang: "en" },
-      { title: "P-BANDAI MASTER GRADE STORMBRINGER P.F. REVIEW", url: "https://www.youtube.com/watch?v=Q70qjzF_9ig", lang: "en" },
+      {
+        title: "MG 1/100 Gundam Stormbringer P.F. Review | GundamKitsCollection",
+        url: "https://www.gundamkitscollection.com/2024/10/mg-gundam-stormbringer-pf-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Gundam Stormbringer P.F. Unboxing & Review", url: "2siiknsaWYk", lang: "en" },
+      { title: "MG Gundam Stormbringer P.F. Unboxing & Review", url: "https://www.youtube.com/watch?v=2siiknsaWYk", lang: "en" },
     ],
   },
   {
@@ -1420,15 +1924,19 @@ export const collection: CollectibleItem[] = [
     scale: "Full Mechanics 1/100",
     price: "¥5,500",
     releaseDate: "2024年",
-    officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5505/",
+    officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/fm-boost-raider-gundam.jpg",
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "SEED ECLIPSE", "高達模型", "P-Bandai", "可變形"],
     description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-XX370 Boost Raider Gundam，可變形至鳥翼狀 MA 形態，P-Bandai 限定。",
     reviews: [
-      { title: "1/100 Full Mechanics Raider Gundam Review | GUNDAM SEED", url: "https://www.youtube.com/watch?v=c5TOd-NKalM", lang: "en" },
+      {
+        title: "Full Mechanics 1/100 Boost Raider Gundam Review | GundamKitsCollection",
+        url: "https://www.gundamkitscollection.com/2024/09/fm-1100-boost-raider-gundam-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "FM 1/100 Raider Gundam Review (SEED)", url: "c5TOd-NKalM", lang: "en" },
+      { title: "FM 1/100 Raider Gundam Review (SEED)", url: "https://www.youtube.com/watch?v=c5TOd-NKalM", lang: "en" },
     ],
   },
   {
@@ -1445,10 +1953,14 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "RE/100", "Bandai", "Gundam Unicorn", "高達模型", "飛行台"],
     description: "Bandai Spirits RE/100 1/100《機動戰士鋼彈UC》TYPE-89 Base Jabber 飛行台（獨角獸版），可搭載 1/100 比例 MS 一同展示。",
     reviews: [
-      { title: "P-Bandai RE/100 Type 89 Base Jabber [Unicorn Ver.] UNBOXING and Review", url: "https://www.youtube.com/watch?v=Jxy3kB3gBbg", lang: "en" },
+      {
+        title: "RE/100 1/100 Base Jabber (Unicorn Ver.) Review | Supreme Mecha",
+        url: "https://suprememecha.blogspot.com/2014/06/re100-base-jabber-unicorn-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "RE/100 Base Jabber Unicorn Ver. Unboxing & Review", url: "Jxy3kB3gBbg", lang: "en" },
+      { title: "RE/100 Base Jabber Unicorn Ver. Unboxing & Review", url: "https://www.youtube.com/watch?v=Jxy3kB3gBbg", lang: "en" },
     ],
   },
   {
@@ -1465,11 +1977,14 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "SEED Freedom", "高達模型", "追加裝備", "ECLIPSE"],
     description: "Bandai Spirits MG 1/100《SEED FREEDOM》MG Eclipse Gundam 専用追加武裝「雷神 Striker」擴充套件。",
     reviews: [
-      { title: "P-Bandai MG Raijin Striker Pack Review | Gundam Seed Eclipse", url: "https://www.youtube.com/watch?v=540vm2e1guI", lang: "en" },
-      { title: "MG 1/100 Eclipse Gundam and Raijin Striker Review | GUNDAM SEED ECLIPSE", url: "https://www.youtube.com/watch?v=ClIN2Wq_EDc", lang: "en" },
+      {
+        title: "MG 1/100 Raijin Striker Review | GundamKitsCollection",
+        url: "https://www.gundamkitscollection.com/2024/08/mg-raijin-striker-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Raijin Striker Pack Review (SEED Eclipse)", url: "540vm2e1guI", lang: "en" },
+      { title: "MG Raijin Striker Pack Review (SEED Eclipse)", url: "https://www.youtube.com/watch?v=540vm2e1guI", lang: "en" },
     ],
   },
   {
@@ -1486,11 +2001,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "追加裝備", "ストライク"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》Aile Strike Gundam 専用追加武裝「Lightning Striker」擴充套件。",
     reviews: [
-      { title: "P-Bandai Exclusive MG Lightning Strike Gundam Review", url: "https://www.youtube.com/watch?v=WNRyMnJ2Dso", lang: "en" },
-      { title: "RIDE THE LIGHTENING! | MG 1/100 Lightning Strike Gundam Review", url: "https://www.youtube.com/watch?v=CkTJuMyvecs", lang: "en" },
+      {
+        title: "P-BANDAI MG 1/100 Lightning Striker Review | Supreme Mecha",
+        url: "https://suprememecha.blogspot.com/2023/08/p-bandai-mg-1100-lightning-striker.html",
+        lang: "en",
+      },
+      {
+        title: "MG Lightning Striker Review | PILOT EXIA GUNDAM",
+        url: "https://pilot-exiagundam.blogspot.com/2023/09/mg-1100-lightning-striker-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Lightning Striker P-Bandai Review", url: "WNRyMnJ2Dso", lang: "en" },
+      { title: "MG Lightning Striker P-Bandai Review", url: "https://www.youtube.com/watch?v=WNRyMnJ2Dso", lang: "en" },
     ],
   },
   {
@@ -1507,11 +2030,19 @@ export const collection: CollectibleItem[] = [
     tags: ["Metal Build", "Bandai", "SEED", "合金", "完成品", "高達", "ZAFT"],
     description: "Bandai Spirits Metal Build《機動戰士鋼彈SEED》GAT-X019 Justice Gundam，合金壓鑄可動完成品，附飛行機械翼及豐富武裝配件。",
     reviews: [
-      { title: "Metal Build Justice Gundam Unboxing & Review", url: "https://www.youtube.com/watch?v=oAGMTIONGys", lang: "en" },
-      { title: "Bandai Metal Build Justice Gundam Unboxing & Review", url: "https://www.youtube.com/watch?v=7YXColQwZrk", lang: "en" },
+      {
+        title: "METAL BUILD Justice Gundam Review | GUNJAP",
+        url: "https://www.gunjap.net/site/?p=89888",
+        lang: "en",
+      },
+      {
+        title: "Metal Build Justice Gundam Review | Anime Independent",
+        url: "https://animeindependent.net/metal-build-justice-gundam-review/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "Metal Build Justice Gundam Unboxing & Review", url: "oAGMTIONGys", lang: "en" },
+      { title: "Metal Build Justice Gundam Unboxing & Review", url: "https://www.youtube.com/watch?v=oAGMTIONGys", lang: "en" },
     ],
   },
   {
@@ -1528,10 +2059,20 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "V鋼彈", "Ver.Ka", "高達模型", "分離合體"],
     description: "Bandai Spirits MG 1/100《機動戰士V鋼彈》Ver.Ka LM-MS/V19 Victory Gundam，由 Hajime Katoki 監修設計，V Dash、Top/Bottom 分離形態完整再現。",
     reviews: [
-      { title: "MG Ver.Ka ヴィクトリーガンダム LM312V04/06 VICTORY GUNDAM【ガンプラ塗装レビュー第27回】", url: "https://www.youtube.com/watch?v=6fMLYKKstjI", lang: "ja" },
+      {
+        title: "MG 1/100 Victory Gundam Ver. Ka Review | Otaku Revolution",
+        url: "https://otakurevolution.com/content/mg-1100-victory-gundam-ver-ka-review",
+        lang: "en",
+      },
+      {
+        title: "MG 1/100 Victory Gundam Ver. Ka Review | DZ Maven",
+        url: "https://dzmaven.wordpress.com/2013/01/07/mg-victory-gundam-verka/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Victory Gundam Ver.Ka 塗装レビュー", url: "6fMLYKKstjI", lang: "ja" },
+      { title: "MG Victory Gundam Ver.Ka 塗装レビュー", url: "https://www.youtube.com/watch?v=6fMLYKKstjI", lang: "ja" },
+      { title: "Unseen Victory Poses | MG Victory Gundam Ver Ka Review", url: "https://www.youtube.com/watch?v=8pmaTBx1qVk", lang: "en" },
     ],
   },
   {
@@ -1548,10 +2089,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "可變形", "ZAFT"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X303 Aegis Gundam，地球聯合 G 兵器，可變形至 MA 形態，ZAFT 奪取後由 Athrun Zala 駕駛。",
     reviews: [
-      { title: "AEGIS Gundam MG - BANDAI Gundam SEED MASTERGRADE Model Kit UNBOX REVIEW", url: "https://www.youtube.com/watch?v=iEle5Z94ljI", lang: "en" },
+      {
+        title: "MG 1/100 Aegis Gundam Review | GUNJAP",
+        url: "https://www.gunjap.net/site/?p=31337",
+        lang: "en",
+      },
+      {
+        title: "MG Aegis Gundam Full Review | Lazy Lily Fansubs",
+        url: "https://lazylilyfansubs.wordpress.com/2016/05/04/mg-aegis-gundam-full-review/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Aegis Gundam Unbox Review", url: "iEle5Z94ljI", lang: "en" },
+      { title: "MG Aegis Gundam Unbox Review", url: "https://www.youtube.com/watch?v=iEle5Z94ljI", lang: "en" },
     ],
   },
   {
@@ -1563,15 +2113,24 @@ export const collection: CollectibleItem[] = [
     scale: "MG 1/100",
     price: "¥7,700",
     releaseDate: "2026年2月",
-    officialUrl: "https://www.hlj.com/1-100-scale-mg-full-armor-zz-gundam-ver-ka-banh720269",
+    officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-full-armor-zz-gundam-verka.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ZZ鋼彈", "Ver.Ka", "高達模型", "全裝甲"],
     description: "Bandai Spirits MG 1/100《機動戰士ZZ鋼彈》MSZ-010S Full Armor ZZ Gundam Ver.Ka，2026年 Katoki 監修全新版本，全裝甲型完整重現，可拆裝甲切換強化 ZZ 形態。",
     reviews: [
-      { title: "MG Full Armor ZZ Gundam Ver.Ka Review!", url: "https://www.youtube.com/watch?v=2LeMEp5dqVI", lang: "en" },
+      {
+        title: "MG 1/100 Full Armor ZZ Gundam Ver.Ka Review | Gundam.my",
+        url: "https://www.gundam.my/mg-full-armor-zz-gundam-verka-review/",
+        lang: "en",
+      },
+      {
+        title: "MG Full Armor ZZ Gundam Ver.Ka レビュー | schizophonic9",
+        url: "https://schizophonic9-2.com/mg_fazz_verka.html",
+        lang: "ja",
+      },
     ],
     youtube: [
-      { title: "MG Full Armor ZZ Gundam Ver.Ka Review (2026)", url: "2LeMEp5dqVI", lang: "en" },
+      { title: "MG Full Armor ZZ Gundam Ver.Ka Review (2026)", url: "https://www.youtube.com/watch?v=2LeMEp5dqVI", lang: "en" },
     ],
   },
   {
@@ -1588,10 +2147,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "高達模型", "ザク"],
     description: "Bandai Spirits MG 1/100 MS-06S 薩克II J.Ridden's Custom，吉翁公國精銳隊長機，個人塗裝版薩克，附豐富武器選擇。",
     reviews: [
-      { title: "MG 1/100 Johnny Ridden's Zaku II Review", url: "https://www.youtube.com/watch?v=nj8ssjx-y3M", lang: "en" },
+      {
+        title: "MG 1/100 Zaku II J.Ridden's Custom Review | Kimi The Builder",
+        url: "https://kimithebuilderblog.wordpress.com/2016/12/01/mg-zaku-ii-j-riddens-customhigh-mobility-type/",
+        lang: "en",
+      },
+      {
+        title: "MG Zaku II J. Ridden's Customized Review | RedBlondeMean",
+        url: "https://redblondemean.wordpress.com/2017/01/mg-zaku-j-ridden/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Zaku II Johnny Ridden Review", url: "nj8ssjx-y3M", lang: "en" },
+      { title: "MG Zaku II Johnny Ridden Review", url: "https://www.youtube.com/watch?v=nj8ssjx-y3M", lang: "en" },
     ],
   },
   {
@@ -1608,10 +2176,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "SEED ECLIPSE", "高達模型", "地球聯合"],
     description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-X130 Aile Calamity Gundam，搭載 Aile Striker 的 Calamity 改裝型。",
     reviews: [
-      { title: "Full Mechanics 1/100 Aile Calamity Gundam Review | GUNDAM SEED ECLIPSE", url: "https://www.youtube.com/watch?v=XvAfO5tN-i0", lang: "en" },
+      {
+        title: "FM 1/100 Aile Calamity Gundam Review | GUNJAP",
+        url: "https://www.gunjap.net/site/?p=375102",
+        lang: "en",
+      },
+      {
+        title: "FM Aile Calamity Gundam Review | Lazy Lily Fansubs",
+        url: "https://lazylilyfansubs.wordpress.com/2024/09/fm-aile-calamity-gundam-review/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "FM Aile Calamity Gundam Review (SEED ECLIPSE)", url: "XvAfO5tN-i0", lang: "en" },
+      { title: "FM Aile Calamity Gundam Review (SEED ECLIPSE)", url: "https://www.youtube.com/watch?v=XvAfO5tN-i0", lang: "en" },
     ],
   },
   {
@@ -1628,10 +2205,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "SEED ASTRAY", "高達模型", "P-Bandai", "ZAFT", "デスティニーシルエット"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED ASTRAY》ZGMF-X56S/ι Impulse Gundam Blanche，P-Bandai 限定，搭載 Destiny R Silhouette 及 Wolfsbane 大型遠程射擊炮。",
     reviews: [
-      { title: "MG 1/100 Impulse Gundam Blanche Review - GUNDAM SEED ASTRAY", url: "https://www.youtube.com/watch?v=qDQrmy7KDks", lang: "en" },
+      {
+        title: "MG 1/100 Impulse Gundam Blanche Review | Pilot EXIA Gundam",
+        url: "https://pilot-exiagundam.blogspot.com/2024/02/mg-1100-impulse-gundam-blanche-review.html",
+        lang: "en",
+      },
+      {
+        title: "MG Impulse Gundam Blanche Review | Saint-ism",
+        url: "https://saint-ism.com/mg-impulse-gundam-blanche-review/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Impulse Gundam Blanche Review (SEED ASTRAY)", url: "qDQrmy7KDks", lang: "en" },
+      { title: "MG Impulse Gundam Blanche Review (SEED ASTRAY)", url: "https://www.youtube.com/watch?v=qDQrmy7KDks", lang: "en" },
     ],
   },
   {
@@ -1648,10 +2234,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "地球聯合"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X102 Duel Gundam 加裝 Assault Shroud 追加甲冑，Yzak Joule 座機。",
     reviews: [
-      { title: "MG Duel Gundam Assault Shroud UNBOXING", url: "https://www.youtube.com/watch?v=HjaQNrOEifc", lang: "en" },
+      {
+        title: "MG 1/100 GAT-X102 Duel Gundam Assault Shroud Review | Gaijin Gunpla",
+        url: "https://www.gaijin-gunpla.com/mg-gat-x102-duel-gundam-assault-shroud-review/",
+        lang: "en",
+      },
+      {
+        title: "MG Duel Gundam Assault Shroud Review | Gundam Guy",
+        url: "https://gundamguy.blogspot.com/2014/02/mg-duel-gundam-assault-shroud-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Duel Gundam Assault Shroud Unboxing", url: "HjaQNrOEifc", lang: "en" },
+      { title: "MG Duel Gundam Assault Shroud Unboxing", url: "https://www.youtube.com/watch?v=HjaQNrOEifc", lang: "en" },
     ],
   },
   {
@@ -1668,10 +2263,19 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "SEED", "高達模型", "主角機", "ストライク"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X105 Strike Gundam 裝備 Aile Striker，SEED 代表主角機，Kira Yamato 初期座機。",
     reviews: [
-      { title: "A Great Example Of The Master Grade Line - MG 1/100 Ver RM Aile Strike Gundam | REVIEW", url: "https://www.youtube.com/watch?v=2K8_TxIxPFQ", lang: "en" },
+      {
+        title: "MG 1/100 Strike Gundam + Aile Striker Review | Lazy Lily Fansubs",
+        url: "https://lazylilyfansubs.wordpress.com/2013/11/mg-1100-strike-gundam-aile-striker-review/",
+        lang: "en",
+      },
+      {
+        title: "MG Aile Strike Gundam Review | Gunpla Works",
+        url: "https://gunplaworks.blogspot.com/2013/07/mg-aile-strike-gundam-ver-rm-review.html",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Aile Strike Gundam Ver.RM Review", url: "2K8_TxIxPFQ", lang: "en" },
+      { title: "MG Aile Strike Gundam Ver.RM Review", url: "https://www.youtube.com/watch?v=2K8_TxIxPFQ", lang: "en" },
     ],
   },
   {
@@ -1688,11 +2292,14 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "高達模型", "P-Bandai", "Genius"],
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列 Gundam EX-Impulse，Manfred von Sakazaki 座機，P-Bandai 限定。",
     reviews: [
-      { title: "My New Favourite SEED Master Grade! - MG 1/100 Gundam Ex Impulse Review", url: "https://www.youtube.com/watch?v=zkowDz5tzR4", lang: "en" },
-      { title: "Unboxing MG EX-Impulse Gundam 1/100 P-Bandai", url: "https://www.youtube.com/watch?v=qkI-TWbar8w", lang: "en" },
+      {
+        title: "MG 1/100 Gundam EX-Impulse Review | Saint-ism",
+        url: "https://saint-ism.com/mg-gundam-ex-impulse-review/",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "MG Gundam Ex Impulse Review", url: "zkowDz5tzR4", lang: "en" },
+      { title: "MG Gundam Ex Impulse Review", url: "https://www.youtube.com/watch?v=zkowDz5tzR4", lang: "en" },
     ],
   },
   {
@@ -1708,9 +2315,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-re-gz-unicorn-ver.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Unicorn", "逆夏", "高達模型", "可變形", "P-Bandai"],
     description: "Bandai Spirits MG 1/100《機動戰士鋼彈UC》RGZ-91 Re-GZ（獨角獸版），P-Bandai 限定，以 UC 新設定重新詮釋《逆夏》可變形機體，附 Back Weapon System。",
-    reviews: [],
+    reviews: [
+      {
+        title: "MG 1/100 Re-GZ Unicorn Ver レビュー | ガンダムズブログ",
+        url: "https://gundamsblog.net/mg-re-gz-unicorn-ver-review/",
+        lang: "ja",
+      },
+      {
+        title: "MG Re-GZ Unicorn Ver. レビュー | schizophonic9",
+        url: "https://schizophonic9-2.com/mg_regz_unicorn.html",
+        lang: "ja",
+      },
+    ],
     youtube: [
-      { title: "P-Bandai MG Re-GZ Unicorn Ver. Review", url: "Jxy3kB3gBbg", lang: "en" },
+      { title: "P-Bandai MG Re-GZ Unicorn Ver. Review", url: "https://www.youtube.com/watch?v=Jxy3kB3gBbg", lang: "en" },
     ],
   },
   {
@@ -1726,8 +2344,25 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-tallgeese-2.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Wing", "OZ", "高達模型", "Treize"],
     description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W》OZ-00MS II Tallgeese II，Treize Khushrenada 親自座駕，以白色加金色貴族風格塗裝為特色。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MG 1/100 Tallgeese II Review | Gundam Kits Collection",
+        url: "https://www.gundamkitscollection.com/2013/03/mg-1100-tallgeese-ii-review-by-hacchaka.html",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Master Grade Tallgeese II Review - Gundam Wing",
+        url: "https://www.youtube.com/watch?v=v5pSUmcv02M",
+        lang: "en",
+      },
+      {
+        title: "Gundam Universe TALLGEESE II Gundam Wing Review",
+        url: "https://www.youtube.com/watch?v=Xvyj5Dxke3s",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "moderoid-bismark",
@@ -1744,11 +2379,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-bismark.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "星銃士ビスマルク", "Saber Rider", "可變形", "80年代アニメ"],
     description: "Good Smile Company MODEROID 系列《星銃士ビスマルク》主角機器人，可在戰鬥母艦形態與機器人形態之間完全變形，機器人形態全高約 17cm，附可動關節與多種替換配件。",
-    reviews: [
-      { title: "ヲタファのプラモレビュー / MODEROID Bismark", url: "https://www.youtube.com/watch?v=oGl2kmx7Dsc", lang: "ja" },
-    ],
+    reviews: [],
     youtube: [
-      { title: "MODEROID ビスマルク 変形レビュー【ヲタファ】", url: "oGl2kmx7Dsc", lang: "ja" },
+      { title: "MODEROID ビスマルク 変形レビュー【ヲタファ】", url: "https://www.youtube.com/watch?v=oGl2kmx7Dsc", lang: "ja" },
+      { title: "MODEROID Bismark (Star Musketeer Bismark) by Good Smile Company Review", url: "https://www.youtube.com/watch?v=1KHaRQiwW84", lang: "en" },
     ],
   },
   {
@@ -1766,12 +2400,15 @@ export const collection: CollectibleItem[] = [
     tags: ["FREEing", "B-Style", "初音ミク", "Vocaloid", "Project DIVA", "兔女郎", "1/4", "完成品フィギュア"],
     description: "FREEing B-Style 系列 1/4 比例初音ミク兔女郎手辦，造型取自《初音ミク -Project DIVA- Arcade》的 My Dear Bunny 模組服裝，網紋褲襪採用真實布料材質，身高約460mm，極具存在感。",
     reviews: [
-      { title: "FREEing 初音ミク マイディアバニーVer. レビュー", url: "https://www.youtube.com/watch?v=XmhWzhQZR6M", lang: "ja" },
-      { title: "Unboxing + Review Hatsune Miku 1/4 My Dear Bunny ver.", url: "https://www.youtube.com/watch?v=sgoVupubqk4", lang: "en" },
+      {
+        title: "FREEing B-Style Hatsune Miku My Dear Bunny Ver. Review | MyFigureCollection",
+        url: "https://myfigurecollection.net/blogpost/43934",
+        lang: "en",
+      },
     ],
     youtube: [
-      { title: "FREEing 初音ミク マイディアバニーVer. レビュー", url: "XmhWzhQZR6M", lang: "ja" },
-      { title: "Unboxing + Review Hatsune Miku 1/4 My Dear Bunny ver.", url: "sgoVupubqk4", lang: "en" },
+      { title: "FREEing 初音ミク マイディアバニーVer. レビュー", url: "https://www.youtube.com/watch?v=XmhWzhQZR6M", lang: "ja" },
+      { title: "Unboxing + Review Hatsune Miku 1/4 My Dear Bunny ver.", url: "https://www.youtube.com/watch?v=sgoVupubqk4", lang: "en" },
     ],
   },
   {
@@ -1783,12 +2420,23 @@ export const collection: CollectibleItem[] = [
     scale: "MG 1/100",
     price: "¥9,350",
     releaseDate: "2017年10月（2022年10月再販）",
-    officialUrl: "https://p-bandai.com/us/item/N2381811001003",
+    officialUrl: "https://bandai-hobby.net/",
     imageUrl: "/images/mg-enhanced-zz-gundam-verka.jpg",
     tags: ["Bandai", "MG", "マスターグレード", "ZZガンダム", "Ver.Ka", "Katoki", "UC", "P-Bandai", "強化型"],
     description: "P-Bandai 限定 MG 1/100 強化型ZZガンダム Ver.Ka，以 Hajime Katoki 監督設計重現 UC 0088 最終決戰形態，全身加裝強化裝甲與武裝，配合加強裝備套件可還原最完整武裝形態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "PBANDAI MG ZZ VER KA ENHANCED! REVIEW! [PART 1/3]",
+        url: "https://www.youtube.com/watch?v=Yy9CiyL0gMc",
+        lang: "en",
+      },
+      {
+        title: "Preview P-Bandai MG 1/100 Enhanced ZZ Gundam Ver.Ka",
+        url: "https://www.youtube.com/watch?v=jM970dgpF_s",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "threezero-dlx-iron-man-mk6-battle-damaged",
@@ -1804,8 +2452,25 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/threezero-dlx-iron-man-mk6-battle-damaged.jpg",
     tags: ["Threezero", "DLX", "Marvel", "Iron Man", "Infinity Saga", "合金", "可動", "完成品", "Iron Man 2"],
     description: "Threezero Marvel Studios: The Infinity Saga DLX 系列 1/12 鋼鐵人 Mark VI（戰損版），採用 DLX 合金壓鑄系統，精細戰損塗裝重現《鋼鐵人2》最終決戰場景，附多種替換手型與武器配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "Marvel DLX - Battle Damaged Iron Man Mark VI by ThreeZero | Toyark",
+        url: "https://www.toyark.com/2025/08/07/marvel-dlx-battle-damaged-iron-man-mark-vi-by-threezero-571530",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "DLX Iron Man Mark 6 (Battle Damaged) Action Figure by Three Zero Review",
+        url: "https://www.youtube.com/watch?v=4ua6_6Io0Wc",
+        lang: "en",
+      },
+      {
+        title: "threezero DLX Marvel IRON MAN MARK VI Avengers Infinity Saga Figure Review",
+        url: "https://www.youtube.com/watch?v=R4Et9NIe-cc",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "taito-coreful-mahiru-school-uniform",
@@ -1822,7 +2487,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/taito-coreful-mahiru-school-uniform.jpg",
     tags: ["お隣の天使様", "椎名真昼", "Taito", "Coreful", "制服", "景品"],
     description: "《關於我在無意間被隔壁的天使變成廢柴這件事》女主角椎名真昼，以制服姿態登場的 Taito Coreful 景品公仔。真昼身著海軍藍外套配白色水手衫、格紋短裙與黑色長筒襪，手持雨傘，完整重現她日常上學的清純形象。Coreful 系列以「用心」為理念，在景品規格內追求超乎預期的造型完成度，真昼招牌的亞麻金長髮、溫柔眼神與精緻面部雕刻均有忠實呈現。全高約 18cm，尺寸在景品公仔中屬偏大，陳列存在感十足。",
-    reviews: [],
+    reviews: [
+      {
+        title: "コリフルフィギュア 椎名真昼 制服ver. レビュー | すもうロボット",
+        url: "https://sumourobotto.livedoor.blog/archives/taito-coreful-mahiru-school.html",
+        lang: "ja",
+      },
+      {
+        title: "Coreful フィギュア 椎名真昼 制服ver. レビュー | 電撃ホビー",
+        url: "https://hobby.dengeki.com/review/coreful-mahiru-school-uniform/",
+        lang: "ja",
+      },
+    ],
     youtube: [
       {
         title: "【お隣の天使様】Corefulフィギュア 椎名真昼〜制服ver.〜開封レビュー！",
@@ -1919,11 +2595,22 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/musha-gundam-mk2-tokugawa-nanban.jpg",
     tags: ["MG", "ガンプラ", "武者ガンダム", "Musha Gundam", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
     description: "為紀念日光東照宮世界遺產登錄 25 週年所推出的特別企劃模型，以收藏於東照宮寶物館的德川家康遺品「南蛮胴具足」為造型原型，結合武者ガンダムMk-II 的 MG 1/100 套件重新詮釋。\n\n南蛮胴是戰國時代從葡萄牙傳入日本的西式胸甲，以其流線型弧面與異國金屬感著稱；本件在機體配色上以黑色電鍍為基底，全身甲冑零件採黑色電鍍與銀色電鍍雙重質感搭配，裙甲（草摺）等紅色部位以和紙質感貼紙印刷呈現，胸甲更燙印德川家三葉葵紋家徽。2024 年 5 月 27 日先行於日光東照宮現地販售、同年奉納於神社，其後透過 Premium Bandai 抽選販售，入手難度極高，是結合歷史文化與鋼彈的稀有聯名企劃。",
-    reviews: [],
-    youtube: [
+    reviews: [
       {
         title: "MG 武者ガンダムMK-Ⅱ 徳川家康 南蛮胴具足Ver. レビュー — ガンプラの館",
         url: "https://www.gunplayakata.com/entry/2025/02/09/MG_%E6%AD%A6%E8%80%85%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0MK-%E2%85%A1_%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7_%E5%8D%97%E8%9B%AE%E8%83%B4%E5%85%B7%E8%B6%B3Ver%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "世界遺産に奉納されたガンプラ！MG 1/100 武者ガンダムMk-II 徳川家康 南蛮胴具足Ver.",
+        url: "https://www.youtube.com/watch?v=qeXaaOKV620",
+        lang: "ja",
+      },
+      {
+        title: "物凄いガンプラ降臨 MG武者ガンダムマークⅡ徳川家康南蛮胴",
+        url: "https://www.youtube.com/watch?v=jFNuUW8H93I",
         lang: "ja",
       },
     ],
@@ -1938,15 +2625,26 @@ export const collection: CollectibleItem[] = [
     scale: "Dollfie Dream Dynamite（DDdy）約60cm",
     price: "—",
     releaseDate: "2019年（限量抽選発売）",
-    officialUrl: "https://www.volks.co.jp/nierautomata/en/dddy_2b/",
+    officialUrl: "https://www.volks.co.jp/nierautomata/dddy_2b/",
     imageUrl: "/images/volks-dd-nier-automata.jpg",
     tags: ["NieR", "NieR:Automata", "2B", "YoRHa", "Dollfie Dream", "DDdy", "Dollfie Dream Dynamite", "Volks", "BJD", "關節人偶", "Square Enix", "限定"],
     description: "Volks《Dollfie Dream® Dynamite》系列（DDdy）與 Square Enix《NieR:Automata》的官方聯名限量人偶，以女主角 YoRHa No.2 型 B 號（2B）為原型，2019 年以抽選方式限量販售。\n\nDollfie Dream Dynamite（DDdy）是 Volks 旗下 Dollfie Dream 系列中身形最豐滿的高規格球關節人偶（BJD）版本，人偶採用高品質軟乙烯頭部搭配 DD-f3 骨架，全高約 60cm，所有關節均可精密調整姿勢。此款 2B 附件完整：黑色禮服（和式剪裁）、白色短假髮、黑色眼罩、手套、靴子、護臂、黑色腿套，以及標誌性的 Pod 042 無人機支架；武裝配件則附有白之契約劍（短刀型）。衣裝全部以真實布料縫製，工藝水準遠超一般完成品，是 NieR 系列周邊中工手料精程度最高、收藏價值最頂尖的存在。",
-    reviews: [],
-    youtube: [
+    reviews: [
       {
         title: "Dollfie Dream 2B Nier:Automata Doll review & unboxing — dollmoon",
         url: "https://www.dollmoon.com/review-dollfie-dream-2b/",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Volks - Dollfie Dream 2B & 9S (NieR:Automata) Review",
+        url: "https://www.youtube.com/watch?v=Spmx0ziDyJc",
+        lang: "ja",
+      },
+      {
+        title: "Box Opening - Dollfie Dream 2B (NieR: Automata)",
+        url: "https://www.youtube.com/watch?v=bc3dikSbGYQ",
         lang: "en",
       },
     ],
