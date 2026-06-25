@@ -1897,9 +1897,9 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
       {
-        title: "Mecha Invasion Giant Legion GLA-01 & GLA-02 Set Review",
-        url: "https://www.youtube.com/watch?v=EF0AY6AeV24",
-        lang: "en",
+        title: "Mecha Invasion Giant Legion Yellow Edition 開箱",
+        url: "https://www.youtube.com/watch?v=Ibf6vSZiJIQ",
+        lang: "zh",
       },
     ],
   },
