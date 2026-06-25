@@ -3113,7 +3113,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-patriot",
-    name: "threezero DLX 鐵愛國者（Iron Patriot）",
+    name: "threezero DLX 鋼鐵愛國者（Iron Patriot）",
     nameJa: "threezero DLX アイアン・パトリオット",
     series: "Marvel Cinematic Universe / Iron Man 3 (2013)",
     character: "Iron Patriot（James Rhodes / War Machine Mark II 改塗）",
@@ -3123,7 +3123,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://www.threezerohk.com/product/dlx-iron-patriot/",
     imageUrl: "/images/dlx-iron-patriot.jpg",
-    tags: ["Marvel", "Iron Patriot", "鐵愛國者", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
+    tags: ["Marvel", "Iron Patriot", "鋼鐵愛國者", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 3》（2013）中 James Rhodes 的 Iron Patriot 盔甲，由 War Machine Mark II 重新塗裝為美國星條旗配色，代表美國政府的官方超級英雄形象。Iron Patriot 在《鋼鐵人 3》中以「美國英雄」身分執行任務，DLX 版本精緻重現其藍白紅三色的愛國配色。",
     reviews: [],
     youtube: [],
