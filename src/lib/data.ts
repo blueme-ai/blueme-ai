@@ -1495,7 +1495,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31ax-armored-parts-set.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的追加裝甲套件，裝設後讓機體呈現全副武裝的 ARMORED 形態，大幅強化防禦力與砲擊火力。配合本體使用可再現劇場版決戰場景中的重裝備型態。",
-    reviews: [],
+    reviews: [
+          {
+            title: "DX超合金 VF-31AXカイロスプラス（ハヤテ機）対応アーマードパーツセット レビュー | TOYHOUND",
+            url: "https://toy-hound.com/dx-armored-vf-31ax-h-review/",
+            lang: "ja",
+          },
+        ],
     youtube: [
       {
         title: "【圧倒的重武装！】DX超合金 VF-31AXカイロスプラス アーマードパーツセット 徹底レビュー",
@@ -1748,7 +1754,13 @@ export const collection: CollectibleItem[] = [
     tags: ["オリジナルキャラクター", "DONGTAN", "Hapitopi", "K Pring", "1/6", "美少女", "中國品牌"],
     description: "由中國人形廠商 Hapitopi 與熱門插畫師 K Pring 聯合企劃的原創角色《DONGTAN（東坦）》1/6 完成品，全高約 280mm。DONGTAN 以半透明薄紗長裙搭配精緻珠寶細節呈現，附贈伸舌表情臉及口罩臉替換配件，多樣化的配件組合讓作品更具互動趣味。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "【マクロス玩具レビュー】マクロスΔ 10周年！ DX超合金 VF-31A カイロス マクロスΔ10th Anniv.",
+            url: "https://www.youtube.com/watch?v=F_UmFbIJsfA",
+            lang: "ja",
+          },
+        ],
   },
   {
     id: "supernova-cifang-1-6",
@@ -2424,7 +2436,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-enhanced-zz-gundam-verka.jpg",
     tags: ["Bandai", "MG", "マスターグレード", "ZZガンダム", "Ver.Ka", "Katoki", "UC", "P-Bandai", "強化型"],
     description: "P-Bandai 限定 MG 1/100 強化型ZZガンダム Ver.Ka，以 Hajime Katoki 監督設計重現 UC 0088 最終決戰形態，全身加裝強化裝甲與武裝，配合加強裝備套件可還原最完整武裝形態。",
-    reviews: [],
+    reviews: [
+          {
+            title: "ガンプラ「MG 1/100 強化型ダブルゼータガンダム Ver.Ka」レビュー | hobby.watch.impress",
+            url: "https://hobby.watch.impress.co.jp/docs/review/1420387.html",
+            lang: "ja",
+          },
+        ],
     youtube: [
       {
         title: "PBANDAI MG ZZ VER KA ENHANCED! REVIEW! [PART 1/3]",
@@ -2559,7 +2577,13 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "【お隣の天使様】-Relax time-椎名真昼開封レビュー！",
+            url: "https://www.youtube.com/watch?v=C8oZKsyKlJA",
+            lang: "ja",
+          },
+        ],
   },
   {
     id: "banpresto-mahiru-onepiece",
@@ -2576,8 +2600,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/banpresto-mahiru-onepiece.jpg",
     tags: ["お隣の天使様", "椎名真昼", "Banpresto", "Bandai", "ワンピース", "景品"],
     description: "Bandai Spirits（Banpresto）出品的椎名真昼ワンピース版景品公仔，原型取自はねこと老師親筆插圖，以「忠實還原原畫纖細氣氛」為製作方針立體化。真昼身著飄逸的白色無袖洋裝，在海邊微風中裙擺輕揚，長髮隨風飛舞，洋溢夏日清新感。相較其他景品版，此款全高約 20cm，在同系列中屬尺寸最大、動感最強的一款，造型上半身向前微傾配合裙擺飛揚形成優美的動態曲線，陳列效果突出。2026 年 4 月起陸續在各夾娃娃機台配信。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "椎名真昼 ワンピースver. プライズフィギュア | 電撃ホビーウェブ",
+            url: "https://hobby.dengeki.com/news/2955731/",
+            lang: "ja",
+          },
+        ],
+    youtube: [
+          {
+            title: "【お隣の天使様】フィギュア -椎名真昼-開封レビュー！",
+            url: "https://www.youtube.com/watch?v=wxH4ZUvJY6w",
+            lang: "ja",
+          },
+        ],
   },
 
   // ── 新入荷 ───────────────────────────────────────────────────────────────
@@ -2683,8 +2719,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/plamax-mf98-yf29-galaxy-set.jpg",
     tags: ["マクロスF", "Macross Frontier", "YF-29", "PLAMAX", "Max Factory", "機首コレクション", "1/20", "プラモデル", "シェリル", "ランカ", "アルト", "GALAXY SET"],
     description: "Max Factory PLAMAX MF-98 minimum factory 系列，為《マクロスFrontier》GALAXY LIVE☆FINAL 2025 演唱會紀念限定套裝。1/20 比例 YF-29 全長約340mm，以金色＆微妙なメタリックブラックの2色で設計 Risa Ebata 繪製的活動 Key Visual 忠實重現，附水轉印貼紙（2張）。套裝同時收錄シェリル・ノーム、ランカ・リー、アルト・サオトメ 三名人物模型（約90mm，附特殊金屬光澤塗裝），是マクロスF 粉絲的夢幻紀念組合。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "PLAMAX MF-98 Cockpit Collection YF-29 GALAXY SET | ToyPeople",
+            url: "https://www.toy-people.com/en/?p=106994",
+            lang: "zh",
+          },
+        ],
+    youtube: [
+          {
+            title: "PLAMAX MF-98 minimum factory 機首コレクション YF-29 GALAXY SET 発売決定！",
+            url: "https://www.youtube.com/watch?v=jURLQt6NkpM",
+            lang: "ja",
+          },
+        ],
   },
   {
     id: "arcadia-vf1j-30th-anniversary",
@@ -2707,7 +2755,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "Arcadia 30th Anniversary 1/60 VF-1J Review",
+            url: "https://www.youtube.com/watch?v=bIA9r8F6-V4",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "yamato-vf0a-macross-zero",
@@ -2730,7 +2784,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "Unboxing Macross Zero Phoenix VF-0A Kudo Shin Arcadia",
+            url: "https://www.youtube.com/watch?v=TZrt7wqzMKY",
+            lang: "ja",
+          },
+        ],
   },
   {
     id: "arcadia-vf19-custom-sound-booster-40th",
@@ -2753,7 +2813,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "Arcadia 1/60 VF-19 Kai with Sound Booster Review",
+            url: "https://www.youtube.com/watch?v=vtGxJstrtdQ",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "arcadia-vf4a-lightning-iii",
@@ -2776,7 +2842,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "Arcadia VF-4A Lightning III Figure Review",
+            url: "https://www.youtube.com/watch?v=A8ld2JlqGKc",
+            lang: "en",
+          },
+        ],
   },
 
   // ── Nendoroid ─────────────────────────────────────────────────────────────
@@ -2796,7 +2868,13 @@ export const collection: CollectibleItem[] = [
     tags: ["初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC", "#2943"],
     description: "Good Smile Company ねんどろいど 系列「雪ミク 2026」年度主題造型「Crystal Snow ver.」，商品編號 #2943。雪ミク 以晶瑩剔透的水晶雪花主題為設計概念，服裝、頭飾與配件均加入冰晶質感元素，是每年 SNOW MIKU 祭典的限定年度造型。套件附多款替換表情與雪花道具配件，Q 版比例中充分重現 2026 年度雪ミク 的設計細節。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "Nendoroid Snow Miku Crystal Snow Ver. Review",
+            url: "https://www.youtube.com/watch?v=jUp_9He51SM",
+            lang: "en",
+          },
+        ],
   },
 
   // ── VA 30-SPEC ────────────────────────────────────────────────────────────
@@ -2814,7 +2892,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-30spec-super-granzort.jpg",
     tags: ["魔動王グランゾート", "スーパーグランゾート", "Mega House", "VA 30-SPEC", "30周年", "可動フィギュア", "合金"],
     description: "《魔動王グランゾート》（1989）主角機體スーパーグランゾート的 Mega House VA 30-SPEC 30 周年可動完成品。格蘭佐特是 1989 年日本動畫中的代表性機器人，以魔法動力驅動的少年機器人設定廣受當時兒童觀眾喜愛。VA 30-SPEC 系列採用合金零件與高精度可動關節，以現代製作規格重現這隻 30 年前的經典機器人，是 80/90 年代機器人動畫迷的復古收藏佳品。",
-    reviews: [],
+    reviews: [
+          {
+            title: "【フォトレビュー】VA Hi-SPEC スーパーグランゾート | AmiAmi",
+            url: "https://news.amiami.jp/review/2019/01/156580.html",
+            lang: "ja",
+          },
+        ],
     youtube: [],
   },
 
@@ -2840,7 +2924,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "変態技術に祝福されたHG 1/144 ガンダムキャリバーン！【ガンプラレビュー】",
+            url: "https://www.youtube.com/watch?v=TRIAdFxJGIY",
+            lang: "ja",
+          },
+        ],
   },
   {
     id: "rg-unicorn-banshee-norn-final-battle",
@@ -2863,7 +2953,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "RG Unicorn Gundam Banshee Norn Final Battle Ver. Review",
+            url: "https://www.youtube.com/watch?v=nkMZ6P1fMg0",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "rg-exia-repair-iii",
@@ -2886,7 +2982,13 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+          {
+            title: "Third Time's The Charm? - RG Exia Repair III Review | Mecha Gaikotsu",
+            url: "https://www.youtube.com/watch?v=mVHJWTFK_g4",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "hg-gself-perfect-pack",
@@ -2902,8 +3004,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-gself-perfect-pack.jpg",
     tags: ["ガンプラ", "HG", "Bandai", "Gレコ", "Gセルフ", "パーフェクトパック", "高達模型", "富野"],
     description: "Bandai Spirits HG 1/144《鋼彈 G 之復國記》主角機 G-Self 裝備全套「完美背包（Perfect Pack）」形態，附完整的突擊／高機動／重轟炸等全模組。G-Self 是富野由悠季監督回歸執導的《G-Reko》系列主角機，外型圓潤親和，Perfect Pack 展開後整體形象大幅改變，火力大增。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "HG ガンダム G-セルフ（パーフェクトパック装備型）（劇場版 Gのレコンギスタ Ver.）レビュー",
+            url: "https://gunplapocchi.com/gunpla-gundam-g-self-perfect-pack/",
+            lang: "ja",
+          },
+        ],
+    youtube: [
+          {
+            title: "どうしてこうなった！G-セルフ(パーフェクトパック装備型)劇場版Ver. ガンプラレビュー",
+            url: "https://www.youtube.com/watch?v=Ve5tAzIlsKM",
+            lang: "ja",
+          },
+        ],
   },
 
   // ── threezero DLX Marvel ──────────────────────────────────────────────────
@@ -2922,7 +3036,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人》（2008）中 Tony Stark 在蓋爾科夫莊園秘密建造的第二套盔甲 Mark II，以航太鋁合金為靈感的全銀色拋光設計。DLX 系列採用合金骨架搭配精密塗裝，忠實重現電影中 Mark II 的機械質感與流線型設計。1/12 比例，附多款替換手型與展示台座。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "Threezero DLX Iron Man Mark 2 Figure Review",
+            url: "https://www.youtube.com/watch?v=UHXKqLKuiik",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark3",
@@ -2938,8 +3058,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark3.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人》（2008）中正式亮相的 Mark III，也是 Tony Stark 第一套紅金配色的標誌性鋼鐵人盔甲。Mark III 是 MCU 鋼鐵人形象的起點，經典紅金色調奠定了後續所有 Iron Man suit 的美學基礎。DLX 系列以合金骨架與精密關節重現電影中的每個細節，1/12 比例附多款手型配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "【評測】Threezero DLX Iron Man Mark 3 可動性高夠靈活＋還原經典設計 | unwire.hk",
+            url: "https://unwire.hk/2022/09/20/threezero-dlx-iron-man-mark-3-reviews/life-tech/",
+            lang: "zh",
+          },
+        ],
+    youtube: [
+          {
+            title: "Iron Man MK3 Threezero DLX Unboxing & Review",
+            url: "https://www.youtube.com/watch?v=gok0iT3YJss",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark4",
@@ -2955,8 +3087,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark4.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 2》（2010）中 Tony Stark 的日常穿著 Mark IV，在 Mark III 基礎上進行細部調整，是《鋼鐵人 2》前半段的主要盔甲。相比 Mark III，Mark IV 在肩部與腿部裝甲比例上有所修改，DLX 版本忠實重現這些細微差異。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "Reviews of Threezero Marvel The Infinity Saga DLX Iron Man Mark 4 | GundamIT",
+            url: "https://gundamit.com/review_p5379/",
+            lang: "en",
+          },
+        ],
+    youtube: [
+          {
+            title: "threezero DLX Marvel IRON MAN Mark IV Review",
+            url: "https://www.youtube.com/watch?v=GGcnPcTYEos",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark6",
@@ -2972,8 +3116,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark6.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 2》（2010）中由新型弧形反應爐（Arc Reactor Mark II）驅動的 Mark VI，胸口改為三角形反應爐是其最顯著的外觀特徵。Mark VI 是 Tony 在《鋼鐵人 2》博覽會決戰及《復仇者聯盟》紐約之戰中的主力盔甲，標準版與紅金配色在 DLX 系列中精緻呈現。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "DLX Iron Man Mark 6 VI (Threezero) | HobbyHolics",
+            url: "https://hobbyholics.com/dlx-iron-man-mark-6-vi-threezero/",
+            lang: "en",
+          },
+        ],
+    youtube: [
+          {
+            title: "Threezero DLX Iron Man Mark 6 Review & Unboxing",
+            url: "https://www.youtube.com/watch?v=BuRpZgN69UY",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark7",
@@ -2990,7 +3146,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《復仇者聯盟》（2012）紐約決戰中 Tony Stark 的作戰盔甲 Mark VII，由收納艙彈出後自動穿上的革新機制使此款盔甲廣受矚目。Mark VII 配備多枚導彈掛架，在紐約決戰中展現了前所未有的火力輸出。DLX 版本包含開合式胸甲與展示彈射台座。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "Threezero DLX Iron Man Mark 7 Figure Review",
+            url: "https://www.youtube.com/watch?v=D-7FgMDTo9k",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark21-midas",
@@ -3006,8 +3168,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark21-midas.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Midas"],
     description: "threezero DLX 系列《鋼鐵人 3》（2013）中「Iron Legion」計畫的一員 Mark XXI「Midas」，以全身金色塗裝呼應希臘神話中點石成金的邁達斯王。Mark XXI 是 Iron Legion 中外觀最奢華的一套盔甲，金色金屬光澤在 DLX 系列的精密塗裝技術下顯得格外耀眼。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "Reviews of Threezero The Infinity Saga DLX Iron Man Mark 21 Midas | GundamIT",
+            url: "https://gundamit.com/review_p6574/",
+            lang: "en",
+          },
+        ],
+    youtube: [
+          {
+            title: "Threezero DLX Iron Man 3 Mark 21 XXI Midas Unboxing & Review",
+            url: "https://www.youtube.com/watch?v=O62oZfktqqg",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark42",
@@ -3023,8 +3197,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark42.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 3》（2013）中 Tony 開發出「心理感應召喚」功能的 Mark XLII，是 Iron Legion 計畫中編號最高、科技最先進的一套盔甲。Mark XLII 引入了模塊化單獨召喚技術，DLX 版本附可分離的裝甲模塊配件，重現電影中盔甲分段穿戴的經典場景。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "【評測】Threezero DLX 鋼鐵俠 MK 42 可動性高＋造工、塗裝高質 | unwire.hk",
+            url: "https://unwire.hk/2022/12/02/marvel-studios-the-infinity-saga-dlx-mark-42/life-tech/%E7%8E%A9%E5%85%B7/",
+            lang: "zh",
+          },
+        ],
+    youtube: [
+          {
+            title: "Iron Man MK42 Threezero DLX Unboxing & Review",
+            url: "https://www.youtube.com/watch?v=I-cQOk25ZgM",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark43",
@@ -3040,8 +3226,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark43.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《復仇者聯盟：奧創紀元》（2015）中 Tony Stark 的主要作戰盔甲 Mark XLIII，是 Mark XLII 的升級版，改善了「心理感應召喚」系統的穩定性。Mark XLIII 在索科維亞行動中登場，是奧創紀元中場戰力最完整的版本。DLX 版本以精密合金骨架重現其細緻的裝甲紋路。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "【評測】Threezero DLX Iron Man Mk43 眼晴反應爐有燈＋48個關節＋超強可動 | unwire.hk",
+            url: "https://unwire.hk/2021/09/20/threezero-ironman-mark43/life-tech/%E7%8E%A9%E5%85%B7/",
+            lang: "zh",
+          },
+        ],
+    youtube: [
+          {
+            title: "threezero DLX Iron Man Mark 7 and Mark 43 Figure Review",
+            url: "https://www.youtube.com/watch?v=VvAhSfP3qhQ",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark46",
@@ -3057,8 +3255,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark46.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Civil War"],
     description: "threezero DLX 系列《美國隊長：英雄內戰》（2016）中 Tony Stark 在西伯利亞基地決戰時穿著的 Mark XLVI，是電影中最具戲劇張力的盔甲之一。Mark XLVI 在結構上對胸口弧形反應爐的可視性設計有所調整，DLX 版本忠實重現電影中的設計細節，展現出精密的紅金色對比。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "【評測】DLX Iron Man MK46 接近電影原著+合金骨架 | unwire.hk",
+            url: "https://unwire.hk/2022/12/21/threezero-dlx-iron-man-mark-46-reviews/life-tech/",
+            lang: "zh",
+          },
+        ],
+    youtube: [
+          {
+            title: "「爆玩具」Threezero 1/12 DLX 鋼鐵俠 Iron Man Mark 46 TOYSTV 評測",
+            url: "https://www.youtube.com/watch?v=gxEim5fIjeM",
+            lang: "zh",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark50",
@@ -3075,7 +3285,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "奈米科技", "Infinity War"],
     description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中革命性的奈米科技盔甲 Mark L，由弧形反應爐直接釋放奈米粒子構成，是 MCU 中首套無需穿戴程序的全奈米盔甲。Mark L 能在戰鬥中即時重組形態生成各式武器，DLX 版本附多款奈米武器替換配件，可重現電影中的各種武裝形態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "ThreeZero DLX IRON MAN Mark 50 & Accessory Pack Figure Review",
+            url: "https://www.youtube.com/watch?v=BNotgRKZNeI",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark50-accessory-pack",
@@ -3092,7 +3308,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "配件包", "奈米科技"],
     description: "threezero DLX 鋼鐵人 Mark L 的專屬擴充配件包，收錄電影中登場的各式奈米武器替換零件，包括奈米噴射器、防護罩、能量炮等多種形態配件，可搭配 DLX Mark L 本體進一步豐富展示與把玩場景。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "Video Review: ThreeZero DLX Iron Man Mark 50 ACCESSORY PACK",
+            url: "https://www.youtube.com/watch?v=yTukhfPTiWI",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-man-mark85",
@@ -3108,8 +3330,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark85.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Endgame", "最終盔甲"],
     description: "threezero DLX 系列《復仇者聯盟：終局之戰》（2019）中 Tony Stark 的最終盔甲 Mark LXXXV，也是他犧牲生命完成響指逆轉的那套盔甲。Mark LXXXV 融合了奈米科技與 Tony 五年隱居生活中的設計改進，是整個 MCU 技術上最完善的鋼鐵人盔甲。DLX 版本附復仇者技術手套與展示支架。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "threezero DLX 系列《無限傳說》鋼鐵人馬克85 可動人偶 | ToyPeople",
+            url: "https://www.toy-people.com/en/?p=87047",
+            lang: "zh",
+          },
+        ],
+    youtube: [
+          {
+            title: "LED 發光有誠意｜Threezero Iron man mark LXXXV 85 開箱",
+            url: "https://www.youtube.com/watch?v=5dnBVuNpORg",
+            lang: "zh",
+          },
+        ],
   },
   {
     id: "dlx-iron-patriot",
@@ -3126,7 +3360,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Patriot", "鋼鐵愛國者", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 3》（2013）中 James Rhodes 的 Iron Patriot 盔甲，由 War Machine Mark II 重新塗裝為美國星條旗配色，代表美國政府的官方超級英雄形象。Iron Patriot 在《鋼鐵人 3》中以「美國英雄」身分執行任務，DLX 版本精緻重現其藍白紅三色的愛國配色。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "Threezero DLX Marvel Infinity Saga IRON PATRIOT & IRON MAN Mark 46 Reviews",
+            url: "https://www.youtube.com/watch?v=dx4XJP8pBGY",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-war-machine-mark2",
@@ -3142,8 +3382,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-war-machine-mark2.jpg",
     tags: ["Marvel", "War Machine", "戰爭機器", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Rhodes"],
     description: "threezero DLX 系列 James Rhodes 的 War Machine Mark II，以全黑軍事重武裝配色搭配肩部加特林機炮為特徵，是 MCU 中最具壓迫感的重型裝甲之一。相比 Iron Man 的紅金色調，War Machine 的黑色金屬質感展現出截然不同的美學風格，DLX 版本附加特林炮展開形態配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+          {
+            title: "War Machine Mark 2 Figure by ThreeZero | The Toyark",
+            url: "https://www.toyark.com/2022/09/15/war-machine-mark-2-figure-by-threezero-483319",
+            lang: "en",
+          },
+        ],
+    youtube: [
+          {
+            title: "threezero Marvel DLX War Machine Mark II Review",
+            url: "https://www.youtube.com/watch?v=jicEVXHesTE",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-iron-spider",
@@ -3160,7 +3412,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Spider", "鋼鐵蜘蛛人", "Spider-Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中 Peter Parker 由 Tony Stark 贈予的 Iron Spider 盔甲，以紅金奈米科技設計搭配背部四支蜘蛛腳（Waldoes）為最大特徵。Iron Spider 是 Peter 首套正式的奈米科技裝甲，DLX 版本附可伸展的四支金屬蜘蛛腳配件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "Iron Spider Avengers Infinity War Threezero DLX Unboxing & Review",
+            url: "https://www.youtube.com/watch?v=CMBgZi_kr4g",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-black-panther",
@@ -3177,7 +3435,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Black Panther", "黑豹", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Vibranium"],
     description: "threezero DLX 系列《黑豹》（2018）中瓦干達王 T'Challa 的黑豹戰衣，以全身覆蓋振金（Vibranium）奈米粒子的黑紫色戰衣呈現。DLX 版本精緻重現黑豹戰衣上細緻的幾何紋路，可動關節模擬 T'Challa 的貓科靈活戰鬥動作，附多款替換手型。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "ThreeZero DLX BLACK PANTHER T'Challa Infinity Saga Figure Review",
+            url: "https://www.youtube.com/watch?v=SxSZbDBOidI",
+            lang: "en",
+          },
+        ],
   },
   {
     id: "dlx-hulkbuster",
@@ -3194,6 +3458,12 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Hulkbuster", "浩克剋星", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "超大型"],
     description: "threezero DLX 系列《復仇者聯盟：奧創紀元》（2015）中 Tony Stark 為對抗失控浩克特別開發的 Hulkbuster 超大型裝甲，由 Mark XLIII 本體搭載巨型外骨架構成。DLX Hulkbuster 是系列中體積最大的作品，以 1/12 比例重現龐大的紅金色重裝甲，搭載可縮伸的伸縮臂與加厚裝甲板，展示效果極具震撼力。",
     reviews: [],
-    youtube: [],
+    youtube: [
+          {
+            title: "ThreeZero DLX HULKBUSTER Iron Man Mark 44 XLIV Marvel Studios Figure Review",
+            url: "https://www.youtube.com/watch?v=a036LRuXjF0",
+            lang: "en",
+          },
+        ],
   },
 ]

@@ -38,18 +38,9 @@ export default function Home() {
             <h1 className="text-2xl font-bold">我的收藏</h1>
             <p className="text-zinc-500 text-sm mt-0.5">共 {collection.length} 件 ACG 收藏品</p>
           </div>
-          <div className="flex gap-4 text-center">
-            <div>
-              <p className="text-lg font-bold text-indigo-400">{collection.length}</p>
-              <p className="text-xs text-zinc-500">總數</p>
-            </div>
-            <div className="w-px bg-zinc-800" />
-            <div>
-              <p className="text-lg font-bold text-emerald-400">
-                {collection.filter((i) => i.tags.includes("展示中")).length}
-              </p>
-              <p className="text-xs text-zinc-500">展示中</p>
-            </div>
+          <div className="text-center">
+            <p className="text-lg font-bold text-indigo-400">{collection.length}</p>
+            <p className="text-xs text-zinc-500">總數</p>
           </div>
         </div>
 
