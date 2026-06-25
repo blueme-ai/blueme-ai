@@ -10,6 +10,7 @@ export default function CollectionCard({ item }: { item: CollectibleItem }) {
   return (
     <>
       <div
+        id={item.id}
         className="group relative bg-zinc-900 rounded-2xl overflow-hidden cursor-pointer border border-zinc-800 hover:border-indigo-500 transition-all duration-200 hover:shadow-xl hover:shadow-indigo-900/20"
         onClick={() => setOpen(true)}
       >
