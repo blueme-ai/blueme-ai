@@ -732,7 +732,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf1a-angel-birds.jpg",
     tags: ["マクロス", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中統合軍飛行表演隊「Angel Birds」的專屬塗裝版 VF-1A 女武神，魂ウェブ商店限定。全機採用藍白為主調的表演塗裝，有別於作戰機塗色，是 DX CHOGOKIN VF-1 系列中視覺最清爽亮眼的特別版。",
-    reviews: [],
+    reviews: [
+          {
+            title: "DX超合金 VF-1A バルキリー エンジェルバーズ レビュー | はっちゃか",
+            url: "https://hacchaka.net/archives/52091473.html",
+            lang: "ja",
+          },
+        ],
     youtube: [
       {
         title: "【DX超合金 VF-1A バルキリー エンジェルバーズ】ヲタファの超時空要塞マクロスレビュー / MACROSS DX Chogokin VF-1A Valkyrie Angel Birds",
@@ -1753,7 +1759,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hapitopi-dongtan-kpring.jpg",
     tags: ["オリジナルキャラクター", "DONGTAN", "Hapitopi", "K Pring", "1/6", "美少女", "中國品牌"],
     description: "由中國人形廠商 Hapitopi 與熱門插畫師 K Pring 聯合企劃的原創角色《DONGTAN（東坦）》1/6 完成品，全高約 280mm。DONGTAN 以半透明薄紗長裙搭配精緻珠寶細節呈現，附贈伸舌表情臉及口罩臉替換配件，多樣化的配件組合讓作品更具互動趣味。",
-    reviews: [],
+    reviews: [
+          {
+            title: "Hapitopi×K pring DONGTAN フィギュアレビュー | fig-memo",
+            url: "https://fig-memo.com/figurereview/92558/",
+            lang: "ja",
+          },
+        ],
     youtube: [
           {
             title: "【マクロス玩具レビュー】マクロスΔ 10周年！ DX超合金 VF-31A カイロス マクロスΔ10th Anniv.",
@@ -2391,7 +2403,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-bismark.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "星銃士ビスマルク", "Saber Rider", "可變形", "80年代アニメ"],
     description: "Good Smile Company MODEROID 系列《星銃士ビスマルク》主角機器人，可在戰鬥母艦形態與機器人形態之間完全變形，機器人形態全高約 17cm，附可動關節與多種替換配件。",
-    reviews: [],
+    reviews: [
+          {
+            title: "ビスマルク、MODEROIDで新生 | 龍凰堂",
+            url: "https://ameblo.jp/dgg-xam1/entry-12917268982.html",
+            lang: "ja",
+          },
+        ],
     youtube: [
       { title: "MODEROID ビスマルク 変形レビュー【ヲタファ】", url: "https://www.youtube.com/watch?v=oGl2kmx7Dsc", lang: "ja" },
       { title: "MODEROID Bismark (Star Musketeer Bismark) by Good Smile Company Review", url: "https://www.youtube.com/watch?v=1KHaRQiwW84", lang: "en" },
@@ -2867,7 +2885,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-snow-miku-crystal-snow-2026.jpg",
     tags: ["初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC", "#2943"],
     description: "Good Smile Company ねんどろいど 系列「雪ミク 2026」年度主題造型「Crystal Snow ver.」，商品編號 #2943。雪ミク 以晶瑩剔透的水晶雪花主題為設計概念，服裝、頭飾與配件均加入冰晶質感元素，是每年 SNOW MIKU 祭典的限定年度造型。套件附多款替換表情與雪花道具配件，Q 版比例中充分重現 2026 年度雪ミク 的設計細節。",
-    reviews: [],
+    reviews: [
+          {
+            title: "ねんどろいど 雪ミク Crystal Snow Ver. きらめくクリスタルな雪 | ToyPeople",
+            url: "https://www.toy-people.com/jp/?p=97159",
+            lang: "ja",
+          },
+        ],
     youtube: [
           {
             title: "Nendoroid Snow Miku Crystal Snow Ver. Review",
@@ -2899,7 +2923,13 @@ export const collection: CollectibleItem[] = [
             lang: "ja",
           },
         ],
-    youtube: [],
+    youtube: [
+          {
+            title: "スーパーグランゾート VA Hi-SPEC 究極の魔動王 30周年記念 開封レビュー",
+            url: "https://www.youtube.com/watch?v=1wr-8euA7l4",
+            lang: "ja",
+          },
+        ],
   },
 
   // ── Gunpla ────────────────────────────────────────────────────────────────
@@ -3035,7 +3065,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark2.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人》（2008）中 Tony Stark 在蓋爾科夫莊園秘密建造的第二套盔甲 Mark II，以航太鋁合金為靈感的全銀色拋光設計。DLX 系列採用合金骨架搭配精密塗裝，忠實重現電影中 Mark II 的機械質感與流線型設計。1/12 比例，附多款替換手型與展示台座。",
-    reviews: [],
+    reviews: [
+          {
+            title: "threezero DLX Iron Man Mark 2 Classic Silver-White Riveted Armor | ToyPeople",
+            url: "https://www.toy-people.com/en/?p=75990",
+            lang: "en",
+          },
+        ],
     youtube: [
           {
             title: "Threezero DLX Iron Man Mark 2 Figure Review",
@@ -3145,7 +3181,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark7.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《復仇者聯盟》（2012）紐約決戰中 Tony Stark 的作戰盔甲 Mark VII，由收納艙彈出後自動穿上的革新機制使此款盔甲廣受矚目。Mark VII 配備多枚導彈掛架，在紐約決戰中展現了前所未有的火力輸出。DLX 版本包含開合式胸甲與展示彈射台座。",
-    reviews: [],
+    reviews: [
+          {
+            title: "The Avengers - Iron Man Mark VII by ThreeZero | The Toyark",
+            url: "https://www.toyark.com/2023/01/17/the-avengers-iron-man-mark-vii-by-threezero-491695",
+            lang: "en",
+          },
+        ],
     youtube: [
           {
             title: "Threezero DLX Iron Man Mark 7 Figure Review",
@@ -3153,6 +3195,23 @@ export const collection: CollectibleItem[] = [
             lang: "en",
           },
         ],
+  },
+  {
+    id: "threezero-dlx-iron-man-mk7-battle-damaged",
+    name: "threezero DLX 鋼鐵人 Mark VII「Battle Damaged」",
+    nameJa: "threezero DLX アイアンマン マーク7「バトルダメージ版」",
+    series: "Marvel Cinematic Universe / The Avengers (2012)",
+    character: "鋼鐵人 Iron Man（Mark VII Battle Damaged）",
+    manufacturer: "threezero",
+    scale: "1/12",
+    price: "$109 USD",
+    releaseDate: "2022年",
+    officialUrl: "https://www.threezerohk.com/product/dlx-iron-man-mark-7-battle-damaged/",
+    imageUrl: "/images/threezero-dlx-iron-man-mk7-battle-damaged.jpg",
+    tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Battle Damaged", "紐約決戰"],
+    description: "threezero DLX 系列《復仇者聯盟》（2012）紐約決戰後 Tony Stark 的 Mark VII 受損版本，精緻重現盔甲在激烈戰鬥後的撞痕、塗裝剝落與結構損傷。戰損細節以手工噴塗技法呈現，與標準版形成強烈對比，是 DLX 系列中考驗工藝的特別版本。",
+    reviews: [],
+    youtube: [],
   },
   {
     id: "dlx-iron-man-mark21-midas",
@@ -3284,7 +3343,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mark50.jpg",
     tags: ["Marvel", "Iron Man", "鋼鐵人", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "奈米科技", "Infinity War"],
     description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中革命性的奈米科技盔甲 Mark L，由弧形反應爐直接釋放奈米粒子構成，是 MCU 中首套無需穿戴程序的全奈米盔甲。Mark L 能在戰鬥中即時重組形態生成各式武器，DLX 版本附多款奈米武器替換配件，可重現電影中的各種武裝形態。",
-    reviews: [],
+    reviews: [
+          {
+            title: "Threezero Infinity Saga Iron Man 42, 46 and 50 In-Hand Gallery | The Toyark",
+            url: "https://www.toyark.com/2023/01/20/threezero-infinity-saga-iron-man-42-46-and-50-in-hand-gallery-491941",
+            lang: "en",
+          },
+        ],
     youtube: [
           {
             title: "ThreeZero DLX IRON MAN Mark 50 & Accessory Pack Figure Review",
@@ -3359,7 +3424,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-patriot.jpg",
     tags: ["Marvel", "Iron Patriot", "鋼鐵愛國者", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 3》（2013）中 James Rhodes 的 Iron Patriot 盔甲，由 War Machine Mark II 重新塗裝為美國星條旗配色，代表美國政府的官方超級英雄形象。Iron Patriot 在《鋼鐵人 3》中以「美國英雄」身分執行任務，DLX 版本精緻重現其藍白紅三色的愛國配色。",
-    reviews: [],
+    reviews: [
+          {
+            title: "Threezero DLX Iron Patriot Review | The Figure In Question",
+            url: "https://thefigureinquestion.com/2022/12/15/3249-iron-patriot/",
+            lang: "en",
+          },
+        ],
     youtube: [
           {
             title: "Threezero DLX Marvel Infinity Saga IRON PATRIOT & IRON MAN Mark 46 Reviews",
@@ -3411,7 +3482,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-spider.jpg",
     tags: ["Marvel", "Iron Spider", "鋼鐵蜘蛛人", "Spider-Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中 Peter Parker 由 Tony Stark 贈予的 Iron Spider 盔甲，以紅金奈米科技設計搭配背部四支蜘蛛腳（Waldoes）為最大特徵。Iron Spider 是 Peter 首套正式的奈米科技裝甲，DLX 版本附可伸展的四支金屬蜘蛛腳配件。",
-    reviews: [],
+    reviews: [
+          {
+            title: "Reviews of Threezero Marvel Studio The Infinity Saga DLX Iron Spider | GundamIT",
+            url: "https://gundamit.com/review_p2187/",
+            lang: "en",
+          },
+        ],
     youtube: [
           {
             title: "Iron Spider Avengers Infinity War Threezero DLX Unboxing & Review",
@@ -3434,7 +3511,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-black-panther.jpg",
     tags: ["Marvel", "Black Panther", "黑豹", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Vibranium"],
     description: "threezero DLX 系列《黑豹》（2018）中瓦干達王 T'Challa 的黑豹戰衣，以全身覆蓋振金（Vibranium）奈米粒子的黑紫色戰衣呈現。DLX 版本精緻重現黑豹戰衣上細緻的幾何紋路，可動關節模擬 T'Challa 的貓科靈活戰鬥動作，附多款替換手型。",
-    reviews: [],
+    reviews: [
+          {
+            title: "Marvel DLX Black Panther by ThreeZero | The Toyark",
+            url: "https://www.toyark.com/2022/12/07/marvel-dlx-black-panther-by-threezero-490013",
+            lang: "en",
+          },
+        ],
     youtube: [
           {
             title: "ThreeZero DLX BLACK PANTHER T'Challa Infinity Saga Figure Review",
@@ -3457,7 +3540,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-hulkbuster.jpg",
     tags: ["Marvel", "Hulkbuster", "浩克剋星", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "超大型"],
     description: "threezero DLX 系列《復仇者聯盟：奧創紀元》（2015）中 Tony Stark 為對抗失控浩克特別開發的 Hulkbuster 超大型裝甲，由 Mark XLIII 本體搭載巨型外骨架構成。DLX Hulkbuster 是系列中體積最大的作品，以 1/12 比例重現龐大的紅金色重裝甲，搭載可縮伸的伸縮臂與加厚裝甲板，展示效果極具震撼力。",
-    reviews: [],
+    reviews: [
+          {
+            title: "【評測】threezero HulkBuster 最強可動性＋可擺爆地Pose | unwire.hk",
+            url: "https://unwire.hk/2022/02/18/threezero-hulkbuster-mk44/life-tech/%E7%8E%A9%E5%85%B7/",
+            lang: "zh",
+          },
+        ],
     youtube: [
           {
             title: "ThreeZero DLX HULKBUSTER Iron Man Mark 44 XLIV Marvel Studios Figure Review",
