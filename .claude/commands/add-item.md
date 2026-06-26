@@ -1,5 +1,12 @@
 # blueme-ai 新增商品 SOP
 
+## 標準流程（每次都要照這個順序）
+1. **辨識商品** — 從圖片或文字確認品牌、系列、型號
+2. **檢查是否已有** — `grep 'id: "KEYWORD"' src/lib/data.ts`，有的話直接回報「已在收藏中」，**不要重複新增**
+3. **新增** — 確認沒有才執行以下步驟（商品名、圖片、開箱文、commit）
+
+
+
 當用戶要求新增商品到 `/Users/chengsiyang/Projects/blueme-ai/src/lib/data.ts` 時，遵守以下規則：
 
 ## 商品名稱（`name` 欄位）
