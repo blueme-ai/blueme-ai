@@ -3021,35 +3021,6 @@ export const collection: CollectibleItem[] = [
         ],
   },
   {
-    id: "rg-msz006-3-zeta-karaba",
-    name: "RG 1/144 MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
-    nameJa: "RG 1/144 MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
-    series: "機動戦士Ζガンダム（Mobile Suit Zeta Gundam）MSV",
-    character: "MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
-    manufacturer: "Bandai Spirits",
-    scale: "RG 1/144",
-    price: "¥3,300",
-    releaseDate: "2023年",
-    officialUrl: "https://bandai-hobby.net/",
-    imageUrl: "/images/rg-msz006-3-zeta-karaba.jpg",
-    tags: ["ガンプラ", "RG", "Bandai", "Zeta Gundam", "ゼータ", "カラバ", "MSV", "可變形", "高達模型", "白色配色"],
-    description: "Bandai Spirits RG 1/144《機動戰士Z鋼彈 MSV》卡拉巴（Karaba）地球抵抗組織強攻型試作機 MSZ-006-3，以白灰色調呈現有別於量產型的試作塗裝。MSZ-006-3 是 Z 鋼彈的原型驗證機，RG 系列忠實再現可變形骨架結構，白色機體在細節刻線對比下顯得格外簡潔精緻。",
-    reviews: [
-      {
-        title: "【ガンプラ】RG ゼータガンダム３号機 レビュー【プレバン】 | gunplapocchi",
-        url: "https://gunplapocchi.com/rg-zeta-gundam-3gouki/",
-        lang: "ja",
-      },
-    ],
-    youtube: [
-      {
-        title: "#MAG - Review - RG 1/144 MSZ-006-3 Zeta Gundam Karaba Assault Use Prototype",
-        url: "https://www.youtube.com/watch?v=h82NunuR47c",
-        lang: "en",
-      },
-    ],
-  },
-  {
     id: "hg-gself-perfect-pack",
     name: "HG 1/144 Gセルフ [パーフェクトパック装備型]",
     nameJa: "HG 1/144 Gセルフ [パーフェクトパック装備型]",
@@ -3583,5 +3554,34 @@ export const collection: CollectibleItem[] = [
             lang: "en",
           },
         ],
+  },
+  {
+    id: "rg-msz006-3-zeta-karaba",
+    name: "RG 1/144 MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
+    nameJa: "RG 1/144 MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
+    series: "機動戦士Ζガンダム（Mobile Suit Zeta Gundam）MSV",
+    character: "MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
+    manufacturer: "Bandai Spirits",
+    scale: "RG 1/144",
+    price: "¥3,300",
+    releaseDate: "2013年",
+    officialUrl: "https://p-bandai.com/us/item/N2206990001007",
+    imageUrl: "/images/rg-msz006-3-zeta-karaba.jpg",
+    tags: ["ガンプラ", "RG", "Bandai", "Zeta Gundam", "ゼータ", "カラバ", "MSV", "可變形", "高達模型", "白色配色", "プレバン"],
+    description: "Bandai Spirits Premium Bandai 限定 RG 1/144《機動戰士Z鋼彈 MSV》卡拉巴（Karaba）地球抵抗組織強攻型試作機 MSZ-006-3，以白灰色調呈現有別於量產型的試作塗裝。MSZ-006-3 是 Z 鋼彈的原型驗證機，RG 系列忠實再現可變形骨架結構，白色機體在細節刻線對比下顯得格外簡潔精緻。附 3 號機專用水貼。",
+    reviews: [
+      {
+        title: "【ガンプラ】RG ゼータガンダム３号機 レビュー【プレバン】 | gunplapocchi",
+        url: "https://gunplapocchi.com/rg-zeta-gundam-3gouki/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "#MAG - Review - RG 1/144 MSZ-006-3 Zeta Gundam Karaba Assault Use Prototype",
+        url: "https://www.youtube.com/watch?v=h82NunuR47c",
+        lang: "en",
+      },
+    ],
   },
 ]
