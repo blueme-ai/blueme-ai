@@ -1551,45 +1551,6 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
-    id: "dx-chogokin-vf31ax-movie-hayate",
-    name: "DX超合金 劇場版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）",
-    nameJa: "DX超合金 劇場版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）",
-    series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
-    character: "VF-31AX Kairos-Plus（ハヤテ・インメルマン機）",
-    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
-    scale: "1/60",
-    price: "¥25,300",
-    releaseDate: "2022年",
-    officialUrl: "https://tamashiiweb.com/item/14281/",
-    imageUrl: "/images/dx-chogokin-vf31ax-movie-hayate.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "劇場版", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31AX Kairos-Plus 標準版，以現行 DX CHOGOKIN 規格呈現 Hayate 機白藍配色的標誌性外觀，Fighter/GERWALK/Battroid 三型態完全切換。",
-    reviews: [
-      {
-        title: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）レビュー | はっちゃか",
-        url: "https://hacchaka.net/archives/52076721.html",
-        lang: "ja",
-      },
-    ],
-    youtube: [
-      {
-        title: "量産機翻身做主角！萬代DX超合金 VF-31AX 開箱分享【超時空要塞△】",
-        url: "https://www.youtube.com/watch?v=LzMCTV_lL0k",
-        lang: "zh",
-      },
-      {
-        title: "【劇場版マクロスΔ絶対LIVE!!!!!!】DX超合金 VF-31AX カイロスプラス ハヤテ機 ヲタファの変形レビュー",
-        url: "https://www.youtube.com/watch?v=14LLXtlE6iU",
-        lang: "ja",
-      },
-      {
-        title: "DX VF-31AX Kairos Plus Hayate Review",
-        url: "https://www.youtube.com/watch?v=bZsej2IGhWk",
-        lang: "en",
-      },
-    ],
-  },
-  {
     id: "dx-chogokin-vf31j-supersiegfried-hayate-revival",
     name: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）REVIVAL Ver.",
