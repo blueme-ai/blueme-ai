@@ -4,7 +4,7 @@ import { useState } from "react"
 import { CollectibleItem } from "@/lib/data"
 import ItemModal from "./ItemModal"
 
-export default function CollectionCard({ item }: { item: CollectibleItem }) {
+export default function CollectionCard({ item, onTagClick }: { item: CollectibleItem; onTagClick?: (tag: string) => void }) {
   const [open, setOpen] = useState(false)
 
   return (
@@ -51,7 +51,16 @@ export default function CollectionCard({ item }: { item: CollectibleItem }) {
         </div>
       </div>
 
-      {open && <ItemModal item={item} onClose={() => setOpen(false)} />}
+      {open && (
+        <ItemModal
+          item={item}
+          onClose={() => setOpen(false)}
+          onTagClick={(tag) => {
+            setOpen(false)
+            onTagClick?.(tag)
+          }}
+        />
+      )}
     </>
   )
 }

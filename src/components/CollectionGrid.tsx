@@ -105,7 +105,14 @@ export default function CollectionGrid({ collection }: { collection: Collectible
       {/* Grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
         {filtered.map((item) => (
-          <CollectionCard key={item.id} item={item} />
+          <CollectionCard
+            key={item.id}
+            item={item}
+            onTagClick={(tag) => {
+              setSelectedTag(tag)
+              setTagsOpen(true)
+            }}
+          />
         ))}
 
         {/* Add new placeholder */}

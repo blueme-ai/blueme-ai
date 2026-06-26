@@ -10,7 +10,7 @@ const langLabel: Record<ReviewLink["lang"], string> = {
   en: "English",
 }
 
-export default function ItemModal({ item, onClose }: { item: CollectibleItem; onClose: () => void }) {
+export default function ItemModal({ item, onClose, onTagClick }: { item: CollectibleItem; onClose: () => void; onTagClick?: (tag: string) => void }) {
   useEffect(() => {
     const handler = (e: KeyboardEvent) => e.key === "Escape" && onClose()
     window.addEventListener("keydown", handler)
@@ -142,12 +142,13 @@ export default function ItemModal({ item, onClose }: { item: CollectibleItem; on
               </p>
               <div className="flex flex-wrap gap-1.5">
                 {item.tags.map((tag) => (
-                  <span
+                  <button
                     key={tag}
-                    className="text-xs bg-zinc-800 border border-zinc-700 text-zinc-400 rounded-full px-2.5 py-0.5"
+                    onClick={() => onTagClick?.(tag)}
+                    className="text-xs bg-zinc-800 border border-zinc-700 text-zinc-400 rounded-full px-2.5 py-0.5 hover:bg-indigo-600 hover:border-indigo-500 hover:text-white transition-colors cursor-pointer"
                   >
                     {tag}
-                  </span>
+                  </button>
                 ))}
               </div>
             </div>
