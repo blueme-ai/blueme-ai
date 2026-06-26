@@ -29,6 +29,7 @@
 - 儲存到 `/Users/chengsiyang/Projects/blueme-ai/public/images/[item-id].jpg`
 - 使用 curl 下載：`curl -L -o "/Users/chengsiyang/Projects/blueme-ai/public/images/[id].jpg" "[image-url]"`
 - **不可要求用戶自行上傳圖片**
+- **⚠️ 嚴禁使用 Telegram 傳來的照片作為商品圖片**——用戶傳圖是為了「辨識商品」用，那是用戶自己拍的包裝盒照，絕對不能直接儲存為商品圖。**一定要去官網抓官方商品圖。**
 
 ## 圖片來源參考
 | 品牌 | 官方圖片來源 |
