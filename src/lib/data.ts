@@ -77,7 +77,7 @@ export const collection: CollectibleItem[] = [
     height: "約230mm",
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054058129/",
     imageUrl: "/images/jeanne-alter-casual.jpg",
-    tags: ["FGO", "Fate/Grand Order", "ジャンヌ〔オルタ〕", "黑聖女", "1/7", "Kotobukiya", "展示中", "新宿"],
+    tags: ["Fate/Grand Order", "ジャンヌ〔オルタ〕", "1/7", "Kotobukiya", "展示中", "新宿"],
     description: "《Fate/Grand Order》第一部第一章「異聞帶 I：新宿幻靈事件」的主角之一，黑化的聖女貞德（Jeanne d'Arc Alter）以日常便服形象登場的 1/7 比例完成品。\n\n人物穿著正面有拉鍊設計的黑色皮質迷你裙，搭配深色長靴與紅黑漸層的披風型外套，頭上帶有象徵 Avenger 職階的小型王冠。身體微微前傾、腳步向前踏出，一手叉腰、一手輕提、頭微微側傾的姿勢，同時展現少女的俏皮感與 Avenger 的銳利眼神。\n\n台座為充滿廢墟感的裂紋石板地面，重現新宿廢街背景。附可替換右手臂，可切換為持劍（勝利之劍 La Pucelle）的戰鬥姿勢。此款為初版 2019 年發售後 Kotobukiya 的再版。非 ArtFX J 系列，屬 Kotobukiya 一般 PVC 1/7 完成品線。",
     reviews: [
       {
@@ -116,7 +116,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "P-Bandai 限定",
     officialUrl: "https://p-bandai.com/tw/item/A2302840001",
     imageUrl: "/images/mg-turn-a-gundam-moonlight-butterfly.jpg",
-    tags: ["ガンダム", "∀ Gundam", "∀ガンダム", "MG", "1/100", "Bandai", "P-Bandai限定"],
+    tags: ["ガンダム", "∀ガンダム", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "富野由悠季監督 1999 年電視動畫《∀ Gundam》主角機 WD-M01 Turn A Gundam 的 MG 1/100 P-Bandai 限定特別版，主打「月光蝶（Moonlight Butterfly）」展開效果零件。\n\n月光蝶是 Turn A Gundam 潛藏的最終兵器：機體散放出無數奈米機器人形成絢爛的蝶翼光場，可以侵蝕並分解所有工業科技文明，是宇宙世紀（UC）所有鋼彈系列中公認殺傷範圍最廣的武裝之一。此版本特別附有大量透明效果零件，精細重現月光蝶展開瞬間的光翼形態，令整組完成後極具陳設觀賞價值。\n\n基礎骨架延續 MG Turn A 的精密結構，全身具備流暢可動性，除月光蝶零件外亦附有一般展示用姿勢的備用手型與武裝配件。此為 P-Bandai（Premium Bandai）限定商品，非一般通路販售。",
     reviews: [
       {
@@ -295,7 +295,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年（TAMASHII NATION 2025 活動限定）",
     officialUrl: "https://p-bandai.com/tw/item/A2785243001",
     imageUrl: "/images/metal-build-providence-climax-battle.jpg",
-    tags: ["Gundam SEED", "プロヴィデンスガンダム", "天帝鋼彈", "METAL BUILD", "Bandai", "合金", "魂展限定"],
+    tags: ["Gundam SEED", "プロヴィデンスガンダム", "METAL BUILD", "Bandai", "合金", "魂展限定"],
     description: "《機動戰士鋼彈 SEED》（2002）終盤登場的最強 ZAFT 試驗型 MS、由 Rau Le Creuset 駕駛的 GAT-X131 Providence Gundam，以 Bandai Namco TAMASHII NATIONS 的頂級完成品品牌「METAL BUILD」打造的 CLIMAX BATTLE Ver.，為 TAMASHII NATION 2025 活動限定商品。\n\nProvidence Gundam 最大的設計特色是其掛載於背部的大型 DRAGOON System（ドラグーン・システム）——這是一套可分離飛行的全方位射擊兵器群，由機動可動砲台組成，可對敵方展開立體全向射擊，是鋼彈 SEED 宇宙中最具威壓感的武裝之一。CLIMAX BATTLE Ver. 充分再現了 DRAGOON 全展開的極限形態，大量合金壓鑄零件賦予機體沉甸甸的重量感，配合精緻塗裝，視覺衝擊力十足。",
     reviews: [
       {
@@ -375,7 +375,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年8月",
     officialUrl: "https://tamashiiweb.com/item/15365/",
     imageUrl: "/images/metal-build-burning-gundam-second.jpg",
-    tags: ["Gガンダム", "神鋼彈", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
+    tags: ["Gガンダム", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
     description: "《機動武闘傳 G 鋼彈》（1994）主角機 GF13-017NJ 神鋼彈（英文版稱 Burning Gundam）的 METAL BUILD 完成品，附帶第二形態「弐式（Second）」替換零件。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現劇中「God Finger」最終決戰形態，合金壓鑄骨架帶來紮實的重量感。",
     reviews: [
       {
@@ -482,7 +482,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15065/",
     imageUrl: "/images/metal-build-strike-freedom-wing-of-light-repackage.jpg",
-    tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "追加配件", "オプションパーツ"],
+    tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "オプションパーツ"],
     description: "METAL BUILD 強攻自由鋼彈專用追加零件「光の翼（Wings of Light）」的 Re:PACKAGE 重新包裝版，附帶展開形態的大型光翼效果零件，可裝設於 METAL BUILD 強攻自由機體使其重現劇中最終決戰的全力形態。",
     reviews: [
       {
@@ -601,7 +601,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15164/",
     imageUrl: "/images/soc-gx116-pliers-gaogaigar.jpg",
-    tags: ["ガオガイガー", "勇者王", "SOC", "SOUL OF CHOGOKIN", "超合金", "Bandai", "合金"],
+    tags: ["ガオガイガー", "勇者王", "SOUL OF CHOGOKIN", "超合金", "Bandai", "合金"],
     description: "《勇者王 GaoGaiGar》（1997）中協助主角 GaoGaiGar 執行「勇氣合體」的支援機 PLIERS（プライヤーズ）的 SOUL OF CHOGOKIN GX-116 完成品。SOC 系列是 TAMASHII NATIONS 最高規格的超合金玩具品牌，充分再現 PLIERS 的機械細節與合體功能，配合其他 SOC GaoGaiGar 系列零件可進行聯合展示。",
     reviews: [
       {
@@ -1416,7 +1416,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/13888/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-parts-set.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーパーツ", "追加配件", "オプションパーツ", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーパーツ", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的魂ウェブ限定超音速追加背包（Super Parts），裝設後大幅提升機體航程與加速性能，外觀也更具強度感。為配合本體另外販售的追加配件組。",
     reviews: [
       {
@@ -1489,7 +1489,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/14072/",
     imageUrl: "/images/dx-chogokin-vf31ax-armored-parts-set.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "追加配件", "オプションパーツ", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的追加裝甲套件，裝設後讓機體呈現全副武裝的 ARMORED 形態，大幅強化防禦力與砲擊火力。配合本體使用可再現劇場版決戰場景中的重裝備型態。",
     reviews: [
           {
@@ -1523,7 +1523,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14235/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-ghost-set.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーゴースト", "追加配件", "オプションパーツ", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーゴースト", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的「Super Ghost」無人機追加組件，可掛載於機體翼端，再現 Macross 宇宙中的無人攻擊支援無人機戰術。",
     reviews: [
       {
@@ -1645,7 +1645,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15635/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
-    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10週年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "為紀念《超時空要塞Δ》十週年發售的 DX CHOGOKIN VF-31A Kairos，重現劇中 Delta 小隊支援機（非個人識別機）的一般配色。Kairos 是 Macross Delta 宇宙中的量產型可變機，此 10th Anniversary 版本是 VF-31A 首次以一般配色形式發售，具有重要的周年紀念意義。",
     reviews: [],
     youtube: [
@@ -1673,7 +1673,7 @@ export const collection: CollectibleItem[] = [
     height: "約30cm",
     officialUrl: "https://www.ekiahobbies.com/ninja-cat-1-6-fighter-mai-collectibles-figure-nic-n001/",
     imageUrl: "/images/ninja-cat-n001.jpg",
-    tags: ["KOF", "King of Fighters", "不知火舞", "1/6", "Ninja Cat", "可動", "矽膠", "SNK", "NIC", "鉑金矽膠", "鋼骨"],
+    tags: ["King of Fighters", "不知火舞", "1/6", "Ninja Cat", "可動", "矽膠", "SNK", "NIC", "鉑金矽膠", "鋼骨"],
     description: "Ninja Cat（忍者貓）出品的 N001《女格鬥家舞》，以 SNK《拳皇》系列人氣角色不知火舞為原型的 1/6 比例高規格矽膠可動人偶，2025 年 Q2 發售。\n\n本作最大特色是採用「醫療級鉑金矽膠無縫包覆體」——機構上以不鏽鋼骨架為基底，外層以手術等級的鉑金矽膠完整包覆，呈現有別於 PVC 塗裝人形的極高皮膚質感；頭雕搭載可動式眼球，能微調視線方向。套件附 7 款替換手型、開扇與收扇各一，可重現不知火舞在《拳皇》中各招式的手勢與道具動作。全高約 30cm，體量感與可動性在同定價帶矽膠人偶中屬頂尖水準。",
     reviews: [
       {
@@ -1753,7 +1753,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年",
     officialUrl: "https://www.hpoi.net/hobby/106953",
     imageUrl: "/images/animester-2b-nier-1-9.jpg",
-    tags: ["NieR", "NieR:Automata", "2B", "YoRHa", "1/9", "Metal Mecha", "可動", "AniMester", "Nuclear Gold", "Square Enix"],
+    tags: ["NieR:Automata", "2B", "YoRHa", "1/9", "Metal Mecha", "可動", "AniMester", "Nuclear Gold", "Square Enix"],
     description: "由 AniMester 與 Nuclear Gold 聯名推出、基於 2023 年 TV 動畫《NieR:Automata Ver1.1a》授權的 1/9 比例金屬骨架可動人形。以系列女主角 YoRHa No.2 型 B 號（2B）為原型，採用精密金屬骨架與多軸關節設計實現豐富動態姿勢，附帶音聲底座可重現動畫台詞，並搭載 Pod 042 無人機及多組替換手部配件。",
     reviews: [
     ],
@@ -1778,7 +1778,7 @@ export const collection: CollectibleItem[] = [
     height: "約400mm（含台座）",
     officialUrl: "https://www.hpoi.net/hobby/102406",
     imageUrl: "/images/bearpanda-mai-shiranui-kof97.jpg",
-    tags: ["KOF", "King of Fighters", "不知火舞", "1/6", "BearPanda", "Biya", "SNK", "正版授權", "旗袍"],
+    tags: ["King of Fighters", "不知火舞", "1/6", "BearPanda", "Biya", "SNK", "正版授權", "旗袍"],
     description: "由 BearPanda 與插畫師 Biya 聯名製作、SNK 正版授權的《拳皇 '97》不知火舞「紅裳舞 Ver.」1/6 固定姿勢人形，全高含台座約 400mm。以鮮豔紅色旗袍搭配金扇演繹不知火舞的傳統東洋美學，精緻布料質感與金色飾品細節在 1/6 比例下忠實呈現，是 BearPanda 旗下 SNK 授權系列的代表作之一。",
     reviews: [
       {
@@ -1997,7 +1997,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年",
     officialUrl: "https://tamashiiweb.com/item/13745/",
     imageUrl: "/images/metal-build-justice-gundam.jpg",
-    tags: ["Metal Build", "Bandai", "Gundam SEED", "合金", "完成品", "高達", "ZAFT"],
+    tags: ["METAL BUILD", "Bandai", "Gundam SEED", "合金", "完成品", "ZAFT"],
     description: "Bandai Spirits Metal Build《機動戰士鋼彈SEED》GAT-X019 Justice Gundam，合金壓鑄可動完成品，附飛行機械翼及豐富武裝配件。",
     reviews: [
       {
@@ -2425,14 +2425,14 @@ export const collection: CollectibleItem[] = [
     name: "Threezero DLX Iron Man Mark VI (Battle Damaged)",
     series: "Marvel Studios: Iron Man 2 / The Infinity Saga",
     character: "Iron Man Mark VI（Tony Stark）",
-    manufacturer: "Threezero",
+    manufacturer: "threezero",
     scale: "DLX 1/12",
     price: "$119.99 USD",
     releaseDate: "2026年Q1",
     height: "約17.5cm",
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-6-battle-damaged-6935",
     imageUrl: "/images/threezero-dlx-iron-man-mk6-battle-damaged.jpg",
-    tags: ["Threezero", "DLX", "Marvel", "Iron Man", "Infinity Saga", "合金", "可動", "完成品", "Iron Man 2"],
+    tags: ["threezero", "DLX", "Marvel", "Iron Man", "Infinity Saga", "合金", "可動", "完成品", "Iron Man 2"],
     description: "Threezero Marvel Studios: The Infinity Saga DLX 系列 1/12 鋼鐵人 Mark VI（戰損版），採用 DLX 合金壓鑄系統，精細戰損塗裝重現《鋼鐵人2》最終決戰場景，附多種替換手型與武器配件。",
     reviews: [
       {
@@ -2627,7 +2627,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年（限量抽選発売）",
     officialUrl: "https://www.volks.co.jp/nierautomata/dddy_2b/",
     imageUrl: "/images/volks-dd-nier-automata.jpg",
-    tags: ["NieR", "NieR:Automata", "2B", "YoRHa", "Dollfie Dream", "DDdy", "Dollfie Dream Dynamite", "Volks", "BJD", "關節人偶", "Square Enix", "限定"],
+    tags: ["NieR:Automata", "2B", "YoRHa", "Dollfie Dream", "DDdy", "Dollfie Dream Dynamite", "Volks", "BJD", "關節人偶", "Square Enix", "限定"],
     description: "Volks《Dollfie Dream® Dynamite》系列（DDdy）與 Square Enix《NieR:Automata》的官方聯名限量人偶，以女主角 YoRHa No.2 型 B 號（2B）為原型，2019 年以抽選方式限量販售。\n\nDollfie Dream Dynamite（DDdy）是 Volks 旗下 Dollfie Dream 系列中身形最豐滿的高規格球關節人偶（BJD）版本，人偶採用高品質軟乙烯頭部搭配 DD-f3 骨架，全高約 60cm，所有關節均可精密調整姿勢。此款 2B 附件完整：黑色禮服（和式剪裁）、白色短假髮、黑色眼罩、手套、靴子、護臂、黑色腿套，以及標誌性的 Pod 042 無人機支架；武裝配件則附有白之契約劍（短刀型）。衣裝全部以真實布料縫製，工藝水準遠超一般完成品，是 NieR 系列周邊中工手料精程度最高、收藏價值最頂尖的存在。",
     reviews: [
       {
@@ -3368,7 +3368,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://www.threezerohk.com/shop/3z0257-marvel-studios-the-infinity-saga-dlx-iron-patriot-6682",
     imageUrl: "/images/dlx-iron-patriot.jpg",
-    tags: ["Marvel", "Iron Patriot", "鋼鐵愛國者", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
+    tags: ["Marvel", "Iron Patriot", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《鋼鐵人 3》（2013）中 James Rhodes 的 Iron Patriot 盔甲，由 War Machine Mark II 重新塗裝為美國星條旗配色，代表美國政府的官方超級英雄形象。Iron Patriot 在《鋼鐵人 3》中以「美國英雄」身分執行任務，DLX 版本精緻重現其藍白紅三色的愛國配色。",
     reviews: [
           {
@@ -3397,7 +3397,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年",
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-war-machine-mark-2-6734",
     imageUrl: "/images/dlx-war-machine-mark2.jpg",
-    tags: ["Marvel", "War Machine", "戰爭機器", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Rhodes"],
+    tags: ["Marvel", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Rhodes"],
     description: "threezero DLX 系列 James Rhodes 的 War Machine Mark II，以全黑軍事重武裝配色搭配肩部加特林機炮為特徵，是 MCU 中最具壓迫感的重型裝甲之一。相比 Iron Man 的紅金色調，War Machine 的黑色金屬質感展現出截然不同的美學風格，DLX 版本附加特林炮展開形態配件。",
     reviews: [
           {
@@ -3426,7 +3426,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-spider-6757",
     imageUrl: "/images/dlx-iron-spider.jpg",
-    tags: ["Marvel", "Iron Spider", "鋼鐵蜘蛛人", "Spider-Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
+    tags: ["Marvel", "Iron Spider", "Spider-Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
     description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中 Peter Parker 由 Tony Stark 贈予的 Iron Spider 盔甲，以紅金奈米科技設計搭配背部四支蜘蛛腳（Waldoes）為最大特徵。Iron Spider 是 Peter 首套正式的奈米科技裝甲，DLX 版本附可伸展的四支金屬蜘蛛腳配件。",
     reviews: [
           {
@@ -3455,7 +3455,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-black-panther-6749",
     imageUrl: "/images/dlx-black-panther.jpg",
-    tags: ["Marvel", "Black Panther", "黑豹", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Vibranium"],
+    tags: ["Marvel", "Black Panther", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Vibranium"],
     description: "threezero DLX 系列《黑豹》（2018）中瓦干達王 T'Challa 的黑豹戰衣，以全身覆蓋振金（Vibranium）奈米粒子的黑紫色戰衣呈現。DLX 版本精緻重現黑豹戰衣上細緻的幾何紋路，可動關節模擬 T'Challa 的貓科靈活戰鬥動作，附多款替換手型。",
     reviews: [
           {
@@ -3484,7 +3484,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://www.threezerohk.com/shop/3z0248-marvel-studios-the-infinity-saga-dlx-iron-man-mark-44-hulkbuster-6652",
     imageUrl: "/images/dlx-hulkbuster.jpg",
-    tags: ["Marvel", "Hulkbuster", "浩克剋星", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "超大型"],
+    tags: ["Marvel", "Hulkbuster", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "超大型"],
     description: "threezero DLX 系列《復仇者聯盟：奧創紀元》（2015）中 Tony Stark 為對抗失控浩克特別開發的 Hulkbuster 超大型裝甲，由 Mark XLIII 本體搭載巨型外骨架構成。DLX Hulkbuster 是系列中體積最大的作品，以 1/12 比例重現龐大的紅金色重裝甲，搭載可縮伸的伸縮臂與加厚裝甲板，展示效果極具震撼力。",
     reviews: [
           {
@@ -3513,7 +3513,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3865/",
     imageUrl: "/images/rg-msz006-3-zeta-karaba.jpg",
-    tags: ["ガンプラ", "RG", "Bandai", "Zeta Gundam", "ゼータ", "カラバ", "MSV", "可變形", "白色配色", "プレバン"],
+    tags: ["ガンプラ", "RG", "Bandai", "Zeta Gundam", "ゼータ", "カラバ", "MSV", "可變形", "白色配色", "P-Bandai限定"],
     description: "Bandai Spirits Premium Bandai 限定 RG 1/144《機動戰士Z鋼彈 MSV》卡拉巴（Karaba）地球抵抗組織強攻型試作機 MSZ-006-3，以白灰色調呈現有別於量產型的試作塗裝。MSZ-006-3 是 Z 鋼彈的原型驗證機，RG 系列忠實再現可變形骨架結構，白色機體在細節刻線對比下顯得格外簡潔精緻。附 3 號機專用水貼。",
     reviews: [
       {
@@ -3542,7 +3542,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年5月",
     officialUrl: "https://alter-web.jp/products/256/",
     imageUrl: "/images/alter-rider-altria-alter-fgo.jpg",
-    tags: ["Fate", "FGO", "Fate/Grand Order", "アルトリア", "ライダー", "オルタ", "ALTER", "美少女フィギュア", "1/7", "女僕"],
+    tags: ["Fate", "Fate/Grand Order", "アルトリア", "ライダー", "オルタ", "ALTER", "美少女フィギュア", "1/7", "女僕"],
     description: "ALTER 製作的《Fate/Grand Order》「ライダー／アルトリア・ペンドラゴン〔オルタ〕」1/7 完成品。以第三再臨的女僕戰士造型立體化，身穿黑色連帽外套搭配迷你裙，手持水槍「序列」（セクエンス）及拖把。連帽外套可拆除，換裝為露出戰鬥背心的姿態。神情銳利中帶有不情願的義務感，是 ALTER 一貫高精細造型水準的代表作品。",
     reviews: [
       {
@@ -3577,7 +3577,7 @@ export const collection: CollectibleItem[] = [
     height: "約240mm",
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054058136/",
     imageUrl: "/images/kotobukiya-saber-altria-alter-casual.jpg",
-    tags: ["Fate", "FGO", "Fate/Grand Order", "アルトリア", "セイバー", "オルタ", "私服", "Kotobukiya", "美少女フィギュア", "1/7"],
+    tags: ["Fate", "Fate/Grand Order", "アルトリア", "セイバー", "オルタ", "私服", "Kotobukiya", "美少女フィギュア", "1/7"],
     description: "《Fate/Grand Order》本篇 1.5 部「亞種特異點 I 新宿幻靈事件」中，黑化的亞瑟王（セイバー／アルトリア・ペンドラゴン〔オルタ〕）以日常私服登場的 1/7 完成品。身穿黑色熱褲搭配拉鍊上衣，眼神凌厲地直視前方。左手可替換為持劍版本，呈現設定畫中未曾出現的戰鬥姿態。外套及緊身褲的細緻縫線均有精細刻劃。此為初版 2019 年發售後 Kotobukiya 的再版。",
     reviews: [
       {
@@ -3675,7 +3675,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年7月",
     officialUrl: "https://amakuni.info/product/index01820000.html",
     imageUrl: "/images/amakuni-rider-altria-alter-fgo.jpg",
-    tags: ["Fate", "FGO", "Fate/Grand Order", "アルトリア", "ライダー", "オルタ", "AMAKUNI", "ホビージャパン", "美少女フィギュア", "1/7", "女僕", "誌上通販限定"],
+    tags: ["Fate", "Fate/Grand Order", "アルトリア", "ライダー", "オルタ", "AMAKUNI", "ホビージャパン", "美少女フィギュア", "1/7", "女僕", "誌上通販限定"],
     description: "AMAKUNI（ホビージャパン）製作的《Fate/Grand Order》「ライダー／アルトリア・ペンドラゴン〔オルタ〕」1/7 完成品。由原型師グリズリーパンダ設計並首發為 WF 限定 GK，後由 TYPE-MOON 全面監修製成完成品。以第三再臨的女僕造型立體化，持大型水槍與拖把，膚色採特殊研磨工藝呈現通透質感，有別於一般塗裝效果。月刊ホビージャパン 2020 年 8 月號誌上通販限定。",
     reviews: [
       {
@@ -3705,7 +3705,7 @@ export const collection: CollectibleItem[] = [
     height: "約235mm",
     officialUrl: "https://www.goodsmile.info/ja/product/4184/",
     imageUrl: "/images/max-factory-cerberus-bahamut.jpg",
-    tags: ["神撃のバハムート", "Rage of Bahamut", "ケルベロス", "Max Factory", "Cygames", "美少女フィギュア", "1/7", "魔属"],
+    tags: ["神撃のバハムート", "ケルベロス", "Max Factory", "Cygames", "美少女フィギュア", "1/7", "魔属"],
     description: "Max Factory 製作的 Cygames 社交遊戲《神撃のバハムート》人氣魔屬角色「ケルベロス」1/7 完成品。以人氣插畫師虫麻呂的傳說卡牌「三魔犬ケルベロス」為基礎立體化，還原紫色連身衣搭配金色裝飾的獨特造型，背後配置三頭獸頭護甲。全高約 235mm，採金屬光澤、光澤塗裝與漸層塗裝多層次技法，是 2014 年首發便備受好評的高品質作品。",
     reviews: [
       {
@@ -3813,7 +3813,7 @@ export const collection: CollectibleItem[] = [
     height: "約400mm",
     officialUrl: "https://www.hpoi.net/hobby/112006",
     imageUrl: "/images/bearpanda-evangelion-rei-ayanami-14.jpg",
-    tags: ["EVA", "Evangelion", "新世紀福音戰士", "綾波零", "Rei Ayanami", "BearPanda", "Khara", "1/4", "中國品牌", "正版授權"],
+    tags: ["EVA", "Evangelion", "綾波レイ", "BearPanda", "Khara", "1/4", "中國品牌", "正版授權"],
     description: "BearPanda × Khara 正版授權推出的《新世紀福音戰士》「綾波零（レイ・アヤナミ）」1/4 比例完成品。以 1/4 大比例重現綾波零標誌性的白色插入栓駕駛服造型，精細刻劃面容與藍紫色短髮，全高約 400mm，是 BearPanda 旗下正版 EVA 授權系列的代表作，以平實定價實現高品質收藏品。",
     reviews: [],
     youtube: [],
