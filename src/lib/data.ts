@@ -155,7 +155,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年",
     officialUrl: "",
     imageUrl: "/images/macross-plus-yf21-yamato.jpg",
-    tags: ["Macross", "マクロスプラス", "YF-21", "1/60", "YAMATO", "可變形", "絕版"],
+    tags: ["マクロス", "マクロスプラス", "YF-21", "1/60", "YAMATO", "可變形", "絕版"],
     description: "河森正治原案、菱田正和監督的 OVA 作品《Macross Plus》（1994）中由天才試驗飛行員 Guld Goa Bowman 駕駛的次世代可變戰機原型機 YF-21，由 YAMATO 以 1/60 比例製作的完全變形完成品。\n\nYF-21 在劇中是 Macross 宇宙中最具野心的機體設計之一——採用無操縱桿的腦波控制系統（BCS, Brain Computer System），令機體直接接受駕駛員的意念指令運動。外型上以大型三角翼搭配前置鴨翼，機首修長，充滿空氣動力學美感，與競爭機 YF-19 形成截然不同的設計哲學。\n\n此 YAMATO 1/60 版本支援 Fighter（戰鬥機）、GERWALK（半變形）、Battroid（人形）三型態完全切換，機身各面板、手臂收納、機首展開等機構均以精密塑膠件組成，是 Macross 比例模型中工業設計含量極高的一款。YAMATO 品牌已於 2013 年停業，現行市場流通量稀少，收藏與增值潛力兼具，是 Macross 模型收藏家必備的里程碑作品。",
     reviews: [
       {
@@ -632,7 +632,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年7月",
     officialUrl: "https://tamashiiweb.com/item/13540/",
     imageUrl: "/images/dx-chogokin-vf1d-fan-racer.jpg",
-    tags: ["Macross", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》（1982）中以雙座教練型登場的 VF-1D 女武神，與同款機體改裝的「Fan Racer」賽車形態同捆的 DX CHOGOKIN 魂ウェブ商店限定組合。VF-1D 是系列正規版中唯一的雙座型，此組合附帶兩架不同配置，可分別重現訓練場景與競速形態。",
     reviews: [
       {
@@ -676,7 +676,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年9月",
     officialUrl: "https://tamashiiweb.com/item/13603/",
     imageUrl: "/images/dx-chogokin-vf1j-armored-hikaru.jpg",
-    tags: ["Macross", "VF-1J", "アーマード", "裝甲型", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VF-1J", "アーマード", "裝甲型", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》主角一条輝（Hikaru Ichijo）機 VF-1J 加裝全套戰鬥裝甲（ARMORED）的 DX CHOGOKIN 版本。裝甲套件大幅增加了機體的攻防能力，外觀更具壓迫感，是 VF-1 系列中視覺衝擊最強烈的配置之一。",
     reviews: [
       {
@@ -725,7 +725,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月",
     officialUrl: "https://tamashiiweb.com/item/14111/",
     imageUrl: "/images/dx-chogokin-vf1a-angel-birds.jpg",
-    tags: ["Macross", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中統合軍飛行表演隊「Angel Birds」的專屬塗裝版 VF-1A 女武神，魂ウェブ商店限定。全機採用藍白為主調的表演塗裝，有別於作戰機塗色，是 DX CHOGOKIN VF-1 系列中視覺最清爽亮眼的特別版。",
     reviews: [
           {
@@ -759,7 +759,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/15096/",
     imageUrl: "/images/dx-chogokin-vf1j-hikaru-store-limited.jpg",
-    tags: ["Macross", "VF-1J", "DX超合金", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
+    tags: ["マクロス", "VF-1J", "DX超合金", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
     description: "《超時空要塞 Macross》主角一条輝機 VF-1J 女武神的 TAMASHII STORE 限定版，在標準版基礎上採用特別細緻的塗裝規格，配件更為完整。Fighter/GERWALK/Battroid 三型態完全可變，是 VF-1J Hikaru 機最精緻的 DX 版本。",
     reviews: [
       {
@@ -798,7 +798,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年7月",
     officialUrl: "https://tamashiiweb.com/item/14813/",
     imageUrl: "/images/dx-chogokin-vt1-super-ostrich.jpg",
-    tags: ["Macross", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》劇中非戰鬥改裝型可變形戰機 VT-1「Super Ostrich」的 DX CHOGOKIN 完成品，魂ウェブ商店限定。VT-1 是 VF-1 的民間/訓練用改裝版本，外觀呈現有別於軍用型的獨特設計，是 Macross 世界觀中最具生活感的機體之一。",
     reviews: [
       {
@@ -839,7 +839,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14740/",
     imageUrl: "/images/dx-chogokin-yf21-guld.jpg",
-    tags: ["Macross", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Plus》（1994）中 Guld Goa Bowman 駕駛的次世代試驗可變戰機 YF-21，TAMASHII NATIONS DX CHOGOKIN 版本。採用腦波控制系統（BCS）設計的未來感三角翼造型，Fighter/GERWALK/Battroid 三型態可完全切換，以現代 DX 標準精確重現這架 Macross Plus 的傳奇機體。",
     reviews: [
       {
@@ -890,7 +890,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/13806/",
     imageUrl: "/images/dx-chogokin-vf25-worldwide-anniv.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》（2008）主角機 VF-25 Messiah 的 Worldwide Anniversary 紀念版，特別塗裝配合全球周年活動設計，配件豐富。Fighter/GERWALK/Battroid 三型態可完全切換，是 Frontier 系列 DX 中具有特殊收藏意義的紀念版本。",
     reviews: [
       {
@@ -934,7 +934,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/14151/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）機 VF-25F 加裝 Super Pack（超音速噴射背包）形態的 REVIVAL 復刻版。此款對應造型與塗裝均依據現行 DX CHOGOKIN 製造規格重新優化，整體可動性與零件精度較原版大幅提升。",
     reviews: [
       {
@@ -973,7 +973,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15185/",
     imageUrl: "/images/dx-chogokin-vf25f-tornado-messiah-alto-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25F", "トルネード", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "トルネード", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Frontier》特有的 Tornado Pack 強化形態 VF-25F，以超高速突入配置搭配前段機首展開的 Tornado 推進器再現劇場版最終決戰場面。REVIVAL 版依現行 DX 規格重新調整模具，可動性與配件精度均優於初版。",
     reviews: [
       {
@@ -1007,7 +1007,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14354/",
     imageUrl: "/images/dx-chogokin-vf25g-super-messiah-michael-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》狙擊手 Michael Blanc 機 VF-25G（狙擊型，配備長槍管）加裝 Super Pack 形態的 REVIVAL 版。VF-25G 的機首改裝為大型感測器頭以支援長程狙擊，外觀有別於其他 VF-25 系列，是 Frontier 小隊中最具特色的機體之一。",
     reviews: [
       {
@@ -1046,7 +1046,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/14997/",
     imageUrl: "/images/dx-chogokin-vf25s-armored-messiah-ozma-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-25S", "アーマード", "オズマ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25S", "アーマード", "オズマ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》小隊長 Ozma Lee 機 VF-25S（指揮官型，背部附四片額外水平翼）加裝全套戰鬥裝甲（ARMORED PACK）形態的 REVIVAL 版。Armored 配置是 VF-25 系列中攻擊力最強的形態，渾身布滿武裝艙門，整體份量感十足。",
     reviews: [
       {
@@ -1090,7 +1090,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14559/",
     imageUrl: "/images/dx-chogokin-vf171ex-armored-alto-revival.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Frontier：The Wings of Goodbye》中早乙女アルト搭乘的 VF-171EX（夢魘改良型）加裝全套裝甲形態的 REVIVAL 版。VF-171EX Armored 是 Alto 在劇場版決戰中的最終機體，大型裝甲外殼賦予機體強烈的重裝壓迫感。",
     reviews: [
       {
@@ -1129,7 +1129,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/13952/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-max-full-set.jpg",
-    tags: ["Macross", "Macross Frontier", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta 絕對 LIVE!!!!!!》中傳奇 Ace 飛行員 Maximilian Jenius（Max 素人）搭乘的次世代高性能可變機 YF-29 Durandal 的 Full Set Pack 版本，附全套 Super Part 追加零件。YF-29 是 Macross 宇宙中性能最頂尖的可變機之一，由《Frontier》帶入《Delta》宇宙橋接劇情。",
     reviews: [
       {
@@ -1168,7 +1168,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15256/",
     imageUrl: "/images/dx-chogokin-vf27-sp-lucifer.jpg",
-    tags: ["Macross", "Macross Frontier", "VF-27", "スーパールシファー", "ブレラ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-27", "スーパールシファー", "ブレラ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》反派兼最終盟友 Brera Sterne（布雷拉·斯特恩）機 VF-27γ Super Lucifer 的 REVIVAL 版本。深紅色的塗裝配合流線型機身設計，是 Frontier 宇宙中最帥氣的機體之一；Super Pack 追加配件讓整體作戰能力與視覺份量感再度升級。",
     reviews: [
       {
@@ -1204,7 +1204,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年",
     officialUrl: "https://tamashiiweb.com/item/15495/",
     imageUrl: "/images/dx-chogokin-vf17s-nightmare-stealth.jpg",
-    tags: ["Macross", "Macross 7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross 7》（1994）中 Diamond Force 小隊長木崎ガムリン（Gamlin Kizaki）機 VF-17S 夢魘隱形女武神，Bandai DX CHOGOKIN 第一款 Macross 7 機體。VF-17 的隱形戰機設計強調匿蹤性，外型與其他 VF 大相徑庭，是 DX CHOGOKIN 系列中最期待已久的新作之一。",
     reviews: [
       {
@@ -1243,7 +1243,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15361/",
     imageUrl: "/images/dx-chogokin-vf19-custom-excalibur-basara.jpg",
-    tags: ["Macross", "Macross 7", "VF-19", "エクスカリバー", "熱気バサラ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロス7", "VF-19", "エクスカリバー", "熱気バサラ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross 7》中搖滾主唱 Nekki Basara（熱気バサラ）的座機 VF-19 Custom Excalibur（附大型揚聲器裝備），Bandai DX CHOGOKIN Special 版本。肩部巨型揚聲器單元可開閉，可重現 Basara 邊戰鬥邊唱歌的標誌性場景。附 Fire Valkyrie 形態轉換配件，是 Macross 7 DX 中最具特色的一件。",
     reviews: [
       {
@@ -1289,7 +1289,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月",
     officialUrl: "https://tamashiiweb.com/item/13624/",
     imageUrl: "/images/dx-chogokin-vf31j-movie-fold-unit.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "フォールドプロジェクション", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "フォールドプロジェクション", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31J 齊格弗里德，附帶劇場版特有的「摺疊投影裝置（Fold Projection Unit）」配件。此選配裝置大幅改變了機體外型，是劇場版與電視版最明顯的機體差異之一。",
     reviews: [
       {
@@ -1323,7 +1323,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13691/",
     imageUrl: "/images/dx-chogokin-vf31ax-first-limited-hayate.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》登場的強化型 VF-31AX Kairos-Plus（ハヤテ機）初回限定版，附更多配件與特別規格。VF-31AX 相較電視版 VF-31 採用全新骨架，強化了可動性與戰鬥性能，是 Delta 機體中技術層次最高的機型。",
     reviews: [
       {
@@ -1367,7 +1367,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13759/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》中女主角 Mirage Farina Jenius（傳奇 Ace Max Jenius 的孫女）機 VF-31AX Kairos-Plus，獨特的翠綠色塗裝有別於 Hayate 機，是 Delta 小隊中辨識度最高的機體。",
     reviews: [
       {
@@ -1416,7 +1416,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/13888/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-parts-set.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31AX", "スーパーパーツ", "追加配件", "オプションパーツ", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的魂ウェブ限定超音速追加背包（Super Parts），裝設後大幅提升機體航程與加速性能，外觀也更具強度感。為配合本體另外販售的追加配件組。",
     reviews: [
       {
@@ -1455,7 +1455,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/13935/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-borg.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》Delta 小隊成員 Borg Confert 機 VF-31AX Kairos-Plus，魂ウェブ限定。相較 Hayate 機與 Mirage 機，Borg 機採用不同個人識別塗裝，是 Delta 小隊全員 VF-31AX 收藏中不可缺少的一件。",
     reviews: [
       {
@@ -1489,7 +1489,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/14072/",
     imageUrl: "/images/dx-chogokin-vf31ax-armored-parts-set.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31AX", "アーマードパーツ", "追加配件", "オプションパーツ", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的追加裝甲套件，裝設後讓機體呈現全副武裝的 ARMORED 形態，大幅強化防禦力與砲擊火力。配合本體使用可再現劇場版決戰場景中的重裝備型態。",
     reviews: [
           {
@@ -1523,7 +1523,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14235/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-ghost-set.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31AX", "スーパーゴースト", "追加配件", "オプションパーツ", "Bandai"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーゴースト", "追加配件", "オプションパーツ", "Bandai"],
     description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的「Super Ghost」無人機追加組件，可掛載於機體翼端，再現 Macross 宇宙中的無人攻擊支援無人機戰術。",
     reviews: [
       {
@@ -1562,7 +1562,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/14876/",
     imageUrl: "/images/dx-chogokin-vf31j-supersiegfried-hayate-revival.jpg",
-    tags: ["Macross", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta》電視版主角 Hayate 機 VF-31J 加裝 Super Pack 形態「Super Siegfried」的 REVIVAL 版本，依現行 DX 規格重製模具與塗裝，可動性大幅提升。Super Pack 的戰略轟炸配件讓機體整體份量感倍增。",
     reviews: [
       {
@@ -1601,7 +1601,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/15103/",
     imageUrl: "/images/dx-chogokin-sv262hs-draken3.jpg",
-    tags: ["Macross", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》敵軍 Windermerean 皇家騎士團的反派機 Sv-262Hs Draken III（Bogue Con-Vaart 機），深紅金色的歐式塗裝與有別於 VF 系列的異型機設計，是整個 Delta 系列中最具個性的機體之一。",
     reviews: [
       {
@@ -1645,7 +1645,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15635/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
-    tags: ["Macross", "マクロスΔ", "VF-31A", "カイロス", "10週年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10週年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "為紀念《超時空要塞Δ》十週年發售的 DX CHOGOKIN VF-31A Kairos，重現劇中 Delta 小隊支援機（非個人識別機）的一般配色。Kairos 是 Macross Delta 宇宙中的量產型可變機，此 10th Anniversary 版本是 VF-31A 首次以一般配色形式發售，具有重要的周年紀念意義。",
     reviews: [],
     youtube: [
@@ -2373,7 +2373,7 @@ export const collection: CollectibleItem[] = [
     height: "約460mm",
     officialUrl: "https://www.goodsmile.info/ja/product/7415/",
     imageUrl: "/images/freeing-miku-my-dear-bunny.jpg",
-    tags: ["FREEing", "B-Style", "Hatsune Miku", "Vocaloid", "Project DIVA", "兔女郎", "1/4", "完成品フィギュア"],
+    tags: ["FREEing", "B-Style", "初音ミク", "Vocaloid", "Project DIVA", "兔女郎", "1/4", "完成品フィギュア"],
     description: "FREEing B-Style 系列 1/4 比例初音ミク兔女郎手辦，造型取自《初音ミク -Project DIVA- Arcade》的 My Dear Bunny 模組服裝，網紋褲襪採用真實布料材質，身高約460mm，極具存在感。",
     reviews: [
       {
@@ -2662,7 +2662,7 @@ export const collection: CollectibleItem[] = [
     height: "約100mm",
     officialUrl: "https://www.goodsmile.com/en/product/57427",
     imageUrl: "/images/nendo-suisei-sailor-outfit.jpg",
-    tags: ["星街すいせい", "hololive", "Nendoroid", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
+    tags: ["星街すいせい", "hololive", "ねんどろいど", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
     description: "Good Smile Company ねんどろいど 系列 hololive production 旗下人氣 VTuber 星街すいせい（彗星）的「Sailor Outfit Ver.」，商品編號 #2893，GOODSMILE ONLINE SHOP 獨家限定商品，預計 2026 年 8 月發售。\n\nすいせい以藍白配色水手服為主造型，搭配她標誌性的藍色長髮與彗星主題頭飾；套件附三款替換表情（笑臉、活潑臉、自信臉），以及蘋果汁飲料、烤肉配餐具等多款道具配件，可重現直播中她各種逗趣的互動場景。ねんどろいど 系列一貫的 Q 版頭身比例配合 GSC 精工彩繪面部，完美詮釋すいせい的星空主題個人魅力。是 hololive 周邊收藏中廣受彗星粉絲歡迎的必備款。",
     reviews: [],
     youtube: [],
@@ -2681,7 +2681,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年4月",
     officialUrl: "https://www.goodsmile.com/ja/product/1142180/",
     imageUrl: "/images/plamax-mf98-yf29-galaxy-set.jpg",
-    tags: ["Macross Frontier", "YF-29", "PLAMAX", "Max Factory", "機首コレクション", "1/20", "プラモデル", "シェリル", "ランカ", "アルト", "GALAXY SET"],
+    tags: ["マクロスF", "YF-29", "PLAMAX", "Max Factory", "機首コレクション", "1/20", "プラモデル", "シェリル", "ランカ", "アルト", "GALAXY SET"],
     description: "Max Factory PLAMAX MF-98 minimum factory 系列，為《マクロスFrontier》GALAXY LIVE☆FINAL 2025 演唱會紀念限定套裝。1/20 比例 YF-29 全長約340mm，以金色＆微妙なメタリックブラックの2色で設計 Risa Ebata 繪製的活動 Key Visual 忠實重現，附水轉印貼紙（2張）。套裝同時收錄シェリル・ノーム、ランカ・リー、アルト・サオトメ 三名人物模型（約90mm，附特殊金屬光澤塗裝），是マクロスF 粉絲的夢幻紀念組合。",
     reviews: [
           {
@@ -2710,7 +2710,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年",
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/arcadia-vf1j-30th-anniversary.jpg",
-    tags: ["Macross", "VF-1J", "Arcadia", "30周年", "記念塗装", "可變形", "1/60"],
+    tags: ["マクロス", "VF-1J", "Arcadia", "30周年", "記念塗装", "可變形", "1/60"],
     description: "慶祝《超時空要塞 Macross》（1982）播出 30 周年，Arcadia 推出的 1/60 完全可變形 VF-1J 女武神 30 周年紀念塗裝版。機身滿版印有歷代 Macross 系列作品 LOGO——初代、II、Plus、7、Zero、Frontier——是集結 Macross 三十年歷史於一身的限定紀念品。Fighter/GERWALK/Battroid 三型態完全可變，以 Arcadia 品牌初期最高規格製作呈現。",
     reviews: [
       {
@@ -2739,7 +2739,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年",
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/yamato-vf0a-macross-zero.jpg",
-    tags: ["Macross", "マクロスゼロ", "VF-0A", "Yamato", "Roy Focker", "可變形", "1/60", "フェニックス"],
+    tags: ["マクロス", "マクロスゼロ", "VF-0A", "Yamato", "Roy Focker", "可變形", "1/60", "フェニックス"],
     description: "《Macross Zero》（2002 OVA）中超時空要塞世界觀最早的可變形戰機 VF-0A 鳳凰式，Yamato 1/60 完全可變形版本。VF-0A 是 VF-1 的直系前身機，採用大推力引擎以補足當時尚未成熟的 OTM（Overtechnology）。Roy Focker 機的藍白色調與頭骷髏標誌是其最鮮明的識別特徵，Fighter/GERWALK/Battroid 三型態均可完全切換。",
     reviews: [
       {
@@ -2768,7 +2768,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/arcadia-vf19-custom-sound-booster-40th.jpg",
-    tags: ["Macross", "Macross 7", "VF-19", "ファイヤーバルキリー", "Sound Booster", "熱気バサラ", "Arcadia", "40周年", "可變形", "1/60"],
+    tags: ["マクロス", "マクロス7", "VF-19", "ファイヤーバルキリー", "Sound Booster", "熱気バサラ", "Arcadia", "40周年", "可變形", "1/60"],
     description: "慶祝《Macross 7》播出 40 周年，Arcadia 推出的 1/60 完全可變形 VF-19改 ファイヤーバルキリー，附帶 Nekki Basara（熱気バサラ）專屬的 Sound Booster 音響裝備。Sound Booster 搭載大型揚聲器單元，肩部可開閉，重現 Basara 邊戰鬥邊高唱的標誌性場景。40 周年紀念版在塗裝細節與配件完整度上較初版更為精緻，是 Macross 7 迷的終極收藏。",
     reviews: [
       {
@@ -2797,7 +2797,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年",
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/arcadia-vf4a-lightning-iii.jpg",
-    tags: ["Macross", "VF-4A", "ライトニングIII", "Arcadia", "Flash Back 2012", "可變形", "1/60"],
+    tags: ["マクロス", "VF-4A", "ライトニングIII", "Arcadia", "Flash Back 2012", "可變形", "1/60"],
     description: "《超時空要塞 Macross Flash Back 2012》（1987 音樂 OVA）中首次登場的次世代可變形戰機 VF-4A Lightning III，Arcadia 1/60 完全可變形版本。VF-4A 是 VF-1 之後的下一代主力機型，以整流罩式機頭與後掠三角翼為特徵，外型較 VF-1 更為現代化。此款以 UN Spacy 標準塗裝呈現，Fighter/GERWALK/Battroid 三型態均可完全切換，是 Macross 歷史上重要機體的 1/60 完全可變形版本。",
     reviews: [
       {
@@ -2829,7 +2829,7 @@ export const collection: CollectibleItem[] = [
     height: "約100mm",
     officialUrl: "https://www.goodsmile.com/en/product/60968",
     imageUrl: "/images/nendoroid-snow-miku-crystal-snow-2026.jpg",
-    tags: ["Hatsune Miku", "Snow Miku", "Nendoroid", "Good Smile Company","#2943"],
+    tags: ["初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC", "#2943"],
     description: "Good Smile Company ねんどろいど 系列「雪ミク 2026」年度主題造型「Crystal Snow ver.」，商品編號 #2943。雪ミク 以晶瑩剔透的水晶雪花主題為設計概念，服裝、頭飾與配件均加入冰晶質感元素，是每年 SNOW MIKU 祭典的限定年度造型。套件附多款替換表情與雪花道具配件，Q 版比例中充分重現 2026 年度雪ミク 的設計細節。",
     reviews: [
           {
@@ -3606,7 +3606,7 @@ export const collection: CollectibleItem[] = [
     height: "約295mm",
     officialUrl: "https://www.goodsmile.com/en/product/12077/",
     imageUrl: "/images/gsc-sheryl-nome-anniversary-stage.jpg",
-    tags: ["Macross Frontier", "シェリル・ノーム", "Good Smile Company", "美少女フィギュア", "1/7", "10周年", "銀河の妖精"],
+    tags: ["マクロスF", "シェリル・ノーム", "Good Smile Company", "美少女フィギュア", "1/7", "10周年", "銀河の妖精"],
     description: "グッドスマイルカンパニー《マクロスF》10 周年紀念，以角色設計師江端里沙的周年紀念插畫為基礎製作的「シェリル・ノーム ～Anniversary Stage Ver.～」1/7 完成品。全高約 295mm，以充滿躍動感的演唱姿態立體化，波浪狀長髮、星光璀璨的演出服及附麥克風道具均精緻重現。可搭配同系列「ランカ・リー ～Anniversary Stage Ver.～」並排展示。",
     reviews: [
       {
@@ -3729,7 +3729,7 @@ export const collection: CollectibleItem[] = [
     height: "約320mm（含台座）",
     officialUrl: "https://www.goodsmile.info/ja/product/3893/",
     imageUrl: "/images/max-factory-sheryl-nome-itswari.jpg",
-    tags: ["Macross Frontier", "シェリル・ノーム", "Max Factory", "美少女フィギュア", "1/7", "劇場版", "銀河の妖精", "CHIERI"],
+    tags: ["マクロスF", "シェリル・ノーム", "Max Factory", "美少女フィギュア", "1/7", "劇場版", "銀河の妖精", "CHIERI"],
     description: "Max Factory 製作的「劇場版マクロスF～イツワリノウタヒメ～」女主角「シェリル・ノーム」1/7 完成品，原型師智恵理（CHIERI）製作。以電影公開時的主視覺插畫為基礎，在碩大齒輪台座上以黑白交錯演出服、迷你帽及飄逸髮絲重現銀河妖精的演唱姿態。全高約 320mm（含台座），是《マクロスF》劇場版系列中最具代表性的人物模型作品之一。",
     reviews: [
       {
