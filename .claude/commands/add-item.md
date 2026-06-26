@@ -45,9 +45,31 @@
 | Bandai Tamashii | tamashiiweb.com 商品頁 og:image |
 | Bandai Gunpla | bandai-hobby.net 或 p-bandai.jp |
 | Good Smile (Nendoroid/Scale) | goodsmile.com/zh-tw/product/... |
-| threezero DLX | threezerohk.com/product/... |
+| threezero DLX | threezerohk.com/shop/... |
 | Arcadia / Yamato | arcadiashop.jp |
 | Mega House | megahouse.co.jp |
+
+## 官網連結格式參考（`officialUrl`）
+
+### Bandai Gunpla
+- **優先使用 bandai-hobby.net**：`https://bandai-hobby.net/item/01_XXXX/`（不論是否為 P-Bandai 限定，只要有頁面就用這個）
+- **bandai-hobby.net 找不到才改用 p-bandai.jp**：`https://p-bandai.jp/item/item-NNNNNNNNNN/`
+- p-bandai.jp 有鎖區問題，非必要不用
+
+### threezero DLX
+- **正確格式**：`https://www.threezerohk.com/shop/[product-slug]-[id]`
+- 範例：`https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-7-6753`
+- `/product/` 舊格式已全部失效（403），**不要使用**
+- 若找不到 `/shop/` URL，用 Google 搜尋 `site:threezerohk.com/shop [商品名]`
+
+### Bandai Tamashii（DX超合金、Metal Build 等）
+- `https://tamashiiweb.com/item/XXXX/`
+
+### Good Smile（Nendoroid、Scale）
+- 優先用繁中：`https://www.goodsmile.com/zh-tw/product/XXXX/`
+
+### 其他品牌
+- 優先找官方直營網站中文版 → 日文版 → 英文版
 
 ## 部署
 - 新增完成後 `git add` + `git commit` + `git push`
