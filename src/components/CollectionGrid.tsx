@@ -110,7 +110,6 @@ export default function CollectionGrid({ collection }: { collection: Collectible
             item={item}
             onTagClick={(tag) => {
               setSelectedTag(tag)
-              setTagsOpen(true)
             }}
           />
         ))}
