@@ -81,13 +81,13 @@ export const collection: CollectibleItem[] = [
     description: "《Fate/Grand Order》第一部第一章「異聞帶 I：新宿幻靈事件」的主角之一，黑化的聖女貞德（Jeanne d'Arc Alter）以日常便服形象登場的 1/7 比例完成品。\n\n人物穿著正面有拉鍊設計的黑色皮質迷你裙，搭配深色長靴與紅黑漸層的披風型外套，頭上帶有象徵 Avenger 職階的小型王冠。身體微微前傾、腳步向前踏出，一手叉腰、一手輕提、頭微微側傾的姿勢，同時展現少女的俏皮感與 Avenger 的銳利眼神。\n\n台座為充滿廢墟感的裂紋石板地面，重現新宿廢街背景。附可替換右手臂，可切換為持劍（勝利之劍 La Pucelle）的戰鬥姿勢。此款為初版 2019 年發售後 Kotobukiya 的再版。非 ArtFX J 系列，屬 Kotobukiya 一般 PVC 1/7 完成品線。",
     reviews: [
       {
-        title: "Fate/Grand Order Jeanne d'Arc (Alter) casual ver. Review | MyFigureCollection",
-        url: "https://myfigurecollection.net/blogpost/40719",
-        lang: "en",
+        title: "コトブキヤ ジャンヌ・ダルク〔オルタ〕 私服ver. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52026567.html",
+        lang: "ja",
       },
       {
-        title: "Avenger / Jeanne d'Arc (Alter) Casual ver. 1/7 (Kotobukiya) | MyFigureCollection",
-        url: "https://myfigurecollection.net/item/604029",
+        title: "Fate/Grand Order Jeanne d'Arc (Alter) casual ver. Review | MyFigureCollection",
+        url: "https://myfigurecollection.net/blogpost/40719",
         lang: "en",
       },
     ],
@@ -226,21 +226,16 @@ export const collection: CollectibleItem[] = [
     description: "《機動戰士鋼彈》（1979）中宇宙世紀地球聯邦軍所開發的初期量產型試作モビルスーツ（MS）RX-78 鋼彈第三號機，俗稱「G-3 Gundam」。G-3 是三架試作機中以「耐磁塗裝（磁力無效塗裝）」為特徵的特殊規格機，外裝塗裝以低調的灰白調為主，有別於一號機（RX-78-1）與二號機（RX-78-2）的標準紅白藍配色，因此在眾多鋼彈模型版本中獨具辨識度。\n\n此版本採用 MG Ver.3.0 骨架——這是截至目前 RX-78 系列 MG 最新世代的骨架規格，具備極為精密的全身關節構造（包括手指各節可動、腳掌踝關節自由傾斜等），並徹底重製了內部骨架造型，即使不裝外裝甲板，骨架本身也完整呈現 RX-78 的機體輪廓。外裝甲板則採用帶有金屬光澤的珍珠灰塗裝，搭配 THE GUNDAM BASE（鋼彈基地旗艦店）限定的專屬水貼，是正統派鋼彈 MG 模型中的高規格珍藏版本。",
     reviews: [
       {
-        title: "MG 1/100 RX-78-3 Gundam G-3 Ver.3.0 Release Info | Gundam Kits Collection",
-        url: "https://www.gundamkitscollection.com/2024/09/mg-1100-rx-78-3-gundam-g-3-ver-30.html",
-        lang: "en",
-      },
-      {
-        title: "Let's Talk Gunpla Vol.571 | Kimi The Builder Blog",
-        url: "https://kimithebuilderblog.com/2024/09/06/lets-talk-gunpla-vol-571/",
-        lang: "en",
+        title: "「MG 1/100 ガンダムベース限定 RX-78-3 G-3ガンダム Ver.3.0」レビュー!! | THE GUNDAM BASE TOKYO BLOG",
+        url: "https://www.gundam-base.net/staffblog/60128.html",
+        lang: "ja",
       },
     ],
     youtube: [
       {
-        title: "開箱 MG 1/100 RX-78-2 鋼彈Ver.3.0 TGB配色 — tony ver",
-        url: "https://www.youtube.com/watch?v=nG3sM_0hvR8",
-        lang: "zh",
+        title: "難しすぎだろ！MG G3ガンダムVer.3.0【ガンプラレビュー】",
+        url: "https://www.youtube.com/watch?v=P-C1_p3sJl8",
+        lang: "ja",
       },
       {
         title: "ガンダムベース限定 MG G-3ガンダム Ver.3.0 素組レビュー — 雪プラ堂",
@@ -1800,11 +1795,6 @@ export const collection: CollectibleItem[] = [
     tags: ["NieR", "NieR:Automata", "2B", "YoRHa", "1/9", "Metal Mecha", "可動", "AniMester", "Nuclear Gold", "Square Enix"],
     description: "由 AniMester 與 Nuclear Gold 聯名推出、基於 2023 年 TV 動畫《NieR:Automata Ver1.1a》授權的 1/9 比例金屬骨架可動人形。以系列女主角 YoRHa No.2 型 B 號（2B）為原型，採用精密金屬骨架與多軸關節設計實現豐富動態姿勢，附帶音聲底座可重現動畫台詞，並搭載 Pod 042 無人機及多組替換手部配件。",
     reviews: [
-      {
-        title: "NieR:Automata 2B 1/9 (AniMester × Nuclear Gold) | MyFigureCollection",
-        url: "https://myfigurecollection.net/item/2695756",
-        lang: "en",
-      },
     ],
     youtube: [
       {
@@ -1831,9 +1821,9 @@ export const collection: CollectibleItem[] = [
     description: "由 BearPanda 與插畫師 Biya 聯名製作、SNK 正版授權的《拳皇 '97》不知火舞「紅裳舞 Ver.」1/6 固定姿勢人形，全高含台座約 400mm。以鮮豔紅色旗袍搭配金扇演繹不知火舞的傳統東洋美學，精緻布料質感與金色飾品細節在 1/6 比例下忠實呈現，是 BearPanda 旗下 SNK 授權系列的代表作之一。",
     reviews: [
       {
-        title: "The King of Fighters '97 - Mai Shiranui Hong Shang Wu Ver. 1/6 (Bear Panda) | MyFigureCollection",
-        url: "https://myfigurecollection.net/item/2490622",
-        lang: "en",
+        title: "【心得】BearPanda 不知火舞 紅裳舞 1/6開箱 | 巴哈姆特",
+        url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=78334",
+        lang: "zh",
       },
     ],
     youtube: [
@@ -1925,13 +1915,13 @@ export const collection: CollectibleItem[] = [
     description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列鋼彈風暴使者 P.F.（Phantom Fang），P-Bandai 限定。",
     reviews: [
       {
-        title: "MG 1/100 Gundam Stormbringer P.F. Review | GundamKitsCollection",
-        url: "https://www.gundamkitscollection.com/2024/10/mg-gundam-stormbringer-pf-review.html",
-        lang: "en",
+        title: "MG ガンダムストームブリンガー P.F. レビュー | ガンダムブログはじめました",
+        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%96%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC-p-f",
+        lang: "ja",
       },
     ],
     youtube: [
-      { title: "MG Gundam Stormbringer P.F. Unboxing & Review", url: "https://www.youtube.com/watch?v=2siiknsaWYk", lang: "en" },
+      { title: "【MG】ガンダムストームブリンガーPF", url: "https://www.youtube.com/watch?v=LOjn9TLiJdg", lang: "ja" },
     ],
   },
   {
@@ -3369,12 +3359,12 @@ export const collection: CollectibleItem[] = [
     description: "threezero DLX 鋼鐵人 Mark L 的專屬擴充配件包，收錄電影中登場的各式奈米武器替換零件，包括奈米噴射器、防護罩、能量炮等多種形態配件，可搭配 DLX Mark L 本體進一步豐富展示與把玩場景。",
     reviews: [],
     youtube: [
-          {
-            title: "Video Review: ThreeZero DLX Iron Man Mark 50 ACCESSORY PACK",
-            url: "https://www.youtube.com/watch?v=yTukhfPTiWI",
-            lang: "en",
-          },
-        ],
+      {
+        title: "「爆玩具」Threezero DLX 鋼鐵俠 Mark 50 配件包 Iron Man Mk50 Accessory Pack",
+        url: "https://www.youtube.com/watch?v=NPr23Yu9gbU",
+        lang: "zh",
+      },
+    ],
   },
   {
     id: "dlx-iron-man-mark85",
