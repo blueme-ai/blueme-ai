@@ -1150,14 +1150,9 @@ export const collection: CollectibleItem[] = [
     ],
     youtube: [
       {
-        title: "【最速開封】一代神物的前世今生 DX超合金 YF-29 開箱試玩",
-        url: "https://www.youtube.com/watch?v=jS0r0T5k6OU",
+        title: "寶刀未老，再戰十年！萬代DX超合金 YF-29麥克斯機 開箱試玩",
+        url: "https://www.youtube.com/watch?v=mcVuSpqe7JE",
         lang: "zh",
-      },
-      {
-        title: "【マクロス玩具レビュー】DX超合金 YF-29 デュランダルバルキリー（マクシミリアン・ジーナス機）",
-        url: "https://www.youtube.com/watch?v=WIbcnS_g0vs",
-        lang: "ja",
       },
       {
         title: "【星4つ】天才の翼！DX超合金 デュランダルバルキリー（マクシミリアン・ジーナス機）フルセットパック 徹底レビュー",
