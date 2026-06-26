@@ -535,8 +535,8 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
       {
-        title: "MGEX ストライクフリーダムガンダム レビュー | ガンプラの館",
-        url: "https://www.gunplayakata.com/entry/2025/09/03/MGEX_%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%95%E3%83%AA%E3%83%BC%E3%83%80%E3%83%A0%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+        title: "MGEX ストライクフリーダムガンダム［メカニカルクリア］ レビュー | MG SEED",
+        url: "https://schizophonic9-2.com/blog-entry-5846.html",
         lang: "ja",
       },
     ],
