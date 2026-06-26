@@ -54,7 +54,7 @@ export default function CollectionGrid({ collection }: { collection: Collectible
       </div>
 
       {/* Tag chips */}
-      <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none mt-4 mb-6">
+      <div className="flex flex-wrap gap-2 mt-4 mb-6">
         {sortedTags.map((tag) => (
           <button
             key={tag}
