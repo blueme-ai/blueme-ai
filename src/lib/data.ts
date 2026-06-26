@@ -560,7 +560,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/13995/",
     imageUrl: "/images/chogokin-rx93ff-nu-gundam.jpg",
-    tags: ["ガンダム", "νガンダム", "新型鋼彈", "CHOGOKIN", "超合金", "Bandai", "合金"],
+    tags: ["ガンダム", "νガンダム", "CHOGOKIN", "超合金", "Bandai", "合金"],
     description: "《機動戰士鋼彈：逆襲的夏亞》（1988 劇場版）阿姆羅·雷最後的座機 RX-93ff νGundam，以 TAMASHII NATIONS 的 CHOGOKIN（超合金）品牌製作的完成品。「ff」特別版配色帶有全球巡迴展覽「THE GUNDAM BASE」限定色調，機體搭載象徵性的 Fin Funnel（鰭狀助推器）全展開形態，是 UC 鋼彈迷不可錯過的 CHOGOKIN 高級完成品。",
     reviews: [
       {
