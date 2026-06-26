@@ -68,6 +68,11 @@
 ### Good Smile（Nendoroid、Scale）
 - 優先用繁中：`https://www.goodsmile.com/zh-tw/product/XXXX/`
 
+### 中國品牌（無官網者）
+- 優先使用 `https://www.hpoi.net/hobby/XXXXX`（手辦維基，中文，資料完整）
+- 搜尋方式：`site:hpoi.net [品牌名] [商品名]`
+- 不要用零售商頁面（HLJ、Sideshow 等）作為 officialUrl
+
 ### 其他品牌
 - 優先找官方直營網站中文版 → 日文版 → 英文版
 
