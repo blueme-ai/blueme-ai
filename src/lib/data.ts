@@ -3768,6 +3768,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.bilibili.com/video/BV1njBjYDEyo/",
         lang: "zh",
       },
+      {
+        title: "雕像級手辦僅售399？！BearPanda×玄機科技 鬼刀系列 海琴烟《邂逅》Ver.1/6手辦即將開售！",
+        url: "https://www.bilibili.com/video/BV1LaC6YxECD/",
+        lang: "zh",
+      },
     ],
   },
   {
@@ -3815,7 +3820,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/bearpanda-evangelion-rei-ayanami-14.jpg",
     tags: ["EVA", "Evangelion", "綾波レイ", "BearPanda", "Khara", "1/4", "中國品牌", "正版授權"],
     description: "BearPanda × Khara 正版授權推出的《新世紀福音戰士》「綾波零（レイ・アヤナミ）」1/4 比例完成品。以 1/4 大比例重現綾波零標誌性的白色插入栓駕駛服造型，精細刻劃面容與藍紫色短髮，全高約 400mm，是 BearPanda 旗下正版 EVA 授權系列的代表作，以平實定價實現高品質收藏品。",
-    reviews: [],
+    reviews: [
+      {
+        title: "BearPanda 新世紀福音戰士EVA 綾波零 綾波麗 1/4手辦 | 拆盒網",
+        url: "https://www.chaihezi.com/node/363737",
+        lang: "zh",
+      },
+    ],
     youtube: [],
   },
 ]
