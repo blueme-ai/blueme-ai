@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useMemo } from "react"
-import { Search, X } from "lucide-react"
+import { Search, X, ChevronDown } from "lucide-react"
 import { CollectibleItem } from "@/lib/data"
 import CollectionCard from "./CollectionCard"
 import { Plus } from "lucide-react"
@@ -9,6 +9,7 @@ import { Plus } from "lucide-react"
 export default function CollectionGrid({ collection }: { collection: CollectibleItem[] }) {
   const [search, setSearch] = useState("")
   const [selectedTag, setSelectedTag] = useState<string | null>(null)
+  const [tagsOpen, setTagsOpen] = useState(false)
 
   const tagCounts = useMemo(() => {
     const counts: Record<string, number> = {}
@@ -53,22 +54,37 @@ export default function CollectionGrid({ collection }: { collection: Collectible
         />
       </div>
 
-      {/* Tag chips */}
-      <div className="flex flex-wrap gap-2 mt-4 mb-6">
-        {sortedTags.map((tag) => (
-          <button
-            key={tag}
-            onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
-            className={`flex-shrink-0 text-xs rounded-full px-3 py-1 transition-colors ${
-              selectedTag === tag
-                ? "bg-indigo-600 text-white"
-                : "bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-white"
-            }`}
-          >
-            {tag}
-            {selectedTag === tag && <X size={10} className="inline ml-1 -mt-0.5" />}
-          </button>
-        ))}
+      {/* Tag filter toggle */}
+      <div className="mt-3 mb-6">
+        <button
+          onClick={() => setTagsOpen(!tagsOpen)}
+          className="flex items-center gap-1.5 text-xs text-zinc-400 hover:text-white transition-colors"
+        >
+          <ChevronDown size={14} className={`transition-transform ${tagsOpen ? "rotate-180" : ""}`} />
+          標籤篩選
+          {selectedTag && (
+            <span className="ml-1 bg-indigo-600 text-white rounded-full px-2 py-0.5">{selectedTag}</span>
+          )}
+        </button>
+
+        {tagsOpen && (
+          <div className="flex flex-wrap gap-2 mt-3">
+            {sortedTags.map((tag) => (
+              <button
+                key={tag}
+                onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
+                className={`flex-shrink-0 text-xs rounded-full px-3 py-1 transition-colors ${
+                  selectedTag === tag
+                    ? "bg-indigo-600 text-white"
+                    : "bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-white"
+                }`}
+              >
+                {tag}
+                {selectedTag === tag && <X size={10} className="inline ml-1 -mt-0.5" />}
+              </button>
+            ))}
+          </div>
+        )}
       </div>
 
       {/* Results count when filtering */}
