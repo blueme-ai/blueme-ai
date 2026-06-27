@@ -3818,4 +3818,28 @@ export const collection: CollectibleItem[] = [
     ],
     youtube: [],
   },
+  {
+    id: "kotobukiya-azurlane-taihou-17",
+    name: "Kotobukiya 碧藍航線 大鳳 1/7",
+    nameJa: "碧蓝航线 大鳳 1/7スケールフィギュア【コトブキヤショップ限定品】",
+    series: "碧藍航線（Azur Lane）",
+    character: "大鳳（Taihou）",
+    manufacturer: "Kotobukiya（寿屋）",
+    scale: "1/7",
+    price: "¥19,500 JPY",
+    releaseDate: "2020年10月",
+    height: "約285mm",
+    officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054018598/",
+    imageUrl: "/images/kotobukiya-azurlane-taihou-17.jpg",
+    tags: ["碧藍航線", "Azur Lane", "大鳳", "Taihou", "Kotobukiya", "寿屋", "1/7", "日系品牌", "コトブキヤショップ限定"],
+    description: "Kotobukiya（寿屋）推出的《碧藍航線（Azur Lane）》「大鳳（たいほう）」1/7 比例完成品，為寿屋直營店限定商品。原型師みしま精心雕塑，以大鳳標誌性的日式和風軍裝搭配摺扇形艦裝，細緻呈現其優雅挺拔的身姿。全高約 285mm，以 ABS + PVC 製成，是碧藍航線手辦收藏中的人氣之作。",
+    reviews: [],
+    youtube: [
+      {
+        title: "【手辦博物院58】你的臉怎麼了？？？壽屋 碧藍航線 大鳳 手辦開箱【4K】",
+        url: "https://www.youtube.com/watch?v=LuZbnpAFvgw",
+        lang: "zh",
+      },
+    ],
+  },
 ]
