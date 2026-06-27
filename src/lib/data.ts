@@ -3764,11 +3764,6 @@ export const collection: CollectibleItem[] = [
     ],
     youtube: [
       {
-        title: "BearPanda 携手玄機科技推出鬼刀 風鈴&海琴烟《邂逅》手辦！",
-        url: "https://www.bilibili.com/video/BV1njBjYDEyo/",
-        lang: "zh",
-      },
-      {
         title: "雕像級手辦僅售399？！BearPanda×玄機科技 鬼刀系列 海琴烟《邂逅》Ver.1/6手辦即將開售！",
         url: "https://www.bilibili.com/video/BV1LaC6YxECD/",
         lang: "zh",
@@ -3797,13 +3792,7 @@ export const collection: CollectibleItem[] = [
         lang: "zh",
       },
     ],
-    youtube: [
-      {
-        title: "BearPanda 携手玄機科技推出鬼刀 風鈴&海琴烟《邂逅》手辦！",
-        url: "https://www.bilibili.com/video/BV1njBjYDEyo/",
-        lang: "zh",
-      },
-    ],
+    youtube: [],
   },
   {
     id: "bearpanda-evangelion-rei-ayanami-14",
