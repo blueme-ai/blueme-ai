@@ -4,8 +4,6 @@ import { useState, useMemo } from "react"
 import { Search, X, ChevronDown } from "lucide-react"
 import { CollectibleItem } from "@/lib/data"
 import CollectionCard from "./CollectionCard"
-import { Plus } from "lucide-react"
-
 export default function CollectionGrid({ collection }: { collection: CollectibleItem[] }) {
   const [search, setSearch] = useState("")
   const [selectedTag, setSelectedTag] = useState<string | null>(null)
@@ -114,16 +112,6 @@ export default function CollectionGrid({ collection }: { collection: Collectible
           />
         ))}
 
-        {/* Add new placeholder */}
-        <div className="aspect-[3/4] rounded-2xl border-2 border-dashed border-zinc-800 flex flex-col items-center justify-center gap-3 cursor-pointer hover:border-indigo-700 hover:bg-indigo-950/20 transition-all duration-200 group">
-          <div className="w-10 h-10 rounded-full bg-zinc-800 group-hover:bg-indigo-900/40 flex items-center justify-center transition-colors">
-            <Plus size={20} className="text-zinc-500 group-hover:text-indigo-400 transition-colors" />
-          </div>
-          <div className="text-center">
-            <p className="text-xs text-zinc-500 group-hover:text-zinc-400 transition-colors font-medium">新增收藏品</p>
-            <p className="text-xs text-zinc-600 mt-0.5">AI 自動辨識</p>
-          </div>
-        </div>
       </div>
     </>
   )
