@@ -3842,4 +3842,33 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "gsc-saber-alter-huke-collab",
+    name: "セイバー・オルタ huke コラボパッケージ",
+    nameJa: "セイバー・オルタ huke コラボパッケージ",
+    series: "Fate/stay night",
+    character: "セイバー・オルタ（Saber Alter）",
+    manufacturer: "Good Smile Company（グッドスマイルカンパニー）",
+    scale: "1/7",
+    price: "¥27,000 JPY",
+    releaseDate: "2025年12月（再販）",
+    height: "約330mm",
+    officialUrl: "https://www.goodsmile.com/zh/product/3235/",
+    imageUrl: "/images/gsc-saber-alter-huke-collab.jpg",
+    tags: ["Fate/stay night", "Saber Alter", "セイバーオルタ", "Good Smile Company", "GSC", "huke", "1/7", "日系品牌", "Wonder Hobby"],
+    description: "Good Smile Company 與知名插畫師 huke 聯名推出的《Fate/stay night》「セイバー・オルタ（Saber Alter）」1/7 比例完成品，附 A3 複製原畫。以 huke 原創插畫為基礎立體化，精細重現黑鎧甲的金屬質感與服裝層次，搭配特有的 Excalibur Morgan 漆黑聖劍。原版於 2016 年 9 月發售，2025 年 12 月再版。全高約 330mm，為 GSC 官方商店限定品。",
+    reviews: [],
+    youtube: [
+      {
+        title: "Saber Alter huke collab 1/7 - Fate/Stay Night | Good Smile Company review",
+        url: "https://www.youtube.com/watch?v=bOohcU8sSUE",
+        lang: "en",
+      },
+      {
+        title: "Fate/Stay Night - Saber Alter huke ver. by Good Smile Company - Unboxing",
+        url: "https://www.youtube.com/watch?v=Ny1oqIiqJbk",
+        lang: "en",
+      },
+    ],
+  },
 ]
