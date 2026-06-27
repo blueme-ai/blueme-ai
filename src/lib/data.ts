@@ -3843,6 +3843,36 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
+    id: "alter-xenosaga-iii-kos-mos-ver4",
+    name: "Xenosaga Ⅲ KOS-MOS Ver.4",
+    nameJa: "ゼノサーガ エピソードIII KOS-MOS Ver.4",
+    series: "ゼノサーガ エピソードIII〈ツァラトゥストラはかく語りき〉（Xenosaga Episode III）",
+    character: "KOS-MOS（Ver.4）",
+    manufacturer: "ALTER（アルター）",
+    scale: "1/8",
+    price: "¥6,800 JPY",
+    releaseDate: "2007年12月",
+    height: "約210mm",
+    officialUrl: "https://alter-web.jp/products/331/",
+    imageUrl: "/images/alter-xenosaga-iii-kos-mos-ver4.jpg",
+    tags: ["Xenosaga", "ゼノサーガ", "KOS-MOS", "ALTER", "アルター", "1/8", "日系品牌", "ナムコ"],
+    description: "ALTER（アルター）推出的《ゼノサーガ エピソードIII》女主角「KOS-MOS」Ver.4 形態 1/8 比例完成品。原型師柳生敏之精工打造，重現 KOS-MOS 最強型態的白銀機甲與特徵性三連裝機砲，姿態英姿颯爽。作為 ALTER 早期代表作之一，至今仍是 Xenosaga 系列手辦中的高人氣經典收藏品，全高約 210mm。",
+    reviews: [
+      {
+        title: "Review: Xenosaga Episode III KOS-MOS Ver. 4 1/8 PVC Figure by ALTER | Nekomagic",
+        url: "https://www.nekomagic.com/review-xenosaga-episode-iii-kos-mos-ver-4-18-pvc-figure-by-alter/",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Xenosaga Episode III KOS-MOS Ver.4 Figure Unboxing & Review",
+        url: "https://www.youtube.com/watch?v=Qwz3WglJJUk",
+        lang: "en",
+      },
+    ],
+  },
+  {
     id: "gsc-saber-alter-huke-collab",
     name: "セイバー・オルタ huke コラボパッケージ",
     nameJa: "セイバー・オルタ huke コラボパッケージ",
