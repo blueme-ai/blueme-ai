@@ -4203,7 +4203,9 @@ export const collection: CollectibleItem[] = [
     tags: ["鬼滅の刃", "Demon Slayer", "胡蝶しのぶ", "Shinobu Kocho", "PROPLICA", "日輪刀", "1/1", "BANDAI SPIRITS", "蟲の呼吸", "周邊"],
     description: "BANDAI SPIRITS PROPLICA 系列《鬼滅の刃》劇場版「無限城編 第一章」聯動商品，1:1 重現胡蝶しのぶ標誌性日輪刀。刀身長約 880mm，配備專用白色刀鞘，刀鞘採用三維紋路設計並施以金色塗裝。搭載納刀・拔刀自動音效偵測、蟲の呼吸振動ギミック、調合毒（C 鍵）等特殊模式，內建超過 70 句台詞（含胡蝶しのぶ與姊姊胡蝶カナエ語音），分為「蟲柱・胡蝶しのぶ模式」與「無限城決戰模式」兩種，並收錄劇場版主題曲 Aimer「太陽の見えない場所」及 LiSA「残酷な夜に光れ」。附專用底座，適合 15 歲以上收藏。",
     reviews: [],
-    youtube: ["https://www.youtube.com/watch?v=2v7xRY7kxdU"],
+    youtube: [
+      { title: "PROPLICA 日輪刀 (胡蝶しのぶ) display", url: "https://www.youtube.com/watch?v=2v7xRY7kxdU", lang: "ja" },
+    ],
   },
   {
     id: "macrossf-nanajyo-greatest-vinyl",
