@@ -1,8 +1,15 @@
 "use client"
 
-import { useEffect } from "react"
+import { useEffect, useState } from "react"
 import { CollectibleItem, ReviewLink } from "@/lib/data"
-import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box } from "lucide-react"
+import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box, ShoppingCart, Loader2 } from "lucide-react"
+
+type SecondhandData = {
+  yahoo: { price: string; url: string } | null
+  madarake: { price: string; url: string } | null
+  surugaya: { price: string; url: string } | null
+  searchUrls: { yahoo: string; madarake: string; surugaya: string }
+}
 
 const langLabel: Record<ReviewLink["lang"], string> = {
   zh: "中文",
@@ -11,11 +18,29 @@ const langLabel: Record<ReviewLink["lang"], string> = {
 }
 
 export default function ItemModal({ item, onClose, onTagClick }: { item: CollectibleItem; onClose: () => void; onTagClick?: (tag: string) => void }) {
+  const [secondhand, setSecondhand] = useState<SecondhandData | null>(null)
+  const [loadingSecondhand, setLoadingSecondhand] = useState(false)
+
   useEffect(() => {
     const handler = (e: KeyboardEvent) => e.key === "Escape" && onClose()
     window.addEventListener("keydown", handler)
     return () => window.removeEventListener("keydown", handler)
   }, [onClose])
+
+  async function checkSecondhand() {
+    const keyword = item.nameJa ?? item.name
+    setLoadingSecondhand(true)
+    setSecondhand(null)
+    try {
+      const res = await fetch(`/api/secondhand?q=${encodeURIComponent(keyword)}`)
+      const data = await res.json()
+      setSecondhand(data)
+    } catch {
+      setSecondhand(null)
+    } finally {
+      setLoadingSecondhand(false)
+    }
+  }
 
   return (
     <div
@@ -138,6 +163,48 @@ export default function ItemModal({ item, onClose, onTagClick }: { item: Collect
 
             <div>
               <p className="text-xs text-zinc-500 uppercase tracking-wider mb-2 font-medium flex items-center gap-1.5">
+                <ShoppingCart size={13} className="text-yellow-500" /> 二手市場
+              </p>
+              {!secondhand && !loadingSecondhand && (
+                <button
+                  onClick={checkSecondhand}
+                  className="text-xs bg-zinc-800 border border-zinc-700 text-zinc-300 rounded-lg px-3 py-1.5 hover:bg-zinc-700 hover:text-white transition-colors"
+                >
+                  查詢二手價格
+                </button>
+              )}
+              {loadingSecondhand && (
+                <div className="flex items-center gap-2 text-sm text-zinc-500">
+                  <Loader2 size={14} className="animate-spin" />
+                  查詢中…
+                </div>
+              )}
+              {secondhand && (
+                <div className="grid grid-cols-3 gap-2">
+                  <SecondhandCard
+                    site="ヤフオク"
+                    result={secondhand.yahoo}
+                    searchUrl={secondhand.searchUrls.yahoo}
+                    color="text-red-400"
+                  />
+                  <SecondhandCard
+                    site="まんだらけ"
+                    result={secondhand.madarake}
+                    searchUrl={secondhand.searchUrls.madarake}
+                    color="text-pink-400"
+                  />
+                  <SecondhandCard
+                    site="駿河屋"
+                    result={secondhand.surugaya}
+                    searchUrl={secondhand.searchUrls.surugaya}
+                    color="text-orange-400"
+                  />
+                </div>
+              )}
+            </div>
+
+            <div>
+              <p className="text-xs text-zinc-500 uppercase tracking-wider mb-2 font-medium flex items-center gap-1.5">
                 <Tag size={13} /> 標籤
               </p>
               <div className="flex flex-wrap gap-1.5">
@@ -166,6 +233,46 @@ function InfoRow({ icon, label, value }: { icon: React.ReactNode; label: string;
         {icon} {label}
       </p>
       <p className="text-white font-medium text-sm">{value}</p>
+    </div>
+  )
+}
+
+function SecondhandCard({
+  site,
+  result,
+  searchUrl,
+  color,
+}: {
+  site: string
+  result: { price: string; url: string } | null
+  searchUrl: string
+  color: string
+}) {
+  return (
+    <div className="bg-zinc-800 border border-zinc-700 rounded-lg p-3 flex flex-col gap-1.5">
+      <p className={`text-xs font-semibold ${color}`}>{site}</p>
+      {result ? (
+        <>
+          <p className="text-white font-bold text-sm">{result.price}</p>
+          <a
+            href={result.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1 text-xs text-zinc-400 hover:text-white transition-colors"
+          >
+            商品頁面 <ExternalLink size={10} />
+          </a>
+        </>
+      ) : (
+        <a
+          href={searchUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1 text-xs text-zinc-500 hover:text-zinc-300 transition-colors"
+        >
+          搜尋結果 <ExternalLink size={10} />
+        </a>
+      )}
     </div>
   )
 }
