@@ -76,9 +76,15 @@
 ### 其他品牌
 - 優先找官方直營網站中文版 → 日文版 → 英文版
 
+## 二手市場查價功能
+新增的商品不需要額外設定——ItemModal 已內建「查詢二手價格」按鈕，按下後自動查詢 ヤフオク 和 駿河屋。
+查詢關鍵字來自 `nameJa` 欄位（若無則用 `name`），所以 **`nameJa` 一定要填正確的日文名稱**，這會直接影響二手查價結果。
+詳細技術文件見 `.claude/commands/secondhand-lookup.md`。
+
 ## 部署
 - 新增完成後 `git add` + `git commit` + `git push`
 - Vercel 會自動部署
+- **部署完成後，用 Telegram 傳訊息給用戶，內容包含異動說明和網址 https://blueme-ai.vercel.app**
 
 ## 常用 ID 命名規則
 - 品牌-系列-型號：`dx-chogokin-vf1j-hikaru`、`dlx-iron-man-mark85`、`mg-aile-strike-gundam`
