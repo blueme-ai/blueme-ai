@@ -5444,4 +5444,39 @@ export const collection: CollectibleItem[] = [
     ],
     youtube: [],
   },
+  {
+    id: "kasumigaoka-utaha-japanese-clothes",
+    name: "霞ヶ丘詩羽 和服ver.",
+    nameJa: "霞ヶ丘詩羽 和服ver.",
+    series: "冴えない彼女の育てかた",
+    character: "霞ヶ丘詩羽",
+    manufacturer: "ANIPLEX+（原型製作：グッドスマイルカンパニー）",
+    scale: "1/8",
+    price: "¥13,241（税込）",
+    releaseDate: "2018-03-11",
+    height: "約270mm（番傘含む）／約210mm（頭頂まで、髪飾り含む）",
+    officialUrl: "https://online.aniplex.co.jp/itemtqcrlNXw.html",
+    imageUrl: "/images/kasumigaoka-utaha-japanese-clothes.jpg",
+    tags: ["冴えない彼女の育てかた", "霞ヶ丘詩羽", "和服", "花魁", "ANIPLEX+", "1/8"],
+    description: "本作是ANIPLEX+推出的《冴えない彼女の育てかた》人氣角色霞ヶ丘詩羽（詩羽學姊）1/8比例「和服ver.」，以角色原案深崎暮人繪製的花魁風格插畫為原型立體化。詩羽身著鬆垮披掛的深紫色羽織，搭配金色紋樣華麗的腰帶，胸口若隱若現的肌膚展現出成熟嫵媚的氣質，是系列中辨識度極高的一款造型。\n\n細節部分同樣講究：頭髮上點綴著鮮紅石榴石風格的髮飾，手中撐著一把漸層上色、呈現半透明質感的番傘，整體站姿優雅、視線微微向前，帶著溫柔卻又略帶挑逗的笑容，將詩羽身為「隱藏系」女主角的魅力表現得淋漓盡致。原型製作為Design Coco，塗裝由MIC Corporation負責，材質為ATBC-PVC並附專用台座。\n\n本商品自2017年3月25日起於ANIPLEX+線上商店接受預約訂購（受注生産），至同年5月29日截止，2018年3月11日正式出貨，官方售價為13,241日圓（含稅）。作為限定通販商品，如今在市面上已屬稀少的收藏品，深受詩羽學姊粉絲與和服系列愛好者追捧。",
+    reviews: [
+      {
+        title: "吸引全場目光的花魁風格！《不起眼女主角培育法》霞之丘詩羽 和服ver. 1/8比例模型【ANIPLEX+限定】",
+        url: "https://www.toy-people.com/?p=37018",
+        lang: "zh",
+      },
+      {
+        title: "ANIPLEX+ 冴えない彼女の育てかた♭ 1/8 霞ヶ丘詩羽 和服Ver. フィギュアレビュー",
+        url: "https://asahiwa.jp/f/saekano_utaha_wafuku.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "花魁詩羽先輩!色っぽすぎる!!【冴えない彼女の育てかた 霞ヶ丘詩羽 和服ver. 1/8スケールフィギュア】 figure review",
+        url: "https://www.youtube.com/watch?v=NQGWPq3A188",
+        lang: "ja",
+      },
+    ],
+  },
 ]
