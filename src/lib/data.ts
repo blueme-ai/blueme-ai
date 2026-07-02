@@ -5245,7 +5245,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/100",
     price: "¥7,700",
     releaseDate: "2013年3月23日",
-    officialUrl: "",
+    officialUrl: "https://bandai-hobby.net/item/01_5786/",
     imageUrl: "/images/mg-rezel-typec-defenser-ab.jpg",
     tags: ["ガンダム", "機動戦士ガンダムUC", "ReZEL", "MG", "1/100", "Bandai", "P-Bandai限定", "ゼネラル・レビル"],
     description: "MG 1/100 RGZ-95C リゼルC型(ディフェンサーa+bユニット/ゼネラル・レビル配備機) 是《機動戦士ガンダムUC》第六話登場、由地球聯邦軍旗艦「將軍雷比爾號（General Revil）」搭載機的特別配色版本。原本量產機 ReZEL 便以繼承 Z 系血統的修長機身廣受歡迎，這款配備型換上灰橙相間的旗艦護衛塗裝，並追加了大型後背包「Defenser Unit」，戰鬥力遠超一般運用機。\n\n套件本體收錄「a Unit」與「b Unit」兩種增裝背包：a Unit 配備六連裝大型飛彈莢艙與兩把承襲自 ZZ Gundam 的巨型光劍（同時可切換為 Beam Cannon 使用）；b Unit 則搭載雙聯裝 Mega Beam Launcher 與 Mega 粒子砲，可於中短程與遠程之間靈活切換打擊手段。機體亦可透過換裝零件完整重現 MS 形態與 Wave Rider 高速形態的變形機構，是 UC 系列少數具備完整可變設計的量產機。\n\n雖然原版 ReZEL 下半身穩定性是知名弱點，加裝大型背包後重心更為後傾，但套件貼心附上支撐架輔助站立。值得一提的是，萬代當年僅將售價從基礎版上調約 1,500 日圓，就一次收錄 a、b 兩種背包，CP 值極高，至今仍被模型玩家譽為近十年最具誠意的鋼普拉之一。",
