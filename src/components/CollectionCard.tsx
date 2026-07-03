@@ -2,6 +2,8 @@
 
 import { useState } from "react"
 import { CollectibleItem } from "@/lib/data"
+import { isBoxTag } from "@/lib/tags"
+import { Package } from "lucide-react"
 import ItemModal from "./ItemModal"
 
 export default function CollectionCard({ item, onTagClick }: { item: CollectibleItem; onTagClick?: (tag: string) => void }) {
@@ -39,14 +41,28 @@ export default function CollectionCard({ item, onTagClick }: { item: Collectible
             <span className="text-zinc-500 text-xs">{item.releaseDate.replace(/（.*）/, "")}</span>
           </div>
           <div className="mt-3 flex flex-wrap gap-1">
-            {item.tags.slice(0, 3).map((tag) => (
-              <span
-                key={tag}
-                className="text-xs bg-zinc-800 text-zinc-400 rounded-full px-2 py-0.5"
-              >
-                {tag}
-              </span>
-            ))}
+            {(() => {
+              const boxTag = item.tags.find(isBoxTag)
+              const rest = item.tags.filter((t) => t !== boxTag).slice(0, boxTag ? 2 : 3)
+              return (
+                <>
+                  {boxTag && (
+                    <span className="inline-flex items-center gap-1 text-xs bg-amber-900/30 text-amber-300 rounded-full px-2 py-0.5">
+                      <Package size={10} />
+                      {boxTag}
+                    </span>
+                  )}
+                  {rest.map((tag) => (
+                    <span
+                      key={tag}
+                      className="text-xs bg-zinc-800 text-zinc-400 rounded-full px-2 py-0.5"
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </>
+              )
+            })()}
           </div>
         </div>
       </div>

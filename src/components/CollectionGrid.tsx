@@ -1,8 +1,9 @@
 "use client"
 
 import { useState, useMemo } from "react"
-import { Search, X, ChevronDown } from "lucide-react"
+import { Search, X, ChevronDown, Package } from "lucide-react"
 import { CollectibleItem } from "@/lib/data"
+import { isBoxTag } from "@/lib/tags"
 import CollectionCard from "./CollectionCard"
 export default function CollectionGrid({ collection }: { collection: CollectibleItem[] }) {
   const [search, setSearch] = useState("")
@@ -67,20 +68,29 @@ export default function CollectionGrid({ collection }: { collection: Collectible
 
         {tagsOpen && (
           <div className="flex flex-wrap gap-2 mt-3">
-            {sortedTags.map((tag) => (
-              <button
-                key={tag}
-                onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
-                className={`flex-shrink-0 text-xs rounded-full px-3 py-1 transition-colors ${
-                  selectedTag === tag
-                    ? "bg-indigo-600 text-white"
-                    : "bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-white"
-                }`}
-              >
-                {tag}
-                {selectedTag === tag && <X size={10} className="inline ml-1 -mt-0.5" />}
-              </button>
-            ))}
+            {sortedTags.map((tag) => {
+              const boxTag = isBoxTag(tag)
+              const active = selectedTag === tag
+              return (
+                <button
+                  key={tag}
+                  onClick={() => setSelectedTag(active ? null : tag)}
+                  className={`inline-flex items-center gap-1 flex-shrink-0 text-xs rounded-full px-3 py-1 transition-colors ${
+                    active
+                      ? boxTag
+                        ? "bg-amber-600 text-white"
+                        : "bg-indigo-600 text-white"
+                      : boxTag
+                      ? "bg-amber-900/30 border border-amber-600/60 text-amber-300 hover:bg-amber-600 hover:text-white"
+                      : "bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-white"
+                  }`}
+                >
+                  {boxTag && <Package size={11} />}
+                  {tag}
+                  {active && <X size={10} className="inline ml-1 -mt-0.5" />}
+                </button>
+              )
+            })}
           </div>
         )}
       </div>

@@ -2,7 +2,8 @@
 
 import { useEffect, useState } from "react"
 import { CollectibleItem, ReviewLink } from "@/lib/data"
-import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box, ShoppingCart, Loader2 } from "lucide-react"
+import { isBoxTag } from "@/lib/tags"
+import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box, ShoppingCart, Loader2, Package } from "lucide-react"
 
 type SecondhandData = {
   yahoo: { price: string; url: string } | null
@@ -208,15 +209,26 @@ export default function ItemModal({ item, onClose, onTagClick }: { item: Collect
                 <Tag size={13} /> 標籤
               </p>
               <div className="flex flex-wrap gap-1.5">
-                {item.tags.map((tag) => (
-                  <button
-                    key={tag}
-                    onClick={() => onTagClick?.(tag)}
-                    className="text-xs bg-zinc-800 border border-zinc-700 text-zinc-400 rounded-full px-2.5 py-0.5 hover:bg-indigo-600 hover:border-indigo-500 hover:text-white transition-colors cursor-pointer"
-                  >
-                    {tag}
-                  </button>
-                ))}
+                {item.tags.map((tag) =>
+                  isBoxTag(tag) ? (
+                    <button
+                      key={tag}
+                      onClick={() => onTagClick?.(tag)}
+                      className="inline-flex items-center gap-1 text-xs bg-amber-900/30 border border-amber-600/60 text-amber-300 rounded-full px-2.5 py-0.5 hover:bg-amber-600 hover:border-amber-500 hover:text-white transition-colors cursor-pointer"
+                    >
+                      <Package size={11} />
+                      {tag}
+                    </button>
+                  ) : (
+                    <button
+                      key={tag}
+                      onClick={() => onTagClick?.(tag)}
+                      className="text-xs bg-zinc-800 border border-zinc-700 text-zinc-400 rounded-full px-2.5 py-0.5 hover:bg-indigo-600 hover:border-indigo-500 hover:text-white transition-colors cursor-pointer"
+                    >
+                      {tag}
+                    </button>
+                  )
+                )}
               </div>
             </div>
           </div>
