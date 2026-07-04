@@ -7319,4 +7319,39 @@ export const collection: CollectibleItem[] = [
       { title: "【ガンプラ】ムチャクチャ格好良いけど変形激ムズなMGゼータプラス（ユニコーンVer.）をレビュー", url: "https://www.youtube.com/watch?v=W5Hp_uafs2Y", lang: "ja" },
     ],
   },
+  {
+    id: "mazinger-z-infinity-160",
+    name: "1/60 マジンガーZ(マジンガーZ INFINITY Ver.)",
+    nameJa: "1/60 マジンガーZ(マジンガーZ INFINITY Ver.)",
+    series: "マジンガーZ／INFINITY",
+    character: "マジンガーZ",
+    manufacturer: "BANDAI SPIRITS",
+    scale: "1/60",
+    price: "¥14,300",
+    releaseDate: "2020年3月7日",
+    height: "約423mm",
+    officialUrl: "https://bandai-hobby.net/item/01_2631/",
+    imageUrl: "/images/mazinger-z-infinity-160.jpg",
+    tags: ["マジンガーZ", "INFINITY", "1/60", "BANDAI SPIRITS", "プラモデル"],
+    description: "劇場版『マジンガーZ／INFINITY』のメカニックデザイン（やまだたかひろ）を1/60スケールで立体化したキャラクタープラモデル。全高約423mmという特大サイズで、腕部を組み替えることでアイアンカッター・ドリルミサイル・ロケットパンチの各形態を再現できる。頭部カメラアイ部分にはLEDユニットが付属し、発動状態のマジンガーZを発光ギミックで表現。ジェットスクランダーは角度可動に加え、翼を折りたたんで格納することも可能。ホバーパイルダーも別パーツとして付属し、合体前後どちらの姿も楽しめる。",
+    reviews: [
+      {
+        title: "1/60 マジンガーZ(マジンガーZ INFINITY Ver.) レビュー | KenBill Blog",
+        url: "http://blog.kenbill.com/?eid=1574",
+        lang: "ja",
+      },
+      {
+        title: "1/60の特大サイズで『INFINITY』版の「マジンガーZ」がプラモデル化！その決定版造形を最終チェック!! | 電撃ホビーウェブ",
+        url: "https://hobby.dengeki.com/news/956356/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【デカすぎ！ｗまさに空にそびえる鉄の城】1/60 マジンガーZ(MAZINGER-Z INFINITY Ver.)【プラモデル】レビュー",
+        url: "https://www.youtube.com/watch?v=E930qMEDyfg",
+        lang: "ja",
+      },
+    ],
+  },
 ]
