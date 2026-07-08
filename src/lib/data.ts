@@ -10179,7 +10179,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年12月",
     officialUrl: "",
     imageUrl: "/images/yamato-vb6-konig-monster-1999.jpg",
-    tags: ["macross0006@中壢收多易", "マクロス", "マクロスVF-X2", "ケーニッヒモンスター", "König Monster", "VB-6", "YAMATO", "可變形", "1/100"],
+    tags: ["macross0007@中壢收多易", "マクロス", "マクロスVF-X2", "ケーニッヒモンスター", "König Monster", "VB-6", "YAMATO", "可變形", "1/100"],
     description: "初登場於1999年PlayStation2遊戲《マクロスVF-X2》的大型可變爆撃機「VB-6 ケーニッヒモンスター」，やまと於2004年推出的1/100大型完全可變形版本，早於後來的DX超合金（GE-51）規格商品問世。シャトル形態全長／全寬約320mm，無須拆換零件即可完整重現シャトル、ガウォーク、デストロイド三形態變形，原案設計由桜川晃（Liquid Stone）操刀。やまと結束營業後已停產多年，官方網站已不存在，故officialUrl暫留空。",
     reviews: [
       {
@@ -10334,6 +10334,29 @@ export const collection: CollectibleItem[] = [
       {
         title: "【レビュー】スーパーミニプラ 勇者王ガオガイガー6 (ジェネシックガオガイガー)",
         url: "https://shishioh.info/SUPER_MINIPLA_GAOGAIGAR_6-2.php",
+        lang: "ja",
+      },
+    ],
+    youtube: [],
+  },
+  {
+    id: "gx-97-daileon",
+    name: "超合金魂 GX-97 超惑星戦闘巨人 ダイレオン",
+    nameJa: "超合金魂 GX-97 超惑星戦闘巨人 ダイレオン",
+    series: "巨獣特捜ジャスピオン（Kyojuu Tokusou Jaspion）",
+    character: "ダイレオン（超惑星戦闘母船／戦闘巨人）",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "約185mm（戦闘巨人形態）",
+    price: "¥18,700",
+    releaseDate: "2021年",
+    officialUrl: "https://tamashiiweb.com/item/13633/",
+    imageUrl: "/images/gx-97-daileon.jpg",
+    tags: ["macross0007@中壢收多易", "巨獣特捜ジャスピオン", "Jaspion", "ダイレオン", "超合金魂", "SOUL OF CHOGOKIN", "Bandai", "合金", "魂ウェブ商店限定"],
+    description: "《巨獣特捜ジャスピオン》（東映METAL HERO系列第4作）登場の超惑星戦闘母船「ダイレオン」超合金魂立體化商品，魂ウェブ商店限定販售。可從全長約170mm的戦闘母船形態完整變形為約185mm高的戦闘巨人形態，重現劇中招牌必殺技「コズミッククラッシュ」的多樣可動姿勢。標配黄金の剣、替換手部零件、艦載機「超惑星戦闘車ガービン」與「超惑星機イアンウルフ」、ジャスピオン迷你人偶及母船形態專用展示台，機身施以銀色電鍍處理，重現原作特攝場景中的存在感。",
+    reviews: [
+      {
+        title: "超合金魂：GX-97 超惑星戦闘巨人 ダイレオン [レビュー]",
+        url: "https://toroplus.blog/tyougoukinn-spirit/gx97-daileon/",
         lang: "ja",
       },
     ],
