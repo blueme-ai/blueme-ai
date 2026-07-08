@@ -9797,4 +9797,27 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "smp-jaguar-vulcan-bigscale",
+    name: "SUPER MINIPLA 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン",
+    nameJa: "スーパーミニプラ 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン",
+    series: "太陽戦隊サンバルカン（Taiyou Sentai Sun Vulcan）",
+    character: "ジャガーバルカン（母艦メカ、コズモバルカン＆ブルバルカン格納）",
+    manufacturer: "バンダイ キャンディ事業部（BANDAI Candy Division）",
+    scale: "非比例（ビッグスケール）",
+    price: "¥12,100（含稅）",
+    releaseDate: "2020年2月17日",
+    officialUrl: "https://www.bandai.co.jp/candy/products/2020/1000140089.html",
+    imageUrl: "/images/smp-jaguar-vulcan-bigscale.jpg",
+    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "太陽戦隊サンバルカン", "Sun Vulcan", "ジャガーバルカン", "コズモバルカン", "ブルバルカン", "ビッグスケール", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "スーパー戦隊"],
+    description: "「SUPER MINIPLA 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン」是プレミアムバンダイ限定商品，2020年2月17日出貨，取材自1981年特攝戰隊作品《太陽戦隊サンバルカン》的母艦機械獸「ジャガーバルカン」。可與另售的「太陽合体 世界のスーパーミニプラ サンバルカン」聯動，機體內部可收納コズモバルカン與ブルバルカン兩台戰隊機體，內建彈簧機構可展開斜坡讓コズモバルカン重現發進場面。2023年曾再版（定價調整為¥13,200）。",
+    reviews: [
+      {
+        title: "【レビュー】 スーパーミニプラ ビッグスケール ジャガーバルカン | 獅子王ホビー",
+        url: "https://shishioh.info/SUPER_MINIPLA_JAGUAR_VULCAN.php",
+        lang: "ja",
+      },
+    ],
+    youtube: [],
+  },
 ]
