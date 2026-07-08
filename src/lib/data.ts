@@ -4371,7 +4371,7 @@ export const collection: CollectibleItem[] = [
     height: "約190mm",
     officialUrl: "https://www.megahouse.co.jp/products/item/310/",
     imageUrl: "/images/excellent-model-klan-klang-armored.jpg",
-    tags: ["macross0006@中壢收多易", "マクロスF", "Macross Frontier", "クラン・クラン", "Klan Klang", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
+    tags: ["macross0007@中壢收多易", "マクロスF", "Macross Frontier", "クラン・クラン", "Klan Klang", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
     description: "メガハウス（MegaHouse）Excellent Model 系列取材自《マクロスF》（Macross Frontier, 2008）TV 第 21 話中 SMS 戰術音速教官、ゼントラーディ族中隊長クラン・クラン（Klan Klang）身著戰鬥強化裝甲（Q-Rau suit）的全武裝姿態。\n\nクラン在劇中是罕見在ゼントラーディ巨人形態（マクロン状態）下依然保有少女魅力的角色；此完成品以 1/72 比例（約 190mm）重現其衝鋒戰鬥姿態，裝甲各面板刻線精細，搭配火焰橘紅配色充分表現ゼントラーディ戰甲的重量感與威壓力。超弩絞架護甲可拆卸，可自由搭配 VF-25G 同比例展示。Excellent Model 系列以系列內數一數二的大型體量著稱，是《マクロスF》立體商品中存在感最強的單品之一。",
     reviews: [
       {
@@ -4590,7 +4590,7 @@ export const collection: CollectibleItem[] = [
     height: "約270mm（人型形態）",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17s-diamond-force.jpg",
-    tags: ["macross0006@中壢收多易", "マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "Yamato", "1/60", "変形", "完全変形"],
+    tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "Yamato", "1/60", "変形", "完全変形"],
     description: "ヤマト（Yamato）以《マクロス7》（1994）ダイヤモンドフォース（Diamond Force）隊長機 VF-17S ナイトメア（Nightmare）為題材的 1/60 完全可變形完成品，2011 年 12 月發售，定價 ¥24,800。\n\nVF-17 Nightmare 以多面角（Stealth）機身設計著稱，機首呈扁平角錐狀，酷似 F-117 夜鷹；VF-17S 為搭載四門頭部固定機炮（Head Laser）的指揮官型，為 Diamond Force 隊長 Gamlin Kizaki 的專用機。此 1/60 版全面重現戰鬥機・GERWALK・人型三形態完全可變，機身各面板及手臂收納機構均以精密塑膠件構成，表面施以 Diamond Force 五色正式塗裝（黑、銀、紅、金、白）。ヤマト品牌已於 2013 年停業，現行市場流通量稀少，為マクロス7 可變形模型中的珍稀逸品。",
     reviews: [
       {
@@ -4624,7 +4624,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年12月",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17-super-pack.jpg",
-    tags: ["macross0006@中壢收多易", "マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "Yamato", "1/60", "30周年", "擴充套件"],
+    tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "Yamato", "1/60", "30周年", "擴充套件"],
     description: "ヤマト（Yamato）為旗下 1/60 完全可變形 VF-17 ナイトメア系列（含 Diamond Force、Emerald Force 等版本）設計的 1/60 スーパーパック（Super Pack）選配擴充套件，2012 年 12 月發售，定價 ¥4,800。此套件為マクロス 30 周年紀念商品企劃的一環。\n\n套件包含翼端追加武裝組件、背部強化推進器（Booster）及補給彈藥倉等零件，全部以精密塑膠件構成，安裝後大幅改變 VF-17 各版本的重武裝輪廓，可重現《マクロス7》劇中 Gamlin Kizaki 等角色在決戰時使用的超型態全武裝姿態。為 VF-17 系列完整收藏的必備配件，現已絕版。",
     reviews: [
       {
@@ -4653,7 +4653,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年8月",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf1-super-strike-parts-48.jpg",
-    tags: ["macross0006@中壢收多易", "マクロス", "Macross", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "Yamato", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
+    tags: ["macross0007@中壢收多易", "マクロス", "Macross", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "Yamato", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
     description: "ヤマト（Yamato）為旗下 1/48 完全可變形 VF-1 バルキリー（Valkyrie）設計的官方強化零件組——スーパーパーツ＆ストライクパーツ（Super & Strike Parts），2003 年 8 月初版發售，定價 ¥5,800。\n\n套件完整重現《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984 劇場版）中 VF-1S/J/A 的超型態裝備，包含背部主噴射増速器（Booster）、腿部推進槽（Leg Propellant Tank）、臂部微型導彈艙（Micro-Missile Arm Pod）、背部光束加農炮架（Strike Backpack + Beam Cannon）及反応弾（Reaction Missile）配件。安裝後令整機展示效果完全蛻變，由標準型升格為最廣為人知的超全武裝形態，是 1/48 VF-1 系列最重要的周邊配件，也是《マクロス》模型收藏不可或缺的經典逸品。",
     reviews: [
       {
@@ -10198,7 +10198,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年2月",
     officialUrl: "https://arcadia.ac/products/detail/228",
     imageUrl: "/images/arcadia-vf4g-lightning-iii.jpg",
-    tags: ["macross0006@中壢收多易", "マクロス", "VF-4G", "ライトニングIII", "Arcadia", "MACROSS DIGITAL MISSION VF-X", "可變形", "1/60"],
+    tags: ["macross0007@中壢收多易", "マクロス", "VF-4G", "ライトニングIII", "Arcadia", "MACROSS DIGITAL MISSION VF-X", "可變形", "1/60"],
     description: "出自1997年PlayStation遊戲《MACROSS DIGITAL MISSION VF-X》的次世代可變形戰機「VF-4G ライトニングIII」，與同名機體 VF-4A（出自1987音樂OVA《Flash Back 2012》）為不同世界線的塗裝／規格衍生機，最初由やまと以網路限定方式販售，因入手困難而備受矚目，其後由 Arcadia 接手品牌重新販售。全長約300mm，支援戰鬥機、加瓦克、戰鬥人形三段完全變形，並具備駕駛員可乘坐座艙、起落架展開、飛彈掛架拆裝等多種機構，標配駕駛員人偶、替換手部零件、進氣口零件、展示台座及貼紙。",
     reviews: [
       {
