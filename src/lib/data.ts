@@ -8322,7 +8322,7 @@ export const collection: CollectibleItem[] = [
     height: "約100mm",
     officialUrl: "https://www.goodsmile.com/en/product/1816/Nendoroid+Ranka+Lee",
     imageUrl: "/images/nendoroid-ranka-lee-350.jpg",
-    tags: ["etc0001@中壢收多易", "macross002@中壢收多易", "マクロス", "マクロスF", "ランカ・リー", "Ranka Lee", "ねんどろいど", "Good Smile Company", "GSC", "#350"],
+    tags: ["macross002@中壢收多易", "マクロス", "マクロスF", "ランカ・リー", "Ranka Lee", "ねんどろいど", "Good Smile Company", "GSC", "#350"],
     description: "Good Smile Company ねんどろいど 系列作品，商品編號 #350，取材自《超時空要塞Frontier》女主角之一ランカ・リー，重現電視版第二期片頭曲與最終回中的「星間飛行」演出服裝。附三款替換表情：吶喊、歌唱與招牌眨眼表情，選配部件包含麥克風等舞台演出道具，並附專屬舞台底座讓她擺出live演出姿態。",
     reviews: [
       {
