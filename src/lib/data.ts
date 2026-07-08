@@ -10070,4 +10070,33 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "smp-gyakuten-ippatsuman-tokkyu-zaurus-set",
+    name: "SMP [SHOKUGAN MODELING PROJECT] タイムボカンシリーズ 逆転イッパツマン トッキュウザウルスセット",
+    nameJa: "SMP [SHOKUGAN MODELING PROJECT] タイムボカンシリーズ 逆転イッパツマン トッキュウザウルスセット",
+    series: "タイムボカンシリーズ 逆転イッパツマン",
+    character: "逆転王＆リリーフドン",
+    manufacturer: "BANDAI",
+    scale: "Non-Scale",
+    price: "¥6,985",
+    releaseDate: "2021年7月19日",
+    officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660583554000.html",
+    imageUrl: "/images/smp-gyakuten-ippatsuman-tokkyu-zaurus-set.jpg",
+    tags: ["smp0001@中壢收多易", "タイムボカンシリーズ", "逆転イッパツマン", "食玩", "SMP"],
+    description: "「SMP [SHOKUGAN MODELING PROJECT]」是萬代承繼「超級迷你Pla」技術推出的食玩模型系列，本作重現タイムボカンシリーズ第六作『逆転イッパツマン』（1982～1983年）主角機「トッキュウザウルス」拆解出「逆転王」機體，與搭載一發滿彈頭ユニット合體的場景，並附屬拖車「リリーフドン」。組裝完成後可重現作品中的合體變形機構，並附有正義之劍、逆転盾牌及兩種魔法伸縮棒等配件，忠實還原大河原邦男的昭和機械人設計。",
+    reviews: [
+      {
+        title: "食玩「SMP タイムボカンシリーズ 逆転イッパツマン トッキュウザウルスセット」レビュー 大河原邦男氏デザインの昭和タツノコメカを忠実に再現",
+        url: "https://hobby.watch.impress.co.jp/docs/review/1343232.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【SMP】トッキュウザウルスセット(逆転王&リリーフドン)【SHOKUGAN MODELING PROJECT】タイムボカンシリーズ 逆転イッパツマン レビュー",
+        url: "https://www.youtube.com/watch?v=bhMcM271x88",
+        lang: "ja",
+      },
+    ],
+  },
 ]
