@@ -21,7 +21,11 @@ export default function CollectionGrid({ collection }: { collection: Collectible
   }, [collection])
 
   const sortedTags = useMemo(
-    () => Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).map(([tag]) => tag),
+    () =>
+      Object.entries(tagCounts)
+        .filter(([, count]) => count > 1)
+        .sort((a, b) => b[1] - a[1])
+        .map(([tag]) => tag),
     [tagCounts]
   )
 
