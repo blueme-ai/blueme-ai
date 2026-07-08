@@ -632,7 +632,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年7月",
     officialUrl: "https://tamashiiweb.com/item/13540/",
     imageUrl: "/images/dx-chogokin-vf1d-fan-racer.jpg",
-    tags: ["マクロス", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["macross0006@中壢收多易", "マクロス", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞 Macross》（1982）中以雙座教練型登場的 VF-1D 女武神，與同款機體改裝的「Fan Racer」賽車形態同捆的 DX CHOGOKIN 魂ウェブ商店限定組合。VF-1D 是系列正規版中唯一的雙座型，此組合附帶兩架不同配置，可分別重現訓練場景與競速形態。",
     reviews: [
       {
@@ -4371,7 +4371,7 @@ export const collection: CollectibleItem[] = [
     height: "約190mm",
     officialUrl: "https://www.megahouse.co.jp/products/item/310/",
     imageUrl: "/images/excellent-model-klan-klang-armored.jpg",
-    tags: ["マクロスF", "Macross Frontier", "クラン・クラン", "Klan Klang", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
+    tags: ["macross0006@中壢收多易", "マクロスF", "Macross Frontier", "クラン・クラン", "Klan Klang", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
     description: "メガハウス（MegaHouse）Excellent Model 系列取材自《マクロスF》（Macross Frontier, 2008）TV 第 21 話中 SMS 戰術音速教官、ゼントラーディ族中隊長クラン・クラン（Klan Klang）身著戰鬥強化裝甲（Q-Rau suit）的全武裝姿態。\n\nクラン在劇中是罕見在ゼントラーディ巨人形態（マクロン状態）下依然保有少女魅力的角色；此完成品以 1/72 比例（約 190mm）重現其衝鋒戰鬥姿態，裝甲各面板刻線精細，搭配火焰橘紅配色充分表現ゼントラーディ戰甲的重量感與威壓力。超弩絞架護甲可拆卸，可自由搭配 VF-25G 同比例展示。Excellent Model 系列以系列內數一數二的大型體量著稱，是《マクロスF》立體商品中存在感最強的單品之一。",
     reviews: [
       {
@@ -4525,7 +4525,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年7月",
     officialUrl: "https://www.hlj.com/macross-ii-lovers-again-vf-2ss-valkyrie-ii-super-armed-pack-sap-evt57223",
     imageUrl: "/images/evolution-toy-vf2ss-sap.jpg",
-    tags: ["マクロスII", "Macross II", "VF-2SS", "バルキリーII", "Super Armed Pack", "SAP", "エボリューショントイ", "Evolution Toy", "1/60", "擴充套件"],
+    tags: ["macross0006@中壢收多易", "マクロスII", "Macross II", "VF-2SS", "バルキリーII", "Super Armed Pack", "SAP", "エボリューショントイ", "Evolution Toy", "1/60", "擴充套件"],
     description: "エボリューショントイ（Evolution Toy）1/60 比例《超時空要塞マクロスII -LOVERS AGAIN-》（1992）VF-2SS バルキリーII 的スーパーアームドパック（Super Armed Pack，SAP）單品套件，需搭配另售的 VF-2SS 主機體使用。\n\nSAP 是《マクロスII》原作中主角 Nexx Gilbert 及 Silvie Gena 座機可裝備的重武裝強化包，涵蓋背部主炮組合、腿部推進槽及彈藥倉、翼端追加武裝等，安裝後大幅改變整機的重武裝輪廓，令飛行形態下更具《マクロス》世界觀的未來战鬥感。此套件額外附 2 架 Squire（無人護衛機）及展示台座。2016 年 7 月發售，為 VF-2SS 系列收藏家的必備配件，現已絕版。",
     reviews: [
       {
@@ -4555,7 +4555,7 @@ export const collection: CollectibleItem[] = [
     height: "約410mm（戦闘機形態）",
     officialUrl: "https://www.hlj.com/1-60-scale-macross-ii-lovers-again-vf-2ss-valkyrie-ii-silvie-gena-custom-evt57191",
     imageUrl: "/images/evolution-toy-vf2ss-silvie.jpg",
-    tags: ["マクロスII", "Macross II", "VF-2SS", "バルキリーII", "シルビー・ジーナ", "エボリューショントイ", "Evolution Toy", "1/60", "変形", "完全変形"],
+    tags: ["macross0006@中壢收多易", "マクロスII", "Macross II", "VF-2SS", "バルキリーII", "シルビー・ジーナ", "エボリューショントイ", "Evolution Toy", "1/60", "変形", "完全変形"],
     description: "エボリューショントイ（Evolution Toy）1/60 比例完全可變形 VF-2SS バルキリーII シルビー・ジーナ（Silvie Gena）專用機，取材自 1992 年《超時空要塞マクロスII -LOVERS AGAIN-》OVA 系列。\n\nVF-2SS 是《マクロスII》時代地球 UN Spacey 的主力可變戦機，承繼 VF-1 的三形態設計（戦鬥機・GERWALK・人型），外型更具未來感，採用大型固定翼及後掃翼構型。シルビー機採用深藍色調塗裝，與白色の Nexx Gilbert 機形成鮮明對比。本體採用壓鑄鋅合金（ダイキャスト）強化結構，全高約 410mm（戦鬥機形態），附駕駛員人偶及多種展示配件，是 Evolution Toy 首次嘗試的《マクロス》系列也是 VF-2SS 史上完成度最高的可變形模型。2016 年 2 月發售，現已絕版。",
     reviews: [
       {
@@ -4590,7 +4590,7 @@ export const collection: CollectibleItem[] = [
     height: "約270mm（人型形態）",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17s-diamond-force.jpg",
-    tags: ["マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "Yamato", "1/60", "変形", "完全変形"],
+    tags: ["macross0006@中壢收多易", "マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "Yamato", "1/60", "変形", "完全変形"],
     description: "ヤマト（Yamato）以《マクロス7》（1994）ダイヤモンドフォース（Diamond Force）隊長機 VF-17S ナイトメア（Nightmare）為題材的 1/60 完全可變形完成品，2011 年 12 月發售，定價 ¥24,800。\n\nVF-17 Nightmare 以多面角（Stealth）機身設計著稱，機首呈扁平角錐狀，酷似 F-117 夜鷹；VF-17S 為搭載四門頭部固定機炮（Head Laser）的指揮官型，為 Diamond Force 隊長 Gamlin Kizaki 的專用機。此 1/60 版全面重現戰鬥機・GERWALK・人型三形態完全可變，機身各面板及手臂收納機構均以精密塑膠件構成，表面施以 Diamond Force 五色正式塗裝（黑、銀、紅、金、白）。ヤマト品牌已於 2013 年停業，現行市場流通量稀少，為マクロス7 可變形模型中的珍稀逸品。",
     reviews: [
       {
@@ -4624,7 +4624,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年12月",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17-super-pack.jpg",
-    tags: ["マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "Yamato", "1/60", "30周年", "擴充套件"],
+    tags: ["macross0006@中壢收多易", "マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "Yamato", "1/60", "30周年", "擴充套件"],
     description: "ヤマト（Yamato）為旗下 1/60 完全可變形 VF-17 ナイトメア系列（含 Diamond Force、Emerald Force 等版本）設計的 1/60 スーパーパック（Super Pack）選配擴充套件，2012 年 12 月發售，定價 ¥4,800。此套件為マクロス 30 周年紀念商品企劃的一環。\n\n套件包含翼端追加武裝組件、背部強化推進器（Booster）及補給彈藥倉等零件，全部以精密塑膠件構成，安裝後大幅改變 VF-17 各版本的重武裝輪廓，可重現《マクロス7》劇中 Gamlin Kizaki 等角色在決戰時使用的超型態全武裝姿態。為 VF-17 系列完整收藏的必備配件，現已絕版。",
     reviews: [
       {
@@ -4653,7 +4653,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年8月",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf1-super-strike-parts-48.jpg",
-    tags: ["マクロス", "Macross", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "Yamato", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
+    tags: ["macross0006@中壢收多易", "マクロス", "Macross", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "Yamato", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
     description: "ヤマト（Yamato）為旗下 1/48 完全可變形 VF-1 バルキリー（Valkyrie）設計的官方強化零件組——スーパーパーツ＆ストライクパーツ（Super & Strike Parts），2003 年 8 月初版發售，定價 ¥5,800。\n\n套件完整重現《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984 劇場版）中 VF-1S/J/A 的超型態裝備，包含背部主噴射増速器（Booster）、腿部推進槽（Leg Propellant Tank）、臂部微型導彈艙（Micro-Missile Arm Pod）、背部光束加農炮架（Strike Backpack + Beam Cannon）及反応弾（Reaction Missile）配件。安裝後令整機展示效果完全蛻變，由標準型升格為最廣為人知的超全武裝形態，是 1/48 VF-1 系列最重要的周邊配件，也是《マクロス》模型收藏不可或缺的經典逸品。",
     reviews: [
       {
@@ -9364,7 +9364,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年5月",
     officialUrl: "https://tamashiiweb.com/item/10172/",
     imageUrl: "/images/dx-chogokin-yf29-superparts-30th-anniversary.jpg",
-    tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "マクロス30周年", "YF-29", "スーパーパーツ", "30周年記念カラー", "擴充套件", "DX超合金", "Bandai"],
+    tags: ["macross0005@中壢收多易", "macross0006@中壢收多易", "マクロス", "マクロスF", "マクロス30周年", "YF-29", "スーパーパーツ", "30周年記念カラー", "擴充套件", "DX超合金", "Bandai"],
     description: "為 DX超合金 YF-29 デュランダルバルキリー（30周年記念カラー）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體。裝設後可大幅提升機體航程與火力，重現強化超音速追加背包形態。",
     reviews: [
       {
@@ -9819,5 +9819,255 @@ export const collection: CollectibleItem[] = [
       },
     ],
     youtube: [],
+  },
+  {
+    id: "dx-chogokin-yf29-superparts-ozma",
+    name: "DX超合金 YF-29 デュランダルバルキリー（オズマ機）用スーパーパーツ",
+    nameJa: "DX超合金 YF-29 デュランダルバルキリー（オズマ機）用スーパーパーツ",
+    series: "マクロス30 銀河を繋ぐ歌姫",
+    character: "YF-29 Durandal Valkyrie（オズマ・リー機）用 Super Parts",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "—",
+    price: "¥3,300",
+    releaseDate: "2014年9月",
+    officialUrl: "https://tamashiiweb.com/item/10697/",
+    imageUrl: "/images/dx-chogokin-yf29-superparts-ozma.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "マクロス30", "YF-29", "デュランダル", "オズマ・リー", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
+    description: "為 DX超合金 YF-29 デュランダルバルキリー（オズマ機）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體。裝設後可強化火力與航程，重現遊戲《マクロス30 銀河を繋ぐ歌姫》中 Ozma Lee 機的強化超音速追加背包形態，可展開摺疊投影儀與飛彈艙門。",
+    reviews: [],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】 DX超合金 YF-29 デュランダル オズマ機 with スーパーパーツ",
+        url: "https://www.youtube.com/watch?v=1I22SBDh1i8",
+        lang: "ja",
+      },
+    ],
+  },
+  {
+    id: "arcadia-yf19-fast-pack",
+    name: "1/60 完全変形 YF-19 with ファストパック",
+    nameJa: "1/60 完全変形 YF-19 with ファストパック",
+    series: "マクロスプラス（Macross Plus, 1994）",
+    character: "YF-19（イサム・ダイソン機）",
+    manufacturer: "アルカディア（Arcadia）",
+    scale: "1/60",
+    price: "¥32,800",
+    releaseDate: "2014年4月",
+    officialUrl: "https://www.hpoi.net/hobby/12489",
+    imageUrl: "/images/arcadia-yf19-fast-pack.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "マクロスプラス", "YF-19", "イサム・ダイソン", "ファストパック", "アルカディア", "1/60", "可變形", "合金"],
+    description: "《超時空要塞 Macross Plus》（1994）主角一根隼機駕駛的 YF-19 試作可變戰鬥機，附帶強化火力與加速性能的「Fast Pack」增裝組件的完全變形版本。由已解散的合金玩具品牌 Arcadia 推出，戰機形態全長約310mm，可完整重現 Fighter、Gerwalk、Battroid 三段變形，並附一根隼與楊．諾伊曼雙人座駕駛員人偶。",
+    reviews: [
+      {
+        title: "おもちゃ：アルカディア 完全変形 YF-19 with ファストパック レビュー",
+        url: "https://ameblo.jp/kanagawakenmin0217/entry-12337066315.html",
+        lang: "ja",
+      },
+      {
+        title: "[Arcadia] Macross Plus 1/60 YF-19 With Fast Pack: FULL Photoreview | GUNJAP",
+        url: "https://www.gunjap.net/site/arcadia-macross-plus-160-yf-19-with-fast-pack-full-photoreview-no-77-big-or-wallpaper-size-images/",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】アルカディア YF-19 with ファストパック（Part 1）",
+        url: "https://www.youtube.com/watch?v=Meiv6_v2elw",
+        lang: "ja",
+      },
+      {
+        title: "【マクロス玩具レビュー】アルカディア YF-19 with ファストパック（Part 2）",
+        url: "https://www.youtube.com/watch?v=-_2UiJoedmo",
+        lang: "ja",
+      },
+    ],
+  },
+  {
+    id: "dx-chogokin-vf31e-siegfried-chuck-mustang",
+    name: "DX超合金 VF-31E ジークフリード（チャック・マスタング機）",
+    nameJa: "DX超合金 VF-31E ジークフリード（チャック・マスタング機）",
+    series: "マクロスΔ（Macross Delta）",
+    character: "VF-31E Siegfried（チャック・マスタング機）",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "1/60",
+    price: "¥24,200",
+    releaseDate: "2019年7月",
+    officialUrl: "https://tamashiiweb.com/item/12827/",
+    imageUrl: "/images/dx-chogokin-vf31e-siegfried-chuck-mustang.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "マクロスΔ", "VF-31E", "ジークフリード", "チャック・マスタング", "早期警戒機", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    description: "《Macross Δ》中Δ小隊電子戰／早期警戒機駕駛員 Chuck Mustang 座機 VF-31E 齊格弗里德，是三一小隊機體齊聚 DX CHOGOKIN 系列的最終補完。機首新開模具重現可展開收納的雷達罩，為系列中造型最特殊的一機。可完整變形為 Battroid、Gerwalk、Fighter 三形態，並附 Chuck Mustang 與 Reina Prowler 兩款駕駛員人偶及多具無人偵察機掛載板。",
+    reviews: [
+      {
+        title: "DX超合金 VF-31Ｅジークフリード(チャック・マスタング機) レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52045384.html",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31E ジークフリード（チャック・マスタング機） ファイター編 レビュー | TOYHOUND",
+        url: "https://toy-hound.com/dx-vf-31-chuck-f-review/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】DX超合金 VF-31E ジークフリード チャック機 ／ DX Chogokin VF-31E SIEGFRIED",
+        url: "https://www.youtube.com/watch?v=z66SfgW0Dzc",
+        lang: "ja",
+      },
+      {
+        title: "DX超合金 VF-31E ジークフリード - チャック・マスタング機 マクロスΔ",
+        url: "https://www.youtube.com/watch?v=rE1-5y_ZcHc",
+        lang: "en",
+      },
+    ],
+  },
+  {
+    id: "dx-chogokin-yf29b-percival-rb-custom",
+    name: "DX超合金 YF-29B パーツィバル（ロッド機）",
+    nameJa: "DX超合金 YF-29B パーツィバル（ロッド機）",
+    series: "マクロス30 -銀河を繋ぐ歌声-（Macross 30: Voices Across the Galaxy）",
+    character: "YF-29B パーツィバル（ロッド機／Percival, Rod Custom）",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "—",
+    price: "¥19,800",
+    releaseDate: "2015年7月18日",
+    officialUrl: "https://tamashiiweb.com/item/10962/",
+    imageUrl: "/images/dx-chogokin-yf29b-percival-rb-custom.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス30", "銀河を繋ぐ歌声", "YF-29B", "パーツィバル", "Percival", "GE-71", "DX超合金", "Bandai", "可變形", "合金"],
+    description: "登場於遊戲《マクロス30 -銀河を繋ぐ歌声-》中的敵方勢力機體「YF-29B パーツィバル（ロッド機）」，以 YF-29 デュランダルバルキリー 為基礎衍生的姊妹機，採用海軍藍為主的專屬塗裝，與早乙女アルト機的量產型配色形成鮮明對比。因在「マクロス×魂ウェブ超時空合金展」上獲得高人氣而正式立體化為DX超合金規格商品。支援戰鬥機、加瓦克、戰鬥人形三段完全變形，戰鬥人形形態全高約220mm，標配主體、槍莢、展示台座、三種替換手腕、駕駛員迷你人偶及小刀。",
+    reviews: [
+      {
+        title: "【レビュー】バンダイ DX超合金 YF-29B パーツィバル（ロッド機）バトロイド形態",
+        url: "https://shishioh.info/DX_Chogokin_YF-29B_Perceval_Rod_custom_2.php",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "DX超合金 YF-29B パーツィバル（ロッド機）",
+        url: "https://www.youtube.com/watch?v=oxWdpYi-gHA",
+        lang: "ja",
+      },
+    ],
+  },
+  {
+    id: "dx-chogokin-vf25s-messiah-ozma-renewal",
+    name: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer.",
+    nameJa: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer.",
+    series: "劇場版 マクロスF -サヨナラノツバサ-（Macross F: The Movie - Sayonara no Tsubasa）",
+    character: "VF-25S Messiah Valkyrie（オズマ・リー機）リニューアルVer.",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "1/60",
+    price: "¥14,700",
+    releaseDate: "2012年1月14日",
+    officialUrl: "https://tamashiiweb.com/item/1644/",
+    imageUrl: "/images/dx-chogokin-vf25s-messiah-ozma-renewal.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "マクロスF", "VF-25S", "メサイア", "オズマ・リー", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    description: "《劇場版マクロスF -サヨナラノツバサ-》小隊長 Ozma Lee 座機 VF-25S メサイアバルキリー 全新原型重新開發的 Renewal Ver.，相較初版頭部雕刻更為銳利精緻，加瓦克形態可動範圍更貼近原作。灰色系機體以成型色重現主體塗裝，搭配黑黃塗裝與骷髏中隊標誌。標配槍莢、格鬥小刀、左右各四種替換手腕、專用底座及 Ranka Lee 迷你人偶，支援戰鬥機、加瓦克、戰鬥人形三段變形，是加裝 Armored Parts（另售，リニューアルVer.）前的本體版本。",
+    reviews: [
+      {
+        title: "DX超合金 VF-25S メサイア (オズマ・リー機) リニューアルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/51797463.html",
+        lang: "ja",
+      },
+      {
+        title: "【ＤＸ超合金】 ＶＦ－２５Ｓ メサイアバルキリー （オズマ・リー機）[レビュー] | TORO'S BLOG",
+        url: "https://toroplus.blog/tyougoukinn/vf25s-messiah-ozma/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【マクロスF】DX超合金 VF-25S メサイアバルキリー (オズマ・リー機) リニューアルVer. & アーマードパーツ ヲタファのマクロスレビュー",
+        url: "https://www.youtube.com/watch?v=2S8qsxtlC68",
+        lang: "ja",
+      },
+    ],
+  },
+  {
+    id: "dx-chogokin-vf31j-siegfried-hayate-tamashii2017",
+    name: "DX超合金 VF-31J改 ジークフリード（ハヤテ・インメルマン機）",
+    nameJa: "DX超合金 VF-31J改 ジークフリード（ハヤテ・インメルマン機）",
+    series: "マクロスΔ（Macross Delta）",
+    character: "VF-31J Kai Siegfried（ハヤテ・インメルマン機）",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "1/60",
+    price: "¥21,388",
+    releaseDate: "2017年12月",
+    officialUrl: "https://tamashiiweb.com/item/12425/",
+    imageUrl: "/images/dx-chogokin-vf31j-siegfried-hayate-tamashii2017.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "改", "TAMASHII NATION 2017", "魂ウェブ商店限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    description: "為紀念 2017年12月於東京秋葉原舉辦的「魂ネイション2017」活動推出的限定商品。重現《マクロスΔ》最終話中登場的 VF-31J改 ジークフリード 特別塗裝，並新增該話首度登場的大型飛彈作為新規零件，可與另售的 Super Parts 併用專用轉接件。標配本體、左右各六種替換手腕、格鬥用小刀、Hayate Immelmann 迷你人偶、專用展示台一式及大型飛彈×2，魂ウェブ商店限定、僅開放預約於會場領取。",
+    reviews: [
+      {
+        title: "『マクロスΔ』VF-31J改 ジークフリードなどが「魂ネイション2017」開催記念商品として登場！ | 電撃ホビーウェブ",
+        url: "https://hobby.dengeki.com/news/450975/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】 魂ネイションズ2017限定販売 DX超合金VF-31J改 ジークフリード ハヤテ機",
+        url: "https://www.youtube.com/watch?v=ZZO381U74V8",
+        lang: "ja",
+      },
+    ],
+  },
+  {
+    id: "arcadia-vf4g-lightning-iii",
+    name: "1/60 完全変形 VF-4G ライトニングIII",
+    nameJa: "1/60 完全変形 VF-4G ライトニングIII",
+    series: "MACROSS DIGITAL MISSION VF-X（1997 PlayStationゲーム）",
+    character: "VF-4G Lightning III",
+    manufacturer: "Arcadia",
+    scale: "1/60",
+    price: "¥27,000",
+    releaseDate: "2016年2月",
+    officialUrl: "https://arcadia.ac/products/detail/228",
+    imageUrl: "/images/arcadia-vf4g-lightning-iii.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "VF-4G", "ライトニングIII", "Arcadia", "MACROSS DIGITAL MISSION VF-X", "可變形", "1/60"],
+    description: "出自1997年PlayStation遊戲《MACROSS DIGITAL MISSION VF-X》的次世代可變形戰機「VF-4G ライトニングIII」，與同名機體 VF-4A（出自1987音樂OVA《Flash Back 2012》）為不同世界線的塗裝／規格衍生機，最初由やまと以網路限定方式販售，因入手困難而備受矚目，其後由 Arcadia 接手品牌重新販售。全長約300mm，支援戰鬥機、加瓦克、戰鬥人形三段完全變形，並具備駕駛員可乘坐座艙、起落架展開、飛彈掛架拆裝等多種機構，標配駕駛員人偶、替換手部零件、進氣口零件、展示台座及貼紙。",
+    reviews: [
+      {
+        title: "Arcadia 1/60 scale VF-4G lightning III reissue review",
+        url: "https://www.macrossworld.com/mwf/topic/43482-arcadia-160-scale-vf-4g-lightning-iii-reissue-review/",
+        lang: "en",
+      },
+    ],
+    youtube: [],
+  },
+  {
+    id: "yamato-vb6-konig-monster-1999",
+    name: "1/100 完全変形 VB-6 ケーニッヒモンスター",
+    nameJa: "1/100 完全変形 VB-6 ケーニッヒモンスター",
+    series: "マクロスVF-X2（1999 PlayStation2ゲーム）",
+    character: "VB-6 ケーニッヒモンスター（König Monster）",
+    manufacturer: "YAMATO",
+    scale: "1/100",
+    price: "¥16,800",
+    releaseDate: "2004年12月",
+    officialUrl: "",
+    imageUrl: "/images/yamato-vb6-konig-monster-1999.jpg",
+    tags: ["macross0006@中壢收多易", "マクロス", "マクロスVF-X2", "ケーニッヒモンスター", "König Monster", "VB-6", "YAMATO", "可變形", "1/100"],
+    description: "初登場於1999年PlayStation2遊戲《マクロスVF-X2》的大型可變爆撃機「VB-6 ケーニッヒモンスター」，やまと於2004年推出的1/100大型完全可變形版本，早於後來的DX超合金（GE-51）規格商品問世。シャトル形態全長／全寬約320mm，無須拆換零件即可完整重現シャトル、ガウォーク、デストロイド三形態變形，原案設計由桜川晃（Liquid Stone）操刀。やまと結束營業後已停產多年，官方網站已不存在，故officialUrl暫留空。",
+    reviews: [
+      {
+        title: "Yamato 1/100 Konig Monster - A Monster that Won't Fit Under Your Bed",
+        url: "https://anymoon.com/blog/?p=1695",
+        lang: "en",
+      },
+      {
+        title: "VB-6 ケーニッヒモンスター：なんでもおもちゃ",
+        url: "https://nanomo.blog.ss-blog.jp/2008-05-17-1",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "Yamato VB 6 Konig Monster Review",
+        url: "https://www.youtube.com/watch?v=CW42p6D11PY",
+        lang: "en",
+      },
+    ],
   },
 ]
