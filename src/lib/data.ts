@@ -1129,7 +1129,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/13952/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-max-full-set.jpg",
-    tags: ["マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta 絕對 LIVE!!!!!!》中傳奇 Ace 飛行員 Maximilian Jenius（Max 素人）搭乘的次世代高性能可變機 YF-29 Durandal 的 Full Set Pack 版本，附全套 Super Part 追加零件。YF-29 是 Macross 宇宙中性能最頂尖的可變機之一，由《Frontier》帶入《Delta》宇宙橋接劇情。",
     reviews: [
       {
@@ -4793,7 +4793,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年5月",
     officialUrl: "https://p-bandai.com/tw/item/N2561745001001",
     imageUrl: "/images/smp-srx-tenka-muteki.jpg",
-    tags: ["SMP", "スーパーロボット大戦", "Super Robot Wars", "SRX", "天下無敵", "オプションパーツ", "バンダイスピリッツ", "食玩", "P-Bandai限定", "OG"],
+    tags: ["etc0001@中壢收多易", "SMP", "スーパーロボット大戦", "Super Robot Wars", "SRX", "天下無敵", "オプションパーツ", "バンダイスピリッツ", "食玩", "P-Bandai限定", "OG"],
     description: "BANDAI SPIRITS「SMP」（Shokugan Modeling Project / 食玩模型企劃）系列出品的《超級機械人大戰OG》SRX 天下無敵武裝配件套組。套組內含 SRX「天下無敵劍」效果零件、R-1 火焰翼展開效果零件、R-GUN Powered 專用支架等，讓已持有 SMP SRX 本體組（R-1、R-2 Powered、R-3 Powered）的玩家能完整重現動畫中最終決戰「天下無敵の剣」場景。為 Premium Bandai（魂限）限定品，2023 年 5 月出貨，本體不含於組包內需另行購買。",
     reviews: [],
     youtube: [],
