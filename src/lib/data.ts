@@ -1367,7 +1367,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13759/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["macross003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 Macross Delta》中女主角 Mirage Farina Jenius（傳奇 Ace Max Jenius 的孫女）機 VF-31AX Kairos-Plus，獨特的翠綠色塗裝有別於 Hayate 機，是 Delta 小隊中辨識度最高的機體。",
     reviews: [
       {
@@ -7562,6 +7562,34 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
+  },
+  {
+    id: "dx-chogokin-vf25g-messiah-michael-renewal",
+    name: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.",
+    nameJa: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.",
+    series: "マクロスF (Macross Frontier)",
+    character: "VF-25G Messiah Valkyrie（ミハエル・ブラン機）",
+    manufacturer: "Bandai Spirits / TAMASHII NATIONS",
+    scale: "1/60",
+    price: "¥15,400",
+    releaseDate: "2012年9月29日",
+    officialUrl: "https://tamashiiweb.com/item/1786/",
+    imageUrl: "/images/dx-chogokin-vf25g-messiah-michael-renewal.jpg",
+    tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    description: "《マクロスF》狙擊手 Michael Blanc 專用機 VF-25G メサイアバルキリー的リニューアルVer.（改良重製版），沿用アルト機・オズマ機時期建立的關節結構並持續優化，肩部與頸部可動範圍更自然，可重現趴姿射擊等姿勢。標配專屬大型狙擊槍及原本アルト・オズマ機未附屬的 Super Parts，是VF-25G系列中可動性與遊玩性最完整的版本，早於後續2023年推出的スーパーメサイアバルキリー リバイバルVer.。",
+    reviews: [
+      {
+        title: "DX超合金 VF-25G メサイアバルキリー(ミハエル・ブラン機) リニューアルVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/51845881.html",
+        lang: "ja",
+      },
+      {
+        title: "【ＤＸ超合金】 ＶＦ－２５Ｇ メサイアバルキリー （ミハエル・ブラン機）[レビュー]",
+        url: "https://toroplus.blog/tyougoukinn/vf25g-messiah-michael/",
+        lang: "ja",
+      },
+    ],
+    youtube: [],
   },
   {
     id: "dx-chogokin-vf25g-tornado-parts-renewal",
