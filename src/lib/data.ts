@@ -2226,12 +2226,12 @@ export const collection: CollectibleItem[] = [
     character: "Aile Strike Gundam（GAT-X105）",
     manufacturer: "Bandai Spirits",
     scale: "MG 1/100",
-    price: "¥4,400",
-    releaseDate: "2003年（多次再版）",
-    officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2813/",
+    price: "¥2,750",
+    releaseDate: "2003年1月1日（多次再版）",
+    officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=162&grp_id=5312",
     imageUrl: "/images/mg-aile-strike-gundam.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "主角機", "ストライク"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X105 Strike Gundam 裝備 Aile Striker，SEED 代表主角機，Kira Yamato 初期座機。",
+    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X105 Strike Gundam 裝備 Aile Striker，SEED 代表主角機，Kira Yamato 初期座機，2003年發售的最初版本，與後續2013年推出的Ver.RM為不同商品。",
     reviews: [
       {
         title: "MG 1/100 Strike Gundam + Aile Striker Review | Lazy Lily Fansubs",
