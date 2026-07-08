@@ -2593,7 +2593,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（P-Bandai 抽選販売）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102666819000&grp_id=5325",
     imageUrl: "/images/musha-gundam-mk2-tokugawa-nanban.jpg",
-    tags: ["MG", "ガンプラ", "武者ガンダム", "Musha Gundam", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
+    tags: ["MG", "ガンプラ", "武者ガンダム", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
     description: "為紀念日光東照宮世界遺產登錄 25 週年所推出的特別企劃模型，以收藏於東照宮寶物館的德川家康遺品「南蛮胴具足」為造型原型，結合武者ガンダムMk-II 的 MG 1/100 套件重新詮釋。\n\n南蛮胴是戰國時代從葡萄牙傳入日本的西式胸甲，以其流線型弧面與異國金屬感著稱；本件在機體配色上以黑色電鍍為基底，全身甲冑零件採黑色電鍍與銀色電鍍雙重質感搭配，裙甲（草摺）等紅色部位以和紙質感貼紙印刷呈現，胸甲更燙印德川家三葉葵紋家徽。2024 年 5 月 27 日先行於日光東照宮現地販售、同年奉納於神社，其後透過 Premium Bandai 抽選販售，入手難度極高，是結合歷史文化與鋼彈的稀有聯名企劃。",
     reviews: [
       {
@@ -3831,7 +3831,7 @@ export const collection: CollectibleItem[] = [
     height: "約285mm",
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054018598/",
     imageUrl: "/images/kotobukiya-azurlane-taihou-17.jpg",
-    tags: ["碧藍航線", "Azur Lane", "大鳳", "Taihou", "Kotobukiya", "寿屋", "1/7", "日系品牌", "コトブキヤショップ限定"],
+    tags: ["碧藍航線", "Azur Lane", "大鳳", "Taihou", "寿屋", "1/7", "日系品牌", "コトブキヤショップ限定"],
     description: "Kotobukiya（寿屋）推出的《碧藍航線（Azur Lane）》「大鳳（たいほう）」1/7 比例完成品，為寿屋直營店限定商品。原型師みしま精心雕塑，以大鳳標誌性的日式和風軍裝搭配摺扇形艦裝，細緻呈現其優雅挺拔的身姿。全高約 285mm，以 ABS + PVC 製成，是碧藍航線手辦收藏中的人氣之作。",
     reviews: [],
     youtube: [
@@ -4371,7 +4371,7 @@ export const collection: CollectibleItem[] = [
     height: "約190mm",
     officialUrl: "https://www.megahouse.co.jp/products/item/310/",
     imageUrl: "/images/excellent-model-klan-klang-armored.jpg",
-    tags: ["macross0007@中壢收多易", "マクロスF", "Macross Frontier", "クラン・クラン", "Klan Klang", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
+    tags: ["macross0007@中壢收多易", "マクロスF", "Macross Frontier", "クラン・クラン", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
     description: "メガハウス（MegaHouse）Excellent Model 系列取材自《マクロスF》（Macross Frontier, 2008）TV 第 21 話中 SMS 戰術音速教官、ゼントラーディ族中隊長クラン・クラン（Klan Klang）身著戰鬥強化裝甲（Q-Rau suit）的全武裝姿態。\n\nクラン在劇中是罕見在ゼントラーディ巨人形態（マクロン状態）下依然保有少女魅力的角色；此完成品以 1/72 比例（約 190mm）重現其衝鋒戰鬥姿態，裝甲各面板刻線精細，搭配火焰橘紅配色充分表現ゼントラーディ戰甲的重量感與威壓力。超弩絞架護甲可拆卸，可自由搭配 VF-25G 同比例展示。Excellent Model 系列以系列內數一數二的大型體量著稱，是《マクロスF》立體商品中存在感最強的單品之一。",
     reviews: [
       {
@@ -4590,7 +4590,7 @@ export const collection: CollectibleItem[] = [
     height: "約270mm（人型形態）",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17s-diamond-force.jpg",
-    tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "Yamato", "1/60", "変形", "完全変形"],
+    tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "1/60", "変形", "完全変形"],
     description: "ヤマト（Yamato）以《マクロス7》（1994）ダイヤモンドフォース（Diamond Force）隊長機 VF-17S ナイトメア（Nightmare）為題材的 1/60 完全可變形完成品，2011 年 12 月發售，定價 ¥24,800。\n\nVF-17 Nightmare 以多面角（Stealth）機身設計著稱，機首呈扁平角錐狀，酷似 F-117 夜鷹；VF-17S 為搭載四門頭部固定機炮（Head Laser）的指揮官型，為 Diamond Force 隊長 Gamlin Kizaki 的專用機。此 1/60 版全面重現戰鬥機・GERWALK・人型三形態完全可變，機身各面板及手臂收納機構均以精密塑膠件構成，表面施以 Diamond Force 五色正式塗裝（黑、銀、紅、金、白）。ヤマト品牌已於 2013 年停業，現行市場流通量稀少，為マクロス7 可變形模型中的珍稀逸品。",
     reviews: [
       {
@@ -4624,7 +4624,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年12月",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17-super-pack.jpg",
-    tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "Yamato", "1/60", "30周年", "擴充套件"],
+    tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "1/60", "30周年", "擴充套件"],
     description: "ヤマト（Yamato）為旗下 1/60 完全可變形 VF-17 ナイトメア系列（含 Diamond Force、Emerald Force 等版本）設計的 1/60 スーパーパック（Super Pack）選配擴充套件，2012 年 12 月發售，定價 ¥4,800。此套件為マクロス 30 周年紀念商品企劃的一環。\n\n套件包含翼端追加武裝組件、背部強化推進器（Booster）及補給彈藥倉等零件，全部以精密塑膠件構成，安裝後大幅改變 VF-17 各版本的重武裝輪廓，可重現《マクロス7》劇中 Gamlin Kizaki 等角色在決戰時使用的超型態全武裝姿態。為 VF-17 系列完整收藏的必備配件，現已絕版。",
     reviews: [
       {
@@ -4653,7 +4653,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年8月",
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf1-super-strike-parts-48.jpg",
-    tags: ["macross0007@中壢收多易", "マクロス", "Macross", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "Yamato", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
+    tags: ["macross0007@中壢收多易", "マクロス", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
     description: "ヤマト（Yamato）為旗下 1/48 完全可變形 VF-1 バルキリー（Valkyrie）設計的官方強化零件組——スーパーパーツ＆ストライクパーツ（Super & Strike Parts），2003 年 8 月初版發售，定價 ¥5,800。\n\n套件完整重現《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984 劇場版）中 VF-1S/J/A 的超型態裝備，包含背部主噴射増速器（Booster）、腿部推進槽（Leg Propellant Tank）、臂部微型導彈艙（Micro-Missile Arm Pod）、背部光束加農炮架（Strike Backpack + Beam Cannon）及反応弾（Reaction Missile）配件。安裝後令整機展示效果完全蛻變，由標準型升格為最廣為人知的超全武裝形態，是 1/48 VF-1 系列最重要的周邊配件，也是《マクロス》模型收藏不可或缺的經典逸品。",
     reviews: [
       {
@@ -4683,7 +4683,7 @@ export const collection: CollectibleItem[] = [
     height: "合體時約380mm",
     officialUrl: "https://www.tfsafari.com/products/yes-model-combiner-defensor-oversized-mtcm-guardia-full-set-5-in-1",
     imageUrl: "/images/yes-model-patron-saint.jpg",
-    tags: ["トランスフォーマー", "Transformers", "Defensor", "守護神", "プロテクトボット", "Protectobots", "合體", "型模良品", "YES-MODEL", "五體合體"],
+    tags: ["トランスフォーマー", "Defensor", "守護神", "プロテクトボット", "Protectobots", "合體", "型模良品", "YES-MODEL", "五體合體"],
     description: "G1《變形金剛》守護神（Defensor）的三方廠放大版，由型模良品（YES-MODEL）出品。以 Maketoys MTCM-04 Guardia 為設計基礎加以改良，由 YM-13 至 YM-17 共五體合體成守護神，合體後全高約 38cm。與 G1 Protectobots 精神相承，各成員具備警車、消防車等緊急車輛形態，改善了原版關節與材質缺陷，並同時再現戰鬥形態與合體展示，是大型合體系收藏玩具的佳作。",
     reviews: [],
     youtube: [
@@ -4707,7 +4707,7 @@ export const collection: CollectibleItem[] = [
     height: "約220mm",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3010/",
     imageUrl: "/images/mgex-unicorn-gundam-ver-ka.jpg",
-    tags: ["Gunpla", "MGEX", "ユニコーンガンダム", "Unicorn Gundam", "Ver.Ka", "バンダイスピリッツ", "1/100", "LED", "発光", "変形", "RX-0"],
+    tags: ["Gunpla", "MGEX", "ユニコーンガンダム", "Ver.Ka", "バンダイスピリッツ", "1/100", "LED", "発光", "変形", "RX-0"],
     description: "BANDAI SPIRITS 全新「MGEX」（Master Grade Extreme）品牌首彈，以「極限發光機構」為主題，重現 RX-0 獨角獸鋼彈的サイコフレーム（Psycho Frame）光效。全新採用「フレキシブル LED シート」，組裝簡便且節省空間，可同時實現變形、發光、變色、可動四大功能兼備。按鈕操作下，眼部與頭頂主攝像頭點亮，サイコフレーム 以赤／綠雙色脈動式發光，重現獨角獸模式（Unicorn Mode）與破壞模式（Destroy Mode）。比例全身由カトキハジメ全程監修，附機庫造型展示底座及三塊護盾零件，可重現最終決戰場景。是慶祝 GUNPLA 40 週年的里程碑作品，也是史上最高規格的 1/100 比例獨角獸鋼彈模型。",
     reviews: [
       {
@@ -4747,7 +4747,7 @@ export const collection: CollectibleItem[] = [
     height: "合體時約350mm",
     officialUrl: "https://toys.tfw2005.com/multipack-name/tfc-toys-sg-perseus",
     imageUrl: "/images/tfc-toys-sg-perseus.jpg",
-    tags: ["トランスフォーマー", "Transformers", "Devastator", "TFC Toys", "Shattered Glass", "SG", "合體", "珀修斯", "Perseus", "六體合體"],
+    tags: ["トランスフォーマー", "Devastator", "TFC Toys", "Shattered Glass", "SG", "合體", "珀修斯", "Perseus", "六體合體"],
     description: "G1《變形金剛》毀滅者（Devastator）的三方廠六體合體玩具，由台灣品牌 TFC Toys 出品，為其 Hercules（海格力士）系列的 Shattered Glass（SG）限定版。採用鏡像宇宙「碎鏡玻璃」設定中的純白色塗裝，重現 SG 版毀滅者造型。套組由 Dr. Krank、Structor、Heavylabor、Neckbreaker、Exgraver、Madblender 六隻建設機器人個體組成，合體後高約 35cm。全球限量 2,012 套並附專屬編號，是三方廠 Transformers 收藏中稀有度極高的限定合體組合。",
     reviews: [],
     youtube: [
@@ -4770,7 +4770,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年2月",
     officialUrl: "https://p-bandai.com/tw/item/N2500370001001",
     imageUrl: "/images/super-minipla-tenryujin.jpg",
-    tags: ["smp0001@中壢收多易", "Super Minipla", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "天竜神", "天龍神", "Tenryujin", "食玩", "バンダイスピリッツ", "合體", "FINAL", "P-Bandai限定"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "天竜神", "天龍神", "Tenryujin", "食玩", "バンダイスピリッツ", "合體", "FINAL", "P-Bandai限定"],
     description: "BANDAI SPIRITS「SUPER MINIPLA」系列出品，食玩形式的《勇者王GaoGaiGar FINAL》天竜神（天龍神）完整套裝。套裝包含 GBR-8 光竜（光龍）與 GBR-9 暗竜（暗龍）的各自戰機形態、勇者機器人形態，以及二者合體後的天竜神形態，完整還原動畫中的女性型機體造型。食玩規格下達到精緻的組裝完成度，無需上色即可重現細節。為 Premium Bandai 限定品，2020 年 2 月出貨，是 GaoGaiGar FINAL 系列機體收藏的重要一員。",
     reviews: [
       {
@@ -4851,7 +4851,7 @@ export const collection: CollectibleItem[] = [
     height: "完成品尺寸　幅150mm×高220mm×深320mm（機體設定：全長23.0m・全高13.7m）",
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az12_geno_breaker/",
     imageUrl: "/images/zoids-az12-geno-breaker.jpg",
-    tags: ["ZOIDS", "ゾイド", "ジェノブレイカー", "AZ-12", "EZ-034", "タカラトミー", "1/72", "レイヴン"],
+    tags: ["ゾイド", "ジェノブレイカー", "AZ-12", "EZ-034", "タカラトミー", "1/72", "レイヴン"],
     description: "「AZ-12 ジェノブレイカー」是TAKARA TOMY「ADVANCED Zi」系列（AZ系列）中，暴龍型機體「ジェノブレイカー」睽違多年後的最新復刻重製版，套件編號為 EZ-034，屬於《機動戰士高達》世界觀外、ZOIDS 系列「守護者部隊（Guardian Force）」篇章代表機體之一，由駕駛員「雷邦（レイヴン）」駕駛。完成品比例為1/72，尺寸約為寬150mm×高220mm×長320mm，機體設定全長23.0公尺、全高13.7公尺、重量137.5噸、最高速度345km/h，是暴龍型ゾイド中攻擊力與速度兼具的高機動主力機。\n\n本次AZ-12版本延續系列一貫的電動馬達步行機構，頭部、尾部與全身動作能隨步行同步連動，展現ゾイド特有的生物感律動；機體背部標誌性的巨大鐮刀武裝「Exbreaker（エクスブレイカー）」也採連動機構，會隨步行動作自動開闔，是本次改版的最大賣點之一。套件同時附有可切換為普通配色的替換零件，以及與姊妹機「ジェノザウラー」共通的零件，讓玩家能自行拼裝出紅色涂装的ジェノザウラー，並隨附1/72比例的雷邦（GF版）駕駛人偶、暗影（シャドー）組織體人偶（含可替換翼部零件）及一般士兵人偶，組裝需使用1顆3號電池（另售）。\n\n作为近年ZOIDS品牌復興浪潮中備受矚目的旗艦級作品，本作於2025年8月6日開放預訂，預定2026年3月28日正式發售，建議售價19,800日圓（含稅），是「AZ系列」重製陣容中人氣與話題度都相當高的一款。",
     reviews: [
       {
@@ -5213,7 +5213,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年8月（P-Bandai限定）",
     officialUrl: "https://p-bandai.com/tw/item/A2440865001",
     imageUrl: "/images/mg-gundam-x-unit3.jpg",
-    tags: ["ガンダム", "機動新世紀ガンダムX", "MG", "1/100", "Bandai", "ガンダムX", "P-Bandai限定"],
+    tags: ["ガンダム", "MG", "1/100", "Bandai", "ガンダムX", "P-Bandai限定"],
     description: "《機動新世紀鋼彈X》藍光紀念BOX特別收錄的全新繪製漫畫《與你同在，一直都是》中登場的GX-9900鋼彈X「3號機」，是加洛德原本座機在戰鬥中嚴重損毀後，蒐集舊地球聯邦各地研究設施殘存零件重新組裝而成的機體，象徵著主角在故事落幕後仍未停止的旅程。\n\n本套件沿用2013年評價極高的MG鋼彈X骨架架構，並未更動內構或可動範圍，僅針對3號機專屬配色重新設計——原本深藍色部位改為紫色系，肩甲同樣換上紫色成形色，並附上由插畫家時田光一操刀、專為新篇漫畫設計的全新水轉印貼紙。武裝配件齊全，包含護盾巴斯特步槍、光束軍刀、衛星加農砲及肩部火神砲單元，足以重現機體的滿裝火力姿態。\n\n本商品於2018年7月開放預購、同年8月出貨，為P-Bandai限定販售商品，日版售價4,320日圓。此次於P-Bandai台灣站上架，售價NT$1,150，方便台灣玩家收藏這款劇情延伸限定色版本。",
     reviews: [
       {
@@ -6583,7 +6583,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年8月1日（香港會場限定販售）",
     officialUrl: "https://www.scalemates.com/kits/bandai-0202266-rx-0-unicorn-gundam-ver-ka-code-852--1125041",
     imageUrl: "/images/mg-unicorn-verka-code852.jpg",
-    tags: ["Gunpla", "MG", "ユニコーンガンダム", "Unicorn Gundam", "Ver.Ka", "CODE_852", "香港限定", "バンダイスピリッツ", "1/100", "RX-0", "金メッキ"],
+    tags: ["Gunpla", "MG", "ユニコーンガンダム", "Ver.Ka", "CODE_852", "香港限定", "バンダイスピリッツ", "1/100", "RX-0", "金メッキ"],
     description: "「MG 1/100 RX-0 獨角獸鋼彈 Ver.Ka [CODE_852]」是2015年8月「Gundam Docks at Hong Kong II」活動限定販售的特別版本，僅於香港銅鑼灣時代廣場展覽會場現場販售，官方定價港幣$495，數量有限、售完即止，並未透過P-Bandai線上或一般模型店鋪流通。\n\n「CODE_852」之名取自香港的國際電話區號「852」，凸顯其香港會場限定身份。套件以2007年發售的經典「MG 獨角獸鋼彈 Ver.Ka」為基礎，外裝改為與「MG 百式 Ver.2.0」相同工法的消光金電鍍處理，部分武裝與背包零件更換為活動限定專屬成形色，並附有活動原創設計的標記水貼；膝關節可動範圍亦較初版擴大，更貼近動畫中的演出動作。\n\n由於發售管道極為稀少、僅限香港會場現場購買，此版本自發售起即被視為獨角獸鋼彈系列中最珍稀的收藏品之一，二手市場流通價格遠高於原始定價。",
     reviews: [
       {
@@ -6613,7 +6613,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年2月23日",
     officialUrl: "https://bandai-hobby.net/item/01_5779/",
     imageUrl: "/images/mg-sinanju-stein-verka.jpg",
-    tags: ["ガンプラ", "MG", "Ver.Ka", "Bandai", "機動戰士鋼彈UC", "シナンジュ・スタイン", "MSN-06S", "獨角獸鋼彈"],
+    tags: ["ガンプラ", "MG", "Ver.Ka", "Bandai", "シナンジュ・スタイン", "MSN-06S", "獨角獸鋼彈"],
     description: "Bandai Spirits MG 1/100 MSN-06S 沙南珠·斯坦因 Ver.Ka，出自《機動戰士鋼彈UC》MSV企劃，是U.C.0094年由阿納海姆電子開發的精神框架（Psycho-Frame）試驗機。原為地球聯邦相關計畫測試機體，其後遭覆面公司（The Sleeves）奪取，先由強化人瑪莉妲·克魯茲駕駛，其後交由夏亞的複製人全法蘭托（Full Frontal）進行改修塗裝，成為紅色的「沙南珠」；本商品重現的正是尚未改修前、以純白成形色表現的原始「斯坦因」狀態。\n\n延續MG系列出色比例與全身高可動性設計，手部零件採用『MG ν鋼彈 Ver.Ka』首度導入、表現力極高的「情感操作器SP（エモーションマニュピレーターSP）」，可確實握持各式武裝；並附有Katoki Hajime親自監修設計的標記水貼。武裝方面除盾牌、光束步槍外，更附有僅登場於小說版《機動戰士鋼彈UC》的「沙南珠專用火箭砲」，是UC世界觀中極具代表性的Katoki Ver.Ka作品之一。",
     reviews: [
       { title: "MG シナンジュ・スタイン Ver.Ka | b's mono-log", url: "https://mono-log.jp/archives/2013/03/mg_sinanju_stein_verka.php", lang: "ja" },
@@ -6640,7 +6640,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年8月10日",
     officialUrl: "https://bandai-hobby.net/item/01_1999/",
     imageUrl: "/images/rg-unicorn-gold-coating.jpg",
-    tags: ["ガンプラ", "RG", "ユニコーンガンダム", "Unicorn Gundam", "ガンダムベース限定", "ゴールドコーティング", "バンダイスピリッツ", "1/144", "RX-0"],
+    tags: ["ガンプラ", "RG", "ユニコーンガンダム", "ガンダムベース限定", "ゴールドコーティング", "バンダイスピリッツ", "1/144", "RX-0"],
     description: "「RG 1/144 ガンダムベース限定 獨角獸鋼彈 [金色鍍層]」是全球官方鋼普拉綜合設施「THE GUNDAM BASE」為慶祝東京旗艦店開幕一週年，於2018年8月推出的限定紀念版本。以人氣的RG獨角獸鋼彈為基礎，機身各部位施以電鍍加工並搭配珍珠光澤成形色，呈現金碧輝煌的高級塗裝規格，隨觀看角度與光線呈現微妙色澤變化。\n\n套件延續RG系列標誌性的「Advanced MS Joint」精密骨架與內構造重現設計，可完整重現獨角獸模式與毀滅模式的變形機構，並附有多面透明護盾與武裝配件。由於僅限THE GUNDAM BASE各據點（東京、福岡及新千歲機場店等）與GUNDAM BASE會員通路販售，並未在一般模型店鋪或P-Bandai線上通路流通，發售後迅速售罄，是鋼普拉收藏者間長年熱門的高達基地巡禮紀念代表作之一。",
     reviews: [
       { title: "ガンダムベース限定RG「1/144 ユニコーンガンダム [ゴールドコーティング]」レビュー | PachiLateji", url: "https://pachilateji.jp/rg-unicorngc/", lang: "ja" },
@@ -7198,7 +7198,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年01月11日（多次再版）",
     officialUrl: "https://bandai-hobby.net/item/01_33/",
     imageUrl: "/images/mg-gundam-x.jpg",
-    tags: ["ガンダム", "機動新世紀ガンダムX", "MG", "1/100", "Bandai", "ガンダムX", "主役機"],
+    tags: ["ガンダム", "MG", "1/100", "Bandai", "ガンダムX", "主役機"],
     description: "《機動新世紀鋼彈X》主角機GX-9900鋼彈X的MG化，為標準／原色版本，與收藏中另一件P-Bandai限定的「ガンダムX3号機」（3號機・紫色特別配色版）為完全不同的獨立商品，並非重複收藏。\n\n本套件追求最佳比例與機關再現：最大特色衛星加農砲可完整展開背部反射鏡機關；身體各處藍色裝甲採用獨特光澤材質呈現異材質感；相機眼與胸部中央使用透明零件；肩部火神砲可展開；並附有可變形為盾牌／步槍雙模式的護盾巴斯特步槍，大型光束軍刀刀身則以透明效果零件表現。\n\n本商品為長銷再版商品，日版建議售價4,950日圓（含稅）。",
     reviews: [
       { title: "【作品分享】月亮出來了! MG GX-9900 鋼彈X 非專業製作全記錄 - 巴哈姆特", url: "https://forum.gamer.com.tw/C.php?bsn=60053&snA=44796", lang: "zh" },
@@ -7798,7 +7798,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年6月20日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/4549660159308000.html",
     imageUrl: "/images/super-minipla-gaogaigar-2.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "ガオガイガー2", "ゴルディーマーグ", "ゴルディオンハンマー", "ステルスガオーII", "スターガオガイガー", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "ガオガイガー2", "ゴルディーマーグ", "ゴルディオンハンマー", "ステルスガオーII", "スターガオガイガー", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA 勇者王ガオガイガー2」是BANDAI食玩事業部「スーパーミニプラ」勇者系列的第二彈商品，於2017年6月20日發售，延續1997年動畫《勇者王ガオガイガー》的機體陣容。本彈全3種：マーグハンド、ゴルディオンハンマー（附加加特林Driver與ウルテクポッド）、以及ステルスガオーII。マーグハンド與ゴルディオンハンマー可合體為「ゴルディーマーグ」，ステルスガオーII則能與初代ガオガイガー合體重現「スターガオガイガー」形態。單價¥1,045（含稅），全3種需集齊方能完整重現各形態。",
     reviews: [
       {
@@ -7827,7 +7827,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年5月17日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660503507000.html",
     imageUrl: "/images/smp-power-dagwon-2.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者指令ダグオン", "COMMAND OF BRAVES", "DAGWON2", "パワーダグオン", "ファイヤーエン", "スーパーファイヤーダグオン", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者指令ダグオン", "COMMAND OF BRAVES", "DAGWON2", "パワーダグオン", "ファイヤーエン", "スーパーファイヤーダグオン", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "盒身英文標示「COMMAND OF BRAVES DAGWON2 POWER DAGWON」，即為BANDAI食玩「スーパーミニプラ 勇者指令ダグオン2」，於2021年5月17日發售，是1996年勇者系列動畫《勇者指令ダグオン》SMP化的第二彈商品。內含動畫中後段主角エン所駕駛的新主力機體「パワーダグオン」（A、B兩台組裝合體），以及エン變身後的「ファイヤーエン」，全3種一套。可與另售的第一彈合體重現「超火焰合体スーパーファイヤーダグオン」。單價¥2,145（含稅），附贈蘇打口味口香糖。",
     reviews: [
       {
@@ -7856,7 +7856,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年7月23日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660251125000.html",
     imageUrl: "/images/super-minipla-giant-gorg.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "巨神ゴーグ", "Giant Gorg", "ゴーグ", "マノン・ガーディアン", "サンライズ", "バンダイキャンディ", "食玩", "勇者シリーズ", "1984年アニメ"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "巨神ゴーグ", "Giant Gorg", "ゴーグ", "マノン・ガーディアン", "サンライズ", "バンダイキャンディ", "食玩", "勇者シリーズ", "1984年アニメ"],
     description: "取材自1984年サンライズ製作的機器人動畫《巨神ゴーグ》，由BANDAI食玩事業部於2018年7月23日推出，是「スーパーミニプラ」系列少見跨足80年代經典舊作的企劃。「2個入り」內含主角機體「ゴーグ」與敵方陣營「マノン」專用機「マノン・ガーディアン」共2種，需成套集齊才能同時擁有雙方陣營機體。ゴーグ附有可換裝手部零件、180mm大型光束砲，並附主角田神ゆう的搭乘人偶零件；マノン・ガーディアン則配備可換裝手部與雙持雷射砲。單價¥2,310（含稅）。",
     reviews: [
       {
@@ -7937,7 +7937,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年2月",
     officialUrl: "https://tamashiiweb.com/item/13771/",
     imageUrl: "/images/soc-gx96x-armriser.jpg",
-    tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Getter Robo Go", "Gアームライザー", "SOUL OF CHOGOKIN", "超合金魂", "Bandai", "合金"],
+    tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Getter Robo Go", "Gアームライザー", "超合金魂", "Bandai", "合金"],
     description: "《ゲッターロボ號》（1991）中登場的強化戰機「Gアームライザー」，是超合金魂 GX-96 ゲッターロボ號的專用強化配件組。可拆解裝甲零件供ゲッターロボ號裝備，變形為「超ゲッターロボ號」形態，並附帶磁力鋼劍ソード・トマホーク。本體不含金屬零件，是輕量化的選配零件包，需搭配 GX-96 本體使用。",
     reviews: [
       {
@@ -7966,7 +7966,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年1月",
     officialUrl: "https://tamashiiweb.com/item/13354/",
     imageUrl: "/images/soc-gx94-dancouga-blackwing.jpg",
-    tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "Dancouga", "ブラックウイング", "SOUL OF CHOGOKIN", "超合金魂", "Bandai", "合金", "可變形"],
+    tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "Dancouga", "ブラックウイング", "超合金魂", "Bandai", "合金", "可變形"],
     description: "《超獣機神ダンクーガ》劇場版「Godbless the Machine」中登場的強化形態「ダンクーガ ブラックウイング」超合金魂完成品。可由戰機形態變形為人形態，重現原作中黑色羽翼裝甲的獨特造型，並與其他 SOC ダンクーガ系列零件相容擴充。",
     reviews: [
       {
@@ -7996,7 +7996,7 @@ export const collection: CollectibleItem[] = [
     height: "約250mm",
     officialUrl: "https://tamashiiweb.com/item/12161/",
     imageUrl: "/images/soc-gx13r-dancouga-renewal.jpg",
-    tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "Dancouga", "リニューアルバージョン", "SOUL OF CHOGOKIN", "超合金魂", "Bandai", "合金", "可變形", "合體"],
+    tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "Dancouga", "リニューアルバージョン", "超合金魂", "Bandai", "合金", "可變形", "合體"],
     description: "《超獣機神ダンクーガ》主角機體「ダンクーガ」的超合金魂リニューアルバージョン完成品，由ビッグモス、イーグルファイター、ランドライガー、ランドクーガー四台獣機合體變形而成。相較初版重新設計配色與助推器關節結構，新增造型優先的非變形頭部零件，並附上ダンクーガ剣及多種武裝配件，約250mm高，ABS、壓鑄合金與PVC材質。",
     reviews: [
       {
@@ -8026,7 +8026,7 @@ export const collection: CollectibleItem[] = [
     height: "約180mm",
     officialUrl: "https://tamashiiweb.com/item/13574/",
     imageUrl: "/images/soc-gx96-getter-robo-go.jpg",
-    tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Getter Robo Go", "SOUL OF CHOGOKIN", "超合金魂", "Bandai", "合金", "可變形", "合體"],
+    tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Getter Robo Go", "超合金魂", "Bandai", "合金", "可變形", "合體"],
     description: "1991年播出的《ゲッターロボ號》登場的三台可變形合體機體超合金魂完成品，可組合出地上戰用「ゲッター號」、高速空戰用「ゲッター翔」與「ゲッター凱」三種形態，約180mm高。附有ゲッター斧、ブーメランソーサー旋轉刃、腿部刃、トルネードアタック鑽頭、ストリングアタック電磁線及ブレストボンバー飛彈等豐富配件，並附以劇中秘密基地「ビッグナイザー」為原型的專屬展示台座。",
     reviews: [
       {
@@ -8078,7 +8078,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年9月25日",
     officialUrl: "https://tamashiiweb.com/item/1318/",
     imageUrl: "/images/dx-vb6-konig-monster-ge51.jpg",
-    tags: ["合金0001@中壢收多易", "マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "König Monster", "VB-6", "GE-51", "DX超合金", "ROBOT魂", "Bandai", "可變形", "合金"],
+    tags: ["合金0001@中壢收多易", "マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "VB-6", "GE-51", "DX超合金", "ROBOT魂", "Bandai", "可變形", "合金"],
     description: "初登場於PS用遊戲《マクロスVF-X2》、後於《マクロスF》劇場版再度登場的大型可變爆撃機「VB-6 ケーニッヒ・モンスター」（GE-51）完成品。原規劃以ROBOT魂規格商品化，但因體型須配合VF-25等機體比例而過於巨大，一般關節結構難以支撐重量，因此改與DX超合金team合作，採用壓鑄合金關節強化結構與塗裝品質，可完整重現シャトル形態、ガウォーク形態、デストロイド形態三形態變形，附專用展示台座。",
     reviews: [
       {
@@ -8107,7 +8107,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年2月",
     officialUrl: "https://tamashiiweb.com/item/13391/",
     imageUrl: "/images/soc-gx68x-stargaogaigar-option.jpg",
-    tags: ["合金0001@中壢收多易", "勇者王ガオガイガー", "GaoGaiGar", "スターガオガイガー", "究極の勇者王Ver.", "SOUL OF CHOGOKIN", "超合金魂", "Bandai", "合金"],
+    tags: ["合金0001@中壢收多易", "勇者王ガオガイガー", "GaoGaiGar", "スターガオガイガー", "究極の勇者王Ver.", "超合金魂", "Bandai", "合金"],
     description: "《勇者王GaoGaiGar》中「スターガオガイガー」的強化配件套組，超合金魂GX-68勇者王ガオガイガー本體專用擴充零件，「究極の勇者王Ver.」為初版配色的重新塗裝進化版本。套組包含ステルスガオーII、ガトリングドライバー、造型優先非變形頭部零件，以及專用強化展示台座（本版改為透明綠色），並強化各部位金屬質感塗裝。",
     reviews: [
       {
@@ -8790,7 +8790,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年10月27日",
     officialUrl: "https://tf.takaratomy.co.jp/products-lineup/tf_bb/bb-03",
     imageUrl: "/images/mpm-07-bumblebee.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Bumblebee", "大黃蜂", "MPM", "Masterpiece Movie", "Takara Tomy"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Bumblebee", "大黃蜂", "MPM", "Masterpiece Movie", "Takara Tomy"],
     description: "《大黃蜂》電影版的傑作級（Masterpiece Movie）大黃蜂，車型還原 1967 年金龜車（VW Beetle），是大黃蜂在電影中登陸地球時的初代載具形態，也呼應了 1984 年 G1 初代玩具的甲蟲車設定。機器人型態頭雕經過重新設計，減少骷髏感、更貼近電影造型，可收納出隱藏的戰鬥面罩，並附有替換武器與可動手指關節。",
     reviews: [
       {
@@ -8824,7 +8824,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年8月31日",
     officialUrl: "https://tf.takaratomy.co.jp/products-lineup/tf_mpm/mpm-8",
     imageUrl: "/images/mpm-08-megatron.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Megatron", "密卡登", "MPM", "Masterpiece Movie", "Takara Tomy"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Megatron", "密卡登", "MPM", "Masterpiece Movie", "Takara Tomy"],
     description: "還原 2007 年《變形金剛》首部曲狂派首領密卡登的傑作電影系列玩具，外星戰機型態線條銳利、氣勢十足，機器人型態頭雕與尖銳裝甲高度重現電影原始設計，銀色塗裝搭配深灰色件與金色細節。附有胸口方塊能量核心艙、可延伸的手部鞭狀武器，以及可自由組裝的手臂加農炮，是 MPM 系列中還原度與完成度均獲肯定的一作。",
     reviews: [
       {
@@ -8858,7 +8858,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年12月26日",
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810163770/",
     imageUrl: "/images/mpm-11-ratchet.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Ratchet", "救護車", "MPM", "Masterpiece Movie", "Takara Tomy"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Ratchet", "救護車", "MPM", "Masterpiece Movie", "Takara Tomy"],
     description: "傑作電影系列第 11 彈，重現電影首部曲中汽車人隨軍醫療兵救護車，載具型態為悍馬 H2 越野救援車，肩負搶險救災任務的多功能載具。歷經約三年半的產品開發，MPM 系列首波五位汽車人（擎天柱、大黃蜂、爵士、鐵皮、救護車）終於補齊最後一位成員。機器人型態車頂需經多道折疊才能貼合背部，每處折疊皆有穩固卡榫固定，並附鋸片、雷射砲、雙臂飛彈等替換武裝配件。",
     reviews: [
       {
@@ -8893,7 +8893,7 @@ export const collection: CollectibleItem[] = [
     height: "約28cm",
     officialUrl: "https://tfsource.com/uniquetoys/r-02-challenger/",
     imageUrl: "/images/utr-02-challenger.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Optimus Prime", "擎天柱", "三方廠", "UniqueToys", "Challenger", "The Last Knight"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "擎天柱", "三方廠", "UniqueToys", "Challenger", "The Last Knight"],
     description: "三方廠 UniqueToys「R」系列之一，以《變形金剛：最終騎士》電影版擎天柱（騎士擎天柱）為原型設計的原創詮釋玩具，型號 R-02，暱稱「Challenger（挑戰者）」。此為一般配色版本，採用經典紅藍配色搭配火焰塗裝。載具型態為北美重型卡車，機器人型態身披厚重鎧甲，標配長劍、盾牌、手刃、短劍、權杖等8款配件，變形結構採胸腔與腿部内外翻轉的方式，完成度與可動性在同類三方擎天柱商品中評價優異。",
     reviews: [
       {
@@ -8923,7 +8923,7 @@ export const collection: CollectibleItem[] = [
     height: "約31cm",
     officialUrl: "https://tfsource.com/unique-toys/r-03-dragoon-with-base-unique-toys/",
     imageUrl: "/images/utr-03-dragoon.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Megatron", "威震天", "三方廠", "UniqueToys", "Dragoon", "The Last Knight"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "威震天", "三方廠", "UniqueToys", "Dragoon", "The Last Knight"],
     description: "三方廠 UniqueToys「R」系列之一，型號 R-03「Dragoon（巨龍）」，以《變形金剛：最終騎士》電影版威震天（騎士威震天）為原型的原創詮釋玩具。全身銀灰色金屬質感塗裝，機器人型態肩部與背部帶有尖銳龍翼造型裝甲，附有可發光效果（LED三段式）的融合加農炮、長劍及盾牌等配件，並隨附一顆擎天柱頭雕作為彩蛋。變形機制為人形軀幹內翻收納出機首、腿部翻出機翼與進氣口，完成後可變為星際戰機造型。",
     reviews: [
       {
@@ -8953,7 +8953,7 @@ export const collection: CollectibleItem[] = [
     height: "約32cm",
     officialUrl: "https://tfsource.com/3rd-party-figures/r-04-nero-unique-toys/",
     imageUrl: "/images/utr-04-nero.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Galvatron", "威震天", "三方廠", "UniqueToys", "Nero", "Age of Extinction"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Galvatron", "威震天", "三方廠", "UniqueToys", "Nero", "Age of Extinction"],
     description: "三方廠 UniqueToys「R」系列之一，型號 R-04「Nero（尼祿）」，以《變形金剛4：絕跡重生》電影版威震天（Galvatron）為原型的原創詮釋玩具。載具型態為大型半掛聯結車，機器人型態頭部雕刻與胸口反應爐造型高度還原電影設計，配備多處管線與金屬質感塗裝細節，MP比例可與其他三方廠電影系列擎天柱、禁閉等機體同台展示。",
     reviews: [],
     youtube: [],
@@ -8971,7 +8971,7 @@ export const collection: CollectibleItem[] = [
     height: "約28cm（機器人形態）",
     officialUrl: "https://www.actionfigure411.com/transformers/masterpiece/special-edition/starscream-mpm-10-10733.php",
     imageUrl: "/images/tf-mpm-10-starscream.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Starscream", "星星叫", "紅蜘蛛", "Masterpiece Movie", "MPM", "Takara Tomy", "Hasbro"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "紅蜘蛛", "Masterpiece Movie", "MPM", "Takara Tomy", "Hasbro"],
     description: "Takara Tomy／Hasbro「Masterpiece Movie Series」正廠商品，取材自2007年首部真人電影版《變形金剛》中反派星星叫（Starscream，中文玩家圈暱稱「天王星」或「紅蜘蛛」）。以電影CAD原始設計為藍本，可變形為Lockheed Martin F-22 Raptor戰機，機器人型態擁有50個以上可動點、可動嘴部與可翻折推進器，標配飛彈及圓鋸臂配件與加特林機炮，全63道變形步驟高度還原電影細節，是MPM系列公認的高完成度作品之一。",
     reviews: [],
     youtube: [
@@ -8995,7 +8995,7 @@ export const collection: CollectibleItem[] = [
     height: "約46cm（裝甲完成後）",
     officialUrl: "https://tfsource.com/iron-warrior/iw06-jet-power-armor/",
     imageUrl: "/images/iw-06-jet-power-armor.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Optimus Prime", "擎天柱", "三方廠", "Iron Warrior", "升級套組", "Revenge of the Fallen"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "擎天柱", "三方廠", "Iron Warrior", "升級套組", "Revenge of the Fallen"],
     description: "三方廠 Iron Warrior 推出的擎天柱升級外掛套組，設計靈感來自《變形金剛：復仇之戰》結局中鐵霸犧牲自我、擎天柱吸收其部件後化身「噴射動力擎天柱（Jet Power Prime）」的經典場面。套組本身不含擎天柱本體，需搭配 Takara Tomy MPM-04 擎天柱組裝，可安裝於其背部與四肢，形成大型噴射戰機外骨骼，具備可動機翼、可拆卸反應爐及紅藍黑三色塗裝的武裝配件，組裝完成後份量感十足。",
     reviews: [
       {
@@ -9030,7 +9030,7 @@ export const collection: CollectibleItem[] = [
     height: "約22cm",
     officialUrl: "https://tfsource.com/uniquetoys/r-01-peru-kill/",
     imageUrl: "/images/r-01-peru-kill.jpg",
-    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Transformers", "Lockdown", "禁閉", "三方廠", "UniqueToys", "Peru Kill", "Age of Extinction"],
+    tags: ["TF0001@中壢收多易", "トランスフォーマー", "Lockdown", "禁閉", "三方廠", "UniqueToys", "Peru Kill", "Age of Extinction"],
     description: "三方廠 UniqueToys「R」系列之一，型號 R-01「Peru Kill（秘魯殺手）」，以《變形金剛4：絕跡重生》電影版懸賞獵人禁閉（Lockdown）為原型的原創詮釋玩具。載具型態為藍寶堅尼 Aventador LP700-4 超跑，深色系塗裝搭配泛黃色調的頭部面罩鏡片，冷酷陰狠的角色形象重現度高。附可掛載於頭部的狙擊步槍、代表電影麥高芬「種子」的銀漆道具，以及機械犬型寵物配件，機器人型態關節可動範圍大、載具細節精緻。",
     reviews: [
       {
@@ -9059,7 +9059,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年1月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2020/1000139189.html",
     imageUrl: "/images/super-minipla-gaogaigo.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "ガオガイゴー", "覚醒人凱号", "ステルスガオーII", "ライナーガオーII", "ドリルガオーII", "バンダイキャンディ", "食玩", "勇者シリーズ", "P-Bandai限定"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "ガオガイゴー", "覚醒人凱号", "ステルスガオーII", "ライナーガオーII", "ドリルガオーII", "バンダイキャンディ", "食玩", "勇者シリーズ", "P-Bandai限定"],
     description: "「スーパーミニプラ 勇者王ガオガイガー ガオガイゴー」是BANDAI食玩事業部Premium Bandai限定商品，2020年1月出貨，延續《勇者王ガオガイガー》系列機體陣容。以全新造形的「覚醒人凱号」為核心，可透過「アクセプトモード（凱号）」與「アクティブモード（ガイゴー）」兩形態完全變形重現，套組並同梱歷代ガオーマシン「ステルスガオーII」、「ライナーガオーII」、「ドリルガオーII」。色分再現度高，幾乎無需貼紙即可達成高完成度變形效果。",
     reviews: [
       {
@@ -9201,7 +9201,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年5月24日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660543077000.html",
     imageUrl: "/images/super-minipla-trider-g7.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "無敵ロボ トライダーG7", "Trider G7", "バンダイキャンディ", "食玩", "サンライズ"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "無敵ロボ トライダーG7", "Trider G7", "バンダイキャンディ", "食玩", "サンライズ"],
     description: "「スーパーミニプラ 無敵ロボ トライダーG7」是BANDAI食玩事業部出品，2021年5月24日發售，取材自1980–1981年日本サンライズ製作機器人動畫《無敵ロボ トライダーG7》。全3種組件（頭部＆武器、胴體、腿部）集齊後可組成完整トライダーG7本體，具備3段式頭部變形機構，並可進一步變形為「トライダー・イーグル」與「トライダー・コスミック」形態，另附有可換裝的Bird Attack模式胸部零件。",
     reviews: [
       {
@@ -9235,7 +9235,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年5月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000154067.html",
     imageUrl: "/images/super-minipla-trider-shuttle-set.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "無敵ロボ トライダーG7", "Trider G7", "トライダー・シャトル", "トライダー・ニューシャトル", "バンダイキャンディ", "食玩", "P-Bandai限定"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "無敵ロボ トライダーG7", "Trider G7", "トライダー・シャトル", "トライダー・ニューシャトル", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "「スーパーミニプラ 無敵ロボ トライダーG7 トライダー・シャトル＆トライダー・ニューシャトルセット」是Premium Bandai限定商品，2021年5月出貨，為本體トライダーG7的專用擴充載具套組，內含新舊兩代穿梭機造型「トライダー・シャトル」與「トライダー・ニューシャトル」，皆可與本體トライダーG7組合，重現原作中更多樣的變形合體場景與獨自遊玩機構。",
     reviews: [],
     youtube: [
@@ -9287,7 +9287,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年5月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000151825.html",
     imageUrl: "/images/super-minipla-dagwon-ryan-gunkid.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者指令ダグオン", "Dagwon", "ライアン", "ガンキッド", "Ryan", "Gunkid", "バンダイキャンディ", "食玩", "勇者シリーズ", "P-Bandai限定", "サンライズ"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者指令ダグオン", "Dagwon", "ライアン", "ガンキッド", "Ryan", "Gunkid", "バンダイキャンディ", "食玩", "勇者シリーズ", "P-Bandai限定", "サンライズ"],
     description: "「スーパーミニプラ 勇者指令ダグオン ライアン＆ガンキッド」是Premium Bandai限定商品，2021年5月出貨，取材自1996年動畫《勇者指令ダグオン》。宇宙剣士ライアン可變形為「ファイヤーライオソード」，並附有一般刀身與必殺技演出用刀身兩種替換件；無限砲ガンキッド則可完全變形出4種形態。與已收錄的「SMP Power Dagwon2」同屬《勇者指令ダグオン》系列。",
     reviews: [
       {
@@ -9321,7 +9321,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年4月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000151828.html",
     imageUrl: "/images/super-minipla-balgion.jpg",
-    tags: ["smp0001@中壢收多易", "SUPER MINIPLA", "スーパーミニプラ", "超電子バイオマン", "Bioman", "バルジオン", "Balzion", "バイオハンター・シルバ", "バンダイキャンディ", "食玩", "P-Bandai限定", "スーパー戦隊"],
+    tags: ["smp0001@中壢收多易", "スーパーミニプラ", "超電子バイオマン", "Bioman", "バルジオン", "Balzion", "バイオハンター・シルバ", "バンダイキャンディ", "食玩", "P-Bandai限定", "スーパー戦隊"],
     description: "「スーパーミニプラ バルジオン」是Premium Bandai限定商品，2021年4月出貨，取材自1984年特攝戰隊作品《超電子バイオマン》，為反派角色「バイオハンター・シルバ」的座機。可動範圍豐富，膝部可彎曲，並附替換張開手掌零件以擺出多種戰鬥姿勢，可與另售的「スーパーミニプラ 電子合体 バイオロボ」組合重現劇中對戰場景。注意：本品雖冠以「スーパーミニプラ」勇者系列相同品牌名，但實際franchise為《超電子バイオマン》特攝戰隊系列。",
     reviews: [],
     youtube: [
@@ -9624,7 +9624,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年9月23日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/4549660392095000.html",
     imageUrl: "/images/smp-dancouga.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "超獣機神ダンクーガ", "Dancouga", "ダンクーガ", "イーグルファイター", "ランドカーガー", "ランドライガー", "ビッグモス", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "超獣機神ダンクーガ", "ダンクーガ", "イーグルファイター", "ランドカーガー", "ランドライガー", "ビッグモス", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA 超獣機神ダンクーガ」是BANDAI食玩事業部推出的1985年經典機器人動畫《超獣機神ダンクーガ》立體化商品，於2019年9月23日發售。組合內含四台合體用機體：イーグルファイター、ランドカーガー、ランドライガー、ビッグモス，可組裝合體為主角機「ダンクーガ」，並附強化翼與斷空剣等武裝零件。",
     reviews: [
       {
@@ -9663,7 +9663,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年9月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/1000135694.html",
     imageUrl: "/images/smp-dancouga-option-parts.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "超獣機神ダンクーガ", "Dancouga", "オプションパーツ", "断空剣", "強化ウイング", "プレミアムバンダイ限定", "食玩"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "超獣機神ダンクーガ", "Dancouga", "オプションパーツ", "断空剣", "強化ウイング", "プレミアムバンダイ限定", "食玩"],
     description: "為「SUPER MINIPLA 超獣機神ダンクーガ」本體追加的Premium Bandai限定オプションパーツセット，全新造形設計，包含大型「断空剣」與可裝設於背部、可動範圍不受限制的「強化ウイング」，裝上後可重現動畫中ダンクーガ的必殺武裝姿態，不含本體需另行購買。",
     reviews: [
       {
@@ -9686,7 +9686,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年11月27日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/4549660158950000.html",
     imageUrl: "/images/smp-zambot3-40th.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "無敵超人ザンボット3", "Zambot3", "ザンボット3", "ザンボエース", "ザンバード", "ザンブル", "ザンベース", "40周年", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "無敵超人ザンボット3", "Zambot3", "ザンボット3", "ザンボエース", "ザンバード", "ザンブル", "ザンベース", "40周年", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA 無敵超人ザンボット3」為紀念1977年播出的サンライズ機器人動畫始祖作《無敵超人ザンボット3》40周年而推出，於2017年11月27日發售。全4種：ザンボエース、ザンバード、ザンブル、ザンベース，可各自變形並互相合體重現劇中多種形態。為食玩驚喜盒販售形式。",
     reviews: [
       {
@@ -9725,7 +9725,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年10月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/1000126029.html",
     imageUrl: "/images/smp-gaogaigar-sp-pack-set.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "SPパックセット", "超竜神", "撃龍神", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "SPパックセット", "超竜神", "撃龍神", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA 勇者王ガオガイガー SPパックセット」是プレミアムバンダイ限定販售的追加零件套組，於2018年10月出貨。內含4個SPパック，以及可對應氷竜・炎竜的鉛筆型發射器（ペンシルランチャー）零件，可與另售的「超龍神」「撃龍神」搭配組裝，重現動畫中更完整的武裝形態。",
     reviews: [
       {
@@ -9753,7 +9753,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年1月22日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660190233000.html",
     imageUrl: "/images/smp-gaogaigar3-choryujin.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "超竜神", "Choryujin", "氷竜", "炎竜", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "超竜神", "Choryujin", "氷竜", "炎竜", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "包裝盒上標示「GaoGaiGar3」，實際商品為「SUPER MINIPLA 勇者王ガオガイガー3 超竜神」，於2018年1月22日發售，取材自《勇者王ガオガイガーFINAL》OVA中登場的中國龍系機體。全2種氷竜、炎竜可分別組裝，再合體重現「超竜神」形態，並可另外搭配SPパックセット強化。",
     reviews: [
       {
@@ -9792,7 +9792,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年6月25日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660251132000.html",
     imageUrl: "/images/smp-gaogaigar4-gaofighgar.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "ガオファイガー", "GaoFighGar", "ファントムガオー", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "ガオファイガー", "GaoFighGar", "ファントムガオー", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "包裝盒上標示「GaoGaiGar4」，實際商品為「SUPER MINIPLA 勇者王ガオガイガー4 ガオファイガー」，於2018年6月25日發售，取材自《勇者王ガオガイガーFINAL》OVA限定登場機體。全4種：ファントムガオー、ステルスガオーIII、ライナーガオーII、ドリルガオーII，組裝合體後重現「ガオファイガー」，並附換裝拳頭零件可重現多種必殺技形態。",
     reviews: [
       {
@@ -9831,7 +9831,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年12月24日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660290599000.html",
     imageUrl: "/images/smp-gaogaigar5-volfogg.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "ボルフォッグ", "Volfogg", "マイク・サウンダース13世", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "ボルフォッグ", "Volfogg", "マイク・サウンダース13世", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "包裝盒上標示「GaoGaiGar5」，實際商品為「SUPER MINIPLA 勇者王ガオガイガー5 ボルフォッグ」，於2018年12月24日發售，取材自《勇者王ガオガイガーFINAL》登場的傭兵機體。全3種：ボルフォッグ本體、駕駛員マイク・サウンダース13世人偶、以及バリバリイン・セット零件。另有更大型的プレミアムバンダイ限定「ビッグボルフォッグ」（三身一體版）同期推出。",
     reviews: [
       {
@@ -9870,7 +9870,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年6月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/1000123967.html",
     imageUrl: "/images/smp-gekiryujin.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "撃龍神", "Gekiryujin", "風龍", "雷龍", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "撃龍神", "Gekiryujin", "風龍", "雷龍", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA 勇者王ガオガイガー 撃龍神」為プレミアムバンダイ限定商品，於2018年6月出貨，取材自《勇者王ガオガイガーFINAL》登場的中國龍系合體機體。內含風龍、雷龍兩台機體，可組裝合體重現「撃龍神」，並可另外搭配SPパックセット強化武裝。注意：本品為BANDAI食玩事業部「スーパーミニプラ」系列（附口香糖的食玩），與另一條無附糖果的「HG 撃龍神」塑膠模型商品線不同，兩者為獨立產品。",
     reviews: [
       {
@@ -9909,7 +9909,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年12月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/1000138107.html",
     imageUrl: "/images/smp-combattler-v-option-parts.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "超電磁ロボ コン・バトラーV", "Combattler V", "コン・バトラーV", "オプションパーツセット", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "超電磁ロボ コン・バトラーV", "Combattler V", "コン・バトラーV", "オプションパーツセット", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA 超電磁ロボ コン・バトラーV オプションパーツセット」是プレミアムバンダイ限定的追加零件套組，於2019年12月出貨，需搭配同年12月發售的本體「SUPER MINIPLA 超電磁ロボ コン・バトラーV」使用，可為1976年經典機器人動畫《超電磁ロボ コン・バトラーV》立體化商品追加超電磁ヨーヨー等武裝零件，重現更多必殺技形態。",
     reviews: [
       {
@@ -9943,7 +9943,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年12月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/1000117867.html",
     imageUrl: "/images/smp-king-j-der.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "キングジェイダー", "KingJDer", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "キングジェイダー", "KingJDer", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
     description: "「SUPER MINIPLA キングジェイダー」為プレミアムバンダイ限定商品，於2017年12月出貨，取材自《勇者王ガオガイガーFINAL》登場的超弩級合體機體「キングジェイダー」。全高約280mm，為當時スーパーミニプラ系列中最大型的商品，內含大量可動與換裝零件，重現機體巨大的艦體與武裝形態。",
     reviews: [
       {
@@ -9982,7 +9982,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年2月17日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2020/1000140089.html",
     imageUrl: "/images/smp-jaguar-vulcan-bigscale.jpg",
-    tags: ["smp0002@收多易", "SUPER MINIPLA", "スーパーミニプラ", "太陽戦隊サンバルカン", "Sun Vulcan", "ジャガーバルカン", "コズモバルカン", "ブルバルカン", "ビッグスケール", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "スーパー戦隊"],
+    tags: ["smp0002@收多易", "スーパーミニプラ", "太陽戦隊サンバルカン", "Sun Vulcan", "ジャガーバルカン", "コズモバルカン", "ブルバルカン", "ビッグスケール", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "スーパー戦隊"],
     description: "「SUPER MINIPLA 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン」是プレミアムバンダイ限定商品，2020年2月17日出貨，取材自1981年特攝戰隊作品《太陽戦隊サンバルカン》的母艦機械獸「ジャガーバルカン」。可與另售的「太陽合体 世界のスーパーミニプラ サンバルカン」聯動，機體內部可收納コズモバルカン與ブルバルカン兩台戰隊機體，內建彈簧機構可展開斜坡讓コズモバルカン重現發進場面。2023年曾再版（定價調整為¥13,200）。",
     reviews: [
       {
@@ -10221,7 +10221,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年12月",
     officialUrl: "",
     imageUrl: "/images/yamato-vb6-konig-monster-1999.jpg",
-    tags: ["macross0007@中壢收多易", "マクロス", "マクロスVF-X2", "ケーニッヒモンスター", "König Monster", "VB-6", "YAMATO", "可變形", "1/100"],
+    tags: ["macross0007@中壢收多易", "マクロス", "マクロスVF-X2", "ケーニッヒモンスター", "VB-6", "YAMATO", "可變形", "1/100"],
     description: "初登場於1999年PlayStation2遊戲《マクロスVF-X2》的大型可變爆撃機「VB-6 ケーニッヒモンスター」，やまと於2004年推出的1/100大型完全可變形版本，早於後來的DX超合金（GE-51）規格商品問世。シャトル形態全長／全寬約320mm，無須拆換零件即可完整重現シャトル、ガウォーク、デストロイド三形態變形，原案設計由桜川晃（Liquid Stone）操刀。やまと結束營業後已停產多年，官方網站已不存在，故officialUrl暫留空。",
     reviews: [
       {
@@ -10324,7 +10324,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年5月21日",
     officialUrl: "https://tamashiiweb.com/item/13807/",
     imageUrl: "/images/gx-75sp-mazinkaiser-20th-anniversary.jpg",
-    tags: ["macross0005@中壢收多易", "マジンカイザー", "Mazinkaiser", "超合金魂", "SOUL OF CHOGOKIN", "20周年記念", "Bandai", "合金"],
+    tags: ["macross0005@中壢收多易", "マジンカイザー", "Mazinkaiser", "超合金魂", "20周年記念", "Bandai", "合金"],
     description: "為紀念《マジンカイザー》放送20週年推出的「超合金魂 GX-75」豪華鍍膜版本，機身各部位施以金、銀、黑三色電鍍處理，展現漆黒に輝くメタルボディ質感。標配「ファイナルカイザーブレード」較初版放大約20%，附加全新開發的專用展示台座，造型取材自地獄城廢墟意象並刻有マジンカイザー標誌，內建水木一郎演唱《マジンカイザーのテーマ》音源播放機構，是マジンカイザー系列收藏中份量與紀念意義兼具的豪華版本。",
     reviews: [],
     youtube: [
@@ -10393,7 +10393,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13633/",
     imageUrl: "/images/gx-97-daileon.jpg",
-    tags: ["macross0007@中壢收多易", "巨獣特捜ジャスピオン", "Jaspion", "ダイレオン", "超合金魂", "SOUL OF CHOGOKIN", "Bandai", "合金", "魂ウェブ商店限定"],
+    tags: ["macross0007@中壢收多易", "巨獣特捜ジャスピオン", "Jaspion", "ダイレオン", "超合金魂", "Bandai", "合金", "魂ウェブ商店限定"],
     description: "《巨獣特捜ジャスピオン》（東映METAL HERO系列第4作）登場の超惑星戦闘母船「ダイレオン」超合金魂立體化商品，魂ウェブ商店限定販售。可從全長約170mm的戦闘母船形態完整變形為約185mm高的戦闘巨人形態，重現劇中招牌必殺技「コズミッククラッシュ」的多樣可動姿勢。標配黄金の剣、替換手部零件、艦載機「超惑星戦闘車ガービン」與「超惑星機イアンウルフ」、ジャスピオン迷你人偶及母船形態專用展示台，機身施以銀色電鍍處理，重現原作特攝場景中的存在感。",
     reviews: [
       {
