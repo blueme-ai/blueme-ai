@@ -6155,7 +6155,7 @@ export const collection: CollectibleItem[] = [
     height: "アーモソルジャー時 全高約160mm（アーモファイター時 全長約210mm）",
     officialUrl: "https://sen-ti-nel.co.jp/items/1-48-afc-01h-regios/",
     imageUrl: "/images/mospeada-legioss-afc01h.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01H", "RIOBOT", "千値練", "1/48"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01H", "RIOBOT", "千値練", "1/48"],
     description: "「機甲創世記モスピーダ」（1983年，タツノコプロ）是繼《超時空要塞》後又一部影響深遠的機械改編作品，海外以《Robotech: The New Generation》之名播出。AFC-01 レギオス（Legioss）為劇中主力可變戰鬥機，可在アーモファイター（戰鬥機）、アーモダイバー（中間形態）、アーモソルジャー（人形機器人）三形態間完全變形；其中エータ（Eta）為指揮官機，由主角スティック・バーナード駕駛，於第二次地球奪還作戰中降臨地球。\n\n本品為千値練（Sentinel）RIOBOT系列於2020年6月推出的1/48比例可動完成品，採用壓鑄合金、ABS、PVC等多種材質，重新設計變形機構，人形態下駕駛艙可收納至胸部並下移至頭部下方，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀。隨附光束砲、飛彈莢艙、可動迷你騎乘裝甲（ライドアーマー）與飛行員人偶及展示台，是MOSPEADA收藏中不可或缺的核心機體。",
     reviews: [],
     youtube: [
@@ -6184,7 +6184,7 @@ export const collection: CollectibleItem[] = [
     height: "アーモソルジャー時 全高約160mm（アーモファイター時 全長約210mm）",
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-legioss-zeta/",
     imageUrl: "/images/mospeada-legioss-afc01z.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01Z", "RIOBOT", "千値練", "1/48"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01Z", "RIOBOT", "千値練", "1/48"],
     description: "AFC-01Z レギオス・ゼータ（Legioss Zeta）是「機甲創世記モスピーダ」故事後段登場的強化型可變戰鬥機，由角色フーケ（Fouquet）駕駛，塗裝以鮮紅色為主，象徵其作為前線精銳部隊機體的身分。與指揮官機エータ相同，ゼータ同樣具備アーモファイター、アーモダイバー、アーモソルジャー三段變形，但在武裝與機動性上做了進一步強化，可換裝光束步槍與光束砲。\n\n本品為千値練RIOBOT系列於2021年1月推出的1/48比例可動完成品，承襲エータ版的壓鑄合金與ABS/PVC混合結構，並針對前作變形卡榫、腳部收納等細節重新調校，操作更為流暢。隨附可動迷你騎乘裝甲、替換武裝與展示台，紅白配色搭配細緻標誌貼片，是MOSPEADA系列中人氣極高的強化量產機體之一。",
     reviews: [],
     youtube: [
@@ -6208,7 +6208,7 @@ export const collection: CollectibleItem[] = [
     height: "アーモソルジャー時 全高約305mm・頭頂高約220mm（アーモボマー時 全長約215mm／翼幅約440mm）",
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-tread/",
     imageUrl: "/images/mospeada-legioss-tread-ab01h.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "トレッド", "Tread", "AB-01H", "RIOBOT", "千値練", "1/48"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "トレッド", "Tread", "AB-01H", "RIOBOT", "千値練", "1/48"],
     description: "トレッド（Tread，型式編號AB-01H）是「機甲創世記モスピーダ」系列中登場的アーモボマー（Armo Bomber）型可變運輸支援機，機體設計沿襲AFC-01 レギオス系統，可與指揮官機エータ合體組成「トレッド＆レギオス」形態，於劇中及外傳作品中負責火力支援與大型武裝搭載任務，是系列中頗具人氣的重裝機體。\n\n本品為千値練RIOBOT系列於2025年7月推出的1/48比例可動完成品，由T-REX擔綱原型與機構設計、早川洋司負責塗裝完稿，可在アーモボマー、アーモダイバー、アーモソルジャー三形態間免換件完全變形，大量使用壓鑄合金零件確保變形穩定性，並可與另售的RIOBOT レギオス・エータ合體展示、重現劇中經典組合場景，是MOSPEADA收藏者期待已久的重磅機體。",
     reviews: [],
     youtube: [
@@ -6232,7 +6232,7 @@ export const collection: CollectibleItem[] = [
     height: "約150mm",
     officialUrl: "https://www.sentinel-toys.com/index.php?route=product/product&product_id=635",
     imageUrl: "/images/mospeada-vr038l-fuke-bartley.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "バートレイ", "VR-038L", "千値練", "ライドアーマー", "1/12"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "バートレイ", "VR-038L", "千値練", "ライドアーマー", "1/12"],
     description: "《機甲創世記モスピーダ》是1983年タツノコプロ製作的經典機甲動畫，描述地球受外星種族因比特（Inbit）侵略後，火星降下部隊展開反攻的冒險旅程。作品中的兵裝可從騎乘服、裝甲機車（Armor Cycle）到人形裝甲（Ride Armor）三段變形，深刻影響後來的機甲玩具企劃。VR-038L「バートレイ」是系列中少見的女性專用第一世代Ride Armor，由隊伍成員フーケ・エローズ駕駛，配備可發射實彈與光束的專用巴祖卡炮。",
     reviews: [
       {
@@ -6272,7 +6272,7 @@ export const collection: CollectibleItem[] = [
     height: "約160mm",
     officialUrl: "https://sentinel-toys.com/index.php?product_id=513&route=product%2Fproduct",
     imageUrl: "/images/mospeada-vr041h-yellow-blowsperior.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "ブロウスーペリア", "VR-041H", "千値練", "ライドアーマー", "1/12"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "ブロウスーペリア", "VR-041H", "千値練", "ライドアーマー", "1/12"],
     description: "《機甲創世記モスピーダ》描繪火星降下部隊為奪回受因比特佔領之地球而戰的經典變形機甲動畫。「ブロウスーペリア」是較モスピーダ本體更早期的第一世代Ride Armor，胸部搭載飛彈發射器、雙臂配備高周波軍刀，火力凶悍。駕駛員イエロー・ベルモント原為第一次降下部隊軍人，為躲避因比特軍獵殺而隱藏身分，平日以女裝歌手身分活動，是系列中形象獨特的角色。",
     reviews: [
       {
@@ -6312,7 +6312,7 @@ export const collection: CollectibleItem[] = [
     height: "約160mm",
     officialUrl: "https://sentinel-toys.com/index.php?product_id=60&route=product%2Fproduct",
     imageUrl: "/images/mospeada-vr052f-variable-stick.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "VR-052F", "千値練", "スティック", "ライドアーマー", "1/12"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "VR-052F", "千値練", "スティック", "ライドアーマー", "1/12"],
     description: "《機甲創世記モスピーダ》為タツノコプロ1983年播出的經典科幻機甲動畫，主角群搭乘可從騎乘服、裝甲機車到人形裝甲三段變形的兵裝「モスピーダ」，展開奪回地球的冒險。VR-052F是系列主角機之一，由隊伍領袖スティック・バーナード駕駛——他原是火星降下部隊軍人，起初性格剛硬，在與雷、フーケ等夥伴同行前往Reflex Point的旅途中逐漸卸下心防，成為一行人實質上的領隊。",
     reviews: [
       {
@@ -6352,7 +6352,7 @@ export const collection: CollectibleItem[] = [
     height: "約160mm",
     officialUrl: "https://sen-ti-nel.co.jp/items/vr-052t-mospeada-rei/",
     imageUrl: "/images/mospeada-vr052t-variable-tray.jpg",
-    tags: ["機甲創世記モスピーダ", "MOSPEADA", "VR-052T", "レイ", "RIOBOT", "千値練", "1/12", "可變形"],
+    tags: ["BOX0001@中壢收多易", "機甲創世記モスピーダ", "MOSPEADA", "VR-052T", "レイ", "RIOBOT", "千値練", "1/12", "可變形"],
     description: "《機甲創世記モスピーダ》是1983年播出的日昇動畫，描述地球遭外星種族因比特（Invid）侵略後，地球圈防衛軍精銳部隊「ライドバック隊」駕駛可變形動力裝甲「バリアブル・トルーパー（Ride Armor）」展開反攻的故事，其兼具機車、半人形、鎧甲三段變形機構，是80年代變形機甲設計的代表作之一，也是後來美版《太空堡壘：新世代》的原始素材來源。\n\nRIOBOT VR-052T是隊員「レイ」的專用機，由設計師前野圭一郎（T-REX）在荒木伸吾監修下重新詮釋，1/12比例、全高約160mm，可完整由「裝甲機車（Armor Cycle）」變形為「騎乘鎧甲（Ride Armor）」，過程無需拆換零件。機身骨架局部採用壓鑄合金強化耐用度，內裡騎乘服採用布料材質重現貼身感，並附可替換的レイ專用頭部、多種替換手型與展示台座，是千値練RIOBOT系列重現原作機車鎧甲變形樂趣的代表作。",
     reviews: [
       {
@@ -6382,7 +6382,7 @@ export const collection: CollectibleItem[] = [
     height: "約150mm",
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-gb-vrs077f/",
     imageUrl: "/images/mospeada-vrs077f-intruder-gate.jpg",
-    tags: ["機甲創世記モスピーダ", "MOSPEADA", "GENESIS BREAKER", "VRS-077F", "イントルーダー", "ゲイト", "RIOBOT", "千値練", "1/12"],
+    tags: ["BOX0001@中壢收多易", "機甲創世記モスピーダ", "MOSPEADA", "GENESIS BREAKER", "VRS-077F", "イントルーダー", "ゲイト", "RIOBOT", "千値練", "1/12"],
     description: "《機甲創世記モスピーダ外伝 GENESIS BREAKER》是官方發行的小說外傳，描寫特殊任務部隊「ブレイカーズ」隊長「ゲイト」率隊執行敵後突襲與偵查任務的故事，補完了本篇《機甲創世記モスピーダ》世界觀中未曾登場的多款新設定騎乘鎧甲（Ride Armor），為原作粉絲提供了全新視角的支線劇情。\n\nRIOBOT VRS-077F「イントルーダー」是ゲイト的專用突襲偵查型鎧甲，左右配備45mm速射光束砲，尾部可拆卸為偵查用無人機，機械設計監修同樣由荒木伸吾操刀。1/12比例、全高約150mm，延續系列招牌的「裝甲機車→騎乘鎧甲」完全變形機構，過程無需拆換零件，骨架局部使用壓鑄合金確保小比例下的耐久度；頭部面罩可開闔露出ゲイト面容，並附握持手、張開手、持握武器手等多種替換手型與展示台座，是RIOBOT系列首次以外傳小說機體商品化的作品。",
     reviews: [],
     youtube: [
@@ -6411,7 +6411,7 @@ export const collection: CollectibleItem[] = [
     height: "アーモソルジャー時 頭頂高約160mm（アーモファイター時 全長約210mm）",
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-legioss-iota/",
     imageUrl: "/images/mospeada-legioss-afc01i-iota.jpg",
-    tags: ["モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01I", "イオタ", "RIOBOT", "千値練", "1/48"],
+    tags: ["BOX0001@中壢收多易", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01I", "イオタ", "RIOBOT", "千値練", "1/48"],
     description: "「機甲創世記モスピーダ」（1983年，タツノコプロ）描述第二次地球奪還作戰中，地球圈防衛軍精銳部隊駕駛可變形戰鬥機AFC-01レギオス展開反攻的故事。イオタ（Iota）是レギオス系列中配發給一般兵的綠色量產型號，不同於指揮官機エータ與強化機ゼータ的個人專用配色，機身塗裝走實用的軍規迷彩風格，是火星降下部隊主力戰力的代表機種。\n\n本品為千値練（Sentinel）RIOBOT系列於2021年8月推出的1/48比例可動完成品，延續系列「アーモファイター（戰鬥機）→アーモダイバー（中間形態）→アーモソルジャー（人形）」三段完全變形機構，人形態下駕駛艙收納至胸部並下移至頭部下方，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀。隨附光束砲、榴彈發射器、飛彈莢艙、可動迷你騎乘裝甲（VR-041H）與飛行員人偶及專用展示台，是MOSPEADA收藏中代表量產部隊的核心機體。",
     reviews: [
       {
