@@ -6,6 +6,7 @@ export type ReviewLink = {
 
 export type CollectibleItem = {
   id: string
+  addedAt: string
   name: string
   nameJa?: string
   series: string
@@ -26,6 +27,7 @@ export type CollectibleItem = {
 export const collection: CollectibleItem[] = [
   {
     id: "saber-alter-kimono",
+    addedAt: "2026-06-20",
     name: "セイバーオルタ 和服ver.",
     nameJa: "セイバーオルタ 和服ver.",
     series: "Fate/stay night [Heaven's Feel]",
@@ -66,6 +68,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "jeanne-alter-casual",
+    addedAt: "2026-06-20",
     name: "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 カジュアルver.",
     nameJa: "アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 カジュアルver.",
     series: "Fate/Grand Order",
@@ -106,6 +109,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-turn-a-gundam-moonlight-butterfly",
+    addedAt: "2026-06-20",
     name: "MG 1/100 WD-M01 ∀ガンダム ムーンライトバタフライver.",
     nameJa: "MG 1/100 WD-M01 ∀ガンダム ムーンライトバタフライver.",
     series: "∀ Gundam（∀ガンダム）",
@@ -145,6 +149,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "macross-plus-yf21-yamato",
+    addedAt: "2026-06-20",
     name: "マクロスプラス 1/60 完全変形 YF-21",
     nameJa: "マクロスプラス 1/60 完全変形 YF-21",
     series: "Macross Plus（マクロスプラス）",
@@ -184,6 +189,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "suisei-shinsei-mokuroku-vinyl",
+    addedAt: "2026-06-20",
     name: "新星目録（しんせいもくろく）",
     nameJa: "新星目録（しんせいもくろく）",
     series: "星街すいせい（Hoshimachi Suisei）",
@@ -212,6 +218,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rx783-g3-gundam-ver30-base-limited",
+    addedAt: "2026-06-20",
     name: "MG 1/100 RX-78-3 G-3ガンダム Ver.3.0 THE GUNDAM BASE LIMITED",
     nameJa: "MG 1/100 RX-78-3 G-3ガンダム Ver.3.0 THE GUNDAM BASE LIMITED",
     series: "機動戦士ガンダム（Mobile Suit Gundam, 1979）",
@@ -246,6 +253,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gff-mc-wing-gundam-zero-cloaked",
+    addedAt: "2026-06-20",
     name: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ クロークドカスタム",
     nameJa: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ クロークドカスタム",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
@@ -285,6 +293,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-providence-climax-battle",
+    addedAt: "2026-06-20",
     name: "METAL BUILD プロヴィデンスガンダム CLIMAX BATTLE Ver.",
     nameJa: "METAL BUILD プロヴィデンスガンダム CLIMAX BATTLE Ver.",
     series: "機動戦士ガンダムSEED（Mobile Suit Gundam SEED）",
@@ -326,6 +335,7 @@ export const collection: CollectibleItem[] = [
   // ── GFF / METAL BUILD / Gundam ───────────────────────────────────────────
   {
     id: "gff-mc-wing-gundam-zero-rebellion",
+    addedAt: "2026-06-20",
     name: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ [EW] REBELLION",
     nameJa: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ [EW] REBELLION",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
@@ -365,6 +375,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-burning-gundam-second",
+    addedAt: "2026-06-20",
     name: "METAL BUILD バーニングガンダム＆バーニングガンダム弐式",
     nameJa: "METAL BUILD バーニングガンダム＆バーニングガンダム弐式",
     series: "機動武闘伝Gガンダム（Mobile Fighter G Gundam）",
@@ -404,6 +415,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-strike-freedom-festival2024",
+    addedAt: "2026-06-20",
     name: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
     nameJa: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
     series: "機動戦士ガンダムSEED DESTINY",
@@ -438,6 +450,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-destiny-full-festival2024",
+    addedAt: "2026-06-20",
     name: "METAL BUILD デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
     nameJa: "METAL BUILD デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
     series: "機動戦士ガンダムSEED DESTINY",
@@ -472,6 +485,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-sf-wing-of-light-repackage",
+    addedAt: "2026-06-20",
     name: "METAL BUILD ストライクフリーダムガンダム 光の翼 オプションセット [Re:PACKAGE]",
     nameJa: "METAL BUILD ストライクフリーダムガンダム 光の翼 オプションセット [Re:PACKAGE]",
     series: "機動戦士ガンダムSEED DESTINY",
@@ -511,6 +525,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mgex-strike-freedom-mechanical-clear",
+    addedAt: "2026-06-20",
     name: "MGEX 1/100 ストライクフリーダムガンダム [MECHANICAL CLEAR]",
     nameJa: "MGEX 1/100 ストライクフリーダムガンダム [MECHANICAL CLEAR]",
     series: "機動戦士ガンダムSEED DESTINY",
@@ -550,6 +565,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "chogokin-rx93ff-nu-gundam",
+    addedAt: "2026-06-20",
     name: "CHOGOKIN RX-93ff νGUNDAM",
     nameJa: "CHOGOKIN RX-93ff νGUNDAM",
     series: "機動戦士ガンダム 逆襲のシャア（Char's Counterattack）",
@@ -591,6 +607,7 @@ export const collection: CollectibleItem[] = [
   // ── SOUL OF CHOGOKIN ─────────────────────────────────────────────────────
   {
     id: "soc-gx116-pliers",
+    addedAt: "2026-06-20",
     name: "魂OF超合金 GX-116 プライヤーズ",
     nameJa: "魂OF超合金 GX-116 プライヤーズ",
     series: "勇者王ガオガイガー（GaoGaiGar: King of the Braves）",
@@ -622,6 +639,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Classic (VF-1 series) ──────────────────────────
   {
     id: "dx-chogokin-vf1d-fan-racer",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-1D バルキリー & ファンレーサー",
     nameJa: "DX超合金 VF-1D バルキリー & ファンレーサー",
     series: "超時空要塞マクロス（Macross, 1982）",
@@ -666,6 +684,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf1j-armored-hikaru",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-1J アーマードバルキリー（一条輝機）",
     nameJa: "DX超合金 VF-1J アーマードバルキリー（一条輝機）",
     series: "超時空要塞マクロス（Macross, 1982）",
@@ -715,6 +734,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf1a-angel-birds",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-1A バルキリー エンジェルバーズ",
     nameJa: "DX超合金 VF-1A バルキリー エンジェルバーズ",
     series: "超時空要塞マクロス（Macross, 1982）",
@@ -749,6 +769,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf1j-hikaru-store-limited",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-1J バルキリー（一条輝機）-STORE LIMITED EDITION-",
     nameJa: "DX超合金 VF-1J バルキリー（一条輝機）-STORE LIMITED EDITION-",
     series: "超時空要塞マクロス（Macross, 1982）",
@@ -788,6 +809,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vt1-super-ostrich",
+    addedAt: "2026-06-20",
     name: "DX超合金 VT-1 スーパーオーストリッチ",
     nameJa: "DX超合金 VT-1 スーパーオーストリッチ",
     series: "超時空要塞マクロス（Macross, 1982）",
@@ -829,6 +851,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Plus ───────────────────────────────────────────
   {
     id: "dx-chogokin-yf21-guld",
+    addedAt: "2026-06-20",
     name: "DX超合金 YF-21（ガルド・ゴア・ボーマン機）",
     nameJa: "DX超合金 YF-21（ガルド・ゴア・ボーマン機）",
     series: "マクロスプラス（Macross Plus）",
@@ -880,6 +903,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Frontier ──────────────────────────────────────
   {
     id: "dx-chogokin-vf25-worldwide-anniv",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-25 メサイアバルキリー WORLDWIDE Anniv.",
     nameJa: "DX超合金 VF-25 メサイアバルキリー WORLDWIDE Anniv.",
     series: "マクロスF（Macross Frontier）",
@@ -924,6 +948,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25f-super-messiah-alto-revival",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-25F スーパーメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25F スーパーメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
@@ -963,6 +988,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25f-tornado-messiah-alto-revival",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-25F トルネードメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25F トルネードメサイアバルキリー（早乙女アルト機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
@@ -997,6 +1023,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25g-super-messiah-michael-revival",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-25G スーパーメサイアバルキリー（マイケル・ブラン機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25G スーパーメサイアバルキリー（マイケル・ブラン機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
@@ -1036,6 +1063,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25s-armored-messiah-ozma-revival",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
@@ -1080,6 +1108,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf171ex-armored-alto-revival",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-171EX アーマードナイトメアプラスEX（早乙女アルト機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-171EX アーマードナイトメアプラスEX（早乙女アルト機）REVIVAL Ver.",
     series: "マクロスF（Macross Frontier）",
@@ -1119,6 +1148,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-max-full-set",
+    addedAt: "2026-06-20",
     name: "DX超合金 YF-29 デュランダルバルキリー（マキシミリアン・ジーナス機）Full Set Pack",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー（マキシミリアン・ジーナス機）Full Set Pack",
     series: "マクロスΔ 絶対LIVE!!!!!! (Macross Delta Movie: Passionate Walküre)",
@@ -1158,6 +1188,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf27-sp-super-lucifer",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-27γ スーパールシファーバルキリー（ブレラ・スターン機）リバイバル Ver.",
     nameJa: "DX超合金 VF-27γ スーパールシファーバルキリー（ブレラ・スターン機）リバイバル Ver.",
     series: "マクロスF（Macross Frontier）",
@@ -1194,6 +1225,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross 7 ──────────────────────────────────────────────
   {
     id: "dx-chogokin-vf17s-nightmare-stealth",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-17S ナイトメアステルスバルキリー（木崎ガムリン機）",
     nameJa: "DX超合金 VF-17S ナイトメアステルスバルキリー（木崎ガムリン機）",
     series: "マクロス7（Macross 7）",
@@ -1233,6 +1265,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf19-custom-excalibur-basara",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-19 カスタム エクスカリバー 熱気バサラスペシャル",
     nameJa: "DX超合金 VF-19 カスタム エクスカリバー 熱気バサラスペシャル",
     series: "マクロス7（Macross 7）",
@@ -1279,6 +1312,7 @@ export const collection: CollectibleItem[] = [
   // ── DX Chogokin — Macross Delta ──────────────────────────────────────────
   {
     id: "dx-chogokin-vf31j-movie-fold-unit",
+    addedAt: "2026-06-20",
     name: "DX超合金 劇場版 VF-31J ジークフリード（ハヤテ・インメルマン機）【フォールドプロジェクターユニット装備】",
     nameJa: "DX超合金 劇場版 VF-31J ジークフリード（ハヤテ・インメルマン機）【フォールドプロジェクターユニット装備】",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1313,6 +1347,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-first-limited-hayate",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）初回限定版",
     nameJa: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）初回限定版",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1357,6 +1392,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-movie-mirage",
+    addedAt: "2026-06-20",
     name: "DX超合金 劇場版 VF-31AX カイロスプラス（ミラージュ・ファリーナ・ジーナス機）",
     nameJa: "DX超合金 劇場版 VF-31AX カイロスプラス（ミラージュ・ファリーナ・ジーナス機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1406,6 +1442,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-super-parts-set",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーパーツセット",
     nameJa: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーパーツセット",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1445,6 +1482,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-movie-borg",
+    addedAt: "2026-06-20",
     name: "DX超合金 劇場版 VF-31AX カイロスプラス（ボーグ・コンフェート機）",
     nameJa: "DX超合金 劇場版 VF-31AX カイロスプラス（ボーグ・コンフェート機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1479,6 +1517,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-armored-parts-set",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-31AX カイロスプラス用アーマードパーツセット（ハヤテ・インメルマン機）",
     nameJa: "DX超合金 VF-31AX カイロスプラス用アーマードパーツセット（ハヤテ・インメルマン機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1513,6 +1552,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31ax-super-ghost-set",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーゴーストセット",
     nameJa: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）用スーパーゴーストセット",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1552,6 +1592,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31j-supersiegfried-hayate-revival",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）REVIVAL Ver.",
     nameJa: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）REVIVAL Ver.",
     series: "マクロスΔ（Macross Delta）",
@@ -1591,6 +1632,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-sv262hs-draken3",
+    addedAt: "2026-06-20",
     name: "DX超合金 劇場版 Sv-262Hs ドラケンIII（ボーグ・コンヴァート機）",
     nameJa: "DX超合金 劇場版 Sv-262Hs ドラケンIII（ボーグ・コンヴァート機）",
     series: "劇場版 マクロスΔ（Macross Delta: Passionate Walküre）",
@@ -1635,6 +1677,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31a-kairos-delta10th",
+    addedAt: "2026-06-20",
     name: "DX超合金 VF-31A カイロス マクロスΔ 10周年記念",
     nameJa: "DX超合金 VF-31A カイロス マクロスΔ 10周年記念",
     series: "マクロスΔ（Macross Delta）",
@@ -1663,6 +1706,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "ninja-cat-n001",
+    addedAt: "2026-06-20",
     name: "Ninja Cat 1/6 女格鬥家舞 N001 鉑金矽膠可動人偶（不知火舞）",
     series: "THE KING OF FIGHTERS",
     character: "不知火舞（Mai Shiranui）",
@@ -1697,6 +1741,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hapitopi-dongtan-kpring",
+    addedAt: "2026-06-20",
     name: "ドンタン",
     nameJa: "ドンタン",
     series: "Original Character",
@@ -1727,6 +1772,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "supernova-cifang-1-6",
+    addedAt: "2026-06-20",
     name: "Super Nova 此方醬 1/6 Scale Figure",
     series: "Original Character",
     character: "此方醬",
@@ -1743,6 +1789,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "animester-2b-nier-1-9",
+    addedAt: "2026-06-20",
     name: "ヨルハ二号B型（2B）",
     nameJa: "ヨルハ二号B型（2B）",
     series: "NieR:Automata Ver1.1a",
@@ -1767,6 +1814,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-mai-shiranui-kof97",
+    addedAt: "2026-06-20",
     name: "不知火舞（紅裳舞 Ver.）",
     nameJa: "不知火舞（紅裳舞 Ver.）",
     series: "THE KING OF FIGHTERS '97",
@@ -1797,6 +1845,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "lego-21103-delorean",
+    addedAt: "2026-06-20",
     name: "LEGO Ideas The DeLorean Time Machine (21103)",
     series: "Back to the Future",
     character: "DeLorean Time Machine",
@@ -1835,6 +1884,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mecha-invasion-giant-legion-yellow",
+    addedAt: "2026-06-20",
     name: "Mecha Invasion GIANT LEGION Yellow Version Heavy Duty Builder 6-in-1 Combiner",
     series: "Mecha Invasion",
     character: "GIANT LEGION 黃色版合體金剛（Heavy Duty Builder）",
@@ -1863,6 +1913,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-stormbringer-pf",
+    addedAt: "2026-06-20",
     name: "MG 1/100 Gundam Stormbringer P.F.",
     series: "Mobile Suit Gundam Breaker Battlogue",
     character: "Gundam Stormbringer P.F.",
@@ -1887,6 +1938,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "fm-boost-raider-gundam",
+    addedAt: "2026-06-20",
     name: "Full Mechanics 1/100 GAT-XX370 Boost Raider Gundam",
     series: "Mobile Suit Gundam SEED ECLIPSE",
     character: "Boost Raider Gundam（GAT-XX370）",
@@ -1911,6 +1963,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "re100-base-jabber-unicorn",
+    addedAt: "2026-06-20",
     name: "RE/100 1/100 TYPE-89 Base Jabber (Unicorn Ver.)",
     series: "Mobile Suit Gundam Unicorn",
     character: "TYPE-89 Base Jabber",
@@ -1935,6 +1988,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-raijin-striker",
+    addedAt: "2026-06-20",
     name: "MG 1/100 Raijin Striker (for MG Eclipse Gundam)",
     series: "Mobile Suit Gundam SEED Freedom",
     character: "Raijin Striker（Eclipse 追加武裝）",
@@ -1959,6 +2013,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-lightning-striker",
+    addedAt: "2026-06-20",
     name: "MG 1/100 Lightning Striker (for MG Aile Strike Gundam)",
     series: "Mobile Suit Gundam SEED",
     character: "Lightning Striker（Strike 追加武裝）",
@@ -1988,6 +2043,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-justice-gundam",
+    addedAt: "2026-06-20",
     name: "Metal Build Justice Gundam",
     series: "Mobile Suit Gundam SEED",
     character: "Justice Gundam（GAT-X019）",
@@ -2017,6 +2073,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-victory-gundam-verka",
+    addedAt: "2026-06-20",
     name: "MG 1/100 LM-MS/V19 Victory Gundam Ver.Ka",
     series: "Mobile Suit Victory Gundam",
     character: "Victory Gundam（LM-MS/V19）",
@@ -2047,6 +2104,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-aegis-gundam",
+    addedAt: "2026-06-20",
     name: "MG 1/100 GAT-X303 Aegis Gundam",
     series: "Mobile Suit Gundam SEED",
     character: "Aegis Gundam（GAT-X303）",
@@ -2076,6 +2134,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-full-armor-zz-gundam-verka",
+    addedAt: "2026-06-20",
     name: "MG 1/100 MSZ-010S Full Armor ZZ Gundam Ver.Ka",
     series: "Mobile Suit Gundam ZZ",
     character: "Full Armor ZZ Gundam（MSZ-010S）",
@@ -2105,6 +2164,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-zaku2-j-ridden-custom",
+    addedAt: "2026-06-20",
     name: "MG 1/100 MS-06S Zaku II J.Ridden's Custom",
     series: "Mobile Suit Gundam (Principality of Zeon)",
     character: "MS-06S Zaku II J.Ridden's Custom",
@@ -2134,6 +2194,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "fm-aile-calamity-gundam",
+    addedAt: "2026-06-20",
     name: "Full Mechanics 1/100 GAT-X130 Aile Calamity Gundam",
     series: "Mobile Suit Gundam SEED ECLIPSE",
     character: "Aile Calamity Gundam（GAT-X130）",
@@ -2163,6 +2224,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-impulse-gundam-blanche",
+    addedAt: "2026-06-20",
     name: "MG 1/100 ZGMF-X56S/ι Impulse Gundam Blanche",
     series: "Mobile Suit Gundam SEED ASTRAY",
     character: "Impulse Gundam Blanche（ZGMF-X56S/ι）",
@@ -2192,6 +2254,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-duel-gundam-assault-shroud",
+    addedAt: "2026-06-20",
     name: "MG 1/100 GAT-X102 Duel Gundam Assault Shroud",
     series: "Mobile Suit Gundam SEED",
     character: "Duel Gundam Assault Shroud（GAT-X102）",
@@ -2221,6 +2284,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-aile-strike-gundam",
+    addedAt: "2026-06-20",
     name: "MG 1/100 GAT-X105+AQM/E-X01 Aile Strike Gundam",
     series: "Mobile Suit Gundam SEED",
     character: "Aile Strike Gundam（GAT-X105）",
@@ -2250,6 +2314,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-ex-impulse-manfred",
+    addedAt: "2026-06-20",
     name: "MG 1/100 Gundam EX-Impulse (Manfred's Mobile Suit)",
     series: "Mobile Suit Gundam Breaker Battlogue",
     character: "Gundam EX-Impulse",
@@ -2274,6 +2339,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-re-gz-unicorn-ver",
+    addedAt: "2026-06-20",
     name: "MG 1/100 RGZ-91 Re-GZ (Unicorn Ver.)",
     series: "Mobile Suit Gundam Unicorn",
     character: "Re-GZ（RGZ-91）",
@@ -2303,6 +2369,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-tallgeese-2",
+    addedAt: "2026-06-20",
     name: "MG 1/100 OZ-00MS II Tallgeese II",
     series: "Mobile Suit Gundam Wing",
     character: "Tallgeese II（OZ-00MS II）",
@@ -2336,6 +2403,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "moderoid-bismark",
+    addedAt: "2026-06-20",
     name: "MODEROID ビスマルク",
     nameJa: "MODEROID ビスマルク",
     series: "星銃士ビスマルク（Saber Rider and the Star Sheriffs）",
@@ -2363,6 +2431,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "freeing-miku-my-dear-bunny",
+    addedAt: "2026-06-20",
     name: "B-Style 初音ミク My Dear Bunny Ver.",
     series: "初音ミク -Project DIVA- Arcade Future Tone",
     character: "初音ミク（Hatsune Miku）",
@@ -2389,6 +2458,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-enhanced-zz-gundam-verka",
+    addedAt: "2026-06-20",
     name: "MG 1/100 MSZ-010S Enhanced ZZ Gundam Ver.Ka",
     series: "機動戦士ガンダムZZ（Mobile Suit Gundam ZZ）",
     character: "強化型ZZガンダム（Enhanced ZZ Gundam）",
@@ -2422,6 +2492,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "threezero-dlx-iron-man-mk6-battle-damaged",
+    addedAt: "2026-06-20",
     name: "Threezero DLX Iron Man Mark VI (Battle Damaged)",
     series: "Marvel Studios: Iron Man 2 / The Infinity Saga",
     character: "Iron Man Mark VI（Tony Stark）",
@@ -2456,6 +2527,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "taito-coreful-mahiru-school-uniform",
+    addedAt: "2026-06-21",
     name: "お隣の天使様にいつの間にか駄目人間にされていた件 Coreful フィギュア 椎名真昼～制服ver.～",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 Coreful フィギュア 椎名真昼～制服ver.～",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
@@ -2491,6 +2563,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "banpresto-mahiru-shiina",
+    addedAt: "2026-06-21",
     name: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼-",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼-",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
@@ -2521,6 +2594,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "banpresto-mahiru-relax-time",
+    addedAt: "2026-06-21",
     name: "お隣の天使様にいつの間にか駄目人間にされていた件 -Relax time- 椎名真昼",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 -Relax time- 椎名真昼",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
@@ -2551,6 +2625,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "banpresto-mahiru-onepiece",
+    addedAt: "2026-06-21",
     name: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼- ワンピースver.",
     nameJa: "お隣の天使様にいつの間にか駄目人間にされていた件 フィギュア -椎名真昼- ワンピースver.",
     series: "お隣の天使様にいつの間にか駄目人間にされていた件",
@@ -2583,6 +2658,7 @@ export const collection: CollectibleItem[] = [
   // ── 新入荷 ───────────────────────────────────────────────────────────────
   {
     id: "musha-gundam-mk2-tokugawa-nanban",
+    addedAt: "2026-06-22",
     name: "MG 1/100 武者ガンダムMk-II 徳川家康 南蛮胴具足Ver.",
     nameJa: "MG 1/100 武者ガンダムMk-II 徳川家康 南蛮胴具足Ver.",
     series: "SDガンダム 武者ガンダム",
@@ -2617,6 +2693,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "volks-dd-nier-automata",
+    addedAt: "2026-06-22",
     name: "ドルフィードリームダイナマイト NieR:Automata YoRHa二号B型（2B）",
     nameJa: "ドルフィードリームダイナマイト NieR:Automata YoRHa二号B型（2B）",
     series: "NieR:Automata",
@@ -2651,6 +2728,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendo-suisei-sailor-outfit",
+    addedAt: "2026-06-22",
     name: "ねんどろいど 星街すいせい セーラー服Ver.",
     nameJa: "ねんどろいど 星街すいせい セーラー服Ver.",
     series: "星街すいせい（Hoshimachi Suisei）/ hololive production",
@@ -2671,6 +2749,7 @@ export const collection: CollectibleItem[] = [
   // ── Macross Yamato / Arcadia ───────────────────────────────────────────────
   {
     id: "plamax-mf98-yf29-galaxy-set",
+    addedAt: "2026-06-25",
     name: "PLAMAX MF-98 minimum factory 機首コレクション YF-29 GALAXY SET",
     nameJa: "PLAMAX MF-98 minimum factory 機首コレクション YF-29 GALAXY SET",
     series: "マクロスF GALAXY LIVE☆FINAL 2025記念",
@@ -2700,6 +2779,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "arcadia-vf1j-30th-anniversary",
+    addedAt: "2026-06-23",
     name: "1/60 完全変形 VF-1J バルキリー 30周年記念塗装機",
     nameJa: "1/60 完全変形 VF-1J バルキリー 30周年記念塗装機",
     series: "超時空要塞マクロス（Macross, 1982）",
@@ -2729,6 +2809,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf0a-macross-zero",
+    addedAt: "2026-06-23",
     name: "1/60 完全変形 VF-0A フェニックス（ロイ・フォッカー機）",
     nameJa: "1/60 完全変形 VF-0A フェニックス（ロイ・フォッカー機）",
     series: "マクロス・ゼロ（Macross Zero, 2002）",
@@ -2758,6 +2839,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "arcadia-vf19-custom-sound-booster-40th",
+    addedAt: "2026-06-23",
     name: "1/60 完全変形 VF-19改 ファイヤーバルキリー with Sound Booster 熱気バサラ機 マクロス7 40周年記念版",
     nameJa: "1/60 完全変形 VF-19改 ファイヤーバルキリー with Sound Booster 熱気バサラ機 マクロス7 40周年記念版",
     series: "マクロス7（Macross 7, 1994）",
@@ -2787,6 +2869,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "arcadia-vf4a-lightning-iii",
+    addedAt: "2026-06-23",
     name: "1/60 完全変形 VF-4A ライトニングIII",
     nameJa: "1/60 完全変形 VF-4A ライトニングIII",
     series: "超時空要塞マクロス Flash Back 2012（1987）",
@@ -2818,6 +2901,7 @@ export const collection: CollectibleItem[] = [
   // ── Nendoroid ─────────────────────────────────────────────────────────────
   {
     id: "nendoroid-snow-miku-crystal-snow-2026",
+    addedAt: "2026-06-23",
     name: "ねんどろいど 雪ミク Crystal Snow ver.",
     nameJa: "ねんどろいど 雪ミク Crystal Snow ver.",
     series: "初音ミク（Hatsune Miku）",
@@ -2850,6 +2934,7 @@ export const collection: CollectibleItem[] = [
   // ── VA 30-SPEC ────────────────────────────────────────────────────────────
   {
     id: "va-30spec-super-granzort",
+    addedAt: "2026-06-23",
     name: "VA 30-SPEC スーパーグランゾート",
     nameJa: "VA 30-SPEC スーパーグランゾート",
     series: "魔動王グランゾート（Mahou Ou Granzort, 1989）",
@@ -2881,6 +2966,7 @@ export const collection: CollectibleItem[] = [
   // ── Gunpla ────────────────────────────────────────────────────────────────
   {
     id: "hg-gundam-calibarn",
+    addedAt: "2026-06-23",
     name: "HG 1/144 ガンダム・キャリバーン",
     nameJa: "HG 1/144 ガンダム・キャリバーン",
     series: "機動戦士ガンダム 水星の魔女（The Witch from Mercury）",
@@ -2910,6 +2996,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-unicorn-banshee-norn-final-battle",
+    addedAt: "2026-06-23",
     name: "RG 1/144 ユニコーンガンダム02 バンシィ・ノルン [最終決戦Ver.]",
     nameJa: "RG 1/144 ユニコーンガンダム02 バンシィ・ノルン [最終決戦Ver.]",
     series: "機動戦士ガンダムUC（Gundam Unicorn）",
@@ -2939,6 +3026,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-exia-repair-iii",
+    addedAt: "2026-06-23",
     name: "RG 1/144 ガンダムエクシア リペアIII",
     nameJa: "RG 1/144 ガンダムエクシア リペアIII",
     series: "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-（2010）",
@@ -2968,6 +3056,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-gself-perfect-pack",
+    addedAt: "2026-06-23",
     name: "HG 1/144 Gセルフ [パーフェクトパック装備型]",
     nameJa: "HG 1/144 Gセルフ [パーフェクトパック装備型]",
     series: "ガンダム Gのレコンギスタ（Gundam Reconguista in G）",
@@ -2999,6 +3088,7 @@ export const collection: CollectibleItem[] = [
   // ── threezero DLX Marvel ──────────────────────────────────────────────────
   {
     id: "dlx-iron-man-mark2",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark II",
     nameJa: "threezero DLX アイアンマン マーク2",
     series: "Marvel Cinematic Universe / Iron Man (2008)",
@@ -3028,6 +3118,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark3",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark III",
     nameJa: "threezero DLX アイアンマン マーク3",
     series: "Marvel Cinematic Universe / Iron Man (2008)",
@@ -3057,6 +3148,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark4",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark IV",
     nameJa: "threezero DLX アイアンマン マーク4",
     series: "Marvel Cinematic Universe / Iron Man 2 (2010)",
@@ -3086,6 +3178,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark6",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark VI",
     nameJa: "threezero DLX アイアンマン マーク6",
     series: "Marvel Cinematic Universe / Iron Man 2 (2010)",
@@ -3115,6 +3208,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark7",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark VII",
     nameJa: "threezero DLX アイアンマン マーク7",
     series: "Marvel Cinematic Universe / The Avengers (2012)",
@@ -3144,6 +3238,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "threezero-dlx-iron-man-mk7-battle-damaged",
+    addedAt: "2026-06-25",
     name: "threezero DLX 鋼鐵人 Mark VII「Battle Damaged」",
     nameJa: "threezero DLX アイアンマン マーク7「バトルダメージ版」",
     series: "Marvel Cinematic Universe / The Avengers (2012)",
@@ -3161,6 +3256,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark21-midas",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark XXI「Midas」",
     nameJa: "threezero DLX アイアンマン マーク21「ミダス」",
     series: "Marvel Cinematic Universe / Iron Man 3 (2013)",
@@ -3190,6 +3286,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark42",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark XLII",
     nameJa: "threezero DLX アイアンマン マーク42",
     series: "Marvel Cinematic Universe / Iron Man 3 (2013)",
@@ -3219,6 +3316,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark43",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark XLIII",
     nameJa: "threezero DLX アイアンマン マーク43",
     series: "Marvel Cinematic Universe / Avengers: Age of Ultron (2015)",
@@ -3248,6 +3346,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark46",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark XLVI",
     nameJa: "threezero DLX アイアンマン マーク46",
     series: "Marvel Cinematic Universe / Captain America: Civil War (2016)",
@@ -3277,6 +3376,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark50",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark L",
     nameJa: "threezero DLX アイアンマン マーク50",
     series: "Marvel Cinematic Universe / Avengers: Infinity War (2018)",
@@ -3306,6 +3406,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark50-accessory-pack",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark L 配件包",
     nameJa: "threezero DLX アイアンマン マーク50 アクセサリーパック",
     series: "Marvel Cinematic Universe / Avengers: Infinity War (2018)",
@@ -3329,6 +3430,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark85",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark LXXXV",
     nameJa: "threezero DLX アイアンマン マーク85",
     series: "Marvel Cinematic Universe / Avengers: Endgame (2019)",
@@ -3358,6 +3460,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-patriot",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵愛國者（Iron Patriot）",
     nameJa: "threezero DLX アイアン・パトリオット",
     series: "Marvel Cinematic Universe / Iron Man 3 (2013)",
@@ -3387,6 +3490,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-war-machine-mark2",
+    addedAt: "2026-06-23",
     name: "threezero DLX 戰爭機器 Mark II",
     nameJa: "threezero DLX ウォーマシン マーク2",
     series: "Marvel Cinematic Universe / Iron Man 2 (2010)",
@@ -3416,6 +3520,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-spider",
+    addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵蜘蛛人（Iron Spider）",
     nameJa: "threezero DLX アイアン・スパイダー",
     series: "Marvel Cinematic Universe / Avengers: Infinity War (2018)",
@@ -3445,6 +3550,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-black-panther",
+    addedAt: "2026-06-23",
     name: "threezero DLX 黑豹（Black Panther）",
     nameJa: "threezero DLX ブラックパンサー",
     series: "Marvel Cinematic Universe / Black Panther (2018)",
@@ -3474,6 +3580,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-hulkbuster",
+    addedAt: "2026-06-23",
     name: "threezero DLX 浩克剋星（Hulkbuster）",
     nameJa: "threezero DLX ハルクバスター",
     series: "Marvel Cinematic Universe / Avengers: Age of Ultron (2015)",
@@ -3503,6 +3610,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-msz006-3-zeta-karaba",
+    addedAt: "2026-06-26",
     name: "RG 1/144 MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
     nameJa: "RG 1/144 MSZ-006-3 ゼータガンダム カラバ強攻型プロトタイプ",
     series: "機動戦士Ζガンダム（Mobile Suit Zeta Gundam）MSV",
@@ -3532,6 +3640,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "alter-rider-altria-alter-fgo",
+    addedAt: "2026-06-26",
     name: "ALTER ライダー／アルトリア・ペンドラゴン〔オルタ〕 1/7",
     nameJa: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
     series: "Fate/Grand Order",
@@ -3566,6 +3675,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "kotobukiya-saber-altria-alter-casual",
+    addedAt: "2026-06-26",
     name: "セイバー／アルトリア・ペンドラゴン〔オルタ〕私服ver.",
     nameJa: "セイバー／アルトリア・ペンドラゴン〔オルタ〕私服ver.",
     series: "Fate/Grand Order",
@@ -3595,6 +3705,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gsc-sheryl-nome-anniversary-stage",
+    addedAt: "2026-06-26",
     name: "シェリル・ノーム ～Anniversary Stage Ver.～",
     nameJa: "シェリル・ノーム ～Anniversary Stage Ver.～",
     series: "マクロスF（Macross Frontier）",
@@ -3630,6 +3741,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "max-factory-asuna-ichinose-bunny",
+    addedAt: "2026-06-26",
     name: "一之瀬アスナ（バニーガール）",
     nameJa: "一之瀬アスナ（バニーガール）",
     series: "ブルーアーカイブ（Blue Archive）",
@@ -3665,6 +3777,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "amakuni-rider-altria-alter-fgo",
+    addedAt: "2026-06-26",
     name: "AMAKUNI ライダー／アルトリア・ペンドラゴン〔オルタ〕 1/7",
     nameJa: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
     series: "Fate/Grand Order",
@@ -3694,6 +3807,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "max-factory-cerberus-bahamut",
+    addedAt: "2026-06-26",
     name: "ケルベロス",
     nameJa: "ケルベロス",
     series: "神撃のバハムート（Rage of Bahamut）",
@@ -3718,6 +3832,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "max-factory-sheryl-nome-itswari",
+    addedAt: "2026-06-26",
     name: "シェリル・ノーム（劇場版マクロスF ～イツワリノウタヒメ～）",
     nameJa: "シェリル・ノーム",
     series: "劇場版マクロスF～イツワリノウタヒメ～",
@@ -3742,6 +3857,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-ghostblade-haiqinyan-encounter",
+    addedAt: "2026-06-26",
     name: "BearPanda 鬼刀 海琴烟《邂逅》",
     nameJa: "鬼刀 海琴煙《邂逅》",
     series: "鬼刀（Ghost Blade）",
@@ -3772,6 +3888,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-ghostblade-fengling-encounter",
+    addedAt: "2026-06-26",
     name: "BearPanda 鬼刀 風玲《邂逅》",
     nameJa: "鬼刀 風鈴《邂逅》",
     series: "鬼刀（Ghost Blade）",
@@ -3796,6 +3913,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-evangelion-rei-ayanami-14",
+    addedAt: "2026-06-26",
     name: "BearPanda 新世紀福音戰士 綾波零 1/4 珍藏手辦",
     nameJa: "新世紀エヴァンゲリオン 綾波レイ 1/4フィギュア",
     series: "新世紀エヴァンゲリオン（Neon Genesis Evangelion）",
@@ -3820,6 +3938,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "kotobukiya-azurlane-taihou-17",
+    addedAt: "2026-06-27",
     name: "Kotobukiya 碧藍航線 大鳳 1/7",
     nameJa: "碧蓝航线 大鳳 1/7スケールフィギュア【コトブキヤショップ限定品】",
     series: "碧藍航線（Azur Lane）",
@@ -3844,6 +3963,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "alter-xenosaga-iii-t-elos",
+    addedAt: "2026-06-28",
     name: "Xenosaga Ⅲ T-elos",
     nameJa: "ゼノサーガ エピソードIII T-elos",
     series: "ゼノサーガ エピソードIII〈ツァラトゥストラはかく語りき〉（Xenosaga Episode III）",
@@ -3864,6 +3984,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "alter-xenosaga-iii-kos-mos-ver4",
+    addedAt: "2026-06-27",
     name: "Xenosaga Ⅲ KOS-MOS Ver.4",
     nameJa: "ゼノサーガ エピソードIII KOS-MOS Ver.4",
     series: "ゼノサーガ エピソードIII〈ツァラトゥストラはかく語りき〉（Xenosaga Episode III）",
@@ -3894,6 +4015,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gsc-saber-alter-huke-collab",
+    addedAt: "2026-06-27",
     name: "セイバー・オルタ huke コラボパッケージ",
     nameJa: "セイバー・オルタ huke コラボパッケージ",
     series: "Fate/stay night",
@@ -3923,6 +4045,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "chogokin-msn04ff-sazabi",
+    addedAt: "2026-06-27",
     name: "超合金 MSN-04FF サザビー",
     nameJa: "超合金 MSN-04FF サザビー",
     series: "機動戦士ガンダム 逆襲のシャア（Mobile Suit Gundam: Char's Counterattack）",
@@ -3952,6 +4075,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "kdcolle-kumo-arachne-shiraori",
+    addedAt: "2026-06-27",
     name: "原作版「私」アラクネ／白織 1/7スケールフィギュア",
     nameJa: "KDcolle『蜘蛛ですが、なにか？』原作版「私」アラクネ／白織 1/7スケールフィギュア",
     series: "蜘蛛ですが、なにか？（So I'm a Spider, So What?）",
@@ -3981,6 +4105,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gsc-fgo-saber-alter-cuirassier-noir",
+    addedAt: "2026-06-27",
     name: "セイバー/アルトリア・ペンドラゴン〔オルタ〕＆キュイラッシェ・ノワール",
     nameJa: "セイバー/アルトリア・ペンドラゴン〔オルタ〕＆キュイラッシェ・ノワール",
     series: "Fate/Grand Order",
@@ -4005,6 +4130,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-rx78-2-ver2-miku",
+    addedAt: "2026-06-27",
     name: "RG 1/144 RX-78-2 ガンダム Ver.2.0 ［初音ミク Ver.］",
     nameJa: "RG 1/144 RX-78-2 ガンダム Ver.2.0 ［初音ミク Ver.］",
     series: "機動戦士ガンダム × 初音ミク（Mobile Suit Gundam × Hatsune Miku）",
@@ -4023,6 +4149,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-full-armor-unicorn",
+    addedAt: "2026-06-27",
     name: "RG 1/144 フルアーマー・ユニコーンガンダム",
     nameJa: "RG 1/144 フルアーマー・ユニコーンガンダム",
     series: "機動戦士ガンダムUC（Mobile Suit Gundam Unicorn）",
@@ -4053,6 +4180,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-shiranui-akatsuki",
+    addedAt: "2026-06-27",
     name: "RG 1/144 アカツキガンダム用 シラヌイ装備 ＆ HGゼウスシルエット用接続パーツ",
     nameJa: "RG 1/144 アカツキガンダム用 シラヌイ装備 ＆ HGゼウスシルエット用接続パーツ",
     series: "機動戦士ガンダムSEED FREEDOM（Mobile Suit Gundam SEED Freedom）",
@@ -4083,6 +4211,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-gundam-zirius",
+    addedAt: "2026-06-27",
     name: "HG 1/144 EES-001 ガンダムジリウス",
     nameJa: "HG 1/144 EES-001 ガンダムジリウス",
     series: "機動戦士ガンダムエイト（Mobile Suit Gundam Eight）",
@@ -4113,6 +4242,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-astray-noir",
+    addedAt: "2026-06-27",
     name: "MG 1/100 MBF-P0X ガンダムアストレイ ノワール",
     nameJa: "MG 1/100 MBF-P0X ガンダムアストレイ ノワール",
     series: "機動戦士ガンダムSEED DESTINY ASTRAY B",
@@ -4137,6 +4267,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dlx-iron-man-mark3-battle-damaged",
+    addedAt: "2026-06-27",
     name: "threezero DLX 鋼鐵人 Mark III（戰損版）",
     nameJa: "threezero DLX アイアンマン マーク3（バトルダメージ）",
     series: "Marvel Cinematic Universe / Iron Man（2008）",
@@ -4155,6 +4286,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "macross7-ultra-fire-vinyl",
+    addedAt: "2026-06-27",
     name: "マクロス7 ULTRA FIRE!! / FIRE BOMBER BEST ALBUM（2LP カラーヴァイナル）",
     nameJa: "マクロス7 ULTRA FIRE!! / FIRE BOMBER BEST ALBUM",
     series: "超時空要塞マクロス7（Macross 7, 1994-1995）",
@@ -4173,6 +4305,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "suisei-specter-vinyl",
+    addedAt: "2026-06-27",
     name: "Specter（スペクター）",
     nameJa: "Specter（スペクター）",
     series: "星街すいせい（Hoshimachi Suisei）",
@@ -4191,6 +4324,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "suisei-stillstillstellar-vinyl",
+    addedAt: "2026-06-27",
     name: "Still Still Stellar（スチル スチル ステラー）",
     nameJa: "Still Still Stellar（スチル スチル ステラー）",
     series: "星街すいせい（Hoshimachi Suisei）",
@@ -4209,6 +4343,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "proplica-nichirin-sword-shinobu-kocho",
+    addedAt: "2026-06-28",
     name: "PROPLICA 日輪刀（胡蝶しのぶ）",
     nameJa: "PROPLICA 日輪刀（胡蝶しのぶ）",
     series: "鬼滅の刃（Demon Slayer: Kimetsu no Yaiba）",
@@ -4229,6 +4364,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "macrossf-nanajyo-greatest-vinyl",
+    addedAt: "2026-06-27",
     name: "マクロスF オールタイムベストアルバム「娘々グレイテスト☆ヒッツ！」（アナログ盤 3LP）",
     nameJa: "マクロスF オールタイムベストアルバム「娘々グレイテスト☆ヒッツ！」",
     series: "マクロスF（Macross Frontier, 2008）",
@@ -4247,6 +4383,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dds-sailor-mercury",
+    addedAt: "2026-06-29",
     name: "DDS セーラーマーキュリー",
     nameJa: "DDS セーラーマーキュリー",
     series: "美少女戦士セーラームーン",
@@ -4282,6 +4419,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-v2-gundam-ver-ka",
+    addedAt: "2026-06-29",
     name: "MG 1/100 LM314V21 勝利二式鋼彈 Ver.Ka",
     nameJa: "MG 1/100 LM314V21 勝利二式鋼彈 Ver.Ka",
     series: "機動戦士Vガンダム",
@@ -4321,6 +4459,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-v2-assault-buster-expansion",
+    addedAt: "2026-06-29",
     name: "MG 1/100 勝利二式突擊殲滅鋼彈 Ver.Ka 擴充套件",
     nameJa: "MG 1/100 勝利二式突擊殲滅鋼彈 Ver.Ka 擴充套件",
     series: "機動戦士Vガンダム",
@@ -4360,6 +4499,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "excellent-model-klan-klang-armored",
+    addedAt: "2026-06-29",
     name: "クラン・クラン アーマード ver.",
     nameJa: "クラン・クラン アーマード ver.",
     series: "マクロスF（Macross Frontier）",
@@ -4390,6 +4530,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "max-factory-kotona-elegance",
+    addedAt: "2026-06-29",
     name: "コトナ・エレガンス 1/7",
     nameJa: "コトナ・エレガンス 1/7",
     series: "ゾイドジェネシス",
@@ -4419,6 +4560,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-qubeley-damned",
+    addedAt: "2026-06-29",
     name: "MG 1/100 AMX-004DMD キュベレイダムド",
     nameJa: "MG 1/100 AMX-004DMD キュベレイダムド",
     series: "ガンダムビルドダイバーズ GBWC",
@@ -4447,6 +4589,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-hyaku-shiki-crash",
+    addedAt: "2026-06-29",
     name: "MG 1/100 MSR-00100CR 百式クラッシュ",
     nameJa: "MG 1/100 MSR-00100CR 百式クラッシュ",
     series: "ガンダムビルドダイバーズ GBWC",
@@ -4481,6 +4624,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-qubeley-embellir",
+    addedAt: "2026-06-29",
     name: "MG 1/100 キュベレイ・アンベリール",
     nameJa: "MG 1/100 キュベレイ・アンベリール",
     series: "ガンダムビルドダイバーズ GBWC",
@@ -4515,6 +4659,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "evolution-toy-vf2ss-sap",
+    addedAt: "2026-06-29",
     name: "1/60 VF-2SS バルキリーII スーパーアームドパック",
     nameJa: "1/60 VF-2SS バルキリーII スーパーアームドパック",
     series: "超時空要塞マクロスII -LOVERS AGAIN-",
@@ -4544,6 +4689,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "evolution-toy-vf2ss-silvie",
+    addedAt: "2026-06-29",
     name: "1/60 VF-2SS バルキリーII シルビー・ジーナ機",
     nameJa: "1/60 VF-2SS バルキリーII シルビー・ジーナ機",
     series: "超時空要塞マクロスII -LOVERS AGAIN-",
@@ -4579,6 +4725,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf17s-diamond-force",
+    addedAt: "2026-06-29",
     name: "1/60 完全変形 VF-17S ダイヤモンドフォースカラー",
     nameJa: "1/60 完全変形 VF-17S ダイヤモンドフォースカラー",
     series: "マクロス7",
@@ -4614,6 +4761,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf17-super-pack",
+    addedAt: "2026-06-29",
     name: "1/60 VF-17用スーパーパック（マクロス30周年記念）",
     nameJa: "1/60 VF-17用スーパーパック（マクロス30周年記念）",
     series: "マクロス7 / マクロス30周年記念",
@@ -4643,6 +4791,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf1-super-strike-parts-48",
+    addedAt: "2026-06-29",
     name: "1/48 VF-1バルキリー スーパー＆ストライクパーツ",
     nameJa: "1/48 VF-1バルキリー スーパー＆ストライクパーツ",
     series: "超時空要塞マクロス 愛・おぼえていますか",
@@ -4672,6 +4821,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yes-model-patron-saint",
+    addedAt: "2026-06-29",
     name: "YES-MODEL 守護神 Patron Saint",
     nameJa: "YES-MODEL パトロンセイント（守護神）",
     series: "トランスフォーマー G1",
@@ -4696,6 +4846,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mgex-unicorn-gundam-ver-ka",
+    addedAt: "2026-06-29",
     name: "MGEX 1/100 ユニコーンガンダム Ver.Ka",
     nameJa: "MGEX 1/100 ユニコーンガンダム Ver.Ka",
     series: "機動戦士ガンダムUC（Gundam Unicorn）",
@@ -4736,6 +4887,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "tfc-toys-sg-perseus",
+    addedAt: "2026-06-29",
     name: "TFC Toys S.G. Perseus 珀修斯",
     nameJa: "TFC Toys S.G. ペルセウス（ハーキュリーズ SG版）",
     series: "トランスフォーマー G1（Shattered Glass）",
@@ -4760,6 +4912,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-tenryujin",
+    addedAt: "2026-06-29",
     name: "SUPER MINIPLA 勇者王GaoGaiGar 天龍神",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー 天竜神",
     series: "勇者王ガオガイガーFINAL",
@@ -4783,6 +4936,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-srx-tenka-muteki",
+    addedAt: "2026-06-29",
     name: "SMP スーパーロボット大戦OG SRX 天下無敵のオプションパーツセット",
     nameJa: "SMP スーパーロボット大戦OG SRX 天下無敵のオプションパーツセット",
     series: "スーパーロボット大戦OG（Original Generations）",
@@ -4800,6 +4954,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "moshow-weiguogong-mct-ap04",
+    addedAt: "2026-07-01",
     name: "至臻級·衛國公 WEIGUOGONG",
     nameJa: "WEIGUOGONG",
     series: "先祖效應（Progenitor Effect）",
@@ -4840,6 +4995,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az12-geno-breaker",
+    addedAt: "2026-07-01",
     name: "ゾイド AZ-12 ジェノブレイカー",
     nameJa: "ゾイド AZ-12 ジェノブレイカー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -4880,6 +5036,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az01ex-blade-liger-leon",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-01EX ブレードライガー レオン・トロス仕様",
     nameJa: "ゾイド AZ-01EX ブレードライガー レオン・トロス仕様",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -4903,6 +5060,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az02ex-liger-zero-ray-greg",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-02EX ライガーゼロ レイ・グレック仕様（共和国カラー）",
     nameJa: "ゾイド AZ-02EX ライガーゼロ レイ・グレック仕様（共和国カラー）",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -4932,6 +5090,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az02ex2-liger-zero-empire",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-02EX2 ライガーゼロ 帝国仕様",
     nameJa: "ゾイド AZ-02EX2 ライガーゼロ 帝国仕様",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -4949,6 +5108,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az02ex3-type-zero-armor",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-02EX3 ライガーゼロ専用 タイプゼロアーマー",
     nameJa: "ゾイド AZ-02EX3 ライガーゼロ専用 タイプゼロアーマー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -4966,6 +5126,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az03ex-murasame-liger-original",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-03EX ムラサメライガー オリジナルカラー",
     nameJa: "ゾイド AZ-03EX ムラサメライガー オリジナルカラー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -4983,6 +5144,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az06ex-phoenix-republic",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-06EX フェニックス 共和国仕様",
     nameJa: "ゾイド AZ-06EX フェニックス 共和国仕様",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5000,6 +5162,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az10ex-sea-panther-dark-army",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-10EX シーパンツァー 暗黒軍仕様",
     nameJa: "ゾイド AZ-10EX シーパンツァー 暗黒軍仕様",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5017,6 +5180,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az14ex-liger-zero-x-unit",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-14EX ライガーゼロ専用 イクスユニット",
     nameJa: "ゾイド AZ-14EX ライガーゼロ専用 イクスユニット",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5034,6 +5198,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az16ex-jager-unit-original",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-16EX ライガーゼロ専用 イエーガーユニット オリジナルカラー",
     nameJa: "ゾイド AZ-16EX ライガーゼロ専用 イエーガーユニット オリジナルカラー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5051,6 +5216,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az01-blade-liger",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-01 ブレードライガー",
     nameJa: "ゾイド AZ-01 ブレードライガー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5074,6 +5240,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az02-liger-zero",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-02 ライガーゼロ",
     nameJa: "ゾイド AZ-02 ライガーゼロ",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5097,6 +5264,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az03-murasame-liger",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-03 ムラサメライガー",
     nameJa: "ゾイド AZ-03 ムラサメライガー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5120,6 +5288,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az04-shield-liger",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-04 シールドライガー",
     nameJa: "ゾイド AZ-04 シールドライガー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5143,6 +5312,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az05-saber-tiger",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-05 セイバータイガー",
     nameJa: "ゾイド AZ-05 セイバータイガー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5172,6 +5342,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az06-liger-zero-phoenix",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-06 ライガーゼロフェニックス",
     nameJa: "ゾイド AZ-06 ライガーゼロフェニックス",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5195,6 +5366,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az07-death-saurer",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-07 デスザウラー",
     nameJa: "ゾイド AZ-07 デスザウラー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5218,6 +5390,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az08-molga",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-08 モルガ",
     nameJa: "ゾイド AZ-08 モルガ",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5241,6 +5414,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az09-geno-saurer",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-09 ジェノザウラー",
     nameJa: "ゾイド AZ-09 ジェノザウラー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5264,6 +5438,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az10-sea-panther",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-10 シーパンツァー",
     nameJa: "ゾイド AZ-10 シーパンツァー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5287,6 +5462,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az11-command-wolf",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-11 コマンドウルフ",
     nameJa: "ゾイド AZ-11 コマンドウルフ",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5310,6 +5486,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az13-canory-molga",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-13 キャノリーモルガ",
     nameJa: "ゾイド AZ-13 キャノリーモルガ",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5333,6 +5510,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az14-liger-zero-x",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-14 ライガーゼロイクス",
     nameJa: "ゾイド AZ-14 ライガーゼロイクス",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5356,6 +5534,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az15-psycho-geno-saurer",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-15 サイコジェノザウラー",
     nameJa: "ゾイド AZ-15 サイコジェノザウラー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5379,6 +5558,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az16-liger-zero-jager",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-16 ライガーゼロイエーガー",
     nameJa: "ゾイド AZ-16 ライガーゼロイエーガー",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5402,6 +5582,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "zoids-az17dx-ultrasaurus-gravity-cannon",
+    addedAt: "2026-07-08",
     name: "ゾイド AZ-17DX ウルトラザウルス グラビティカノン仕様（ムンベイ仕様）",
     nameJa: "ゾイド AZ-17DX ウルトラザウルス グラビティカノン仕様（ムンベイ仕様）",
     series: "ZOIDS（ゾイド）／ADVANCED Zi シリーズ",
@@ -5420,6 +5601,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "csm-kabuto-zecter-ver1-5",
+    addedAt: "2026-07-08",
     name: "CSM カブトゼクター ver.1.5",
     nameJa: "CSM カブトゼクター ver.1.5",
     series: "仮面ライダーカブト（Kamen Rider Kabuto）",
@@ -5449,6 +5631,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "csm-kabuto-zecter-display-stand",
+    addedAt: "2026-07-08",
     name: "假面騎士 CSM カブトゼクター專用 ディスプレイ台座 KABUTOZECTER EDITION",
     nameJa: "ディスプレイ台座 KABUTOZECTER EDITION",
     series: "仮面ライダーカブト（Kamen Rider Kabuto）",
@@ -5466,6 +5649,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-hyaku-shiki-ver2-mechanical-core",
+    addedAt: "2026-07-01",
     name: "MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]",
     nameJa: "MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]",
     series: "機動戦士Ζガンダム",
@@ -5506,6 +5690,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-asuna-ichinose-2611",
+    addedAt: "2026-07-01",
     name: "ねんどろいど 一之瀬アスナ",
     nameJa: "ねんどろいど 一之瀬アスナ",
     series: "ブルーアーカイブ -Blue Archive-",
@@ -5546,6 +5731,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-karin-kakudate-2853",
+    addedAt: "2026-07-01",
     name: "ねんどろいど 角楯カリン",
     nameJa: "ねんどろいど 角楯カリン",
     series: "ブルーアーカイブ -Blue Archive-",
@@ -5570,6 +5756,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hasuki-pa009-friede-sp",
+    addedAt: "2026-07-01",
     name: "pocket artシリーズ PA009 サキュバスシスター フリーデ SP版",
     nameJa: "pocket artシリーズ PA009 サキュバスシスター フリーデ SP版",
     series: "pocket art シリーズ（オリジナル / HASUKI・神猫跳動）",
@@ -5610,6 +5797,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-barbatos-lupus-expansion-parts",
+    addedAt: "2026-07-01",
     name: "MG 1/100 ガンダムバルバトスルプス用 拡張パーツセット",
     nameJa: "MG 1/100 ガンダムバルバトスルプス用 拡張パーツセット",
     series: "機動戦士ガンダム 鉄血のオルフェンズ（Mobile Suit Gundam: Iron-Blooded Orphans）",
@@ -5649,6 +5837,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-graze-ein",
+    addedAt: "2026-07-01",
     name: "HG 1/144 グレイズアイン",
     nameJa: "HG 1/144 グレイズアイン",
     series: "機動戦士ガンダム 鉄血のオルフェンズ（Mobile Suit Gundam: Iron-Blooded Orphans）",
@@ -5688,6 +5877,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-graze-ritter-carta",
+    addedAt: "2026-07-01",
     name: "HG 1/144 グレイズリッター（カルタ機）",
     nameJa: "HG 1/144 グレイズリッター（カルタ機）",
     series: "機動戦士ガンダム 鉄血のオルフェンズ（Mobile Suit Gundam: Iron-Blooded Orphans）",
@@ -5727,6 +5917,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-astray-gold-frame",
+    addedAt: "2026-07-01",
     name: "RG 1/144 ガンダムアストレイ ゴールドフレーム",
     nameJa: "RG 1/144 ガンダムアストレイ ゴールドフレーム",
     series: "機動戦士ガンダムSEED ASTRAY（Mobile Suit Gundam SEED Astray）",
@@ -5750,6 +5941,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "sd-legend-bb-victory-daishogun",
+    addedAt: "2026-07-01",
     name: "LEGEND BB 飛駆鳥大将軍",
     nameJa: "LEGEND BB 飛駆鳥大将軍",
     series: "真・SD戦国伝 七人の超将軍編（Shin SD Sengokuden: Legend of the Seven Super Generals）",
@@ -5789,6 +5981,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-x-unit3",
+    addedAt: "2026-07-01",
     name: "MG 1/100 ガンダムX3号機",
     nameJa: "MG 1/100 ガンダムX3号機",
     series: "機動新世紀ガンダムX（After War Gundam X）",
@@ -5823,6 +6016,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-rezel-typec-defenser-ab",
+    addedAt: "2026-07-01",
     name: "MG 1/100 RGZ-95C リゼルC型(ディフェンサーa+bユニット/ゼネラル・レビル配備機)",
     nameJa: "MG 1/100 RGZ-95C リゼルC型(ディフェンサーa+bユニット/ゼネラル・レビル配備機)",
     series: "機動戦士ガンダムUC（Mobile Suit Gundam Unicorn）",
@@ -5862,6 +6056,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-gekiryujin",
+    addedAt: "2026-07-01",
     name: "HG 撃龍神",
     nameJa: "HG 撃龍神",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -5896,6 +6091,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-am-gunner",
+    addedAt: "2026-07-01",
     name: "HG AMガンナー",
     nameJa: "HG AMガンナー",
     series: "スーパーロボット大戦OG（Super Robot Wars Original Generation）",
@@ -5936,6 +6132,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-nu-gundam-double-fin-funnel",
+    addedAt: "2026-07-01",
     name: "RG 1/144 νガンダム(ダブル・フィン・ファンネル装備型)",
     nameJa: "RG 1/144 νガンダム(ダブル・フィン・ファンネル装備型)",
     series: "機動戦士ガンダム 逆襲のシャア（Char's Counterattack）",
@@ -5964,6 +6161,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-rick-dom-gaia-ortega-gq",
+    addedAt: "2026-07-01",
     name: "HG 1/144 リック・ドム ガイア機/オルテガ機(GQ)",
     nameJa: "HG 1/144 リック・ドム ガイア機/オルテガ機(GQ)",
     series: "機動戦士Gundam GQuuuuuuX",
@@ -6003,6 +6201,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "asurada-vsx-r",
+    addedAt: "2026-07-01",
     name: "ヴァリアブルアクション バリエーションズ 新世紀GPXサイバーフォーミュラ アスラーダV.S.X-R",
     nameJa: "ヴァリアブルアクション バリエーションズ 新世紀GPXサイバーフォーミュラ アスラーダV.S.X-R",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
@@ -6032,6 +6231,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "kasumigaoka-utaha-japanese-clothes",
+    addedAt: "2026-07-01",
     name: "霞ヶ丘詩羽 和服ver.",
     nameJa: "霞ヶ丘詩羽 和服ver.",
     series: "冴えない彼女の育てかた",
@@ -6067,6 +6267,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "aliceliese-lou-nebulis-original-dress",
+    addedAt: "2026-07-03",
     name: "アリスリーゼ・ルゥ・ネビュリス9世 オリジナルドレスVer.",
     nameJa: "アリスリーゼ・ルゥ・ネビュリス9世 オリジナルドレスVer.",
     series: "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
@@ -6097,6 +6298,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-macross-zero-vf0s",
+    addedAt: "2026-07-03",
     name: "1/60 完全変形 VF-0S フェニックス（ロイ・フォッカー機）",
     nameJa: "1/60 完全変形 VF-0S フェニックス（ロイ・フォッカー機）",
     series: "マクロスゼロ",
@@ -6115,6 +6317,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "saekano-utaha-white-dress-1-7",
+    addedAt: "2026-07-03",
     name: "霞ヶ丘詩羽",
     nameJa: "霞ヶ丘詩羽",
     series: "冴えない彼女の育てかた♭",
@@ -6144,6 +6347,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-legioss-afc01h",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/48 AFC-01H レギオス・エータ",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/48 AFC-01H レギオス・エータ",
     series: "機甲創世記モスピーダ",
@@ -6173,6 +6377,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-legioss-afc01z",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/48 AFC-01Z レギオス・ゼータ",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/48 AFC-01Z レギオス・ゼータ",
     series: "機甲創世記モスピーダ",
@@ -6197,6 +6402,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-legioss-tread-ab01h",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/48 AB-01H トレッド",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/48 AB-01H トレッド",
     series: "機甲創世記モスピーダ",
@@ -6221,6 +6427,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-vr038l-fuke-bartley",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/12 VR-038L バートレイ フーケ",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/12 VR-038L バートレイ フーケ",
     series: "機甲創世記モスピーダ",
@@ -6261,6 +6468,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-vr041h-yellow-blowsperior",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/12 VR-041H ブロウスーペリア イエロー",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/12 VR-041H ブロウスーペリア イエロー",
     series: "機甲創世記モスピーダ",
@@ -6301,6 +6509,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-vr052f-variable-stick",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/12 VR-052F モスピーダ スティック",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/12 VR-052F モスピーダ スティック",
     series: "機甲創世記モスピーダ",
@@ -6341,6 +6550,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-vr052t-variable-tray",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/12 VR-052T モスピーダ レイ",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/12 VR-052T モスピーダ レイ",
     series: "機甲創世記モスピーダ（Genesis Climber MOSPEADA）",
@@ -6371,6 +6581,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-vrs077f-intruder-gate",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ外伝 GENESIS BREAKER 1/12 VRS-077F イントルーダー ゲイト",
     nameJa: "RIOBOT 機甲創世記モスピーダ外伝 GENESIS BREAKER 1/12 VRS-077F イントルーダー ゲイト",
     series: "機甲創世記モスピーダ外伝 GENESIS BREAKER",
@@ -6400,6 +6611,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mospeada-legioss-afc01i-iota",
+    addedAt: "2026-07-03",
     name: "RIOBOT 機甲創世記モスピーダ 1/48 AFC-01I レギオス・イオタ",
     nameJa: "RIOBOT 機甲創世記モスピーダ 1/48 AFC-01I レギオス・イオタ",
     series: "機甲創世記モスピーダ",
@@ -6424,6 +6636,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25g-messiah-michael",
+    addedAt: "2026-07-03",
     name: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）",
     nameJa: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）",
     series: "マクロスF（Macross Frontier）",
@@ -6448,6 +6661,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-gyan-strom-hilda-haken",
+    addedAt: "2026-07-03",
     name: "HG 1/144 ギャンシュトローム（ヒルダ・ハーケン専用機）",
     nameJa: "HG 1/144 ギャンシュトローム（ヒルダ・ハーケン専用機）",
     series: "機動戦士ガンダムSEED FREEDOM",
@@ -6483,6 +6697,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-msn032-psycho-doga",
+    addedAt: "2026-07-03",
     name: "HG 1/144 MSN-03-2 サイコ・ドーガ",
     nameJa: "HG 1/144 MSN-03-2 サイコ・ドーガ",
     series: "機動戦士ガンダム 逆襲のシャア ベルトーチカ・チルドレン",
@@ -6523,6 +6738,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf25-prophecy",
+    addedAt: "2026-07-03",
     name: "DX超合金 YF-25 プロフェシー",
     nameJa: "DX超合金 YF-25 プロフェシー",
     series: "劇場版マクロスF 虚空歌姫〜イツワリノウタヒメ〜",
@@ -6546,6 +6762,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-saylas-light-guncannon",
+    addedAt: "2026-07-03",
     name: "HG 1/144 セイラ専用軽キャノン",
     nameJa: "HG 1/144 セイラ専用軽キャノン",
     series: "機動戦士Gundam GQuuuuuuX",
@@ -6586,6 +6803,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-tallgeese3-endless-waltz",
+    addedAt: "2026-07-03",
     name: "RG 1/144 トールギスIII",
     nameJa: "RG 1/144 トールギスIII",
     series: "新機動戦記ガンダムW Endless Waltz",
@@ -6626,6 +6844,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "re100-denan-gei-xm02",
+    addedAt: "2026-07-03",
     name: "RE/100 1/100 デナン・ゲー",
     nameJa: "RE/100 1/100 デナン・ゲー",
     series: "機動戦士ガンダムF91",
@@ -6666,6 +6885,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-f91-ver2",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムF91 Ver.2.0",
     nameJa: "MG 1/100 ガンダムF91 Ver.2.0",
     series: "機動戦士ガンダムF91",
@@ -6701,6 +6921,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-f91-ver2-afterimage",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムF91 Ver.2.0（残像イメージカラー）",
     nameJa: "MG 1/100 ガンダムF91 Ver.2.0（残像イメージカラー）",
     series: "機動戦士ガンダムF91",
@@ -6730,6 +6951,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-f91-ver2-harrison",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムF91 Ver.2.0（ハリソン・マディン専用機）",
     nameJa: "MG 1/100 ガンダムF91 Ver.2.0（ハリソン・マディン専用機）",
     series: "機動戦士クロスボーン・ガンダム",
@@ -6759,6 +6981,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-hatsune-miku-black-maneki",
+    addedAt: "2026-07-03",
     name: "ねんどろいど 初音ミク 黒招きミクVer.",
     nameJa: "ねんどろいど 初音ミク 黒招きミクVer.",
     series: "キャラクター・ボーカルシリーズ01 初音ミク",
@@ -6788,6 +7011,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hmr-vf2ss-sap-silvie-gena-lovers-again",
+    addedAt: "2026-07-03",
     name: "HI-METAL R VF-2SS バルキリーII＋SAP（シルビー・ジーナ機）-Lovers Again-",
     nameJa: "HI-METAL R VF-2SS バルキリーII＋SAP（シルビー・ジーナ機）-Lovers Again-",
     series: "超時空要塞マクロスII -LOVERS AGAIN-",
@@ -6828,6 +7052,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-f90",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムF90",
     nameJa: "MG 1/100 ガンダムF90",
     series: "機動戦士ガンダムF90（Formula91企劃）",
@@ -6868,6 +7093,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-gquuuuuux-gfred",
+    addedAt: "2026-07-03",
     name: "HG 1/144 GFreD",
     nameJa: "HG 1/144 ジーフレッド",
     series: "機動戦士Gundam GQuuuuuuX（機動戦士ガンダムジークアクス）",
@@ -6908,6 +7134,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-build-strike-galaxy-cosmos",
+    addedAt: "2026-07-03",
     name: "HG 1/144 ガンダムベース限定 ビルドストライクギャラクシーコスモス［プラフスキーパーティクルクリア］",
     nameJa: "HG 1/144 ガンダムベース限定 ビルドストライクギャラクシーコスモス［プラフスキーパーティクルクリア］",
     series: "ガンダムビルドファイターズ バトローグ",
@@ -6948,6 +7175,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "seven-changer-god-brave",
+    addedAt: "2026-07-03",
     name: "THE合体 セブンチェンジャー",
     nameJa: "THE合体 セブンチェンジャー",
     series: "伝説の勇者ダ・ガーン",
@@ -6988,6 +7216,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-rx93ff-nu-gundam",
+    addedAt: "2026-07-03",
     name: "RG 1/144 RX-93ff νガンダム",
     nameJa: "RG 1/144 RX-93ff νガンダム",
     series: "機動戦士ガンダム 逆襲のシャア（Char's Counterattack）／GUNDAM SIDE-F",
@@ -7027,6 +7256,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-hi-nu-gundam",
+    addedAt: "2026-07-03",
     name: "RG 1/144 Hi-νガンダム",
     nameJa: "RG 1/144 Hi-νガンダム",
     series: "機動戦士ガンダム 逆襲のシャア ベルトーチカ・チルドレン（Char's Counterattack: Beltorchika's Children）",
@@ -7066,6 +7296,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-sinanju-mechanical-clear",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムベース限定 シナンジュ[メカニカルクリア]",
     nameJa: "MG 1/100 ガンダムベース限定 シナンジュ[メカニカルクリア]",
     series: "機動戦士ガンダムUC（Mobile Suit Gundam Unicorn）",
@@ -7094,6 +7325,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "re100-rebawoo",
+    addedAt: "2026-07-03",
     name: "RE/100 1/100 リバウ",
     nameJa: "RE/100 1/100 リバウ",
     series: "機動戦士ガンダムUC MSV（Mobile Suit Gundam Unicorn MSV）",
@@ -7133,6 +7365,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-johnny-ridden-gelgoog",
+    addedAt: "2026-07-03",
     name: "MG 1/100 MS-14B ジョニー・ライデン専用ゲルググ",
     series: "Mobile Suit Gundam (Principality of Zeon)",
     character: "MS-14B 高機動型ゲルググ（ジョニー・ライデン専用機）",
@@ -7159,6 +7392,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-unicorn-verka-code852",
+    addedAt: "2026-07-03",
     name: "MG 1/100 RX-0 ユニコーンガンダム \"Ver.Ka\" [CODE_852]",
     nameJa: "MG 1/100 RX-0 ユニコーンガンダム \"Ver.Ka\" [CODE_852]",
     series: "機動戦士ガンダムUC（Gundam Unicorn）",
@@ -7190,6 +7424,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-sinanju-stein-verka",
+    addedAt: "2026-07-03",
     name: "MG 1/100 MSN-06S シナンジュ・スタイン Ver.Ka",
     series: "機動戦士ガンダムUC（Gundam Unicorn）",
     character: "MSN-06S シナンジュ・スタイン（マリーダ・クルス機）",
@@ -7216,6 +7451,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "rg-unicorn-gold-coating",
+    addedAt: "2026-07-03",
     name: "RG 1/144 ガンダムベース限定 ユニコーンガンダム [ゴールドコーティング]",
     nameJa: "RG 1/144 ガンダムベース限定 ユニコーンガンダム [ゴールドコーティング]",
     series: "機動戦士ガンダムUC（Gundam Unicorn）",
@@ -7246,6 +7482,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-avalanche-astraea-typef",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムアストレア TYPE-F用 アヴァランチダッシュユニット",
     nameJa: "MG 1/100 ガンダムアストレア TYPE-F用 アヴァランチダッシュユニット",
     series: "機動戦士ガンダム00F（Celestial Being Fereshte）",
@@ -7281,6 +7518,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-wing-gundam-proto-zero",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ウイングガンダム プロトゼロ EW",
     nameJa: "MG 1/100 ウイングガンダム プロトゼロ EW",
     series: "新機動戦記ガンダムW Endless Waltz 敗者たちの栄光",
@@ -7304,6 +7542,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-astraea-typef-full-weapon",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムアストレア TYPE-F（フルウェポンセット）",
     nameJa: "MG 1/100 ガンダムアストレア TYPE-F（フルウェポンセット）",
     series: "機動戦士ガンダム00F（Celestial Being Fereshte）",
@@ -7339,6 +7578,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-jegan-typef-d",
+    addedAt: "2026-07-03",
     name: "MG 1/100 RGM-89D ジェガンD型",
     nameJa: "MG 1/100 RGM-89D ジェガンD型",
     series: "機動戦士ガンダムUC（Mobile Suit Gundam Unicorn）",
@@ -7374,6 +7614,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-tallgeese-3",
+    addedAt: "2026-07-03",
     name: "MG 1/100 トールギスIII",
     nameJa: "MG 1/100 トールギスIII",
     series: "新機動戦記ガンダムW Endless Waltz",
@@ -7397,6 +7638,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-core-booster-verka",
+    addedAt: "2026-07-03",
     name: "MG 1/100 コア・ブースター Ver.Ka",
     nameJa: "MG 1/100 コア・ブースター Ver.Ka",
     series: "機動戦士Vガンダム",
@@ -7417,6 +7659,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-shenlong-liaoya",
+    addedAt: "2026-07-03",
     name: "MG 1/100 シェンロンガンダムEW（タウヤー装備）",
     nameJa: "MG 1/100 シェンロンガンダムEW（タウヤー装備）",
     series: "新機動戦記ガンダムW Endless Waltz 敗者たちの栄光",
@@ -7440,6 +7683,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mgex-strike-freedom",
+    addedAt: "2026-07-03",
     name: "MGEX 1/100 ストライクフリーダムガンダム",
     nameJa: "MGEX 1/100 ストライクフリーダムガンダム",
     series: "機動戦士ガンダムSEED DESTINY",
@@ -7463,6 +7707,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-re-gz-91b-custom",
+    addedAt: "2026-07-03",
     name: "MG 1/100 RGZ-91B Re-GZ Custom",
     series: "Mobile Suit Gundam: Char's Counterattack MSV",
     character: "Re-GZ Custom（RGZ-91B）",
@@ -7493,6 +7738,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-destiny-impulse-gundam-r",
+    addedAt: "2026-07-03",
     name: "MG 1/100 デスティニーインパルスガンダムR（リジェネス）",
     series: "機動戦士ガンダムSEED DESTINY ASTRAY R",
     character: "デスティニーインパルスガンダムR",
@@ -7514,6 +7760,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-zplus-c1",
+    addedAt: "2026-07-03",
     name: "MG 1/100 MSZ-006C1 ゼータプラス C1",
     series: "ガンダム・センチネル（Gundam Sentinel）",
     character: "MSZ-006C1 Ζ Plus C1（03号機／シグマン・シェード機）",
@@ -7535,6 +7782,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-freedom-concept2",
+    addedAt: "2026-07-03",
     name: "METAL BUILD フリーダムガンダム CONCEPT 2",
     nameJa: "METAL BUILD フリーダムガンダム CONCEPT 2",
     series: "機動戦士ガンダムSEED",
@@ -7558,6 +7806,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "metal-build-devise-exia",
+    addedAt: "2026-07-03",
     name: "METAL BUILD ガンダムデヴァイズエクシア",
     nameJa: "METAL BUILD ガンダムデヴァイズエクシア",
     series: "機動戦士ガンダム00 Revealed Chronicle",
@@ -7581,6 +7830,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-slash-zaku-phantom-yzak",
+    addedAt: "2026-07-03",
     name: "MG 1/100 スラッシュザクファントム（イザーク・ジュール専用機）",
     nameJa: "MG 1/100 スラッシュザクファントム（イザーク・ジュール専用機）",
     series: "機動戦士ガンダムSEED DESTINY（Mobile Suit Gundam SEED DESTINY）",
@@ -7620,6 +7870,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-blaze-zaku-phantom-rey",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ブレイズザクファントム（レイ・ザ・バレル専用機）",
     nameJa: "MG 1/100 ブレイズザクファントム（レイ・ザ・バレル専用機）",
     series: "機動戦士ガンダムSEED DESTINY（Mobile Suit Gundam SEED DESTINY）",
@@ -7643,6 +7894,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-hyakushiki-kai",
+    addedAt: "2026-07-03",
     name: "MG 1/100 量産型百式改",
     nameJa: "MG 1/100 量産型百式改",
     series: "機動戦士Zガンダム MSV（Mobile Suit Zeta Gundam MSV）",
@@ -7666,6 +7918,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "alter-heroine-x-fate",
+    addedAt: "2026-07-03",
     name: "ヒロインX",
     nameJa: "ヒロインX",
     series: "Fate/stay night",
@@ -7684,6 +7937,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-sandrock-custom-ew",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムサンドロック改 EW",
     nameJa: "MG 1/100 ガンダムサンドロック改 EW",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
@@ -7707,6 +7961,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-altron-gundam-ew",
+    addedAt: "2026-07-03",
     name: "MG 1/100 アルトロンガンダム EW",
     nameJa: "MG 1/100 アルトロンガンダム EW",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
@@ -7730,6 +7985,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-sandrock-ew-armadillo",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムサンドロックEW（アーマディロ装備）",
     nameJa: "MG 1/100 ガンダムサンドロックEW（アーマディロ装備）",
     series: "新機動戦記ガンダムW Endless Waltz 敗者たちの栄光",
@@ -7752,6 +8008,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-deathscythe-hell-ew",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムデスサイズヘル EW",
     nameJa: "MG 1/100 ガンダムデスサイズヘル EW",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
@@ -7774,6 +8031,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-x",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムX",
     nameJa: "MG 1/100 ガンダムX",
     series: "機動新世紀ガンダムX（After War Gundam X）",
@@ -7796,6 +8054,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-double-x",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ガンダムダブルエックス",
     nameJa: "MG 1/100 ガンダムダブルエックス",
     series: "機動新世紀ガンダムX（After War Gundam X）",
@@ -7818,6 +8077,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-aile-strike-verrm",
+    addedAt: "2026-07-03",
     name: "MG 1/100 エールストライクガンダム Ver.RM",
     nameJa: "MG 1/100 エールストライクガンダム Ver.RM",
     series: "Mobile Suit Gundam SEED",
@@ -7840,6 +8100,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-tallgeese-fluegel-ew",
+    addedAt: "2026-07-03",
     name: "MG 1/100 トールギスF EW",
     nameJa: "MG 1/100 トールギスF EW",
     series: "新機動戦記ガンダムW Endless Waltz 敗者たちの栄光",
@@ -7863,6 +8124,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-zeta-gundam-3-gray",
+    addedAt: "2026-07-03",
     name: "MG 1/100 MSZ-006-3B ゼータガンダム3号機B型 グレイ・ゼータ",
     nameJa: "MG 1/100 MSZ-006-3B ゼータガンダム3号機B型 グレイ・ゼータ",
     series: "OVA『GUNDAM EVOLVE../9』（機動戦士Ζガンダム外伝）",
@@ -7885,6 +8147,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-zeta-plus-unicorn-ver",
+    addedAt: "2026-07-03",
     name: "MG 1/100 ゼータプラス（ユニコーンVer．）",
     nameJa: "MG 1/100 ゼータプラス（ユニコーンVer．）",
     series: "機動戦士ガンダムUC（ユニコーン）",
@@ -7907,6 +8170,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mazinger-z-infinity-160",
+    addedAt: "2026-07-04",
     name: "1/60 マジンガーZ(マジンガーZ INFINITY Ver.)",
     nameJa: "1/60 マジンガーZ(マジンガーZ INFINITY Ver.)",
     series: "マジンガーZ／INFINITY",
@@ -7942,6 +8206,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31f-siegfried-lilldraken-set",
+    addedAt: "2026-07-04",
     name: "DX超合金 VF-31F ジークフリード用リル・ドラケンセット",
     nameJa: "DX超合金 VF-31F ジークフリード用リル・ドラケンセット",
     series: "マクロスΔ",
@@ -7966,6 +8231,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-sv262hs-draken3-keith",
+    addedAt: "2026-07-04",
     name: "DX超合金 Sv-262Hs ドラケンIII（キース・エアロ・ウィンダミア機）",
     nameJa: "DX超合金 Sv-262Hs ドラケンIII（キース・エアロ・ウィンダミア機）",
     series: "マクロスΔ",
@@ -8006,6 +8272,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31j-siegfried-hayate-superparts",
+    addedAt: "2026-07-04",
     name: "DX超合金 VF-31Jジークフリード（ハヤテ・インメルマン機）用スーパーパーツセット",
     nameJa: "DX超合金 VF-31Jジークフリード（ハヤテ・インメルマン機）用スーパーパーツセット",
     series: "マクロスΔ",
@@ -8029,6 +8296,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf19-full-set",
+    addedAt: "2026-07-04",
     name: "DX超合金 YF-19 フルセットパック",
     nameJa: "DX超合金 YF-19 フルセットパック",
     series: "マクロスプラス（Macross Plus, 1994）",
@@ -8064,6 +8332,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-alto-full-set",
+    addedAt: "2026-07-04",
     name: "DX超合金 YF-29デュランダルバルキリー（早乙女アルト機）フルセットパック",
     nameJa: "DX超合金 YF-29デュランダルバルキリー（早乙女アルト機）フルセットパック",
     series: "劇場版マクロスF～サヨナラノツバサ～（Macross F: Sayonara no Tsubasa）",
@@ -8099,6 +8368,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31c-siegfried-mirage",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-31C ジークフリード（ミラージュ・ファリーナ・ジーナス機）",
     nameJa: "DX超合金 VF-31C ジークフリード（ミラージュ・ファリーナ・ジーナス機）",
     series: "マクロスΔ（Macross Delta）",
@@ -8128,6 +8398,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31c-siegfried-superparts-mirage",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-31C ジークフリード（ミラージュ・ファリーナ・ジーナス機）用スーパーパーツセット",
     nameJa: "DX超合金 VF-31C ジークフリード（ミラージュ・ファリーナ・ジーナス機）用スーパーパーツセット",
     series: "マクロスΔ（Macross Delta）",
@@ -8151,6 +8422,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25g-messiah-michael-renewal",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.",
     nameJa: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.",
     series: "マクロスF (Macross Frontier)",
@@ -8179,6 +8451,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25g-tornado-parts-renewal",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.用トルネードパーツ",
     nameJa: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.用トルネードパーツ",
     series: "劇場版マクロスF 絶対LIVE!!!!!! ～サヨナラノツバサ～",
@@ -8196,6 +8469,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25g-super-parts-renewal",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.用スーパーパーツ",
     nameJa: "DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer.用スーパーパーツ",
     series: "劇場版マクロスF 絶対LIVE!!!!!! ～サヨナラノツバサ～",
@@ -8213,6 +8487,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-ozma",
+    addedAt: "2026-07-05",
     name: "DX超合金 YF-29 デュランダルバルキリー（オズマ機）",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー（オズマ機）",
     series: "マクロス30 銀河を繋ぐ歌姫",
@@ -8236,6 +8511,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-gran-saurer",
+    addedAt: "2026-07-05",
     name: "HG 1/300 グランザウラー",
     nameJa: "HG 1/300 グランザウラー",
     series: "熱血最強ゴウザウラー（Nekketsu Saikyo Go-Saurer）",
@@ -8270,6 +8546,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gsc-nia-xenoblade2",
+    addedAt: "2026-07-05",
     name: "1/7 ニア（ゼノブレイド2）",
     nameJa: "1/7 ニア（ゼノブレイド2）",
     series: "ゼノブレイド2（Xenoblade Chronicles 2）",
@@ -8310,6 +8587,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "saint-cloth-myth-sky-cross-sho-revival",
+    addedAt: "2026-07-05",
     name: "聖闘士聖衣神話 鋼鉄聖闘士スカイクロス翔＜リバイバル版＞",
     nameJa: "聖闘士聖衣神話 鋼鉄聖闘士スカイクロス翔＜リバイバル版＞",
     series: "聖闘士星矢（Saint Seiya）",
@@ -8345,6 +8623,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "lego-10274-ghostbusters-ecto1",
+    addedAt: "2026-07-05",
     name: "樂高 Ghostbusters ECTO-1",
     nameJa: "LEGO Ghostbusters ECTO-1",
     series: "Ghostbusters（魔鬼剋星）",
@@ -8374,6 +8653,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-gaogaigar-2",
+    addedAt: "2026-07-05",
     name: "SUPER MINIPLA 勇者王ガオガイガー2",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー2",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -8403,6 +8683,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-power-dagwon-2",
+    addedAt: "2026-07-05",
     name: "SUPER MINIPLA 勇者指令ダグオン2",
     nameJa: "スーパーミニプラ 勇者指令ダグオン2",
     series: "勇者指令ダグオン（Command of Braves Dagwon）",
@@ -8432,6 +8713,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-giant-gorg",
+    addedAt: "2026-07-05",
     name: "SUPER MINIPLA 巨神ゴーグ",
     nameJa: "スーパーミニプラ 巨神ゴーグ",
     series: "巨神ゴーグ（Giant Gorg）",
@@ -8461,6 +8743,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf171-nightmare-plus-general",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-171 ナイトメアプラス（一般機）",
     nameJa: "DX超合金 VF-171 ナイトメアプラス（一般機）",
     series: "マクロスF（Macross Frontier）",
@@ -8496,6 +8779,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf171-nightmare-plus-general-armored-parts",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-171 ナイトメアプラス（一般機）用アーマードパーツ",
     nameJa: "DX超合金 VF-171 ナイトメアプラス（一般機）用アーマードパーツ",
     series: "マクロスF（Macross Frontier）",
@@ -8513,6 +8797,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "soc-gx96x-armriser",
+    addedAt: "2026-07-05",
     name: "超合金魂 GX-96X Gアームライザー",
     nameJa: "超合金魂 GX-96X Gアームライザー",
     series: "ゲッターロボ號（Getter Robo Go, 1991）",
@@ -8542,6 +8827,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "soc-gx94-dancouga-blackwing",
+    addedAt: "2026-07-05",
     name: "超合金魂 GX-94 超獣機神ダンクーガ ブラックウイング",
     nameJa: "超合金魂 GX-94 超獣機神ダンクーガ ブラックウイング",
     series: "超獣機神ダンクーガ（Super Beast Machine God Dancouga）",
@@ -8571,6 +8857,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "soc-gx13r-dancouga-renewal",
+    addedAt: "2026-07-05",
     name: "超合金魂 GX-13R 超獣機神ダンクーガ（リニューアルバージョン）",
     nameJa: "超合金魂 GX-13R 超獣機神ダンクーガ（リニューアルバージョン）",
     series: "超獣機神ダンクーガ（Super Beast Machine God Dancouga）",
@@ -8601,6 +8888,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "soc-gx96-getter-robo-go",
+    addedAt: "2026-07-05",
     name: "超合金魂 GX-96 ゲッターロボ號",
     nameJa: "超合金魂 GX-96 ゲッターロボ號",
     series: "ゲッターロボ號（Getter Robo Go, 1991）",
@@ -8631,6 +8919,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "tamashii-stage-act-soc",
+    addedAt: "2026-07-05",
     name: "魂STAGE Act.超合金魂",
     nameJa: "魂STAGE Act.超合金魂",
     series: "魂STAGE（展示台座系列）",
@@ -8654,6 +8943,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-vb6-konig-monster-ge51",
+    addedAt: "2026-07-05",
     name: "DX超合金 VB-6 ケーニッヒ・モンスター",
     nameJa: "DX超合金 VB-6 ケーニッヒ・モンスター",
     series: "マクロスVF-X2 / マクロスF（Macross VF-X2 / Macross Frontier）",
@@ -8683,6 +8973,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "soc-gx68x-stargaogaigar-option",
+    addedAt: "2026-07-05",
     name: "超合金魂 GX-68X スターガオガイガー オプションセット【究極の勇者王Ver.】",
     nameJa: "超合金魂 GX-68X スターガオガイガー オプションセット【究極の勇者王Ver.】",
     series: "勇者王ガオガイガー（GaoGaiGar: King of the Braves）",
@@ -8717,6 +9008,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-swacchao-darkness",
+    addedAt: "2026-07-05",
     name: "ねんどろいど Swacchao！ ダクネス",
     nameJa: "ねんどろいど Swacchao！ ダクネス",
     series: "この素晴らしい世界に祝福を！（KonoSuba）",
@@ -8747,6 +9039,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-swacchao-aqua",
+    addedAt: "2026-07-05",
     name: "ねんどろいど Swacchao！ アクア",
     nameJa: "ねんどろいど Swacchao！ アクア",
     series: "この素晴らしい世界に祝福を！（KonoSuba）",
@@ -8777,6 +9070,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-swacchao-megumin",
+    addedAt: "2026-07-05",
     name: "ねんどろいど Swacchao！ めぐみん",
     nameJa: "ねんどろいど Swacchao！ めぐみん",
     series: "この素晴らしい世界に祝福を！（KonoSuba）",
@@ -8807,6 +9101,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-illyasviel-1680",
+    addedAt: "2026-07-05",
     name: "ねんどろいど イリヤスフィール・フォン・アインツベルン",
     nameJa: "ねんどろいど イリヤスフィール・フォン・アインツベルン",
     series: "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
@@ -8837,6 +9132,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-kokkoro-princess-connect",
+    addedAt: "2026-07-05",
     name: "ねんどろいど コッコロ",
     nameJa: "ねんどろいど コッコロ",
     series: "プリンセスコネクト！Re:Dive（Princess Connect! Re:Dive）",
@@ -8867,6 +9163,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-pecorine-princess-connect",
+    addedAt: "2026-07-05",
     name: "ねんどろいど ペコリーヌ",
     nameJa: "ねんどろいど ペコリーヌ",
     series: "プリンセスコネクト！Re:Dive（Princess Connect! Re:Dive）",
@@ -8897,6 +9194,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-ranka-lee-350",
+    addedAt: "2026-07-05",
     name: "ねんどろいど ランカ・リー",
     nameJa: "ねんどろいど ランカ・リー",
     series: "マクロスフロンティア（Macross Frontier）",
@@ -8921,6 +9219,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-snow-miku-glowing-snow-2021",
+    addedAt: "2026-07-05",
     name: "ねんどろいど 雪ミク Glowing Snow Ver.",
     nameJa: "ねんどろいど 雪ミク Glowing Snow Ver.",
     series: "初音ミク（Hatsune Miku）",
@@ -8945,6 +9244,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-snow-miku-grand-voyage-2022",
+    addedAt: "2026-07-05",
     name: "ねんどろいど 雪ミク Grand Voyage Ver.",
     nameJa: "ねんどろいど 雪ミク Grand Voyage Ver.",
     series: "初音ミク（Hatsune Miku）",
@@ -8975,6 +9275,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-snow-miku-snow-parade-2020",
+    addedAt: "2026-07-05",
     name: "ねんどろいど 雪ミク Snow Parade Ver.",
     nameJa: "ねんどろいど 雪ミク Snow Parade Ver.",
     series: "初音ミク（Hatsune Miku）",
@@ -9005,6 +9306,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-snow-miku-strawberry-shiromuku",
+    addedAt: "2026-07-05",
     name: "ねんどろいど 雪ミク いちご白無垢Ver.",
     nameJa: "ねんどろいど 雪ミク いちご白無垢Ver.",
     series: "初音ミク（Hatsune Miku）",
@@ -9029,6 +9331,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "megahouse-mylene-jenius-firebomber",
+    addedAt: "2026-07-05",
     name: "マクロス7 Fire Bomber ミレーヌ・ジーナス 完成品フィギュア",
     nameJa: "マクロス7 Fire Bomber ミレーヌ・ジーナス 完成品フィギュア",
     series: "マクロス7（Macross 7）",
@@ -9064,6 +9367,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "megahouse-basara-nekki-firebomber",
+    addedAt: "2026-07-05",
     name: "マクロス7 Fire Bomber 熱気バサラ 完成品フィギュア",
     nameJa: "マクロス7 Fire Bomber 熱気バサラ 完成品フィギュア",
     series: "マクロス7（Macross 7）",
@@ -9099,6 +9403,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "alpha-omega-sheryl-nome-gorgeous",
+    addedAt: "2026-07-05",
     name: "アルファオメガ シェリル・ノーム ゴ～～ジャスVer.",
     nameJa: "アルファオメガ シェリル・ノーム ゴ～～ジャスVer.",
     series: "マクロスF（Macross Frontier）",
@@ -9129,6 +9434,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31a-kairos-general",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-31A カイロス（一般機）",
     nameJa: "DX超合金 VF-31A カイロス（一般機）",
     series: "マクロスΔ（Macross Delta）",
@@ -9164,6 +9470,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "proplica-microphone-sheryl-ranka-set",
+    addedAt: "2026-07-05",
     name: "PROPLICA マイク（シェリル・ノーム）＆マイク（ランカ・リー）セット",
     nameJa: "PROPLICA マイク（シェリル・ノーム）＆マイク（ランカ・リー）セット",
     series: "マクロスF（Macross Frontier）",
@@ -9188,6 +9495,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25a-messiah-general",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-25A メサイアバルキリー（一般機）",
     nameJa: "DX超合金 VF-25A メサイアバルキリー（一般機）",
     series: "マクロスF（Macross Frontier）",
@@ -9217,6 +9525,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25a-messiah-general-super-parts",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-25A メサイアバルキリー（一般機）用 スーパーパーツ",
     nameJa: "DX超合金 VF-25A メサイアバルキリー（一般機）用 スーパーパーツ",
     series: "マクロスF（Macross Frontier）",
@@ -9234,6 +9543,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf19-advance",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-19 ADVANCE",
     nameJa: "DX超合金 VF-19 ADVANCE",
     series: "劇場版 マクロスF -サヨナラノツバサ-（Macross F: The Movie - Sayonara no Tsubasa）",
@@ -9263,6 +9573,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25s-messiah-ozma-armored-parts-renewal",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）用 アーマードパーツ（リニューアルVer.）",
     nameJa: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）用 アーマードパーツ（リニューアルVer.）",
     series: "劇場版 マクロスF -サヨナラノツバサ-（Macross F: The Movie - Sayonara no Tsubasa）",
@@ -9297,6 +9608,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25s-messiah-ozma-super-parts-renewal",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）用 スーパーパーツ（リニューアルVer.）",
     nameJa: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）用 スーパーパーツ（リニューアルVer.）",
     series: "劇場版 マクロスF -サヨナラノツバサ-（Macross F: The Movie - Sayonara no Tsubasa）",
@@ -9314,6 +9626,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25-messiah-ghost-weapons-set",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-25メサイアバルキリー用 ゴースト＆ウェポンズセット",
     nameJa: "DX超合金 VF-25メサイアバルキリー用 ゴースト＆ウェポンズセット",
     series: "マクロスF (Macross Frontier)",
@@ -9337,6 +9650,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25f-messiah-alto-renewal-tornado-parts",
+    addedAt: "2026-07-05",
     name: "DX超合金 VF-25F メサイアバルキリー（早乙女アルト機）リニューアルVer.用 トルネードパーツ",
     nameJa: "DX超合金 VF-25F メサイアバルキリー（早乙女アルト機）リニューアルVer.用 トルネードパーツ",
     series: "劇場版 マクロスF -サヨナラノツバサ-（Macross F: The Movie - Sayonara no Tsubasa）",
@@ -9366,6 +9680,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mpm-07-bumblebee",
+    addedAt: "2026-07-05",
     name: "Takara Tomy 變形金剛 電影版 大黃蜂 MPM-07",
     nameJa: "トランスフォーマー マスターピースムービー MPM-7 バンブルビー",
     series: "トランスフォーマー/バンブルビー",
@@ -9400,6 +9715,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mpm-08-megatron",
+    addedAt: "2026-07-05",
     name: "Takara Tomy 變形金剛 電影版 密卡登 MPM-08",
     nameJa: "トランスフォーマー マスターピースムービー MPM-8 メガトロン",
     series: "トランスフォーマー（2007年映画）",
@@ -9434,6 +9750,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mpm-11-ratchet",
+    addedAt: "2026-07-05",
     name: "Takara Tomy 變形金剛 電影版 救護車 MPM-11",
     nameJa: "トランスフォーマー マスターピースムービー MPM-11 ラチェット",
     series: "トランスフォーマー（2007年映画）",
@@ -9468,6 +9785,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "utr-02-challenger",
+    addedAt: "2026-07-05",
     name: "UniqueToys UT R-02 挑戰者（騎士擎天柱）",
     nameJa: "ユニークトイズ UT R-02 チャレンジャー",
     series: "Transformers: The Last Knight（三方原創系列）",
@@ -9498,6 +9816,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "utr-03-dragoon",
+    addedAt: "2026-07-05",
     name: "UniqueToys UT R-03 巨龍（騎士威震天）",
     nameJa: "ユニークトイズ UT R-03 ドラグーン",
     series: "Transformers: The Last Knight（三方原創系列）",
@@ -9528,6 +9847,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "utr-04-nero",
+    addedAt: "2026-07-08",
     name: "UniqueToys UT R-04 尼祿（電影版威震天）",
     nameJa: "ユニークトイズ UT R-04 ネロ",
     series: "Transformers: Age of Extinction（三方原創系列）",
@@ -9546,6 +9866,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "tf-mpm-10-starscream",
+    addedAt: "2026-07-08",
     name: "Transformers Masterpiece Movie MPM-10 星星叫（天王星／紅蜘蛛）",
     nameJa: "トランスフォーマー マスターピース・ムービーシリーズ MPM-10 スタースクリーム",
     series: "Transformers（2007電影版）",
@@ -9570,6 +9891,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "iw-06-jet-power-armor",
+    addedAt: "2026-07-05",
     name: "Iron Warrior IW-06 噴射動力裝甲（配 MPM-04 擎天柱升級套組）",
     nameJa: "アイアンウォリアー IW-06 ジェットパワーアーマー",
     series: "Transformers: Revenge of the Fallen（三方原創升級套組）",
@@ -9605,6 +9927,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "r-01-peru-kill",
+    addedAt: "2026-07-05",
     name: "UniqueToys UT R-01 秘魯殺手（禁閉 homage）",
     nameJa: "ユニークトイズ UT R-01 ペルーキル",
     series: "Transformers: Age of Extinction（三方原創系列）",
@@ -9635,6 +9958,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-gaogaigo",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー ガオガイゴー",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー ガオガイゴー",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -9669,6 +9993,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gaoknight",
+    addedAt: "2026-07-08",
     name: "SMP 百獣戦隊ガオレンジャー 百獣合体ガオナイト",
     nameJa: "SMP 百獣合体ガオナイト",
     series: "百獣戦隊ガオレンジャー（Hyakujuu Sentai Gaoranger）",
@@ -9692,6 +10017,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gaohunter",
+    addedAt: "2026-07-08",
     name: "SMP 百獣戦隊ガオレンジャー 百獣合体ガオハンター",
     nameJa: "SMP 百獣合体ガオハンター",
     series: "百獣戦隊ガオレンジャー（Hyakujuu Sentai Gaoranger）",
@@ -9709,6 +10035,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-fighbird",
+    addedAt: "2026-07-08",
     name: "SMP 太陽の勇者ファイバード",
     nameJa: "SMP 太陽の勇者ファイバード（武装合体ファイバード）",
     series: "太陽の勇者ファイバード（Brave Fighter of Sun Fighbird）",
@@ -9737,6 +10064,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-fighbird-dryas",
+    addedAt: "2026-07-08",
     name: "SMP [SHOKUGAN MODELING PROJECT] 太陽の勇者ファイバード ドライアス",
     nameJa: "SMP [SHOKUGAN MODELING PROJECT] 太陽の勇者ファイバード ドライアス",
     series: "太陽の勇者ファイバード（Brave Fighter of Sun Fighbird）",
@@ -9754,6 +10082,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "minipla-battle-caesar-robo",
+    addedAt: "2026-07-08",
     name: "ミニプラ 全界合体シリーズ PB バトルシーザーロボ",
     nameJa: "ミニプラ 全界合体シリーズ PB バトルシーザーロボ",
     series: "機界戦隊ゼンカイジャー (Kikai Sentai Zenkaiger)",
@@ -9777,6 +10106,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-trider-g7",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 無敵ロボ トライダーG7",
     nameJa: "スーパーミニプラ 無敵ロボ トライダーG7",
     series: "無敵ロボ トライダーG7（Invincible Robo Trider G7）",
@@ -9811,6 +10141,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-trider-shuttle-set",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 無敵ロボ トライダーG7 トライダー・シャトル＆トライダー・ニューシャトルセット",
     nameJa: "スーパーミニプラ 無敵ロボ トライダーG7 トライダー・シャトル＆トライダー・ニューシャトルセット",
     series: "無敵ロボ トライダーG7（Invincible Robo Trider G7）",
@@ -9834,6 +10165,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-fighbird2",
+    addedAt: "2026-07-08",
     name: "SMP 太陽の勇者ファイバード2",
     nameJa: "SMP 太陽の勇者ファイバード2（ジェット合体グランバード）",
     series: "太陽の勇者ファイバード（Brave Fighter of Sun Fighbird）",
@@ -9863,6 +10195,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-dagwon-ryan-gunkid",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者指令ダグオン ライアン＆ガンキッド",
     nameJa: "スーパーミニプラ 勇者指令ダグオン ライアン＆ガンキッド",
     series: "勇者指令ダグオン（Command of Braves Dagwon）",
@@ -9897,6 +10230,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "super-minipla-balgion",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA バルジオン",
     nameJa: "スーパーミニプラ バルジオン",
     series: "超電子バイオマン（Choudenshi Bioman）",
@@ -9925,6 +10259,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "nendoroid-sheryl-nome-330",
+    addedAt: "2026-07-08",
     name: "ねんどろいど シェリル・ノーム",
     nameJa: "ねんどろいど シェリル・ノーム",
     series: "マクロスフロンティア（Macross Frontier）",
@@ -9960,6 +10295,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf1s-roy-focker-48",
+    addedAt: "2026-07-08",
     name: "やまと 1/48 完全変形 VF-1S バルキリー ロイ・フォッカー機",
     nameJa: "1/48 完全変形 VF-1S バルキリー ロイ・フォッカー機",
     series: "超時空要塞マクロス 愛・おぼえていますか（Macross: Do You Remember Love?）",
@@ -9990,6 +10326,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf1a-angel-birds-48",
+    addedAt: "2026-07-08",
     name: "やまと 1/48 完全変形 VF-1A バルキリー エンジェルバーズ",
     nameJa: "1/48 完全変形 VF-1A バルキリー エンジェルバーズ",
     series: "超時空要塞マクロス（Super Dimension Fortress Macross TV版）",
@@ -10014,6 +10351,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vf1a-hikaru-ichijo-48",
+    addedAt: "2026-07-08",
     name: "やまと 1/48 完全変形 VF-1A バルキリー 一条輝機",
     nameJa: "1/48 完全変形 VF-1A バルキリー 一条輝機",
     series: "超時空要塞マクロス 愛・おぼえていますか（Macross: Do You Remember Love?）",
@@ -10038,6 +10376,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-ve1-elintseeker",
+    addedAt: "2026-07-08",
     name: "やまと 1/60 完全変形 VE-1 エリントシーカー",
     nameJa: "1/60 完全変形 VE-1 エリントシーカー",
     series: "超時空要塞マクロス 愛・おぼえていますか（Macross: Do You Remember Love?）",
@@ -10067,6 +10406,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-30th-anniversary",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-29 デュランダルバルキリー（30周年記念カラー）",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー（30周年記念カラー）",
     series: "劇場版マクロスF～サヨナラノツバサ～ / マクロス30周年記念",
@@ -10090,6 +10430,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-superparts-30th-anniversary",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-29 デュランダルバルキリー（30周年記念カラー）用スーパーパーツ",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー（30周年記念カラー）用スーパーパーツ",
     series: "劇場版マクロスF～サヨナラノツバサ～ / マクロス30周年記念",
@@ -10113,6 +10454,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25f-messiah-alto-renewal",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-25F メサイアバルキリー（早乙女アルト機）リニューアルVer.",
     nameJa: "DX超合金 VF-25F メサイアバルキリー（早乙女アルト機）リニューアルVer.",
     series: "マクロスF（Macross Frontier）",
@@ -10147,6 +10489,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-rvf25-messiah-luca-renewal",
+    addedAt: "2026-07-08",
     name: "DX超合金 RVF-25 メサイアバルキリー（ルカ・アンジェローニ機）リニューアルVer.",
     nameJa: "DX超合金 RVF-25 メサイアバルキリー（ルカ・アンジェローニ機）リニューアルVer.",
     series: "マクロスF（Macross Frontier） / マクロス30周年記念",
@@ -10170,6 +10513,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf30-chronos",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-30 クロノス",
     nameJa: "DX超合金 YF-30 クロノス",
     series: "マクロス30 銀河を繋ぐ歌声（Macross 30）",
@@ -10200,6 +10544,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-dancouga",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 超獣機神ダンクーガ",
     nameJa: "スーパーミニプラ 超獣機神ダンクーガ",
     series: "超獣機神ダンクーガ（Chōjūkishin Dancouga）",
@@ -10239,6 +10584,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-dancouga-option-parts",
+    addedAt: "2026-07-08",
     name: "スーパーミニプラ 超獣機神ダンクーガ オプションパーツセット",
     nameJa: "スーパーミニプラ 超獣機神ダンクーガ オプションパーツセット",
     series: "超獣機神ダンクーガ（Super Beast Machine God Dancouga）",
@@ -10262,6 +10608,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-zambot3-40th",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 無敵超人ザンボット3",
     nameJa: "スーパーミニプラ 無敵超人ザンボット3",
     series: "無敵超人ザンボット3（Invincible Steel Man Zambot 3）",
@@ -10301,6 +10648,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gaogaigar-sp-pack-set",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー SPパックセット",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー SPパックセット",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -10329,6 +10677,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gaogaigar3-choryujin",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー3 超竜神",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー3 超竜神",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -10368,6 +10717,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gaogaigar4-gaofighgar",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー4 ガオファイガー",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー4 ガオファイガー",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -10407,6 +10757,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gaogaigar5-volfogg",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー5 ボルフォッグ",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー5 ボルフォッグ",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -10446,6 +10797,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gekiryujin",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー 撃龍神",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー 撃龍神",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -10485,6 +10837,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-combattler-v-option-parts",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 超電磁ロボ コン・バトラーV オプションパーツセット",
     nameJa: "スーパーミニプラ 超電磁ロボ コン・バトラーV オプションパーツセット",
     series: "超電磁ロボ コン・バトラーV（Combattler V）",
@@ -10519,6 +10872,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-king-j-der",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 勇者王ガオガイガー キングジェイダー",
     nameJa: "スーパーミニプラ キングジェイダー",
     series: "勇者王ガオガイガー（The King of Braves GaoGaiGar）",
@@ -10558,6 +10912,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-jaguar-vulcan-bigscale",
+    addedAt: "2026-07-08",
     name: "SUPER MINIPLA 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン",
     nameJa: "スーパーミニプラ 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン",
     series: "太陽戦隊サンバルカン（Taiyou Sentai Sun Vulcan）",
@@ -10581,6 +10936,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-superparts-ozma",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-29 デュランダルバルキリー（オズマ機）用スーパーパーツ",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー（オズマ機）用スーパーパーツ",
     series: "マクロス30 銀河を繋ぐ歌姫",
@@ -10604,6 +10960,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "arcadia-yf19-fast-pack",
+    addedAt: "2026-07-08",
     name: "1/60 完全変形 YF-19 with ファストパック",
     nameJa: "1/60 完全変形 YF-19 with ファストパック",
     series: "マクロスプラス（Macross Plus, 1994）",
@@ -10643,6 +11000,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31e-siegfried-chuck-mustang",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-31E ジークフリード（チャック・マスタング機）",
     nameJa: "DX超合金 VF-31E ジークフリード（チャック・マスタング機）",
     series: "マクロスΔ（Macross Delta）",
@@ -10682,6 +11040,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29b-percival-rb-custom",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-29B パーツィバル（ロッド機）",
     nameJa: "DX超合金 YF-29B パーツィバル（ロッド機）",
     series: "マクロス30 -銀河を繋ぐ歌声-（Macross 30: Voices Across the Galaxy）",
@@ -10711,6 +11070,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf25s-messiah-ozma-renewal",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer.",
     nameJa: "DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer.",
     series: "劇場版 マクロスF -サヨナラノツバサ-（Macross F: The Movie - Sayonara no Tsubasa）",
@@ -10745,6 +11105,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-vf31j-siegfried-hayate-tamashii2017",
+    addedAt: "2026-07-08",
     name: "DX超合金 VF-31J改 ジークフリード（ハヤテ・インメルマン機）",
     nameJa: "DX超合金 VF-31J改 ジークフリード（ハヤテ・インメルマン機）",
     series: "マクロスΔ（Macross Delta）",
@@ -10774,6 +11135,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "arcadia-vf4g-lightning-iii",
+    addedAt: "2026-07-08",
     name: "1/60 完全変形 VF-4G ライトニングIII",
     nameJa: "1/60 完全変形 VF-4G ライトニングIII",
     series: "MACROSS DIGITAL MISSION VF-X（1997 PlayStationゲーム）",
@@ -10797,6 +11159,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "yamato-vb6-konig-monster-1999",
+    addedAt: "2026-07-08",
     name: "1/100 完全変形 VB-6 ケーニッヒモンスター",
     nameJa: "1/100 完全変形 VB-6 ケーニッヒモンスター",
     series: "マクロスVF-X2（1999 PlayStation2ゲーム）",
@@ -10831,6 +11194,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-gyakuten-ippatsuman-tokkyu-zaurus-set",
+    addedAt: "2026-07-08",
     name: "SMP [SHOKUGAN MODELING PROJECT] タイムボカンシリーズ 逆転イッパツマン トッキュウザウルスセット",
     nameJa: "SMP [SHOKUGAN MODELING PROJECT] タイムボカンシリーズ 逆転イッパツマン トッキュウザウルスセット",
     series: "タイムボカンシリーズ 逆転イッパツマン",
@@ -10860,6 +11224,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-alto-base",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-29 デュランダルバルキリー(早乙女アルト機)",
     nameJa: "DX超合金 YF-29 デュランダルバルキリー(早乙女アルト機)",
     series: "劇場版マクロスF～サヨナラノツバサ～（Macross F: Sayonara no Tsubasa）",
@@ -10883,6 +11248,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-chogokin-yf29-durandal-alto-super-parts",
+    addedAt: "2026-07-08",
     name: "DX超合金 YF-29用スーパーパーツ（早乙女アルト機）",
     nameJa: "DX超合金 YF-29用スーパーパーツ（早乙女アルト機）",
     series: "劇場版マクロスF～サヨナラノツバサ～（Macross F: Sayonara no Tsubasa）",
@@ -10900,6 +11266,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gx-75sp-mazinkaiser-20th-anniversary",
+    addedAt: "2026-07-08",
     name: "超合金魂 GX-75SP マジンカイザー 20th Anniversary Ver.",
     nameJa: "超合金魂 GX-75SP マジンカイザー 20th Anniversary Ver.",
     series: "マジンカイザー (Mazinkaiser)",
@@ -10923,6 +11290,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-yusha-ou-gaogaigar",
+    addedAt: "2026-07-08",
     name: "スーパーミニプラ 勇者王ガオガイガー",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー",
     series: "勇者王ガオガイガー (King of Braves GaoGaiGar)",
@@ -10946,6 +11314,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "smp-yusha-ou-gaogaigar-6",
+    addedAt: "2026-07-08",
     name: "スーパーミニプラ 勇者王ガオガイガー6",
     nameJa: "スーパーミニプラ 勇者王ガオガイガー6",
     series: "勇者王ガオガイガーFINAL (King of Braves GaoGaiGar FINAL)",
@@ -10969,6 +11338,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "gx-97-daileon",
+    addedAt: "2026-07-08",
     name: "超合金魂 GX-97 超惑星戦闘巨人 ダイレオン",
     nameJa: "超合金魂 GX-97 超惑星戦闘巨人 ダイレオン",
     series: "巨獣特捜ジャスピオン（Kyojuu Tokusou Jaspion）",
@@ -10992,6 +11362,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-shenlong-clear-color",
+    addedAt: "2026-07-09",
     name: "HG 1/144 シェンロンガンダム [クリアカラー]",
     nameJa: "HG 1/144 シェンロンガンダム [クリアカラー]",
     series: "新機動戦記ガンダムW (Mobile Suit Gundam Wing)",
@@ -11015,6 +11386,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-deathscythe-clear-color",
+    addedAt: "2026-07-09",
     name: "HG 1/144 ガンダムデスサイズ [クリアカラー]",
     nameJa: "HG 1/144 ガンダムデスサイズ [クリアカラー]",
     series: "新機動戦記ガンダムW (Mobile Suit Gundam Wing)",
@@ -11038,6 +11410,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-sandrock-clear-color",
+    addedAt: "2026-07-09",
     name: "HG 1/144 ガンダムサンドロック [クリアカラー]",
     nameJa: "HG 1/144 ガンダムサンドロック [クリアカラー]",
     series: "新機動戦記ガンダムW (Mobile Suit Gundam Wing)",
@@ -11055,6 +11428,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-wing-gundam-clear-color",
+    addedAt: "2026-07-09",
     name: "HG 1/144 ウイングガンダム [クリアカラー]",
     nameJa: "HG 1/144 ウイングガンダム [クリアカラー]",
     series: "新機動戦記ガンダムW (Mobile Suit Gundam Wing)",
@@ -11072,6 +11446,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-narrative-gundam-b-packs-verka",
+    addedAt: "2026-07-09",
     name: "MG 1/100 RX-9/B ナラティブガンダム B装備 Ver.Ka",
     nameJa: "MG 1/100 RX-9/B ナラティブガンダム B装備 Ver.Ka",
     series: "機動戦士ガンダムNT (Mobile Suit Gundam Narrative)",
@@ -11089,6 +11464,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-sinanju-stein-narrative-verka",
+    addedAt: "2026-07-09",
     name: "MG 1/100 MSN-06S-2 シナンジュ・スタイン (ナラティブVer.) Ver.Ka",
     nameJa: "MG 1/100 MSN-06S-2 シナンジュ・スタイン (ナラティブVer.) Ver.Ka",
     series: "機動戦士ガンダムNT (Mobile Suit Gundam Narrative)",
@@ -11118,6 +11494,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-gundam-mk5-clear-color",
+    addedAt: "2026-07-09",
     name: "MG 1/100 ORX-013 ガンダムMk-V [クリアカラー]",
     nameJa: "MG 1/100 ガンダムMk-V [クリアカラー]",
     series: "機動戦士ガンダム センチネル (Mobile Suit Gundam Sentinel)",
@@ -11141,6 +11518,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "mg-astray-red-dragon",
+    addedAt: "2026-07-09",
     name: "MG 1/100 ガンダムアストレイ レッドドラゴン",
     nameJa: "MG 1/100 ガンダムアストレイ レッドドラゴン",
     series: "機動戦士ガンダムSEED DESTINY ASTRAY R",
@@ -11164,6 +11542,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-tolro800-torohachi",
+    addedAt: "2026-07-09",
     name: "HG ガンダムベース限定 TOLRO-800 -トロハチ-",
     nameJa: "HG ガンダムベース限定 TOLRO-800 -トロハチ-",
     series: "機動戦士ガンダムUC (Mobile Suit Gundam Unicorn)",
@@ -11181,6 +11560,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "hg-draken-e",
+    addedAt: "2026-07-09",
     name: "HG ガンダムベース限定 ドラケンE",
     nameJa: "HG ガンダムベース限定 ドラケンE",
     series: "機動戦士ガンダム0080 ポケットの中の戦争 (Mobile Suit Gundam 0080)",
@@ -11198,6 +11578,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-vb6-konig-monster-sp",
+    addedAt: "2026-07-10",
     name: "DX超合金 VB-6 ケーニッヒ・モンスター(SP Ver.)",
     nameJa: "DX超合金 VB-6 ケーニッヒ・モンスター(SP Ver.)",
     series: "マクロスVF-X2 / 劇場版マクロスF ～イツワリノウタヒメ～",
@@ -11215,6 +11596,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "dx-konig-monster-wings-of-valkyria",
+    addedAt: "2026-07-10",
     name: "DX超合金 ケーニッヒ・モンスター（ウイングス・オブ・ヴァルキュリア）",
     nameJa: "DX超合金 ケーニッヒ・モンスター（ウイングス・オブ・ヴァルキュリア）",
     series: "劇場版マクロスF ～サヨナラノツバサ～（Macross F: The Wings of Farewell）",
@@ -11232,6 +11614,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-xiaojiu",
+    addedAt: "2026-07-10",
     name: "New Era系列 灵尾之契约 小九",
     nameJa: "New Era系列 霊尾の契約 小九",
     series: "New Era系列（原創角色）",
@@ -11250,6 +11633,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "heatpanda-asuka-1-4",
+    addedAt: "2026-07-10",
     name: "新世紀福音戰士 式波・明日香・蘭格雷 1/4比例手辦",
     nameJa: "新世紀エヴァンゲリオン 式波・アスカ・ラングレー 1/4スケールフィギュア",
     series: "新世紀エヴァンゲリオン (Neon Genesis Evangelion)",
@@ -11268,6 +11652,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "popup-parade-sp-albedo",
+    addedAt: "2026-07-10",
     name: "POP UP PARADE SP アルベド 漆黒のドレスVer.",
     nameJa: "POP UP PARADE SP アルベド 漆黒のドレスVer.",
     series: "オーバーロード (Overlord)",
@@ -11286,6 +11671,7 @@ export const collection: CollectibleItem[] = [
   },
   {
     id: "bearpanda-she-is-real-nafu",
+    addedAt: "2026-07-10",
     name: "She is real ナフ",
     nameJa: "She is real ナフ",
     series: "She is real系列（原創角色）",

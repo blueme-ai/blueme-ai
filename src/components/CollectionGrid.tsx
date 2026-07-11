@@ -31,16 +31,18 @@ export default function CollectionGrid({ collection }: { collection: Collectible
 
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase()
-    return collection.filter((item) => {
-      const matchesTag = !selectedTag || item.tags.includes(selectedTag)
-      const matchesSearch =
-        !q ||
-        item.name.toLowerCase().includes(q) ||
-        item.series.toLowerCase().includes(q) ||
-        item.manufacturer.toLowerCase().includes(q) ||
-        item.tags.some((t) => t.toLowerCase().includes(q))
-      return matchesTag && matchesSearch
-    })
+    return collection
+      .filter((item) => {
+        const matchesTag = !selectedTag || item.tags.includes(selectedTag)
+        const matchesSearch =
+          !q ||
+          item.name.toLowerCase().includes(q) ||
+          item.series.toLowerCase().includes(q) ||
+          item.manufacturer.toLowerCase().includes(q) ||
+          item.tags.some((t) => t.toLowerCase().includes(q))
+        return matchesTag && matchesSearch
+      })
+      .sort((a, b) => a.addedAt.localeCompare(b.addedAt))
   }, [collection, search, selectedTag])
 
   return (
