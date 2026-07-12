@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useMemo } from "react"
-import { Search, X, ChevronDown, Package } from "lucide-react"
+import { Search, X, ChevronDown, Package, ArrowUpDown } from "lucide-react"
 import { CollectibleItem } from "@/lib/data"
 import { isBoxTag } from "@/lib/tags"
 import CollectionCard from "./CollectionCard"
@@ -9,6 +9,7 @@ export default function CollectionGrid({ collection }: { collection: Collectible
   const [search, setSearch] = useState("")
   const [selectedTag, setSelectedTag] = useState<string | null>(null)
   const [tagsOpen, setTagsOpen] = useState(false)
+  const [sortNewestFirst, setSortNewestFirst] = useState(false)
 
   const tagCounts = useMemo(() => {
     const counts: Record<string, number> = {}
@@ -42,8 +43,10 @@ export default function CollectionGrid({ collection }: { collection: Collectible
           item.tags.some((t) => t.toLowerCase().includes(q))
         return matchesTag && matchesSearch
       })
-      .sort((a, b) => a.addedAt.localeCompare(b.addedAt))
-  }, [collection, search, selectedTag])
+      .sort((a, b) =>
+        sortNewestFirst ? b.addedAt.localeCompare(a.addedAt) : a.addedAt.localeCompare(b.addedAt)
+      )
+  }, [collection, search, selectedTag, sortNewestFirst])
 
   return (
     <>
@@ -59,18 +62,28 @@ export default function CollectionGrid({ collection }: { collection: Collectible
         />
       </div>
 
-      {/* Tag filter toggle */}
+      {/* Tag filter toggle + sort order toggle */}
       <div className="mt-3 mb-6">
-        <button
-          onClick={() => setTagsOpen(!tagsOpen)}
-          className="flex items-center gap-1.5 text-xs text-zinc-400 hover:text-white transition-colors"
-        >
-          <ChevronDown size={14} className={`transition-transform ${tagsOpen ? "rotate-180" : ""}`} />
-          標籤篩選
-          {selectedTag && (
-            <span className="ml-1 bg-indigo-600 text-white rounded-full px-2 py-0.5">{selectedTag}</span>
-          )}
-        </button>
+        <div className="flex items-center justify-between">
+          <button
+            onClick={() => setTagsOpen(!tagsOpen)}
+            className="flex items-center gap-1.5 text-xs text-zinc-400 hover:text-white transition-colors"
+          >
+            <ChevronDown size={14} className={`transition-transform ${tagsOpen ? "rotate-180" : ""}`} />
+            標籤篩選
+            {selectedTag && (
+              <span className="ml-1 bg-indigo-600 text-white rounded-full px-2 py-0.5">{selectedTag}</span>
+            )}
+          </button>
+
+          <button
+            onClick={() => setSortNewestFirst(!sortNewestFirst)}
+            className="flex items-center gap-1.5 text-xs text-zinc-400 hover:text-white transition-colors flex-shrink-0"
+          >
+            <ArrowUpDown size={13} />
+            {sortNewestFirst ? "最新加入優先" : "最早加入優先"}
+          </button>
+        </div>
 
         {tagsOpen && (
           <div className="flex flex-wrap gap-2 mt-3">
