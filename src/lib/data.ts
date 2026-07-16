@@ -12118,7 +12118,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "クリアパーツ", "イベント限定"],
     description: "重現宇宙戰仕様形態的「ペイルライダー」透明成形色版本，THE GUNDAM BASE TOKYO開幕イベント限定販售。標配巨型格林機砲、超級光束步槍及盾牌等武裝，並可透過透明面罩與貼紙選擇重現一般狀態與HADES發動狀態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "『HGペイルライダー［クリアカラー］』をうごかしてみた！",
+        url: "https://www.youtube.com/watch?v=nifbte_v4BQ",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-blue-destiny1-exam-metallic",
