@@ -11796,7 +11796,13 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスF", "ケーニッヒモンスター", "VB-6", "DX超合金", "魂ウェブ商店限定", "Bandai", "可變形", "合金"],
     description: "取材自劇場版《マクロスF～サヨナラノツバサ～》的「ケーニッヒ・モンスター」魂ウェブ商店限定版，機身施以劇場版限定的特別標誌塗裝，並附屬「ウイングス・オブ・ヴァルキュリア」主題塗裝彩繪貼紙，重現SMS部隊在劇場版決戰場景中的機體樣貌，2014年10月24日至12月21日期間開放預訂。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】DX超合金 VB-6 ケーニッヒモンスター（標準版參考評測，非本頁限定塗裝版）",
+        url: "https://www.youtube.com/watch?v=1lNVx_VzivY",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "bearpanda-xiaojiu",
