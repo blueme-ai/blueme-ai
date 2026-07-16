@@ -9616,7 +9616,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf25a-messiah-general-super-parts.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25A", "メサイア", "一般機", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "為 DX超合金 VF-25A メサイアバルキリー（一般機）本體追加的太空用強化推進背包（Super Parts）套組，魂ウェブ商店限定販售，不含本體。裝設後可大幅提升機體的航程與加速性能，讓量產型 VF-25A 呈現出與アルト機、ミハエル機等主角機同等的強化戰鬥外觀。",
-    reviews: [],
+    reviews: [
+      {
+        title: "VF-25Aメサイアバルキリー一般機",
+        url: "https://www.metal-box.jp/blog/index.php/archives/15062",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -9700,7 +9706,13 @@ export const collection: CollectibleItem[] = [
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25S", "オズマ・リー", "スーパーパーツ", "リニューアルVer.", "擴充套件", "DX超合金", "Bandai"],
     description: "為 DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer. 本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體。全新造型設計以貼合リニューアル版更纖細機身，細節精度與整合度均優於初版超級零件，裝設後可強化機體航程與火力，重現強化超音速追加背包形態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】スーパーパーツを取り付けてみた！ DX超合金 VF-25S MESSIAH VALKYRIE Revival Ver. with SUPER PARTS",
+        url: "https://www.youtube.com/watch?v=lteryrXAH3E",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf25-messiah-ghost-weapons-set",
@@ -11364,7 +11376,13 @@ export const collection: CollectibleItem[] = [
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "YF-29", "デュランダル", "早乙女アルト", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "為 DX超合金 YF-29 デュランダルバルキリー（早乙女アルト機）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體，2011年發售。裝設後可強化機體航程與火力，重現劇場版《サヨナラノツバサ》最終決戰的強化超音速追加背包形態。年代久遠官網頁面已下架，officialUrl暫留空，商品圖片取自海外代理商實物拍攝。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Part.2【マクロスF】DX超合金 YF-29 スーパーパーツ(早乙女アルト機) レビュー サヨナラノツバサ YF-29 Super Parts",
+        url: "https://www.youtube.com/watch?v=7TS_nlLm7MQ",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "gx-75sp-mazinkaiser-20th-anniversary",
@@ -11729,8 +11747,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-vb6-konig-monster-sp.jpg",
     tags: ["マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "VB-6", "DX超合金", "SP Ver.", "Bandai", "可變形", "合金"],
     description: "與標準版「DX超合金 VB-6 ケーニッヒ・モンスター」（GE-51）同日發售的特別規格「SP Ver.」，取材自《劇場版マクロスF～イツワリノウタヒメ～》。相較標準版，SP Ver.追加了SMS部隊識別塗裝與機體標誌細節，デストロイド形態肩部塗裝與貼紙配置更貼近劇場版演出畫面，是同款機體收藏中另一種版本選擇。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "「DX超合金 VB-6 ケーニッヒ・モンスター SPver」代行レビュー",
+        url: "https://zigsow.jp/item/169233/review/111230",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "シェリル派が10年ぶりに遊ぶ😁【DX超合金】VB-6 ケーニッヒ・モンスター(SP Ver.) / マクロスF",
+        url: "https://www.youtube.com/watch?v=o3wCFrlz2dQ",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-konig-monster-wings-of-valkyria",
