@@ -1785,7 +1785,13 @@ export const collection: CollectibleItem[] = [
     tags: ["オリジナルキャラクター", "此方醬", "Super Nova", "1/6", "貓耳", "美少女", "中國品牌"],
     description: "Super Nova 出品的原創貓耳少女角色「此方醬」1/6 比例完成品，以兔女郎風格造型搭配俏皮貓耳呈現。Super Nova 為中國新興人形品牌，此方醬系列是其旗下頗具人氣的原創 IP 之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "開封フィギュアレビュー 美少女フィギュア | Figura de Konata Chan - (Super Nova)",
+        url: "https://www.youtube.com/watch?v=9p04CESioZA",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "animester-2b-nier-1-9",
@@ -2743,7 +2749,13 @@ export const collection: CollectibleItem[] = [
     tags: ["星街すいせい", "hololive", "ねんどろいど", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
     description: "Good Smile Company ねんどろいど 系列 hololive production 旗下人氣 VTuber 星街すいせい（彗星）的「Sailor Outfit Ver.」，商品編號 #2893，GOODSMILE ONLINE SHOP 獨家限定商品，預計 2026 年 8 月發售。\n\nすいせい以藍白配色水手服為主造型，搭配她標誌性的藍色長髮與彗星主題頭飾；套件附三款替換表情（笑臉、活潑臉、自信臉），以及蘋果汁飲料、烤肉配餐具等多款道具配件，可重現直播中她各種逗趣的互動場景。ねんどろいど 系列一貫的 Q 版頭身比例配合 GSC 精工彩繪面部，完美詮釋すいせい的星空主題個人魅力。是 hololive 周邊收藏中廣受彗星粉絲歡迎的必備款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【開封レビュー】ねんどろいど 星街すいせい着弾！ すいちゃんはねんどろいどでもかわいー！！",
+        url: "https://www.youtube.com/watch?v=k7t140UXx7A",
+        lang: "ja",
+      },
+    ],
   },
 
   // ── Macross Yamato / Arcadia ───────────────────────────────────────────────
@@ -3252,7 +3264,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Battle Damaged", "紐約決戰"],
     description: "threezero DLX 系列《復仇者聯盟》（2012）紐約決戰後 Tony Stark 的 Mark VII 受損版本，精緻重現盔甲在激烈戰鬥後的撞痕、塗裝剝落與結構損傷。戰損細節以手工噴塗技法呈現，與標準版形成強烈對比，是 DLX 系列中考驗工藝的特別版本。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Iron Man MK7 Avengers Threezero DLX Unboxing & Review",
+        url: "https://www.youtube.com/watch?v=8-8v5TaC9yY",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "dlx-iron-man-mark21-midas",
@@ -4144,7 +4162,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/rg-rx78-2-ver2-miku.jpg",
     tags: ["機動戦士ガンダム", "RX-78-2", "初音ミク", "Hatsune Miku", "ガンダム45周年", "RG", "Real Grade", "BANDAI SPIRITS", "P-Bandai", "高達模型", "限定品"],
     description: "BANDAI SPIRITS 為慶祝機動戰士ガンダム 45 周年，與「初音ミク（Hatsune Miku）」推出的聯名限定企劃。以全新配色重現 RG RX-78-2 ガンダム Ver.2.0，採用初音ミク標誌性的青灰、黑、藍、粉紅色調，光束軍刀光刃改為透明綠色呼應「大蔥」意象，附全新原創写実造型貼紙（Realistic Decal）。P-Bandai 限定發售，2026 年 6 月出貨。",
-    reviews: [],
+    reviews: [
+      {
+        title: "RG RX-78-2 ガンダムVer.2.0［初音ミクVer.］ レビュー【GUNDAM × MIKU Anniversary Special project.】",
+        url: "https://schizophonic9.com/re10/rg_gundammiku.html",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -4282,7 +4306,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Marvel", "Iron Man", "Mark III", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "戰損版", "Battle Damaged"],
     description: "threezero DLX 系列《鋼鐵人》（2008）戰損規格，重現電影高潮對決場景中 Mark III 遭受重創後的外觀。全身以多層金屬漆塗裝工藝精雕彈痕、刮傷與凹陷，頭盔與胸甲有明顯子彈孔造型。附臂部導彈、Smart Micro Guns、誘餌照明彈、手部及腳部飛行特效零件、五對可換手型及 DLX 展示底座。高約 175mm，約 48 個可動關節。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Iron Man MK3 Threezero DLX Unboxing & Review",
+        url: "https://www.youtube.com/watch?v=gok0iT3YJss",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "macross7-ultra-fire-vinyl",
@@ -4949,8 +4979,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-srx-tenka-muteki.jpg",
     tags: ["etc0001@中壢收多易", "SMP", "スーパーロボット大戦", "Super Robot Wars", "SRX", "天下無敵", "オプションパーツ", "バンダイスピリッツ", "食玩", "P-Bandai限定", "OG"],
     description: "BANDAI SPIRITS「SMP」（Shokugan Modeling Project / 食玩模型企劃）系列出品的《超級機械人大戰OG》SRX 天下無敵武裝配件套組。套組內含 SRX「天下無敵劍」效果零件、R-1 火焰翼展開效果零件、R-GUN Powered 專用支架等，讓已持有 SMP SRX 本體組（R-1、R-2 Powered、R-3 Powered）的玩家能完整重現動畫中最終決戰「天下無敵の剣」場景。為 Premium Bandai（魂限）限定品，2023 年 5 月出貨，本體不含於組包內需另行購買。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "SMP SRX 天下無敵のオプションパーツセット レビュー",
+        url: "https://schizophonic9.com/re8/smp_opset.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "SMP SRX 天下無敵のオプションパーツセット 部分塗装詳細レビュー",
+        url: "https://www.youtube.com/watch?v=9ooWiHohwsc",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "moshow-weiguogong-mct-ap04",
@@ -5104,7 +5146,13 @@ export const collection: CollectibleItem[] = [
     tags: ["ゾイド", "ライガーゼロ", "AZ-02EX2", "タカラトミー", "1/72", "T-SPARK ZONE限定", "ガイロス帝国"],
     description: "「AZ-02 ライガーゼロ」的T-SPARK ZONE流通限定色替版，以黑色為基底搭配紅金色ゼロアーマー，重現ガイロス帝国軍運用時的配色設定。電動馬達重現貓科生物步行動作，眼部與胸部LED發光，ゼロアーマー可拆卸恢復「素體」状態，並附屬1/72比例駕駛人偶（未塗裝）。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "ライガーゼロの決定版だわこれ！！ゾイド40周年記念AZシリーズ第2弾のライガーゼロを組み立て解説レビュー！（AZ-02系列同型組裝解說）",
+        url: "https://www.youtube.com/watch?v=YwOL3PdIZ0k",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "zoids-az02ex3-type-zero-armor",
@@ -5139,8 +5187,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/zoids-az03ex-murasame-liger-original.jpg",
     tags: ["ゾイド", "ムラサメライガー", "AZ-03EX", "タカラトミー", "1/72", "T-SPARK ZONE限定"],
     description: "「AZ-03 ムラサメライガー」的T-SPARK ZONE流通限定色替版，以復古玩具原案的配色重新詮釋機身塗裝。標配兩種質感的「ムラサメブレード」大型武士刀——鍍層版與蓄光素材版可自由替換，暗處會發光，並附屬未塗裝駕駛人偶及專用展示台。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "「ゾイド AZ-03 ムラサメライガー」レビュー ムラサメブレードによる大迫力アクション再現を可能とした待望の立体化（AZ-03同型基礎版評測）",
+        url: "https://hobby.watch.impress.co.jp/docs/review/1568039.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【組み立て/設定解説/レビュー】AZシリーズ AZ03 ムラサメライガー",
+        url: "https://www.youtube.com/watch?v=cR8zZUzSuYM",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "zoids-az06ex-phoenix-republic",
@@ -5194,7 +5254,13 @@ export const collection: CollectibleItem[] = [
     tags: ["ゾイド", "ライガーゼロイクス", "AZ-14EX", "タカラトミー", "1/72", "T-SPARK ZONE限定", "オプションパーツ"],
     description: "「AZ-14 ライガーゼロイクス」的イクスユニット部分單獨販售版，為T-SPARK ZONE流通限定商品，需搭配另售的AZ系列ライガーゼロ素體（如AZ-02EX2帝国仕様等）組合方能重現完整「ライガーゼロイクス」形態。肩部護蓋、鰭、ドラムコンデンサー、アースユニット及背部エレクトロンドライバー等零件皆可動，附屬1/72比例一般士兵人偶（未塗裝）。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "タカラトミー「AZ-14 ライガーゼロイクス」の歩行ギミックを一足先にチェック！",
+        url: "https://www.youtube.com/watch?v=0aAtr7xh6J0",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "zoids-az16ex-jager-unit-original",
@@ -5597,7 +5663,13 @@ export const collection: CollectibleItem[] = [
     tags: ["ゾイド", "ウルトラザウルス", "AZ-17DX", "タカラトミー", "1/72", "タカラトミーモール限定"],
     description: "ADVANCED Zi系列史上最大型機體之一「ウルトラザウルス」搭載動畫中登場的必殺武裝「グラビティカノン」，首度以商品化形式完整重現。タカラトミーモール限定DX仕様，除本體與大型加農炮外，另附屬ムンベイ立姿與坐姿（可搭乘駕駛艙）人偶及1/72比例一般士兵人偶共6體。電動馬達重現步行動作，頭部及線形砲可隨步行連動，並可切換為グラビティカノン發射姿態動作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "ついに公開「AZ-17DX ウルトラザウルス ムンベイ仕様(グラビティカノン付属)」あのド迫力が超パワーアップして帰ってきた！【メーカー担当者インタビュー】",
+        url: "https://www.youtube.com/watch?v=iT45v3qVVtQ",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "csm-kabuto-zecter-ver1-5",
