@@ -11841,8 +11841,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-pale-rider-ground-clear.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "クリアパーツ", "THE GUNDAM BASE限定"],
     description: "《機動戦士ガンダム外伝 ミッシングリンク》登場的陸戦用裝備換裝型「ペイルライダー」透明成形色版本，THE GUNDAM BASE限定。標配可折疊的180mm加農炮、90mm短型機槍、腿部飛彈艙等陸戰裝備，スパイク・シールド前端附伸縮式打樁機。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "HGUC ガンダムベース限定 ペイルライダー（陸戦重装備仕様）［クリアカラー］ レビュー",
+        url: "http://schizophonic9.com/re7/hguc_paleclear.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【ガンダムベース限定】HGペイルライダー(陸戦重装備仕様)クリアカラーをレビュー！【ガンプラ】",
+        url: "https://www.youtube.com/watch?v=JCRn5MoMmjc",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-rx80rr-red-rider",
@@ -11986,7 +11998,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム U.C. ENGAGE", "エンゲージゼロ", "Premium Bandai限定"],
     description: "手機遊戲《機動戦士ガンダム U.C. ENGAGE》登場、由阿納海姆電子開發、作為地球聯邦鋼彈開發計畫追加方案的「ガンダム開発試験0番機（エンゲージゼロ）」，全新造形重現獨特機身輪廓，肩部可拉出關節、腰部可動範圍大，標配光束步槍、盾牌、光束軍刀及追加推進背包等配件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "2023年1月発送のガンプラ「HG 1/144 ガンダム開発試験0番機（エンゲージゼロ）」開封・組立・レビュー",
+        url: "https://www.youtube.com/watch?v=UMd1tLtY_D0",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-arz124hb2m-aqua-hambrabi2",
@@ -12003,7 +12021,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-arz124hb2m-aqua-hambrabi2.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "アクア・ハンブラビ", "ティターンズ", "Premium Bandai限定"],
     description: "《A.O.Z RE-BOOT ガンダム・インレ－くろうさぎのみた夢－》登場，結合水中戰用MA與MS合體運用的「アクア・ハンブラビII」ティターンズ仕様塗裝版本。",
-    reviews: [],
+    reviews: [
+      {
+        title: "HGUC アクア・ハンブラビII ティターンズ仕様（A.O.Z.RE-BOOT版） レビュー",
+        url: "https://schizophonic9.com/re8/hguc_aquatitans.html",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -12039,8 +12063,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-blue-destiny1-exam-metallic.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "THE BLUE DESTINY", "ブルーディスティニー", "THE GUNDAM BASE限定"],
     description: "《機動戦士ガンダム外伝 THE BLUE DESTINY》主角機「ブルーディスティニー1号機“EXAM”」金屬光澤成形色版本，THE GUNDAM BASE限定販售。標配100mm機槍、盾牌、可替換頭部（漫畫版配色）及EXAM系統發動用零件，並附開放式左手掌與雙光束軍刀刀身。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "HGUC【ガンダムベース限定】ブルーディスティニー1号機”EXAM”［メタリックグロスインジェクション］ レビュー",
+        url: "https://schizophonic9.com/re7/hguc_bd1meta.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "旧HG版から10年の時を超えてリニューアルされたHGブルーディスティニー1号機EXAM！！",
+        url: "https://www.youtube.com/watch?v=LWJFznwrU1E",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-moon-gundam-longrifle",
@@ -12058,7 +12094,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士MOONガンダム", "ムーンガンダム", "THE GUNDAM BASE限定"],
     description: "《機動戦士MOONガンダム》主角機「ムーンガンダム」THE GUNDAM BASE限定追加武裝版本，新增大型「ロング・ライフル」，槍托部位搭載伸縮機構及可動握把專用轉接零件，強化狙擊姿態的展示效果。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "(名作ガンプラが特別仕様に！)HG 1/144 ガンダムベース限定 ムーンガンダム (ロング・ライフル装備) レビュー",
+        url: "https://www.youtube.com/watch?v=1icP1jhx4_I",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-rx80pr2-pale-rider-cavalry",
@@ -12076,7 +12118,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "キャバルリー", "量産機", "Premium Bandai限定"],
     description: "「ペイルライダー計画」集大成的量産化重新設計機體「ペイルライダー・キャバルリー」，以HGペイルライダー為基礎忠實重現造形與配色，複合特殊武裝「シェキーナ」全新造形並簡化零件更換與過剩裝備，兼具高性能與量産適性，暱稱「騎士団」。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【ガンプラ】ビームジャベリンやシェキナー等の武装が付属！HG ペイルライダー・キャバルリー レビュー",
+        url: "https://www.youtube.com/watch?v=3iwmbS4hM_w",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-ams123xx-moon-gundam-clear",
@@ -12093,8 +12141,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-ams123xx-moon-gundam-clear.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士MOONガンダム", "ムーンガンダム", "クリアパーツ", "イベント限定"],
     description: "《機動戦士MOONガンダム》主角機「ムーンガンダム」透明成形色版本，イベント限定販售。標配「サイコプレート」背包可展開臂部機構並分離重組，「ビームトマホーク」、「ビームライフル」及「バタフライエッジ」等武裝的光束刃部位皆以透明零件重現。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "HGUC ムーンガンダム［クリアカラー］ レビュー",
+        url: "https://schizophonic9.com/re7/hguc_moonclear.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "『HG ムーンガンダム [クリアカラー]』をうごかしてみた！",
+        url: "https://www.youtube.com/watch?v=59hsxSY7WXY",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-orx005-gaplant-tr5-hrairoo-titans",
@@ -12111,8 +12171,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-orx005-gaplant-tr5-hrairoo-titans.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ギャプラン", "フライルー", "ティターンズ", "Premium Bandai限定"],
     description: "A.O.Z Re-Boot系列「ギャプランTR-5［フライルー］」ティターンズ塗裝仕様版本，可動式盾牌大型化，整體造型較一般版更具剛硬軍武氣息。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "HGUC ギャプランTR-5［フライルー］（ティターンズ仕様）（A.O.Z.RE-BOOT版） レビュー",
+        url: "https://schizophonic9.com/re8/hguc_hrairootitans.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【ガンプラ】ＨＧ 1/144 ギャプランTR-5[フライルー] (ティターンズ仕様)(A.O.Z RE-BOOT版)レビュー",
+        url: "https://www.youtube.com/watch?v=oC1KFLzsopg",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-orx005-gaplant-tr5-hrairoo-gigantic-arm",
@@ -12130,7 +12202,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ギャプラン", "フライルー", "ギガンティック・アーム・ユニット", "Premium Bandai限定"],
     description: "A.O.Z Re-Boot系列「ギャプランTR-5［フライルー］」搭載大型追加武裝「ギガンティック・アーム・ユニット」的重裝形態，可與基本形態的ギャプランTR-5組合展示，是A.O.Z RE-BOOT版陣容中份量感最重的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "サイコガンダムとギャプランの組合せ「HG 1/144 ギャプランTR-5[フライルー]ギガンティック・アーム・ユニット装備(A.O.Z RE-BOOT版)」開封・組立・レビュー",
+        url: "https://www.youtube.com/watch?v=uhveWL1UNGM",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "gsc-xenoblade2-hikari",
