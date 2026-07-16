@@ -12338,7 +12338,13 @@ export const collection: CollectibleItem[] = [
     tags: ["hololive", "ホロライブ", "兎田ぺこら", "Fate/Grand Order", "Good Smile Company", "ねんどろいど"],
     description: "hololive production 3期生「兎田ぺこら」與《Fate/Grand Order》「マシュ・キリエライト」聯名企劃，以竹内崇繪製的原案插畫為藍本製作的Nendoroid。附「笑顏」「戰鬥顏」「莉泳顏」三種表情零件，以及擬似展開／人理の礎（ロード・カルデアス）、フォウくん野うさぎ等選配零件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "ねんどろいど 兎田ぺこら（マシュ・キリエライト コラボver.）",
+        url: "https://www.youtube.com/watch?v=S5OWzPakqsA",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "mgsd-gundam-aerial",
@@ -12403,8 +12409,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-garmor-realtype.jpg",
     tags: ["機動戦士ガンダム", "MSV", "RX-78-2", "Gアーマー", "BANDAI SPIRITS", "MG", "ガンプラ", "リアルタイプカラー"],
     description: "以電影海報等宣傳美術為藍本的「リアルタイプカラー」配色重現MSV設定「Gアーマー」，RX-78-2鋼彈與Gファイター可合體變形為Gアーマー、Gスカイ、Gブル等多種形態，附光束步槍、超級凝固汽油彈、超級火箭筒、光束軍刀×2、鋼彈鎚、盾牌×2等豐富配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MG Gアーマー リアルタイプカラー レビュー",
+        url: "https://www.gunplayakata.com/entry/2025/03/29/MG_G%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC_%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97%E3%82%AB%E3%83%A9%E3%83%BC_%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "【MG】Gアーマー リアルタイプカラー",
+        url: "https://www.youtube.com/watch?v=-yGw-828aoo",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "kotobukiya-kosmos-ver4-extra",
@@ -12422,7 +12440,13 @@ export const collection: CollectibleItem[] = [
     tags: ["ゼノサーガ", "KOS-MOS", "コトブキヤ", "1/12", "美少女プラモデル"],
     description: "《ゼノサーガ エピソードIII》人型対グノーシス兵器「KOS-MOS」1/12比例組裝模型的「Extra coating edition」再販版，身體部位預先塗裝金色與亮白色、加特林砲為銀色，兼具組裝樂趣與近乎完成品的質感。附兩種表情、可替換瀏海重現「ファティマグラモード」，以及可替換胸部零件重現「エックスバスター」攻擊形態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "1960 - KOS-MOS Ver.4 [Extra Coating Edition] (OOB Review)",
+        url: "https://www.youtube.com/watch?v=wZrrrJj8CJw",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-shinmusha-sengoku-black",
@@ -12465,7 +12489,13 @@ export const collection: CollectibleItem[] = [
     tags: ["初音ミク", "雪ミク", "SNOW MIKU", "Good Smile Company", "ねんどろいど"],
     description: "SNOW MIKU 17周年、2026年度雪ミク設計以「幸せパティスリー」為主題，由插畫家cold_air繪製，經由粉絲票選服裝設計後製作成Nendoroid。商品編號2939。附「笑顏」「驚訝顏」「沉穩顏」表情零件，以及兔子雪音、甜點托盤等選配零件與專用底座（需搭配底座才能站立）。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【SNOW MIKU 2026】「ねんどろいど 雪ミク Sweet Snow Ver.」",
+        url: "https://www.youtube.com/shorts/g-ERGhSU1no",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "smp-daitarn3",
@@ -12501,8 +12531,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/chogokin-gundam-ex.jpg",
     tags: ["機動戦士ガンダム 復讐のレクイエム", "ガンダムEX", "BANDAI SPIRITS", "超合金", "魂ウェブ商店限定"],
     description: "《機動戦士ガンダム 復讐のレクイエム》登場「戦慄の白い悪魔」ガンダムEX以超合金系列立體化，全高約185mm大型比例，關節與裝甲部位大量採用重量感十足的壓鑄件，頭部內建LED發光機構重現劇中形象。魂ウェブ商店限定販售。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "HG ガンダムEX（復讐のレクイエム） レビュー",
+        url: "https://schizophonic9.com/re9/hg_gundamex.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "圧倒的重量感！ 復讐のレクイエム 超合金 ガンダムEX レビュー",
+        url: "https://www.youtube.com/watch?v=5NscnjNPlwE",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "scm-ex-opyx-odysseus",
@@ -12519,7 +12561,19 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/scm-ex-opyx-odysseus.jpg",
     tags: ["聖闘士星矢", "オピュクスオデッセウス", "BANDAI SPIRITS", "聖闘士聖衣神話EX", "魂ウェブ商店限定"],
     description: "紀念車田正美正統續作《聖闘士星矢 NEXT DIMENSION 冥王神話》完結，推出的「オピュクスオデッセウス」可動人偶，採用EX METAL body呈現目前最高規格關節結構。附4種替換表情，並可展開變形為大型オピュクス聖衣獸形態。魂ウェブ商店限定販售。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "聖闘士聖衣神話EX：オピュクスオデッセウス [レビュー]",
+        url: "https://toroplus.blog/saintclothmyth-ex/opyxodysseus-ex/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "玩具紹介♯95 聖闘士聖衣神話EX オピュクス オデッセウス（Saint Cloth Myth EX Opyx Odysseus）",
+        url: "https://www.youtube.com/watch?v=TdAi09N6ywY",
+        lang: "ja",
+      },
+    ],
   },
 ]
