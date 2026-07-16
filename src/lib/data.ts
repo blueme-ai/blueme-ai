@@ -11767,7 +11767,13 @@ export const collection: CollectibleItem[] = [
     tags: ["原創角色", "美少女フィギュア", "1/6", "中國品牌", "否极"],
     description: "中國廠牌「否极」New Era系列作品「灵尾之契约 小九」，取材自原創古風角色設定，1/6比例、全高約413mm。造型結合中國風飄逸長裙與粉色系狐尾裝飾，原型師由sk糖王周毅操刀，材質採用PVC搭配金屬鏈條與寶石裝飾配件，呈現柔美空靈的東方美人形象。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "看我收服女妖精——否極「New Era」× 糖王周毅 -「靈尾之契約 - 小九」手辦",
+        url: "https://www.youtube.com/watch?v=FFzsByCUQFQ",
+        lang: "zh",
+      },
+    ],
   },
   {
     id: "heatpanda-asuka-1-4",
@@ -11804,7 +11810,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/popup-parade-sp-albedo.jpg",
     tags: ["オーバーロード", "Overlord", "アルベド", "Albedo", "POPUP PARADE", "GOOD SMILE COMPANY", "GSC限定"],
     description: "Good Smile Company「POP UP PARADE SP」系列（突破一般POPUP PARADE規格的大型系列）取材自《オーバーロード 聖王国編》身著漆黒禮服的アルベド，全高約245mm，原型師萬蔵まもる（Louis Entertainment）操刀。充分展現角色魔性魅惑的曲線身姿與妖豔氣場，標配專用展示台座，是POPUP PARADE系列中份量與精緻度並重的高規格商品。",
-    reviews: [],
+    reviews: [
+      {
+        title: "POP UP PARADE アルベド ドレスver開封レビュー｜鎧ver＆T-mostと比較",
+        url: "https://epoch23.seesaa.net/article/520316455.html",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -11824,7 +11836,13 @@ export const collection: CollectibleItem[] = [
     tags: ["原創角色", "美少女フィギュア", "1/6", "中國品牌", "BearPanda", "サキュバス"],
     description: "中國廠牌BearPanda「She is real」系列原創魅魔角色「ナフ（娜芙）」，全高約285mm，PVC＋ABS材質。造型以黑紫色系惡魔翅膀與尾巴搭配網襪呈現挑逗撩人的身姿與表情，網襪採用真實網紗材質提升質感，首批特典附徽章與簽名卡。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "老师太美了 She is real 娜芙 手办实物抢先看",
+        url: "https://www.bilibili.com/video/BV1cpf5YhEqV/",
+        lang: "zh",
+      },
+    ],
   },
   {
     id: "hg-pale-rider-ground-clear",
