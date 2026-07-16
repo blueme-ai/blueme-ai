@@ -11525,7 +11525,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-sandrock-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "サンドロック", "クリアパーツ", "THE GUNDAM BASE限定"],
     description: "THE GUNDAM BASE限定販售的HG 1/144ガンダムサンドロック透明成形色版本，追求最佳比例並可重現劇中招牌姿勢，雙臂可向後伸展重現熱能彎刀（ヒートショーテル）拔刀動作，標配可替換角度手腕零件，熱能彎刀可切換收鞘與拔出兩種狀態。",
-    reviews: [],
+    reviews: [
+      {
+        title: "HGAC ガンダムサンドロック［クリアカラー］ レビュー",
+        url: "http://schizophonic9.com/re7/hgac_sandrockclear.html",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -11543,7 +11549,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-wing-gundam-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "ウイングガンダム", "クリアパーツ", "THE GUNDAM BASE限定"],
     description: "THE GUNDAM BASE限定販售的HG 1/144ウイングガンダム透明成形色版本，透明裝甲可清楚看見內部機構與盾牌變形機關細節。標配可展開收納的機翼機構，可重現動態演出姿勢，並可完整變形為鳥型形態（Bird Mode），標配大型巴斯特步槍及兩把光束軍刀。",
-    reviews: [],
+    reviews: [
+      {
+        title: "【イベント限定】ウイングガンダム[クリアカラー] レビュー",
+        url: "https://plenum756.com/blog/limited-other/winggundam-clear/",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -11562,7 +11574,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダムNT", "ナラティブガンダム", "Ver.Ka", "Premium Bandai限定"],
     description: "取材自《機動戦士ガンダムNT》「不死鳥狩り作戦」中登場的ナラティブガンダム B装備，加藤單（Katoki Hajime）監修的Ver.Ka規格全新造形背包套件。特色武裝「有線遠隔攻撃端末」搭載可動軸心機構，可重現電影中不干涉MS肩部的射出姿勢，並具備纜線拉出、捲收演出機構。標配Action Base與武裝展示台座，可將B装備與有線攻撃端末以射出狀態同時展示，另附ジオン式サイコフレーム透明跑道零件及C装備背包用轉接零件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "1万円越えのB装備が情報量多すぎて30分の長尺に「MG 1/100 ナラティブガンダム B装備 Ver.Ka」開封・組立・レビュー",
+        url: "https://www.youtube.com/watch?v=wpX2ols3e8A",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "mg-sinanju-stein-narrative-verka",
@@ -11658,7 +11676,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0002", "ガンプラ", "HG", "Bandai", "機動戦士ガンダムUC", "THE GUNDAM BASE限定", "全新造形"],
     description: "《機動戦士ガンダムUC》登場的小型工作用MS「TOLRO-800 -トロハチ-」，THE GUNDAM BASE限定全新造形HG化。駕駛艙罩採用透明零件可開闔，內部細節精密重現；肩部軌道可動、手臂伸縮機構及爪部可動一應俱全，並附專用零件可連接另售的「Action Base 5」重現各種動作姿勢。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "アムロのフィギュアがピッタリ納まる？「HG TOLRO-800 -トロハチ- ガンダムベース限定」開封・組立・レビュー",
+        url: "https://www.youtube.com/watch?v=mK3PC5HW2ZI",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-draken-e",
@@ -11675,8 +11699,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-draken-e.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "Bandai", "機動戦士ガンダム0080", "THE GUNDAM BASE限定", "全新造形"],
     description: "《機動戦士ガンダム0080 ポケットの中の戦争》登場的工程用起重機型MS「ドラケンE」，THE GUNDAM BASE限定以全新造形HG化，是ガンダムベース原創造形第2彈商品。駕駛艙內部形狀精密重現，並可透過零件選擇組裝出吉翁軍所屬機塗裝，起重臂各部位皆可滑動可動，重現作業機特有的機構感。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "【ガンプラ】HG ガンダムベース限定 ドラケンE レビュー",
+        url: "https://gunplapocchi.com/gunpla-draken-e/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "ガンダムベース限定ガンプラ！RGガンダムVer2.0武器セットとHGドラケンEを遊び倒してみた",
+        url: "https://www.youtube.com/watch?v=BMnpWqIl3dQ",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-vb6-konig-monster-sp",
@@ -11823,7 +11859,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-rx80rr-red-rider.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "レッドライダー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム アグレッサー》登場、「ペイルライダー計画」試作機之一「レッドライダー」，以HGペイルライダー為基礎重新造形與塗裝。標配專屬武裝「ツヴァイハンダー」可切換盾牌與長劍兩種形態，並附機槍與光束軍刀等配件，可重現原作動態揮劍姿勢。",
-    reviews: [],
+    reviews: [
+      {
+        title: "HG レッドライダー レビュー",
+        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%83%AC%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -11841,7 +11883,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-rx80br-black-rider.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "ブラックライダー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム バトルオペレーション Code Fairy》登場的「ペイルライダー計画」試作機「ブラックライダー」，以HGペイルライダー為基礎新規造形頭部與特殊戰術裝備「ステイヤード」，鱗片狀雷達罩與電子戰用背包為其特徵。",
-    reviews: [],
+    reviews: [
+      {
+        title: "HG ブラックライダー レビュー",
+        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -11859,7 +11907,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-rx80wr-white-rider.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "ホワイトライダー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム バトルオペレーション Code Fairy》登場的「ペイルライダー計画」試作1號機「ホワイトライダー」，以HGペイルライダー為基礎重現造形與配色，標配特殊武裝「試作型シェキーナ」與「ヒートレイピア」，翼部可展開重現ZEUS發動狀態。",
-    reviews: [],
+    reviews: [
+      {
+        title: "HGUC ホワイトライダー レビュー",
+        url: "https://schizophonic9.com/re7/hguc_whiterider.html",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -11878,7 +11932,13 @@ export const collection: CollectibleItem[] = [
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "トーリスリッター", "Premium Bandai限定"],
     description: "「終焉の騎士」トーリスリッター，遭吉翁軍捕獲並歷經10年大幅改造的ペイルライダー，新規造形重現肩部展開式副臂與背包彈射式インコム等機構，武裝經改修升級為ハイパーナックルバスター、繼承自Bau的盾牌及可收納於前臂的光束軍刀，可透過替換透明面罩（綠／紅）重現一般狀態與HADES發動狀態。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "ガンプラ「HG 1/144 トーリスリッター (AMX-018[HADES] TODESRITTER) プレバン」開封・組立・レビュー",
+        url: "https://www.youtube.com/watch?v=hULZNpPmAAY",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-arz124-tr6-woundwort-psychoblade",
@@ -11895,8 +11955,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-arz124-tr6-woundwort-psychoblade.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ガンダムTR-6", "ウーンドウォート", "Premium Bandai限定"],
     description: "A.O.Z Re-Boot系列「ガンダムTR-6［ウーンドウォート］サイコブレードカスタム」，重現特徵性機體塗裝與造型並新規造形頭部零件與招牌武裝「サイコブレード」，同時強化可動性並提升與バーザム等其他A.O.Z RE-BOOT系機體的兼容性。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "【ガンプラ】HGUC ガンダムTR-6［ウーンドウォート］サイコブレードカスタム （A.O.Z RE-BOOT版） レビュー【プレバン】",
+        url: "https://gunplapocchi.com/gunpla-gundam-tr6-psycho-blade/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "2023年1月発送ガンプラ「HG 1/144 ガンダムTR-6［ウーンドウォート］サイコブレードカスタム （A.O.Z RE-BOOT版）」開封・組立・レビュー",
+        url: "https://www.youtube.com/watch?v=5WoGeQG2FGo",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "hg-rx78-ms00z-engage-zero",
