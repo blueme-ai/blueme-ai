@@ -12124,6 +12124,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.youtube.com/watch?v=nifbte_v4BQ",
         lang: "ja",
       },
+      {
+        title: "【ガンプラ】HG 1/144 ペイルライダー (空間戦仕様) クリアカラーをつくります‼️",
+        url: "https://www.youtube.com/watch?v=5iTP_A7Oa6Q",
+        lang: "ja",
+      },
     ],
   },
   {
