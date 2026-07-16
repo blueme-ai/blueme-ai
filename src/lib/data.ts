@@ -8011,7 +8011,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Fate/stay night", "ヒロインX", "1/7", "ALTER", "セイバー"],
     description: "由ALTER推出的《Fate/stay night》1/7比例完成品「ヒロインX（Heroine X）」，是為了打倒各式「セイバー系」英靈而登場的神秘覆面女英雄——其真身正是亞瑟王傳說的騎士王阿爾托莉雅・潘德拉貢（セイバー），此角色最初源自《Fate/hollow ataraxia》「膠囊從者」企劃及愚人節企劃「路地裏さつき ヒロイン十二宮編」中的惡搞設定，其後也延伸出FGO中「謎の英雄X」等相關衍生角色（注意與FGO從者「謎のヒロインX〔オルタ〕」為不同企劃、不同角色）。\n\n雕像重現角色頭戴黑色貓耳鴨舌帽、以藍色圍巾遮住口鼻的招牌造型，身穿藍色運動外套與短褲，右手持巨劍擺出戰鬥架勢，及膝馬尾與圍巾隨風飄動，展現英姿颯爽又帶點街頭感的獨特形象。原型製作由竜崎理擔綱，塗裝由鉄森七方負責，全高約230mm（含圍巾）。初版於2016年1月發售，2017年4月推出再版。由於角色本身設定為「神秘」身分，包裝與宣傳素材皆未直接標示其真實身份。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【FGO】Fate/stay night ヒロインX 1/7スケールフィギュア 開封レビュー！ALTER",
+        url: "https://www.youtube.com/watch?v=WBi5gow-cZk",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "mg-sandrock-custom-ew",
@@ -8543,7 +8549,13 @@ export const collection: CollectibleItem[] = [
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "トルネードパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "為 DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer. 本體追加的 Tornado Parts 套組，魂ウェブ商店限定販售，2014年2月受注、8月出貨。裝上後可重現劇場版《サヨナラノツバサ》中米海爾機的強化龍捲風裝甲形態，不含本體。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "賓賓賓玩具世界 - Macross F VF-25G renewal ver. and Tornado Parts",
+        url: "https://www.youtube.com/watch?v=TPPPOFvRGuE",
+        lang: "zh",
+      },
+    ],
   },
   {
     id: "dx-chogokin-vf25g-super-parts-renewal",
@@ -12549,7 +12561,13 @@ export const collection: CollectibleItem[] = [
     tags: ["無敵鋼人ダイターン3", "BANDAI", "SMP", "食玩", "サンライズ"],
     description: "1978年播出的機器人動畫《無敵鋼人ダイターン3》以SMP（食玩模型計畫）系列立體化，將設定全高120m的巨大機體壓縮重現為約183mm的可動模型，可變形為ダイファイター、ダイタンク，並附サン・アタック重現用替換手部零件與各式武器。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【SMP 無敵鋼人ダイターン３】これは傑作！ ダイターン カムヒア！セット ヲタファの食玩レビュー",
+        url: "https://www.youtube.com/watch?v=U9yIuiT6tVM",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "chogokin-gundam-ex-requiem",
