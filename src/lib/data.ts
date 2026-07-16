@@ -11798,9 +11798,9 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
-        title: "【マクロス玩具レビュー】DX超合金 VB-6 ケーニッヒモンスター（標準版參考評測，非本頁限定塗裝版）",
-        url: "https://www.youtube.com/watch?v=1lNVx_VzivY",
-        lang: "ja",
+        title: "【兔子家的玩具屋】DX超合金 火力上的绝对压制！VB-6【超时空要塞】",
+        url: "https://www.youtube.com/watch?v=3FNGYy6hPiw",
+        lang: "zh",
       },
     ],
   },
