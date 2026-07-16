@@ -12113,7 +12113,7 @@ export const collection: CollectibleItem[] = [
     scale: "HG 1/144",
     price: "¥2,200（含稅）",
     releaseDate: "2019年9月28日（THE GUNDAM BASE TOKYO イベント限定）",
-    officialUrl: "https://www.gundam-base.net/products/details.php?detail=3469",
+    officialUrl: "https://www.gundam-base.net/products/details.php?path=01_2542",
     imageUrl: "/images/hg-rx80pr-pale-rider-space-clear.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "クリアパーツ", "イベント限定"],
     description: "重現宇宙戰仕様形態的「ペイルライダー」透明成形色版本，THE GUNDAM BASE TOKYO開幕イベント限定販售。標配巨型格林機砲、超級光束步槍及盾牌等武裝，並可透過透明面罩與貼紙選擇重現一般狀態與HADES發動狀態。",
