@@ -6385,7 +6385,13 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロスゼロ", "VF-0S", "フェニックス", "ロイ・フォッカー", "YAMATO", "1/60", "完全変形", "ロボット"],
     description: "《超時空要塞ZERO》（マクロスゼロ）是為紀念《超時空要塞》系列播出20週年推出的OVA作品，故事發生在南方諸島群戰役期間。VF-0S「鳳凰」是傳奇王牌飛行員洛伊·福克（ロイ・フォッカー）的座機，機體以白色為基調並繪有骷髏標誌，是VF-1女武神系列的原型機種，代表統合軍最早期實戰化的可變戰鬥機。\n\n本商品為YAMATO推出的1/60比例「完全変形」系列可動玩具，可在戰鬥機、GERWALK、機甲人形三種形態間完整變形，內建大量壓鐵提升手感與可動性，隨附機炮莢艙、副油箱、飛行員模型與多款武裝配件，戰鬥機模式全長約320mm。2006年4月發售，是YAMATO可變戰鬥機系列的代表作之一，深受馬克羅斯玩具收藏者喜愛。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【マクロス玩具レビュー】アルカディア 1/60 VF-0S ロイ・フォッカー機 ／ Arcadia 1/60 scale VF-0S Roy Focker（同モールド系列參考評測）",
+        url: "https://www.youtube.com/watch?v=FCwgjYnPGmY",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "saekano-utaha-white-dress-1-7",
@@ -9933,8 +9939,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/utr-04-nero.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "Galvatron", "威震天", "三方廠", "UniqueToys", "Nero", "Age of Extinction"],
     description: "三方廠 UniqueToys「R」系列之一，型號 R-04「Nero（尼祿）」，以《變形金剛4：絕跡重生》電影版威震天（Galvatron）為原型的原創詮釋玩具。載具型態為大型半掛聯結車，機器人型態頭部雕刻與胸口反應爐造型高度還原電影設計，配備多處管線與金屬質感塗裝細節，MP比例可與其他三方廠電影系列擎天柱、禁閉等機體同台展示。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "Review: Unique Toys R-04 Nero (part 1)",
+        url: "https://tfsource.com/blog/2022/04/06/review-unique-toysr-04-nero-part-1/",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Unique Toys GALVATRON Transformers Age Of Extinction R-04 NERO Review",
+        url: "https://www.youtube.com/watch?v=lwsfs5PJyO4",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "tf-mpm-10-starscream",
@@ -10103,7 +10121,13 @@ export const collection: CollectibleItem[] = [
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "百獣戦隊ガオレンジャー", "Gaoranger", "ガオハンター", "GaoHunter", "ガオウルフ", "ガオハンマーヘッド", "ガオアリゲイター", "スーパー戦隊", "バンダイキャンディ", "食玩"],
     description: "「SMP 百獣合体ガオハンター」是BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列出品，出自2001年特攝戰隊作品《百獣戦隊ガオレンジャー》，2022年1月24日發售。由ガオウルフ、ガオハンマーヘッド、ガオアリゲイター三隻百獸合體而成，可重現「ガオハンターEvil」與「ガオハンターJustice」兩種形態，並可與其他另售百獸零件相容擴充。上下半身分離可變形為巨劍與盾牌，色分塗裝精緻。與GaoKnight同屬《百獣戦隊ガオレンジャー》系列，並非勇者王GaoGaiGar作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【百獣戦隊ガオレンジャー】SMP 百獣合体 ガオハンター ヲタファの戦隊ミニプラ レビュー",
+        url: "https://www.youtube.com/watch?v=fxzFrI_etZg",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "super-minipla-fighbird",
@@ -10150,7 +10174,13 @@ export const collection: CollectibleItem[] = [
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "太陽の勇者ファイバード", "Fighbird", "ドライアス", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ", "P-Bandai限定"],
     description: "「SMP 太陽の勇者ファイバード ドライアス」是Premium Bandai限定食玩模型，取材自《太陽の勇者ファイバード》反派巨大機體「ドライアス」，由デスイーグル、デスタイガー、デスドラゴン三台動物機合體變形而成，全高約175mm，與主角機ファイバード形成鮮明體型對比。標配「デスブレード」音叉造型武器及多種替換手型，重現原作中複雜的合體變形機構，開發耗時逾一年，可噴射機形態收納並具備豐富可動關節。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【SMPドライアス】三獣合体の超絶ギミックがすごい！ヲタファの太陽の勇者ファイバード レビュー",
+        url: "https://www.youtube.com/watch?v=9Cm71dn1ZHc",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "minipla-battle-caesar-robo",
