@@ -8561,7 +8561,13 @@ export const collection: CollectibleItem[] = [
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "為 DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer. 本體追加的 Super Parts 套組，不含本體，裝上後可強化機體火力與防禦外觀。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "魂ウェブ マクロスF「DX超合金 VF-25G スーパーメサイアバルキリー（ミハエル・ブラン機）リバイバルVer.」Macross TAMASHII NATIONS",
+        url: "https://www.youtube.com/watch?v=R04Q4-WBK1M",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "dx-chogokin-yf29-durandal-ozma",
