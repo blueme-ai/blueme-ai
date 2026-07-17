@@ -2675,7 +2675,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（P-Bandai 抽選販売）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102666819000&grp_id=5325",
     imageUrl: "/images/musha-gundam-mk2-tokugawa-nanban.jpg",
-    tags: ["MG", "ガンプラ", "武者ガンダム", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
+    tags: ["BOX0006", "MG", "ガンプラ", "武者ガンダム", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
     description: "為紀念日光東照宮世界遺產登錄 25 週年所推出的特別企劃模型，以收藏於東照宮寶物館的德川家康遺品「南蛮胴具足」為造型原型，結合武者ガンダムMk-II 的 MG 1/100 套件重新詮釋。\n\n南蛮胴是戰國時代從葡萄牙傳入日本的西式胸甲，以其流線型弧面與異國金屬感著稱；本件在機體配色上以黑色電鍍為基底，全身甲冑零件採黑色電鍍與銀色電鍍雙重質感搭配，裙甲（草摺）等紅色部位以和紙質感貼紙印刷呈現，胸甲更燙印德川家三葉葵紋家徽。2024 年 5 月 27 日先行於日光東照宮現地販售、同年奉納於神社，其後透過 Premium Bandai 抽選販售，入手難度極高，是結合歷史文化與鋼彈的稀有聯名企劃。",
     reviews: [
       {
@@ -6852,7 +6852,7 @@ export const collection: CollectibleItem[] = [
     height: "約125mm",
     officialUrl: "https://p-bandai.com/tw/item/A2805106001",
     imageUrl: "/images/hg-saylas-light-guncannon.jpg",
-    tags: ["ガンプラ", "HG", "Bandai", "GQuuuuuuX", "軽キャノン", "セイラ・マス", "ジークアクス", "プレミアムバンダイ"],
+    tags: ["BOX0005", "ガンプラ", "HG", "Bandai", "GQuuuuuuX", "軽キャノン", "セイラ・マス", "ジークアクス", "プレミアムバンダイ"],
     description: "《機動戦士Gundam GQuuuuuuX（鋼彈 GQuuuuuuX）》登場的「セイラ専用軽キャノン」，是以連邦軍制式量產機「軽キャノン（ライトタイプ・ガンキャノン）」為基礎的專屬機。劇中セイラ・マス隱藏身分駕駛此機，在索羅門攻防戰中擊墜多茲爾・薩比中將，其後更對夏亞座機「紅色鋼彈」發動奇襲，是全劇話題度極高的關鍵機體之一。\n\n本商品為HG系列新規色替版，以成形色重現角色標誌性的紅、白、藍三色塗裝，無需大量塗裝即可還原劇中配色。武裝配件齊全，包含光束步槍、光束軍刀、光束加農砲，以及最具代表性的「鋼彈鎚」，其鎖鏈部分採用可動軟骨關節，能自由擺動重現揮擊姿態。本商品為Premium Bandai限定販售，2025年10月發售，定價2,530日圓（含稅）。",
     reviews: [
       {
@@ -7183,7 +7183,7 @@ export const collection: CollectibleItem[] = [
     height: "",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5961/",
     imageUrl: "/images/hg-gquuuuuux-gfred.jpg",
-    tags: ["HG", "1/144", "GQuuuuuuX", "GFreD", "ジーフレッド", "高達", "BANDAI SPIRITS", "Newtype專用機"],
+    tags: ["BOX0005", "HG", "1/144", "GQuuuuuuX", "GFreD", "ジーフレッド", "高達", "BANDAI SPIRITS", "Newtype專用機"],
     description: "GFreD（ジーフレッド）是《機動戰士Gundam GQuuuuuuX（機動戰士高達GQuuuuuuX）》中登場的Newtype專用機，是搭載精神感應通訊裝置的高達機體系列第二號機，由格拉納達研發，劇中由少女尼安駕駛。機體頭部可展開變形，展現出與初號機GQuuuuuuX截然不同的詭譎機能美，是該系列後半劇情中的關鍵機體之一。",
     reviews: [
       {
@@ -7224,7 +7224,7 @@ export const collection: CollectibleItem[] = [
     height: "",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5057/",
     imageUrl: "/images/hg-build-strike-galaxy-cosmos.jpg",
-    tags: ["HG", "1/144", "高達創鬥者", "Build Strike", "Galaxy Cosmos", "高達基地限定", "BANDAI SPIRITS", "普拉夫斯基粒子"],
+    tags: ["BOX0005", "HG", "1/144", "高達創鬥者", "Build Strike", "Galaxy Cosmos", "高達基地限定", "BANDAI SPIRITS", "普拉夫斯基粒子"],
     description: "Build Strike Galaxy Cosmos（星系高達 銀河宇宙）是《高達創鬥者 對戰記（ガンダムビルドファイターズ バトローグ）》中登場的機體，由主角編出流之子編出星操縱，以「Build Strike Cosmos」為基礎進一步強化而成，在與三代川口名人辰巳龍也的決戰中登場。機體背包配置12枚可動翼片，能自由展開變形為「Galaxy Booster」等造型，重現如銀河、星芒般的華麗外觀，是Build Strike系列的最終強化形態。",
     reviews: [
       {
