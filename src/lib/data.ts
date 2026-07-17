@@ -13913,4 +13913,28 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "moshow-yr052f-noble-cyclone",
+    addedAt: "2026-07-17",
+    name: "MOSHOWTOYS NOBLE CLASS X YR-052F Cyclone",
+    nameJa: "",
+    series: "Robotech: The New Generation（機甲創世記モスピーダ）",
+    character: "YR-052F サイクロン",
+    manufacturer: "Moshow Toys × Toynami（Harmony Gold授權）",
+    scale: "約1/10比例可動完成品",
+    price: "US$239.00",
+    releaseDate: "2024年（Noble Class X系列）",
+    officialUrl: "https://www.kicksgenerationtoys.com/products/moshow-yr-052f-noble-class-x-robotech-the-new-generation-cyclone-motorcycle",
+    imageUrl: "/images/moshow-yr052f-noble-cyclone.jpg",
+    tags: ["BOX0001", "Robotech", "The New Generation", "機甲創世記モスピーダ", "サイクロン", "Cyclone", "Moshow Toys", "Toynami"],
+    description: "《機甲創世記モスピーダ》海外版《Robotech: The New Generation》登場的可變機車兵裝「サイクロン（Cyclone）」，由Moshow Toys與Toynami合作、Harmony Gold正式授權推出的「Noble Class X」系列YR-052F規格。整合前代VR-030、VF-040系列優點的最新規格版本，可變形為機車、中間過渡、戰鬥裝甲（Battle Armor）三形態，標配駕駛員人偶、可替換手部零件及EP-40手槍。",
+    reviews: [],
+    youtube: [
+      {
+        title: "Moshow Noble Class X Cyclone Ride Armor Review",
+        url: "https://www.youtube.com/watch?v=Wv8Kr1tQV2k",
+        lang: "en",
+      },
+    ],
+  },
 ]
