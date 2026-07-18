@@ -14166,4 +14166,34 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "chogokin-gx66-tryder-g7",
+    addedAt: "2026-07-18",
+    name: "超合金魂 GX-66 無敵ロボ トライダーG7",
+    nameJa: "超合金魂 GX-66 無敵ロボ トライダーG7",
+    series: "無敵ロボ トライダーG7（Invincible Robo Trider G7）",
+    character: "トライダーG7",
+    manufacturer: "BANDAI SPIRITS",
+    scale: "超合金魂",
+    price: "¥25,000（未稅）／¥27,500（含稅）",
+    releaseDate: "2014年6月28日",
+    officialUrl: "https://tamashiiweb.com/item/10636/",
+    imageUrl: "/images/chogokin-gx66-tryder-g7.jpg",
+    tags: ["無敵ロボ トライダーG7", "トライダーG7", "超合金魂", "GX-66", "BANDAI SPIRITS"],
+    description: "《無敵ロボ トライダーG7》是Sunrise於1980年至1981年間製作的機器人動畫作品，描繪少年駕駛巨大變形機器人「トライダーG7」對抗外星侵略者的故事，是1980年代初期昭和機器人動畫的代表作之一，其標誌性的三段式頭部變形機構深植老一輩機器人迷心中。「超合金魂 GX-66」為BANDAI「超合金魂」系列針對本作推出的高規格立體化商品，於2014年6月28日發售，以金屬壓鑄合金材質重現機體厚重紮實的手感，並完整重現原作標誌性的三段式頭部變形機構，可從「トライダー」變形為「トライダー・イーグル」「トライダー・コスミック」等多種戰鬥形態，充分展現角色多樣化的變形樂趣。套件關節可動範圍經過超合金魂系列一貫的優化調校，兼顧金屬質感與姿勢展示彈性，塗裝配色忠實重現1980年代動畫設定色彩。作為早期機器人動畫少見的高規格立體化商品，本作深受支持初代トライダーG7的資深機器人動畫迷與超合金魂系列收藏者喜愛，也是探討昭和末期至平成初期機器人動畫周邊商品化歷程時的重要參考作品。2020年另有推出紀念放送40週年的「GX-66R」強化版本，可與本作並列比較收藏。",
+    reviews: [
+      {
+        title: "超合金魂：GX-66 無敵ロボ トライダーG7[レビュー]（その1）",
+        url: "https://toroplus.blog/tyougoukinn-spirit/gx66-trider_g7-1/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "[3] Soul of Chogokin GX-66 Invincible Robot Rider G7 SOC",
+        url: "https://www.youtube.com/watch?v=5_lt_y3V_ZQ",
+        lang: "en",
+      },
+    ],
+  },
 ]
