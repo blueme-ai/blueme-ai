@@ -40,7 +40,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/zh/product/7068/Saber+Alter+%E5%92%8C%E6%9C%8Dver.",
     imageUrl: "/images/saber-alter-kimono.jpg",
     tags: ["Fate", "セイバーオルタ", "和服", "1/7", "KADOKAWA", "Heaven's Feel"],
-    description: "Saber Alter（黑化的 Artoria Pendragon）以華麗和服姿態呈現的 1/7 比例完成品。原畫由武內崇繪製，最初刊登於《月刊Newtype》特刊，人物穿著帶有金色刺繡的黑色和服，左手撐開一把淺紫色油紙傘，姿態沉靜中透著不容逼近的王者氣場。\n\n服裝細節豐富——和服的絲質光澤、腰帶的立體浮雕花紋、袖口若隱若現的刺繡，均在 1/7 比例下精細重現。台座採用日式石燈籠造型，與整體和風意境融為一體。全高約 275mm（含傘及台座），是《Heaven's Feel》三部曲完結後最具話題性的衍生商品之一。此為原版 2024 年 1 月發售後的第二次再版，入手難度相對原版大幅降低。",
+    description: "《Fate/stay night》是 Type-Moon 於 2004 年推出的視覺小說原作，其中「Heaven's Feel」路線因主角一行人被聖杯汙染而走向陰暗結局，聞名於粉絲之間，並於近年改編為劇場版三部曲完結。Saber Alter 正是本篇主角 Artoria Pendragon（亞瑟王）在此路線中因聖杯扭曲而誕生的墮落姿態——原本理性克己的騎士王性格轉為冷酷寡言，劍刃亦轉為漆黑的「約束勝利之劍・虛無」，象徵理想崩壞後英靈墮落的悲劇美，是系列人氣最高的角色形象之一，反差魅力深受粉絲喜愛。此和服Ver.由武內崇親繪原案，罕見地將黑化Saber置入和風語境，透過黑底金繡和服與淺紫油紙傘，展現王者高貴中帶著疏離的靜謐氣場。作為1/7比例完成品，和服的絲質光澤、腰帶立體浮雕與傘骨細節皆經多層塗裝與分件處理精細重現，台座採日式石燈籠造型烘托整體意境，全高約275mm極具存在感，是《Heaven's Feel》完結後話題性最高的周邊之一，此為再版商品，入手難度較初版大幅降低。",
     reviews: [
       {
         title: "Kadokawa Fate Heaven's Feel Saber Alter Kimono Ver. 1/7 Review | MyFigureCollection",
@@ -81,7 +81,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054058129/",
     imageUrl: "/images/jeanne-alter-casual.jpg",
     tags: ["Fate/Grand Order", "ジャンヌ〔オルタ〕", "1/7", "Kotobukiya", "展示中", "新宿"],
-    description: "《Fate/Grand Order》第一部第一章「異聞帶 I：新宿幻靈事件」的主角之一，黑化的聖女貞德（Jeanne d'Arc Alter）以日常便服形象登場的 1/7 比例完成品。\n\n人物穿著正面有拉鍊設計的黑色皮質迷你裙，搭配深色長靴與紅黑漸層的披風型外套，頭上帶有象徵 Avenger 職階的小型王冠。身體微微前傾、腳步向前踏出，一手叉腰、一手輕提、頭微微側傾的姿勢，同時展現少女的俏皮感與 Avenger 的銳利眼神。\n\n台座為充滿廢墟感的裂紋石板地面，重現新宿廢街背景。附可替換右手臂，可切換為持劍（勝利之劍 La Pucelle）的戰鬥姿勢。此款為初版 2019 年發售後 Kotobukiya 的再版。非 ArtFX J 系列，屬 Kotobukiya 一般 PVC 1/7 完成品線。",
+    description: "《Fate/Grand Order》是 Type-Moon 旗下手機遊戲，2015年上線，以主角人理修復御主率領從者穿越異聞帶的劇情架構聞名，第一部第一章「新宿幻靈事件」即揭開整部作品的序幕。黑聖女貞德（Jeanne d'Arc Alter）本是聖女貞德的黑化型態，身披 Avenger（復仇者）職階，性格陰鬱毒舌卻又帶著少女般的彆扭可愛，因此成為FGO人氣最高的角色之一，官方也持續推出各種私服、泳裝等異色版本滿足粉絲需求。此為 Kotobukiya 製作的日常便服 1/7 完成品，脫下戰甲後的黑貞德穿著帶拉鍊設計的皮革迷你裙與紅黑漸層披風外套，頭頂仍保留 Avenger 象徵的小型王冠，姿態上叉腰前傾、頭部微側，同時傳達俏皮感與角色本身的銳利眼神反差。台座重現新宿廢墟裂痕地面，呼應原作背景舞台，並附替換右手臂可切換持劍戰鬥姿勢，一鍵切換日常與戰鬥兩種氛圍。此為Kotobukiya一般PVC完成品線的再版商品，非ArtFX J系列。",
     reviews: [
       {
         title: "コトブキヤ ジャンヌ・ダルク〔オルタ〕 私服ver. レビュー | はっちゃか",
@@ -121,7 +121,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2302840001",
     imageUrl: "/images/mg-turn-a-gundam-moonlight-butterfly.jpg",
     tags: ["ガンダム", "∀ガンダム", "MG", "1/100", "Bandai", "P-Bandai限定"],
-    description: "富野由悠季監督 1999 年電視動畫《∀ Gundam》主角機 WD-M01 Turn A Gundam 的 MG 1/100 P-Bandai 限定特別版，主打「月光蝶（Moonlight Butterfly）」展開效果零件。\n\n月光蝶是 Turn A Gundam 潛藏的最終兵器：機體散放出無數奈米機器人形成絢爛的蝶翼光場，可以侵蝕並分解所有工業科技文明，是宇宙世紀（UC）所有鋼彈系列中公認殺傷範圍最廣的武裝之一。此版本特別附有大量透明效果零件，精細重現月光蝶展開瞬間的光翼形態，令整組完成後極具陳設觀賞價值。\n\n基礎骨架延續 MG Turn A 的精密結構，全身具備流暢可動性，除月光蝶零件外亦附有一般展示用姿勢的備用手型與武裝配件。此為 P-Bandai（Premium Bandai）限定商品，非一般通路販售。",
+    description: "《∀ Gundam》是富野由悠季監督於1999年執導的電視動畫，作為紀念鋼彈系列20週年的獨立作品，故事設定在遙遠未來、地球文明幾近消亡的「黑歷史」時代之後，風格帶有濃厚的田園牧歌氣息，與過往UC系列大相逕庭。主角機 WD-M01 Turn A Gundam（∀鋼彈）造型融合月球型頭盔與鬍鬚裝飾，設計出自席德・米德之手，別具一格。月光蝶（Moonlight Butterfly）是機體潛藏的最終兵器：透過釋放大量奈米機器人形成絢麗蝶翼光場，能夠侵蝕分解一切工業科技文明，堪稱鋼彈系列中設定最恐怖、殺傷範圍最廣的武裝之一，劇中僅在關鍵時刻展開，極具戲劇張力。此MG 1/100版本為P-Bandai限定特別版，主打大量透明效果零件精細重現月光蝶展開瞬間的光翼形態，令完成品陳設價值大幅提升；骨架延續MG Turn A的精密可動結構,除效果零件外亦附一般展示用備用手型與武裝配件，屬Premium Bandai通路限定商品，一般店鋪無法購得。",
     reviews: [
       {
         title: "P-Bandai MG Turn A Gundam Moonlight Butterfly Ver. Color Guide | Mech9",
@@ -161,7 +161,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/macross-plus-yf21-yamato.jpg",
     tags: ["マクロス", "マクロスプラス", "YF-21", "1/60", "YAMATO", "可變形", "絕版"],
-    description: "河森正治原案、菱田正和監督的 OVA 作品《Macross Plus》（1994）中由天才試驗飛行員 Guld Goa Bowman 駕駛的次世代可變戰機原型機 YF-21，由 YAMATO 以 1/60 比例製作的完全變形完成品。\n\nYF-21 在劇中是 Macross 宇宙中最具野心的機體設計之一——採用無操縱桿的腦波控制系統（BCS, Brain Computer System），令機體直接接受駕駛員的意念指令運動。外型上以大型三角翼搭配前置鴨翼，機首修長，充滿空氣動力學美感，與競爭機 YF-19 形成截然不同的設計哲學。\n\n此 YAMATO 1/60 版本支援 Fighter（戰鬥機）、GERWALK（半變形）、Battroid（人形）三型態完全切換，機身各面板、手臂收納、機首展開等機構均以精密塑膠件組成，是 Macross 比例模型中工業設計含量極高的一款。YAMATO 品牌已於 2013 年停業，現行市場流通量稀少，收藏與增值潛力兼具，是 Macross 模型收藏家必備的里程碑作品。",
+    description: "《Macross Plus》是河森正治原案、菱田正和監督的OVA作品，於1994年推出，以兩台次世代可變戰機競標試作機的對決為主軸，搭配菅野洋子操刀的音樂與Sharon Apple的科幻設定，成為Macross系列中作畫與世界觀最受推崇的支線作品之一。YF-21由天才卻性格叛逆的試驗飛行員Guld Goa Bowman駕駛，是劇中野心最大的機體設計——採用無操縱桿、直接讀取駕駛員腦波下達指令的BCS（Brain Computer System）腦波控制系統，大型三角翼配合前置鴨翼與修長機首，散發強烈的空氣動力學美感，與對手機YF-19的正統戰機路線形成鮮明對比，也埋下劇中人機合一失控的伏筆。此為已停業品牌YAMATO於2000年代推出的1/60完全變形完成品，支援Fighter、GERWALK、Battroid三型態自由切換，機身面板收納、機首展開等機構皆以精密塑膠件構成，屬Macross比例模型中工業設計含量極高的一款。YAMATO停業後市場流通量稀少，兼具收藏與增值潛力，是Macross模型玩家公認的里程碑作品。",
     reviews: [
       {
         title: "YF-21 Valkyrie Review — CollectionDX（圖文評測）",
@@ -201,7 +201,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://shop.hololivepro.com/products/hoshimachisuisei_lp_shinseimokuroku",
     imageUrl: "/images/suisei-shinsei-mokuroku-vinyl.jpg",
     tags: ["星街すいせい", "Hoshimachi Suisei", "hololive", "黑膠", "LP", "音樂", "專輯", "スプラッター", "新星目録"],
-    description: "VTuber 星街すいせい（Hoshimachi Suisei）第三張個人全長專輯《新星目録》的 Vinyl LP 黑膠盤完全生産限定版，採用「スプラッター・レコード仕様」——製造工程中將顏料潑灑於盤面，每一張的紋樣皆獨一無二，無兩張相同。《新星目録》（原作 CD 發售於 2025 年 1 月 22 日）收錄「AWAKE」「ビビデバ」「DEADPOOL feat.花譜」「Caramel Pain」等 11 首曲目，Side A 5 首、Side B 6 首，為 Suisei 音樂生涯最全面的集結，2026 年 3 月 18 日以單張 LP 規格類比化。",
+    description: "星街すいせい（Hoshimachi Suisei）是 hololive 旗下人氣VTuber，出道前曾以人類歌手身分活動，兼具高超歌唱實力與犀利毒舌風格，是VTuber音樂界中少數能同時站穩虛擬與現實舞台的代表人物之一，長年於音樂榜單與現場演出屢創話題。《新星目録》是她個人第三張全長專輯，原版CD於2025年1月22日發行，收錄「AWAKE」「ビビデバ」「DEADPOOL feat.花譜」「Caramel Pain」等11首曲目，橫跨搖滾、電子與抒情曲風，可謂其音樂生涯至今最全面的集結作品。此為2026年3月18日推出的Vinyl LP黑膠盤完全生產限定版，採用「スプラッター・レコード仕様」特殊工法——製造過程中將顏料潑灑於盤面，使每一張唱片的紋樣色彩皆獨一無二、無兩張完全相同，兼具視覺藝術性與收藏稀缺性。Side A收錄5首、Side B收錄6首，以類比黑膠質感重新詮釋原本的數位錄音，對黑膠收藏者與Suisei粉絲而言都是難得一見的限定周邊，且因潑彩工藝而使每一件實體都成為獨一無二的收藏品。",
     reviews: [],
     youtube: [
       {
@@ -230,7 +230,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_5509",
     imageUrl: "/images/rx783-g3-gundam-ver30-base-limited.jpg",
     tags: ["ガンダム", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "ガンダムベース限定", "聯邦軍"],
-    description: "《機動戰士鋼彈》（1979）中宇宙世紀地球聯邦軍所開發的初期量產型試作モビルスーツ（MS）RX-78 鋼彈第三號機，俗稱「G-3 Gundam」。G-3 是三架試作機中以「耐磁塗裝（磁力無效塗裝）」為特徵的特殊規格機，外裝塗裝以低調的灰白調為主，有別於一號機（RX-78-1）與二號機（RX-78-2）的標準紅白藍配色，因此在眾多鋼彈模型版本中獨具辨識度。\n\n此版本採用 MG Ver.3.0 骨架——這是截至目前 RX-78 系列 MG 最新世代的骨架規格，具備極為精密的全身關節構造（包括手指各節可動、腳掌踝關節自由傾斜等），並徹底重製了內部骨架造型，即使不裝外裝甲板，骨架本身也完整呈現 RX-78 的機體輪廓。外裝甲板則採用帶有金屬光澤的珍珠灰塗裝，搭配 THE GUNDAM BASE（鋼彈基地旗艦店）限定的專屬水貼，是正統派鋼彈 MG 模型中的高規格珍藏版本。",
+    description: "《機動戰士鋼彈》是1979年由富野由悠季執導的初代電視動畫，開創了「寫實系機器人」類型，奠定整個宇宙世紀（UC）系列的世界觀基礎，主角機RX-78-2鋼彈更成為整個模型產業的象徵符號。RX-78-3「G-3 Gundam」是地球聯邦軍當年試作的三架RX-78中的第三號機，以「耐磁塗裝（磁力無效化塗裝）」為特徵設計，外裝採低調灰白色調，區別於一號機與二號機的紅白藍標準配色，因此在眾多鋼彈版本中格外具辨識度，也是資深鋼彈迷心中的隱藏經典塗裝。此版本採用MG Ver.3.0骨架——這是目前RX-78系列MG最新世代規格，具備手指各節可動、腳踝自由傾斜等精密全身關節構造，內部骨架即使不裝甲板也能完整呈現機體輪廓，展現有別於舊版MG的擬真結構。外裝甲板採帶金屬光澤的珍珠灰塗裝，並搭配THE GUNDAM BASE（鋼彈基地旗艦店）限定專屬水貼，屬正統鋼彈MG模型中規格最高、限量發售的珍藏版本，一般通路無法購得。",
     reviews: [
       {
         title: "「MG 1/100 ガンダムベース限定 RX-78-3 G-3ガンダム Ver.3.0」レビュー!! | THE GUNDAM BASE TOKYO BLOG",
@@ -265,7 +265,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15660/",
     imageUrl: "/images/gff-mc-wing-gundam-zero-cloaked.jpg",
     tags: ["Gundam Wing", "飛翼零式", "GFF", "METAL COMPOSITE", "Bandai", "合金"],
-    description: "《新機動戰記鋼彈W Endless Waltz》（1997）主角機 XXXG-00W0 Wing Gundam Zero（飛翼零式）的 GUNDAM FIX FIGURATION METAL COMPOSITE（GFF MC）完成品，特別加入「Cloaked Custom（換裝外裝版）」追加零件套組。\n\nGFF METAL COMPOSITE 系列是 Bandai Namco 旗下頂級完成品品牌，主體以 ABS、PVC 及壓鑄合金（ダイキャスト）混合構成，呈現有別於一般塑膠模型的金屬分量感與光澤。Cloaked Custom 版本的最大特色是附有一件以真實布料製作的白色大型斗篷，可披在機體肩上，完全遮蓋翅翼，與展開翅翼的標準形態形成強烈視覺落差。",
+    description: "《新機動戰記鋼彈W》是1995年播出的電視動畫，其後續劇場版《Endless Waltz》（1997）以五名Gundam駕駛員在戰爭終結後重新面對和平意義為主題，風格唯美且充滿悲劇色彩，深受粉絲喜愛。主角機 XXXG-00W0 Wing Gundam Zero（飛翼零式）於劇場版中登場，配備象徵性的雙翼展開形態與「零系統」（駕駛員可預知未來但伴隨精神負荷的輔助系統），是W系列中人氣與話題度最高的機體之一。GUNDAM FIX FIGURATION METAL COMPOSITE（GFF MC）是Bandai Namco旗下頂級完成品品牌，主體以ABS、PVC搭配壓鑄合金（ダイキャスト）混合構成，賦予一般塑膠模型少見的金屬分量感與光澤質感。此為特別追加「Cloaked Custom（換裝外裝版）」零件套組的版本，最大特色是附有真實布料製作的白色大型斗篷，可披掛於機體肩上完全遮蓋展開的翅翼，與標準展翼形態形成強烈的視覺落差，讓收藏者能一次呈現飛翼零式截然不同的兩種氣質，是該角色玩具化作品中極具話題性的特別規格。",
     reviews: [
       {
         title: "ウイングガンダムゼロ クロークドカスタム レビュー | toroplus",
@@ -305,7 +305,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2785243001",
     imageUrl: "/images/metal-build-providence-climax-battle.jpg",
     tags: ["Gundam SEED", "プロヴィデンスガンダム", "METAL BUILD", "Bandai", "合金", "魂展限定"],
-    description: "《機動戰士鋼彈 SEED》（2002）終盤登場的最強 ZAFT 試驗型 MS、由 Rau Le Creuset 駕駛的 GAT-X131 Providence Gundam，以 Bandai Namco TAMASHII NATIONS 的頂級完成品品牌「METAL BUILD」打造的 CLIMAX BATTLE Ver.，為 TAMASHII NATION 2025 活動限定商品。\n\nProvidence Gundam 最大的設計特色是其掛載於背部的大型 DRAGOON System（ドラグーン・システム）——這是一套可分離飛行的全方位射擊兵器群，由機動可動砲台組成，可對敵方展開立體全向射擊，是鋼彈 SEED 宇宙中最具威壓感的武裝之一。CLIMAX BATTLE Ver. 充分再現了 DRAGOON 全展開的極限形態，大量合金壓鑄零件賦予機體沉甸甸的重量感，配合精緻塗裝，視覺衝擊力十足。",
+    description: "《機動戰士鋼彈SEED》於2002年播出，是鋼彈系列在新世紀重新開創的獨立世界觀作品，以Cosmic Era曆法與Coordinator（強化人）與Natural之間的衝突為主軸，人氣角色與機體設計深受粉絲喜愛。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色Rau Le Creuset駕駛，是ZAFT陣營技術結晶的最強試驗型MS之一。其最大特色為背部掛載的大型DRAGOON System（多拉貢系統）——一套可分離飛行的全方位無線遙控射擊兵器群，能對敵方展開立體式全向射擊，威壓感與戰術壓制力在整部作品中數一數二，也是Rau Le Creuset這名亦正亦邪角色最具代表性的座機。METAL BUILD是TAMASHII NATIONS旗下頂級完成品品牌，以大量合金壓鑄零件與精密可動結構聞名，此CLIMAX BATTLE Ver.為TAMASHII NATION 2025活動限定商品，充分再現DRAGOON全展開的極限攻擊形態，沉甸甸的金屬質感搭配細緻塗裝，視覺震撼力十足，屬活動限定、通路稀少的高規格收藏品。",
     reviews: [
       {
         title: "METAL BUILD プロヴィデンスガンダム レビュー | はっちゃか",
@@ -347,7 +347,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15385/",
     imageUrl: "/images/gff-mc-wing-gundam-zero-rebellion.jpg",
     tags: ["Gundam Wing", "飛翼零式", "GFF", "METAL COMPOSITE", "Bandai", "合金"],
-    description: "飛翼零式 GFF MC 系列的全新版本「REBELLION」，採用全新配色與強化外裝設計，翅翼形狀更具攻擊性，展現出有別於標準版的壓迫氣場。以高品質合金骨架搭配精密塗裝完成品展示價值，是飛翼零式玩具系列中繼 Cloaked Custom 之後的又一重量級作品。",
+    description: "飛翼零式（XXXG-00W0 Wing Gundam Zero Custom）出自《新機動戰記鋼彈W》劇場版《Endless Waltz》，是五名主角機師之一Heero Yuy的最終座機，配備象徵性的展翼形態與「零系統」精神輔助裝置，多年來一直是Gundam W系列人氣最高的機體象徵。GUNDAM FIX FIGURATION METAL COMPOSITE（GFF MC）是Bandai Namco旗下頂級完成品線，以ABS、PVC搭配壓鑄合金構成機體骨架，呈現有別於一般塑膠模型的沉穩金屬質感。「REBELLION」是該系列繼Cloaked Custom換裝版之後推出的全新規格版本，採用截然不同的配色方案與強化外裝造型，翅翼形狀經過重新設計，稜角更為銳利、姿態更具攻擊性，展現出與標準版截然不同的壓迫氣場，彷彿呈現飛翼零式「暴走」或「更具戰意」的另一種詮釋。整體以高品質合金骨架搭配精密分件塗裝完成，細節與光澤處理均達到完成品等級的陳設水準，是飛翼零式玩具化系列中持續擴充的重量級作品，也是GFF MC系列展現該機體多元面貌的代表版本之一。",
     reviews: [
       {
         title: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロリベリオン レビュー | はっちゃか",
@@ -387,7 +387,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15365/",
     imageUrl: "/images/metal-build-burning-gundam-second.jpg",
     tags: ["Gガンダム", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
-    description: "《機動武闘傳 G 鋼彈》（1994）主角機 GF13-017NJ 神鋼彈（英文版稱 Burning Gundam）的 METAL BUILD 完成品，附帶第二形態「弐式（Second）」替換零件。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現劇中「God Finger」最終決戰形態，合金壓鑄骨架帶來紮實的重量感。",
+    description: "《機動武鬥傳G鋼彈》於1994年播出，是鋼彈系列首度脫離戰爭寫實路線、改以「格鬥錦標賽」為主軸的作品，各國代表機師駕駛象徵國家特色的Gundam互相比武，風格熱血誇張，開創了系列全新的娛樂方向。主角機GF13-017NJ神鋼彈（英文版稱Burning Gundam）由主角東方不敗駕駛，以格鬥流「東方不敗流」拳法搭配招牌絕招「God Finger」與最終奧義聞名，是整部作品精神象徵的核心機體。METAL BUILD是TAMASHII NATIONS的頂級完成品品牌，以精密可動關節與合金壓鑄骨架著稱，此版本附帶劇中後期強化形態「弐式（Second）」的替換零件，讓收藏者可重現神鋼彈初期與強化後兩種姿態。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現最終決戰形態，合金骨架賦予紮實的重量感與可動性，屬P-Bandai限定通路商品，一般店鋪無法購得，是G鋼彈系列完成品中還原度與收藏價值兼具的代表作。",
     reviews: [
       {
         title: "METAL BUILD ゴッドガンダム＆ゴッドガンダム弐（セカンド） レビュー | はっちゃか",
@@ -427,7 +427,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14987/",
     imageUrl: "/images/metal-build-strike-freedom-festival2024.jpg",
     tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
-    description: "《機動戰士鋼彈 SEED DESTINY》主角機 ZGMF-X20A 強攻自由鋼彈的 METAL BUILD FESTIVAL 2024 活動限定特仕版。相較標準版進一步強化配色與金屬光澤質感，全展開的羽翼砲（Super Dragoon）形態是整件作品最壯觀的展示配置，彰顯 SEED 宇宙最強機體的威壓。",
+    description: "《機動戰士鋼彈SEED DESTINY》是2004年播出的《SEED》續作，延續Cosmic Era世界觀，主角基拉・大和最終駕駛的強攻自由鋼彈（ZGMF-X20A Strike Freedom Gundam）是全系列公認的最強機體象徵之一。其最大特色是背部展開的巨大羽翼形態，搭載名為「Super Dragoon」的多拉貢系統，可展開大量遠端浮游砲台進行全方位無死角射擊，配合高機動姿態演出，是SEED系列中視覺震撼力最強的最終決戰兵裝。METAL BUILD是TAMASHII NATIONS頂級完成品品牌，以精密可動骨架與大量合金壓鑄零件構成，此為METAL BUILD FESTIVAL 2024活動限定特仕版，相較常規版本進一步強化配色層次與金屬光澤質感，塗裝更為細膩立體。全展開的Super Dragoon羽翼形態是整件作品最壯觀的展示配置，充分彰顯強攻自由鋼彈身為SEED宇宙最強機體之一的威壓氣場，屬活動限定通路商品，市場流通量有限，深受合金玩具收藏者青睞。",
     reviews: [
       {
         title: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024] レビュー | はっちゃか",
@@ -462,7 +462,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14988/",
     imageUrl: "/images/metal-build-destiny-gundam-full-festival2024.jpg",
     tags: ["Gundam SEED", "デスティニー", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
-    description: "《機動戰士鋼彈 SEED DESTINY》反派主角機 ZGMF-X42S 命運鋼彈的 METAL BUILD FESTIVAL 2024 活動限定版「Full Package」，附全套武裝配件：掌槍、光束迴旋鏢（Wings of Light）展開形態、高能量長程狙擊砲等。光翼全展配置重現劇中最具視覺衝擊力的戰鬥形態。",
+    description: "《機動戰士鋼彈SEED DESTINY》中，ZGMF-X42S命運鋼彈是ZAFT陣營反派兼悲劇英雄シン・アスカ（真飛鳥）的座機，作為劇中與主角強攻自由鋼彈分庭抗禮的最強機體之一，兩者的多次交鋒是全劇最受矚目的高潮戲碼。命運鋼彈同樣配備類似的光束翼裝置——劇中稱為「Wings of Light」，能展開巨大光翼並發射高輸出光束攻擊，搭配機體本身的高速機動性，是SEED DESTINY世界觀中壓制力最強的武裝形態之一。METAL BUILD是TAMASHII NATIONS頂級完成品品牌，以精密關節與合金壓鑄骨架著稱，此為METAL BUILD FESTIVAL 2024活動限定「Full Package」全套版，附掌槍、展開形態的光束翼、以及高能量長程狙擊砲等全套武裝配件，讓收藏者可完整重現命運鋼彈在劇中最具視覺衝擊力的全副武裝戰鬥姿態。屬活動限定通路商品，配件之齊全與塗裝精緻度均為該角色玩具化作品中的頂規版本。",
     reviews: [
       {
         title: "METAL BUILD デスティニーガンダム（フルパッケージ）[METAL BUILD FESTIVAL 2024] レビュー | はっちゃか",
@@ -497,7 +497,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15065/",
     imageUrl: "/images/metal-build-strike-freedom-wing-of-light-repackage.jpg",
     tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "オプションパーツ"],
-    description: "METAL BUILD 強攻自由鋼彈專用追加零件「光の翼（Wings of Light）」的 Re:PACKAGE 重新包裝版，附帶展開形態的大型光翼效果零件，可裝設於 METAL BUILD 強攻自由機體使其重現劇中最終決戰的全力形態。",
+    description: "強攻自由鋼彈（ZGMF-X20A Strike Freedom Gundam）出自《機動戰士鋼彈SEED DESTINY》，是主角基拉・大和的最終座機，劇中最為人稱道的必殺演出即是展開背部巨大光翼、化身「光之翼」形態進行全方位殲滅攻擊的場面，象徵此機在SEED宇宙中無可撼動的最強地位。此商品為METAL BUILD強攻自由鋼彈專用的追加零件套組「光の翼（Wings of Light）」的Re:PACKAGE重新包裝版，收錄大型光翼效果零件，可直接裝設於METAL BUILD版強攻自由鋼彈機體上，重現劇中最終決戰的全力覺醒形態，讓原本僅呈現常規姿態的完成品得以升級為象徵性的最強展示配置。作為選配零件商品，其存在也反映METAL BUILD系列一貫的模組化設計理念——透過追加選配套件持續延伸同一機體的收藏與展示可能性，對已收藏本體的玩家而言是不可或缺的升級組件，也是METAL BUILD Strike Freedom系列人氣居高不下的佐證之一。",
     reviews: [
       {
         title: "METAL BUILD ストライクフリーダムガンダム 光の翼オプションセット ［Re：PACKAGE］レビュー | はっちゃか",
@@ -537,7 +537,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/AZ005366002",
     imageUrl: "/images/mgex-strike-freedom-mechanical-clear.jpg",
     tags: ["Gundam SEED", "ストライクフリーダム", "MGEX", "1/100", "ガンプラ", "透明色", "P-Bandai限定"],
-    description: "Bandai 頂規 MGEX（Master Grade Extreme）強攻自由鋼彈的 P-Bandai 限定「MECHANICAL CLEAR」配色版。MGEX 是 MG 骨架再進化的新世代規格，機體內部的 LED 骨架及 Super Dragoon 系統在透明外裝甲板下完整可視，全透明外裝配合特殊染色展現有別於一般配色版本的視覺魅力。",
+    description: "強攻自由鋼彈（ZGMF-X20A Strike Freedom Gundam）出自《機動戰士鋼彈SEED DESTINY》，是主角基拉・大和的最終座機，以展開巨大光翼、發動全方位光束射擊的Super Dragoon系統聞名，是SEED宇宙世界觀中公認最強的機體之一，長年穩坐鋼彈人氣機體排行前列。MGEX（Master Grade Extreme）是Bandai近年推出的新世代高階模型規格，較傳統MG骨架更為精密複雜，並首度導入內建LED燈效與機構連動設計，讓機體變形展開時的機械運作一覽無遺。此為P-Bandai限定推出的「MECHANICAL CLEAR」透明配色版，外裝甲板採全透明或半透明材質並施以特殊染色處理，讓內部精密的LED骨架結構與Super Dragoon收納機構在燈光下清晰可視，呈現與一般不透明塗裝版本截然不同的工業機械美感。此透明版本著重展示機體內構之美而非戰鬥氛圍的還原，是模型玩家欣賞MGEX骨架工藝的絕佳選擇，也因限定通路而具有一定的收藏稀缺性。",
     reviews: [
       {
         title: "MGEX ストライクフリーダムガンダム［メカニカルクリア］ レビュー | schizophonic9",
@@ -577,7 +577,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13995/",
     imageUrl: "/images/chogokin-rx93ff-nu-gundam.jpg",
     tags: ["ガンダム", "νガンダム", "CHOGOKIN", "超合金", "Bandai", "合金"],
-    description: "《機動戰士鋼彈：逆襲的夏亞》（1988 劇場版）阿姆羅·雷最後的座機 RX-93ff νGundam，以 TAMASHII NATIONS 的 CHOGOKIN（超合金）品牌製作的完成品。「ff」特別版配色帶有全球巡迴展覽「THE GUNDAM BASE」限定色調，機體搭載象徵性的 Fin Funnel（鰭狀助推器）全展開形態，是 UC 鋼彈迷不可錯過的 CHOGOKIN 高級完成品。",
+    description: "《機動戰士鋼彈：逆襲的夏亞》是1988年上映的劇場版，作為第一年戰爭以來阿姆羅・雷與夏亞・阿茲納布爾長年宿怨的最終總結篇，被公認是宇宙世紀鋼彈系列的巔峰之作，劇情與機設皆對後續UC系列影響深遠。RX-93 νGundam是阿姆羅在片中的最終座機，機體搭載象徵性的Fin Funnel（鰭狀助推器）——一套可脫離機體飛行的遠端遙控射擊裝置，靈感承襲自對手夏亞座機的Funnel系統，展現阿姆羅在技術與精神層面對夏亞的最終超越，全展開時的Fin Funnel攻擊也是全片最具代表性的高潮畫面。「RX-93ff」是νGundam的特別衍生規格，此版本以TAMASHII NATIONS旗下CHOGOKIN（超合金）品牌製作，採用全球巡迴展覽「THE GUNDAM BASE」限定配色，色調與一般販售版有所區別。CHOGOKIN一貫以金屬壓鑄骨架賦予機體沉穩的重量與質感，此完成品完整重現Fin Funnel全展開姿態，是UC鋼彈迷收藏合金完成品時不可錯過的高規格版本，屬限定通路商品，流通量有限。",
     reviews: [
       {
         title: "超合金 RX-93ff νガンダム レビュー | はっちゃか",
@@ -619,7 +619,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15164/",
     imageUrl: "/images/soc-gx116-pliers-gaogaigar.jpg",
     tags: ["ガオガイガー", "勇者王", "SOUL OF CHOGOKIN", "超合金", "Bandai", "合金"],
-    description: "《勇者王 GaoGaiGar》（1997）中協助主角 GaoGaiGar 執行「勇氣合體」的支援機 PLIERS（プライヤーズ）的 SOUL OF CHOGOKIN GX-116 完成品。SOC 系列是 TAMASHII NATIONS 最高規格的超合金玩具品牌，充分再現 PLIERS 的機械細節與合體功能，配合其他 SOC GaoGaiGar 系列零件可進行聯合展示。",
+    description: "《勇者王GaoGaiGar》是1997年播出的「勇者系列」機器人動畫，以熱血高昂的合體變形演出與主角驅逐惡役機械生命體「Zonder」的故事聞名，是勇者系列中人氣最高、劇情格局最宏大的作品之一，主角機GaoGaiGar的「最終痛擊（ゴルディオン・ハンマー）」等必殺技至今仍被粉絲津津樂道。PLIERS（プライヤーズ）是劇中協助主角執行「勇氣合體」的重要支援機體之一，透過與GaoGaiGar本體及其他支援機的多重合體變形，強化主角戰力並衍生出更高階的形態，是理解GaoGaiGar合體機制不可或缺的一環。SOUL OF CHOGOKIN（魂OF超合金）是TAMASHII NATIONS旗下最高規格的超合金玩具品牌，以厚實的金屬壓鑄骨架與精密機構還原度聞名，向來是勇者系列老玩家心中的收藏首選。此GX-116版本充分再現PLIERS的機械細節與合體對接功能，配合其他SOC GaoGaiGar系列相關商品可進行聯合展示，重現劇中壯觀的多機合體場面，是SOC勇者系列陣容中承先啟後的重要一件。",
     reviews: [
       {
         title: "SOUL OF CHOGOKIN GX-116 プライヤーズ レビュー | HJウェブ",
@@ -651,7 +651,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13540/",
     imageUrl: "/images/dx-chogokin-vf1d-fan-racer.jpg",
     tags: ["macross0006@中壢收多易", "マクロス", "VF-1D", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《超時空要塞 Macross》（1982）中以雙座教練型登場的 VF-1D 女武神，與同款機體改裝的「Fan Racer」賽車形態同捆的 DX CHOGOKIN 魂ウェブ商店限定組合。VF-1D 是系列正規版中唯一的雙座型，此組合附帶兩架不同配置，可分別重現訓練場景與競速形態。",
+    description: "《超時空要塞Macross》是1982年播出的初代動畫，開創了「戀愛三角關係＋歌聲能感化敵人」的獨特科幻設定，也奠定了Valkyrie可變戰機（戰鬥機／半人形／人形三型態自由切換）這一系列標誌性的機械設計語言，影響後續數十年整個Macross宇宙的機體美學。VF-1D是VF-1女武神系列中唯一的雙座教練型，機首經加長改裝以容納教官與學員兩個座位，主要用於培訓新進飛行員，在正規戰鬥序列中較少登場，因此在系列周邊商品化中相對少見，具有一定的特殊性。此為DX CHOGOKIN魂ウェブ商店限定組合商品，同捆收錄以VF-1D機體改裝而成的競速形態「Fan Racer」，讓收藏者可一次擁有同一機體的訓練與競速兩種截然不同配置。DX CHOGOKIN系列一貫以金屬壓鑄骨架搭配Fighter、GERWALK、Battroid三型態完全變形機構聞名，此組合完整呈現VF-1D這款系列中較為冷門卻別具意義的機體多元面貌，對Macross初代機體收藏者而言是補完系列拼圖的重要一塊。",
     reviews: [
       {
         title: "DX超合金 VF-1D バルキリー＆ファン・レーサー レビュー | はっちゃか",
@@ -696,7 +696,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13603/",
     imageUrl: "/images/dx-chogokin-vf1j-armored-hikaru.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "VF-1J", "アーマード", "裝甲型", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《超時空要塞 Macross》主角一条輝（Hikaru Ichijo）機 VF-1J 加裝全套戰鬥裝甲（ARMORED）的 DX CHOGOKIN 版本。裝甲套件大幅增加了機體的攻防能力，外觀更具壓迫感，是 VF-1 系列中視覺衝擊最強烈的配置之一。",
+    description: "《超時空要塞Macross》主角一条輝（Hikaru Ichijo）是系列中最早確立的可變戰機駕駛員之一，其座機VF-1J女武神也成為初代Macross的標誌性形象，多年來持續以各種塗裝與強化形態被反覆商品化，足見其在系列中的核心地位。「ARMORED（裝甲型）」是VF-1系列的強化配置之一，透過在標準機體外部加裝大量重裝甲模組，大幅提升防禦力與火力輸出，使原本以機動性見長的女武神轉變為重裝突擊姿態，外觀也因此更具份量感與壓迫力，是VF-1系列中視覺衝擊最強烈的形態之一。此為DX CHOGOKIN版本，延續系列一貫的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，並搭配全套裝甲零件重現一条輝機加裝ARMORED後的完整戰鬥姿態，甲片開闔與武裝掛載機構皆以精密塑膠與合金零件構成，是DX CHOGOKIN VF-1系列陣容中份量感與收藏話題度兼具的重量級版本。",
     reviews: [
       {
         title: "DX超合金 VF-1J バルキリー(一条輝機) レビュー | はっちゃか",
@@ -746,7 +746,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14111/",
     imageUrl: "/images/dx-chogokin-vf1a-angel-birds.jpg",
     tags: ["マクロス", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《超時空要塞 Macross》劇中統合軍飛行表演隊「Angel Birds」的專屬塗裝版 VF-1A 女武神，魂ウェブ商店限定。全機採用藍白為主調的表演塗裝，有別於作戰機塗色，是 DX CHOGOKIN VF-1 系列中視覺最清爽亮眼的特別版。",
+    description: "《超時空要塞Macross》中，「Angel Birds」是統合軍設定的飛行表演隊，專門在和平時期進行特技飛行展示，藉此凝聚軍民士氣、展現統合軍的技術實力，是劇中呈現地球文明重建與日常一面的重要設定之一，與主線的星際戰爭形成對比。VF-1A是女武神系列中的量產標準型，此版本專為Angel Birds表演隊設計了特殊塗裝，全機以藍白為主色調，線條俐落明快，有別於一般作戰機體慣用的迷彩或軍規配色，呈現出表演隊特有的清爽亮眼氣質，也讓玩家得以一窺Macross世界觀中非戰鬥用途機體的另一種美學面貌。此為TAMASHII魂ウェブ商店限定的DX CHOGOKIN版本，延續系列一貫的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，精細重現Angel Birds塗裝的每一處細節分色，在陣容眾多以軍用迷彩為主的VF-1系列收藏品中，是視覺風格最為獨特清新的一款，也因限定通路而具備一定的收藏稀缺性。",
     reviews: [
           {
             title: "DX超合金 VF-1A バルキリー エンジェルバーズ レビュー | はっちゃか",
@@ -781,7 +781,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15096/",
     imageUrl: "/images/dx-chogokin-vf1j-hikaru-store-limited.jpg",
     tags: ["マクロス", "VF-1J", "DX超合金", "1/60", "Bandai", "可變形", "合金", "TAMASHII STORE限定"],
-    description: "《超時空要塞 Macross》主角一条輝機 VF-1J 女武神的 TAMASHII STORE 限定版，在標準版基礎上採用特別細緻的塗裝規格，配件更為完整。Fighter/GERWALK/Battroid 三型態完全可變，是 VF-1J Hikaru 機最精緻的 DX 版本。",
+    description: "《超時空要塞Macross》主角一条輝（Hikaru Ichijo）的座機VF-1J女武神，是初代Macross中辨識度最高的機體形象之一，象徵著整個系列最初確立的三型態可變戰機設計美學，多年來持續以各種特別版本反覆商品化，足見其歷久不衰的人氣。此為TAMASHII STORE限定推出的特仕版本，在標準版DX CHOGOKIN的基礎上進一步採用更細緻的塗裝規格，色彩分層與細節描邊處理更為講究，同時配件也較常規版本更為齊全完整，展現限定通路商品一貫的高規格待遇。機體延續DX CHOGOKIN系列標誌性的金屬壓鑄骨架設計，支援Fighter（戰鬥機）、GERWALK（半人形）、Battroid（人形）三型態完全自由切換，變形過程無需拆件、機構嚴謹紮實，是評鑑DX CHOGOKIN工藝水準的重要指標之一。對長年收藏VF-1J一条輝機各版本的玩家而言，此限定版可謂目前該機體眾多版本中塗裝與配件最為精緻完整的一款，具有一定的收藏門檻與稀缺性。",
     reviews: [
       {
         title: "DX超合金 初回限定版 VF-1J バルキリー（一条輝機）レビュー | ノアのガンプラライフ",
@@ -821,7 +821,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14813/",
     imageUrl: "/images/dx-chogokin-vt1-super-ostrich.jpg",
     tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《超時空要塞 Macross》劇中非戰鬥改裝型可變形戰機 VT-1「Super Ostrich」的 DX CHOGOKIN 完成品，魂ウェブ商店限定。VT-1 是 VF-1 的民間/訓練用改裝版本，外觀呈現有別於軍用型的獨特設計，是 Macross 世界觀中最具生活感的機體之一。",
+    description: "《超時空要塞Macross》的世界觀不僅描繪星際戰爭，也細膩呈現統合軍體系下各式各樣的支援與非戰鬥用途機體，展現出這個系列在硬派科幻戰爭之外，同樣重視日常與生活感描寫的獨特魅力。VT-1「Super Ostrich」正是這類設定下的產物——作為VF-1的民間或訓練用改裝版本，其外觀捨棄了VF-1慣有的銳利戰鬥線條，轉而呈現較為圓潤敦厚的造型語言，機體塗裝與細節設計也更貼近民生用途機具的風格，是Macross世界觀中最具生活感與親和力的機體代表之一，在系列眾多以戰鬥機為主的商品陣容中顯得格外特殊。此為TAMASHII魂ウェブ商店限定的DX CHOGOKIN完成品，延續系列標誌性的金屬壓鑄骨架設計與多型態變形機構，精細重現VT-1有別於軍用機的獨特外型與塗裝細節，對於收藏Macross周邊、追求機體多樣性的玩家而言，是補完VF-1家族衍生譜系不可或缺的一件，也因限定通路而具備一定的收藏價值。",
     reviews: [
       {
         title: "「DX超合金 VT-1 スーパーオーストリッチ」フォトレビュー | hobby.watch.impress.co.jp",
@@ -863,7 +863,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14740/",
     imageUrl: "/images/dx-chogokin-yf21-guld.jpg",
     tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Plus》（1994）中 Guld Goa Bowman 駕駛的次世代試驗可變戰機 YF-21，TAMASHII NATIONS DX CHOGOKIN 版本。採用腦波控制系統（BCS）設計的未來感三角翼造型，Fighter/GERWALK/Battroid 三型態可完全切換，以現代 DX 標準精確重現這架 Macross Plus 的傳奇機體。",
+    description: "《Macross Plus》（1994）是河森正治原案、菱田正和監督的OVA作品，以兩台次世代可變戰機競標試作機的對決為核心敘事，搭配電影級作畫水準與菅野洋子的音樂，在Macross系列中享有極高評價。YF-21由天才卻性格叛逆的試驗飛行員Guld Goa Bowman駕駛，機體最大特色是採用無操縱桿、直接讀取駕駛員腦波下達指令的BCS（Brain Computer System）腦波控制系統，搭配大型三角翼與前置鴨翼構成的未來感造型，與競爭對手機YF-19走的正統戰機路線形成鮮明對比，也埋下劇中人機合一失控危機的重要伏筆。此為TAMASHII NATIONS推出的DX CHOGOKIN版本，以現代DX規格的金屬壓鑄骨架與精密機構，重新演繹這架誕生於90年代的傳奇試作機，支援Fighter、GERWALK、Battroid三型態完全自由切換，變形流暢度與細節精度均達到現行DX CHOGOKIN系列的頂尖水準，是Macross Plus粉絲與可變機模型收藏者共同矚目的重點商品。",
     reviews: [
       {
         title: "DX超合金 YF-21(ガルド・ゴア・ボーマン機) レビュー | はっちゃか",
@@ -915,7 +915,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13806/",
     imageUrl: "/images/dx-chogokin-vf25-worldwide-anniv.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》（2008）主角機 VF-25 Messiah 的 Worldwide Anniversary 紀念版，特別塗裝配合全球周年活動設計，配件豐富。Fighter/GERWALK/Battroid 三型態可完全切換，是 Frontier 系列 DX 中具有特殊收藏意義的紀念版本。",
+    description: "《Macross Frontier》於2008年播出，是Macross系列邁入21世紀後最成功的續作之一，以偶像歌手、可變戰機與異星生命體的三方糾葛為主軸，插曲《星間飛行》等歌曲更成為系列代表作，帶動VF-25系列機體人氣長期居高不下。VF-25 Messiah是本作主角小隊的標準配置機體，設計上延續Macross系列一貫的Fighter、GERWALK、Battroid三型態變形美學，同時導入更符合現代審美的流線造型，是Frontier世界觀中辨識度最高的機體之一。此為紀念DX CHOGOKIN系列全球發展、推出的「Worldwide Anniversary」紀念版本，特別配合全球周年活動設計了專屬塗裝與豐富配件，色彩層次與細節處理較常規版本更為講究。機體延續系列標誌性的金屬壓鑄骨架與完全變形機構，三型態切換流暢紮實，作為紀念性質的特別版本，此商品兼具機體本身的高人氣與周年紀念的稀缺性，對Macross Frontier系列收藏者而言具有特殊的收藏意義。",
     reviews: [
       {
         title: "DX超合金 VF-25メサイアバルキリー WORLDWIDE Anniv. レビュー | はっちゃか",
@@ -960,7 +960,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14151/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）機 VF-25F 加裝 Super Pack（超音速噴射背包）形態的 REVIVAL 復刻版。此款對應造型與塗裝均依據現行 DX CHOGOKIN 製造規格重新優化，整體可動性與零件精度較原版大幅提升。",
+    description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）是一名出身歌舞伎世家、卻選擇成為可變戰機駕駛員的青年，其座機VF-25F Messiah在劇中歷經多次強化改裝，是全劇人氣與戲份最高的機體之一。「Super Pack（超音速噴射背包）」是VF-25系列常見的強化配置，透過在機體背部加裝大型推進與火力模組，大幅提升高速突破與持久作戰能力，使原本靈巧的Messiale機體轉變為更具火力壓制力的姿態，是劇中中後期空戰場面的常見配置。此為REVIVAL復刻版本，依循現行DX CHOGOKIN的製造規格重新調整模具與塗裝配方，相較初版在關節可動範圍、零件公差與塗裝精細度上均有明顯提升，展現品牌對經典機體的持續優化誠意。機體延續系列標誌性的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Alto機VF-25F眾多版本中兼具還原度與現代工藝水準的代表作品之一。",
     reviews: [
       {
         title: "DX超合金 VF-25F スーパーメサイアバルキリー(早乙女アルト機) リバイバルVer. レビュー | はっちゃか",
@@ -1000,7 +1000,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15185/",
     imageUrl: "/images/dx-chogokin-vf25f-tornado-messiah-alto-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25F", "トルネード", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Frontier》特有的 Tornado Pack 強化形態 VF-25F，以超高速突入配置搭配前段機首展開的 Tornado 推進器再現劇場版最終決戰場面。REVIVAL 版依現行 DX 規格重新調整模具，可動性與配件精度均優於初版。",
+    description: "《Macross Frontier》劇場版三部曲是電視版故事的重新編排與劇情強化版，其中最終決戰場面加入了電視版未曾登場的全新強化裝備，「Tornado Pack」正是為此量身打造的特殊配置，專屬於劇場版世界觀，未曾在電視版中出現，因此對粉絲而言別具紀念意義。此裝備以超高速突入為設計核心，搭配機首前段展開的獨特推進器結構，賦予主角早乙女アルト座機VF-25F更強的瞬間加速與突破能力，重現劇場版最終決戰時穿越戰場、扭轉局勢的關鍵畫面，是Tornado Pack在視覺與戰術意義上的雙重亮點。此為REVIVAL復刻版本，依現行DX CHOGOKIN規格重新調整模具，相較初版在可動性、零件精度與塗裝細節上均有所提升，讓收藏者能以更佳的完成度重現這款劇場版限定配置。機體延續系列標誌性的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Frontier劇場版周邊中辨識度極高、且僅此配置獨有的特別版本。",
     reviews: [
       {
         title: "DX超合金 VF-25F トルネードメサイアバルキリー（早乙女アルト機）リバイバルVer. レビュー | はっちゃか",
@@ -1035,7 +1035,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14354/",
     imageUrl: "/images/dx-chogokin-vf25g-super-messiah-michael-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》狙擊手 Michael Blanc 機 VF-25G（狙擊型，配備長槍管）加裝 Super Pack 形態的 REVIVAL 版。VF-25G 的機首改裝為大型感測器頭以支援長程狙擊，外觀有別於其他 VF-25 系列，是 Frontier 小隊中最具特色的機體之一。",
+    description: "《Macross Frontier》主角小隊中，Michael Blanc是隊上技術性最強、負責遠程精準打擊的狙擊手角色，其座機VF-25G相較其他隊員機體採用完全不同的機首設計——大型化的感測器頭部取代了常規機首，以支援長程狙擊所需的高精度標定系統，是VF-25系列中外觀辨識度最獨特的一款，也體現了Macross設計團隊在同一系列基礎機型上發展多元角色定位的巧思。此為加裝「Super Pack（超音速噴射背包）」強化形態的REVIVAL復刻版本，Super Pack賦予機體更強的高速機動與持久作戰能力，讓原本以精準狙擊見長的VF-25G在近距離作戰時也具備更高存活率。REVIVAL版依現行DX CHOGOKIN規格重新調整模具與塗裝，可動性與零件精度均優於初版。延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Frontier小隊眾多座機周邊中，最能體現角色個人特色與戰術定位的一款收藏品。",
     reviews: [
       {
         title: "DX超合金 VF-25G スーパーメサイアバルキリー（マイケル・ブラン機）リバイバルVer. レビュー | はっちゃか",
@@ -1075,7 +1075,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14997/",
     imageUrl: "/images/dx-chogokin-vf25s-armored-messiah-ozma-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-25S", "アーマード", "オズマ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》小隊長 Ozma Lee 機 VF-25S（指揮官型，背部附四片額外水平翼）加裝全套戰鬥裝甲（ARMORED PACK）形態的 REVIVAL 版。Armored 配置是 VF-25 系列中攻擊力最強的形態，渾身布滿武裝艙門，整體份量感十足。",
+    description: "《Macross Frontier》中，Ozma Lee是主角部隊「SMS」的隊長，性格沉穩可靠，是全隊經驗最豐富的王牌飛行員之一，其座機VF-25S作為指揮官專用機，機體背部特別加裝四片額外水平翼以強化戰場指揮與偵測能力，外觀上即與隊上其他成員機體有所區隔，凸顯其領導者身分。「ARMORED PACK（裝甲強化包）」是VF-25系列中攻擊力最強的配置形態，透過在機體各處掛載大量武裝艙門與裝甲模組，大幅提升火力與防禦力，代價是犧牲部分機動性，通常用於劇中面對高強度威脅的重點戰役，視覺上也因此渾身布滿武裝艙門、份量感十足，是VF-25系列強化形態中最具重裝壓迫感的一款。此為REVIVAL復刻版本，依現行DX CHOGOKIN規格重新調整模具與塗裝，關節可動與零件精度較初版明顯提升。延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Ozma機ARMORED形態中兼具還原度與現代工藝水準的代表版本。",
     reviews: [
       {
         title: "DX超合金 VF-25S アーマードメサイアバルキリー（オズマ・リー機）REVIVAL Ver. レビュー | TORO'S BLOG",
@@ -1120,7 +1120,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14559/",
     imageUrl: "/images/dx-chogokin-vf171ex-armored-alto-revival.jpg",
     tags: ["マクロス", "マクロスF", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Frontier：The Wings of Goodbye》中早乙女アルト搭乘的 VF-171EX（夢魘改良型）加裝全套裝甲形態的 REVIVAL 版。VF-171EX Armored 是 Alto 在劇場版決戰中的最終機體，大型裝甲外殼賦予機體強烈的重裝壓迫感。",
+    description: "《劇場版Macross Frontier：The Wings of Goodbye》是Frontier系列劇場版三部曲的完結篇，講述主角早乙女アルト在情感與戰爭雙重糾葛下走向最終抉擇的故事，是整個Frontier世界觀情感濃度最高的一部作品。VF-171EX（夢魘改良型）是電視版VF-171 Nightmare的強化衍生機型，專為劇場版完結篇量身打造，是Alto在片中最終決戰時所駕駛的座機，象徵其角色弧線的最終總結。「ARMORED（全套裝甲）」形態透過在機體各部位加裝大型裝甲外殼，大幅強化防禦與火力輸出，使原本靈巧的VF-171EX轉變為重裝突擊姿態，是Alto在劇場版終幕中面對最終決戰時所展現的最強戰鬥形態，視覺上也因大型裝甲外殼而呈現強烈的重裝壓迫感。此為REVIVAL復刻版本，依現行DX CHOGOKIN規格重新調整模具與塗裝精度，延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Macross Frontier劇場版周邊中份量感與劇情意義兼具的重點收藏。",
     reviews: [
       {
         title: "DX超合金 VF-171EX アーマードナイトメアプラスEX（早乙女アルト機）リバイバルVer. レビュー | はっちゃか",
@@ -1160,7 +1160,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13952/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-max-full-set.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Delta 絕對 LIVE!!!!!!》中傳奇 Ace 飛行員 Maximilian Jenius（Max 素人）搭乘的次世代高性能可變機 YF-29 Durandal 的 Full Set Pack 版本，附全套 Super Part 追加零件。YF-29 是 Macross 宇宙中性能最頂尖的可變機之一，由《Frontier》帶入《Delta》宇宙橋接劇情。",
+    description: "《Macross Delta 絕對LIVE!!!!!!》是2021年上映的劇場版，作為電視動畫《Macross Δ》的劇情延伸與總結篇，同時也串連起《Macross Frontier》世界觀，讓兩代主角世代在劇中產生交集，是系列橋接不同時代作品的重要嘗試。Maximilian Jenius（Max）是初代《超時空要塞Macross》的傳奇王牌飛行員，其後代與其本人在後續多部Macross作品中持續登場，象徵系列老玩家心中的傳承符號，此次於Delta劇場版中駕駛次世代高性能可變機YF-29 Durandal，延續其王牌飛行員的地位。YF-29是Macross宇宙中性能最頂尖的可變機之一，由《Frontier》世界觀的技術延伸而來，象徵新舊世代科技與人物的接軌。此為附全套Super Part追加零件的「Full Set Pack」版本，收錄機體強化所需的完整配件組合，延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與三型態完全變形機構，是連結Frontier與Delta兩個世代、兼具傳承意義與高規格工藝的收藏逸品。",
     reviews: [
       {
         title: "DX超合金 YF-29 デュランダル バルキリー（マクシミリアン・ジーナス機）フルセットパック レビュー | はっちゃか",
@@ -1200,7 +1200,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15256/",
     imageUrl: "/images/dx-chogokin-vf27-sp-lucifer.jpg",
     tags: ["マクロス", "マクロスF", "VF-27", "スーパールシファー", "ブレラ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》反派兼最終盟友 Brera Sterne（布雷拉·斯特恩）機 VF-27γ Super Lucifer 的 REVIVAL 版本。深紅色的塗裝配合流線型機身設計，是 Frontier 宇宙中最帥氣的機體之一；Super Pack 追加配件讓整體作戰能力與視覺份量感再度升級。",
+    description: "《Macross Frontier》中，Brera Sterne（布雷拉·斯特恩）是一名身世複雜、遊走於敵我立場之間的神秘角色，最終在劇情高潮選擇與主角陣營並肩作戰，成為全劇轉折點最具戲劇張力的角色之一，其座機VF-27γ Super Lucifer也因此承載了角色從反派走向盟友的象徵意義。VF-27是Frontier世界觀中設計最為前衛的可變機系列之一，流線型機身搭配深紅色塗裝，在講究速度與威嚇感的造型語言上獨樹一格，是Frontier眾多機體中辨識度與帥氣度並存的代表作。此為REVIVAL復刻版本，依現行DX CHOGOKIN規格重新調整模具與塗裝配方，並附Super Pack追加配件，讓機體在標準形態之外可進一步強化整體作戰能力與視覺份量感，重現劇中Brera駕駛此機投入決戰的震撼場面。延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Macross Frontier角色機體周邊中兼具劇情意義與視覺衝擊力的重點收藏。",
     reviews: [
       {
         title: "DX超合金 VF-27γSP スーパールシファーバルキリー(ブレラ機) リバイバルVer. レビュー | はっちゃか",
@@ -1237,7 +1237,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15495/",
     imageUrl: "/images/dx-chogokin-vf17s-nightmare-stealth.jpg",
     tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross 7》（1994）中 Diamond Force 小隊長木崎ガムリン（Gamlin Kizaki）機 VF-17S 夢魘隱形女武神，Bandai DX CHOGOKIN 第一款 Macross 7 機體。VF-17 的隱形戰機設計強調匿蹤性，外型與其他 VF 大相徑庭，是 DX CHOGOKIN 系列中最期待已久的新作之一。",
+    description: "《Macross 7》是1994年播出的Macross系列第三部電視動畫，以搖滾樂手主角熱気バサラ用歌聲對抗敵人的獨特設定聞名，風格熱血奔放，是系列中辨識度極高的一部支線作品。木崎ガムリン（Gamlin Kizaki）是劇中「Diamond Force」小隊隊長，性格剛毅嚴謹，與奔放不羈的主角形成鮮明對比，是全劇軍事路線的代表角色之一，其座機VF-17S夢魘隱形女武神也體現了這種硬派軍規風格。VF-17系列在Macross可變機譜系中主打隱形（ステルス）設計理念，強調匿蹤性與低可視度作戰，外型上捨棄了VF-1、VF-25等系列慣用的亮眼線條，轉而採用稜角分明、低調暗色的隱身戰機造型，與其他Macross機體相比獨樹一格。此為Bandai DX CHOGOKIN系列首度推出的Macross 7機體，延續系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，對長年期待Macross 7周邊商品化的粉絲而言，是備受矚目的重要新作。",
     reviews: [
       {
         title: "DX超合金 VF-17S ナイトメアプラス スーパーステルス（ガムリン・キザキ機）レビュー | はっちゃか",
@@ -1277,7 +1277,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15361/",
     imageUrl: "/images/dx-chogokin-vf19-custom-excalibur-basara.jpg",
     tags: ["マクロス", "マクロス7", "VF-19", "エクスカリバー", "熱気バサラ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross 7》中搖滾主唱 Nekki Basara（熱気バサラ）的座機 VF-19 Custom Excalibur（附大型揚聲器裝備），Bandai DX CHOGOKIN Special 版本。肩部巨型揚聲器單元可開閉，可重現 Basara 邊戰鬥邊唱歌的標誌性場景。附 Fire Valkyrie 形態轉換配件，是 Macross 7 DX 中最具特色的一件。",
+    description: "《Macross 7》中，熱気バサラ（Nekki Basara）是搖滾樂團「Fire Bomber」的主唱，堅信「歌聲能夠感化一切」，即使身處戰場也堅持邊戰鬥邊高歌，是Macross系列中最具個人特色、也最受兩極評價的主角之一，其座機VF-19 Custom Excalibur正是為配合這種獨特戰鬥美學而生的特別機體。此機最大特徵是肩部配備的巨型揚聲器單元，可於戰鬥中開闔展開，讓Basara得以在駕駛艙外播送自己的歌聲直接影響戰局甚至感化敵人，是整部作品中最具代表性、也最荒誕熱血的設定之一，也讓VF-19 Custom Excalibur成為Macross周邊商品中極具話題性的機體。此為Bandai DX CHOGOKIN Special版本，忠實重現肩部揚聲器的開闔機構，並附Fire Valkyrie形態轉換配件，讓收藏者可重現Basara邊戰鬥邊唱歌的標誌性場景。延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Macross 7 DX陣容中最具特色的一件收藏品。",
     reviews: [
       {
         title: "DX超合金 VF-19改 ファイヤーバルキリー（熱気バサラ機）レビュー | はっちゃか",
@@ -1324,7 +1324,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13624/",
     imageUrl: "/images/dx-chogokin-vf31j-movie-fold-unit.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "フォールドプロジェクション", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Delta》主角 Hayate Immelmann 機 VF-31J 齊格弗里德，附帶劇場版特有的「摺疊投影裝置（Fold Projection Unit）」配件。此選配裝置大幅改變了機體外型，是劇場版與電視版最明顯的機體差異之一。",
+    description: "《劇場版Macross Δ：Passionate Walküre》是電視動畫《Macross Δ》劇情的重新編排強化版，補完了電視版未能詳述的部分設定與戰鬥場面，其中「摺疊（Fold）」科技作為Macross宇宙中星際航行與空間跳躍的核心設定，在劇場版中首度以實體裝備形式具象化。主角Hayate Immelmann是《Δ》世代新生代王牌飛行員，其座機VF-31J齊格弗里德是Δ系列標準主力機體，設計上延續Macross一貫的三型態變形美學，同時導入更具未來感的流線造型與新一代火控系統。此為附帶劇場版特有「摺疊投影裝置（Fold Projection Unit）」配件的特別版本，此裝置能大幅改變機體外觀輪廓，是劇場版與電視版機體設定上最明顯的差異之一，也讓收藏者得以透過實體模型呈現只在劇場版中登場的獨家配置。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Δ劇場版周邊中辨識度極高的限定規格作品。",
     reviews: [
       {
         title: "DX超合金 VF-31J ジークフリード（フォールドプロジェクションユニット装備）レビュー | 獅子王ホビー",
@@ -1359,7 +1359,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13691/",
     imageUrl: "/images/dx-chogokin-vf31ax-first-limited-hayate.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Delta》登場的強化型 VF-31AX Kairos-Plus（ハヤテ機）初回限定版，附更多配件與特別規格。VF-31AX 相較電視版 VF-31 採用全新骨架，強化了可動性與戰鬥性能，是 Delta 機體中技術層次最高的機型。",
+    description: "《劇場版Macross Δ：Passionate Walküre》延續電視動畫《Macross Δ》的世界觀，講述新生代王牌飛行員與偶像團體「Walküre」共同對抗「Var症候群」與敵對勢力的故事，是Macross系列近年最具代表性的一部作品。VF-31AX Kairos-Plus是主角Hayate Immelmann在劇場版中駕駛的強化型機體，相較電視版標準機型VF-31，此機採用全新骨架設計，大幅強化了整體可動性與戰鬥性能，是Δ系列機體中技術層次最高的機型之一，象徵劇情推進下主角戰力的全面升級。此為初回限定版本，除標準配件外另附更多特別零件與規格配置，展現初回限定商品一貫的高規格待遇。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，變形流暢度與細節精度均達現行DX CHOGOKIN頂尖水準，是Macross Δ劇場版機體收藏中規格最完整的初期版本之一，深受系列玩家青睞。",
     reviews: [
       {
         title: "DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）レビュー | はっちゃか",
@@ -1404,7 +1404,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13759/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Delta》中女主角 Mirage Farina Jenius（傳奇 Ace Max Jenius 的孫女）機 VF-31AX Kairos-Plus，獨特的翠綠色塗裝有別於 Hayate 機，是 Delta 小隊中辨識度最高的機體。",
+    description: "《劇場版Macross Δ：Passionate Walküre》中，Mirage Farina Jenius是新生代王牌飛行員之一，同時也是初代Macross傳奇王牌Maximilian Jenius（Max）的孫女，血統傳承的設定讓這名角色在系列世代交替的敘事中別具意義，也讓其座機VF-31AX Kairos-Plus承載著跨世代呼應的象徵性。此機與同隊主角Hayate Immelmann所駕駛的VF-31AX共用機體平台，但採用獨特的翠綠色塗裝方案，色調清新明亮，有別於隊上其他成員機體慣用的配色，是Δ小隊中辨識度最高、也最具個人風格的機體塗裝之一。VF-31AX相較電視版標準機型VF-31採用全新骨架設計，大幅強化了整體可動性與戰鬥性能，是Δ系列中技術規格最高的機型之一。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Δ劇場版周邊中兼具世代傳承意義與獨特視覺辨識度的收藏作品。",
     reviews: [
       {
         title: "DX超合金 VF-31AX カイロスプラス（ミラージュ・ファリーナ・ジーナス機）レビュー | はっちゃか",
@@ -1454,7 +1454,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13888/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-parts-set.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "スーパーパーツ", "オプションパーツ", "Bandai"],
-    description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的魂ウェブ限定超音速追加背包（Super Parts），裝設後大幅提升機體航程與加速性能，外觀也更具強度感。為配合本體另外販售的追加配件組。",
+    description: "「劇場版 マクロスΔ／Passionate Walküre」是2021年上映、承接2016年電視動畫《超時空要塞Δ》的完結篇，故事描寫偶像團體Walküre與Delta小隊聯手，對抗因Var症候群而失控暴走的敵我雙方，並與溫達米亞王國殘存勢力展開最終決戰。VF-31AX凱洛斯Plus是電影版登場的最新規格可變戰鬥機，機體以VF-31凱洛斯為基礎進一步強化航電與武裝系統。本項為隼・因梅爾曼機專用的「スーパーパーツ」超音速追加背包，延續Macross系列自初代VF-1以來「Super Pack」外掛式強化傳統——透過裝設大型推進背包，讓標準機體在不更動核心結構的前提下大幅提升航程、加速性能與續戰火力，外觀線條也因此更顯厚重威武。本商品為魂ウェブ限定通路販售，僅提供追加背包本體，須搭配另售的DX超合金VF-31AX機體本體才能完整裝設展示，是重現電影版決戰重裝武裝形態不可或缺的擴充配件，對於追求收藏VF-31系列各種強化形態的玩家而言，具有相當高的補完與展示價值。由於此類魂ウェブ限定的追加零件多為一次性生產、售罄後不再補貨，長期而言在二手市場的流通與詢問度也相對偏高，是深入研究Delta系列武裝變化細節的玩家不會錯過的品項。",
     reviews: [
       {
         title: "DX Chogokin VF-31AX Hayate Super Parts review | Toy Hound",
@@ -1494,7 +1494,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13935/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-borg.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Delta》Delta 小隊成員 Borg Confert 機 VF-31AX Kairos-Plus，魂ウェブ限定。相較 Hayate 機與 Mirage 機，Borg 機採用不同個人識別塗裝，是 Delta 小隊全員 VF-31AX 收藏中不可缺少的一件。",
+    description: "《劇場版 マクロスΔ／Passionate Walküre》為2021年上映的完結篇電影，承接電視版劇情，描繪Delta小隊在對抗溫達米亞王國與Var症候群威脅中的最終決戰，也為隼、美雷等主要角色的故事線畫下句點。博格・康法特是Delta小隊（Walküre護衛隊）成員之一，座機為電影版新規格VF-31AX凱洛斯Plus，性能較電視版VF-31有全面提升。DX超合金系列以合金壓鑄搭配高精度可動關節為賣點，完整重現Fighter（戰鬥機）、Gerwalk（過渡形態）、Battroid（人形態）三段變形機構，變形過程操作直覺，關節可動範圍大，塗裝分色與細節皆貼近設定原畫。相較隼機與美雷機常見的主角識別配色，博格機採用不同的個人識別塗裝與部件分割，凸顯角色個性與部隊識別，是收集Delta小隊全員專屬座機不可或缺的一件。本品為魂ウェブ限定商品，發售後不再版，市場流通量有限，具一定收藏與轉手價值，對於希望並列展示隼、美雷、博格三機完整陣容的玩家而言，本品是補齊全隊收藏拼圖的重要一塊。",
     reviews: [
       {
         title: "DX超合金 VF-31AX カイロスプラス（ボーグ・コンフェート機）レビュー | TORO'S BLOG",
@@ -1529,7 +1529,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14072/",
     imageUrl: "/images/dx-chogokin-vf31ax-armored-parts-set.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "アーマードパーツ", "オプションパーツ", "Bandai"],
-    description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的追加裝甲套件，裝設後讓機體呈現全副武裝的 ARMORED 形態，大幅強化防禦力與砲擊火力。配合本體使用可再現劇場版決戰場景中的重裝備型態。",
+    description: "承續電視版《マクロスΔ》劇情，劇場版《Passionate Walküre》描繪Delta小隊迎戰溫達米亞王國最終決戰的過程，戰鬥規模與武裝強度遠超電視版。本項為隼・因梅爾曼機VF-31AX凱洛斯Plus專用「アーマードパーツセット」追加裝甲套件，裝設後機體轉為全副武裝的ARMORED形態，除了外掛大面積裝甲板外，亦追加大量對艦、對空砲擊武裝，大幅強化防禦力與火力密度，重現電影版決戰場景中隼機以重裝形態壓制敵方王牌的畫面。此為Macross系列一貫的Super／Armored Pack外掛強化傳統之延伸，透過模組化零件切換即可在標準形態與重裝形態間自由變化，滿足玩家依劇情場景切換展示的需求。本品僅為追加裝甲組件本身，須搭配另售的DX超合金VF-31AX本體使用方能完整組裝展示，屬於補完性質的高單價選配零件，對機體收藏完整度要求較高、希望重現電影版最終武裝形態的玩家而言相當重要，也是展示櫃中最能凸顯機體壓迫感與戲劇張力的關鍵配件之一。",
     reviews: [
           {
             title: "DX超合金 VF-31AXカイロスプラス（ハヤテ機）対応アーマードパーツセット レビュー | TOYHOUND",
@@ -1564,7 +1564,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14235/",
     imageUrl: "/images/dx-chogokin-vf31ax-super-ghost-set.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "スーパーゴースト", "オプションパーツ", "Bandai"],
-    description: "DX CHOGOKIN VF-31AX Kairos-Plus（Hayate 機）的「Super Ghost」無人機追加組件，可掛載於機體翼端，再現 Macross 宇宙中的無人攻擊支援無人機戰術。",
+    description: "《マクロスΔ》系列世界觀中，「ゴースト」是可變戰鬥機隊常見的無人僚機戰術裝備，平時收納於母艦或機體掛架，戰時可展開協助偵蒐、誘敵與火力延伸，是系列描寫未來空戰型態的重要設定之一。本項為隼・因梅爾曼機VF-31AX凱洛斯Plus專用的「スーパーゴーストセット」追加組件，可掛載於機體翼端或肩部掛架，再現Delta小隊在劇場版《Passionate Walküre》決戰中結合無人僚機進行多重打擊、分散敵方防禦火力的戰術畫面。無人機造型延續VF-31系列的流線設計語彙與塗裝規範，並可依展示需求切換不同掛載位置與角度。本商品同樣屬於須搭配另售DX超合金VF-31AX本體使用的追加選配零件，並非可獨立展示的完整商品，主要供玩家補完整套劇場版重裝武裝形態，是深度收藏Delta系列周邊、重現完整戰術陣容的進階選項，也讓機體展示更具臨場敘事感，對於追求收全隼機所有換裝形態的玩家而言，是不容錯過的補完零件之一。",
     reviews: [
       {
         title: "DX超合金 VF-31AX カイロスプラス スーパーゴーストセット レビュー | TOYHOUND",
@@ -1604,7 +1604,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14876/",
     imageUrl: "/images/dx-chogokin-vf31j-supersiegfried-hayate-revival.jpg",
     tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Delta》電視版主角 Hayate 機 VF-31J 加裝 Super Pack 形態「Super Siegfried」的 REVIVAL 版本，依現行 DX 規格重製模具與塗裝，可動性大幅提升。Super Pack 的戰略轟炸配件讓機體整體份量感倍增。",
+    description: "《マクロスΔ》為2016年播出的電視動畫，故事描述偶像團體Walküre以歌聲淨化並對抗名為Var症候群的異常現象，並描寫Delta小隊（Chaos部隊）與溫達米亞王國之間的軍事衝突。隼・因梅爾曼是電視版主角，個性豪爽衝動，其座機VF-31J齊格菲於劇中後段加裝Super Pack強化為「スーパージークフリード」形態，換上大型戰略轟炸增裝背包與追加武裝，機體份量感與砲擊火力大幅提升，是隼參與決戰時的招牌形態。本品為DX超合金依現行系列規格重新開版的REVIVAL版本，相較多年前發售的舊版模具，關節結構、可動範圍與塗裝精緻度均有顯著提升，並改善舊版容易鬆動、掉漆等常見問題，三段變形機構（戰鬥機／過渡／人形態）也更為順暢緊實、組裝手感更佳。對於長年收藏VF-31系列、體驗過新舊版本差異的玩家而言，REVIVAL版本可謂以現代標準重新詮釋這部經典機體的代表作，讓新舊玩家皆能以更理想的品質體驗隼機招牌強化形態的魅力。",
     reviews: [
       {
         title: "DX超合金 VF-31J スーパージークフリード（ハヤテ・インメルマン機）リバイバルVer. レビュー | はっちゃか",
@@ -1644,7 +1644,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15103/",
     imageUrl: "/images/dx-chogokin-sv262hs-draken3.jpg",
     tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版 Macross Delta》敵軍 Windermerean 皇家騎士團的反派機 Sv-262Hs Draken III（Bogue Con-Vaart 機），深紅金色的歐式塗裝與有別於 VF 系列的異型機設計，是整個 Delta 系列中最具個性的機體之一。",
+    description: "《劇場版 マクロスΔ／Passionate Walküre》中，溫達米亞王國麾下的「皇家騎士團」是反派陣營的精銳戰鬥部隊，成員多為擁有特殊歌聲能力、對抗Walküre的敵對歌姬與王牌駕駛員。其座機Sv-262Hs德拉肯III在設計上刻意迴避VF系列常見的人形機器人輪廓，改採猛禽般的異形頭部與流線機身，僅具備類似Gerwalk的過渡形態，展現與地球統合軍VF系列截然不同的技術脈絡與美學語彙，是Macross系列少見的非人形變形機體。博格・康法特為皇家騎士團一員，座機即為此型號。DX超合金版本以深紅與金色為主色調，重現騎士團華麗而具侵略性的歐式紋章塗裝，機身線條銳利，可動性與變形機構在異型機體中仍維持一定水準，能重現獨特的滑翔攻擊姿態。此機作為Delta系列反派陣營代表機體之一，與Walküre護衛隊VF-31系列形成強烈對比，是完整收藏整個Delta系列雙陣營機體不可或缺的一件，也是展示櫃中最能凸顯Delta系列敵我機體設計差異的組合之一。",
     reviews: [
       {
         title: "DX超合金 劇場版 Sv-262Hs ドラケンⅢ（ボーグ・コンヴァート機）レビュー | はっちゃか",
@@ -1689,7 +1689,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15635/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
     tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "為紀念《超時空要塞Δ》十週年發售的 DX CHOGOKIN VF-31A Kairos，重現劇中 Delta 小隊支援機（非個人識別機）的一般配色。Kairos 是 Macross Delta 宇宙中的量產型可變機，此 10th Anniversary 版本是 VF-31A 首次以一般配色形式發售，具有重要的周年紀念意義。",
+    description: "《マクロスΔ》於2016年首播，講述偶像團體Walküre以歌聲對抗名為Var症候群的異常現象，並描寫Delta小隊與溫達米亞王國之間長達一整季的衝突與成長故事。VF-31凱洛斯是Delta小隊的量產配備機型，供非個人識別的一般隊員駕駛，機體性能與主角機同源，但塗裝與武裝配置較為簡樸實用。相較隼、美雷、博格等隊員專屬的客製識別塗裝機，凱洛斯以統一制式塗裝呈現部隊感與整齊劃一的軍事美學。本品為紀念《マクロスΔ》十週年推出的DX超合金VF-31A凱洛斯，是VF-31A首度以一般制式配色形式發售的版本——過去該系列多以主要角色的個人識別塗裝推出商品，此次改以量產支援機定位補完商品線，對於希望完整重現Delta小隊編制陣容、而非僅收藏主角機的收藏者而言別具意義。機體仍完整搭載三段變形機構，可動性與細節分色皆維持DX超合金系列一貫水準，是十週年紀念企劃中相當特別的一件商品，也讓玩家得以用制式量產機視角重新欣賞這部作品的世界觀。",
     reviews: [],
     youtube: [
       {
@@ -1718,7 +1718,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.ekiahobbies.com/ninja-cat-1-6-fighter-mai-collectibles-figure-nic-n001/",
     imageUrl: "/images/ninja-cat-n001.jpg",
     tags: ["King of Fighters", "不知火舞", "1/6", "Ninja Cat", "可動", "矽膠", "SNK", "NIC", "鉑金矽膠", "鋼骨"],
-    description: "Ninja Cat（忍者貓）出品的 N001《女格鬥家舞》，以 SNK《拳皇》系列人氣角色不知火舞為原型的 1/6 比例高規格矽膠可動人偶，2025 年 Q2 發售。\n\n本作最大特色是採用「醫療級鉑金矽膠無縫包覆體」——機構上以不鏽鋼骨架為基底，外層以手術等級的鉑金矽膠完整包覆，呈現有別於 PVC 塗裝人形的極高皮膚質感；頭雕搭載可動式眼球，能微調視線方向。套件附 7 款替換手型、開扇與收扇各一，可重現不知火舞在《拳皇》中各招式的手勢與道具動作。全高約 30cm，體量感與可動性在同定價帶矽膠人偶中屬頂尖水準。",
+    description: "不知火舞是SNK旗下《餓狼傳說》系列出身、後成為《拳皇》固定班底的招牌女性角色，隸屬不知火流忍術，以妖艷的紅色改良旗袍造型、搧扇戰鬥與烈焰系招式聞名，長年高居格鬥遊戲人氣角色票選前列，也是眾多廠商爭相推出周邊商品、跨媒體合作的常客角色。Ninja Cat（忍者貓）此款N001《女格鬥家舞》為1/6比例高規格可動人偶，2025年第二季發售。本作最大特色是採用「醫療級鉑金矽膠無縫包覆體」——機構上以不鏽鋼骨架作為基底支撐，外層再以手術等級的鉑金矽膠完整包覆全身，呈現遠比一般PVC塗裝人形更接近真實肌膚的質感、彈性與觸感；頭雕更內建可動式眼球機構，能微調視線方向增添神韻。套件並附有7款替換手型，含開扇、收扇等姿態配件，可重現不知火舞在《拳皇》系列中招牌招式與扇子道具的多樣動作。全高約30公分，體量感與可動範圍在同定價帶矽膠可動人偶市場中屬於頂尖等級之作，對於偏好高擬真質感、勝過傳統PVC塗裝人形的玩家而言，是相當具代表性的收藏選擇。",
     reviews: [
       {
         title: "Ninja Cat NIC-N001 Mai Shiranui 1/6 Scale Figure Review | Bombus Bee",
@@ -1754,7 +1754,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/110616",
     imageUrl: "/images/hapitopi-dongtan-kpring.jpg",
     tags: ["オリジナルキャラクター", "DONGTAN", "Hapitopi", "K Pring", "1/6", "美少女", "中國品牌"],
-    description: "由中國人形廠商 Hapitopi 與熱門插畫師 K Pring 聯合企劃的原創角色《DONGTAN（東坦）》1/6 完成品，全高約 280mm。DONGTAN 以半透明薄紗長裙搭配精緻珠寶細節呈現，附贈伸舌表情臉及口罩臉替換配件，多樣化的配件組合讓作品更具互動趣味。",
+    description: "DONGTAN（東坦）是中國人形品牌Hapitopi與人氣插畫師K Pring聯合企劃的原創角色，並非改編自既有動漫IP，而是專為手辦化打造的原創美少女形象。近年中國原創IP人形市場蓬勃發展，廠商與插畫師攜手推出限定角色、以粉絲經濟帶動銷售的聯名企劃模式已相當成熟，Hapitopi與K Pring的合作即為此類商業模式的代表案例之一。本品為1/6比例完成品，全高約280mm，角色造型以半透明薄紗長裙搭配細膩珠寶飾品呈現空靈飄逸的氣質，服裝分層剪裁與布料垂墜質感在同比例商品中相當講究，展現廠商在服裝結構設計上的用心。套件並附贈伸舌俏皮表情臉與口罩臉兩款替換頭雕配件，讓玩家可依喜好切換不同神情與造型氛圍，大幅提升展示與把玩的多樣性。作為原創角色商品，其收藏價值多繫於角色本身人氣與廠商後續系列經營狀況，是觀察中國人形市場原創IP發展趨勢的代表性作品之一，也反映出插畫師與量產廠商合作模式在近年逐漸走向成熟精緻化的產業現況。",
     reviews: [
           {
             title: "Hapitopi×K pring DONGTAN フィギュアレビュー | fig-memo",
@@ -1783,7 +1783,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/96791",
     imageUrl: "/images/supernova-cifang-1-6.jpg",
     tags: ["オリジナルキャラクター", "此方醬", "Super Nova", "1/6", "貓耳", "美少女", "中國品牌"],
-    description: "Super Nova 出品的原創貓耳少女角色「此方醬」1/6 比例完成品，以兔女郎風格造型搭配俏皮貓耳呈現。Super Nova 為中國新興人形品牌，此方醬系列是其旗下頗具人氣的原創 IP 之一。",
+    description: "此方醬是中國新興人形品牌Super Nova旗下的原創貓耳美少女角色，屬於該廠自有IP企劃之一，並非既有動漫改編角色，而是廠商為建立自身品牌識別度所開發的專屬形象。近年中國人形廠商積極投入原創角色開發，透過角色設計、劇情設定與周邊展開逐步建立粉絲基礎，此方醬即為Super Nova藉此路線推出、具一定人氣基礎的代表角色之一。本品為1/6比例完成品，造型以性感兔女郎裝束搭配俏皮貓耳與尾巴呈現反差萌感，服裝剪裁貼合身形曲線，配件細節如絲襪紋理、飾品鍍色等在同類型商品中屬水準之作，展現該廠雕像原型與塗裝工藝的成熟度。作為原創角色手辦，商品本身較少涉及既定劇情背景，收藏價值多來自角色人氣、雕像姿態設計與塗裝完成度本身。此類商品也反映近年中國人形市場快速崛起、逐漸與日系老牌廠商並列競爭的產業趨勢，值得關注其後續系列發展，對喜愛貓耳美少女題材與兔女郎造型的收藏者而言頗具吸引力，也是觀察中國原創IP能否延伸出長銷角色系列的觀察指標之一。",
     reviews: [],
     youtube: [
       {
@@ -1807,7 +1807,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/106953",
     imageUrl: "/images/animester-2b-nier-1-9.jpg",
     tags: ["NieR:Automata", "2B", "YoRHa", "1/9", "Metal Mecha", "可動", "AniMester", "Nuclear Gold", "Square Enix"],
-    description: "由 AniMester 與 Nuclear Gold 聯名推出、基於 2023 年 TV 動畫《NieR:Automata Ver1.1a》授權的 1/9 比例金屬骨架可動人形。以系列女主角 YoRHa No.2 型 B 號（2B）為原型，採用精密金屬骨架與多軸關節設計實現豐富動態姿勢，附帶音聲底座可重現動畫台詞，並搭載 Pod 042 無人機及多組替換手部配件。",
+    description: "《NieR:Automata》是Square Enix旗下動作角色扮演遊戲，描寫人類滅絕多年後，由人類遺留意識所派遣的仿生機兵部隊YoRHa，與統治地球的機械生命體之間曠日持久的戰爭，劇情探討存在、意識與人性等哲學命題，是近十年來評價極高的日系遊戲代表作之一。2號B型（2B）是YoRHa部隊的戰鬥用仿生人，配戴遮蔽雙眼的黑色眼罩、身著黑色哥德風洋裝，操作雙持大型刀劍作戰，動作優雅而致命，是該作最具代表性的角色形象，並隨無人機Pod夥伴協同支援作戰。2023年播出的電視動畫《NieR:Automata Ver1.1a》重新以動畫形式演繹原作前段劇情。本品為AniMester與Nuclear Gold聯名推出、基於該動畫授權的1/9比例金屬骨架可動人形，內建精密金屬關節架構，可動範圍廣，便於重現角色戰鬥姿勢；並搭載音聲底座重現劇中台詞、附Pod 042無人機模型與多組替換手部配件，是深度還原原作機構質感與角色韻味的高規格商品。",
     reviews: [
     ],
     youtube: [
@@ -1833,7 +1833,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/102406",
     imageUrl: "/images/bearpanda-mai-shiranui-kof97.jpg",
     tags: ["King of Fighters", "不知火舞", "1/6", "BearPanda", "Biya", "SNK", "正版授權", "旗袍"],
-    description: "由 BearPanda 與插畫師 Biya 聯名製作、SNK 正版授權的《拳皇 '97》不知火舞「紅裳舞 Ver.」1/6 固定姿勢人形，全高含台座約 400mm。以鮮豔紅色旗袍搭配金扇演繹不知火舞的傳統東洋美學，精緻布料質感與金色飾品細節在 1/6 比例下忠實呈現，是 BearPanda 旗下 SNK 授權系列的代表作之一。",
+    description: "不知火舞是SNK《餓狼傳說》系列出身、後成為《拳皇》固定班底的招牌女性角色，以不知火流忍術與招牌紅色改良旗袍造型深植玩家印象，是格鬥遊戲史上最具識別度的女性角色之一。《拳皇 '97》更是系列公認的巔峰代表作之一，平衡性與角色塑造深受玩家推崇，該作的角色立繪與造型也常被視為不知火舞形象的重要參照版本。本品為BearPanda與插畫師Biya聯名製作、經SNK正版授權推出的「紅裳舞Ver.」1/6固定姿勢人形，全高含台座約400mm。作品以鮮豔正紅色旗袍搭配金色滾邊與傳統飾品，演繹角色東洋風情的性感魅惑氣質，手持金扇的姿態設計亦呼應其戰鬥招式意象與招牌動作；布料剪裁層次與飾品鍍色細節在1/6比例下處理得相當精緻，展現廠商對服裝質感的講究。作為BearPanda旗下SNK授權系列的代表作之一，本品兼具角色高人氣與正版授權保障，收藏與展示價值兼具，也是格鬥遊戲角色手辦收藏中頗受矚目的一件，對於喜愛SNK角色與東洋風情造型的玩家而言深具吸引力。",
     reviews: [
       {
         title: "【心得】BearPanda 不知火舞 紅裳舞 1/6開箱 | 巴哈姆特",
@@ -1862,7 +1862,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/the-delorean-time-machine-21103",
     imageUrl: "/images/lego-21103-delorean.jpg",
     tags: ["LEGO", "回到未來", "DeLorean", "積木", "CUUSOO", "LEGO Ideas", "絕版"],
-    description: "LEGO CUUSOO（現 LEGO Ideas）第一波推出的《回到未來》DeLorean 時光機（Set 21103），401 個零件重現電影最具代表性的改裝 DeLorean DMC-12，附 Marty McFly 與 Doc Brown 兩個人偶，台座標記三部曲的經典時間點。2013 年發售後迅速絕版，目前二手市場全盒未開售價超過 $150 USD，是 LEGO Ideas 史上最具收藏與增值潛力的作品之一。",
+    description: "《回到未來》三部曲是1985年起陸續上映的經典科幻電影系列，主角Marty McFly與科學家Doc Brown駕駛改裝自DeLorean DMC-12跑車的時光機穿梭於過去與未來之間，車身的通量電容器與鷗翼車門造型已成為流行文化中辨識度極高的科幻符號，影響了此後數十年的科幻作品美學。本品為LEGO CUUSOO（現今LEGO Ideas前身）首波獲選量產的作品之一，由粉絲提案設計、經樂高官方審核後正式商品化，共401個零件重現電影中最具代表性的改裝版DeLorean外觀細節，並附Marty McFly與Doc Brown兩位人偶，展示台座上並以文字標記三部曲劇情中的關鍵時間點年份，設計上兼顧了電影還原度與樂高積木的組裝樂趣。本品於2013年發售後隨即絕版不再版，加上LEGO Ideas粉絲提案商品本身發行量普遍有限，二手市場流通量逐年減少，全套完整未拆封品項的市場詢問度居高不下，是該系列中公認深具收藏與增值潛力的代表性作品之一。",
     reviews: [
       {
         title: "Review: 21103 Back To The Future Time Machine | FBTB",
@@ -1902,7 +1902,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tfsource.com/3rd-party-figures/giant-legion-combiner-yellow-version-set-of-6-heavy-duty-builder-mecha-invasion/",
     imageUrl: "/images/mecha-invasion-giant-legion-yellow.jpg",
     tags: ["Mecha Invasion", "Giant Legion", "六合體", "合體金剛", "變形金剛", "工程車", "第三方", "可變形", "合金"],
-    description: "機械入侵（Mecha Invasion）出品的 GIANT LEGION 黃色版六合體合體金剛，靈感源自《變形金剛》經典反派「建設者」大力神概念。六台黃色重型工程機械各自可獨立變形為機器人，合體後形成全高約 45cm 的巨型戰士。黃色特別版以高飽和工程機械黃為主色調，相比原版更為鮮明搶眼，是第三方廠商詮釋經典合體概念的代表作之一。",
+    description: "《變形金剛》系列中，由多台工程車輛合體組成的巨型反派「大力神（Devastator）」是最具代表性的合體戰士概念之一，其造型與合體邏輯長年受到各家玩具廠商反覆致敬、重新詮釋與延伸創作。機械入侵（Mecha Invasion）為知名第三方變形玩具廠商，其GIANT LEGION系列即以此類經典合體概念為靈感自主開發設計，並在細節與可動性上力求超越傳統授權商品。本品為GIANT LEGION黃色特別版六合體，由六台重型工程機械（如挖土機、起重機、推土機等造型）組成，各自可獨立完成機器人變形並具備一定可動關節，六者合體後形成一具全高約45公分的巨型戰士，體量感與壓迫感十足。相較原版配色，本黃色特別版採用高飽和工程機械黃為主色調，視覺上更為鮮明搶眼，塗裝分色與細節線條刻畫也更顯銳利立體。作為第三方廠商詮釋經典合體金剛題材的代表作之一，本品兼具份量、可玩性與收藏話題性，深受合體玩具愛好者與變形金剛周邊收藏者青睞。",
     reviews: [],
     youtube: [
       {
@@ -1930,7 +1930,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5418/",
     imageUrl: "/images/mg-gundam-stormbringer-pf.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "P-Bandai", "Genius"],
-    description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列鋼彈風暴使者 P.F.（Phantom Fang），P-Bandai 限定。",
+    description: "《鋼彈破壞者 Battlogue》是Bandai Namco電子遊戲《GUNDAM BREAKER》系列的關聯企劃，故事描述在虛構的鋼彈模型（鋼普拉）對戰競技世界中，各方玩家操縱各自打造的鋼普拉進行對戰較勁的設定，其中「Genius」為劇中特殊角色陣營所使用的原創機體系列，設計上大量融合多款經典鋼彈的既有元素，並賦予全新塗裝配色與武裝概念，呈現有別於正史鋼彈作品的自由再創作氛圍。本品為MG系列風暴使者鋼彈P.F.（Phantom Fang），屬於Genius陣營機體之一，機體命名與造型呼應遊戲世界觀中虛構角色的設定與戰鬥風格。作為P-Bandai限定商品，僅透過premium bandai通路少量販售一定期間，未在一般模型通路上架流通，發售後補貨機會低，具備一定收藏稀缺性。MG系列一貫要求高精度分色成型與可動框架設計，本品也延續此系列傳統水準，適合喜愛Gundam Breaker世界觀衍生機體、追求收藏稀有P-Bandai限定商品的玩家。",
     reviews: [
       {
         title: "MG ガンダムストームブリンガー P.F. レビュー | ガンダムブログはじめました",
@@ -1955,7 +1955,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5505/",
     imageUrl: "/images/fm-boost-raider-gundam.jpg",
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "Gundam SEED ECLIPSE", "P-Bandai", "可變形"],
-    description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-XX370 Boost Raider Gundam，可變形至鳥翼狀 MA 形態，P-Bandai 限定。",
+    description: "《機動戰士鋼彈SEED ECLIPSE》是《機動戰士鋼彈SEED》系列近年推出的漫畫外傳企劃，故事設定於原作大戰前後的另一段時間線，透過全新視角補完SEED世界觀中未被詳述的角色背景與機體發展脈絡，深受SEED系列長年支持者關注。GAT-XX370增擊型鋼彈是該作登場的原創機體之一，延續SEED系列G兵器一貫的高機動性設計理念與模組化武裝概念。本品為Full Mechanics系列1/100比例商品，該系列主打較MG親民的價格帶與良好的分色成型技術，適合入門玩家與大量收藏系列機體的族群。本品並保留變形機構，可由標準人形態變形為鳥翼狀MA（機動裝甲）形態，重現SEED系列機體常見的雙形態作戰設定與高速突擊戰術。作為P-Bandai限定商品，僅透過premium bandai通路限量販售，未鋪貨至一般模型通路，補貨可能性低，對於收集SEED ECLIPSE外傳機體或關注G兵器系列變形機構設計的玩家而言，是值得留意的限定收藏品項。",
     reviews: [
       {
         title: "Full Mechanics 1/100 Boost Raider Gundam Review | GundamKitsCollection",
@@ -1980,7 +1980,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2165/",
     imageUrl: "/images/re100-base-jabber-unicorn.jpg",
     tags: ["ガンプラ", "RE/100", "Bandai", "Gundam Unicorn", "飛行台"],
-    description: "Bandai Spirits RE/100 1/100《機動戰士鋼彈UC》TYPE-89 Base Jabber 飛行台（獨角獸版），可搭載 1/100 比例 MS 一同展示。",
+    description: "TYPE-89基地噴射機（Base Jabber）最初設定登場於《機動戰士Z鋼彈》系列作品，是宇宙世紀時間線中常見的軌道彈射載具，功能上類似太空母艦艦載的彈射平台，用於將機動戰士自母艦內部高速射出至戰場，是宇宙世紀作品中描寫太空戰術不可或缺的後勤裝備設定。《機動戰士鋼彈UC》為福井晴敏原作小說改編的OVA作品，承接《逆襲的夏亞》之後的宇宙世紀0096年，描寫獨角獸鋼彈與拉普拉斯之盒相關的政治與軍事鬥爭，是近年UC系列最具話題性的重製與延伸作品。本品為RE/100系列以獨角獸版全新塗裝重新詮釋的TYPE-89基地噴射機，可供玩家搭載1/100比例的機動戰士模型一同展示，重現作品中MS自母艦彈射出擊的經典戰鬥畫面。RE/100系列以簡化內構、降低售價為特色，同時仍保有一定的細節分色水準，此類載具類商品雖非機動戰士本體，卻是豐富展示情境、還原劇中戰術場面不可或缺的重要周邊選項，對於偏好情境式展示、講究場景敘事的鋼普拉收藏者而言相當實用。",
     reviews: [
       {
         title: "RE/100 1/100 Base Jabber (Unicorn Ver.) Review | Supreme Mecha",
@@ -2005,7 +2005,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2620395001002",
     imageUrl: "/images/mg-raijin-striker.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED Freedom", "追加裝備", "ECLIPSE"],
-    description: "Bandai Spirits MG 1/100《SEED FREEDOM》MG Eclipse Gundam 専用追加武裝「雷神 Striker」擴充套件。",
+    description: "《機動戰士鋼彈SEED FREEDOM》是2024年上映、承接《機動戰士鋼彈SEED DESTINY》後續劇情的劇場版動畫，描寫自由鋼彈駕駛員煌・大和等角色在新興威脅下再度挺身而戰的故事，是SEED系列時隔近二十年重返大銀幕的重要作品。Eclipse鋼彈是該作登場的原創機體之一，可依戰況搭載不同的追加武裝套件（Striker Pack）以強化特定作戰性能，此為SEED系列自初代Strike鋼彈以來一貫的模組化武裝設計傳統，也是系列機體設計最具代表性的特色。本品為MG系列MG Eclipse鋼彈專用的「雷神Striker」擴充套件，命名與造型暗示其著重於高輸出、雷擊系概念的火力強化取向，須搭配另售的MG Eclipse鋼彈本體才能完整組裝展示。此類追加裝備套件讓玩家能依喜好切換機體形態與武裝配置，重現劇場版中因應不同戰鬥情境變換裝備的橋段，是深化收藏SEED FREEDOM系列機體、豐富展示樣貌的重要選配商品。",
     reviews: [
       {
         title: "MG 1/100 Raijin Striker Review | GundamKitsCollection",
@@ -2030,7 +2030,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2572820001003",
     imageUrl: "/images/mg-lightning-striker.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "追加裝備", "ストライク"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》Aile Strike Gundam 専用追加武裝「Lightning Striker」擴充套件。",
+    description: "《機動戰士鋼彈SEED》系列自初代電視動畫起即確立了「Striker Pack」模組化追加武裝的設計傳統，讓主角機強襲鋼彈能依戰場需求更換空戰、砲擊、近戰等不同型態的裝備組件，藉此以單一機體平台衍生出多種戰術樣貌，是SEED系列機體設計最具代表性的特徵之一，也深深影響後續鋼彈作品的機體開發思路。「Lightning Striker」為系列擴展媒體中登場的追加武裝構想，強調高速游擊與雷擊系火力的作戰取向，呼應SEED世界觀中G兵器不斷因應戰局演化裝備的設定脈絡。本品為MG系列強襲鋼彈專用的Lightning Striker擴充套件，須搭配另售的MG強襲鋼彈本體使用方能完整組裝展示，並非獨立機體商品。透過替換套件即可重現該武裝形態的獨特側輪廓與武器配置，對於希望收全強襲鋼彈各式Striker Pack形態、完整重現機體多樣戰術樣貌的玩家而言，是補完機體收藏陣容不可或缺的重要選項，也讓展示櫃中的強襲鋼彈得以呈現更豐富的武裝變化面貌。",
     reviews: [
       {
         title: "P-BANDAI MG 1/100 Lightning Striker Review | Supreme Mecha",
@@ -2060,7 +2060,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13745/",
     imageUrl: "/images/metal-build-justice-gundam.jpg",
     tags: ["METAL BUILD", "Bandai", "Gundam SEED", "合金", "完成品", "ZAFT"],
-    description: "Bandai Spirits Metal Build《機動戰士鋼彈SEED》GAT-X019 Justice Gundam，合金壓鑄可動完成品，附飛行機械翼及豐富武裝配件。",
+    description: "《機動戰士鋼彈SEED》描寫地球聯合與ZAFT之間因基因改造人議題所引發的戰爭，其中由ZAFT秘密開發的五部G兵器原型機一度遭聯合軍突襲奪取，後續由亞斯蘭・薩拉駕駛的正義鋼彈即為ZAFT奪回並強化的其中一部，與煌・大和的自由鋼彈並列系列後期最具代表性的雙主角機，兩機並肩作戰的畫面也是SEED系列粉絲心中的經典場面。正義鋼彈可與自由鋼彈進行武裝共享與協同作戰，是SEED系列描寫夥伴羈絆與友情主題的重要象徵機體。本品為Metal Build系列合金壓鑄可動完成品，該系列以金屬骨架搭配高精度關節結構聞名，兼顧可動性與份量感，跳脫一般塑膠鋼普拉的組裝概念、直接以完成品形式呈現，並附有飛行用機械翼組件及豐富武裝配件，可重現機體多種戰鬥姿態與武裝配置。相較一般塑膠鋼普拉，Metal Build系列訴求完成品的精緻塗裝與合金質感，是喜愛SEED系列機體、追求高完成度展示效果玩家的熱門選擇，也是與自由鋼彈並列展示、重現雙主角並肩作戰畫面的理想組合。",
     reviews: [
       {
         title: "METAL BUILD Justice Gundam Review | GUNJAP",
@@ -2090,7 +2090,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1731/",
     imageUrl: "/images/mg-victory-gundam-verka.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "V鋼彈", "Ver.Ka", "分離合體"],
-    description: "Bandai Spirits MG 1/100《機動戰士V鋼彈》Ver.Ka LM-MS/V19 Victory Gundam，由 Hajime Katoki 監修設計，V Dash、Top/Bottom 分離形態完整再現。",
+    description: "《機動戰士V鋼彈》是宇宙世紀時間線後期作品，描寫地球聯邦殘存勢力「地球圈統一之會」與薩比家族餘孽政權「薩克・比恩」之間的殘酷戰爭，主角為年僅十三歲的少年鬥士優西恩，其座機V鋼彈以「合體變形」與「三機分離」機構為最大特色，可分離為核心戰機（Core Fighter）與上下半身組件，重組後亦能與V Dash等追加裝備合體強化，展現該作機體設計上獨樹一格的模組化理念。本品為MG系列由知名機械設計師加藤真設計監修的Ver.Ka版本，Ver.Ka系列一貫以精密銳利的線條重新詮釋經典機體造型並強化細節密度著稱，深受資深鋼普拉玩家推崇。本商品完整重現V鋼彈的Top、Bottom分離形態與V Dash合體機構，讓玩家能重現原作中機體因應戰況分離、合體、換裝的多樣形態變化，對於喜愛加藤監修美學與機體合體變形玩法的玩家而言，是相當具代表性的收藏品項，也是宇宙世紀後期作品中兼具劇情厚度與模型可玩性的重量級商品。",
     reviews: [
       {
         title: "MG 1/100 Victory Gundam Ver. Ka Review | Otaku Revolution",
@@ -2121,7 +2121,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1796/",
     imageUrl: "/images/mg-aegis-gundam.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "可變形", "ZAFT"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X303 Aegis Gundam，地球聯合 G 兵器，可變形至 MA 形態，ZAFT 奪取後由 Athrun Zala 駕駛。",
+    description: "《機動戰士鋼彈SEED》劇情中，ZAFT秘密開發的五部G兵器原型機一度遭地球聯合軍突襲奪取並投入實戰，神盾鋼彈即為其中之一，其最大特色是可變形為機動裝甲（MA）形態並使出針山狀近接攻擊裝置，是系列中少數具備完整變形機構的G兵器，也讓機體在偵察與突襲任務中極具戰術彈性。神盾鋼彈後續由ZAFT奪回，並由亞斯蘭・薩拉駕駛參與後續戰役，是描寫ZAFT與地球聯合軍之間武裝爭奪戲碼的重要象徵機體，也承載了亞斯蘭角色成長的重要劇情脈絡。本品為MG系列商品，完整重現人形態與MA形態間的變形機構，並依原作設定呈現ZAFT制式配色與細節分色。MG系列一貫講求高精度內構關節與外裝分色成型技術，本品也延續此傳統，兼顧組裝樂趣與展示完成度，是收藏SEED系列五部G兵器組合中不可或缺的一員，也是少數能同時展示人形態與MA形態的變形機體代表作，適合喜愛比較各機變形機構設計差異的鋼普拉玩家細細研究。",
     reviews: [
       {
         title: "MG 1/100 Aegis Gundam Review | GUNJAP",
@@ -2151,7 +2151,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_6875/",
     imageUrl: "/images/mg-full-armor-zz-gundam-verka.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ZZ鋼彈", "Ver.Ka", "全裝甲"],
-    description: "Bandai Spirits MG 1/100《機動戰士ZZ鋼彈》MSZ-010S Full Armor ZZ Gundam Ver.Ka，2026年 Katoki 監修全新版本，全裝甲型完整重現，可拆裝甲切換強化 ZZ 形態。",
+    description: "《機動戰士ZZ鋼彈》承接《機動戰士Z鋼彈》劇情，描寫地球聯邦與新吉翁殘存勢力卡拉巴之間的戰爭，主角捷多的座機ZZ鋼彈以強大的火力配置與百式般的合體變形機構著稱，是宇宙世紀系列中火力設定最為誇張、玩具與模型商品化潛力極高的一部主角機。全裝甲型（Full Armor ZZ）則是劇中後段為強化決戰火力而追加大量外掛裝甲與武裝的強化形態，象徵ZZ鋼彈系列武裝發展的極致，也是該作壓軸戰役中令人印象深刻的機體樣貌。本品為2026年由加藤真重新監修設計、全新開模推出的MG Ver.Ka版本，相較舊版商品在關節結構、可動範圍與細節分色上均有大幅提升。套件並可透過拆裝外掛裝甲，於標準ZZ鋼彈形態與全裝甲強化形態間自由切換展示，讓玩家一次收藏兩種經典形態。Ver.Ka系列一貫以精緻線條詮釋機體美學，本品也延續此系列一貫高規格水準，是ZZ鋼彈收藏者引頸期盼多年的重製版本，發售後預期將成為取代舊版商品的新標準之作。",
     reviews: [
       {
         title: "MG 1/100 Full Armor ZZ Gundam Ver.Ka Review | Gundam.my",
@@ -2181,7 +2181,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3869/",
     imageUrl: "/images/mg-zaku2-j-ridden-custom.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "ザク"],
-    description: "Bandai Spirits MG 1/100 MS-06S 薩克II J.Ridden's Custom，吉翁公國精銳隊長機，個人塗裝版薩克，附豐富武器選擇。",
+    description: "《機動戰士鋼彈》描寫一年戰爭時期地球聯邦與吉翁公國之間的宇宙戰爭，薩克II是吉翁軍隊的主力量產機體，也是整個鋼彈系列中最具代表性的反派量產兵器象徵，其單眼式頭部與寬肩造型深植玩家印象，衍生出數量龐大的個人客製與隊長機版本商品。J.リッデン為吉翁軍精銳部隊隊長，其座機薩克II採用個人識別塗裝與強化配備，區別於一般部隊的量產塗裝，呼應吉翁軍中王牌駕駛員普遍偏好客製化座機、以識別身分與戰功的傳統。本品為MG系列薩克II J.リッデン特製版，套件附有豐富武器配件供玩家依喜好自由搭配展示，並以獨特塗裝呈現隊長機的精銳身分識別。MG系列薩克II歷來以扎實的內構關節與精細分色著稱，本品作為系列眾多薩克客製版本之一，適合喜愛吉翁軍量產機體變化脈絡與隊長機收藏系譜的玩家，也是深入研究薩克II歷代客製化商品發展史不可忽略的一件經典款式，與其他薩克客製版本並列展示更能呈現吉翁軍多元的機體塗裝文化。",
     reviews: [
       {
         title: "MG 1/100 Zaku II J.Ridden's Custom Review | Kimi The Builder",
@@ -2211,7 +2211,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4026/",
     imageUrl: "/images/fm-aile-calamity-gundam.jpg",
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "Gundam SEED ECLIPSE", "地球聯合"],
-    description: "Bandai Spirits Full Mechanics 1/100《機動戰士鋼彈SEED ECLIPSE》GAT-X130 Aile Calamity Gundam，搭載 Aile Striker 的 Calamity 改裝型。",
+    description: "《機動戰士鋼彈SEED ECLIPSE》為近年推出的SEED系列漫畫外傳企劃，設定於原作大戰前後的另一段時間線，透過全新支線劇情補完SEED世界觀中未被詳述的角色與機體發展，深受系列長年支持者關注與討論。GAT-X130降雷鋼彈為地球聯合軍開發的G兵器之一，本品所呈現的Aile形態，是機體搭載SEED系列傳統Aile Striker（空戰用飛翼背包）套件後的改裝版本，延續系列一貫的模組化武裝設計精神，讓同一機體平台得以因應不同戰術需求換裝。Full Mechanics系列主打較MG親民的價格與良好的分色成型技術，適合入門玩家與希望大量收藏系列機體的收藏者。本品也延續此系列一貫定位，重現降雷鋼彈換裝空戰套件後的機體輪廓與武裝配置，是補完SEED ECLIPSE外傳機體陣容、串聯SEED系列G兵器收藏系譜的重要一員，適合已收藏正史G兵器、希望延伸至外傳世界觀的玩家一併納入收藏，藉此感受SEED系列衍生作品對經典機體的重新演繹。",
     reviews: [
       {
         title: "FM 1/100 Aile Calamity Gundam Review | GUNJAP",
@@ -2241,7 +2241,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4036/",
     imageUrl: "/images/mg-impulse-gundam-blanche.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED ASTRAY", "P-Bandai", "ZAFT", "デスティニーシルエット"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED ASTRAY》ZGMF-X56S/ι Impulse Gundam Blanche，P-Bandai 限定，搭載 Destiny R Silhouette 及 Wolfsbane 大型遠程射擊炮。",
+    description: "《機動戰士鋼彈SEED ASTRAY》是SEED系列的漫畫外傳作品，描寫在正史之外、由不同駕駛員操作的機體與支線劇情，透過旁支視角補完SEED世界觀的細節與時間軸空白，長年受到系列硬核粉絲喜愛。命運脈衝鋼彈白色版即為此系列登場的機體之一，其命名與塗裝呼應SEED DESTINY正史中登場的命運鋼彈相關武裝概念，並搭載Destiny R Silhouette與大型遠程狙擊炮Wolfsbane等強化裝備，火力配置偏向遠程壓制與精準狙殺，展現與正史命運鋼彈不同的戰術取向。本品為P-Bandai限定商品，僅透過premium bandai通路限量販售，未在一般模型通路鋪貨，補貨機會低。MG系列一貫要求高精度可動框架與細節分色，本品也延續此傳統，並完整重現搭載Silhouette強化組件後的機體輪廓，是收藏SEED ASTRAY外傳機體與稀有限定商品的重點目標，對於偏好遠程狙擊型武裝設定、喜愛比較各式命運鋼彈衍生形態的玩家而言別具魅力。",
     reviews: [
       {
         title: "MG 1/100 Impulse Gundam Blanche Review | Pilot EXIA Gundam",
@@ -2271,7 +2271,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1789/",
     imageUrl: "/images/mg-duel-gundam-assault-shroud.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "地球聯合"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X102 Duel Gundam 加裝 Assault Shroud 追加甲冑，Yzak Joule 座機。",
+    description: "《機動戰士鋼彈SEED》劇情中，ZAFT於突襲行動中奪取地球聯合軍秘密開發的五部G兵器原型機，決鬥鋼彈即為其中之一，後由ZAFT精銳駕駛員伊薩克・喬魯駕駛參戰，是系列中代表ZAFT陣營戰力的重要機體之一，其銳利的頭部造型與白灰配色也是系列人氣機體之一。決鬥鋼彈可依戰場需求換裝不同追加甲冑，Assault Shroud即為其中強化近接與突擊性能的追加武裝形態，換裝後機體整體輪廓更顯厚重，武裝密度大幅提升，展現與標準型截然不同的壓迫感。本品為MG系列商品，完整重現決鬥鋼彈換裝突擊甲冑後的機體樣貌，並延續MG系列一貫的精密內構與分色成型工藝，兼顧組裝手感與展示完成度。對於希望收藏SEED系列五部G兵器完整換裝形態、或專注於伊薩克座機收藏脈絡的玩家而言，本品是不可或缺的一件重要商品，也是呈現ZAFT陣營王牌駕駛員個人特色的代表機體之一，與其他四部G兵器並列展示更能重現當年五機齊發的震撼場面。",
     reviews: [
       {
         title: "MG 1/100 GAT-X102 Duel Gundam Assault Shroud Review | Gaijin Gunpla",
@@ -2301,7 +2301,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=162&grp_id=5312",
     imageUrl: "/images/mg-aile-strike-gundam.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "主角機", "ストライク"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈SEED》GAT-X105 Strike Gundam 裝備 Aile Striker，SEED 代表主角機，Kira Yamato 初期座機，2003年發售的最初版本，與後續2013年推出的Ver.RM為不同商品。",
+    description: "《機動戰士鋼彈SEED》為2002年首播的鋼彈系列作品，描寫地球聯合與ZAFT之間因基因改造人「Coordinator」議題所引發的戰爭，主角煌・大和意外操縱地球聯合軍秘密開發的強襲鋼彈投入戰場，是系列後續SEED世界觀的起點作品，也是奠定Striker Pack模組化武裝設計傳統的原型機體，在鋼彈系列發展史上具有承先啟後的重要地位。本品為2003年發售的MG系列強襲鋼彈初版商品，搭載Aile Striker空戰用飛翼背包套件，是煌初期最主要的座機形態，也是無數玩家接觸MG系列的入門經典。此版本與2013年後續推出的Ver.RM為完全不同開模的商品，初版在關節結構、內構設計與細節密度上保有當時代的設計特徵與時代印記，對於收藏鋼普拉發展歷程、比較新舊版本工藝差異的玩家而言，具有相當重要的歷史指標意義，作為SEED系列最初代主角機的原始開模版本，也承載著許多玩家的青春回憶，是研究鋼普拉模具技術二十年演進歷程時常被提及的重要參照商品。",
     reviews: [
       {
         title: "MG 1/100 Strike Gundam + Aile Striker Review | Lazy Lily Fansubs",
@@ -2331,7 +2331,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4212/",
     imageUrl: "/images/mg-gundam-ex-impulse-manfred.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "P-Bandai", "Genius"],
-    description: "Bandai Spirits MG 1/100《鋼彈破壞者 Battlogue》Genius 系列 Gundam EX-Impulse，Manfred von Sakazaki 座機，P-Bandai 限定。",
+    description: "《鋼彈破壞者 Battlogue》承接電子遊戲《GUNDAM BREAKER》系列世界觀，描寫虛構的鋼普拉對戰競技場景，各方角色駕駛自製或改裝鋼普拉相互較勁，劇中角色曼弗雷德・馮・薩卡薩基即駕駛原創機體EX-Impulse鋼彈參與對戰。EX-Impulse鋼彈在造型與命名上呼應SEED DESTINY系列命運脈衝鋼彈的元素，並依劇中角色設定賦予獨特武裝與塗裝方案，屬於Gundam Breaker系列基於既有鋼彈重新再創作的原創衍生機體之一，展現該企劃融合經典與新意的設計取向。本品為MG系列商品，作為P-Bandai限定僅透過premium bandai通路限量販售，未在一般模型通路上架，補貨可能性低，具一定收藏稀缺性。MG系列一貫講求高精度可動框架與細節分色工藝，本品也延續此標準，適合喜愛Gundam Breaker世界觀角色機體、追求限定商品收藏的玩家，也是與同系列風暴使者鋼彈P.F.並列展示、呈現Genius陣營機體群像的理想組合。",
     reviews: [
       {
         title: "MG 1/100 Gundam EX-Impulse Review | Saint-ism",
@@ -2356,7 +2356,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2541/",
     imageUrl: "/images/mg-re-gz-unicorn-ver.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Unicorn", "逆夏", "可變形", "P-Bandai"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈UC》RGZ-91 Re-GZ（獨角獸版），P-Bandai 限定，以 UC 新設定重新詮釋《逆夏》可變形機體，附 Back Weapon System。",
+    description: "Re-GZ最初設定登場於福井晴敏原作小說《機動戰士鋼彈UC》的補完設定中，作為《逆襲的夏亞》時期傑鋼系列的後續發展構想機體，承襲傑鋼一貫的高機動可變形設計理念，長年僅存在於小說插畫與設定資料中，較少實際商品化。《機動戰士鋼彈UC》OVA描寫宇宙世紀0096年獨角獸鋼彈與拉普拉斯之盒相關的政治鬥爭，並將部分周邊小說設定的冷門機體重新以獨角獸世界觀塗裝呈現，讓這些長年埋沒的機體重見天日。本品為P-Bandai限定的MG系列Re-GZ獨角獸版，以UC新設定重新詮釋這部原本僅見於小說插畫的機體，完整重現其可變形機構與Back Weapon System大型背部武裝系統，讓玩家能重現機體在戰鬥形態下的完整武裝樣貌。作為僅透過premium bandai通路限量販售的商品，補貨機會低，對於深度收藏UC系列冷門機體或傑鋼系列發展脈絡的玩家而言，具有相當高的補完價值，也讓玩家得以一窺宇宙世紀後期可變形機體技術演進的另一種可能。",
     reviews: [
       {
         title: "MG 1/100 Re-GZ Unicorn Ver レビュー | ガンダムズブログ",
@@ -2386,7 +2386,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3867/",
     imageUrl: "/images/mg-tallgeese-2.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Wing", "OZ", "Treize"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W》OZ-00MS II Tallgeese II，Treize Khushrenada 親自座駕，以白色加金色貴族風格塗裝為特色。",
+    description: "《新機動戰記鋼彈W》描寫地球圈統一國家與殖民地反抗軍五位少年鬥士之間的戰爭，泰坦機二號是OZ組織於戰爭初期投入實戰的高性能機動戰士。其原型泰坦機是在鋼彈系列尚未量產之前，由OZ科學家所打造的初代試作機，因缺乏後期機體具備的輸出限制器，駕駛員需具備極高的操縱技術才能完全發揮其性能，也因此成為衡量王牌駕駛實力的重要象徵。特雷斯・克休里納達是OZ組織的核心指揮官，以貴族氣質與騎士精神著稱，重視公平對決勝過單純的軍事勝利，親自駕駛泰坦機二號投入戰場，是系列中最具人格魅力的反派角色之一。本品為MG系列商品，以白底搭配金色鑲邊的貴族風格塗裝重現特雷斯座機的獨特識別，並維持MG系列一貫的可動框架與細節分色水準，是收藏W鋼彈系列角色座機不可或缺的代表作品，也是體現特雷斯這位反派角色獨特美學品味的重要收藏品項，與五位少年鬥士的鋼彈並列展示更能呈現該作正反陣營機體美學的鮮明對比。",
     reviews: [
       {
         title: "MG 1/100 Tallgeese II Review | Gundam Kits Collection",
@@ -2422,7 +2422,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1136136/MODEROID+Bismark",
     imageUrl: "/images/moderoid-bismark.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "星銃士ビスマルク", "Saber Rider", "可變形", "80年代アニメ"],
-    description: "Good Smile Company MODEROID 系列《星銃士ビスマルク》主角機器人，可在戰鬥母艦形態與機器人形態之間完全變形，機器人形態全高約 17cm，附可動關節與多種替換配件。",
+    description: "《星銃士ビスマルク》是1984年播出的日本動畫作品，於歐美市場以《Saber Rider and the Star Sheriffs》之名發行並廣受歡迎，是80年代日美合作動畫的代表作之一，描寫星際牛仔戰隊駕駛可變形戰艦機器人保衛銀河和平的冒險故事，融合了西部牛仔元素與太空歌劇的獨特世界觀，至今仍擁有一批忠實的懷舊粉絲。主角機俾斯麥（Bismark）平時以戰鬥母艦形態航行於宇宙之間，戰鬥時則完全變形為巨大人形機器人迎戰敵人，是該作最具標誌性、也最具時代特色的機體設計。本品為Good Smile Company旗下MODEROID模型套件系列作品，完整重現戰艦形態與機器人形態間的變形機構，機器人形態全高約17公分，並附有可動關節與多種替換配件，供玩家重現角色不同戰鬥姿勢。作為復刻80年代經典動畫題材的模型商品，本品兼具懷舊情懷與現代模型套件的可動性與組裝樂趣，是老牌動畫粉絲與模型玩家共同關注的作品。",
     reviews: [
           {
             title: "ビスマルク、MODEROIDで新生 | 龍凰堂",
@@ -2449,7 +2449,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/7415/",
     imageUrl: "/images/freeing-miku-my-dear-bunny.jpg",
     tags: ["FREEing", "B-Style", "初音ミク", "Vocaloid", "Project DIVA", "兔女郎", "1/4", "完成品フィギュア"],
-    description: "FREEing B-Style 系列 1/4 比例初音ミク兔女郎手辦，造型取自《初音ミク -Project DIVA- Arcade》的 My Dear Bunny 模組服裝，網紋褲襪採用真實布料材質，身高約460mm，極具存在感。",
+    description: "初音未來是Crypton Future Media推出的Vocaloid歌聲合成軟體代表角色，自2007年問世以來已成為虛擬歌手文化的象徵性存在，並跨足遊戲、演唱會、周邊商品等多元領域，是全球知名度最高的虛擬偶像形象之一。《初音ミク -Project DIVA- Arcade Future Tone》為街機節奏遊戲作品，其中角色服裝模組系統讓玩家可為初音未來換裝不同主題造型並隨音樂起舞，My Dear Bunny即為其中人氣頗高的兔女郎風格服裝模組之一，深受玩家喜愛而屢屢被廠商相中商品化。本品為FREEing旗下B-Style系列1/4大比例兔女郎手辦，該系列一貫以性感兔女郎造型詮釋各類人氣角色著稱，本品也延續此系列一貫尺度與構圖美學，身高約460mm，存在感十足。網紋褲襪部位採用真實布料材質包覆，有別於一般樹脂塗裝呈現的視覺效果，質感更為逼真細膩，是B-Style系列中相當具代表性的高人氣商品之一。",
     reviews: [
       {
         title: "FREEing B-Style Hatsune Miku My Dear Bunny Ver. Review | MyFigureCollection",
@@ -2475,7 +2475,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1211/",
     imageUrl: "/images/mg-enhanced-zz-gundam-verka.jpg",
     tags: ["Bandai", "MG", "マスターグレード", "ZZガンダム", "Ver.Ka", "Katoki", "UC", "P-Bandai", "強化型"],
-    description: "P-Bandai 限定 MG 1/100 強化型ZZガンダム Ver.Ka，以 Hajime Katoki 監督設計重現 UC 0088 最終決戰形態，全身加裝強化裝甲與武裝，配合加強裝備套件可還原最完整武裝形態。",
+    description: "《機動戰士ZZ鋼彈》描寫宇宙世紀0088年前後，地球聯邦與新吉翁殘存勢力之間的戰爭，強化型ZZ鋼彈是劇中設定的機體強化構想之一，象徵ZZ鋼彈系列在故事後期為因應最終決戰而持續強化武裝的發展脈絡，全身加裝強化裝甲與追加武裝，火力與防禦力較標準型大幅提升，過去長年僅見於設定資料而少有商品化機會。本品為P-Bandai限定商品，由加藤真監修設計，以Ver.Ka系列一貫的精緻線條重新詮釋這部較少商品化的強化形態，讓玩家得以透過模型重現UC 0088最終決戰時期的機體樣貌，補完長年空白的收藏缺口。套件並可望透過加強裝備套件切換不同武裝形態，完整還原設定中的強化配置。作為僅透過premium bandai通路限量販售的商品，發售後補貨機會低，對於深度收藏ZZ鋼彈系列冷門強化形態的玩家而言，具有相當高的補完價值，也是與全裝甲型ZZ鋼彈並列比較UC0088最終決戰各式強化構想的珍貴品項，讓玩家一次網羅ZZ鋼彈系列所有主要武裝變化。",
     reviews: [
           {
             title: "ガンプラ「MG 1/100 強化型ダブルゼータガンダム Ver.Ka」レビュー | hobby.watch.impress",
@@ -2510,7 +2510,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-6-battle-damaged-6935",
     imageUrl: "/images/threezero-dlx-iron-man-mk6-battle-damaged.jpg",
     tags: ["threezero", "DLX", "Marvel", "Iron Man", "Infinity Saga", "合金", "可動", "完成品", "Iron Man 2"],
-    description: "Threezero Marvel Studios: The Infinity Saga DLX 系列 1/12 鋼鐵人 Mark VI（戰損版），採用 DLX 合金壓鑄系統，精細戰損塗裝重現《鋼鐵人2》最終決戰場景，附多種替換手型與武器配件。",
+    description: "《鋼鐵人2》是漫威電影宇宙（MCU）無限傳奇系列早期作品，描寫東尼・史塔克在體內鈀元素核心逐漸中毒瀕死之際，四處尋找新元素解方並研發出第六代戰甲Mark VI的故事，該片也首次讓戰甲核心從鈀元素升級為東尼自行合成的新元素，象徵角色科技實力的重大突破，同時也是他克服自身生死危機、走向成熟的重要轉捩點。片中東尼身穿Mark VI戰甲於蒙地卡羅賽車場及最終戰中，與惡棍冰毒帥（Whiplash）及大量錘工業無人機戰甲展開激烈纏鬥，戰損痕跡也成為該片最具張力的經典畫面之一。本品為threezero「Marvel Studios: The Infinity Saga」系列DLX規格1/12戰損版鋼鐵人Mark VI，採用該系列招牌的DLX合金壓鑄骨架系統，兼顧可動性與金屬質感，塗裝上精細重現戰鬥中留下的燒灼、刮痕與破損細節，並附多種替換手型與武器特效配件，供玩家重現電影經典戰鬥場面，是漫威影迷與機甲收藏愛好者共同關注的高完成度合金收藏精品。",
     reviews: [
       {
         title: "Marvel DLX - Battle Damaged Iron Man Mark VI by ThreeZero | Toyark",
@@ -2546,7 +2546,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.taito.co.jp/taito-prize/0451591900",
     imageUrl: "/images/taito-coreful-mahiru-school-uniform.jpg",
     tags: ["お隣の天使様", "椎名真昼", "Taito", "Coreful", "制服", "景品"],
-    description: "《關於我在無意間被隔壁的天使變成廢柴這件事》女主角椎名真昼，以制服姿態登場的 Taito Coreful 景品公仔。真昼身著海軍藍外套配白色水手衫、格紋短裙與黑色長筒襪，手持雨傘，完整重現她日常上學的清純形象。Coreful 系列以「用心」為理念，在景品規格內追求超乎預期的造型完成度，真昼招牌的亞麻金長髮、溫柔眼神與精緻面部雕刻均有忠實呈現。全高約 18cm，尺寸在景品公仔中屬偏大，陳列存在感十足。",
+    description: "《關於我在無意間被隔壁的天使變成廢柴這件事》改編自輕小說，故事描述獨自生活、飲食不規律的高中生藤宮周，某天意外幫助了在學校被譽為「天使」、成績外貌兼優卻獨居的鄰居椎名真昼，從此展開兩人在日常生活中逐漸靠近的溫馨故事。真昼在校內清純典雅、被眾人仰慕，私底下卻擅長家事、細心體貼，這種公私反差正是角色人氣居高不下的核心魅力所在，也是本作被眾多讀者稱為「治癒系日常」代表作的原因。此為 Taito Coreful 景品系列以制服姿態重現真昼上學時的模樣，海軍藍外套、白色水手衫、格紋短裙與黑色長筒襪一應俱全，手持雨傘完整呈現她日常上學途中不經意展露的清純形象。Coreful 系列一貫以「用心」為理念，在景品規格的成本限制內仍講究臉部雕刻精度與髮型層次呈現，真昼招牌的亞麻金長髮髮絲流動感、溫柔中帶點距離的眼神，以及制服布料皺褶都有忠實還原。全高約 18cm，在景品公仔中屬偏大尺寸，陳列存在感十足，是入門收藏該角色的高性價比選擇。雨傘配件與站姿重心的自然歪斜角度也是本作一大亮點，讓公仔即使靜態擺放也帶有生活感的敘事氛圍，對喜愛真昼日常形象、而非戰鬥或泳裝路線的收藏者而言，是最貼近原作基調的一款代表性商品。",
     reviews: [
       {
         title: "コリフルフィギュア 椎名真昼 制服ver. レビュー | すもうロボット",
@@ -2582,7 +2582,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bsp-prize.jp/item/2758475/",
     imageUrl: "/images/banpresto-mahiru-shiina.jpg",
     tags: ["お隣の天使様", "椎名真昼", "Banpresto", "Bandai", "景品"],
-    description: "Bandai Spirits（Banpresto）出品的椎名真昼景品公仔，採坐姿仰望角度，重現她靦腆帶笑地抬頭看向鏡頭的經典瞬間。制服裙擺的皺褶紋理細緻，半透明素材加上塗裝處理的髮梢呈現出真昼金髮特有的通透感。雖屬景品規格，但面部雕刻精準捕捉真昼的「天使感」，眼神溫柔而略帶距離，完全符合角色氣質。全高約 12cm，體積小巧適合桌面擺放。此為 2025 年 1 月初版後於 2026 年 4 月配合動畫第二季推出的再版。",
+    description: "故事描寫獨居高中生藤宮周與鄰居椎名真昼因意外契機而逐漸親近的日常戀愛喜劇，真昼在校內以「天使」之名廣受愛戴，成績、容貌、家事樣樣精通，唯獨在周面前才卸下完美形象、展露真實可愛的一面，這種反差正是她廣受讀者喜愛的原因，也讓她成為近年輕小說改編作品中人氣最高的女主角之一。此為 Bandai Spirits（Banpresto）出品的景品公仔，採坐姿仰望角度，重現她靦腆帶笑抬頭看向鏡頭的經典瞬間，這個角度也是原作插畫與周邊商品中相當受歡迎的構圖之一。制服裙擺皺褶紋理細緻，髮梢以半透明素材加上漸層塗裝處理，呈現真昼金髮特有的通透光澤感。雖屬一般景品規格，面部雕刻仍精準捕捉真昼略帶距離感卻不失溫柔的「天使感」眼神，完全符合角色氣質設定。全高約 12cm，體積小巧適合桌面擺放，此為 2025 年初版推出後，配合動畫第二季播出而於 2026 年推出的再版商品，讓當初錯過首發的新舊粉絲都能順利入手收藏。景品公仔一般成本考量下彩繪工序有限，但本作在頭髮漸層與制服藍白對比上仍有一定講究，加上坐姿設計節省了展示空間，是適合大量收藏該系列角色、又不占太多層架空間的實用選項。",
     reviews: [
       {
         title: "お隣の天使様にいつの間にか駄目人間にされていた件 椎名真昼 プライズフィギュア レビュー",
@@ -2613,7 +2613,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bsp-prize.jp/item/2739171/",
     imageUrl: "/images/banpresto-mahiru-relax-time.jpg",
     tags: ["お隣の天使様", "椎名真昼", "Banpresto", "Bandai", "Relax time", "景品"],
-    description: "Bandai Spirits（Banpresto）Relax time 系列的椎名真昼，原型取自輕小說特裝版第 7 巻封面插圖（はねこと老師作畫）。真昼以放鬆居家姿態呈現，頭戴耳機、自然地坐在室內，衣著輕便而日常。系列招牌的「透明素材表現半透明感」技法在真昼金髮上發揮得淋漓盡致——髮梢以透明 ABS 製成，搭配漸層塗裝，在光線下會呈現天使光般的通透效果。全高約 13cm，是同系列中造型完成度極高的一款。此為 2025 年 3 月初版後於 2026 年 5 月配合動畫第二季推出的再版。",
+    description: "本作講述外表宛如天使、實則家事萬能的鄰家女孩椎名真昼，逐漸融化獨居高中生藤宮周孤單生活的溫馨戀愛故事，真昼在校內外形象反差極大——校內優雅清純、私下卻願意為周下廚打掃、噓寒問暖，這樣的落差魅力正是作品最大賣點。Bandai Spirits（Banpresto）Relax time 系列以輕小說特裝版封面插圖為原型立體化，呈現真昼卸下「天使」姿態、放鬆居家的私下模樣——頭戴耳機、自然地坐在室內地板上，衣著輕便日常，展現她不為外人所知的柔軟一面。系列招牌的「透明素材表現半透明感」技法在真昼金髮上發揮得淋漓盡致，髮梢以透明素材製成並搭配細膩漸層塗裝，光線照射下會呈現天使光暈般的通透效果，是這款造型最大的技術看點與收藏亮點。全高約 13cm，是同系列眾多角色造型中完成度數一數二的一款，此為 2025 年初版後，配合動畫第二季於 2026 年推出的再版商品。座姿設計搭配自然垂落的居家服皺褶與耳機線材細節，展現出角色卸下外在人設後的鬆弛感，對收藏原作角色多面向的玩家而言，是與制服版、洋裝版形成鮮明對比、值得並列展示的一款。",
     reviews: [
       {
         title: "お隣の天使様にいつの間にか駄目人間にされていた件 椎名真昼 Relax time プライズフィギュア レビュー",
@@ -2644,7 +2644,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bsp-prize.jp/item/2765968/",
     imageUrl: "/images/banpresto-mahiru-onepiece.jpg",
     tags: ["お隣の天使様", "椎名真昼", "Banpresto", "Bandai", "ワンピース", "景品"],
-    description: "Bandai Spirits（Banpresto）出品的椎名真昼ワンピース版景品公仔，原型取自はねこと老師親筆插圖，以「忠實還原原畫纖細氣氛」為製作方針立體化。真昼身著飄逸的白色無袖洋裝，在海邊微風中裙擺輕揚，長髮隨風飛舞，洋溢夏日清新感。相較其他景品版，此款全高約 20cm，在同系列中屬尺寸最大、動感最強的一款，造型上半身向前微傾配合裙擺飛揚形成優美的動態曲線，陳列效果突出。2026 年 4 月起陸續在各夾娃娃機台配信。",
+    description: "《關於我在無意間被隔壁的天使變成廢柴這件事》以獨居高中生藤宮周與被譽為「天使」的鄰居椎名真昼之間漸生情愫的日常為主軸，真昼外表清麗脫俗、內在溫柔體貼的反差魅力貫穿全作，也是這部作品能在眾多同類型輕小說中脫穎而出的關鍵所在。此為 Bandai Spirits（Banpresto）推出的洋裝版景品公仔，原型取自插畫師はねこと親筆繪製的插圖，以「忠實還原原畫纖細氣氛」為製作方針進行立體化。真昼身著飄逸的白色無袖洋裝，在海邊微風中裙擺輕揚、長髮隨風飛舞，洋溢夏日清新氣息，讓人聯想到原作中稀有的校外出遊情節。相較同系列其他版本，此款全高約 20cm，尺寸最大、動感也最強，上半身向前微傾搭配裙擺自然飛揚，形成優美流暢的動態曲線，陳列效果格外突出，是同系列中造型張力最強的一款景品公仔，2026 年起於各地夾娃娃機台陸續配信上架，供玩家挑戰入手。景品公仔一般不若付費完成品可反覆修正原型，但本作在裙擺與髮絲的動態流線上仍下足工夫，加上私服洋裝造型難得一見，讓習慣制服、女僕裝等既定形象的收藏者，多了一款展現角色休閒面貌的選擇。",
     reviews: [
           {
             title: "椎名真昼 ワンピースver. プライズフィギュア | 電撃ホビーウェブ",
@@ -2676,7 +2676,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102666819000&grp_id=5325",
     imageUrl: "/images/musha-gundam-mk2-tokugawa-nanban.jpg",
     tags: ["BOX0006", "MG", "ガンプラ", "武者ガンダム", "Mk-II", "Bandai", "P-Bandai", "日本史", "德川家康", "黑色鍍裝"],
-    description: "為紀念日光東照宮世界遺產登錄 25 週年所推出的特別企劃模型，以收藏於東照宮寶物館的德川家康遺品「南蛮胴具足」為造型原型，結合武者ガンダムMk-II 的 MG 1/100 套件重新詮釋。\n\n南蛮胴是戰國時代從葡萄牙傳入日本的西式胸甲，以其流線型弧面與異國金屬感著稱；本件在機體配色上以黑色電鍍為基底，全身甲冑零件採黑色電鍍與銀色電鍍雙重質感搭配，裙甲（草摺）等紅色部位以和紙質感貼紙印刷呈現，胸甲更燙印德川家三葉葵紋家徽。2024 年 5 月 27 日先行於日光東照宮現地販售、同年奉納於神社，其後透過 Premium Bandai 抽選販售，入手難度極高，是結合歷史文化與鋼彈的稀有聯名企劃。",
+    description: "SD鋼彈系列中的「武者鋼彈」以戰國武將為主題，將鋼彈機體擬人化為日本歷史人物的鎧甲造型，長年是SD鋼彈世界觀中極具特色、也頗受年長玩家喜愛的支線企劃，將機器人與日本傳統甲冑美學巧妙結合。此款為紀念日光東照宮世界遺產登錄25週年推出的特別企劃模型，以收藏於東照宮寶物館、德川家康的遺品「南蛮胴具足」為造型原型，結合武者鋼彈Mk-II的MG 1/100套件重新詮釋。南蛮胴是戰國時代自葡萄牙傳入日本的西式胸甲，以流線型弧面與異國金屬質感著稱，是當時日本武將展現威望的珍貴裝備；本件機體配色以黑色電鍍為基底，甲冑零件採黑色與銀色雙重電鍍質感搭配，裙甲等紅色部位以和紙質感貼紙印刷呈現細膩紋理，胸甲更燙印德川家三葉葵家徽以彰顯正統性。曾於日光東照宮現地先行販售並奉納於神社，其後透過Premium Bandai抽選販售，入手難度極高，是結合歷史文化與鋼彈模型的稀有聯名企劃，收藏與紀念價值兼具。MG 1/100 內構骨架原本即以高精度可動與內部機械細節見長，本件在此基礎上大量置換甲冑造型外裝零件，考驗色分件與貼合精度，對同時收藏武者鋼彈系列與日本戰國史題材周邊的玩家而言，是跨界魅力極高的珍稀單品。",
     reviews: [
       {
         title: "MG 武者ガンダムMK-Ⅱ 徳川家康 南蛮胴具足Ver. レビュー — ガンプラの館",
@@ -2711,7 +2711,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.volks.co.jp/nierautomata/dddy_2b/",
     imageUrl: "/images/volks-dd-nier-automata.jpg",
     tags: ["NieR:Automata", "2B", "YoRHa", "Dollfie Dream", "DDdy", "Dollfie Dream Dynamite", "Volks", "BJD", "關節人偶", "Square Enix", "限定"],
-    description: "Volks《Dollfie Dream® Dynamite》系列（DDdy）與 Square Enix《NieR:Automata》的官方聯名限量人偶，以女主角 YoRHa No.2 型 B 號（2B）為原型，2019 年以抽選方式限量販售。\n\nDollfie Dream Dynamite（DDdy）是 Volks 旗下 Dollfie Dream 系列中身形最豐滿的高規格球關節人偶（BJD）版本，人偶採用高品質軟乙烯頭部搭配 DD-f3 骨架，全高約 60cm，所有關節均可精密調整姿勢。此款 2B 附件完整：黑色禮服（和式剪裁）、白色短假髮、黑色眼罩、手套、靴子、護臂、黑色腿套，以及標誌性的 Pod 042 無人機支架；武裝配件則附有白之契約劍（短刀型）。衣裝全部以真實布料縫製，工藝水準遠超一般完成品，是 NieR 系列周邊中工手料精程度最高、收藏價值最頂尖的存在。",
+    description: "《NieR:Automata》是Square Enix旗下橫尾太郎監督的動作RPG代表作，描述人類滅絕後由機械生命體佔據的地球上，YoRHa部隊的仿生人們為奪回家園而戰、卻逐漸發現殘酷真相的哲學性故事，2B（YoRHa No.2 Type B）身為近戰型戰鬥用仿生人，以黑色禮服、遮眼的眼罩與冷靜寡言的性格成為系列最具代表性、也最廣為人知的角色形象。此為Volks《Dollfie Dream Dynamite》（DDdy）與Square Enix官方聯名推出的限量抽選人偶，2019年首度販售即造成搶購熱潮。DDdy是Dollfie Dream系列中身形最為豐滿的高規格球關節人偶版本，採用軟乙烯頭部搭配DD-f3骨架，全高約60cm，所有關節均可精密調整姿勢做出各種動作。此款2B配件完整，包含和式剪裁黑色禮服、白色短假髮、眼罩、手套、靴子、護臂與腿套，以及標誌性的Pod 042無人機支架配件，衣裝均以真實布料縫製而非塑料成型，工藝水準遠超一般完成品公仔，是NieR系列周邊商品中收藏價值最頂尖的存在之一。",
     reviews: [
       {
         title: "Dollfie Dream 2B Nier:Automata Doll review & unboxing — dollmoon",
@@ -2747,7 +2747,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/57427",
     imageUrl: "/images/nendo-suisei-sailor-outfit.jpg",
     tags: ["星街すいせい", "hololive", "ねんどろいど", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
-    description: "Good Smile Company ねんどろいど 系列 hololive production 旗下人氣 VTuber 星街すいせい（彗星）的「Sailor Outfit Ver.」，商品編號 #2893，GOODSMILE ONLINE SHOP 獨家限定商品，預計 2026 年 8 月發售。\n\nすいせい以藍白配色水手服為主造型，搭配她標誌性的藍色長髮與彗星主題頭飾；套件附三款替換表情（笑臉、活潑臉、自信臉），以及蘋果汁飲料、烤肉配餐具等多款道具配件，可重現直播中她各種逗趣的互動場景。ねんどろいど 系列一貫的 Q 版頭身比例配合 GSC 精工彩繪面部，完美詮釋すいせい的星空主題個人魅力。是 hololive 周邊收藏中廣受彗星粉絲歡迎的必備款。",
+    description: "星街すいせい是Cover株式會社旗下hololive production的人氣VTuber，出道前曾以獨立歌手身分活動、發行過個人單曲，出道後以扎實的歌唱實力與作詞作曲才華廣受矚目，是hololive眾多成員中少數兼具偶像人設與音樂人身分並存的存在，個人代表色為藍色，主題意象取自彗星，象徵她劃過天際、獨樹一格的存在感。此為Good Smile Company ねんどろいど系列推出的「Sailor Outfit Ver.」，商品編號#2893，為GOODSMILE ONLINE SHOP獨家限定商品，需透過官方通路預約才能入手。すいせい以藍白配色水手服為主造型，搭配標誌性藍色長髮與彗星主題頭飾，套件附三款替換表情（笑臉、活潑臉、自信臉），以及蘋果汁飲料、烤肉配餐具等多款道具配件，可自由搭配重現直播中她各種逗趣的互動場景與名場面。ねんどろいど系列一貫的Q版頭身比例，配合GSC精工彩繪面部細節，完美詮釋すいせい的個人魅力與星空主題設計，是彗星粉絲收藏中不可或缺的必備款。",
     reviews: [],
     youtube: [
       {
@@ -2773,7 +2773,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/ja/product/1142180/",
     imageUrl: "/images/plamax-mf98-yf29-galaxy-set.jpg",
     tags: ["マクロスF", "YF-29", "PLAMAX", "Max Factory", "機首コレクション", "1/20", "プラモデル", "シェリル", "ランカ", "アルト", "GALAXY SET"],
-    description: "Max Factory PLAMAX MF-98 minimum factory 系列，為《マクロスFrontier》GALAXY LIVE☆FINAL 2025 演唱會紀念限定套裝。1/20 比例 YF-29 全長約340mm，以金色＆微妙なメタリックブラックの2色で設計 Risa Ebata 繪製的活動 Key Visual 忠實重現，附水轉印貼紙（2張）。套裝同時收錄シェリル・ノーム、ランカ・リー、アルト・サオトメ 三名人物模型（約90mm，附特殊金屬光澤塗裝），是マクロスF 粉絲的夢幻紀念組合。",
+    description: "《マクロスFrontier》是Macross系列中人氣最高、也最廣為人知的作品之一，描述銀河移民艦隊「Frontier」上駕駛員阿爾特・薩奧托姆與歌姬謝麗爾・諾姆、蘭卡・李之間交織的三角戀情，以及對抗神秘生物「Vajra」的星際戰爭故事，兼具華麗的歌唱演出與硬派空戰場面。YF-29是阿爾特在劇場版中駕駛的最終決戰用可變形戰機，機體性能凌駕一般量產機種，是系列後期作品中最強機體象徵之一，也是玩具與模型市場中人氣居高不下的機體。此為Max Factory PLAMAX MF-98 minimum factory系列，為紀念《マクロスF》GALAXY LIVE☆FINAL 2025演唱會活動推出的限定套裝。1/20比例YF-29全長約340mm，以金色與微妙的金屬黑二色重現演唱會活動Key Visual的設計概念，並附水轉印貼紙供玩家還原塗裝細節。套裝同時收錄謝麗爾、蘭卡、阿爾特三款約90mm的人物模型，並施以特殊金屬光澤塗裝，機體與角色搭配陳列效果極佳，是マクロスF粉絲難得一見、極具紀念意義的夢幻限定組合。",
     reviews: [
           {
             title: "PLAMAX MF-98 Cockpit Collection YF-29 GALAXY SET | ToyPeople",
@@ -2803,7 +2803,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/arcadia-vf1j-30th-anniversary.jpg",
     tags: ["マクロス", "VF-1J", "Arcadia", "30周年", "記念塗装", "可變形", "1/60"],
-    description: "慶祝《超時空要塞 Macross》（1982）播出 30 周年，Arcadia 推出的 1/60 完全可變形 VF-1J 女武神 30 周年紀念塗裝版。機身滿版印有歷代 Macross 系列作品 LOGO——初代、II、Plus、7、Zero、Frontier——是集結 Macross 三十年歷史於一身的限定紀念品。Fighter/GERWALK/Battroid 三型態完全可變，以 Arcadia 品牌初期最高規格製作呈現。",
+    description: "《超時空要塞Macross》是1982年播出的初代作品，開創了「戰鬥、歌唱與戀愛」三位一體的獨特敘事模式，深刻影響了日後整個機甲動畫類型的發展方向，劇中VF-1女武神系列可變形戰機更成為變形機體設計的代表作之一，能在Fighter、GERWALK、Battroid三種形態間自由切換，兼顧高速飛行與人形近戰能力，是後續無數變形機體設計的原型參照對象。此為慶祝Macross播出30週年，Arcadia推出的1/60完全可變形VF-1J女武神紀念塗裝版。機身滿版印有歷代Macross系列作品LOGO——初代、II、Plus、7、Zero、Frontier——象徵集結系列三十年發展歷史於一身，堪稱一部濃縮的Macross編年史，是紀念意義格外濃厚的限定商品。三形態完全可變的機構設計以Arcadia品牌初期最高規格製作，兼顧變形操作的順暢度與細節密度，機身塗裝與貼紙印刷均維持該品牌一貫的高水準，是Macross收藏品中辨識度與話題性都極高的紀念版本，對長年追隨系列作品、經歷過三十年變遷的老玩家而言，機身上並列的歷代LOGO本身就是一份值得細細品味的情懷清單。",
     reviews: [
       {
         title: "Arcadia 1/60 VF-1J Valkyrie 30th Anniversary review | Anymoon",
@@ -2833,7 +2833,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/yamato-vf0a-macross-zero.jpg",
     tags: ["マクロス", "マクロスゼロ", "VF-0A", "Yamato", "Roy Focker", "可變形", "1/60", "フェニックス"],
-    description: "《Macross Zero》（2002 OVA）中超時空要塞世界觀最早的可變形戰機 VF-0A 鳳凰式，Yamato 1/60 完全可變形版本。VF-0A 是 VF-1 的直系前身機，採用大推力引擎以補足當時尚未成熟的 OTM（Overtechnology）。Roy Focker 機的藍白色調與頭骷髏標誌是其最鮮明的識別特徵，Fighter/GERWALK/Battroid 三型態均可完全切換。",
+    description: "《Macross Zero》是2002年推出的OVA作品，故事設定於Macross世界觀最早期、南北統一戰爭尚未結束的年代，描繪UN Spacy尚未完全掌握OTM（超科學技術／Overtechnology）之前的過渡機體發展歷程，VF-0系列即是這個時期誕生、作為VF-1直系前身的初代可變形戰機。VF-0A鳳凰式因引擎推力尚未達到後期VF-1的成熟水準，機體設計上以更大推力的引擎彌補技術落差，外型也因此較VF-1更顯厚重原始，展現出技術萌芽期特有的粗獷美感。此為Yamato推出的1/60完全可變形版本，重現Roy Focker座機的招牌塗裝樣式——藍白色調機身搭配醒目的頭骷髏標誌，是Roy這位傳奇王牌飛行員貫穿系列作品的個人識別特徵，也是眾多Macross粉絲心中極具情懷的形象。Fighter、GERWALK、Battroid三型態均可完全切換，忠實還原原作機體結構與細節，是Macross系列機體發展史上具有承先啟後意義的一款收藏品，對硬派老玩家格外具有紀念價值。",
     reviews: [
       {
         title: "Yamato 1/60 VF-0A Phoenix review | Anymoon",
@@ -2863,7 +2863,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/arcadia-vf19-custom-sound-booster-40th.jpg",
     tags: ["マクロス", "マクロス7", "VF-19", "ファイヤーバルキリー", "Sound Booster", "熱気バサラ", "Arcadia", "40周年", "可變形", "1/60"],
-    description: "慶祝《Macross 7》播出 40 周年，Arcadia 推出的 1/60 完全可變形 VF-19改 ファイヤーバルキリー，附帶 Nekki Basara（熱気バサラ）專屬的 Sound Booster 音響裝備。Sound Booster 搭載大型揚聲器單元，肩部可開閉，重現 Basara 邊戰鬥邊高唱的標誌性場景。40 周年紀念版在塗裝細節與配件完整度上較初版更為精緻，是 Macross 7 迷的終極收藏。",
+    description: "《Macross 7》是1994年播出的作品，以「用歌聲戰鬥」為核心概念，主角熱気バサラ身兼樂團Fire Bomber主唱與傭兵飛行員雙重身分，堅持在戰鬥中透過歌聲喚醒敵人沉睡的人性、而非單純以武力壓制，是Macross系列中風格最為特殊、也最具音樂色彩的一部作品。バサラ座機VF-19改「ファイヤーバルキリー」搭載專屬的Sound Booster音響裝備，將戰鬥機硬生生改裝成一座移動舞台，象徵他「以歌代戰」的獨特戰鬥哲學，也是系列中最具個人風格的自訂機體之一。此為慶祝Macross 7播出40週年，Arcadia推出的1/60完全可變形紀念版本，Sound Booster搭載大型揚聲器單元、肩部裝甲可開闔展開，重現バサラ邊戰鬥邊高唱的標誌性名場面。40週年紀念版在塗裝細節與配件完整度上均較初版更為精緻講究，機構仍完整維持三形態完全可變的設計，是Macross 7死忠粉絲心中的終極收藏品。Sound Booster配件的存在也讓這款可變形玩具跳脫單純的軍事寫實路線，加入了鮮明的舞台演出元素，展示時搭配熱気バサラ人物模型更能重現原作載歌載戰的獨特世界觀氛圍。",
     reviews: [
       {
         title: "Arcadia 1/60 VF-19 Kai Fire Valkyrie w/ Sound Booster Basara 40th Anniv. review | Anymoon",
@@ -2893,7 +2893,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.arcadiashop.jp/",
     imageUrl: "/images/arcadia-vf4a-lightning-iii.jpg",
     tags: ["マクロス", "VF-4A", "ライトニングIII", "Arcadia", "Flash Back 2012", "可變形", "1/60"],
-    description: "《超時空要塞 Macross Flash Back 2012》（1987 音樂 OVA）中首次登場的次世代可變形戰機 VF-4A Lightning III，Arcadia 1/60 完全可變形版本。VF-4A 是 VF-1 之後的下一代主力機型，以整流罩式機頭與後掠三角翼為特徵，外型較 VF-1 更為現代化。此款以 UN Spacy 標準塗裝呈現，Fighter/GERWALK/Battroid 三型態均可完全切換，是 Macross 歷史上重要機體的 1/60 完全可變形版本。",
+    description: "《超時空要塞Macross Flash Back 2012》是1987年推出的音樂OVA，以初代Macross劇情為基礎重新剪輯，並加入全新歌曲與畫面，重新演繹了初代作品中的經典場景，其中首度登場的VF-4A ライトニングIII，是設定上介於VF-1與後續機型之間、意圖銜接世代落差的次世代主力戰機構想。VF-4A採用整流罩式機頭與後掠三角翼設計，外型較VF-1更加流線現代，象徵Macross世界觀技術演進過程中承先啟後的過渡階段，也讓玩家一窺系列機體設計思路的演變軌跡。此為Arcadia推出的1/60完全可變形版本，以UN Spacy標準塗裝呈現，機身線條相較初代VF-1更顯銳利精悍。Fighter、GERWALK、Battroid三型態均可完全切換，變形機構在保留Arcadia一貫高完成度的同時，也重現了這款在系列歷史上較少被立體化商品化、但設定意義重大的稀有機體，對Macross硬核收藏者而言，是補齊系列機體收藏拼圖不可或缺的一塊。相較VF-0、VF-1等常態商品化機體，VF-4A過去鮮少推出高規格立體化商品，因此本作在市場上也帶有一定程度的稀缺性與話題性。",
     reviews: [
       {
         title: "Arcadia 1/60 VF-4A Lightning III review | Anymoon",
@@ -2926,7 +2926,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/60968",
     imageUrl: "/images/nendoroid-snow-miku-crystal-snow-2026.jpg",
     tags: ["初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC", "#2943"],
-    description: "Good Smile Company ねんどろいど 系列「雪ミク 2026」年度主題造型「Crystal Snow ver.」，商品編號 #2943。雪ミク 以晶瑩剔透的水晶雪花主題為設計概念，服裝、頭飾與配件均加入冰晶質感元素，是每年 SNOW MIKU 祭典的限定年度造型。套件附多款替換表情與雪花道具配件，Q 版比例中充分重現 2026 年度雪ミク 的設計細節。",
+    description: "雪ミク是初音ミク配合札幌「SNOW MIKU」雪祭活動所推出的年度限定造型企劃，自2010年起每年由不同插畫師重新設計服裝與主題概念，多年累積下已成為初音未來周邊商品中人氣最高、也最受資深收藏家長期關注追蹤的年度企劃系列之一，每年新造型公開都會在粉絲圈引發熱烈討論。此為Good Smile Company ねんどろいど系列「雪ミク 2026」年度主題造型「Crystal Snow ver.」，商品編號#2943。此版本以晶瑩剔透的水晶雪花為設計概念，服裝、頭飾與配件均融入冰晶質感元素與雪花圖騰，呼應雪祭活動的冬季氛圍，延續每年雪祭限定年度造型一貫的高完成度水準演出。套件附多款替換表情與雪花主題道具配件，Q版比例中仍充分重現當年度雪ミク的服裝設計細節與配色巧思，對長年追蹤雪ミク系列的收藏者而言，是每年例行性、幾乎不可或缺的固定入手項目，也是觀察系列設計演變的重要指標商品。ねんどろいど的可換臉、可換手部件設計，讓玩家能自由排列組合出不同表情與姿勢，配合冰晶主題配件更能營造出專屬的冬季展示場景。",
     reviews: [
           {
             title: "ねんどろいど 雪ミク Crystal Snow Ver. きらめくクリスタルな雪 | ToyPeople",
@@ -2958,7 +2958,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.megahouse.co.jp/",
     imageUrl: "/images/va-30spec-super-granzort.jpg",
     tags: ["魔動王グランゾート", "スーパーグランゾート", "Mega House", "VA 30-SPEC", "30周年", "可動フィギュア", "合金"],
-    description: "《魔動王グランゾート》（1989）主角機體スーパーグランゾート的 Mega House VA 30-SPEC 30 周年可動完成品。格蘭佐特是 1989 年日本動畫中的代表性機器人，以魔法動力驅動的少年機器人設定廣受當時兒童觀眾喜愛。VA 30-SPEC 系列採用合金零件與高精度可動關節，以現代製作規格重現這隻 30 年前的經典機器人，是 80/90 年代機器人動畫迷的復古收藏佳品。",
+    description: "《魔動王グランゾート》是1989年播出的機器人動畫，講述來自異世界的三兄弟少年駕駛「魔動王」系列機體，對抗侵略地球的巴古族大軍的故事，作品以魔法與科技融合的獨特世界觀，在當時盛行寫實機器人設定的動畫類型中別具一格，深受該世代兒童觀眾喜愛，也留下不少令人懷念的經典場面。主角機體スーパーグランゾート是三兄弟座機合體後誕生的最強形態，象徵團結一心、克服強敵的核心主題，是作品戰鬥高潮戲份中固定登場的王牌機體。此為Mega House推出的VA 30-SPEC 30週年紀念可動完成品，採用合金零件搭配高精度可動關節，以現代玩具製作規格重新演繹這隻誕生於三十多年前的經典機器人，讓當年只能透過廉價玩具體驗這隻機體的觀眾，如今得以入手高規格版本。塗裝與比例細節皆對照原作設定調整校正，兼顧懷舊還原與現代把玩體驗，是80、90年代機器人動畫迷難得一見的復古收藏佳品，也讓當年的兒童觀眾得以透過成人向規格重溫兒時記憶。VA系列一貫強調「可動」與「合金」兩大賣點，使整體手感與造型張力遠勝當年的量產玩具，是老玩具復刻商品線中口碑相當穩定的一支。",
     reviews: [
           {
             title: "【フォトレビュー】VA Hi-SPEC スーパーグランゾート | AmiAmi",
@@ -2990,7 +2990,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4633/",
     imageUrl: "/images/hg-gundam-calibarn.jpg",
     tags: ["ガンプラ", "HG", "Bandai", "水星の魔女", "キャリバーン"],
-    description: "Bandai Spirits HG 1/144《機動戰士鋼彈 水星的魔女》中 Suletta Mercury 最終決戰機體 Gundam Calibarn，以白銀色調搭配流線型設計呈現，機背搭載巨型推進翼，是劇中視覺衝擊力最強的機體之一。HG 套件忠實重現 Calibarn 的造型特徵，可重現多種關鍵劇情姿態。",
+    description: "《機動戰士鋼彈 水星的魔女》是近年鋼彈系列中話題度極高的作品，故事描寫轉學至技術高中就讀的少女蘇萊塔・墨丘利，因駕駛神秘機體而捲入校園權力鬥爭與企業陰謀，劇中充滿對前作《鋼彈AGE》世界觀的呼應與伏筆，也大膽採用校園背景與商業競爭作為主要敘事舞台，一改過往鋼彈系列的戰爭敘事套路。Gundam Calibarn是蘇萊塔在最終決戰中駕駛的機體，由艾亞魯・墨丘利遺留的關鍵技術構成，是全劇謎團的核心象徵，也是視覺衝擊力最強、設計最為華麗的機體之一，其登場也象徵整部作品世界觀真相的揭曉時刻。此為Bandai Spirits推出的HG 1/144套件，以白銀色調搭配流線型設計呈現Calibarn的獨特造型，機背搭載巨型推進翼，展現其超越常規MS的壓倒性存在感與神聖感。HG規格套件在可動性與色分件配置上均對應劇情需求進行優化，可組裝重現多種關鍵劇情姿態與招牌動作，是水星魔女系列鋼普拉中人氣與收藏度兼具的一款作品，即使HG等級價格親民，仍在色分件與比例掌握上兼顧了角色首次亮相時帶給觀眾的震撼觀感。",
     reviews: [
       {
         title: "HG 1/144 Gundam Calibarn Review | GUNJAP",
@@ -3020,7 +3020,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2117/",
     imageUrl: "/images/rg-unicorn-banshee-norn-final-battle.jpg",
     tags: ["ガンプラ", "RG", "Bandai", "Gundam UC", "バンシィ", "最終決戦", "サイコフレーム"],
-    description: "Bandai Spirits RG 1/144《機動戰士鋼彈UC》第二主角機 RX-0[N] 独角獸二號機 Banshee Norn 最終決戰版，附金色サイコフレーム（心理框架）專用替換零件，可重現劇中 Banshee 獸化破壞模式。RG 系列以 1/144 比例呈現 MG 級別的內部骨架細節，最終決戰 Ver. 的特別配色增添了紀念收藏意義。",
+    description: "《機動戰士鋼彈UC》改編自福井晴敏原作小說，故事圍繞獨角獸鋼彈與新吉翁殘黨爭奪傳說中的「拉普拉斯之盒」展開，劇中登場的RX-0[N]獨角獸二號機Banshee Norn，最初由新吉翁駕駛員瑪莉妲・克魯茲操縱，其獸化模式在解放心理框架後爆發出遠超常規MS的機動性與火力輸出，是全劇最具震撼力與象徵性的戰鬥場面之一，也讓Banshee在鋼彈周邊市場中人氣居高不下。此為Bandai Spirits推出的RG 1/144最終決戰版，附金色サイコフレーム（心理框架）專用替換零件，可重現劇中Banshee獸化破壞模式時全身框架外露發光的視覺效果。RG系列以1/144小比例呈現接近MG等級的內部骨架與精密可動結構，兼顧細節密度與組裝親和性，是該系列一貫的技術亮點所在，最終決戰Ver.特有的金色框架配色更增添了紀念收藏意義，是UC系列鋼普拉當中極具人氣、也頗受玩家追捧的特別版本之一，金色框架與白色機體的對比在展示櫃中格外顯眼，是UC系列收藏中辨識度數一數二的版本。",
     reviews: [
       {
         title: "RG 1/144 Unicorn Gundam 02 Banshee Norn [Final Battle Ver.] Review | GUNJAP",
@@ -3050,7 +3050,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2290/",
     imageUrl: "/images/rg-exia-repair-iii.jpg",
     tags: ["ガンプラ", "RG", "Bandai", "Gundam 00", "エクシア", "リペアIII"],
-    description: "Bandai Spirits RG 1/144《劇場版 機動戰士鋼彈00》最終作中登場的 GN-001REIII 能源鋼彈 Repair III，以劇場版決戰形態為基礎設計，白銀鎧甲搭配殘缺修補痕跡呈現 Setsuna F. Seiei 最終機體。RG 系列細節精密，Repair III 的獨特戰損塗裝是此版本的最大看點。",
+    description: "《機動戰士鋼彈00》講述在未來世界中，武裝組織「天人」駕駛鋼彈系列機體試圖以武力終結戰爭、消滅紛爭根源的故事，劇場版《-A wakening of the Trailblazer-》作為電視版的完結篇，將舞台延伸至人類初次接觸外星種族所引發的全新危機，替整個系列劃下更宏大的句點。GN-001REIII能源鋼彈Repair III是主角刹那・F・清英在劇場版最終決戰中駕駛的機體，歷經連番苦戰、多次受損修復後所呈現的最終姿態，象徵刹那作為「天人」意志傳承者所背負的沉重宿命與最終覺悟。此為Bandai Spirits推出的RG 1/144套件，以劇場版決戰形態為基礎設計，白銀鎧甲搭配殘缺修補痕跡呈現機體歷經戰損後的斑駁樣貌。RG系列一貫細節密度高、色分件精密，Repair III獨特的戰損塗裝設定是此版本區別於一般能源鋼彈套件的最大看點，也是00系列鋼普拉收藏中頗具份量、故事性極強的一款作品，對熟悉刹那從初代電視版一路成長至劇場版的觀眾而言，這身傷痕累累的塗裝本身就是角色心境轉折的具體象徵。",
     reviews: [
       {
         title: "RG 1/144 Gundam Exia Repair III Review | GUNJAP",
@@ -3080,7 +3080,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_390/",
     imageUrl: "/images/hg-gself-perfect-pack.jpg",
     tags: ["ガンプラ", "HG", "Bandai", "Gレコ", "Gセルフ", "パーフェクトパック", "富野"],
-    description: "Bandai Spirits HG 1/144《鋼彈 G 之復國記》主角機 G-Self 裝備全套「完美背包（Perfect Pack）」形態，附完整的突擊／高機動／重轟炸等全模組。G-Self 是富野由悠季監督回歸執導的《G-Reko》系列主角機，外型圓潤親和，Perfect Pack 展開後整體形象大幅改變，火力大增。",
+    description: "《鋼彈 G之復國記》是鋼彈之父富野由悠季睽違多年重返執導的原創作品，故事設定於遙遠未來、科技高度倒退退化的世界，描繪少年貝爾利・傑納姆與各方勢力圍繞著神秘機體G-Self所展開的冒險與成長歷程，作品風格保留富野一貫獨特的敘事節奏、政治隱喻與世界觀構築手法，是老牌鋼彈粉絲高度關注的作品之一。G-Self（YG-111）是貝爾利的座機，機體本身可透過裝備不同背包模組因應戰局變化，隨任務需求切換不同作戰型態，展現出高度的形態彈性與泛用性，是富野作品中兼具設計巧思與敘事象徵意義的代表機體之一。此為Bandai Spirits推出的HG 1/144套件，裝備全套「完美背包（Perfect Pack）」形態，附完整的突擊、高機動、重轟炸等模組配件供玩家自由替換組裝。G-Self外型圓潤親和、線條柔和討喜，展開Perfect Pack後整體形象大幅改變、火力大增，前後反差強烈，是Gレコ系列鋼普拉中變化最豐富、把玩樂趣最高的一款，也讓玩家能同時體驗G-Self輕巧靈活與重裝火力兩種截然不同的鑑賞樂趣。",
     reviews: [
           {
             title: "HG ガンダム G-セルフ（パーフェクトパック装備型）（劇場版 Gのレコンギスタ Ver.）レビュー",
@@ -3112,7 +3112,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-2-6743",
     imageUrl: "/images/dlx-iron-man-mark2.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《鋼鐵人》（2008）中 Tony Stark 在蓋爾科夫莊園秘密建造的第二套盔甲 Mark II，以航太鋁合金為靈感的全銀色拋光設計。DLX 系列採用合金骨架搭配精密塗裝，忠實重現電影中 Mark II 的機械質感與流線型設計。1/12 比例，附多款替換手型與展示台座。",
+    description: "2008年上映的《鋼鐵人》開啟了Marvel電影宇宙的序幕，講述軍火商東尼・史塔克在遭恐怖組織綁架、目睹自家武器造成的傷害後幡然醒悟，秘密打造動力裝甲展開自我救贖的故事，也奠定了往後十餘年MCU龐大敘事版圖的起點，是超級英雄電影類型史上劃時代的作品。Mark II是東尼在蓋爾科夫莊園完成初代簡陋盔甲後，返回私人莊園中秘密研發的第二套裝甲，主要用於測試飛行系統與懸浮穩定性，尚未進行最終塗裝前的全銀色拋光外觀，成為系列中極具識別度、也頗受模型收藏者喜愛的過渡型號。此為threezero DLX系列作品，以航太鋁合金為靈感呈現全銀色拋光設計，忠實重現電影中Mark II未上色前的原始金屬質感與工業美學。DLX系列採用合金骨架搭配精密塗裝與可動關節，力求還原電影道具的機械層次與流線造型，1/12比例並附多款替換手型與展示台座配件，方便玩家重現飛行測試等多種經典動作場景。作為DLX系列的早期型號，Mark II雖無華麗塗裝加持，卻是欣賞threezero合金骨架工程與可動關節結構本身的最佳範例，對想收藏鋼鐵人戰甲演化史起點的玩家而言別具意義。",
     reviews: [
           {
             title: "threezero DLX Iron Man Mark 2 Classic Silver-White Riveted Armor | ToyPeople",
@@ -3142,7 +3142,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0253-marvel-studios-the-infinity-saga-dlx-iron-man-mark-3-6708",
     imageUrl: "/images/dlx-iron-man-mark3.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《鋼鐵人》（2008）中正式亮相的 Mark III，也是 Tony Stark 第一套紅金配色的標誌性鋼鐵人盔甲。Mark III 是 MCU 鋼鐵人形象的起點，經典紅金色調奠定了後續所有 Iron Man suit 的美學基礎。DLX 系列以合金骨架與精密關節重現電影中的每個細節，1/12 比例附多款手型配件。",
+    description: "《鋼鐵人》（2008）片尾正式登場的Mark III是東尼・史塔克首套完整塗裝的鋼鐵人戰甲，經典紅金配色自此成為Iron Man乃至整個Marvel電影宇宙中最具代表性的視覺符號之一，往後所有鋼鐵人戰甲的美學設計幾乎都由此延伸而來，堪稱系列的原點與精神象徵。Mark III在電影中歷經與恐怖組織及競爭對手史塔克工業前員工出售武器的多場戰鬥，展現出東尼從軍火商轉型為超級英雄、承擔起保護世界責任的關鍵轉折時刻，也是電影海報與宣傳素材中最常出現的形象。此為threezero DLX系列作品，以精密合金骨架搭配可動關節重現電影中Mark III的每個細節結構，經典紅金雙色塗裝力求貼近道具原型的質感層次與光澤變化。1/12比例並附多款替換手型配件，可重現戰鬥、待機、飛行等多種姿態動作，是Iron Man戰甲收藏中最具代表性、辨識度最高、也最受玩家歡迎的入門經典款式之一，對任何想開始收藏threezero DLX鋼鐵人系列的玩家而言，這是幾乎必然的第一選擇。",
     reviews: [
           {
             title: "【評測】Threezero DLX Iron Man Mark 3 可動性高夠靈活＋還原經典設計 | unwire.hk",
@@ -3172,7 +3172,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0501-marvel-studios-the-infinity-saga-dlx-iron-man-mark-4-6850",
     imageUrl: "/images/dlx-iron-man-mark4.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《鋼鐵人 2》（2010）中 Tony Stark 的日常穿著 Mark IV，在 Mark III 基礎上進行細部調整，是《鋼鐵人 2》前半段的主要盔甲。相比 Mark III，Mark IV 在肩部與腿部裝甲比例上有所修改，DLX 版本忠實重現這些細微差異。",
+    description: "《鋼鐵人2》（2010）故事描述東尼・史塔克在公開鋼鐵人身分後，一面應付美國政府與軍方索取戰甲科技的龐大壓力，一面獨自對抗胸口反應爐持續釋放鈀元素導致的致命中毒危機，同時還須迎戰擁有相同核心技術的私人恩怨對手伊凡・凡科，是東尼公眾形象與私人健康雙重承壓的一部作品。Mark IV是東尼在片中日常展示與作戰所使用的戰甲，是在Mark III基礎上進行細部調整後的改良版本，主要用於片頭美國國會聽證會後的公開亮相及日常巡邏場景。相較Mark III，Mark IV在肩部與腿部裝甲的分件比例上有所修改，關節活動範圍也略有優化提升。此為threezero DLX系列作品，忠實重現這些容易被忽略的細微結構差異，1/12比例並延續系列一貫的合金骨架與精密塗裝工藝，紅金配色在光線下呈現細膩的漸層層次感，是鋼鐵人戰甲系譜中承先啟後、值得細細比對的一款收藏品，適合與Mark III並列展示，讓收藏者親自比較兩代戰甲之間容易被忽略的細部設計差異。",
     reviews: [
           {
             title: "Reviews of Threezero Marvel The Infinity Saga DLX Iron Man Mark 4 | GundamIT",
@@ -3202,7 +3202,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0500-marvel-studios-the-infinity-saga-dlx-iron-man-mark-6-6807",
     imageUrl: "/images/dlx-iron-man-mark6.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《鋼鐵人 2》（2010）中由新型弧形反應爐（Arc Reactor Mark II）驅動的 Mark VI，胸口改為三角形反應爐是其最顯著的外觀特徵。Mark VI 是 Tony 在《鋼鐵人 2》博覽會決戰及《復仇者聯盟》紐約之戰中的主力盔甲，標準版與紅金配色在 DLX 系列中精緻呈現。",
+    description: "《鋼鐵人2》（2010）尾聲，東尼・史塔克在解決反應爐鈀中毒危機後，靠著父親霍華德・史塔克遺留的線索找到全新元素、打造出新型弧形反應爐（Arc Reactor Mark II），並據此開發出Mark VI戰甲，胸口改為三角形反應爐是這套戰甲最顯著的外觀特徵，也象徵東尼終於突破多年來困擾自己的技術瓶頸。Mark VI是東尼在片尾史塔克博覽會決戰、擊敗伊凡・凡科的無人機軍團，以及後續《復仇者聯盟》紐約之戰中所使用的主力盔甲，見證了鋼鐵人首度加入超級英雄團隊並肩作戰的歷史時刻。此為threezero DLX系列作品，以精密合金骨架搭配細膩塗裝工藝重現Mark VI的三角反應爐造型與紅金配色細節，1/12比例並附多款替換手型與展示配件，力求還原電影中這套具有承先啟後意義的過渡戰甲樣貌。三角形反應爐的造型設計後續也延續至更多代戰甲之中，可說是鋼鐵人視覺語言的一次重要分水嶺，值得收藏者細細留意其設計脈絡的延續與演變。",
     reviews: [
           {
             title: "DLX Iron Man Mark 6 VI (Threezero) | HobbyHolics",
@@ -3232,7 +3232,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-7-6753",
     imageUrl: "/images/dlx-iron-man-mark7.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《復仇者聯盟》（2012）紐約決戰中 Tony Stark 的作戰盔甲 Mark VII，由收納艙彈出後自動穿上的革新機制使此款盔甲廣受矚目。Mark VII 配備多枚導彈掛架，在紐約決戰中展現了前所未有的火力輸出。DLX 版本包含開合式胸甲與展示彈射台座。",
+    description: "《復仇者聯盟》（2012）中，鋼鐵人與美國隊長、雷神索爾、浩克、黑寡婦及鷹眼首度集結成軍，共同對抗洛基與奇塔烏外星軍團入侵紐約的危機，Mark VII正是東尼・史塔克在這場紐約決戰中穿著的作戰盔甲。此套戰甲最大特色在於革新的「收納艙彈射穿甲」機制——盔甲能以模組化組件形式從收納箱中彈出、依序自動組裝穿戴至東尼身上，這一幕成為系列電影中最經典、也最常被玩具與模型商品重現的視覺場面之一。Mark VII配備多枚導彈掛架與強化武裝系統，在紐約決戰的高樓大戰中展現出前所未有的火力輸出，協助團隊擊退外星軍隊入侵。此為threezero DLX系列作品，包含可開闔式胸甲結構與展示彈射台座配件，力求重現電影中收納艙彈射穿甲的經典機構意象，1/12比例並延續系列一貫的合金骨架與精密塗裝工藝水準，搭配多款替換手型與武器掛架配件，是復仇者聯盟時期收藏中人氣居高不下的代表款式，胸甲開闔結構的機關設計也讓靜態展示之餘多了一分互動把玩的樂趣。",
     reviews: [
           {
             title: "The Avengers - Iron Man Mark VII by ThreeZero | The Toyark",
@@ -3262,7 +3262,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-7-battle-damaged-7013",
     imageUrl: "/images/threezero-dlx-iron-man-mk7-battle-damaged.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Battle Damaged", "紐約決戰"],
-    description: "threezero DLX 系列《復仇者聯盟》（2012）紐約決戰後 Tony Stark 的 Mark VII 受損版本，精緻重現盔甲在激烈戰鬥後的撞痕、塗裝剝落與結構損傷。戰損細節以手工噴塗技法呈現，與標準版形成強烈對比，是 DLX 系列中考驗工藝的特別版本。",
+    description: "承接《復仇者聯盟》（2012）紐約決戰的劇情，這場戰役讓東尼・史塔克的Mark VII戰甲承受了外星軍隊猛烈砲火轟炸與近身格鬥的雙重重創，戰鬥結束、駕駛核彈穿越蟲洞歸來後盔甲表面已佈滿撞痕、塗裝剝落與結構性損傷，是電影中極具戲劇張力與情感重量的視覺呈現，也象徵這場保衛紐約戰役的慘烈程度。此為threezero DLX系列推出的Battle Damaged特別版本，精緻重現盔甲歷經激戰後的各種戰損細節，包括表面撞擊凹痕、塗裝剝落露出底層金屬色澤，以及局部結構性破損等效果，均以手工噴塗技法逐一堆疊呈現，與標準版鮮豔完整的紅金塗裝形成強烈對比反差。此版本在工藝難度與擬真程度上均高於一般標準版本，是DLX系列中特別考驗塗裝技術、也格外受資深收藏家青睞的特別限定版本，適合與標準版Mark VII並列展示，藉由戰前戰後的鮮明對照，重現電影中這場關鍵戰役帶來的視覺衝擊與敘事重量，也讓收藏者得以近距離欣賞噴塗師如何用細膩筆觸詮釋一場戰役留下的痕跡。",
     reviews: [],
     youtube: [
       {
@@ -3286,7 +3286,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-21-midas-6896",
     imageUrl: "/images/dlx-iron-man-mark21-midas.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Midas"],
-    description: "threezero DLX 系列《鋼鐵人 3》（2013）中「Iron Legion」計畫的一員 Mark XXI「Midas」，以全身金色塗裝呼應希臘神話中點石成金的邁達斯王。Mark XXI 是 Iron Legion 中外觀最奢華的一套盔甲，金色金屬光澤在 DLX 系列的精密塗裝技術下顯得格外耀眼。",
+    description: "《鋼鐵人3》（2013）中，東尼・史塔克為應對曼達林恐怖攻擊事件所留下的心理創傷與失眠焦慮，秘密打造了大量「鋼鐵軍團（Iron Legion）」遠端遙控戰甲，用以分擔防禦任務、測試各種前衛技術構型，Mark XXI「Midas」正是這個龐大實驗計畫中的一員。此套戰甲以全身金色塗裝呈現，命名呼應希臘神話中點石成金的邁達斯王傳說，是Iron Legion眾多戰甲裡外觀最為奢華耀眼的一套，雖非電影中主要出場的戰鬥用機體，卻因獨特配色設定而在模型與周邊市場中擁有極高辨識度與人氣，經常被玩家點名要求復刻。此為threezero DLX系列作品，以精密塗裝技術重現Midas全身金屬光澤的層次質感與細膩反光效果，搭配合金骨架與可動關節，1/12比例並附多款替換配件，忠實呈現這套鋼鐵軍團中最具視覺記憶點的特殊塗裝戰甲樣貌，對偏好收藏非主線、卻設計討喜的支線戰甲版本的玩家而言，是相當亮眼的一款選擇，金色塗裝在燈光下的反射效果也讓它在展示櫃中格外容易吸引目光。",
     reviews: [
           {
             title: "Reviews of Threezero The Infinity Saga DLX Iron Man Mark 21 Midas | GundamIT",
@@ -3316,7 +3316,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0251-marvel-studios-the-infinity-saga-dlx-iron-man-mark-42-6740",
     imageUrl: "/images/dlx-iron-man-mark42.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《鋼鐵人 3》（2013）中 Tony 開發出「心理感應召喚」功能的 Mark XLII，是 Iron Legion 計畫中編號最高、科技最先進的一套盔甲。Mark XLII 引入了模塊化單獨召喚技術，DLX 版本附可分離的裝甲模塊配件，重現電影中盔甲分段穿戴的經典場景。",
+    description: "《鋼鐵人3》（2013）中，東尼・史塔克在經歷創傷後壓力症候群、時常恐慌發作的困擾期間開發出Mark XLII，賦予戰甲劃時代的「心理感應召喚」功能，使各個裝甲組件能各自飛行並精準依附至身體對應部位，即使組件在戰鬥中分離受損，也能個別自動修復或即時替換，是Iron Legion計畫中科技最為先進、編號也最高的一套戰甲。這項模塊化召喚技術在電影後段東尼徒手迎戰恐怖分子、盔甲組件陸續破窗飛來拼裝上身的名場面中展現得淋漓盡致，成為該片最具標誌性的視覺橋段之一。此為threezero DLX系列作品，附可分離的裝甲模塊配件，重現電影中盔甲分段飛來、逐一穿戴上身的經典場景，搭配合金骨架與精密塗裝工藝，1/12比例並附多款替換手型，是鋼鐵人科技演進脈絡中承先啟後、深受玩家喜愛的重要一款，模塊化配件設計也讓收藏者能親手重演電影中盔甲組件依序飛來組裝的過程，把玩互動性在系列中名列前茅，是DLX系列少數兼顧靜態展示與動態把玩雙重樂趣的作品。",
     reviews: [
           {
             title: "【評測】Threezero DLX 鋼鐵俠 MK 42 可動性高＋造工、塗裝高質 | unwire.hk",
@@ -3346,7 +3346,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-43-6620",
     imageUrl: "/images/dlx-iron-man-mark43.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《復仇者聯盟：奧創紀元》（2015）中 Tony Stark 的主要作戰盔甲 Mark XLIII，是 Mark XLII 的升級版，改善了「心理感應召喚」系統的穩定性。Mark XLIII 在索科維亞行動中登場，是奧創紀元中場戰力最完整的版本。DLX 版本以精密合金骨架重現其細緻的裝甲紋路。",
+    description: "《復仇者聯盟：奧創紀元》（2015）中，東尼・史塔克與班納博士秘密開發人工智慧「奧創」以求終結所有戰爭，卻意外導致其失控叛變、演變為威脅全人類存續的重大危機，東尼在索科維亞行動迎戰奧創機械軍團時主要穿著的正是Mark XLIII戰甲。此套戰甲是Mark XLII的升級版本，延續「心理感應召喚」技術並大幅改善其穩定性與反應速度，使戰甲組件的召喚與拆卸過程更加流暢可靠，是整場奧創紀元戰役中東尼火力配置與防禦性能最完整均衡的版本。此為threezero DLX系列作品，以精密合金骨架重現Mark XLIII細緻的裝甲紋路與紅金配色層次變化，延續系列一貫講究關節可動範圍與塗裝質感的製作方針，1/12比例並附多款替換配件，忠實呈現這套在奧創紀元戰役中挑起大樑的主力戰甲樣貌，適合搭配同系列美國隊長、鷹眼等復仇者角色公仔並列展示，重現索科維亞戰役的團隊作戰場面，是承接Mark XLII設計脈絡、值得並列比較的一款進化版戰甲。",
     reviews: [
           {
             title: "【評測】Threezero DLX Iron Man Mk43 眼晴反應爐有燈＋48個關節＋超強可動 | unwire.hk",
@@ -3376,7 +3376,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0256-marvel-studios-the-infinity-saga-dlx-iron-man-mark-46-6694",
     imageUrl: "/images/dlx-iron-man-mark46.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Civil War"],
-    description: "threezero DLX 系列《美國隊長：英雄內戰》（2016）中 Tony Stark 在西伯利亞基地決戰時穿著的 Mark XLVI，是電影中最具戲劇張力的盔甲之一。Mark XLVI 在結構上對胸口弧形反應爐的可視性設計有所調整，DLX 版本忠實重現電影中的設計細節，展現出精密的紅金色對比。",
+    description: "《美國隊長：英雄內戰》（2016）中，東尼・史塔克與昔日戰友美國隊長史蒂夫・羅傑斯因超級英雄註冊法案的立場分歧而分裂交戰，最終雙方在西伯利亞秘密基地展開一場情感張力最為濃烈、也最令粉絲心碎的正面決戰，Mark XLVI正是東尼在這場內戰高潮戲碼中穿著的戰甲。這套戰甲在結構設計上對胸口弧形反應爐的可視性做了微調，整體造型也較前幾代更為精簡俐落、貼合機能性需求，見證了東尼與昔日戰友徹底反目、關係破裂的關鍵歷史時刻，是MCU情感戲份最為厚重的一場對決縮影。此為threezero DLX系列作品，忠實重現電影中Mark XLVI的細部設計差異，搭配合金骨架與精密可動關節，紅金雙色對比在細膩塗裝工藝下顯得格外鮮明立體，1/12比例並附多款替換配件，呈現這套承載濃厚戲劇意義的戰甲樣貌，對熟悉美隊三部曲情感脈絡的影迷而言，這款戰甲本身就象徵著復仇者聯盟分裂前最後的沉重一戰，也是東尼在情感上最為孤立無援的一段旅程縮影。",
     reviews: [
           {
             title: "【評測】DLX Iron Man MK46 接近電影原著+合金骨架 | unwire.hk",
@@ -3406,7 +3406,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0249-marvel-studios-the-infinity-saga-dlx-iron-man-mark-50-6702",
     imageUrl: "/images/dlx-iron-man-mark50.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "奈米科技", "Infinity War"],
-    description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中革命性的奈米科技盔甲 Mark L，由弧形反應爐直接釋放奈米粒子構成，是 MCU 中首套無需穿戴程序的全奈米盔甲。Mark L 能在戰鬥中即時重組形態生成各式武器，DLX 版本附多款奈米武器替換配件，可重現電影中的各種武裝形態。",
+    description: "《復仇者聯盟：無限之戰》（2018）中，東尼・史塔克為應對薩諾斯與其麾下黑序會成員的迫近威脅，開發出革命性的奈米科技戰甲Mark L，由胸口弧形反應爐直接釋放奈米粒子構成裝甲本體，是MCU系列中首套無需傳統穿戴程序、可隨時收納回反應爐內的全奈米戰甲，象徵鋼鐵人科技來到全新境界。這套戰甲最大特色在於能於戰鬥過程中即時重組形態，依戰況需求生成各式武器與防護結構，展現出遠超以往戰甲的靈活性與臨場應變能力，也象徵東尼科技實力的又一次重大飛躍，是他在泰坦星孤身迎戰薩諾斯時所穿著的主力戰甲。此為threezero DLX系列作品，附多款奈米武器替換配件，可重現電影中各種武裝形態的變化生成過程，搭配精密合金骨架與細膩塗裝工藝，1/12比例並附展示配件，呈現這套劃時代奈米戰甲的科技質感，是DLX系列中機構設計最具未來感、也最考驗開發團隊還原能力的一款高難度商品，象徵鋼鐵人戰甲科技從機械結構邁向奈米流體概念的重大轉捩點。",
     reviews: [
           {
             title: "Threezero Infinity Saga Iron Man 42, 46 and 50 In-Hand Gallery | The Toyark",
@@ -3436,7 +3436,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/product/dlx-iron-man-mark-50-accessory-pack/",
     imageUrl: "/images/dlx-iron-man-mark50-accessory-pack.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "配件包", "奈米科技"],
-    description: "threezero DLX 鋼鐵人 Mark L 的專屬擴充配件包，收錄電影中登場的各式奈米武器替換零件，包括奈米噴射器、防護罩、能量炮等多種形態配件，可搭配 DLX Mark L 本體進一步豐富展示與把玩場景。",
+    description: "此為threezero DLX鋼鐵人Mark L的專屬擴充配件包，收錄《復仇者聯盟：無限之戰》（2018）中Mark L奈米科技戰甲在泰坦星迎戰薩諾斯過程中所展現的各式武器與裝備替換零件，包括奈米噴射推進器、能量防護罩、掌心能量炮，以及其他戰鬥中曾一閃而過的臨時武裝形態配件。由於Mark L本體採用奈米粒子即時重組技術，能依戰況需求瞬間生成盾牌、翅膀、武器等各種構型，令原本固定造型的公仔難以完整重現電影中的多變戰鬥場面，這款配件包正是為了彌補這項限制、完整重現電影中曾出現的各種形態變化而特別設計，可自由搭配DLX Mark L本體進一步豐富展示場景與戰鬥姿態的多樣性，讓收藏者能更完整重現東尼與薩諾斯對決時奈米戰甲瞬息萬變的科技感官效果，是進階玩家強化把玩體驗、提升收藏完整度的實用擴充配件，尤其對追求電影場景高還原度的收藏者來說，這類配件包往往是決定展示效果完整與否的關鍵補完，也讓單一戰甲本體得以延伸出更多元的陳列敘事可能性。",
     reviews: [],
     youtube: [
       {
@@ -3460,7 +3460,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0250-marvel-studios-the-infinity-saga-dlx-iron-man-mark-85-6823",
     imageUrl: "/images/dlx-iron-man-mark85.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Endgame", "最終盔甲"],
-    description: "threezero DLX 系列《復仇者聯盟：終局之戰》（2019）中 Tony Stark 的最終盔甲 Mark LXXXV，也是他犧牲生命完成響指逆轉的那套盔甲。Mark LXXXV 融合了奈米科技與 Tony 五年隱居生活中的設計改進，是整個 MCU 技術上最完善的鋼鐵人盔甲。DLX 版本附復仇者技術手套與展示支架。",
+    description: "《復仇者聯盟：終局之戰》（2019）是東尼・史塔克貫穿整個MCU系列故事弧線的最終章，在與薩諾斯及其軍團的最終決戰中，東尼奪取全部無限寶石並親手彈響手指，以自我犧牲的方式逆轉了「滅霸響指」造成的宇宙性浩劫，Mark LXXXV正是他在這場宿命對決中穿著的最後一套戰甲。這套戰甲融合了東尼在五年隱居生活中不斷精進的奈米科技設計成果，是整個MCU系列裡技術層面最為完善、也承載最深重情感意義的一套鋼鐵人戰甲，象徵著他從桀驁不馴的軍火商，蛻變為犧牲自我拯救整個宇宙的真正英雄的完整旅程終點。此為threezero DLX系列作品，附復仇者專屬技術手套與展示支架等配件，以精密合金骨架與細膩塗裝工藝重現這套具有系列總結意義的最終戰甲，1/12比例呈現東尼・史塔克故事畫下句點的關鍵象徵物件，對追完整個Infinity Saga系列DLX戰甲收藏的玩家而言，這是壓軸也是最具紀念意義的一款終章商品，展示時搭配復仇者手套配件更能重現那場改變宇宙命運的彈指瞬間。",
     reviews: [
           {
             title: "threezero DLX 系列《無限傳說》鋼鐵人馬克85 可動人偶 | ToyPeople",
@@ -3490,7 +3490,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0257-marvel-studios-the-infinity-saga-dlx-iron-patriot-6682",
     imageUrl: "/images/dlx-iron-patriot.jpg",
     tags: ["Marvel", "Iron Patriot", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《鋼鐵人 3》（2013）中 James Rhodes 的 Iron Patriot 盔甲，由 War Machine Mark II 重新塗裝為美國星條旗配色，代表美國政府的官方超級英雄形象。Iron Patriot 在《鋼鐵人 3》中以「美國英雄」身分執行任務，DLX 版本精緻重現其藍白紅三色的愛國配色。",
+    description: "《鋼鐵人3》（2013）中，詹姆斯・羅德斯上校在片中將原本的War Machine Mark II戰甲重新塗裝為美國星條旗配色，並更名為「Iron Patriot」，以代表美國政府官方認可的超級英雄身分執行公開任務、安撫社會大眾恐慌情緒，這一設定變化也呼應了原著漫畫中同名角色的相關概念與政治意涵。Iron Patriot在片中以「愛國英雄」形象頻繁出現在媒體採訪與公眾場合，肩負起與私下行動的鋼鐵人截然不同的政治宣傳與國家形象任務，是羅德斯這個角色少數擁有獨立戰甲配色的特殊階段，也讓他從單純的軍方聯絡人轉為具備政治符號意義的公眾人物。此為threezero DLX系列作品，精緻重現War Machine重新塗裝後藍白紅三色的愛國配色細節，搭配合金骨架與精密可動關節，1/12比例並附多款替換配件，呈現這套在MCU戰甲系譜中獨具政治象徵意義的特殊塗裝版本，與標準版War Machine並列展示時，能清楚呈現同一套裝甲基礎下衍生出的截然不同視覺定位與角色故事線。",
     reviews: [
           {
             title: "Threezero DLX Iron Patriot Review | The Figure In Question",
@@ -3520,7 +3520,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-war-machine-mark-2-6734",
     imageUrl: "/images/dlx-war-machine-mark2.jpg",
     tags: ["Marvel", "War Machine", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Rhodes"],
-    description: "threezero DLX 系列 James Rhodes 的 War Machine Mark II，以全黑軍事重武裝配色搭配肩部加特林機炮為特徵，是 MCU 中最具壓迫感的重型裝甲之一。相比 Iron Man 的紅金色調，War Machine 的黑色金屬質感展現出截然不同的美學風格，DLX 版本附加特林炮展開形態配件。",
+    description: "War Machine是詹姆斯・「羅迪」・羅德斯上校在《鋼鐵人2》（2010）中駕駛的重型武裝戰甲，由東尼・史塔克提供的舊型原型戰甲改裝而成，全黑軍事風格塗裝搭配肩部加特林機炮與大量武器掛載點，是MCU戰甲系譜中火力最為強悍、也最具軍事壓迫感的一款，象徵羅迪身為美國空軍軍官、比起東尼更著重實戰武裝效能而非科技展演的性格差異與立場定位。相較於鋼鐵人一貫鮮明亮眼的紅金色調，War Machine全黑的重裝金屬質感展現出截然不同的視覺美學語言與角色人設定位。此為threezero DLX系列作品，附加特林機炮展開形態配件，重現戰甲肩部武器系統開啟射擊時的機構變化細節，搭配合金骨架與精密塗裝，1/12比例並附多款替換手型，呈現這套在《鋼鐵人2》博覽會決戰中大展身手的重裝戰甲樣貌，是鋼鐵人系列收藏中少數能展現軍事風格美學、與紅金塗裝戰甲形成強烈對比的重要角色商品，也是東尼與羅迪這對摯友並肩作戰情誼的具體象徵物。",
     reviews: [
           {
             title: "War Machine Mark 2 Figure by ThreeZero | The Toyark",
@@ -3550,7 +3550,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-spider-6757",
     imageUrl: "/images/dlx-iron-spider.jpg",
     tags: ["Marvel", "Iron Spider", "Spider-Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
-    description: "threezero DLX 系列《復仇者聯盟：無限之戰》（2018）中 Peter Parker 由 Tony Stark 贈予的 Iron Spider 盔甲，以紅金奈米科技設計搭配背部四支蜘蛛腳（Waldoes）為最大特徵。Iron Spider 是 Peter 首套正式的奈米科技裝甲，DLX 版本附可伸展的四支金屬蜘蛛腳配件。",
+    description: "《復仇者聯盟：無限之戰》（2018）中，東尼・史塔克為年輕的彼得・帕克（蜘蛛人）打造了升級版戰衣Iron Spider，以紅金配色的奈米科技材質取代原本簡陋的傳統蛛絲布料戰衣，背部延伸出的四支機械蜘蛛腳（Waldoes）是這套戰衣最鮮明的視覺特徵，可用於攀爬牆面、格擋防禦，甚至作為額外的近戰攻擊肢體，大幅提升了彼得作為年輕超級英雄在強敵環伺下的戰鬥續航能力。Iron Spider也是彼得首次獲得的正式奈米科技裝甲，象徵東尼將彼得視為接班人、寄予深厚期望的師徒情感投射。此為threezero DLX系列作品，附可自由伸展的四支金屬蜘蛛腳配件，重現戰衣機構展開變形時的細節變化，搭配合金骨架與精密塗裝工藝，1/12比例並附多款替換手型，呈現這套融合蜘蛛人與鋼鐵人雙重科技美學的跨界戰衣造型，對同時收藏兩大角色系列的玩家而言，這是連結蜘蛛人與鋼鐵人世界觀的重要橋樑商品，蜘蛛腳配件的多角度可動設計也讓靜態展示多了幾分生動的戰鬥張力。",
     reviews: [
           {
             title: "Reviews of Threezero Marvel Studio The Infinity Saga DLX Iron Spider | GundamIT",
@@ -3580,7 +3580,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-black-panther-6749",
     imageUrl: "/images/dlx-black-panther.jpg",
     tags: ["Marvel", "Black Panther", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "Vibranium"],
-    description: "threezero DLX 系列《黑豹》（2018）中瓦干達王 T'Challa 的黑豹戰衣，以全身覆蓋振金（Vibranium）奈米粒子的黑紫色戰衣呈現。DLX 版本精緻重現黑豹戰衣上細緻的幾何紋路，可動關節模擬 T'Challa 的貓科靈活戰鬥動作，附多款替換手型。",
+    description: "《黑豹》（2018）講述瓦干達王國新任國王帝查拉繼承王位後，對抗表親埃里克・齊爾夢格挑戰王座與國家長年鎖國政策的故事，黑豹戰衣正是帝查拉身為瓦干達守護者所繼承的傳統象徵裝備，由瓦干達獨有的稀有金屬振金（Vibranium）製成的奈米粒子構成，能吸收並儲存外來衝擊動能、再轉化為攻擊力反擊敵人，是全片科技實力與傳統文化信仰融合為一的核心象徵物件。戰衣整體以黑紫配色低調呈現，表面覆蓋細緻的幾何紋路圖案，靈感取自瓦干達傳統部落圖騰與現代尖端科技美學的巧妙結合，兼具神秘感與未來感。此為threezero DLX系列作品，精緻重現黑豹戰衣上細緻的幾何紋路與奈米粒子表面質感，可動關節精準模擬帝查拉貓科動物般靈活矯健的戰鬥動作姿態，搭配合金骨架與精密塗裝，1/12比例並附多款替換手型，呈現這套兼具文化底蘊與科幻美感的英雄戰衣，是MCU角色商品中少數以低調配色而非鮮豔塗裝取勝的特殊存在。",
     reviews: [
           {
             title: "Marvel DLX Black Panther by ThreeZero | The Toyark",
@@ -3610,7 +3610,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/3z0248-marvel-studios-the-infinity-saga-dlx-iron-man-mark-44-hulkbuster-6652",
     imageUrl: "/images/dlx-hulkbuster.jpg",
     tags: ["Marvel", "Hulkbuster", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "超大型"],
-    description: "threezero DLX 系列《復仇者聯盟：奧創紀元》（2015）中 Tony Stark 為對抗失控浩克特別開發的 Hulkbuster 超大型裝甲，由 Mark XLIII 本體搭載巨型外骨架構成。DLX Hulkbuster 是系列中體積最大的作品，以 1/12 比例重現龐大的紅金色重裝甲，搭載可縮伸的伸縮臂與加厚裝甲板，展示效果極具震撼力。",
+    description: "《復仇者聯盟：奧創紀元》（2015）是漫威電影宇宙第二階段的重頭戲，劇中東尼史塔克為了在浩克失控暴走時仍有一戰之力，事先秘密開發出巨大化的「浩克剋星」裝甲，讓 Mark XLIII 本體套入其中操縱，兩者在南非約翰尼斯堡街頭大打出手的場面成為系列經典橋段。threezero DLX 系列一向以高密度合金結構與精細噴漆著稱，此件浩克剋星更是系列中體型最龐大的一款，1/12 比例下依然完整重現外骨架的厚重層次感、紅金雙色的光影變化與胸口方舟反應爐燈光效果。可動關節經過特別強化以承受巨大裝甲重量，伸縮式外殼與加厚肩甲、腿部液壓結構皆忠實再現電影中「穿裝甲的裝甲」設計概念，展示於架上極具壓迫感與收藏話題性。作為 DLX 系列旗艦級商品，本作也考驗廠商在大型合金玩具上兼顧可動性與結構穩固度的工程能力，胸甲與四肢分件的塗裝銜接處理細膩，近距離觀察也難見接縫破綻，是漫威機甲類收藏的指標作品之一，對 MCU 影迷與機甲玩具愛好者而言都具高度吸引力。",
     reviews: [
           {
             title: "【評測】threezero HulkBuster 最強可動性＋可擺爆地Pose | unwire.hk",
@@ -3640,7 +3640,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3865/",
     imageUrl: "/images/rg-msz006-3-zeta-karaba.jpg",
     tags: ["ガンプラ", "RG", "Bandai", "Zeta Gundam", "ゼータ", "カラバ", "MSV", "可變形", "白色配色", "P-Bandai限定"],
-    description: "Bandai Spirits Premium Bandai 限定 RG 1/144《機動戰士Z鋼彈 MSV》卡拉巴（Karaba）地球抵抗組織強攻型試作機 MSZ-006-3，以白灰色調呈現有別於量產型的試作塗裝。MSZ-006-3 是 Z 鋼彈的原型驗證機，RG 系列忠實再現可變形骨架結構，白色機體在細節刻線對比下顯得格外簡潔精緻。附 3 號機專用水貼。",
+    description: "《機動戰士Z鋼彈》原作中，Z鋼彈由地球聯邦內部反抗軍組織「卡拉巴」（Karaba）秘密開發，作為對抗提坦斯高壓統治的關鍵戰力，而 MSV 企劃線則進一步補完了正史之外的試作與量產機體設定，MSZ-006-3 便是卡拉巴強攻型的試作機之一，塗裝有別於主角機的紅白藍配色，改以較為低調的白灰迷彩呈現地面部隊實戰運用的氛圍。RG 系列一貫以接近 1/1 比例模型的內構骨架與精密聯動可動機構為賣點，本作完整繼承 Z鋼彈複雜的機體變形結構，可由 MS 形態轉換為 WaveRider 巡航形態。作為 Premium Bandai 限定商品，機體另附專屬水貼紙標示 3 號機身份，白色為主的簡潔塗裝配合細膩刻線效果，在展示櫃中與量產機並列時更顯試作機的獨特存在感。RG 骨架特有的內部機構外露設計，也讓卡拉巴試作機少見的關節結構得以清楚呈現，補足了正史動畫中未曾詳細描繪的機體細節想像，對 MSV 系列與 Z鋼彈骨灰級收藏者而言是不可或缺的一件。",
     reviews: [
       {
         title: "【ガンプラ】RG ゼータガンダム３号機 レビュー【プレバン】 | gunplapocchi",
@@ -3670,7 +3670,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://alter-web.jp/products/256/",
     imageUrl: "/images/alter-rider-altria-alter-fgo.jpg",
     tags: ["Fate", "Fate/Grand Order", "アルトリア", "ライダー", "オルタ", "ALTER", "美少女フィギュア", "1/7", "女僕"],
-    description: "ALTER 製作的《Fate/Grand Order》「ライダー／アルトリア・ペンドラゴン〔オルタ〕」1/7 完成品。以第三再臨的女僕戰士造型立體化，身穿黑色連帽外套搭配迷你裙，手持水槍「序列」（セクエンス）及拖把。連帽外套可拆除，換裝為露出戰鬥背心的姿態。神情銳利中帶有不情願的義務感，是 ALTER 一貫高精細造型水準的代表作品。",
+    description: "《Fate/Grand Order》作為 Fate 系列手機遊戲的集大成之作，將亞瑟王傳說中的阿爾托莉雅・潘德拉貢以多重從者身份展開，其中「Rider」職階的〔Alter〕形態設定為經歷黑化後的女僕戰士，性格中帶著自嘲與義務感交織的複雜情緒，是玩家間人氣極高的角色詮釋之一。ALTER 作為老牌美少女模型廠商，長年以擬真肌膚質感與服裝皺褶處理見長，本作 1/7 比例完成品便是其代表作之一：黑色連帽外套搭配迷你女僕裙，手持水槍與拖把等日常武裝道具，展現戰鬥與家事並存的反差萌設定。連帽外套為可拆卸設計，換裝後可露出貼身戰鬥背心的英姿，提供兩種截然不同的展示樂趣。臉部雕塑銳利中帶一絲不情願，將角色內心矛盾詮釋得恰到好處。無論是外套布料的垂墜厚度感、裙擺的褶皺走向，或是水槍握把的細節塗裝，都展現出 ALTER 一貫追求寫實質感的堅持，是該廠高精細造型工藝的優秀範例，也是 FGO 「Rider Alter」眾多立體化版本中收藏熱度長年不墜的一款。",
     reviews: [
       {
         title: "アルター ライダー/アルトリア・ペンドラゴン[オルタ] よつばとフィギュアレビュー | asahiwa.jp",
@@ -3706,7 +3706,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054058136/",
     imageUrl: "/images/kotobukiya-saber-altria-alter-casual.jpg",
     tags: ["Fate", "Fate/Grand Order", "アルトリア", "セイバー", "オルタ", "私服", "Kotobukiya", "美少女フィギュア", "1/7"],
-    description: "《Fate/Grand Order》本篇 1.5 部「亞種特異點 I 新宿幻靈事件」中，黑化的亞瑟王（セイバー／アルトリア・ペンドラゴン〔オルタ〕）以日常私服登場的 1/7 完成品。身穿黑色熱褲搭配拉鍊上衣，眼神凌厲地直視前方。左手可替換為持劍版本，呈現設定畫中未曾出現的戰鬥姿態。外套及緊身褲的細緻縫線均有精細刻劃。此為初版 2019 年發售後 Kotobukiya 的再版。",
+    description: "《Fate/Grand Order》本篇 1.5 部「亞種特異點I 新宿幻靈事件」是系列中相對灰暗、都會氛圍濃厚的一章，黑化亞瑟王「Saber／Altria Pendragon〔Alter〕」在此章節以罕見的現代私服姿態登場，脫下厚重鎧甲後展現出更貼近少女本質的一面，也讓玩家見到這位悲劇英靈少有的日常表情。Kotobukiya 以精湛的服裝皺褶與布料質感雕塑聞名，此 1/7 完成品重現黑色熱褲搭配拉鍊上衣的都會勁裝造型，眼神依舊銳利地直視前方，散發不容小覷的凜然氣場。附替換用持劍左手，可自由切換為設定畫中未曾正式描繪的持劍私服姿態，為玩家提供更豐富的展示可能。外套與緊身褲的縫線走向、拉鍊金屬感與布料垂墜厚度皆有細緻刻劃，呈現角色卸下鎧甲後依然不失戰士氣質的日常一面。此作於 2019 年首度發售即廣受好評，此次為 Kotobukiya 應市場需求推出的再版商品，讓錯過首發的收藏者得以入手這款詮釋角度別具一格的 Saber Alter。",
     reviews: [
       {
         title: "Fate/Grand Order セイバー/アルトリア・ペンドラゴン〔オルタ〕私服ver. 製品レビュー | コトブキヤふぃぎゅあブログ",
@@ -3736,7 +3736,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/12077/",
     imageUrl: "/images/gsc-sheryl-nome-anniversary-stage.jpg",
     tags: ["マクロスF", "シェリル・ノーム", "Good Smile Company", "美少女フィギュア", "1/7", "10周年", "銀河の妖精"],
-    description: "グッドスマイルカンパニー《マクロスF》10 周年紀念，以角色設計師江端里沙的周年紀念插畫為基礎製作的「シェリル・ノーム ～Anniversary Stage Ver.～」1/7 完成品。全高約 295mm，以充滿躍動感的演唱姿態立體化，波浪狀長髮、星光璀璨的演出服及附麥克風道具均精緻重現。可搭配同系列「ランカ・リー ～Anniversary Stage Ver.～」並排展示。",
+    description: "《Macross Frontier》（2008）是超時空要塞系列進入新世代的代表作，劇中「銀河的妖精」謝里爾・諾姆作為銀河知名巨星，以華麗的演唱會舞台形象貫穿全劇，與新人歌手蘭花・李之間的競爭與情誼更是作品核心看點之一。本作為紀念作品十週年，Good Smile Company 特別邀請角色設計師江端里沙繪製全新紀念插畫作為造型藍本，並以 1/7 比例、全高約 295mm 的大尺寸規格製作而成。人物以充滿躍動感的演唱姿態呈現，波浪長髮隨動作飄揚的細節、綴滿星光元素的華麗演出服，以及手持麥克風的招牌道具都完整重現原畫神韻，展現謝里爾在舞台上光芒四射的巨星魅力。可與同系列推出的蘭花・李十週年版並列展示，重現雙女主角同台演出的名場面，是《Macross F》十週年紀念商品中最具代表性的一件。台座設計呼應演唱會舞台氛圍，服飾上綴滿的星形與亮片元素經過細膩上色處理，凸顯謝里爾巨星形象的華麗感，對系列長年支持者而言別具紀念意義。",
     reviews: [
       {
         title: "【マクロスF】シェリル・ノーム ～ Anniversary Stage Ver. フィギュアレビュー | アニヲタブログ",
@@ -3772,7 +3772,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/11077/",
     imageUrl: "/images/max-factory-asuna-ichinose-bunny.jpg",
     tags: ["Blue Archive", "ブルーアーカイブ", "一之瀬アスナ", "バニーガール", "Max Factory", "美少女フィギュア", "1/7", "POPQN"],
-    description: "Max Factory 製作的《ブルーアーカイブ》「一之瀬アスナ（バニーガール）」1/7 完成品。以人氣繪師 POPQN 插畫風格立體化，還原阿斯娜標誌性的超長秀髮（拖地造型）、兔耳、黑色兔女郎服及網狀絲襪，附嬉皮笑臉表情。光環以透明零件重現，台座採大理石紋飾設計。全高約 290mm，原版 2023 年 8 月發售，2024 年 11 月再版。",
+    description: "《Blue Archive》以未來都市為舞台，將各學園學生化身可招募角色，其中一之瀨飛鳥（阿斯娜）以拖地般的超長髮絲與親和開朗的個性成為人氣角色之一，其兔女郎造型更是遊戲內廣受歡迎的限定造型。Max Factory 忠實依照人氣繪師 POPQN 的插畫風格進行立體化，完整重現阿斯娜標誌性的超長秀髮、兔耳與黑色兔女郎緊身衣，搭配網狀絲襪展現優雅性感的一面，臉部表情特別選用她招牌的嬉皮笑臉，將角色開朗中帶點調皮的魅力發揮得淋漓盡致。頭頂光環以透明零件特別處理呈現通透光澤，台座則採大理石紋飾營造高級感。全高約 290mm 的比例讓細節得以充分展現，原版於 2023 年 8 月發售即造成搶購熱潮,2024 年 11 月應需求再版，足見其人氣之高。作為 Max Factory 近年美少女手辦的熱門商品，本作也體現了《Blue Archive》周邊市場需求的持續升溫。",
     reviews: [
       {
         title: "マックスファクトリー 一之瀬アスナ（バニーガール） レビュー | せんろぐ",
@@ -3807,7 +3807,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://amakuni.info/product/index01820000.html",
     imageUrl: "/images/amakuni-rider-altria-alter-fgo.jpg",
     tags: ["Fate", "Fate/Grand Order", "アルトリア", "ライダー", "オルタ", "AMAKUNI", "ホビージャパン", "美少女フィギュア", "1/7", "女僕", "誌上通販限定"],
-    description: "AMAKUNI（ホビージャパン）製作的《Fate/Grand Order》「ライダー／アルトリア・ペンドラゴン〔オルタ〕」1/7 完成品。由原型師グリズリーパンダ設計並首發為 WF 限定 GK，後由 TYPE-MOON 全面監修製成完成品。以第三再臨的女僕造型立體化，持大型水槍與拖把，膚色採特殊研磨工藝呈現通透質感，有別於一般塗裝效果。月刊ホビージャパン 2020 年 8 月號誌上通販限定。",
+    description: "同樣取材自《Fate/Grand Order》黑化亞瑟王「Rider／Altria Pendragon〔Alter〕」女僕造型，AMAKUNI 版本走的是與其他廠牌截然不同的路線——本作最初由知名原型師グリズリーパンダ操刀，以 Wonder Festival 限定 GK（garage kit）套件形式問世，經玩家間口耳相傳後獲得 TYPE-MOON 官方全面監修，才正式量產為完成品，這樣的誕生歷程本身便是模型迷津津樂道的話題。1/7 比例完成品同樣呈現第三再臨的女僕姿態，手持大型水槍與拖把等家務兼戰鬥道具，最大特色在於肌膚採用特殊研磨修飾工藝，呈現出比一般噴塗更為通透細膩的質感，展現與眾不同的視覺層次。本作為月刊 Hobby Japan 2020 年 8 月號的雜誌通信販賣限定商品，發行管道特殊，加上原型出身的話題性，使其在同角色眾多版本中格外具有收藏價值。這段從玩家自製 GK 到官方監修完成品的誕生歷程本身即是一段佳話，也讓本作在眾多版本中更添獨特的話題性。",
     reviews: [
       {
         title: "AMAKUNI Fate/Grand Order ライダー／アルトリア・ペンドラゴン〔オルタ〕 フィギュアレビュー | 雪の降る空に",
@@ -3838,7 +3838,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/4184/",
     imageUrl: "/images/max-factory-cerberus-bahamut.jpg",
     tags: ["神撃のバハムート", "ケルベロス", "Max Factory", "Cygames", "美少女フィギュア", "1/7", "魔属"],
-    description: "Max Factory 製作的 Cygames 社交遊戲《神撃のバハムート》人氣魔屬角色「ケルベロス」1/7 完成品。以人氣插畫師虫麻呂的傳說卡牌「三魔犬ケルベロス」為基礎立體化，還原紫色連身衣搭配金色裝飾的獨特造型，背後配置三頭獸頭護甲。全高約 235mm，採金屬光澤、光澤塗裝與漸層塗裝多層次技法，是 2014 年首發便備受好評的高品質作品。",
+    description: "《神擊之巴哈姆特》是 Cygames 早期人氣社交卡牌遊戲，以西洋奇幻世界觀與魔屬、天使、人類三方勢力對抗為主軸，孕育出大量魅力十足的怪物擬人化角色，「刻爾柏洛斯」正是其中代表性的魔屬角色之一，其卡牌插畫出自人氣繪師蟲麻呂之手，以三頭犬意象轉化為妖艷少女形象廣受玩家喜愛。Max Factory 依循原畫精神進行立體化，重現角色標誌性的紫色連身衣搭配金色裝飾細節，背後特別配置三顆獸頭造型護甲，象徵傳說中看守冥界的三頭犬本體。全高約 235mm 的完成品運用金屬光澤塗裝、光澤處理與漸層噴塗等多層次技法，將魔屬角色特有的妖異魅力與強悍氣場同時呈現。本作於 2014 年首度發售便以精湛塗裝工藝獲得玩家高度評價，角色雕塑上凶猛與妖艷並存的氣質拿捏得宜，至今仍是社交遊戲改編手辦中的優質代表作之一。背後三頭獸首護甲與紫色連身衣的漸層光澤處理相互呼應，塑造出兼具妖冶與威嚇力的視覺衝擊，是該系列眾多角色手辦中風格最為濃烈的一款。",
     reviews: [
       {
         title: "マックスファクトリー 神撃のバハムート ケルベロス レビュー | boso-ichiro",
@@ -3863,7 +3863,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/3893/",
     imageUrl: "/images/max-factory-sheryl-nome-itswari.jpg",
     tags: ["マクロスF", "シェリル・ノーム", "Max Factory", "美少女フィギュア", "1/7", "劇場版", "銀河の妖精", "CHIERI"],
-    description: "Max Factory 製作的「劇場版マクロスF～イツワリノウタヒメ～」女主角「シェリル・ノーム」1/7 完成品，原型師智恵理（CHIERI）製作。以電影公開時的主視覺插畫為基礎，在碩大齒輪台座上以黑白交錯演出服、迷你帽及飄逸髮絲重現銀河妖精的演唱姿態。全高約 320mm（含台座），是《マクロスF》劇場版系列中最具代表性的人物模型作品之一。",
+    description: "《劇場版 Macross F ～偽戲之詩姬～》是超時空要塞系列電視動畫劇場總集篇二部曲，重新編排並強化了謝里爾・諾姆與蘭花・李兩位歌姬的核心劇情張力，「銀河的妖精」謝里爾在片中的巨星光環與內心糾葛描繪得更加深刻。Max Factory 由資深原型師智惠理（CHIERI）操刀，以電影公開時的主視覺插畫為藍本進行立體化，將角色置於碩大的齒輪造型台座上，黑白交錯的華麗演出服、俏皮迷你帽與隨風飄逸的髮絲共同構築出一場靜止卻充滿臨場感的演唱瞬間。全高約 320mm（含台座）的規格在同類美少女手辦中屬於大型作品，得以充分展現服裝細節的層次感與整體演出張力。本作長年被視為《Macross F》劇場版周邊中最具代表性的立體商品之一，台座齒輪造型與角色姿態相互映襯，光影層次分明，收藏市場評價與人氣皆居高不下。演出服的黑白對比配色與細碎亮片裝飾經多層次噴塗處理，呈現舞台燈光下閃耀的視覺效果，充分捕捉銀河妖精登台獻唱的華麗瞬間。",
     reviews: [
       {
         title: "1/7th Scale Sheryl Nome Review (Part 2) | Kahotan's Blog | Good Smile Company",
@@ -3888,7 +3888,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/100264",
     imageUrl: "/images/bearpanda-ghostblade-haiqinyan-encounter.jpg",
     tags: ["鬼刀", "Ghost Blade", "海琴烟", "BearPanda", "玄機科技", "Sparkkey", "WLOP", "國漫", "1/6", "中國品牌", "邂逅"],
-    description: "BearPanda × 玄機科技（Sparkkey）聯名推出的《鬼刀》「海琴烟《邂逅》」1/6 比例完成品。鬼刀系列由知名插畫師 WLOP（不知火君）原創，本作以宴會禮服造型立體化，黑髮配金色鏈飾與精工頭冠，細膩呈現海琴烟的神秘氣質。與「風玲《邂逅》」組成宴會雙人套組，臉部由師傅手繪上色，全高約 400mm（含台座），定價 ¥399 CNY。",
+    description: "《鬼刀》是由知名插畫師 WLOP（不知火君）原創企劃的東方奇幻世界觀作品，以精緻華麗的畫風與充滿東方美學意境的角色設計聞名，海琴烟便是其中兼具神秘氣質與優雅氣場的代表角色之一。BearPanda 與玄機科技（Sparkkey）攜手推出的這款《邂逅》系列 1/6 比例完成品，以宴會禮服造型重新詮釋角色，黑髮搭配金色鏈飾與精工頭冠，將角色由戰鬥姿態轉化為社交場合的雍容一面，細節處理極為講究。本作與同系列「風玲《邂逅》」共同構成宴會雙人套組，兩者並列展示更能呈現世界觀中角色互動的敘事感。臉部由經驗豐富的塗裝師傅手工繪製上色，五官神韻拿捏細膩，全高約 400mm（含台座）的規格屬於大型收藏品等級，定價 ¥399 CNY 展現中國國漫周邊近年在品質與性價比上的顯著提升，是國產原創 IP 手辦中值得關注的作品。禮服上的金屬鏈飾與頭冠鑲嵌細節經過反覆打磨修飾，呈現不亞於日系高端廠牌的雕塑水準，是近年中國原創手辦崛起的代表案例之一。",
     reviews: [
       {
         title: "BearPanda 玄機科技 鬼刀 風玲 海琴烟 邂逅 國漫手辦介紹 | 拆盒網",
@@ -3919,7 +3919,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/100265",
     imageUrl: "/images/bearpanda-ghostblade-fengling-encounter.jpg",
     tags: ["鬼刀", "Ghost Blade", "風玲", "BearPanda", "玄機科技", "Sparkkey", "WLOP", "國漫", "1/6", "中國品牌", "邂逅"],
-    description: "BearPanda × 玄機科技（Sparkkey）聯名推出的《鬼刀》「風玲《邂逅》」1/6 完成品，與「海琴烟《邂逅》」組成宴會雙人套組。風玲以尖耳精靈形象著稱，本作以淡藍白色宴會服造型呈現，附蝴蝶與羽毛等精緻裝飾細節，臉部由經驗豐富的師傅手繪上色，全高約 400mm（含台座）。定價 ¥399 CNY，展現高性價比的國漫收藏品質。",
+    description: "《鬼刀》世界觀出自知名插畫師 WLOP（不知火君）之手，融合東方奇幻與精緻唯美畫風，塑造出多位風格鮮明的角色，風玲便是其中以尖耳精靈形象著稱的代表人物，其空靈脫俗的氣質在系列中獨樹一格。BearPanda 攜手玄機科技（Sparkkey）推出的《邂逅》系列 1/6 完成品，將風玲以淡藍白色調的華麗宴會服重新演繹，一改常見的戰鬥造型，轉而呈現優雅柔美的一面，服裝上綴以蝴蝶與羽毛等精緻裝飾元素，呼應角色空靈飄逸的精靈本質。本作與「海琴烟《邂逅》」組成宴會雙人套組，兩件作品並列擺放可重現原作世界觀中角色相遇的敘事情境，強化整體收藏的完整性。臉部同樣由資深師傅手工繪製，確保神情細膩傳神，全高約 400mm（含台座），定價 ¥399 CNY，體現中國國漫周邊品牌近年在雕塑與塗裝工藝上快速追趕日系水準的成果。整體塗裝色調柔和淡雅，與「海琴烟」的沉穩華貴形成鮮明對比，兩相搭配更能凸顯《鬼刀》世界觀中角色設計的多樣風貌。",
     reviews: [
       {
         title: "BearPanda 玄機科技 鬼刀 風玲 海琴烟 邂逅 國漫手辦介紹 | 拆盒網",
@@ -3944,7 +3944,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/112006",
     imageUrl: "/images/bearpanda-evangelion-rei-ayanami-14.jpg",
     tags: ["EVA", "Evangelion", "綾波レイ", "BearPanda", "Khara", "1/4", "中國品牌", "正版授權"],
-    description: "BearPanda × Khara 正版授權推出的《新世紀福音戰士》「綾波零（レイ・アヤナミ）」1/4 比例完成品。以 1/4 大比例重現綾波零標誌性的白色插入栓駕駛服造型，精細刻劃面容與藍紫色短髮，全高約 400mm，是 BearPanda 旗下正版 EVA 授權系列的代表作，以平實定價實現高品質收藏品。",
+    description: "《新世紀福音戰士》是 1995 年播出後深刻影響日本動畫產業與御宅文化的劃時代作品，綾波零作為 EVA 零號機駕駛員，以其寡言、神秘且情感表現壓抑的性格塑造出獨樹一幟的角色魅力，多年來始終是動漫史上最具代表性的女性角色之一。BearPanda 與版權方 Khara 正式合作推出的這款 1/4 大比例完成品，捨棄常見的小比例手辦規格，改以近乎真人上半身尺度重現角色，白色插入栓駕駛服的簡潔線條、藍紫色短髮與標誌性的紅色眼眸皆經過細膩雕琢，力求在大尺寸下依然維持角色特有的疏離氣質與精緻五官比例。全高約 400mm 的規格使其在展示櫃中極具存在感，作為 BearPanda 旗下正版 EVA 授權系列的代表作，本作也體現了中國廠牌近年取得國際知名 IP 正式授權、以親民定價挑戰日系大廠高階市場的趨勢，展現大比例授權手辦兼顧份量與細節的製作實力。",
     reviews: [
       {
         title: "BearPanda 新世紀福音戰士EVA 綾波零 綾波麗 1/4手辦 | 拆盒網",
@@ -3969,7 +3969,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054018598/",
     imageUrl: "/images/kotobukiya-azurlane-taihou-17.jpg",
     tags: ["碧藍航線", "Azur Lane", "大鳳", "Taihou", "寿屋", "1/7", "日系品牌", "コトブキヤショップ限定"],
-    description: "Kotobukiya（寿屋）推出的《碧藍航線（Azur Lane）》「大鳳（たいほう）」1/7 比例完成品，為寿屋直營店限定商品。原型師みしま精心雕塑，以大鳳標誌性的日式和風軍裝搭配摺扇形艦裝，細緻呈現其優雅挺拔的身姿。全高約 285mm，以 ABS + PVC 製成，是碧藍航線手辦收藏中的人氣之作。",
+    description: "《碧藍航線》是將二戰時期各國軍艦擬人化為少女角色的手機遊戲，憑藉精美畫風與豐富的艦娘設定在中日玩家間累積大量人氣，大鳳作為日本海軍史上首艘裝甲航空母艦的擬人化角色，在遊戲中以優雅端莊又不失威嚴的形象受到廣泛喜愛。Kotobukiya 由原型師三嶋操刀製作的這款 1/7 比例完成品，以大鳳標誌性的日式和風軍裝為基礎，搭配摺扇造型的艦裝元素，將軍艦擬人化角色特有的「戰艦與和風少女」融合美學細膩呈現，姿態挺拔優雅，服裝層次分明。全高約 285mm，以 ABS 與 PVC 複合材質製成，兼顧細節精度與可動穩定性。本作作為寿屋直營店限定商品，發售管道較為稀缺，加上大鳳本身在《碧藍航線》玩家間的高人氣，服裝上的和風紋樣與艦裝細節皆處理得一絲不苟，使其成為該作品周邊收藏中頗受矚目的一件。台座與底盤設計簡潔內斂，讓視覺焦點完全集中於角色本身的服裝與姿態刻畫，符合寿屋一貫追求優雅氣質的造型美學。",
     reviews: [],
     youtube: [
       {
@@ -3994,7 +3994,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.alter-web.jp/products/336/",
     imageUrl: "/images/alter-xenosaga-iii-t-elos.jpg",
     tags: ["Xenosaga", "ゼノサーガ", "T-elos", "テロス", "ALTER", "アルター", "Beagle", "1/8", "日系品牌", "ナムコ"],
-    description: "アルター（ALTER）× ビーグル（Beagle）聯合出品的《ゼノサーガ エピソードIII》反派戰鬥用 AGWS「T-elos」1/8 完成品。原型師羽根 モトカツ精工打造，重現 T-elos 深藍紫色機甲、白銀長髮與紅色單眼的標誌性外觀，附能量刀。作為 KOS-MOS 的對立存在，T-elos 性能遠超 KOS-MOS，是 Xenosaga III 終盤最強勁敵之一。全高約 210mm。",
+    description: "《異度傳說 第三章：如是說查拉圖斯特拉》是 Namco 旗下科幻 RPG 系列的完結篇，劇情圍繞人工生命體 KOS-MOS 與其對立存在展開最終決戰，T-elos 正是為此登場、由敵對組織打造的高性能戰鬥用人形兵器（AGWS），其設計初衷便是要在各項性能指標上全面凌駕 KOS-MOS，是系列後期最具壓迫感的強敵之一。ALTER 與 Beagle 聯手打造的這款 1/8 完成品，由原型師羽根モトカツ操刀，精準重現 T-elos 深藍紫色的機甲質感、如絲綢般的白銀長髮以及單邊發光的紅色機械眼，這些設計元素共同營造出角色介於美麗與危險之間的獨特氣場。手持能量刀的姿態則凸顯其戰鬥兵器的本質。全高約 210mm 的規格細節扎實，作為 Xenosaga 系列少數推出的立體商品之一，本作在系列粉絲間評價甚高，具備一定稀少性與收藏價值。作為劇情中與 KOS-MOS 形成鏡像對照的存在，T-elos 造型刻意強化妖異冷豔的一面，與 KOS-MOS 的英挺俐落形成鮮明對比，兩者並列展示更能凸顯系列世界觀的敵我張力。",
     reviews: [],
     youtube: [
       { title: "Alter T-Elos from Xenosaga III Unboxing", url: "https://www.youtube.com/watch?v=sZOPaB0W7Go", lang: "en" },
@@ -4015,7 +4015,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://alter-web.jp/products/331/",
     imageUrl: "/images/alter-xenosaga-iii-kos-mos-ver4.jpg",
     tags: ["Xenosaga", "ゼノサーガ", "KOS-MOS", "ALTER", "アルター", "1/8", "日系品牌", "ナムコ"],
-    description: "ALTER（アルター）推出的《ゼノサーガ エピソードIII》女主角「KOS-MOS」Ver.4 形態 1/8 比例完成品。原型師柳生敏之精工打造，重現 KOS-MOS 最強型態的白銀機甲與特徵性三連裝機砲，姿態英姿颯爽。作為 ALTER 早期代表作之一，至今仍是 Xenosaga 系列手辦中的高人氣經典收藏品，全高約 210mm。",
+    description: "KOS-MOS 是《異度傳說》系列的靈魂人物，作為人工生命體兵器兼女主角，其形象隨系列作品進展不斷強化升級，「Ver.4」正是她在第三章〈如是說查拉圖斯特拉〉終盤所展現的最強戰鬥形態，象徵角色在故事尾聲徹底覺醒的巔峰姿態。ALTER 由資深原型師柳生敏之操刀打造的這款 1/8 比例完成品，忠實重現 KOS-MOS 白銀色為基調的機械裝甲質感，以及背部特徵性的三連裝機砲武裝配置，整體姿態英姿颯爽，充分展現角色作為戰鬥兵器的凌厲氣勢與流線美感。作為 ALTER 品牌成立初期的代表作之一，本作見證了廠牌在美少女機械造型領域的技術累積，其對金屬質感塗裝與機械關節細節的處理至今仍被視為該類型手辦的重要參考範本。全高約 210mm，即便發售多年，仍是 Xenosaga 系列收藏者心中難以取代的經典之作。此版本作為 KOS-MOS 眾多形態中最終強化階段的具現化，機體線條較初期造型更顯銳利俐落，是角色設計進化過程的重要紀錄。",
     reviews: [
       {
         title: "Review: Xenosaga Episode III KOS-MOS Ver. 4 1/8 PVC Figure by ALTER | Nekomagic",
@@ -4046,7 +4046,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/zh/product/3235/",
     imageUrl: "/images/gsc-saber-alter-huke-collab.jpg",
     tags: ["Fate/stay night", "Saber Alter", "セイバーオルタ", "Good Smile Company", "GSC", "huke", "1/7", "日系品牌", "Wonder Hobby"],
-    description: "Good Smile Company 與知名插畫師 huke 聯名推出的《Fate/stay night》「セイバー・オルタ（Saber Alter）」1/7 比例完成品，附 A3 複製原畫。以 huke 原創插畫為基礎立體化，精細重現黑鎧甲的金屬質感與服裝層次，搭配特有的 Excalibur Morgan 漆黑聖劍。原版於 2016 年 9 月發售，2025 年 12 月再版。全高約 330mm，為 GSC 官方商店限定品。",
+    description: "「Saber Alter」是《Fate/stay night》中亞瑟王被聖杯汙染後黑化的形態，一改原本聖劍英靈的聖潔形象，轉為身披漆黑鎧甲、揮舞漆黑聖劍的暗黑戰士，強大而危險的反差魅力使其成為 Fate 系列最具人氣的角色詮釋之一。本作特別之處在於由知名插畫師 huke（代表作《大魔王與失業勇者》等）重新繪製全新原創插畫作為造型藍本，Good Smile Company 依此打造出風格獨具的 1/7 比例完成品，並隨商品附贈 A3 尺寸複製原畫供玩家收藏。雕塑上精細呈現黑色鎧甲的金屬冷冽質感與層層疊疊的服裝結構，手持的漆黑聖劍「Excalibur Morgan」造型霸氣十足，與角色墮落卻依然強大的設定相互呼應。本作初版於 2016 年 9 月發售，睽違多年後於 2025 年 12 月再版，全高約 330mm，為 Good Smile Company 官方商店限定商品，兼具插畫家聯名話題性與角色本身的長銷人氣。",
     reviews: [],
     youtube: [
       {
@@ -4076,7 +4076,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14829/",
     imageUrl: "/images/chogokin-msn04ff-sazabi.jpg",
     tags: ["機動戦士ガンダム", "逆襲のシャア", "Char's Counterattack", "サザビー", "Sazabi", "超合金", "Chogokin", "BANDAI SPIRITS", "日系品牌", "限定品"],
-    description: "BANDAI SPIRITS「超合金」系列推出的《機動戦士ガンダム 逆襲のシャア》夏亞・阿茲納布座機「サザビー（Sazabi）」豪華合金玩具。MSN-04FF 為特別版本，以福岡 LaLaport SIDE-f 等身大νガンダム立像企劃為主題打造。大量使用壓鑄合金於關節與推進器，重現厚重機械質感；頭部內建 LED 發光機構（綠光），附多種武器配件包括 Beam Rifle、Beam Saber 及特效零件。全高約 230mm，限定販售品。",
+    description: "《機動戰士鋼彈：逆襲的夏亞》是宇宙世紀鋼彈系列的重要轉折點，夏亞・阿茲納布爾在片中駕駛新造機體「沙薩比」向舊識阿姆羅・雷發起最終決戰，兩人多年的宿命對決在此畫下句點，沙薩比也因此成為新吉翁軍最具代表性的旗艦機體之一。BANDAI SPIRITS 「超合金」系列一貫以金屬壓鑄件重現機體重量感與質感著稱，MSN-04FF 為特別企劃版本，取材自福岡 LaLaport SIDE-f 商場的等身大 νガンダム 立像展示企劃，可視為呼應該地標的紀念性商品。玩具大量運用壓鑄合金於關節與背部推進器等關鍵部位，展現遠超一般塑膠模型的沉甸手感與精密機構質感，頭部內建 LED 發光機構可呈現夏亞座機標誌性的綠色感應眼光效，並附有光束步槍、光束軍刀等多種武裝配件與特效零件供搭配展示。全高約 230mm，作為限定販售品，兼具高完成度與話題性，是鋼彈周邊玩具收藏中的重點單品。",
     reviews: [],
     youtube: [
       {
@@ -4106,7 +4106,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://store.kadokawa.co.jp/shop/g/g301910003378/",
     imageUrl: "/images/kdcolle-kumo-arachne-shiraori.jpg",
     tags: ["蜘蛛ですが、なにか？", "So I'm a Spider So What", "アラクネ", "白織", "Shiraori", "KADOKAWA", "KDcolle", "1/7", "日系品牌"],
-    description: "KADOKAWA「KDcolle」系列推出的《蜘蛛ですが、なにか？》女主角最終進化形態「アラクネ（Arachne）」與人形「白織（Shiraori）」1/7 比例完成品。支援換裝替換，可分別展示蜘蛛型最終形態或人形白織兩種型態。搭配另售的 Miraitia LED 組件可使蜘蛛眼部分發光。原作版以小說插圖為設計基礎，全高約 240mm。",
+    description: "《蜘蛛也能有異世界》是近年頗受歡迎的異世界轉生輕小說改編作品，女主角由普通女高中生轉生為蜘蛛怪物，在弱肉強食的地下迷宮中不斷進化求生，最終蛻變為兼具強大戰鬥力與人形外貌的「白織」，其獨特的成長弧線與幽默自嘲的敘事風格廣受讀者喜愛。KADOKAWA「KDcolle」系列推出的這款 1/7 完成品最大亮點在於支援雙形態展示——蜘蛛型最終進化形態「Arachne」與人形「白織」可自由切換組裝，讓玩家依喜好呈現角色蛻變前後的樣貌對比,充分展現原作核心的成長主題。本作以小說封面插畫為設計依歸，力求貼近原作世界觀氛圍。搭配另售的 Miraitia LED 發光組件，還能讓蜘蛛型態的複眼部位發光，增添展示效果的臨場感。全高約 240mm，是該人氣輕小說 IP 立體化商品中頗具代表性的一款。雙形態切換的展示巧思充分呼應原作「弱肉強食、不斷進化」的核心主題，是該人氣輕小說 IP 立體化商品中頗具代表性的一款。",
     reviews: [],
     youtube: [
       {
@@ -4136,7 +4136,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/en/product/7447/Saber+Altria+Pendragon+Alter+Cuirassier+Noir.html",
     imageUrl: "/images/gsc-fgo-saber-alter-cuirassier-noir.jpg",
     tags: ["Fate/Grand Order", "FGO", "Saber Alter", "セイバーオルタ", "アルトリア", "Altria Pendragon", "Good Smile Company", "GSC", "1/8", "日系品牌"],
-    description: "Good Smile Company《Fate/Grand Order》「セイバー/アルトリア・ペンドラゴン〔オルタ〕＆キュイラッシェ・ノワール」1/8 比例完成品。以「特異點F 惡性隔絕庭園・新宿幻靈事件」宣傳影片為設計藍本，呈現阿爾托莉雅・潘德拉貢〔Alter〕騎乘漆黑機甲戰馬「キュイラッシェ・ノワール（Cuirassier Noir）」、手持「Excalibur Morgan」黑聖劍的震撼動感姿勢。含劍全高約 270mm，附底座。2019 年初版、2024 年 9 月再版。",
+    description: "本作取材自《Fate/Grand Order》「特異點F 惡性隔絕庭園・新宿幻靈事件」章節的宣傳影片場景，將黑化亞瑟王「Saber／Altria Pendragon〔Alter〕」騎乘漆黑機甲戰馬「Cuirassier Noir」馳騁疾馳的震撼畫面立體化，這一幕也是該篇章劇情高潮中令玩家印象深刻的視覺演出之一。Good Smile Company 以 1/8 比例呈現這組動態感十足的組合，阿爾托莉雅手持漆黑聖劍「Excalibur Morgan」奮力揮擊的姿勢極具張力，黑色鎧甲的金屬質感與機甲戰馬流線造型相互呼應，共同構築出黑暗與速度感兼具的視覺衝擊。含劍全高約 270mm，附專用底座穩固支撐動態姿勢，展示效果比單體角色手辦更具敘事張力。本作於 2019 年首度發售後獲得高度評價，2024 年 9 月應玩家需求再版推出，讓錯過首發的收藏者得以入手這件融合角色魅力與劇情名場面的重量級作品。",
     reviews: [],
     youtube: [
       {
@@ -4161,7 +4161,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2845054001/",
     imageUrl: "/images/rg-rx78-2-ver2-miku.jpg",
     tags: ["機動戦士ガンダム", "RX-78-2", "初音ミク", "Hatsune Miku", "ガンダム45周年", "RG", "Real Grade", "BANDAI SPIRITS", "P-Bandai", "高達模型", "限定品"],
-    description: "BANDAI SPIRITS 為慶祝機動戰士ガンダム 45 周年，與「初音ミク（Hatsune Miku）」推出的聯名限定企劃。以全新配色重現 RG RX-78-2 ガンダム Ver.2.0，採用初音ミク標誌性的青灰、黑、藍、粉紅色調，光束軍刀光刃改為透明綠色呼應「大蔥」意象，附全新原創写実造型貼紙（Realistic Decal）。P-Bandai 限定發售，2026 年 6 月出貨。",
+    description: "為慶祝《機動戰士鋼彈》系列誕生 45 週年，BANDAI SPIRITS 特別策劃與人氣虛擬歌手「初音未來」的跨界聯名企劃，將兩大長壽 IP 首次正式結合，在鋼彈與 VOCALOID 兩方粉絲群體間都掀起話題討論。本作以 RG（Real Grade）系列既有的高精密內構骨架 RX-78-2 鋼彈 Ver.2.0 為基礎，全新配色重新詮釋機體外觀，採用初音未來標誌性的青灰、黑、藍與粉紅色調取代原本的紅白藍配色，將偶像角色的視覺語彙巧妙融入機甲設計。光束軍刀的光刃更特別改為透明綠色，呼應初音未來招牌的「大蔥」意象，成為本作最具巧思的細節之一。套件並附全新原創寫實造型貼紙（Realistic Decal），延續 RG 系列一貫的細膩機體刻畫水準。作為 P-Bandai 限定商品，預計 2026 年 6 月出貨，發售管道稀缺加上雙 IP 聯名話題性，預料將成為鋼彈周邊收藏市場的熱門焦點。",
     reviews: [
       {
         title: "RG RX-78-2 ガンダムVer.2.0［初音ミクVer.］ レビュー【GUNDAM × MIKU Anniversary Special project.】",
@@ -4186,7 +4186,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2028/",
     imageUrl: "/images/rg-full-armor-unicorn.jpg",
     tags: ["機動戦士ガンダムUC", "Gundam Unicorn", "RX-0", "フルアーマー", "Full Armor", "RG", "Real Grade", "BANDAI SPIRITS", "高達模型"],
-    description: "BANDAI SPIRITS「RG（リアルグレード）」系列《機動戦士ガンダムUC》終盤最終決戰規格「フルアーマー・ユニコーンガンダム」。為 RG 系列中武裝量最多的機體，附ビームマグナム・ビームガトリングガン・ハイパービームジャベリン・推進劑槽等大量武裝，支援 Unicorn Mode 與 Destroy Mode 切換，不需替換零件即可完成形態轉換。",
+    description: "《機動戰士鋼彈UC》是宇宙世紀系列時間線上承先啟後的重要作品，獨角獸鋼彈憑藉能量元帥「NT-D」系統在覺醒後展現壓倒性戰力，而「全裝甲獨角獸鋼彈」正是劇情終盤最終決戰中登場的滿載武裝規格，象徵主角機在系列尾聲投入全部戰力的關鍵時刻。本作作為 RG 系列中武裝配置最為豐富的一款套件，附有光束火神槍、光束加特林砲、超級光束標槍以及推進劑貯存槽等大量外掛裝備，充分重現獨角獸鋼彈全副武裝迎戰的震撼視覺。RG 系列一貫以接近實機比例模型等級的內構骨架與精密可動機構著稱，本作延續此一特色，最大賣點在於支援獨角獸形態與毀滅形態之間的直接切換，無需拆裝替換零件即可完成兩種模式轉換，充分還原原作中機體變形的戲劇性瞬間，是 RG 系列中收藏與把玩樂趣兼具的重量級作品。作為系列中武裝最為齊全的一款套件，本作也是玩家展示獨角獸鋼彈完整戰力配置時的首選收藏對象。武裝掛載密度極高卻不失整體協調感，展現 RG 骨架系統在承重與可動兼顧上的工程實力，完工後的展示存在感遠超一般 1/144 比例套件。",
     reviews: [
       {
         title: "RG フルアーマー・ユニコーンガンダム レビュー | ガンダムブログはじめました",
@@ -4217,7 +4217,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2700764001001",
     imageUrl: "/images/rg-shiranui-akatsuki.jpg",
     tags: ["機動戦士ガンダムSEED FREEDOM", "SEED Freedom", "アカツキ", "Akatsuki", "シラヌイ", "Shiranui", "ゼウスシルエット", "Zeus Silhouette", "RG", "Real Grade", "P-Bandai", "限定品", "高達模型", "BANDAI SPIRITS"],
-    description: "BANDAI SPIRITS P-Bandai 限定《機動戦士ガンダムSEED FREEDOM》配件組。可將 RG 1/144 アカツキガンダム（另售）由地球大氣用「オオワシ（Oowashi）」換裝為宇宙戰用「シラヌイ（Shiranui）」裝備，同時附 HGCE ゼウスシルエット（另售）接続パーツ，重現電影劇中名場面。シラヌイ裝備內建ビームタレット（Beam Turret）展開射出機構，另附動作底座轉接零件。",
+    description: "《機動戰士鋼彈SEED FREEDOM》是 SEED 系列時隔多年推出的劇場版新作，延續了系列一貫的政治糾葛與機甲對決主軸，「朱色」作為極具人氣的自由同盟軍機體，在片中依任務環境切換不同裝備配置，展現系列一貫「同一機體、多套裝備」的設計哲學。本套件為 P-Bandai 限定的裝備轉換組件，可將另售的 RG 朱色鋼彈由適用地球大氣層的「大鷲」裝備，替換為專為宇宙戰設計的「不知火」裝備，重現機體因應戰場環境切換戰術配置的設定巧思。套件同時附有可與另售 HGCE 宙斯輪廓連接的專用零件，方便玩家重現電影劇中的名場面對戰組合。「不知火」裝備最大特色在於內建光束砲塔展開射出機構，可呈現武裝從收納到展開攻擊的動態過程，另附動作展示底座轉接零件輔助擺出更具張力的姿勢，是 SEED FREEDOM 系列周邊中兼具劇情還原度與把玩機構的精緻配件商品。此類「一機多裝備」的擴充套件設計，也呼應了 SEED 系列一貫強調機體因應戰場環境靈活換裝的世界觀邏輯，深受重視劇情還原度的玩家喜愛。",
     reviews: [
       {
         title: "RG アカツキガンダム用シラヌイパック＆HGゼウスシルエット用接続パーツ レビュー | ガンダムブログはじめました",
@@ -4248,7 +4248,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2753039001",
     imageUrl: "/images/hg-gundam-zirius.jpg",
     tags: ["機動戦士ガンダムエイト", "Gundam Eight", "EES-001", "ガンダムジリウス", "Gundam Zirius", "HG", "High Grade", "P-Bandai", "限定品", "高達模型", "BANDAI SPIRITS"],
-    description: "BANDAI SPIRITS P-Bandai 限定《機動戦士ガンダムエイト》（Gundam Ace 連載）登場新型機「EES-001 ガンダムジリウス（Gundam Zirius）」HG 1/144 比例。搭載 East End Corporation 開發的高性能ビームライフル，支援中近程與遠程模式切換；背部「フェザーエクステンション（Feather Extension）」由 12 片散熱板構成，以透明藍色珠光零件呈現，不同角度散發彩虹光澤。",
+    description: "《機動戰士鋼彈EIGHT》是在漫畫雜誌 Gundam Ace 連載的原創企劃作品，以嶄新世界觀與原創機體設計拓展鋼彈系列版圖，「鋼彈吉里烏斯」便是該作登場的新型主角機之一，由劇中虛構企業 East End Corporation 所開發，象徵民間勢力自主研製鋼彈系機體的設定新意。本作 HG 1/144 比例套件搭載該企業自製的高性能光束步槍，支援中近程與遠程兩種持槍模式切換，呼應機體靈活應對不同戰鬥距離的設定。機體背部裝備「羽翼延伸裝置」由多片散熱板構成，套件特別採用透明藍色珠光素材成型，隨觀賞角度變化能呈現細膩的彩虹光澤效果，是本作最具視覺亮點的細節設計，也充分展現 HG 系列近年在特殊成形色運用上的技術進步。作為 P-Bandai 限定商品，發售通路較為稀缺，加上原創機體本身話題性，使其成為新世代鋼彈周邊收藏者關注的對象。作為近年鋼彈原創企劃線的新作，本套件也延續 HG 系列一貫親民的組裝難度與價格帶，是入門玩家接觸新世代原創機體的合適選擇。",
     reviews: [
       {
         title: "HG ガンダムジリウス レビュー | ガンダムブログはじめました",
@@ -4279,7 +4279,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2242119001006",
     imageUrl: "/images/mg-astray-noir.jpg",
     tags: ["機動戦士ガンダムSEED DESTINY ASTRAY B", "SEED Destiny Astray", "MBF-P0X", "ガンダムアストレイ ノワール", "Astray Noir", "MG", "Master Grade", "P-Bandai", "限定品", "高達模型", "BANDAI SPIRITS"],
-    description: "BANDAI SPIRITS P-Bandai 限定《機動戦士ガンダムSEED DESTINY ASTRAY B》登場機「MBF-P0X ガンダムアストレイ ノワール」MG 1/100 比例。以 MBF-P02 アストレイ レッドフレーム 為基礎改造，搭載「ノワールストライカー（Noir Striker）」，配備可合體為近戰斬擊與槍擊的「ソードピストル（Sword Pistol）」。附飛行員ダンテ・ゴルディジャーニ人形及水貼式貼紙。",
+    description: "《機動戰士鋼彈SEED DESTINY ASTRAY B》是 SEED 系列衍生漫畫作品，聚焦於主線劇情之外、由各方勢力私下運用的「亞斯特雷」系列機體，這些機體並非官方制式量產型，而是經由不同陣營改造流用而成，「鋼彈亞斯特雷 諾瓦爾」便是其中一例，由駕駛員但丁・戈爾迪贊尼所駕駛。本作 MG 1/100 比例套件以經典機體「亞斯特雷 紅色機身」為改造基礎重新設計，搭載專屬強化裝備「諾瓦爾型武裝背包」，武裝方面配備可自由組合為近戰劍擊與遠程槍擊兩用形態的複合武器，呼應亞斯特雷系列一貫靈活多變的戰術運用風格。套件並附駕駛員但丁人形塑像及水貼式貼紙，細節配置完整。作為 P-Bandai 限定商品，本作滿足了系列衍生機體愛好者對「非主線但設定紮實」機體的收藏需求，在 MG 等級的精密度下呈現這台鮮少被立體化的特色機體。作為亞斯特雷系列眾多改造機體之一，本作也呼應了 SEED 系列一貫「機體流用、各方勢力各自魔改」的設定特色，深受偏好冷門機體的模型玩家青睞。",
     reviews: [
       {
         title: "MG ガンダムアストレイノワール レビュー | schizophonic9",
@@ -4304,7 +4304,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-3-battle-damaged-6920",
     imageUrl: "/images/dlx-iron-man-mark3-battle-damaged.jpg",
     tags: ["Marvel", "Iron Man", "Mark III", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金", "戰損版", "Battle Damaged"],
-    description: "threezero DLX 系列《鋼鐵人》（2008）戰損規格，重現電影高潮對決場景中 Mark III 遭受重創後的外觀。全身以多層金屬漆塗裝工藝精雕彈痕、刮傷與凹陷，頭盔與胸甲有明顯子彈孔造型。附臂部導彈、Smart Micro Guns、誘餌照明彈、手部及腳部飛行特效零件、五對可換手型及 DLX 展示底座。高約 175mm，約 48 個可動關節。",
+    description: "《鋼鐵人》（2008）是漫威電影宇宙的開山之作，東尼史塔克駕駛 Mark III 裝甲在片尾與軍火商反派 Iron Monger 展開高潮對決，激烈交火後裝甲外殼傷痕累累的畫面成為系列粉絲津津樂道的經典影像之一，本作正是取材自這場關鍵戰役後的裝甲樣貌。threezero DLX 系列一貫以高密度合金骨架與精緻噴漆聞名,本戰損版更在此基礎上進一步挑戰塗裝工藝極限,全身以多層次金屬漆技法細膩重現彈痕、刮傷與凹陷等戰鬥損傷痕跡,頭盔與胸甲上明顯可見的子彈孔造型尤其考驗噴塗與做舊技術的精準度。配件方面相當齊全,附有臂部導彈、Smart Micro Guns、誘餌照明彈,以及手部、腳部飛行特效零件,搭配五對可替換手型與專屬 DLX 展示底座,可自由擺出戰鬥或飛行等多種姿態。高約 175mm,約 48 個可動關節帶來優異的動作自由度,是漫威影迷心中「戰損版」收藏品的標竿之作。",
     reviews: [],
     youtube: [
       {
@@ -4329,7 +4329,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://macross.jp/product/57089",
     imageUrl: "/images/macross7-ultra-fire-vinyl.jpg",
     tags: ["マクロス7", "Macross 7", "FIRE BOMBER", "バサラ・ネッキ", "ミレーヌ・ジーナス", "黑膠", "Vinyl", "アナログ", "フライングドッグ", "30周年"],
-    description: "《超時空要塞マクロス7》（1994-1995）劇中搖滾樂團「FIRE BOMBER」精選輯「ULTRA FIRE!!」首度以黑膠 LP 形式發售，初回生産限定版採用主角機配色彩膠：Disc 1 以 VF-19改ファイヤーバルキリー 形象色（クリアレッド）壓製，Disc 2 以 VF-11MAXL改ミレーヌバルキリー 形象色（クリアピンク）壓製，附豪華拉頁封套及全新繪製插圖小冊子。收錄「PLANET DANCE」、「突撃ラブハート」等經典曲目共 30 首，為《マクロス7》首次以類比黑膠規格復刻的精選集。",
+    description: "《超時空要塞 Macross 7》（1994-1995）是系列作品中風格最為特殊的一部，首次將「用歌聲戰鬥」的核心設定推向搖滾樂團形式，劇中虛構搖滾樂團「FIRE BOMBER」由主唱巴薩拉・涅可領軍，以熱血高亢的搖滾樂曲貫穿全劇，「歌聲能感化敵人、平息戰爭」的獨特世界觀也成為 Macross 系列中最具個性的一頁。本作精選輯《ULTRA FIRE!!》首度以黑膠 LP 規格發行，初回生產限定版特別採用劇中主角機配色的彩色膠盤：Disc 1 以巴薩拉座機「VF-19改 Fire Valkyrie」的形象色透明紅壓製,Disc 2 則以蜜蕾奴座機「VF-11MAXL改 Mylene Valkyrie」形象色透明粉壓製，將機體配色與音樂載體巧妙結合，是 Macross 周邊中少見的視覺化設計巧思。專輯收錄「PLANET DANCE」、「突擊愛心」等系列經典曲目共 30 首，並附豪華拉頁封套及全新繪製插圖小冊子，是《Macross 7》三十週年紀念之際首次以類比黑膠規格復刻的精選輯，兼具音樂性與收藏話題性。",
     reviews: [],
     youtube: [],
   },
@@ -4348,7 +4348,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.cdjapan.co.jp/product/HLP-20003",
     imageUrl: "/images/suisei-specter-vinyl.jpg",
     tags: ["星街すいせい", "Hoshimachi Suisei", "hololive", "Specter", "黑膠", "LP", "音樂", "專輯", "クリアレッドヴァイナル"],
-    description: "VTuber 星街すいせい第二張個人全長專輯《Specter》的 Vinyl LP 黑膠盤完全生産限定版（クリアレッドヴァイナル）。《Specter》（原作 CD 發售於 2023 年 1 月）收錄 Kitani Tatsuya、Ayase（YOASOBI）、jin（神山羊）、Nanahoshi Orchestra 等知名音樂人為 Suisei 量身打造的 11 首曲目，以陰暗華麗的 gothic pop 風格為主軸。封面插圖展現配戴眼鏡、身著哥德風服飾的すいせい，底角印有她的個人星型徽章（✦），黑膠盤以透明紅色壓製，附 Gatefold 封套。",
+    description: "星街彗星是 VTuber 事務所 hololive 旗下極具人氣的成員之一，以扎實的歌唱實力與獨特的個人音樂企劃著稱，在虛擬偶像文化逐漸走向主流音樂市場的浪潮中，她被視為代表性的指標人物之一。《Specter》是她的第二張個人全長專輯，原作 CD 於 2023 年 1 月發行，集結了木谷達也、Ayase（YOASOBI）、神山羊、Nanahoshi Orchestra 等多位日本樂壇活躍創作人為她量身打造的十一首曲目，整體以陰暗華麗的 gothic pop 曲風為主軸，展現不同於一般虛擬歌手作品的成熟音樂性與作家陣容規格。本次推出的 Vinyl LP 為完全生產限定版，採用透明紅色黑膠壓製，封面插圖描繪配戴眼鏡、身著哥德風服飾的星街彗星，畫面角落印有她個人標誌性的星型徽章，整體視覺與音樂氛圍高度呼應。附 Gatefold 對開式封套，兼顧收藏質感與黑膠載體特有的溫暖音色體驗，是虛擬歌手跨足實體音樂載體的重要作品之一。",
     reviews: [],
     youtube: [],
   },
@@ -4367,7 +4367,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://shop.hololivepro.com/en/products/hoshimachisuisei_lp_stillstillstellar_encorepress",
     imageUrl: "/images/suisei-stillstillstellar-vinyl.jpg",
     tags: ["星街すいせい", "Hoshimachi Suisei", "hololive", "Still Still Stellar", "黑膠", "LP", "音樂", "專輯", "カラーヴァイナル"],
-    description: "VTuber 星街すいせい首張個人全長專輯《Still Still Stellar》的 Vinyl 2LP 黑膠盤限定版。《Still Still Stellar》（原作 CD 發售於 2021 年 9 月）收錄「Stellar Stellar」、「Sagittarius」、「Ghost」等 12 首曲目，2024 年 5 月首次以 2LP 彩膠形式復刻，採用黑膠（Disc 1）與クリアブルー（Disc 2）雙色設計，為 hololive 史上首張彩色壓製黑膠唱片，附豪華內袋及展示插圖。",
+    description: "星街彗星隸屬 VTuber 事務所 hololive，長年以真材實料的歌唱實力打破外界對虛擬歌手僅止於「人設」的既定印象，逐步在日本音樂產業中站穩腳步。《Still Still Stellar》是她首張個人全長專輯，原作 CD 發行於 2021 年 9 月，收錄「Stellar Stellar」、「Sagittarius」、「Ghost」等十二首代表曲目，奠定了她作為創作型歌手的音樂定位與初期風格基礎。本作於 2024 年 5 月首度以 2LP 彩膠形式復刻推出，Disc 1 採用標準黑膠、Disc 2 則採用透明藍色壓製，雙碟雙色的設計在 hololive 旗下眾多藝人商品中屬於首次嘗試,象徵虛擬偶像實體音樂周邊在製作規格上的升級。套組並附豪華內袋及展示用插圖，兼顧聆聽體驗與視覺收藏價值，對追蹤星街彗星音樂軌跡的歌迷而言，是回顧其出道初期代表作、感受類比黑膠特有溫暖音質的珍貴載體。",
     reviews: [],
     youtube: [],
   },
@@ -4386,7 +4386,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15562/",
     imageUrl: "/images/proplica-nichirin-sword-shinobu-kocho.jpg",
     tags: ["鬼滅の刃", "Demon Slayer", "胡蝶しのぶ", "Shinobu Kocho", "PROPLICA", "日輪刀", "1/1", "BANDAI SPIRITS", "蟲の呼吸", "周邊"],
-    description: "BANDAI SPIRITS PROPLICA 系列《鬼滅の刃》劇場版「無限城編 第一章」聯動商品，1:1 重現胡蝶しのぶ標誌性日輪刀。刀身長約 880mm，配備專用白色刀鞘，刀鞘採用三維紋路設計並施以金色塗裝。搭載納刀・拔刀自動音效偵測、蟲の呼吸振動ギミック、調合毒（C 鍵）等特殊模式，內建超過 70 句台詞（含胡蝶しのぶ與姊姊胡蝶カナエ語音），分為「蟲柱・胡蝶しのぶ模式」與「無限城決戰模式」兩種，並收錄劇場版主題曲 Aimer「太陽の見えない場所」及 LiSA「残酷な夜に光れ」。附專用底座，適合 15 歲以上收藏。",
+    description: "《鬼滅之刃》劇場版「無限城篇 第一章」延續原作漫畫尾聲最大規模的鬼殺隊總力戰，胡蝶忍作為蟲柱，以毒殺鬼的獨特戰法及輕巧靈活的「蟲之呼吸」聞名，其姊姊胡蝶香奈惠因遭鬼所害而未能達成弒鬼心願的悲劇背景，也讓忍這個角色的堅毅與溫柔格外令人動容。BANDAI SPIRITS PROPLICA 系列一貫以高擬真道具重現作品經典武具著稱，本作以 1:1 比例、約 880mm 全長重現胡蝶忍的招牌日輪刀，專用白色刀鞘施以金色塗裝並刻畫立體紋路，質感考究。機構方面內建納刀與拔刀自動音效感應、蟲之呼吸振動機構，以及呼應忍毒殺特性的「調合毒」模式，並收錄超過 70 句台詞，除忍本人語音外更特別收錄姊姊香奈惠的語音演出，分為「蟲柱・胡蝶忍模式」與「無限城決戰模式」兩種情境切換,同時收錄劇場版主題曲 Aimer〈太陽的看不見之處〉與 LiSA〈於殘酷之夜綻放光芒〉。附專屬底座方便展示，是鬼滅系列周邊中互動機構最為豐富的道具復刻商品之一。",
     reviews: [],
     youtube: [
       { title: "PROPLICA 日輪刀 (胡蝶しのぶ) display", url: "https://www.youtube.com/watch?v=2v7xRY7kxdU", lang: "ja" },
@@ -4407,7 +4407,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.jvcmusic.co.jp/macrossf_alltimebest/",
     imageUrl: "/images/macrossf-nanajyo-greatest-vinyl.jpg",
     tags: ["マクロスF", "Macross Frontier", "シェリル・ノーム", "ランカ・リー", "May'n", "中島愛", "黑膠", "Vinyl", "アナログ", "フライングドッグ"],
-    description: "《マクロスF》（Macross Frontier, 2008）オールタイムベストアルバム「娘々グレイテスト☆ヒッツ！」的黑膠 3LP 版本，與 CD 版同步於 2025 年 4 月 29 日（ランカ・リー 生日）發售。精選 シェリル・ノーム（歌手：May'n）與 ランカ・リー（歌手：中島愛）的代表曲目，為《マクロスF》史上首次推出的 Analog LP，初回生産限定版採用彩膠規格，附豪華 Double Jacket 封套及角色設計師江端里沙全新繪製封面插圖。",
+    description: "《Macross Frontier》（2008）作為系列作品中商業與音樂成就皆極為亮眼的一部，兩大女主角謝里爾・諾姆與蘭花・李的競演不僅是劇情核心，其演唱曲目也分別由歌手 May'n 與中島愛實際演繹，多首插曲更成為超越動畫範疇、廣受樂迷喜愛的長銷金曲。本作《娘娘 Greatest☆Hits！》為系列首度發行的全曲目精選輯，此次黑膠 3LP 版本與 CD 版同步於 2025 年 4 月 29 日、也就是劇中角色蘭花・李的設定生日當天發售，別具紀念意義,也是《Macross F》有史以來首次推出的類比黑膠規格商品。精選收錄兩位歌姬的代表曲目，初回生產限定版採用彩色膠盤壓製，並附豪華 Double Jacket 對開式封套，封面由角色設計師江端里沙全新繪製插圖，將動畫十餘年來累積的音樂資產以實體黑膠形式重新呈現，對系列歌迷而言兼具聆聽與收藏雙重意義。",
     reviews: [],
     youtube: [],
   },
@@ -4426,7 +4426,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://dollfie.volks.co.jp/dd/special/sailormoon/dds_sailormercury/",
     imageUrl: "/images/dds-sailor-mercury.jpg",
     tags: ["美少女戦士セーラームーン", "セーラーマーキュリー", "水野亜美", "Dollfie Dream", "DDS", "ボークス", "1/3", "限定", "BJD"],
-    description: "ボークス（Volks）推出的《美少女戰士 Sailor Moon》官方授權 Dollfie Dream Sister（DDS）1/3 比例人偶，以 2018 年 Wonder Festival 冬限定形式發售。人偶身高約 44cm，採用 DDS 柔軟肌膚骨架，頭雕忠實重現水野亜美（Ami Mizuno）的清澈藍眸與短藍髮，表情溫柔、知性。\n\n服裝依原作精心重現海軍藍配白的水星戰士戰鬥服，包含手套、細頸絲巾、腰帶及靴子，附星際棒（Star Power Stick）道具。水野亜美是在校成績頂尖的天才少女，同時是五位戰士中最擅長策略與情報分析的水星戰士，守護愛和正義的同時從不失去溫柔與理性。此款屬於美少女戰士 × Dollfie Dream 系列，是 Sailor Moon 人偶收藏中最具代表性的旗艦作品之一。",
+    description: "《美少女戰士 Sailor Moon》是自 1990 年代起風靡全球的少女戰士動漫經典，水野亞美化身的水星戰士 Sailor Mercury 在五位主要戰士中以冷靜理智、擅長分析與策略著稱，同時是全校成績名列前茅的天才學生，其溫柔知性又不失堅強的性格深受長年粉絲喜愛。Volks 推出的這款官方授權 Dollfie Dream Sister（DDS）1/3 比例人偶，於 2018 年冬季 Wonder Festival 限定發售，人偶身高約 44 公分，採用 DDS 系列柔軟肌膚骨架，可自由擺出多種姿勢。頭雕細膩重現水野亞美清澈的藍色雙眸與俐落短藍髮，表情溫柔中帶著知性氣質。服裝完整依原作重現海軍藍配白色的水星戰士戰鬥服，包含標誌性手套、細頸絲巾、腰帶與長靴，並附戰鬥道具「星際權杖」。作為 Sailor Moon 與 Dollfie Dream 跨界聯名系列的一員，本作以人偶形式承載了水星戰士溫柔而堅定的角色魅力，是該 IP 立體商品收藏中頗具份量的旗艦作品。",
     reviews: [
       {
         title: "セーラー戦士をレビューするんだよ【セーラーマーキュリー編】| 暴走一郎",
@@ -4461,7 +4461,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_464/",
     imageUrl: "/images/mg-v2-gundam-ver-ka.jpg",
     tags: ["Gunpla", "MG", "Vガンダム", "Victory Gundam", "Ver.Ka", "バンダイ", "1/100", "変形", "勝利二式"],
-    description: "《機動戰士V鋼彈》（1993）主角 Uso Ewin 的最終座機 LM314V21 勝利二式鋼彈（Victory Two Gundam），MG 1/100 比例由カトキハジメ（Hajime Katoki）親自監修的 Ver.Ka 版本。\n\nV2 是宇宙世紀中構造最複雜的可變形 MS 之一——三機分離合體機構（Top Fighter + Core Fighter + Bottom Fighter）在 1/100 比例下完整實現，可個別展示各形態。Ver.Ka 版本將比例重新調整至最接近カトキ手繪設定稿的英挺比例，並附有 Ver.Ka 水轉印貼紙及複數駕駛員人偶（ウソ・エウィン、マベット・フィンガーハット、シャクティ・カリン）。\n\n最終武裝「ウイング・オブ・ライト（Wing of Light）」光翼效果零件使完成後的展示效果極為壯觀，是《Vガンダム》系列迄今最高規格的 MG 旗艦套件，也是複雜程度堪比 MG νガンダム Ver.Ka 的高難度名作。",
+    description: "《機動戰士V鋼彈》（1993）是宇宙世紀系列中風格最為冷冽殘酷的一部，少年主角烏索・埃溫在戰爭中被迫快速成長，最終座機「勝利二式鋼彈」正是他歷經多次機體損毀與強化後所駕駛的終極形態，象徵著這段慘烈成長歷程的終點。本作 MG 1/100 比例套件由長年負責鋼彈機體設計監修的角色設計師香瀧一（カトキハジメ）親自操刀 Ver.Ka 版本，將原作中比例略顯特殊的機體造型重新調整,更貼近他手繪設定稿中英挺俐落的體態比例。V2 鋼彈是宇宙世紀機體中構造最為複雜的可變形機種之一，由 Top Fighter、Core Fighter、Bottom Fighter 三機分離合體構成,MG 等級的骨架完整重現此一分離合體機構,並可個別展示各分離形態,把玩樂趣與觀賞層次遠超一般套件。套件並附 Ver.Ka 專屬水轉印貼紙及烏索・埃溫、瑪貝特・芬格哈特、夏克蒂・卡林等複數駕駛員人偶,展現多視角敘事細節。最終武裝「光之翼」特效零件完成後極具視覺震撼,是《V鋼彈》系列中規格最高的旗艦套件,組裝難度堪比 MG νガンダム Ver.Ka,深受高階模型玩家推崇。",
     reviews: [
       {
         title: "MG Victory 2 Gundam ver.Ka — 一天到晚作模型的MS翰",
@@ -4501,7 +4501,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2458858001003",
     imageUrl: "/images/mg-v2-assault-buster-expansion.jpg",
     tags: ["Gunpla", "MG", "Vガンダム", "Victory Gundam", "Ver.Ka", "P-Bandai", "バンダイ", "1/100", "擴充套件", "Assault Buster"],
-    description: "P-Bandai 限定的 MG 1/100 勝利二式突擊殲滅型（Victory Two Assault-Buster Gundam）Ver.Ka 擴充套件，需搭配基礎版「MG V2 Gundam Ver.Ka」主體使用（主體另售）。套件包含 Assault 型裝甲、Buster 型裝甲、主體骨架更新零件及 Ver.Ka 水轉印貼紙，可組裝出三種形態：V2 突擊型（Assault）、V2 殲滅型（Buster），或雙系統同時啟動的全武裝突擊殲滅型（Assault-Buster）。\n\n金色零件採用精緻的成形色呈現，大型 Mega Beam Cannon 與 Buster Launcher 完整重現《Vガンダム》決戰時 Uso Ewin 的最強武裝形態，令整組完成後氣勢倍增。是 V2 Gundam Ver.Ka 的必備收藏配件。",
+    description: "「勝利二式突擊殲滅型鋼彈」是《機動戰士V鋼彈》劇情尾聲，烏索・埃溫為迎戰扎那斯庫帝國最終決戰而動用的滿載武裝形態，結合「突擊型」與「殲滅型」兩套強化裝甲系統於一身，象徵主角在故事終章傾盡全力一戰的關鍵時刻。本套件為 P-Bandai 限定的擴充配件組，需搭配基礎版「MG V2 鋼彈 Ver.Ka」主體套件（另售）使用，內含 Assault 型裝甲、Buster 型裝甲、主體骨架更新零件以及 Ver.Ka 專屬水轉印貼紙，可依喜好組裝出三種形態：突擊型、殲滅型，或雙系統同時搭載的全武裝突擊殲滅型，充分還原原作中機體因應戰局變化而升級改裝的設定巧思。金色零件採用精緻成形色呈現，搭配大型光束加農砲與殲滅型發射器等大口徑武裝，完整重現決戰時最強武裝配置的壓迫感，整組完成後氣勢遠超基礎版本。對已收藏 MG V2 鋼彈 Ver.Ka 主體的玩家而言，本擴充套件是提升機體完整度與視覺震撼力不可或缺的追加收藏。",
     reviews: [
       {
         title: "PB MG V2突擊殲滅鋼彈 Ver.Ka 開箱 — Vertony's Dungeons",
@@ -4542,7 +4542,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.megahouse.co.jp/products/item/310/",
     imageUrl: "/images/excellent-model-klan-klang-armored.jpg",
     tags: ["macross0007@中壢收多易", "マクロスF", "Macross Frontier", "クラン・クラン", "Excellent Model", "メガハウス", "アーマード版", "1/72"],
-    description: "メガハウス（MegaHouse）Excellent Model 系列取材自《マクロスF》（Macross Frontier, 2008）TV 第 21 話中 SMS 戰術音速教官、ゼントラーディ族中隊長クラン・クラン（Klan Klang）身著戰鬥強化裝甲（Q-Rau suit）的全武裝姿態。\n\nクラン在劇中是罕見在ゼントラーディ巨人形態（マクロン状態）下依然保有少女魅力的角色；此完成品以 1/72 比例（約 190mm）重現其衝鋒戰鬥姿態，裝甲各面板刻線精細，搭配火焰橘紅配色充分表現ゼントラーディ戰甲的重量感與威壓力。超弩絞架護甲可拆卸，可自由搭配 VF-25G 同比例展示。Excellent Model 系列以系列內數一數二的大型體量著稱，是《マクロスF》立體商品中存在感最強的單品之一。",
+    description: "《Macross Frontier》TV 版第 21 話中，SMS 傭兵部隊的戰術音速教官、澤特拉迪族小隊長克蘭・克蘭身著全套強化戰鬥裝甲迎戰的場面，是該話最具張力的戰鬥橋段之一，也讓這位角色在系列中留下深刻印象。克蘭在劇中身為澤特拉迪族巨人形態下少見依然保有少女魅力與個性魄力的角色，其「巨人卻不失可愛」的反差設定廣受粉絲喜愛。MegaHouse Excellent Model 系列以此為題材，用 1/72 比例（約 190mm）重現她穿戴 Q-Rau 戰鬥強化裝甲、擺出衝鋒突擊姿態的震撼瞬間，裝甲各面板刻線處理精細，搭配火焰橘紅色的醒目配色，充分傳達澤特拉迪族戰甲特有的沉重壓迫感與威嚇力。裝甲部件可拆卸調整，方便玩家搭配同比例的 VF-25G 等機體共同展示，重現劇中並肩作戰的場景。Excellent Model 系列以系列內數一數二的大型體量著稱，本作也因此成為《Macross F》立體商品中存在感最為強烈的作品之一。",
     reviews: [
       {
         title: "クラン・クラン アーマードVer. 商品情報 | メガハウス",
@@ -4573,7 +4573,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/308/",
     imageUrl: "/images/max-factory-kotona-elegance.jpg",
     tags: ["ゾイドジェネシス", "Zoids Genesis", "コトナ・エレガンス", "Kotona Elegance", "マックスファクトリー", "1/7", "水着"],
-    description: "マックスファクトリー（Max Factory）以《ゾイドジェネシス》（Zoids Genesis, 2005）兩大女主角之一コトナ・エレガンス（Kotona Elegance）為題材的 1/7 比例 PVC 塗裝完成品（水着版）。\n\nコトナ身著白色鑲緄比基尼，右手持透明藍色游泳圈，金色長髮飄逸、笑容燦爛，造型充分詮釋了這位在ラ・カン市集商圈長大、活潑爽直的少女個性。原型師 Chieri 的雕塑技法細膩，身形比例自然，服飾細節清晰，色彩飽滿鮮明，充分重現了《ゾイドジェネシス》的明亮南國風情。此款 2006 年冬季 Wonder Festival 以造型師限定套件形式首發，翌年以 PVC 完成品公開販售，是《ゾイドジェネシス》女性角色中入手難度最高、也最受玩家追捧的完成品之一。",
+    description: "《Zoids Genesis》（2005）是 Zoids 系列少數以人類角色互動與冒險故事為敘事核心的作品，科托娜・愛麗甘思作為兩大女主角之一，成長於商業繁盛的拉坎市集，性格活潑爽朗、待人真誠，是劇中為主角一行人帶來不少溫暖與活力的關鍵角色。Max Factory 以水著造型將她立體化為 1/7 比例 PVC 完成品，全高約 234mm，重現角色身穿白色鑲邊比基尼、右手持透明藍色泳圈的清爽夏日形象，金色長髮隨姿態自然飄逸，燦爛笑容充分捕捉了科托娜開朗直率的性格特質。原型師智惠理（Chieri）的雕塑手法細膩，身形比例自然寫實，服飾滾邊與細節線條清晰俐落，色彩飽和明亮，成功重現作品獨有的南國明快氛圍。本作最初於 2006 年冬季 Wonder Festival 以原型師限定套件形式先行亮相，翌年才正式以 PVC 完成品公開販售，發售管道與時間點的特殊性使其成為《Zoids Genesis》女性角色周邊中入手難度最高、也最受玩家追捧的一款收藏品。",
     reviews: [
       {
         title: "「マックスファクトリー ゾイドジェネシス コトナ・エレガンス」レビュー — 怪人の集会所II",
@@ -4602,7 +4602,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2454053001005",
     imageUrl: "/images/mg-qubeley-damned.jpg",
     tags: ["Gunpla", "MG", "キュベレイ", "Qubeley Damned", "Build Divers", "GBWC", "P-Bandai", "バンダイスピリッツ", "1/100"],
-    description: "P-Bandai 限定《ガンダムビルドダイバーズ GIMM&BALL's World Challenge》中 Nozh 的鋼彈模型（Gunpla）AMX-004DMD キュベレイダムド（Qubeley Damned）MG 1/100 版本，以 2001 年 MG キュベレイ為基礎加入大量新規零件，大幅重塑輪廓。\n\n新造型要素包括碩大的巨型手掌（五指各節具備球形關節，可完整開合）、細長腰腹、ヒール状足踝，以及重新設計的肩部バインダー（扇形浮游砲座），打造出遠比原版更具壓迫感的黑白雙色剪影。附 10 枚ファンネル（浮游砲）及粉紅色光束軍刀刀刃，套件包含水轉印貼紙。屬 P-Bandai 限定品。",
+    description: "キュベレイ（Qubeley）原型出自《機動戦士Ζガンダム》，是新人類強者哈曼・卡恩（Haman Karn）的專屬機體，以巨大手掌與浮游砲（ファンネル）著稱，象徵敵對陣營頂尖強化人駕駛員的力量。在《ガンダムビルドダイバーズ GBWC》中，キュベレイダムド為角色Nozh所駕駛的黑暗系改造機體，「Damned（被詛咒者）」之名呼應其強化人般偏執好戰的設定，是GBWC世界觀中令人印象深刻的反派機體之一。\n\nMG 1/100版本以2001年發售的MG キュベレイ為骨架基礎，大量追加新規零件重新雕琢輪廓，包括誇張放大、五指皆具球形關節可完整開合的巨型手掌，纖細化的腰腹曲線，靴型足踝以及扇形浮游砲座造型的新規肩部バインダー，整體剪影遠比原型更具壓迫感與魄力。塗裝以黑白雙色為主調，隨附10枚浮游砲與粉紅色透明光束軍刀刀身，並含水轉印貼紙供細節強化。作為Premium Bandai限定商品，僅透過官方通路販售，未於店頭一般流通，收藏稀有度較高。整體而言，本作在GBWC眾多キュベレイ衍生機中屬於黑暗系改造的代表，與キュベレイ・アンベリール的華美路線形成鮮明對照，凸顯Build Divers世界觀中同一原型機可衍生出截然不同性格塗裝的收藏樂趣。",
     reviews: [
       {
         title: "MG 1/100 キュベレイダムド レビュー【プレバン】— ガンプラポッチ",
@@ -4631,7 +4631,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2457563001",
     imageUrl: "/images/mg-hyaku-shiki-crash.jpg",
     tags: ["Gunpla", "MG", "百式", "Hyaku-Shiki", "Crash", "Build Divers", "GBWC", "P-Bandai", "バンダイスピリッツ", "1/100"],
-    description: "P-Bandai 限定《ガンダムビルドダイバーズ GIMM&BALL's World Challenge》中 Markie 的鋼彈模型（Gunpla）MSR-00100CR 百式壊（Hyaku-Shiki Crash）MG 1/100 版本，以 MG 百式 Ver.2.0 為基礎加入大量新規造形件。\n\n頭部、肩部、臂部、側裙甲等部位均採用新規模具，驅幹造型與 Qubeley Damned 採用同型新規胸部零件，打造出黑金雙色的壓迫輪廓——名字中的「壊（Crash）」字形成強烈反差戲謔感。最具亮點的可變形ビームライフル透過替換零件可重現「最大ブースト展開形態」，砲身前端展開為盾牌。附水轉印貼紙，機翼部分採用新規零件打造更銳利剪影。屬 P-Bandai 限定品。",
+    description: "百式（Hyaku Shiki）是《機動戦士Ζガンダム》中夏亞・アズナブル的專屬機體，MSN-00100百式以純金塗裝與可變形背包聞名，象徵紅色彗星駕駛者的貴族氣質與速度優勢。GBWC（GIMM&BALL's World Challenge）是《ガンダムビルドダイバーズ》系列中，玩家於虛擬空間「GBN」內以鋼彈模型組隊競技的世界大會篇章，参加選手常將經典機體大膽拆解重塑，衍生出眾多官方原創改造機。此篇章中登場的MSR-00100CR百式クラッシュ即為角色Markie所駕駛的改造機，「Crash（破壊）」之名與原型優雅形象形成強烈反差，暗示其狂暴戰鬥風格。\n\nMG 1/100版本以MG百式Ver.2.0為基礎大幅追加新規造形件，頭部、肩部、臂部及側裙甲均重新開模，並與キュベレイダムド共用同型新規胸部零件，呈現黑金雙色的壓迫輪廓。最大亮點為可變形ビームライフル，透過替換零件可重現「最大ブースト展開形態」，砲身前端展開化為盾牌，機翼部分亦採新規零件塑造更銳利的剪影。隨附水轉印貼紙供細節強化，屬Premium Bandai限定商品，僅透過官方通路販售，一般店頭較難尋獲，收藏門檻相對較高。",
     reviews: [
       {
         title: "REVIEW MG BUILD DIVERS 1/100 HYAKU-SHIKI CRASH — GUNJAP",
@@ -4666,7 +4666,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2519695001001",
     imageUrl: "/images/mg-qubeley-embellir.jpg",
     tags: ["Gunpla", "MG", "キュベレイ", "Qubeley Embellir", "Build Divers", "GBWC", "P-Bandai", "バンダイスピリッツ", "1/100", "光沢"],
-    description: "P-Bandai 限定《ガンダムビルドダイバーズ GIMM&BALL's World Challenge》中 QA 的鋼彈模型（Gunpla）キュベレイ・アンベリール（Qubeley Embellir）MG 1/100 版本，以 MG キュベレイダムド 為基礎，加入全新光澤（光沢）成形技術，打造「Embellir（法語：美化）」名義下的華麗外觀。\n\n白色外裝全面採用光沢射出成形，在光線下呈現瓷器般的溫潤光澤；バインダー及部分零件加入金屬感成形件；隨附的水轉印貼紙中包含鏡面反射效果的特殊印刷貼紙，令完成後的展示效果在三款 Build Divers キュベレイ 系列中最為奢華精緻。附黃色透明光束軍刀刀刃。屬 P-Bandai 限定品。",
+    description: "キュベレイ原型出自《機動戦士Ζガンダム》哈曼・卡恩的專屬機體，以巨大手掌與浮游砲聞名，長年為ガンダム系列中最具辨識度的女性駕駛員專屬機之一。《ガンダムビルドダイバーズ GBWC》世界大會篇章中，玩家常將經典機體大膽拆解重塑衍生出諸多原創改造機，其中登場的キュベレイ・アンベリール為角色QA所駕駛的機體，「Embellir」取自法語「美化、裝飾」之意，呼應其華麗奢侈的造型定位，與キュベレイダムド、百式クラッシュ等黑暗系改造機形成鮮明對比。\n\nMG 1/100版本以MG キュベレイダムド為骨架基礎，導入全新光澤（光沢）成形技術，白色外裝全面採用光沢射出成形，在光線照射下呈現如瓷器般的溫潤光澤質感；バインダー及部分零件另加入金屬感成形件強化高級感。隨附水轉印貼紙中包含具鏡面反射效果的特殊印刷貼紙，令完成後展示效果在三款Build Divers キュベレイ系列衍生機中最為奢華精緻。武裝方面配有黃色透明光束軍刀刀刃，與另二款機體的粉紅、紅色刀身形成系列區隔。本品屬Premium Bandai限定商品，僅透過官方通路販售，市面流通量有限，收藏難度較高。",
     reviews: [
       {
         title: "MG 1/100 キュベレイ・アンベリール レビュー【プレバン】— ガンプラポッチ",
@@ -4701,7 +4701,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hlj.com/macross-ii-lovers-again-vf-2ss-valkyrie-ii-super-armed-pack-sap-evt57223",
     imageUrl: "/images/evolution-toy-vf2ss-sap.jpg",
     tags: ["macross0006@中壢收多易", "マクロスII", "Macross II", "VF-2SS", "バルキリーII", "Super Armed Pack", "SAP", "エボリューショントイ", "Evolution Toy", "1/60", "擴充套件"],
-    description: "エボリューショントイ（Evolution Toy）1/60 比例《超時空要塞マクロスII -LOVERS AGAIN-》（1992）VF-2SS バルキリーII 的スーパーアームドパック（Super Armed Pack，SAP）單品套件，需搭配另售的 VF-2SS 主機體使用。\n\nSAP 是《マクロスII》原作中主角 Nexx Gilbert 及 Silvie Gena 座機可裝備的重武裝強化包，涵蓋背部主炮組合、腿部推進槽及彈藥倉、翼端追加武裝等，安裝後大幅改變整機的重武裝輪廓，令飛行形態下更具《マクロス》世界觀的未來战鬥感。此套件額外附 2 架 Squire（無人護衛機）及展示台座。2016 年 7 月發售，為 VF-2SS 系列收藏家的必備配件，現已絕版。",
+    description: "《超時空要塞マクロスII -LOVERS AGAIN-》為1992年推出的OVA系列，故事描述地球統一政府「UN Spacey」與新出現的異星種族Marduk之間的戰爭，主角Hibiki Kanzaki駕駛VF-2SS投入戰局。VF-2SS バルキリーII承繼VF-1三段變形的基本設計理念，並針對新世代戰場需求強化整體性能，是該作中UN Spacey陣營的次世代主力可變戦機。\n\nSuper Armed Pack（SAP）是原作中可選配的重武裝強化包，本商品為Evolution Toy推出的1/60比例SAP單品套件，需搭配另售的VF-2SS主機體使用。套件涵蓋背部主炮組合、腿部推進槽與彈藥倉、翼端追加武裝等零件，安裝後大幅改變整機輪廓，令飛行形態更具《マクロス》世界觀特有的重裝戰鬥感。額外隨附2架Squire無人護衛機及展示台座，2016年7月發售，是VF-2SS系列收藏不可或缺的擴充配件，現已絕版，市面流通稀少。整體而言，SAP套件讓玩家得以依個人喜好在標準型與重武裝型之間自由切換，是強調可玩性與展示變化的擴充式收藏商品，也讓VF-2SS系列的收藏層次更加豐富。",
     reviews: [
       {
         title: "Evolution Toy 1/60 VF-2SS Valkyrie II Toys Review — Scorched Earth Toys (Anymoon)",
@@ -4732,7 +4732,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hlj.com/1-60-scale-macross-ii-lovers-again-vf-2ss-valkyrie-ii-silvie-gena-custom-evt57191",
     imageUrl: "/images/evolution-toy-vf2ss-silvie.jpg",
     tags: ["macross0006@中壢收多易", "マクロスII", "Macross II", "VF-2SS", "バルキリーII", "シルビー・ジーナ", "エボリューショントイ", "Evolution Toy", "1/60", "変形", "完全変形"],
-    description: "エボリューショントイ（Evolution Toy）1/60 比例完全可變形 VF-2SS バルキリーII シルビー・ジーナ（Silvie Gena）專用機，取材自 1992 年《超時空要塞マクロスII -LOVERS AGAIN-》OVA 系列。\n\nVF-2SS 是《マクロスII》時代地球 UN Spacey 的主力可變戦機，承繼 VF-1 的三形態設計（戦鬥機・GERWALK・人型），外型更具未來感，採用大型固定翼及後掃翼構型。シルビー機採用深藍色調塗裝，與白色の Nexx Gilbert 機形成鮮明對比。本體採用壓鑄鋅合金（ダイキャスト）強化結構，全高約 410mm（戦鬥機形態），附駕駛員人偶及多種展示配件，是 Evolution Toy 首次嘗試的《マクロス》系列也是 VF-2SS 史上完成度最高的可變形模型。2016 年 2 月發售，現已絕版。",
+    description: "《超時空要塞マクロスII -LOVERS AGAIN-》（1992）延續《超時空要塞マクロス》世界觀，描述新世代UN Spacey部隊與異星種族Marduk的戰爭，シルビー・ジーナ（Silvie Gena）為劇中重要女性角色之一，駕駛VF-2SS投入前線戰鬥。VF-2SS バルキリーII是該作地球UN Spacey陣營的主力可變戦機，承繼VF-1的戦鬥機・GERWALK・人型三段變形設計理念，外型更趨流線與未來感，採用大型固定翼及後掃翼構型應對新一代戰場。\n\n本品為Evolution Toy推出的1/60比例完全可變形版本，専屬於シルビー機，塗裝以深藍色調為主，與白色的主角Nexx Gilbert機形成鮮明對比。機體採用壓鑄鋅合金強化結構件，戦鬥機形態全高約410mm，隨附駕駛員人偶及多種展示配件。本作為Evolution Toy首次挑戰《マクロス》系列作品，也是歷來VF-2SS可變形模型完成度最高的版本，2016年2月發售，現已絕版。",
     reviews: [
       {
         title: "Evolution Toy 1/60 VF-2SS Valkyrie II Toys Review — Scorched Earth Toys (Anymoon)",
@@ -4768,7 +4768,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17s-diamond-force.jpg",
     tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17S", "ナイトメア", "ダイヤモンドフォース", "Diamond Force", "ヤマト", "1/60", "変形", "完全変形"],
-    description: "ヤマト（Yamato）以《マクロス7》（1994）ダイヤモンドフォース（Diamond Force）隊長機 VF-17S ナイトメア（Nightmare）為題材的 1/60 完全可變形完成品，2011 年 12 月發售，定價 ¥24,800。\n\nVF-17 Nightmare 以多面角（Stealth）機身設計著稱，機首呈扁平角錐狀，酷似 F-117 夜鷹；VF-17S 為搭載四門頭部固定機炮（Head Laser）的指揮官型，為 Diamond Force 隊長 Gamlin Kizaki 的專用機。此 1/60 版全面重現戰鬥機・GERWALK・人型三形態完全可變，機身各面板及手臂收納機構均以精密塑膠件構成，表面施以 Diamond Force 五色正式塗裝（黑、銀、紅、金、白）。ヤマト品牌已於 2013 年停業，現行市場流通量稀少，為マクロス7 可變形模型中的珍稀逸品。",
+    description: "《マクロス7》（1994）以搖滾樂團Fire Bomber為主軸，描述音樂與精神力量介入戦爭的獨特設定，ダイヤモンドフォース為劇中新統合軍精銳可變戦機部隊，隊長Gamlin Kizaki為劇中重要配角，個性剛毅但漸受主角熱情感化。VF-17 ナイトメア（Nightmare）以稜角分明的多面體隱形機身設計著稱，機首扁平呈角錐狀，酷似現實中的F-117夜鷹戦機，在マクロス機體設計史上獨樹一格；VF-17S為搭載頭部固定機炮的指揮官型，是Gamlin的專屬座機。\n\n本品為Yamato推出的1/60完全可變形完成品，2011年12月發售，定價¥24,800。全面重現戦鬥機・GERWALK・人型三形態完全變形，機身各面板及手臂收納機構均以精密塑膠件構成，表面施以Diamond Force五色正式塗裝（黑、銀、紅、金、白）。Yamato品牌已於2013年停業，現行市場流通量稀少，為マクロス7可變形模型中的珍稀逸品。整體而言，本作不僅是完成度極高的可變形完成品，更是Yamato品牌黃金時期技術力的代表作之一，對於長年關注《マクロス》系列可變玩具發展的收藏者而言，具有相當重要的指標意義。",
     reviews: [
       {
         title: "Yamato 1/60 VF-17 Toys Review — Scorched Earth Toys (Anymoon)",
@@ -4803,7 +4803,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf17-super-pack.jpg",
     tags: ["macross0007@中壢收多易", "マクロス7", "Macross 7", "VF-17", "スーパーパック", "Super Pack", "ヤマト", "1/60", "30周年", "擴充套件"],
-    description: "ヤマト（Yamato）為旗下 1/60 完全可變形 VF-17 ナイトメア系列（含 Diamond Force、Emerald Force 等版本）設計的 1/60 スーパーパック（Super Pack）選配擴充套件，2012 年 12 月發售，定價 ¥4,800。此套件為マクロス 30 周年紀念商品企劃的一環。\n\n套件包含翼端追加武裝組件、背部強化推進器（Booster）及補給彈藥倉等零件，全部以精密塑膠件構成，安裝後大幅改變 VF-17 各版本的重武裝輪廓，可重現《マクロス7》劇中 Gamlin Kizaki 等角色在決戰時使用的超型態全武裝姿態。為 VF-17 系列完整收藏的必備配件，現已絕版。",
+    description: "VF-17 ナイトメア是《マクロス7》（1994）中新統合軍配備的次世代可變戦機，以多面角稜線構成的隱形機身造型聞名，劇中Diamond Force、Emerald Force等精銳部隊皆配備此機型投入與異星生命體相關威脅的戰鬥。本品為Yamato為旗下1/60完全可變形VF-17系列（涵蓋Diamond Force、Emerald Force等塗裝版本）設計的スーパーパック（Super Pack）選配擴充套件，2012年12月發售，定價¥4,800，屬マクロス30周年紀念商品企劃之一環，讓已收藏本體的玩家能進一步擴充機體樣貌。\n\n套件包含翼端追加武裝組件、背部強化推進器（Booster）及補給彈藥倉等零件，全數以精密塑膠件構成，安裝後可大幅改變VF-17各版本的重武裝輪廓，重現劇中角色在決戰場面使用的超型態全武裝姿態，強化整體的戰鬥氣勢與觀賞張力，令原本簡潔的隱形機身輪廓瞬間轉為厚重的重裝甲印象。本品為VF-17系列完整收藏不可或缺的必備配件，現已絕版，市面流通有限，是マクロス7周邊收藏中頗具人氣的追加逸品。",
     reviews: [
       {
         title: "Accessories for Yamato 1/60 VF-17: Super Pack Review — Scorched Earth Toys (Anymoon)",
@@ -4833,7 +4833,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://arcadiashop.jp/",
     imageUrl: "/images/yamato-vf1-super-strike-parts-48.jpg",
     tags: ["macross0007@中壢收多易", "マクロス", "VF-1", "バルキリー", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
-    description: "ヤマト（Yamato）為旗下 1/48 完全可變形 VF-1 バルキリー（Valkyrie）設計的官方強化零件組——スーパーパーツ＆ストライクパーツ（Super & Strike Parts），2003 年 8 月初版發售，定價 ¥5,800。\n\n套件完整重現《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984 劇場版）中 VF-1S/J/A 的超型態裝備，包含背部主噴射増速器（Booster）、腿部推進槽（Leg Propellant Tank）、臂部微型導彈艙（Micro-Missile Arm Pod）、背部光束加農炮架（Strike Backpack + Beam Cannon）及反応弾（Reaction Missile）配件。安裝後令整機展示效果完全蛻變，由標準型升格為最廣為人知的超全武裝形態，是 1/48 VF-1 系列最重要的周邊配件，也是《マクロス》模型收藏不可或缺的經典逸品。",
+    description: "《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984劇場版）是原作電視版故事的劇場重製版本，以更精緻的作畫與嶄新的機體設計重新演繹一条輝、早瀬未沙、林明美之間的三角關係及對抗ゼントラーディ軍的戰爭，VF-1 バルキリー（Valkyrie）為劇中統合軍主力可變戦機，具備戦鬥機・GERWALK・人型三段變形機構，是《マクロス》系列最具代表性的機體象徵。\n\n本品為Yamato為旗下1/48完全可變形VF-1系列設計的官方強化零件組——スーパーパーツ＆ストライクパーツ，2003年8月初版發售，定價¥5,800。套件完整重現DYRL劇場版中VF-1S/J/A的超型態裝備，包含背部主噴射增速器、腿部推進槽、臂部微型導彈艙、背部光束加農炮架及反応弾配件，安裝後整機由標準型升格為劇中最廣為人知的超全武裝形態，是1/48 VF-1系列最重要的周邊配件之一，也是《マクロス》模型收藏中不可或缺的經典逸品。整體而言，本套件不僅補完了1/48 VF-1系列的收藏層次，更完整呈現DYRL劇場版標誌性的視覺印象，是《マクロス》可變玩具收藏中承先啟後的重要一環。",
     reviews: [
       {
         title: "Yamato 1/48 Super/Strike Parts Review — Scorched Earth Toys (Anymoon)",
@@ -4864,7 +4864,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.tfsafari.com/products/yes-model-combiner-defensor-oversized-mtcm-guardia-full-set-5-in-1",
     imageUrl: "/images/yes-model-patron-saint.jpg",
     tags: ["トランスフォーマー", "Defensor", "守護神", "プロテクトボット", "Protectobots", "合體", "型模良品", "YES-MODEL", "五體合體"],
-    description: "G1《變形金剛》守護神（Defensor）的三方廠放大版，由型模良品（YES-MODEL）出品。以 Maketoys MTCM-04 Guardia 為設計基礎加以改良，由 YM-13 至 YM-17 共五體合體成守護神，合體後全高約 38cm。與 G1 Protectobots 精神相承，各成員具備警車、消防車等緊急車輛形態，改善了原版關節與材質缺陷，並同時再現戰鬥形態與合體展示，是大型合體系收藏玩具的佳作。",
+    description: "Defensor（守護神）是《變形金剛》G1世代中Protectobots（プロテクトボット）小隊五機合體而成的巨型機體，成員平時分別以警車、消防車、救護車、雲梯車及直升機等緊急救援載具形態活動，正義感強烈、以保護人類與都市安全為使命，是G1世代中相對罕見以「守護」而非純軍事對抗為主軸的合體英雄，與同期敵對的Constructicons合體體Devastator形成正邪對照。\n\n本品由台灣三方廠品牌型模良品（YES-MODEL）出品，以Maketoys MTCM-04 Guardia為設計基礎加以改良放大，由YM-13至YM-17共五個獨立機體組成，各自可完整變形為對應載具及人形機器人，並可合體為Defensor，合體後全高約38cm。相較原版及既有三方廠競品，本品針對關節結構與材質耐用度進行改善強化，兼顧單體戰鬥形態與合體展示的雙重可玩性，是大型合體系三方廠收藏玩具中完成度頗高的作品之一。整體而言，本作以親民的三方廠定價重現大型合體英雄的魅力，讓不易入手原廠絕版品的玩家也能享受五機合體的收藏樂趣，是Transformers三方廠市場中口碑穩健的作品之一。",
     reviews: [],
     youtube: [
       {
@@ -4889,7 +4889,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3010/",
     imageUrl: "/images/mgex-unicorn-gundam-ver-ka.jpg",
     tags: ["Gunpla", "MGEX", "ユニコーンガンダム", "Ver.Ka", "バンダイスピリッツ", "1/100", "LED", "発光", "変形", "RX-0"],
-    description: "BANDAI SPIRITS 全新「MGEX」（Master Grade Extreme）品牌首彈，以「極限發光機構」為主題，重現 RX-0 獨角獸鋼彈的サイコフレーム（Psycho Frame）光效。全新採用「フレキシブル LED シート」，組裝簡便且節省空間，可同時實現變形、發光、變色、可動四大功能兼備。按鈕操作下，眼部與頭頂主攝像頭點亮，サイコフレーム 以赤／綠雙色脈動式發光，重現獨角獸模式（Unicorn Mode）與破壞模式（Destroy Mode）。比例全身由カトキハジメ全程監修，附機庫造型展示底座及三塊護盾零件，可重現最終決戰場景。是慶祝 GUNPLA 40 週年的里程碑作品，也是史上最高規格的 1/100 比例獨角獸鋼彈模型。",
+    description: "RX-0 ユニコーンガンダム出自《機動戦士ガンダムUC》，是U.C.0096年拉普拉斯事變核心的傳說機體，內建可感應駕駛員精神狀態的サイコフレーム（Psycho Frame），平時以純白「Unicorn Mode」待機，戰鬥激化時角部展開、機體發光轉為赤紅色「Destroy Mode」，象徵全機性能全開的爆發狀態，是新世紀高達作品中人氣最高的機體之一。\n\n本品為BANDAI SPIRITS全新「MGEX」（Master Grade Extreme）品牌首彈，以「極限發光機構」為主題，全新採用可彎折的フレキシブルLEDシート，組裝簡便且大幅節省內部空間，同時實現變形、發光、變色、可動四大功能兼備。按鈕操作下眼部與頭頂主攝像頭點亮，サイコフレーム以赤、綠雙色脈動式發光，完整重現Unicorn Mode與Destroy Mode的機構切換。全身比例由高達設計師カトキハジメ全程監修，附機庫造型展示底座及三塊護盾零件可重現最終決戰場景，是慶祝GUNPLA 40週年的里程碑作品，也是史上規格最高的1/100比例獨角獸鋼彈模型。",
     reviews: [
       {
         title: "【開箱】MGEX 獨角獸高達 Unicorn Gundam Ver.Ka 5個必買理由",
@@ -4930,7 +4930,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://toys.tfw2005.com/multipack-name/tfc-toys-sg-perseus",
     imageUrl: "/images/tfc-toys-sg-perseus.jpg",
     tags: ["トランスフォーマー", "Devastator", "TFC Toys", "Shattered Glass", "SG", "合體", "珀修斯", "Perseus", "六體合體"],
-    description: "G1《變形金剛》毀滅者（Devastator）的三方廠六體合體玩具，由台灣品牌 TFC Toys 出品，為其 Hercules（海格力士）系列的 Shattered Glass（SG）限定版。採用鏡像宇宙「碎鏡玻璃」設定中的純白色塗裝，重現 SG 版毀滅者造型。套組由 Dr. Krank、Structor、Heavylabor、Neckbreaker、Exgraver、Madblender 六隻建設機器人個體組成，合體後高約 35cm。全球限量 2,012 套並附專屬編號，是三方廠 Transformers 收藏中稀有度極高的限定合體組合。",
+    description: "Devastator（毀滅者）是《變形金剛》G1世代中由六名Constructicons建設機器人小隊合體而成的巨型戦鬥機體，力大無窮、以壓倒性蠻力著稱，是狂派陣營早期最具代表性的合體反派之一。Shattered Glass（碎鏡玻璃）為官方衍生的鏡像宇宙設定，其中博派與狂派陣營善惡立場完全對調，故該設定下的角色常以純白、鏡面等異於本傳的塗裝呈現「正邪反轉」的視覺意象。\n\n本品為台灣三方廠品牌TFC Toys推出的六體合體玩具，屬其Hercules（海格力士，即Devastator對應系列）產品線下的Shattered Glass限定版本，採用鏡像宇宙設定中的純白色塗裝重新演繹。套組由Dr. Krank、Structor、Heavylabor、Neckbreaker、Exgraver、Madblender六隻建設機器人個體組成，各自可獨立變形，合體後全高約35cm。全球限量2,012套並附專屬編號，是三方廠Transformers收藏品中稀有度相當高的限定合體組合。",
     reviews: [],
     youtube: [
       {
@@ -4954,7 +4954,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2500370001001",
     imageUrl: "/images/super-minipla-tenryujin.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "天竜神", "天龍神", "Tenryujin", "食玩", "バンダイスピリッツ", "合體", "FINAL", "P-Bandai限定"],
-    description: "BANDAI SPIRITS「SUPER MINIPLA」系列出品，食玩形式的《勇者王GaoGaiGar FINAL》天竜神（天龍神）完整套裝。套裝包含 GBR-8 光竜（光龍）與 GBR-9 暗竜（暗龍）的各自戰機形態、勇者機器人形態，以及二者合體後的天竜神形態，完整還原動畫中的女性型機體造型。食玩規格下達到精緻的組裝完成度，無需上色即可重現細節。為 Premium Bandai 限定品，2020 年 2 月出貨，是 GaoGaiGar FINAL 系列機體收藏的重要一員。",
+    description: "《勇者王ガオガイガー》系列以「勇者機器人」對抗宇宙侵略種族ゾンダー為主軸，主角勇者凱撒（GaoGaiGar）與各式支援機體共同組成守護地球的最終防線，續篇《勇者王ガオガイガーFINAL》延續原班人馬展開最終決戰，天竜神（天龍神）是劇中由GBR-8光竜與GBR-9暗竜兩架姊妹機合體而成的女性型巨大機器人，兼具光暗兩種力量意象，是系列中設計風格獨特、極具人氣的支援型機體之一。\n\n本品為BANDAI SPIRITS「SUPER MINIPLA」食玩模型系列出品，該系列以平價食玩規格重現機器人動畫的精細變形合體機構為賣點。完整套裝涵蓋GBR-8光竜與GBR-9暗竜各自的戰機形態、勇者機器人形態，以及二者合體後的天竜神形態，完整還原動畫中纖細流線的女性型機體造型。食玩規格下仍達到相當精緻的組裝完成度，多處採用成形色分色設計，無需額外上色即可重現細節，變形合體機構亦力求貼近動畫演出。本品為Premium Bandai限定品，2020年2月出貨，是GaoGaiGar FINAL系列機體收藏中重要的一員。",
     reviews: [
       {
         title: "Super Mini Pla Tenryujin Review",
@@ -4978,7 +4978,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/N2561745001001",
     imageUrl: "/images/smp-srx-tenka-muteki.jpg",
     tags: ["etc0001@中壢收多易", "SMP", "スーパーロボット大戦", "Super Robot Wars", "SRX", "天下無敵", "オプションパーツ", "バンダイスピリッツ", "食玩", "P-Bandai限定", "OG"],
-    description: "BANDAI SPIRITS「SMP」（Shokugan Modeling Project / 食玩模型企劃）系列出品的《超級機械人大戰OG》SRX 天下無敵武裝配件套組。套組內含 SRX「天下無敵劍」效果零件、R-1 火焰翼展開效果零件、R-GUN Powered 專用支架等，讓已持有 SMP SRX 本體組（R-1、R-2 Powered、R-3 Powered）的玩家能完整重現動畫中最終決戰「天下無敵の剣」場景。為 Premium Bandai（魂限）限定品，2023 年 5 月出貨，本體不含於組包內需另行購買。",
+    description: "《スーパーロボット大戦》系列的原創劇情線「OG（Original Generations）」以R系列駕駛員與其座機為主軸，跳脫跨作品聯動框架自成一套完整原創世界觀，SRX為劇中由R-1、R-2 Powered、R-3 Powered三機合體而成的最終決戰用巨大機體，象徵R小隊三名駕駛員羈絆凝聚而成的力量，是OG世界觀中人氣長期居高不下的招牌合體機體之一，也是系列吉祥物般的存在。「天下無敵の剣」為SRX在特定劇情高潮中展現的必殺絕招演出，象徵其戰力的極致展現。\n\n本品為BANDAI SPIRITS「SMP」（食玩模型企劃）系列推出的SRX武裝配件擴充套組，內含重現「天下無敵の剣」效果所需的特效零件、R-1火焰翼展開效果零件，以及R-GUN Powered專用支架等配件，讓已持有SMP SRX本體套組的玩家能不必額外改造即可完整重現動畫中最終決戰場景的必殺演出姿態。本品為Premium Bandai（魂限）限定品，2023年5月出貨，本體機體不含於此組包內，需另行購買，屬於典型的特效追加型擴充商品。",
     reviews: [
       {
         title: "SMP SRX 天下無敵のオプションパーツセット レビュー",
@@ -5009,7 +5009,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/81332",
     imageUrl: "/images/moshow-weiguogong-mct-ap04.jpg",
     tags: ["先祖效應", "衛國公", "魔showtoys", "國創機甲", "合金", "MCT-AP04", "Noble Class"],
-    description: "「至臻級·衛國公 MCT-AP04」是魔showtoys（模壽）旗下原創機甲世界觀「先祖效應」系列的第四號亞太戰區機體，屬於系列中最高規格的 Noble Class（貴族級）塗裝完成品。機體以唐代名將李靖為靈能核心，塗裝延續系列標誌性的「尚紅」配色，象徵大唐軍魂，核心動力來源為機體特有的「玄門磁極引擎」。全高約28公分，機身骨架採用合金材料搭配 ABS、POM 混合結構，整機重量約1.1公斤（不含底座及特效件），零件總數超過1500個，可動軸數多達約108處，是同類國創機甲成品模型中可動性與精密度都相當突出的作品。\n\n衛國公在設定上具備戰場支援機能，能在一定範圍內提升友軍靈能機甲駕駛員的腦波同步率，屬於高速支援型主力機，曾於劇情中被派往俄羅斯協助當地部隊抵禦「北美軍事同盟」的入侵。玩具本體隨附大量可替換武裝、裝甲配件與特效零件，並內建 LED 燈效系統，可自由拼裝出多種戰鬥姿態，展示效果豐富。\n\n本作於2024年底開放預訂，官方定價890元人民幣，2025年第一季正式出貨。作為「先祖效應」系列少見的至臻級規格產品，衛國公上市後在中國原創機甲玩具社群引發不少討論，也讓魔showtoys在高階金屬骨架可動玩具領域的技術力受到關注。",
+    description: "「先祖效應（Progenitor Effect）」是魔showtoys（模壽）推出的原創機甲世界觀，設定以華夏歷史名將的精神為核心驅動巨型「靈能機甲」，讓國創機甲題材與中國歷史人物形象結合，衛國公即取材自唐代開國名將李靖，「衛國公」正是其歷史封號，藉此呼應機體守護家國的戰略定位。\n\n「至臻級·衛國公 MCT-AP04」為系列第四號亞太戰區機體，屬於系列最高規格的Noble Class（貴族級）塗裝完成品，延續系列標誌性的「尚紅」配色象徵大唐軍魂，核心動力設定為「玄門磁極引擎」。全高約28公分，骨架採用合金搭配ABS、POM混合結構，整機重量約1.1公斤（不含底座及特效件），零件總數超過1500個，可動軸數多達約108處，可動性與精密度在同類國創機甲成品中相當突出。設定上具備戰場支援機能，能提升友軍靈能機甲駕駛員的腦波同步率，曾於劇情中被派往俄羅斯協助抵禦「北美軍事同盟」入侵。玩具隨附大量可替換武裝、裝甲配件與特效零件，並內建LED燈效系統。本作2024年底開放預訂，官方定價890元人民幣，2025年第一季正式出貨，是魔showtoys高階金屬骨架可動玩具技術力的代表作之一。",
     reviews: [
       {
         title: "至臻級·衛國公：「尚紅」經典配色，108處可動關節",
@@ -5050,7 +5050,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az12_geno_breaker/",
     imageUrl: "/images/zoids-az12-geno-breaker.jpg",
     tags: ["ゾイド", "ジェノブレイカー", "AZ-12", "EZ-034", "タカラトミー", "1/72", "レイヴン"],
-    description: "「AZ-12 ジェノブレイカー」是TAKARA TOMY「ADVANCED Zi」系列（AZ系列）中，暴龍型機體「ジェノブレイカー」睽違多年後的最新復刻重製版，套件編號為 EZ-034，屬於《機動戰士高達》世界觀外、ZOIDS 系列「守護者部隊（Guardian Force）」篇章代表機體之一，由駕駛員「雷邦（レイヴン）」駕駛。完成品比例為1/72，尺寸約為寬150mm×高220mm×長320mm，機體設定全長23.0公尺、全高13.7公尺、重量137.5噸、最高速度345km/h，是暴龍型ゾイド中攻擊力與速度兼具的高機動主力機。\n\n本次AZ-12版本延續系列一貫的電動馬達步行機構，頭部、尾部與全身動作能隨步行同步連動，展現ゾイド特有的生物感律動；機體背部標誌性的巨大鐮刀武裝「Exbreaker（エクスブレイカー）」也採連動機構，會隨步行動作自動開闔，是本次改版的最大賣點之一。套件同時附有可切換為普通配色的替換零件，以及與姊妹機「ジェノザウラー」共通的零件，讓玩家能自行拼裝出紅色涂装的ジェノザウラー，並隨附1/72比例的雷邦（GF版）駕駛人偶、暗影（シャドー）組織體人偶（含可替換翼部零件）及一般士兵人偶，組裝需使用1顆3號電池（另售）。\n\n作为近年ZOIDS品牌復興浪潮中備受矚目的旗艦級作品，本作於2025年8月6日開放預訂，預定2026年3月28日正式發售，建議售價19,800日圓（含稅），是「AZ系列」重製陣容中人氣與話題度都相當高的一款。",
+    description: "《機動戦士ゾイド》系列中，「守護者部隊（Guardian Force）」篇章描述反派角色レイヴン（雷邦）駕駛暴龍型機體與主角バン率領的新生共和國守護者部隊對抗，ジェノブレイカー是レイヴン在該篇章中的強化座機，由原本的ジェノザウラー進一步改造而成，攻擊力與速度兼具，是該篇章中令玩家印象深刻的反派主力機之一。\n\n「AZ-12 ジェノブレイカー」是TAKARA TOMY「ADVANCED Zi」系列（AZ系列）中暴龍型機體睽違多年的最新復刻重製版，套件編號EZ-034，完成品比例1/72，尺寸約寬150mm×高220mm×長320mm，設定全長23.0公尺、全高13.7公尺、重量137.5噸、最高速度345km/h。延續系列一貫的電動馬達步行機構，頭部、尾部與全身動作隨步行同步連動；背部標誌性巨大鐮刀武裝Exbreaker亦採連動機構會隨步行自動開闔，為本次改版最大賣點。另附替換零件可拼裝出紅色ジェノザウラー塗裝，隨附レイヴン（GF版）、シャドー人偶及一般士兵人偶，需1顆3號電池（另售）。2025年8月6日開放預訂，預定2026年3月28日發售，定價19,800日圓（含稅），是ZOIDS品牌復興浪潮中話題度極高的旗艦作品。",
     reviews: [
       {
         title: "レビュー599 AZ-12 ジェノブレイカー",
@@ -5090,7 +5090,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810918851/",
     imageUrl: "/images/zoids-az01ex-blade-liger-leon.jpg",
     tags: ["ゾイド", "ブレードライガー", "AZ-01EX", "タカラトミー", "1/72", "タカラトミーモール限定"],
-    description: "AZ-01ブレードライガーのタカラトミーモール限定色替版，取材自レオン・トロス専用機。標準版の青系配色から赤系配色に變更し、より獅子（ライオン）らしいシルエットを強調したモールドアレンジを一部採用。電動馬達步行機構、E-シールドジェネレーター、腿部コンプレッサー等基本ギミックは踏襲しつつ、1/72比例レオン人偶（未塗裝）が付属。",
+    description: "《機獣新世紀ZOIDS》是ZOIDS品牌世紀交替代表作，描述主角バン・フライハイト意外覺醒沉眠古代機體ブレードライガー，捲入共和國與帝国之間的戰爭。ブレードライガー以獅子造型與高機動突擊能力著稱；レオン・トロス為劇中另一角色，亦曾駕駛此機型投入戰鬥，本品即取材自其專屬配色版本。作為AZ-01ブレードライガー的タカラトミーモール限定色替版，塗裝由標準版的藍系配色變更為紅系配色，並在部分模組上採用強調獅子（ライオン）猛獸感的塗裝分色處理，突顯與標準版不同的視覺個性。\n\n機構方面延續AZ-01本體的電動馬達步行機構，讓頭部、尾部與全身動作隨步行同步連動，充分展現貓科猛獸躍動的步態；同時保留原作標誌性的E-シールドジェネレーター能量護盾發生器及腿部増速機（コンプレッサー）等機構特色。本品隨附1/72比例未塗裝レオン人偶，供玩家自行上色重現專屬駕駛場景，是AZ系列眾多色替限定商品中頗受收藏者關注的一款，也是喜愛角色配色差異玩家的收藏重點。",
     reviews: [],
     youtube: [
       {
@@ -5114,7 +5114,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/support/manual/zoids/2024121114807.html",
     imageUrl: "/images/zoids-az02ex-liger-zero-ray-greg.jpg",
     tags: ["ゾイド", "ライガーゼロ", "AZ-02EX", "タカラトミー", "1/72", "共和国カラー", "限定品"],
-    description: "小学館復刻書籍「機獣新世紀ZOIDS CORE BOX」限定同梱商品，取材自平成コロコロ連載《ゾイドバトルストーリー》仕様主角機レイ・グレック專屬「ライガーゼロ」共和国カラー版。書籍本體收錄全4巻+新5巻ゾイド公式ファンブック復刻版及セイスモサウルスパノラマポスター等特典，AZ-02EX本體隨附1/72比例レイ・グレック人偶，限定8,000套販售，無フェニックスユニット同梱。",
+    description: "《ゾイドバトルストーリー》為平成コロコロ連載中的漫畫作品，講述新生共和國與帝国之間持續延伸的戰爭故事，レイ・グレック為該作主角，駕駛ライガーゼロ投入戰鬥，共和国カラー版即取材自其座機的正式軍方配色設定，與電視動畫版本的塗裝略有不同，呈現漫畫連載時期獨有的視覺印象，也讓熟悉漫畫版故事的讀者格外有共鳴。\n\n本品為小学館復刻書籍「機獣新世紀ZOIDS CORE BOX」的限定同梱商品，書籍本體收錄全4巻加新5巻的ゾイド公式ファンブック復刻版，以及セイスモサウルスパノラマポスター等特典，對漫畫世代讀者具高度收藏價值。隨附的AZ-02EXライガーゼロ本體採共和国カラー塗裝，並附1/72比例レイ・グレック人偶供玩家自行組裝上色。本商品限定8,000套販售，售罄即不再補貨，且此版本不含通常另售的フェニックスユニット強化裝備，屬相對稀有的紙媒同梱限定商品，對書籍與模型雙重收藏者極具吸引力。整體而言，本商品以書籍同梱的形式而非單獨販售，讓ZOIDS模型收藏與漫畫原作閱讀體驗合而為一，是紙媒與立體模型跨界合作的特色企劃之一。",
     reviews: [
       {
         title: "レビュー197 ゾイドコアボックス付属 ライガーゼロ レイ・グロック仕様（共和国カラー） | しょくGUN",
@@ -5144,7 +5144,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810099116/",
     imageUrl: "/images/zoids-az02ex2-liger-zero-empire.jpg",
     tags: ["ゾイド", "ライガーゼロ", "AZ-02EX2", "タカラトミー", "1/72", "T-SPARK ZONE限定", "ガイロス帝国"],
-    description: "「AZ-02 ライガーゼロ」的T-SPARK ZONE流通限定色替版，以黑色為基底搭配紅金色ゼロアーマー，重現ガイロス帝国軍運用時的配色設定。電動馬達重現貓科生物步行動作，眼部與胸部LED發光，ゼロアーマー可拆卸恢復「素體」状態，並附屬1/72比例駕駛人偶（未塗裝）。",
+    description: "ライガーゼロ原為新生共和國陣營主角バン的座機，以CAS換裝系統著稱可組合多種強化形態，是ZOIDS系列中最具代表性的機體之一。ガイロス帝国為ZOIDS世界觀中長年與共和國對抗的敵對勢力，雙方陣營長期爭奪各式強力ゾイド機體及戰術資源，本品即以帝国軍運用ライガーゼロ的假想配色為題材，呈現「若敵方陣營擄獲並運用此機型」的另類設定樂趣。\n\n作為「AZ-02 ライガーゼロ」的T-SPARK ZONE流通限定色替版，塗裝以黑色為基底搭配紅金色ゼロアーマー，鮮明呼應ガイロス帝国軍慣用的深色軍武美學。機構上延續電動馬達重現貓科生物特有的躍動步行動作，眼部與胸部內建LED發光效果；標誌性的ゼロアーマー可自由拆卸，恢復為「素體」狀態便於切換不同強化裝備。本品另附屬1/72比例未塗裝駕駛人偶，供玩家自行上色重現帝国軍駕駛員形象，是AZ系列限定色替商品中頗具反差魅力的一款。整體而言，本商品透過配色翻轉呈現「若素體被敵方擄獲」的假想情境，為玩家提供跳脫正史設定的另類收藏樂趣，也豐富了ライガーゼロ系列色替版本的多樣性。",
     reviews: [],
     youtube: [
       {
@@ -5168,7 +5168,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810058755/",
     imageUrl: "/images/zoids-az02ex3-type-zero-armor.jpg",
     tags: ["ゾイド", "ライガーゼロ", "AZ-02EX3", "タカラトミー", "1/72", "タカラトミーモール限定", "オプションパーツ"],
-    description: "為AZ系列「ライガーゼロ」本體另售追加的「タイプゼロアーマー」，此為AZ-02初版原本隨附之ゼロアーマー的單獨販售版本，隨附轉接零件可安裝於AZ系列各款ライガーゼロ素體（各自另售），是三種強化裝甲形態（シュナイダー、イエーガー、パンツァー）的原型基礎裝備。",
+    description: "タイプゼロアーマー是ライガーゼロ標誌性CAS換裝系統中的原始形態裝甲，可依戰況需求進一步替換成不同強化裝甲以應對各種戰術情境。本品為AZ系列「ライガーゼロ」本體另售追加的強化裝備擴充零件，內容即為AZ-02初版原本隨附的ゼロアーマー單獨販售版本。透過隨附的轉接零件，可安裝於AZ系列各款ライガーゼロ素體（各自另售），讓已購入不同色替版本素體的玩家能自由組裝出標準的ゼロアーマー形態，實現「一機多色」的收藏樂趣。\n\n此ゼロアーマー同時也是原作設定中三種強化裝甲形態——シュナイダー（迅雷型）、イエーガー（狩獵型）、パンツァー（重裝型）——共通的原型基礎裝備，收藏此擴充零件等同補齊CAS系統的核心起點。對於已擁有AZ系列多台ライガーゼロ素體、希望重現不同強化裝甲切換樂趣的玩家而言，是相當實用且必要的補完性商品，也是體驗CAS系統核心魅力不可或缺的一環。整體而言，本商品雖為單純的裝甲配件而非完整機體，卻是理解並體驗CAS系統設計精髓不可或缺的關鍵一件，對深度玩家而言具有補完收藏的實質意義。",
     reviews: [],
     youtube: [],
   },
@@ -5186,7 +5186,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810935056/",
     imageUrl: "/images/zoids-az03ex-murasame-liger-original.jpg",
     tags: ["ゾイド", "ムラサメライガー", "AZ-03EX", "タカラトミー", "1/72", "T-SPARK ZONE限定"],
-    description: "「AZ-03 ムラサメライガー」的T-SPARK ZONE流通限定色替版，以復古玩具原案的配色重新詮釋機身塗裝。標配兩種質感的「ムラサメブレード」大型武士刀——鍍層版與蓄光素材版可自由替換，暗處會發光，並附屬未塗裝駕駛人偶及專用展示台。",
+    description: "ムラサメライガー是ZOIDS系列中融合和風武者意象的獅子型機體，以大型日本刀武裝與稜角分明的裝甲造型著稱，在系列眾多獸型機體中獨具東方武士美學的辨識度，長年是玩家心目中造型最具個性的獸型機體之一。本品為「AZ-03 ムラサメライガー」的T-SPARK ZONE流通限定色替版，以復古玩具原案設計的配色重新詮釋機身塗裝，向系列早期設定畫稿致敬。\n\n標配兩種質感的大型武士刀「ムラサメブレード」——鍍層質感版與蓄光素材版可自由替換，蓄光版本在暗處會發出微光，提升展示時的視覺效果與戲劇張力。機構上延續電動馬達重現貓科生物步行動作，並保留可動式武士刀機構供玩家擺出拔刀突擊等經典姿勢。套組另附屬未塗裝駕駛人偶及專用展示台，方便玩家完整呈現武者機體的靜態展示效果，是AZ系列限定色替商品中頗具話題性的一款，也是喜愛復古配色玩家不容錯過的選擇。整體而言，本商品透過復古配色向系列早期設計致敬，讓資深玩家得以透過新規格重溫舊時印象，是色替限定商品中兼具懷舊情懷與收藏價值的一款。",
     reviews: [
       {
         title: "「ゾイド AZ-03 ムラサメライガー」レビュー ムラサメブレードによる大迫力アクション再現を可能とした待望の立体化（AZ-03同型基礎版評測）",
@@ -5216,7 +5216,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810959649/",
     imageUrl: "/images/zoids-az06ex-phoenix-republic.jpg",
     tags: ["ゾイド", "ライガーゼロフェニックス", "AZ-06EX", "タカラトミー", "1/72", "タカラトミーモール限定", "オプションパーツ"],
-    description: "「AZ-06 ライガーゼロフェニックス」火鳥型武裝「フェニックスユニット」的共和国仕様色替單售版，需搭配另售的AZ系列ライガーゼロ素體（AZ-02或AZ-06）組合，可重現ライガーゼロフェニックス共和国仕様形態，合體時翼部可隨步行連動上下擺動（搭配AZ-02時翼部連動機構不作動）。附屬1/72比例駕駛人偶（未塗裝）。",
+    description: "フェニックスユニット是ライガーゼロ系列中以火鳥（不死鳥）為造型意象的強化武裝套件，安裝後可將ライガーゼロ升格為「ライガーゼロフェニックス」形態，是ZOIDS世界觀中新生共和國陣營運用的高階強化裝備之一，象徵浴火重生、飛翔戰場的威猛意象，也是系列中人氣長期居高不下的強化形態之一。\n\n本品為「AZ-06 ライガーゼロフェニックス」火鳥型武裝「フェニックスユニット」的共和国仕様色替單售版，需搭配另售的AZ系列ライガーゼロ素體（AZ-02或AZ-06）組合使用，方能完整重現ライガーゼロフェニックス共和国仕様形態。合體時翼部可隨步行動作連動上下擺動，重現振翅欲飛的動態效果，惟搭配AZ-02素體時翼部連動機構不會作動，僅能靜態展示。本品另附屬1/72比例未塗裝駕駛人偶，供玩家自行組裝上色，是AZ系列強化擴充商品中還原度頗高的一款，對熱衷收集不同強化形態的玩家極具吸引力。整體而言，本商品讓玩家得以在既有ライガーゼロ素體基礎上，體驗火鳥型強化武裝帶來的造型與機構變化，是豐富AZ系列收藏層次的重要擴充選項之一。",
     reviews: [],
     youtube: [],
   },
@@ -5234,7 +5234,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810072799/",
     imageUrl: "/images/zoids-az10ex-sea-panther-dark-army.jpg",
     tags: ["ゾイド", "シーパンツァー", "AZ-10EX", "タカラトミー", "1/72", "T-SPARK ZONE限定"],
-    description: "「AZ-10 シーパンツァー」的T-SPARK ZONE流通限定色替版，以《ゾイドバトルストーリー》暗黒軍設定為靈感採用黑色為基底塗裝，腳部及感應眼部零件使用蓄光素材，闇夜中會發光。延續電動馬達步行機構重現寄居蟹橫向爬行姿態，並附屬未塗裝一般兵士人偶。",
+    description: "シーパンツァー是ZOIDS系列中以寄居蟹（ヤドカリ）為原型的水陸両用機體，在系列眾多陸戰、飛行機體中獨具甲殻類的特殊辨識度。暗黒軍為《ゾイドバトルストーリー》世界觀中曾一度威脅共和國與帝国雙方勢力的神秘軍事組織，其麾下機體多以深沉色調呈現陰謀與威脅感，在故事中扮演攪亂戰局的第三方勢力角色。\n\n本品為「AZ-10 シーパンツァー」的T-SPARK ZONE流通限定色替版，以暗黒軍設定為靈感採用黑色為基底塗裝，腳部及感應眼部零件另使用蓄光素材，闇夜中會發出微光，強化陰暗詭譎的氛圍。機構上延續電動馬達步行機構，重現寄居蟹特有的橫向爬行步態；套組並附屬未塗裝一般兵士人偶，供玩家自行組裝上色重現暗黒軍士兵形象。作為系列中少見的甲殻類型機體限定色替版，本品在ZOIDS收藏圈中具備一定的話題性與稀有度，也是暗黒軍設定愛好者的重點收藏對象。整體而言，本商品以少見的暗黒軍設定角度重新詮釋シーパンツァー，為系列色替商品增添陰暗神秘的另一種收藏樂趣，也讓玩家得以一窺《ゾイドバトルストーリー》中第三方勢力的機體美學。",
     reviews: [],
     youtube: [],
   },
@@ -5252,7 +5252,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810072508/",
     imageUrl: "/images/zoids-az14ex-liger-zero-x-unit.jpg",
     tags: ["ゾイド", "ライガーゼロイクス", "AZ-14EX", "タカラトミー", "1/72", "T-SPARK ZONE限定", "オプションパーツ"],
-    description: "「AZ-14 ライガーゼロイクス」的イクスユニット部分單獨販售版，為T-SPARK ZONE流通限定商品，需搭配另售的AZ系列ライガーゼロ素體（如AZ-02EX2帝国仕様等）組合方能重現完整「ライガーゼロイクス」形態。肩部護蓋、鰭、ドラムコンデンサー、アースユニット及背部エレクトロンドライバー等零件皆可動，附屬1/72比例一般士兵人偶（未塗裝）。",
+    description: "イクスユニット是ライガーゼロ系列強化裝備之一，安裝後可將ライガーゼロ升格為「ライガーゼロイクス」形態，配備電子戰相關裝備，強調干擾與探測能力，在ZOIDS世界觀的多種ライガーゼロ強化形態中屬於偏向支援與特殊戰術運用的一型，與強調火力或機動的其他強化形態形成鮮明區隔。\n\n本品為「AZ-14 ライガーゼロイクス」的イクスユニット部分單獨販售版，屬T-SPARK ZONE流通限定商品，需搭配另售的AZ系列ライガーゼロ素體（如AZ-02EX2帝国仕様等）組合，方能重現完整「ライガーゼロイクス」形態。裝備細節上，肩部護蓋、鰭、ドラムコンデンサー（鼓型電容器）、アースユニット及背部エレクトロンドライバー等零件皆可個別動作，重現原作電子戰裝備的機械質感。套組另附屬1/72比例未塗裝一般士兵人偶，供玩家自行組裝上色，是AZ系列擴充配件中專攻電子戰形態還原的一款，補完了ライガーゼロ強化形態收藏的重要一塊拼圖。整體而言，本商品讓玩家得以體驗ライガーゼロ電子戰形態獨特的機構設計與造型變化，是深化AZ系列強化裝備收藏廣度不可或缺的一件擴充商品。",
     reviews: [],
     youtube: [
       {
@@ -5276,7 +5276,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810072492/",
     imageUrl: "/images/zoids-az16ex-jager-unit-original.jpg",
     tags: ["ゾイド", "ライガーゼロイエーガー", "AZ-16EX", "タカラトミー", "1/72", "タカラトミーモール限定", "オプションパーツ"],
-    description: "「AZ-16 ライガーゼロイエーガー」的イエーガーユニット部分色替單售版，重現當年舊版玩具的復古配色，為タカラトミーモール限定商品，需搭配另售的AZ系列ライガーゼロ素體組合。背部大型離子推進器（イオンブースター）可隨步行連動展開，マルチブレードアンテナ、対物ブレードセンサー、サイドスラスター等零件均可手動可動。",
+    description: "イエーガーユニット是ライガーゼロCAS換裝系統下的強化裝備之一，安裝後即成「ライガーゼロイエーガー」形態，強調高速突擊與狩獵（イエーガー，德語「獵人」之意）風格的戰術運用，背部搭載大型離子推進器展現速度優勢，是CAS系統中偏重速度型戰術定位的代表形態。\n\n本品為「AZ-16 ライガーゼロイエーガー」的イエーガーユニット部分色替單售版，重現當年舊版玩具的復古配色，向系列早期商品設計致敬，屬タカラトミーモール限定商品，需搭配另售的AZ系列ライガーゼロ素體組合使用方能完整呈現該形態。機構方面，背部大型離子推進器（イオンブースター）可隨步行動作連動展開，重現高速突進的躍動感；マルチブレードアンテナ、対物ブレードセンサー、サイドスラスター等細部零件則可供玩家手動調整動作角度，強化靜態展示的姿態變化。作為ライガーゼロ強化形態收藏拼圖中的一塊，本品對已擁有其他色替素體的玩家具補完價值，也是喜愛復古配色玩家的收藏首選。整體而言，本商品透過復古配色向系列早期商品設計致敬，讓玩家得以同時體驗高速突擊形態的機構魅力與懷舊視覺印象，是色替擴充商品中兼具情懷與可玩性的一款。",
     reviews: [],
     youtube: [],
   },
@@ -5294,7 +5294,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoids40th/az01.html",
     imageUrl: "/images/zoids-az01-blade-liger.jpg",
     tags: ["ゾイド", "ブレードライガー", "AZ-01", "タカラトミー", "1/72", "ZOIDS 40周年"],
-    description: "為紀念ZOIDS品牌誕生40週年推出的「40TH ANNIVERSARY ZOIDS」第一彈，取材自《機獣新世紀ZOIDS》主角バン・フライハイト座機「ブレードライガー」。電動馬達步行機構讓頭部、尾部與全身動作隨步行同步連動，展現貓科猛獸的躍動感，並重現原作標誌性的「E-シールドジェネレーター」、腿部増速機（コンプレッサー）及背部火箭推進器等機構，是AZ系列開創「ムービングキット」路線的紀念性首彈。",
+    description: "《機獣新世紀ZOIDS》是ZOIDS品牌重要的世紀交替代表作，描述主角バン・フライハイト意外覺醒沉眠古代機體ブレードライガー，捲入共和國與帝国之間的戰爭，並展開一連串冒險。ブレードライガー以獅子造型與高機動突擊能力著稱，配備標誌性能量護盾及背部雙刃，是系列史上人氣最高、辨識度最強的機體之一，多年來也常被視為ZOIDS品牌的招牌形象機體。\n\n本品為紀念ZOIDS品牌誕生40週年推出的「40TH ANNIVERSARY ZOIDS」系列第一彈，電動馬達步行機構讓頭部、尾部與全身動作隨步行同步連動，充分展現貓科猛獸特有的躍動感；同時重現原作標誌性的E-シールドジェネレーター能量護盾發生器、腿部増速機（コンプレッサー）及背部火箭推進器等經典機構。作為AZ系列開創「ムービングキット」（可動步行玩具）路線的紀念性首彈，本作在ZOIDS復興浪潮中具有指標性的歷史地位，也奠定了後續系列作品的機構設計基調。整體而言，本作不僅是週年紀念系列的開端之作，更透過新一代電動化機構重新演繹了系列最具人氣的獅子型機體，對新舊玩家而言都是極具代表性的入門與收藏之選。",
     reviews: [],
     youtube: [
       {
@@ -5318,7 +5318,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoids40th/az02.html",
     imageUrl: "/images/zoids-az02-liger-zero.jpg",
     tags: ["ゾイド", "ライガーゼロ", "AZ-02", "タカラトミー", "1/72", "ZOIDS 40周年"],
-    description: "「40TH ANNIVERSARY ZOIDS」第二彈，取材自《ゾイド新世紀／ZERO》系列主角機「ライガーゼロ」。標誌性的CAS（Changing Armor System）換裝系統可組合出多種強化形態，電動馬達重現貓科生物躍動的步行動作，眼部與Zoid Core內建LED發光機構，並可重現「イオンブースター」、「ストライクレーザークロー」等原作經典機構特效。",
+    description: "《ゾイド新世紀／ZERO》是ZOIDS系列中知名度極高的續篇作品，主角バン・フライハイト駕駛全新機體ライガーゼロ，以模組化的CAS（Changing Armor System）換裝系統為最大特色，可依戰況搭配シュナイダー、イエーガー、パンツァー等不同強化裝甲，靈活切換戰術定位，是系列中最具代表性也最受玩家喜愛的機體之一，其百變的裝甲組合概念亦成為後續多款周邊商品開發的核心賣點。\n\n本品為「40TH ANNIVERSARY ZOIDS」系列第二彈，標誌性的CAS系統得以延續重現，可組合出多種強化形態展示；電動馬達重現貓科生物躍動的步行動作，眼部與Zoid Core內建LED發光機構，強化整體臨場感。並可重現「イオンブースター」、「ストライクレーザークロー」等原作經典機構特效，讓玩家在把玩過程中體驗劇中招牌戰鬥演出，是ZOIDS品牌週年紀念陣容中人氣長期居高不下的一款，也是眾多後續強化裝備擴充商品的核心素體。整體而言，本作憑藉CAS系統的高度延展性，成為後續多款強化裝備擴充商品的核心素體，也讓玩家得以透過不斷組合搭配延伸收藏樂趣，是週年紀念系列中最具擴充潛力的一款。",
     reviews: [],
     youtube: [
       {
@@ -5342,7 +5342,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoids40th/az03.html",
     imageUrl: "/images/zoids-az03-murasame-liger.jpg",
     tags: ["ゾイド", "ムラサメライガー", "AZ-03", "タカラトミー", "1/72", "ZOIDS 40周年"],
-    description: "「40TH ANNIVERSARY ZOIDS」第三彈「ムラサメライガー」，以和風武者造型與大型日本刀武裝為特色，是AZ系列中稜角與武裝密度最高的一款。電動馬達重現貓科生物步行動作，並附屬大型可動式武士刀，可重現拔刀突擊等原作經典姿勢，機身塗裝以深藍與金色搭配呈現武者氣息。",
+    description: "ムラサメライガー是ZOIDS系列中融合和風武者意象的獅子型機體，設定上以精湛劍術與高速突擊聞名，在系列眾多獸型機體設計中獨樹一格，展現東洋武士美學與機械科幻的融合巧思，是週年紀念陣容中造型辨識度最高的機體之一。\n\n本品為「40TH ANNIVERSARY ZOIDS」系列第三彈，以和風武者造型與大型日本刀武裝為特色，是AZ系列中稜角與武裝密度最高的一款。電動馬達重現貓科生物步行動作，令頭部、尾部與全身動作隨步行同步連動；並附屬大型可動式武士刀，供玩家重現拔刀突擊等原作經典姿勢，展現一擊必殺的凌厲氣勢。機身塗裝以深藍與金色搭配呈現濃厚的武者氣息，整體造型辨識度極高，是週年紀念系列中兼具視覺張力與可玩性的代表作品之一，也是後續多款色替限定版本共通使用的核心素體。整體而言，本作以獨樹一格的和風武者美學在週年紀念陣容中脫穎而出，其造型與武裝設計也成為後續多款色替限定版本延伸發展的重要基礎素體。本作作為週年紀念系列中造型最具個性的一員，也常成為玩家向他人介紹ZOIDS獸型機體多樣性時的首選示範作品。",
     reviews: [],
     youtube: [
       {
@@ -5366,7 +5366,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoids40th/az04.html",
     imageUrl: "/images/zoids-az04-shield-liger.jpg",
     tags: ["ゾイド", "シールドライガー", "AZ-04", "タカラトミー", "1/72", "ZOIDS 40周年"],
-    description: "「40TH ANNIVERSARY ZOIDS」第四彈「シールドライガー」，是ZOIDS系列最具代表性的共和國主力機，以2016年MPZ-01為基礎進一步強化動畫還原度。電動馬達重現貓科生物步行動作，眼部及Zoid Core內建LED發光，標配背部護盾與雙肩光束加農炮，是ZOIDS品牌形象最鮮明的機體之一。",
+    description: "シールドライガー是ZOIDS系列最具代表性的共和國主力機之一，設定上以護盾防禦與雙肩光束加農炮的攻守兼備能力著稱，長年作為新生共和國軍的標誌性戰力登場於多部作品及漫畫連載中，是ZOIDS品牌形象最鮮明的機體之一，也是許多玩家接觸系列的入門印象來源。\n\n本品為「40TH ANNIVERSARY ZOIDS」系列第四彈，以2016年發售的MPZ-01為基礎進一步強化動畫還原度，重新調校細部雕刻與比例。電動馬達重現貓科生物步行動作，眼部及Zoid Core內建LED發光效果，強化整體臨場感；標配背部護盾與雙肩光束加農炮，完整呈現原作攻守一體的戰鬥姿態。作為週年紀念陣容中辨識度最高的機體之一，本作對長年支持ZOIDS品牌的資深玩家而言具有相當高的情懷與收藏價值，也是入手週年紀念系列時頗受推薦的優先選擇。整體而言，本作以動畫忠實還原度與經典造型並重，是ZOIDS品牌形象代表機體的最新詮釋，對於希望收藏系列指標性機體的玩家而言具有相當高的優先順位。",
     reviews: [],
     youtube: [
       {
@@ -5390,7 +5390,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoids40th/az05.html",
     imageUrl: "/images/zoids-az05-saber-tiger.jpg",
     tags: ["ゾイド", "セイバータイガー", "AZ-05", "タカラトミー", "1/72", "ZOIDS 40周年", "レイヴン"],
-    description: "「40TH ANNIVERSARY ZOIDS」第五彈「セイバータイガー」，以2016年MPZ-02為基礎、採用動畫中反派角色レイヴン專屬配色重新設計。電動馬達重現貓科生物步行動作，標配ビームガン與レーザーカノン等武裝，並附屬1/72比例レイヴン與相棒シャドー人偶及威嚇用替換臉部零件，是《機獣新世紀ZOIDS》中バン的最大宿敵座機。",
+    description: "《機獣新世紀ZOIDS》中，レイヴン（雷邦）為主角バン最大的宿敵，個性冷酷且技術高超，早期即駕駛セイバータイガー與主角多次交手，是推動劇情衝突的重要反派角色之一，其座機隨劇情推進也不斷升級改造。セイバータイガー以虎型造型及銳利獠牙武裝著稱，靈活度與奇襲能力皆優於一般陸戰機體，是帝国軍陣營中辨識度極高的中型主力機。\n\n本品為「40TH ANNIVERSARY ZOIDS」系列第五彈，以2016年發售的MPZ-02為基礎、採用動畫中レイヴン専屬配色重新設計。電動馬達重現貓科生物步行動作，標配ビームガン與レーザーカノン等武裝；並附屬1/72比例レイヴン與相棒シャドー人偶，另含威嚇用替換臉部零件，供玩家重現角色特有的挑釁神情，是週年紀念系列中角色還原度最完整的一款，也是喜愛反派角色機體玩家的收藏首選。整體而言，本作透過精細的角色配色與人偶配件，完整呈現レイヴン這名重要反派角色與其座機的關係，是週年紀念系列中角色敘事完整度最高的一款收藏品。",
     reviews: [
       {
         title: "AZ-05「セイバータイガー」レビュー。バンのシールドライガーを圧倒したレイヴンの乗機 | メモルカ",
@@ -5420,7 +5420,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoids40th/az06.html",
     imageUrl: "/images/zoids-az06-liger-zero-phoenix.jpg",
     tags: ["ゾイド", "ライガーゼロフェニックス", "AZ-06", "タカラトミー", "1/72", "ZOIDS 40周年"],
-    description: "「40TH ANNIVERSARY ZOIDS」第六彈，重現ライガーゼロ與火鳥型強化武裝「フェニックスユニット」的Zi合體（ジユニゾン）形態。眼部與胸部內建LED發光，翼部可於合體時展開連動，並附屬可搭乘駕駛艙的RD人偶，是AZ系列中定價與規格皆屬頂級的高完成度機體。",
+    description: "ライガーゼロフェニックス是ライガーゼロ搭載火鳥型強化武裝「フェニックスユニット」合體（ジユニゾン）後的形態，設定上具備飛翔突擊與強化火力的雙重優勢，是新生共和國陣營中極具視覺震撼力的高階強化機體，常於劇中決戰場面登場展現壓倒性戰力，也是系列強化形態中人氣最高的組合之一。\n\n本品為「40TH ANNIVERSARY ZOIDS」系列第六彈，完整重現ライガーゼロ與フェニックスユニット的合體形態，眼部與胸部內建LED發光效果強化臨場感；翼部可於合體時展開並隨步行連動，重現振翅欲飛的動態演出。套組並附屬可搭乘駕駛艙的RD人偶，供玩家重現駕駛員登艙操作的場景。作為AZ系列中定價與規格皆屬頂級的高完成度機體，本作在週年紀念陣容中具備旗艦級的地位，也是ZOIDS收藏者心目中的重點目標，展示效果在整個週年系列中名列前茅。整體而言，本作以合體形態的完整重現與頂級規格的機構設計，代表著週年紀念系列在造型與可玩性上的巔峰之作，也是ZOIDS收藏者心目中極具指標性的旗艦收藏品。",
     reviews: [],
     youtube: [
       {
@@ -5444,7 +5444,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/deathsaurer/",
     imageUrl: "/images/zoids-az07-death-saurer.jpg",
     tags: ["ゾイド", "デスザウラー", "AZ-07", "タカラトミー", "1/72", "ガイロス帝国"],
-    description: "ガイロス帝国軍最強最悪の暴君「デスザウラー」ADVANCED Zi系列立體化，是AZ系列中體型最大、定價最高的旗艦級商品。全身覆蓋厚重裝甲並搭載大型「荷電粒子砲」，尾部與全身動作隨電動步行機構同步連動，重現原作中壓倒性的破壞力與存在感，是ZOIDS歷代人氣機體排行榜常客。",
+    description: "デスザウラー是ZOIDS世界觀中ガイロス帝国軍研發的最強兵器之一，設定上力量與破壞力遠超一般機體，被喻為「最強最悪的暴君」，長年是系列人氣機體排行榜的常客，象徵帝国軍不惜代價追求絕對戰力的野心，也是共和國陣營在劇情中最為忌憚的存在之一。\n\n本品為ADVANCED Zi系列立體化，是AZ系列中體型最大、定價最高的旗艦級商品。全身覆蓋厚重裝甲，搭載大型「荷電粒子砲」作為標誌性主兵裝，重現原作中令敵我雙方皆為之忌憚的壓倒性火力設定。尾部與全身動作隨電動步行機構同步連動，重現其沉重卻不失威嚇力的步行姿態，充分展現這頭「暴君」壓倒性的破壞力與存在感。作為系列旗艦級商品，本作無論在造型還原度或機構複雜度上都代表著AZ系列的技術巔峰，是ZOIDS收藏者夢寐以求的重點機體之一，展示存在感在整個收藏陣容中無出其右。整體而言，本作以壓倒性的體型與火力設定完整呈現「暴君」的威嚇形象，是ZOIDS眾多機體中少數能單獨撐起展示櫃焦點的存在，收藏地位在系列中無可取代。",
     reviews: [],
     youtube: [
       {
@@ -5468,7 +5468,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/molga/",
     imageUrl: "/images/zoids-az08-molga.jpg",
     tags: ["ゾイド", "モルガ", "AZ-08", "タカラトミー", "1/72", "昆虫型"],
-    description: "沿襲1984、1999年版設計的昆虫型ゾイド「モルガ」首度導入電動馬達，重現幼蟲般由頭至尾的波狀蠕動步行姿態，是系列中少見的低價位入門級小型機體。標配全新設定的「ジャミングアンテナ」武裝，並附屬1/72比例駕駛人偶，需使用1號電池（另售）。",
+    description: "モルガ是ZOIDS系列中沿襲自1984年初代及1999年版本設計的昆虫型機體，以幼蟲般蠕動的獨特步行方式著稱，在系列眾多陸戰、飛行機體中屬於較為特殊的低階偵察型定位，常作為新手玩家接觸ZOIDS的入門機種，體型雖小但設計巧思十足。\n\n本品首度為モルガ導入電動馬達機構，重現幼蟲般由頭至尾波狀蠕動的步行姿態，相較系列中多數貓科、爬蟲類機體的步伐節奏別具特色，是體驗ZOIDS機構多樣性的有趣範例。標配全新設定的「ジャミングアンテナ」（干擾天線）武裝，強化其偵察干擾的戰術定位設定。套組並附屬1/72比例駕駛人偶，供玩家自行組裝上色；機構運作需使用1號電池（另售）。作為系列中少見的低價位入門級小型機體，本作以親民規格延續AZ系列的收藏樂趣，適合作為ZOIDS新手玩家的入門選擇，也是資深玩家補完小型機體陣容的實惠之作。整體而言，本作雖規格親民，卻透過電動化機構完整重現原作獨特的蠕動步行方式，展現ZOIDS系列在機構設計上兼容大型旗艦與小型特色機體的多元魅力。",
     reviews: [],
     youtube: [
       {
@@ -5492,7 +5492,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/genosaurer/",
     imageUrl: "/images/zoids-az09-geno-saurer.jpg",
     tags: ["ゾイド", "ジェノザウラー", "AZ-09", "タカラトミー", "1/72", "レイヴン"],
-    description: "レイヴン駕駛的暴龍型機體「ジェノザウラー」ADVANCED Zi版，背部標誌性大型散熱鰭片可隨步行連動開闔，金色圓筒狀零件重現原作蓄力機構，並將舊版裝飾用裝甲蓋改為實際固定骨架的結構件，強化機械寫實感。是後續「ジェノブレイカー（AZ-12）」的姊妹機、同系血脈的重要前身機體。",
+    description: "ジェノザウラー是《機獣新世紀ZOIDS》「守護者部隊」篇章中レイヴン的座機，以暴龍造型與背部大型散熱鰭片為特徵，設定上具備高攻擊力與蓄力爆發能力，是該篇章反派陣營的核心主力機之一，其後續改造機ジェノブレイカー更進一步強化了整體戰鬥力，兩者之間的機體演進也成為系列粉絲津津樂道的話題。\n\n本品為ジェノザウラー的ADVANCED Zi立體化版本，背部標誌性的大型散熱鰭片可隨步行動作連動開闔，重現其蓄力備戰時的機械律動；金色圓筒狀零件則用以重現原作設定中的蓄力機構，強化戰力爆發前的張力演出。相較舊版商品，本作將原本裝飾用的裝甲蓋改為實際固定骨架的結構件，大幅強化機械寫實感與結構穩定度。作為後續AZ-12ジェノブレイカー的姊妹機及同系血脈的重要前身機體，本作對於收齊レイヴン座機演進歷程的玩家而言具有相當重要的補完意義，也是理解該反派角色機體變化脈絡不可或缺的一件。整體而言，本作以結構強化與機構細節的雙重升級，完整呈現ジェノザウラー作為反派主力機的沉穩壓迫感，也是理解レイヴン座機演進脈絡不可或缺的重要收藏品。",
     reviews: [],
     youtube: [
       {
@@ -5516,7 +5516,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/seapanther/",
     imageUrl: "/images/zoids-az10-sea-panther.jpg",
     tags: ["ゾイド", "シーパンツァー", "AZ-10", "タカラトミー", "1/72", "ヤドカリ型"],
-    description: "沿襲1987年原版設計、以寄居蟹（ヤドカリ）為原型的水陸両用ゾイド「シーパンツァー」首度導入電動馬達步行機構，可重現寄居蟹特有的橫向爬行步態，開關切換後亦可倒退行走。標配全方位超音波聲納作為全新設定武裝，駕駛艙艙蓋與後部蓋板等多處可動，是系列中少見的甲殻類型機體。",
+    description: "シーパンツァー是ZOIDS系列中沿襲1987年原版設計、以寄居蟹（ヤドカリ）為原型的水陸両用機體，在系列眾多陸戰、飛行機體設計中獨具甲殻類的特殊辨識度，展現ZOIDS世界觀取材自地球生物多樣性的設計巧思，也是系列中少數擅長水域作戰的機種。\n\n本品首度為シーパンツァー導入電動馬達步行機構，可重現寄居蟹特有的橫向爬行步態，透過開關切換亦可實現倒退行走的機構變化，充分還原甲殻類生物特有的移動方式，是系列電動化復刻中頗具巧思的一款。標配全方位超音波聲納作為全新設定武裝，強化其偵測與防禦的戰術定位；駕駛艙艙蓋與後部蓋板等多處部位皆可動，供玩家重現不同的展示姿態。作為系列中少見的甲殻類型機體，本作以獨特的生物原型與機構設計，在AZ系列陣容中提供了與貓科、爬蟲類機體截然不同的收藏樂趣，也豐富了整體機體陣容的生態多樣性。整體而言，本作以獨特的甲殻類生物原型與橫向爬行機構，為AZ系列陣容注入了與貓科、爬蟲類機體截然不同的收藏樂趣，展現ZOIDS世界觀取材生物多樣性的設計巧思。",
     reviews: [],
     youtube: [
       {
@@ -5540,7 +5540,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az11_commandwolf/",
     imageUrl: "/images/zoids-az11-command-wolf.jpg",
     tags: ["ゾイド", "コマンドウルフ", "AZ-11", "タカラトミー", "1/72"],
-    description: "沿襲1987年原版設計的狼型ゾイド「コマンドウルフ」首度導入電動馬達步行機構。頭部延續原版「速度切替」機構，可透過改變頭部位置切換「走行モード（一般速度）」與「追跡モード（低速）」，動力單元雕刻出Zoid Core造型，並附屬可與AZ-01等其他機體共通的展示台連接零件（展示台另售）。",
+    description: "コマンドウルフ是ZOIDS系列中沿襲1987年原版設計的狼型機體，以高速偵察與追跡能力著稱，設定上具備可依戰術需求切換速度模式的獨特機構，在系列陸戰機體中屬於機動偵察定位的代表性機種之一，長年是共和國軍陣營中低調卻不可或缺的支援戰力。\n\n本品首度為コマンドウルフ導入電動馬達步行機構，重現狼型猛獸特有的奔跑律動感；並延續原版標誌性的「速度切替」機構，可透過改變頭部位置，切換「走行モード（一般速度）」與「追跡モード（低速）」兩種步行模式，重現原作設定中依戰術需求調整速度的巧思。動力單元內部並雕刻出Zoid Core造型細節，強化內構寫實感；套組另附屬可與AZ-01ブレードライガー等其他機體共通使用的展示台連接零件（展示台本體另售）。作為ZOIDS品牌長銷機種的復刻代表，本作延續了系列偵察型機體一貫的機動魅力，也是搭配其他AZ機體共同展示時頗具巧思的選擇。整體而言，本作以親民規格重現狼型機體的速度切替巧思，並可與AZ-01等其他機體共通展示，是兼具機構樂趣與陳列彈性的偵察型機體代表作。",
     reviews: [],
     youtube: [
       {
@@ -5564,7 +5564,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az13_canory_molga/",
     imageUrl: "/images/zoids-az13-canory-molga.jpg",
     tags: ["ゾイド", "キャノリーモルガ", "AZ-13", "タカラトミー", "1/72", "昆虫型"],
-    description: "以舊版「CP-07 キャノンユニット」為藍本設計的モルガ砲撃型衍生機「キャノリーモルガ」，標配全新開發武裝「AZ120mmグライドカノン」，連接背部齒輪機構後砲身可隨步行同步做出射擊動作。延續電動馬達步行機構重現幼蟲般波狀蠕動姿態，倒退時頭尾可上下擺動，頭部裝甲、駕駛艙艙蓋及尾部裝甲均可動，尾部裝甲內藏雙聯対空飛彈。",
+    description: "ZOIDS（機獸新世紀）是TAKARA TOMY自1980年代延續至今的長壽機械生物系列，設定中「Zi星」上的機械生命體「ゾイド」被兩大陣營改造為兵器，昆蟲、恐龍、獸類等原型構成豐富的機體生態，機械骨骼與電動步行機構是系列核心賣點。「キャノリーモルガ」屬於モルガ系昆蟲型砲擊機體衍生型，以舊型「CP-07キャノンユニット」為藍本重新設計，強化了遠程火力壓制能力，在陣營中扮演支援後方部隊、以定點砲擊牽制敵方裝甲的角色。本作標配全新開發的「AZ120mmグライドカノン」，透過連動背部齒輪機構，砲身能隨機體步行同步做出俯仰射擊動作，兼顧視覺躍動感與機構巧思。電動馬達步行系統延續系列傳統，重現昆蟲幼蟲般波狀蠕動的獨特步態，倒退移動時頭尾還會上下擺動，增添生物感；頭部裝甲、駕駛艙艙蓋與尾部裝甲皆可動，尾部更內藏雙聯對空飛彈，兼具近戰防禦與對空攔截設定，是ADVANCED Zi系列中兼具把玩樂趣與機構完成度的中型支援機體。",
     reviews: [],
     youtube: [
       {
@@ -5588,7 +5588,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az14_liger_zero_x/",
     imageUrl: "/images/zoids-az14-liger-zero-x.jpg",
     tags: ["ゾイド", "ライガーゼロイクス", "AZ-14", "タカラトミー", "1/72", "オプションパーツ"],
-    description: "為AZ系列「ライガーゼロ（AZ-02）」本體另售追加的「イクスユニット」武裝套組，需與AZ系列ライガーゼロ本體組合方能重現完整「ライガーゼロイクス」形態。全新造形設計背部展開式高壓電磁劍「スタンブレード」、蓄電用「ドラムコンデンサー」及「エレクトロンジェネレーター」發電裝置，並附屬可乘坐於駕駛艙的1/72比例一般士兵人偶（未塗裝）。",
+    description: "「ライガーゼロ」是ZOIDS系列人氣最高的機體之一，設定為共和國軍最強獸型ゾイド，其最大特色在於可透過更換背部武裝組件切換為イクス、イエーガー、シュナイダー等多種形態，宛如「換裝強化」的概念，深受玩家喜愛。「イクスユニット」是其中強化格鬥與電擊戰能力的形態，需與另售的AZ系列ライガーゼロ本體組合方能重現完整機體。本商品為新造形設計的追加武裝套組，重現背部展開式高壓電磁劍「スタンブレード」，可展開執行近距離電擊斬擊，並配備儲能用「ドラムコンデンサー」與「エレクトロンジェネレーター」發電裝置，強化了機體的能量供給設定，呼應原作中イクス在近戰對決中一擊制勝的形象。作為選配式強化組件，本作也延續了ADVANCED Zi系列鼓勵玩家蒐集多種武裝組合、自由重現不同形態的企劃概念，並附屬可乘坐於駕駛艙的1/72比例一般士兵人偶（未塗裝），提升整體世界觀的代入感與收藏完整度。",
     reviews: [],
     youtube: [
       {
@@ -5612,7 +5612,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az15_psycho_genosaurer/",
     imageUrl: "/images/zoids-az15-psycho-geno-saurer.jpg",
     tags: ["ゾイド", "サイコジェノザウラー", "AZ-15", "タカラトミー", "1/72"],
-    description: "ジェノザウラー衍生的強化型機體「サイコジェノザウラー」，機體代號EZ-26P，全新造形重現頭部「フレキシブルレーザー」與「複合レーザーセンサー」、腳部投影幻象用「イリュージョンジェネレーター」及背部長射程「パルスレーザーライフル」等原創武裝設定。標配可搭乘於腹部駕駛艙的リーゼ人偶及1/72比例スペキュラー人偶，是AZ系列ジェノザウラー血統的強化衍生機。",
+    description: "「ジェノザウラー」是ZOIDS系列帝國軍代表性的獸型旗艦機體之一，以其強悍火力與精神感應駕駛系統聞名，衍生出多款強化型號。「サイコジェノザウラー」機體代號EZ-26P，是承襲ジェノザウラー血統進一步強化精神干擾與遠程壓制能力的機體，設定中由駕駛員リーゼ操縱，透過特殊裝置對敵方造成幻覺與精神層面的干擾，是系列中頗具個性的心理戰用機。本作全新造形重現頭部「フレキシブルレーザー」與「複合レーザーセンサー」等感應偵測裝置，腳部設有投影幻象用的「イリュージョンジェネレーター」，呼應其精神干擾的設定特色；背部則配備長射程「パルスレーザーライフル」，提供遠距離持續壓制的火力支援。標配可搭乘於腹部駕駛艙的リーゼ人偶，以及1/72比例スペキュラー人偶，讓玩家能重現原作駕駛員與機體互動的場景，是AZ系列中兼具設定深度與造型巧思的強化衍生機體。",
     reviews: [],
     youtube: [
       {
@@ -5636,7 +5636,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/products/zoidsofficial/az16_liger_zero_jager/",
     imageUrl: "/images/zoids-az16-liger-zero-jager.jpg",
     tags: ["ゾイド", "ライガーゼロイエーガー", "AZ-16", "タカラトミー", "1/72", "オプションパーツ"],
-    description: "為AZ系列「ライガーゼロ（AZ-02）」本體另售追加的高速特化型「イエーガーユニット」武裝套組，需與AZ系列ライガーゼロ本體組合方能重現「ライガーゼロイエーガー」形態。以ライガーゼロ最快速機體為概念設計，背部大型離子推進器（イオンブースター）可隨步行連動展開，並附屬可乘坐於駕駛艙的1/72比例ビット人偶。",
+    description: "延續ライガーゼロ「換裝強化」的系列企劃，「イエーガーユニット」是其中主打極速機動的高速特化型態，設定上是ライガーゼロ全形態中速度最快的一款，強調瞬間爆發力與制空追擊能力，在原作故事中常擔任先鋒偵查與快速突襲的關鍵角色，是共和國軍陣營中極具象徵意義的高速兵器。本商品同樣需與另售的AZ系列ライガーゼロ（AZ-02）本體組合，方能重現完整「ライガーゼロイエーガー」形態，屬於選配式強化組件的一環，並非可單獨組裝完成的獨立套件。套件以「最快速機體」為設計核心概念，背部裝設大型離子推進器「イオンブースター」，並可隨步行動作連動展開，重現原作中イエーガー高速衝刺時展開推進器加速的經典畫面，機構設計兼顧視覺張力與步行同步的巧思，展現出獅子型ゾイド疾馳於荒野戰場的躍動感。作為選配武裝套組的一環，本作延續系列一貫的收藏樂趣，鼓勵玩家蒐集不同組件重現同一機體的多樣化形態；並附屬可乘坐於駕駛艙的1/72比例ビット人偶，強化整體場景還原度，是喜愛ライガーゼロ系列玩家不可或缺的強化組件之一。",
     reviews: [],
     youtube: [
       {
@@ -5661,7 +5661,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.takaratomy.co.jp/release/product/2026/15885.html",
     imageUrl: "/images/zoids-az17dx-ultrasaurus-gravity-cannon.jpg",
     tags: ["ゾイド", "ウルトラザウルス", "AZ-17DX", "タカラトミー", "1/72", "タカラトミーモール限定"],
-    description: "ADVANCED Zi系列史上最大型機體之一「ウルトラザウルス」搭載動畫中登場的必殺武裝「グラビティカノン」，首度以商品化形式完整重現。タカラトミーモール限定DX仕様，除本體與大型加農炮外，另附屬ムンベイ立姿與坐姿（可搭乘駕駛艙）人偶及1/72比例一般士兵人偶共6體。電動馬達重現步行動作，頭部及線形砲可隨步行連動，並可切換為グラビティカノン發射姿態動作。",
+    description: "「ウルトラザウルス」是ZOIDS動畫中登場的史上最大型機體之一，屬於共和國軍旗艦級巨獸型兵器，以壓倒性的體型與火力著稱，設定上為載運式指揮艦體，可搭載多名乘員與副武裝進行大規模作戰指揮。動畫中曾由角色ムンベイ操縱搭載必殺武裝「グラビティカノン」重力砲展現毀滅性打擊力，是老玩家心中長年期盼立體化的夢幻機體。本商品首度將這款動畫限定武裝以商品化形式完整重現，並作為タカラトミーモール限定DX仕様推出，收藏價值與話題性兼具。套件除本體與大型加農炮外，另附屬駕駛員ムンベイ的立姿與坐姿（可搭乘駕駛艙）人偶，以及1/72比例一般士兵人偶，全套共計6體人偶，陣容相當豪華，足以重現艦橋指揮與地面部隊協同作戰的場景。電動馬達重現沉穩有力的步行動作，頭部及線形砲可隨步行連動擺動，並可切換至グラビティカノン發射待機姿態，重現動畫中重力砲蓄力發射的震撼場面，是ADVANCED Zi系列中集大型化、限定性與動畫還原度於一身的代表商品。",
     reviews: [],
     youtube: [
       {
@@ -5685,7 +5685,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.jp/item/item-1000213951/",
     imageUrl: "/images/csm-kabuto-zecter-ver1-5.jpg",
     tags: ["仮面ライダーカブト", "Kamen Rider Kabuto", "カブトゼクター", "CSM", "COMPLETE SELECTION MODIFICATION", "変身ベルト", "Premium Bandai限定"],
-    description: "「COMPLETE SELECTION MODIFICATION」系列重現《仮面ライダーカブト》主角天道総司専用變身器具「カブトゼクター」，為2014年初版CSM的全面翻新版本（ver.1.5）。塗裝重新調整，去除舊版做舊髒污效果呈現更貼近劇中的乾淨質感，ゼクターホーン部位延續使用壓鑄合金材質展現厚重手感，並保留手風琴式伸縮腰帶構造。變身音效全面升級，扣上腰帶時觸發Masked Form變身音，按壓角狀零件觸發Rider Form變身音，側邊按鈕可觸發「CLOCK UP」音效，並新增ゼクター飛行與捕獲音效互動。為Premium Bandai限定抽選販售商品。",
+    description: "《假面騎士KABUTO》是2006年播出的平成假面騎士系列作品，主角天道總司以「天之才能」自居，透過生體變身器「カブトゼクター」變身為Kamen Rider Kabuto，其招牌能力「CLOCK UP」可讓自身進入極速時間感知狀態，於常人無法反應的瞬間內擊倒敵人，是系列中辨識度極高的變身設定。「COMPLETE SELECTION MODIFICATION」系列一貫以「忠實重現、超越劇中道具」為企劃精神，本作為2014年初版CSM卡布特澤克特的全面翻新版本（ver.1.5）。相較舊版，塗裝重新調整並去除做舊髒污效果，呈現更貼近劇中初登場時的乾淨質感；ゼクターホーン部位延續使用壓鑄合金材質，保留厚重扎實的手感，手風琴式伸縮腰帶構造也一併留存。變身音效更是全面升級：扣上腰帶觸發Masked Form變身音，按壓角狀零件觸發Rider Form變身音，側邊按鈕可觸發招牌的「CLOCK UP」音效，並新增澤克特飛行與捕獲音效互動，大幅提升重現度與把玩樂趣。本作為Premium Bandai限定抽選販售商品，稀有度與收藏價值兼具。",
     reviews: [
       {
         title: "CSMカブトゼクター ver.1.5 | ごめん、俺は忘れないから",
@@ -5715,7 +5715,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.jp/item/item-1000213951/",
     imageUrl: "/images/csm-kabuto-zecter-display-stand.jpg",
     tags: ["仮面ライダーカブト", "Kamen Rider Kabuto", "カブトゼクター", "CSM", "展示台座", "Premium Bandai限定"],
-    description: "與「CSMカブトゼクター ver.1.5」同時推出的專用展示台座，天面印有ZECT組織徽章標誌，可穩定支撐變身腰帶展示。隨附擴充零件與調整零件可依需求調整尺寸並固定腰帶，是CSM系列變身器具收藏展示的專用配件，Premium Bandai限定抽選販售商品。",
+    description: "《假面騎士KABUTO》劇中登場的祕密組織「ZECT」負責監控並殲滅名為「Worm」的地底生物，主角天道總司即以ZECT提供的生體變身器「カブトゼクター」變身戰鬥，組織徽章因此成為系列世界觀中極具代表性的視覺符號。本商品是與「CSMカブトゼクター ver.1.5」同時企劃推出的專用展示台座，台座天面印有ZECT組織徽章標誌，設計簡潔莊重，可穩定支撐變身腰帶進行展示，避免長期擺放造成腰帶零件下垂變形，對於收藏CSM系列變身道具的玩家而言是相當實用的配件。隨附的擴充零件與調整零件可依腰帶尺寸與展示需求彈性調整固定方式，兼顧不同展示情境的相容性，也方便玩家將腰帶以最佳角度呈現細節與塗裝品質，無論正面陳列或搭配燈光展示均能維持穩定姿態。作為CSM系列變身器具收藏展示線的專用配件，本作與腰帶本體相輔相成，共同構成完整的展示體驗，同樣屬於Premium Bandai限定抽選販售商品，對於重視展示效果的假面騎士收藏者而言，是提升整體陳列質感不可或缺的一件周邊。",
     reviews: [],
     youtube: [],
   },
@@ -5734,7 +5734,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_6742",
     imageUrl: "/images/mg-hyaku-shiki-ver2-mechanical-core.jpg",
     tags: ["ガンプラ", "百式", "MG", "1/100", "ガンダムベース限定", "メカニカルコアメッキ", "Zガンダム", "BANDAI SPIRITS"],
-    description: "「MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]」是THE GUNDAM BASE（高達基地）限定販售的高級鍍層變體版本，以2006年發售的經典傑作「MG 百式 Ver.2.0」為基礎重新開發塗裝規格。本作首度採用名為「メカニカルコアメッキ（機械核心電鍍）」的全新表面處理技術：將裝甲外殼部分改為透明素材成型，僅在零件內側（核心面）施以真空鍍膜處理，讓光線穿透透明外殼後映照出內部鍍層的金屬光澤，呈現出比傳統百式標誌性香檳金電鍍更具透明感與深邃層次的獨特金色光輝。\n\n套件本身沿用MG百式Ver.2.0原有的高精度可動骨架設計，肩部可伸縮、關節可動範圍廣，能重現原作中百式與Ζ高達交戰的多種招牌姿勢；武裝配件包含光束步槍與可掛載於背包的粘土火箭砲（クレイバズーカ）、光束軍刀，並附有與別售飛行基座相容的接口零件，可做出漂浮展示效果，同時隨附1/100比例的夏亞（クワトロ・バジーナ）人偶。全高約187mm，是MG系列中百式家族的代表規格。\n\n本商品僅限於THE GUNDAM BASE各據點（包含高達基地東京、福岡及新千歲機場店等）及GUNDAM BASE會員通路販售，並未透過P-Bandai線上或一般模型店鋪流通，屬於典型的店鋪限定高階鍍層商品。自2025年10月25日開賣後，因鍍層效果與稀有度，迅速成為Gunpla收藏玩家與高達基地巡禮愛好者熱議的話題商品之一。",
+    description: "「百式」是《機動戰士Z鋼彈》中夏亞・阿茲納布（化名クワトロ・バジーナ）駕駛的專用機，以其耀眼的金色塗裝聞名，象徵夏亞一貫的王牌駕駛員身分與美學堅持，是高達系列中最具代表性的金色機體之一。「MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]」是THE GUNDAM BASE限定販售的高級鍍層變體版本，以2006年發售的經典傑作「MG百式Ver.2.0」為基礎重新開發塗裝規格。本作首度採用「メカニカルコアメッキ」全新表面處理技術：裝甲外殼改為透明素材成型，僅在零件內側核心面施以真空鍍膜，讓光線穿透外殼映照出內部鍍層的金屬光澤，呈現比傳統香檳金電鍍更具透明感與深邃層次的獨特金色光輝。套件沿用原有高精度可動骨架，肩部可伸縮、關節可動範圍廣，能重現原作交戰的多種招牌姿勢；武裝包含光束步槍、可掛載於背包的粘土火箭砲、光束軍刀，並附飛行基座相容接口與1/100比例夏予人偶。本商品僅於THE GUNDAM BASE各據點販售，未透過線上通路流通，屬典型店鋪限定高階鍍層商品。",
     reviews: [
       {
         title: "【新商品紹介】「MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]」レビュー!",
@@ -5775,7 +5775,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/60256/Nendoroid+Asuna+Ichinose",
     imageUrl: "/images/nendoroid-asuna-ichinose-2611.jpg",
     tags: ["ブルーアーカイブ", "Blue Archive", "一之瀬アスナ", "ねんどろいど", "Good Smile Company", "C&C"],
-    description: "來自人氣手機遊戲《蔚藍檔案》的祕密組織「C&C」成員、千年科學學園學生一之瀨阿蘇娜，這次化身為Q版可動的黏土人登場。原作中阿蘇娜個性開朗直率、戰鬥時卻異常兇猛，此次造型還原了她招牌的銀灰色雙馬尾與湛藍色瞳孔，胸口的痣等細節也未被省略，展現GSC一貫的高塗裝水準。\n\n配件方面附有三種表情替換臉件：燦笑臉、微笑臉，以及少見的驚慌失措臉，充分表現出阿蘇娜在遊戲劇情中反差感十足的一面。另外還隨附愛用的突擊步槍與愛心手勢替換手部零件，方便玩家重現遊戲中招牌姿勢與互動海報中的經典畫面。\n\n本作為黏土人首次將阿蘇娜這個角色收錄進系列，於2025年2月正式發售，全高約100mm，附專用底座。作為《蔚藍檔案》黏土人化企劃的先鋒角色之一，本作也帶動了後續多位C&C成員陸續推出黏土人版本的熱潮。",
+    description: "《蔚藍檔案》是人氣手機遊戲，故事舞台為由多所學園組成的基沃托斯，玩家扮演「老師」帶領各學園學生解決各種事件。一之瀨阿蘇娜隸屬秘密組織「C&C」，是千年科學學園的學生，個性開朗直率、平時大而化之，然而戰鬥時卻異常兇猛、判若兩人，這種反差正是她廣受玩家喜愛的魅力所在。本作將阿蘇娜化身為Good Smile Company招牌的Q版可動黏土人，忠實還原她招牌的銀灰色雙馬尾與湛藍色瞳孔，胸口的痣等細節也未被省略，展現一貫的高塗裝水準。配件方面附有三種表情替換臉件：燦笑臉、微笑臉，以及少見的驚慌失措臉，充分表現角色反差感十足的一面；另隨附愛用的突擊步槍與愛心手勢替換手部零件，方便玩家重現遊戲劇情與互動海報中的經典畫面。本作為黏土人首次收錄阿蘇娜這個角色，2025年2月正式發售，全高約100mm，附專用底座，作為《蔚藍檔案》黏土人化企劃的先鋒角色之一，帶動了後續多位C&C成員陸續黏土人化的熱潮。",
     reviews: [
       {
         title: "胸のほくろも再現！『ブルーアーカイブ』一之瀬アスナがねんどろいどでフィギュア化！",
@@ -5816,7 +5816,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1137008/Nendoroid+Karin+Kakudate",
     imageUrl: "/images/nendoroid-karin-kakudate-2853.jpg",
     tags: ["ブルーアーカイブ", "Blue Archive", "角楯カリン", "ねんどろいど", "Good Smile Company", "C&C", "狙撃手"],
-    description: "《蔚藍檔案》祕密組織「C&C」的狙擊手角楯卡琳，本次以黏土人姿態推出。她在千年科學學園擔任學生會成員，外表看似不羈，實際上是C&C中心思最縝密、時常負責約束阿蘇娜與茜等隊友暴走行為的冷靜派角色。黏土人版本忠實重現她標誌性的深色長髮與銳利的黃色雙眸，五官比例調整得恰到好處，兼具原作凌厲氣質與黏土人特有的Q版可愛感。\n\n本作附贈三種表情零件——沉著臉、微笑臉、害羞臉，展現卡琳外冷內熱的反差萌魅力；配件則包含她的招牌狙擊步槍「鷹眼（ホークアイ）」，可組裝出持槍瞄準的帥氣站姿，同時附贈的替換手部零件也讓擺拍更加多樣化。\n\n本作於2025年9月12日開放預購，2026年2月正式發售，定價7,300日圓（含稅），全高約100mm，附專用底座；透過Good Smile Company官方商店購入更可獲得特製底座作為特典，是《蔚藍檔案》黏土人化第二波陣容中相當受矚目的一款。",
+    description: "《蔚藍檔案》祕密組織「C&C」的狙擊手角楯卡琳，本次以黏土人姿態推出。她在千年科學學園擔任學生會成員，外表看似不羈叛逆，實際上卻是C&C中心思最縝密、時常負責約束阿蘇娜與茜等隊友暴走行為的冷靜派角色，這種外冷內熱的反差設定使她在粉絲間人氣居高不下。黏土人版本忠實重現她標誌性的深色長髮與銳利的黃色雙眸，五官比例調整得恰到好處，兼具原作凌厲氣質與黏土人特有的Q版可愛感，展現Good Smile Company一貫的雕刻與塗裝功力。本作附贈三種表情零件——沉著臉、微笑臉、害羞臉，充分展現卡琳的多面魅力；配件則包含她的招牌狙擊步槍，可組裝出持槍瞄準的帥氣站姿，隨附的替換手部零件也讓擺拍更加多樣化。本作於2025年9月12日開放預購，2026年2月正式發售，定價7,300日圓（含稅），全高約100mm，附專用底座；透過Good Smile Company官方商店購入更可獲得特製底座作為特典，是《蔚藍檔案》黏土人化第二波陣容中相當受矚目的一款。",
     reviews: [
       {
         title: "【ブルーアーカイブ】ねんどろいど「角楯カリン」本日予約開始",
@@ -5841,7 +5841,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/99572",
     imageUrl: "/images/hasuki-pa009-friede-sp.jpg",
     tags: ["pocket art", "HASUKI", "神猫跳動", "オリジナル", "1/12", "サキュバス", "フリーデ", "SP版", "可動フィギュア"],
-    description: "來自中國廠商HASUKI（神猫跳動）「pocket art」原創布衣關節可動人偶系列第九彈，角色「魅魔修女芙莉德」由人氣繪師小小酥R.Z.操刀設計，並非改編自既有動畫或遊戲，而是廠牌自製的暗黑哥德風原創角色——一位墮落為魅魔的修女，全身散發禁慾與誘惑並存的矛盾魅力，包裝盒亦採用燙金黑底的聖經裝幀式設計，質感十足。\n\n本體採1/12比例布料關節可動設計，全高約155mm（含頭頂），材質為PVC、ABS與布料混合。SP版配件相當豐盛：可動眼替換臉四張（平常臉、吐舌臉、口罩臉、祈禱臉）、六種替換手型、聖經型槍套與左輪手槍、手榴彈兩枚、旗幟、透明支架，以及一雙過膝長襪（預設穿一隻，另附替換款可雙腳穿著）。與普通版相比，SP版最大差異在於附贈兩組「組合武裝」大型長柄武器，可自由拼裝出不同形態的巨型十字鐮刀／長槍，大幅提升把玩與擺拍的可玩性。\n\n本作於2025年8月發售，定價13,750日圓（約合人民幣398～469元視版本而定），是HASUKI「pocket art」原創美少女可動人偶系列中話題度最高的角色之一，也讓玩家見識到中國原創廠牌在關節結構與服裝細節上的長足進步。",
+    description: "來自中國廠商HASUKI（神猫跳動）「pocket art」原創布衣關節可動人偶系列第九彈，角色「魅魔修女芙莉德」由人氣繪師小小酥R.Z.操刀設計，並非改編自既有動畫或遊戲，而是廠牌自製的暗黑哥德風原創角色——一位墮落為魅魔的修女，全身散發禁慾與誘惑並存的矛盾魅力，包裝盒亦採用燙金黑底的聖經裝幀式設計，質感十足，展現近年中國原創可動人偶廠牌在角色企劃與美術設定上的野心。本體採1/12比例布料關節可動設計，全高約155mm（含頭頂），材質為PVC、ABS與布料混合，兼顧姿勢自由度與服裝垂墜質感。SP版配件相當豐盛：可動眼替換臉四張（平常臉、吐舌臉、口罩臉、祈禱臉）、六種替換手型、聖經型槍套與左輪手槍、手榴彈兩枚、旗幟、透明支架，以及一雙過膝長襪。與普通版相比，SP版最大差異在於附贈兩組「組合武裝」大型長柄武器，可自由拼裝出不同形態的巨型十字鐮刀或長槍，大幅提升把玩與擺拍樂趣。本作於2025年8月發售，定價13,750日圓，是HASUKI「pocket art」系列中話題度最高的角色之一。",
     reviews: [
       {
         title: "「pocket art」シリーズよりあらゆる武器を使いこなす「サキュバスシスター フリーデ」の可動フィギュアが予約開始！",
@@ -5881,7 +5881,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/us/item/F2805109001",
     imageUrl: "/images/mg-barbatos-lupus-expansion-parts.jpg",
     tags: ["ガンダム", "バルバトスルプス", "MG", "1/100", "Bandai", "P-Bandai限定", "鉄血のオルフェンズ"],
-    description: "『機動戦士ガンダム 鉄血のオルフェンズ』第二期後半劇情中登場的「ガンダムバルバトスルプス」擴充零件套組，為 Premium Bandai 限定商品，本體「MG 1/100 ガンダムバルバトスルプス」需另外購入。套組內容包括：對哈修瑪爾（Hashmal）戰中使用的大型武裝「瓦爾基莉亞戰斧劍（ヴァルキュリアバスターソード）」、雙聯裝臂部火箭砲、右肩破損重現零件、頭部破損重現零件、眼部發光效果零件、左肩能量效果零件、專用握把手部零件、輔助展示台座，以及新設計的水轉印水貼紙。\n\n瓦爾基莉亞戰斧劍可重現伸長／縮短兩種狀態，亦可分離成劍身與戰斧錘頭分開展示；由於全長逼近 40 公分，套組特別附上輔助展示台座與專用手部零件以分散重量、穩定持握姿勢。破損肩部、破損頭部與雙色眼部效果零件則是為了重現劇中巴巴托斯露普斯在極限狀態下解放阿賴耶識系統限制器、外裝嚴重損毀仍持續戰鬥的經典畫面，玩家可依場景自由選擇零件組合。\n\n本商品於 2025 年 11 月開放預購，2026 年 2 月透過 Premium Bandai Hobby Online Shop 出貨，建議售價 2,970 日圓（含稅）。由於僅提供武裝與效果零件、不含機體本體，購買前需確認已持有或另行入手可拆解重組的「MG 1/100 ガンダムバルバトスルプス」套件。",
+    description: "『機動戰士鋼彈 鐵血的孤兒』是講述火星獨立勢力少年兵團「鐵華團」在資源與政治鬥爭中求生的作品，主角三日月・奧古斯所駕駛的「鋼彈巴巴托斯」系列機體貫穿全劇，隨劇情發展不斷改裝強化。「巴巴托斯露普斯」正是第二期後半登場的強化形態，於劇中對戰巨型MA哈修瑪爾時解放阿賴耶識系統限制器，展現外裝嚴重損毀仍持續戰鬥的悲壯畫面，是全系列最具衝擊力的場景之一。本套件為Premium Bandai限定擴充零件組，需另購MG本體方能使用，內容包括對哈修瑪爾戰使用的大型武裝「瓦爾基莉亞戰斧劍」、雙聯裝臂部火箭砲、右肩與頭部破損重現零件、眼部與左肩能量效果零件、專用握把手部零件、輔助展示台座，以及新設計水轉印水貼紙。戰斧劍可重現伸長縮短兩種狀態並可分離展示，因全長逼近40公分，特別附上輔助台座與專用手部零件分散重量。本商品2025年11月開放預購，2026年2月出貨，售價2,970日圓，購買前需確認已持有可拆解重組的MG本體。",
     reviews: [
       {
         title: "MG ガンダムバルバトスルプス用拡張パーツセット レビュー",
@@ -5921,7 +5921,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660041788000&grp_id=5325",
     imageUrl: "/images/hg-graze-ein.jpg",
     tags: ["ガンダム", "グレイズアイン", "HG", "1/144", "Bandai", "鉄血のオルフェンズ", "IBO018"],
-    description: "『機動戦士ガンダム 鉄血のオルフェンズ』HG系列No.018，是賈爾魯岡（Gjallarhorn）阿賴耶識系統實驗機構所遺棄的原型機「グレイズアイン」，後成為安因・多爾頓（アイン・ダルトン）維生裝置兼專用座機，屬於劇中大型 MS，商品編號 2314551，於 2016 年 4 月 9 日發售，建議售價 1,870 日圓（含稅）。\n\n套件延續標準版グレイズ骨架結構，同時新增大量專屬零件以呈現大型機體的壓迫感：附有一般持械手型、以及重現「螺旋衝拳（スクリューパンチ）」瞬間握拳造型的專用手部零件，還有可重現「鑽頭衝踢」動作的腳尖零件。左右肩部內藏式機槍採用差換式零件重現收納與展開兩種狀態；可動式背包結構讓角色能夠反手抓握專屬大型戰斧，擺出極具魄力的戰鬥動作姿勢。\n\n本作是《鉄血のオルフェンズ》動畫播出期間最快立體化的大型客製機體之一，深受骨架流用效率與新規零件比例的討論；後續官方亦於多年後推出對應的 FULL MECHANICS 1/100 版本延續人氣，可見其在鋼普拉玩家間的口碑與收藏價值。",
+    description: "『機動戰士鋼彈 鐵血的孤兒』HG系列No.018，是賈爾魯岡阿賴耶識系統實驗機構所遺棄的原型機「格雷茲艾因」，後成為安因・多爾頓維生裝置兼專用座機，劇中屬於壓迫感十足的大型MS，商品編號2314551，2016年4月9日發售，售價1,870日圓（含稅）。套件延續標準版格雷茲骨架結構，同時新增大量專屬零件呈現大型機體氣勢：附有一般持械手型，以及重現「螺旋衝拳」瞬間握拳造型的專用手部零件，還有可重現「鑽頭衝踢」動作的腳尖零件，充分還原安因擅長的近戰肉搏戰鬥風格。左右肩部內藏式機槍採用差換式零件重現收納與展開兩種狀態；可動式背包結構讓角色能反手抓握專屬大型戰斧，擺出極具魄力的戰鬥姿勢。本作是《鐵血的孤兒》動畫播出期間最快立體化的大型客製機體之一，深受骨架流用效率與新規零件比例的討論；後續官方亦於多年後推出對應的FULL MECHANICS 1/100版本延續人氣，可見其在鋼普拉玩家間的口碑與收藏價值。",
     reviews: [
       {
         title: "HG グレイズアイン レビュー",
@@ -5961,7 +5961,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660041795000&grp_id=5325",
     imageUrl: "/images/hg-graze-ritter-carta.jpg",
     tags: ["ガンダム", "グレイズリッター", "カルタ機", "HG", "1/144", "Bandai", "鉄血のオルフェンズ", "IBO017"],
-    description: "『機動戦士ガンダム 鉄血のオルフェンズ』HG系列No.017，重現地球外緣軌道統制統合艦隊「卡爾塔隊」指揮官卡爾塔・伊修（カルタ・イシュー）座機「グレイズリッター」，商品編號 2314552，2016 年 3 月 12 日發售，建議售價 1,540 日圓（含稅）。\n\n本機沿用標準版グレイズ骨架與內構，但頭部天線、肩部裝甲與大腿裝甲皆為新規開模，刻意設計出有別於一般量產機、帶有西洋騎士風範的外型輪廓；成型色以青綠、深灰、淺灰三色搭配重現原作配色。武裝方面附有步槍、戰斧、以及外形有別於標準版的騎士劍（ナイトブレード）等新規武裝零件；透過更換背包與大腿零件，可自由組裝出「宇宙用」與「地上用」兩種形態，展現比標準グレイズ更高的機動性設定。\n\n作為系列中知名指揮官專用機之一，カルタ機不僅是《鉄血のオルフェンズ》前期劇情的重要戰力象徵，其新規騎士風裝甲零件也常被玩家借用於改造與塗裝素體，是鉄血系列 HG 中評價穩定、CP值高的人氣單品。",
+    description: "『機動戰士鋼彈 鐵血的孤兒』HG系列No.017，重現地球外緣軌道統制統合艦隊「卡爾塔隊」指揮官卡爾塔・伊修座機「格雷茲騎士」，商品編號2314552，2016年3月12日發售，售價1,540日圓（含稅）。卡爾塔身為統合艦隊指揮官，作風強硬且極具威嚴，其專用機自然也被賦予了有別於一般量產機的貴族騎士風格外觀。本機沿用標準版格雷茲骨架與內構，但頭部天線、肩部裝甲與大腿裝甲皆為新規開模，刻意設計出帶有西洋騎士風範的外型輪廓；成型色以青綠、深灰、淺灰三色搭配重現原作配色。武裝方面附有步槍、戰斧，以及外形有別於標準版的騎士劍等新規武裝零件；透過更換背包與大腿零件，可自由組裝出「宇宙用」與「地上用」兩種形態，展現比標準格雷茲更高的機動性設定。作為系列中知名指揮官專用機之一，卡爾塔機不僅是《鐵血的孤兒》前期劇情的重要戰力象徵，其新規騎士風裝甲零件也常被玩家借用於改造與塗裝素體，是鐵血系列HG中評價穩定、CP值高的人氣單品。",
     reviews: [
       {
         title: "HG グレイズリッター（カルタ機） レビュー | ガンダムブログはじめました",
@@ -6001,7 +6001,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2302829011",
     imageUrl: "/images/rg-astray-gold-frame.jpg",
     tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "P-Bandai限定"],
-    description: "《機動戰士鋼彈SEED ASTRAY》外傳漫畫中，被宿敵隆德・吉娜・薩哈克奪走的黃金鋼彈——MBF-P01 阿斯特雷 金色框架，首度以RG系列規格商品化。RG向來以「1/144比例中罕見的細密表現」與「逼真結構」為賣點，此次不僅重現機體本身的精密關節與內部骨架，更以RG規格重新詮釋了招牌武裝「350mm軌道砲蓋伯格」，並新增專用右肩護甲零件，用以重現原作中機體右臂被擊落的經典場面。\n\n塗裝表現上，金色框架的閃耀質感透過三色金屬成形色分開表現，搭配細緻的面板線與原創標誌貼紙，即使不上色也有相當高的完成度；感應器貼紙更提供紅、綠兩色可自由選擇黏貼，讓玩家能依喜好微調機體氣氛。\n\n本套件於2016年7月以Bandai Hobby Online Shop限定商品身份首度發售，售價3,080日圓，多年來因未再版而在二手市場行情看漲。此次透過P-Bandai台灣站開放預購再販，預計2026年4月出貨，售價NT$660，是入手這款經典阿斯特雷衍生機體的難得機會。",
+    description: "《機動戰士鋼彈SEED ASTRAY》是《SEED》世界觀下以外傳漫畫形式展開的作品群，聚焦於未被正史提及的多台試作機鬥爭，MBF-P01「阿斯特雷 金色框架」正是其中人氣最高的機體之一，設定為性能凌駕正規量產機的高機動試作鋼彈，曾一度被宿敵隆德・吉娜・薩哈克奪走並用以對抗原駕駛員，是外傳劇情中極具戲劇張力的一段。此次首度以RG系列規格商品化，RG向來以「1/144比例中罕見的細密表現」與「逼真結構」為賣點，本作不僅重現機體精密關節與內部骨架，更以RG規格重新詮釋招牌武裝「350mm軌道砲蓋伯格」，並新增專用右肩護甲零件，重現原作中機體右臂被擊落的經典場面。塗裝表現上，金色框架的閃耀質感透過三色金屬成形色分開表現，搭配細緻面板線與原創標誌貼紙，即使不上色也有相當高的完成度；感應器貼紙提供紅、綠兩色可自由選擇。本套件2016年7月以限定商品身份首度發售，多年未再版而在二手市場行情看漲，此次透過P-Bandai再販，是入手這款經典衍生機體的難得機會。",
     reviews: [
       {
         title: "RG ガンダムアストレイ ゴールドフレーム レビュー | デンデロの消失",
@@ -6025,7 +6025,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2434381006",
     imageUrl: "/images/sd-legend-bb-victory-daishogun.jpg",
     tags: ["ガンダム", "SDガンダム", "BB戦士", "LEGEND BB", "SD戦国伝", "Bandai", "飛駆鳥大将軍", "P-Bandai限定"],
-    description: "「LEGEND BB」是BB戰士品牌重製經典SD鋼彈角色的高規格企劃，飛駆鳥大将軍正是《真・SD戰國傳 七人超將軍篇》中，歷代大將軍轉世重生而成的傳說存在，在七人超將軍當中地位最為崇高，造型以絢麗的鳳凰羽翼為主題，是系列中人氣及豪華度都名列前茅的一尊。\n\n作為LEGEND BB系列一貫的高級路線，本套件大量採用鍍金零件——頭盔、前甲、鎧甲、羽翼、腳踝、大砲等部位皆施以金色電鍍，部分小配件更追加銀色電鍍提升整體奢華感；寶玉貼紙與稜鏡貼紙細膩重現各式寶珠與「鳳凰羽鏡」的質感，並附有一把可與其他超將軍系列套件的光劍能量結晶零件互換使用的鍍銀劍身，展現出跨套件聯動的收藏樂趣。\n\n本作於2018年9月首次以P-Bandai限定身份發售，售價4,860日圓；2019年11月推出再販版本，並隨附兩張紀念SD鋼彈30週年的限定卡牌。此次透過P-Bandai台灣站開放預購，預計2026年4月出貨，售價NT$1,059，是重溫SD鋼彈童年回憶的絕佳選擇。",
+    description: "「LEGEND BB」是BB戰士品牌重製經典SD鋼彈角色的高規格企劃系列，飛駆鳥大将軍正是《真・SD戰國傳 七人超將軍篇》中，歷代大將軍轉世重生而成的傳說存在，在七人超將軍當中地位最為崇高、法力最為深厚，造型以絢麗的鳳凰羽翼為主題，是系列中人氣及豪華度都名列前茅的一尊，深受SD鋼彈老玩家喜愛。作為LEGEND BB系列一貫的高級路線，本套件大量採用鍍金零件——頭盔、前甲、鎧甲、羽翼、腳踝、大砲等部位皆施以金色電鍍，部分小配件更追加銀色電鍍提升整體奢華感；寶玉貼紙與稜鏡貼紙細膩重現各式寶珠與鳳凰羽鏡的質感，並附有一把可與其他超將軍系列套件的光劍能量結晶零件互換使用的鍍銀劍身，展現出跨套件聯動的收藏樂趣。本作於2018年9月首次以限定身份發售，售價4,860日圓；2019年11月推出再販版本並隨附兩張紀念SD鋼彈30週年的限定卡牌。此次透過P-Bandai台灣站開放預購，售價NT「LEGEND BB」是BB戰士品牌重製經典SD鋼彈角色的高規格企劃，飛駆鳥大将軍正是《真・SD戰國傳 七人超將軍篇》中，歷代大將軍轉世重生而成的傳說存在，在七人超將軍當中地位最為崇高，造型以絢麗的鳳凰羽翼為主題，是系列中人氣及豪華度都名列前茅的一尊。\n\n作為LEGEND BB系列一貫的高級路線，本套件大量採用鍍金零件——頭盔、前甲、鎧甲、羽翼、腳踝、大砲等部位皆施以金色電鍍，部分小配件更追加銀色電鍍提升整體奢華感；寶玉貼紙與稜鏡貼紙細膩重現各式寶珠與「鳳凰羽鏡」的質感，並附有一把可與其他超將軍系列套件的光劍能量結晶零件互換使用的鍍銀劍身，展現出跨套件聯動的收藏樂趣。\n\n本作於2018年9月首次以P-Bandai限定身份發售，售價4,860日圓；2019年11月推出再販版本，並隨附兩張紀念SD鋼彈30週年的限定卡牌。此次透過P-Bandai台灣站開放預購，預計2026年4月出貨，售價NT$1,059，是重溫SD鋼彈童年回憶的絕佳選擇。,059，是重溫SD鋼彈童年回憶的絕佳選擇。",
     reviews: [
       {
         title: "【更新官圖&販售資訊】LEGENDBB《新SD戰國傳 七人超將軍篇》飛驅鳥大將軍（飛駆鳥大将軍）【PB限定】",
@@ -6065,7 +6065,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2440865001",
     imageUrl: "/images/mg-gundam-x-unit3.jpg",
     tags: ["ガンダム", "MG", "1/100", "Bandai", "ガンダムX", "P-Bandai限定"],
-    description: "《機動新世紀鋼彈X》藍光紀念BOX特別收錄的全新繪製漫畫《與你同在，一直都是》中登場的GX-9900鋼彈X「3號機」，是加洛德原本座機在戰鬥中嚴重損毀後，蒐集舊地球聯邦各地研究設施殘存零件重新組裝而成的機體，象徵著主角在故事落幕後仍未停止的旅程。\n\n本套件沿用2013年評價極高的MG鋼彈X骨架架構，並未更動內構或可動範圍，僅針對3號機專屬配色重新設計——原本深藍色部位改為紫色系，肩甲同樣換上紫色成形色，並附上由插畫家時田光一操刀、專為新篇漫畫設計的全新水轉印貼紙。武裝配件齊全，包含護盾巴斯特步槍、光束軍刀、衛星加農砲及肩部火神砲單元，足以重現機體的滿裝火力姿態。\n\n本商品於2018年7月開放預購、同年8月出貨，為P-Bandai限定販售商品，日版售價4,320日圓。此次於P-Bandai台灣站上架，售價NT$1,150，方便台灣玩家收藏這款劇情延伸限定色版本。",
+    description: "《機動新世紀鋼彈X》是描繪第七次新吉翁戰爭後、地球荒廢重建時代的作品，主角加洛德・朗駕駛鋼彈X在僅存的新舊人類之間穿梭求生，最終武裝「衛星加農砲」是全系列印象最深刻的招牌招式之一。藍光紀念BOX特別收錄的全新繪製漫畫《與你同在，一直都是》中登場的「3號機」，是加洛德原本座機在戰鬥中嚴重損毀後，蒐集舊地球聯邦各地研究設施殘存零件重新組裝而成的機體，象徵著主角在故事落幕後仍未停止的旅程，也為長年期盼續篇的粉絲帶來一絲慰藉。本套件沿用2013年評價極高的MG鋼彈X骨架架構，並未更動內構或可動範圍，僅針對3號機專屬配色重新設計——原本深藍色部位改為紫色系，肩甲同樣換上紫色成形色，並附上專為新篇漫畫設計的全新水轉印貼紙。武裝配件齊全，包含護盾巴斯特步槍、光束軍刀、衛星加農砲及肩部火神砲單元，足以重現機體的滿裝火力姿態。本商品2018年7月開放預購、同年8月出貨，為限定販售商品，此次於P-Bandai台灣站上架，方便台灣玩家收藏這款劇情延伸限定色版本。",
     reviews: [
       {
         title: "[開箱]PB MG 1/100 機動新世紀鋼彈X 3 號機 – vertony's Dungeons",
@@ -6100,7 +6100,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5786/",
     imageUrl: "/images/mg-rezel-typec-defenser-ab.jpg",
     tags: ["ガンダム", "機動戦士ガンダムUC", "ReZEL", "MG", "1/100", "Bandai", "P-Bandai限定", "ゼネラル・レビル"],
-    description: "MG 1/100 RGZ-95C リゼルC型(ディフェンサーa+bユニット/ゼネラル・レビル配備機) 是《機動戦士ガンダムUC》第六話登場、由地球聯邦軍旗艦「將軍雷比爾號（General Revil）」搭載機的特別配色版本。原本量產機 ReZEL 便以繼承 Z 系血統的修長機身廣受歡迎，這款配備型換上灰橙相間的旗艦護衛塗裝，並追加了大型後背包「Defenser Unit」，戰鬥力遠超一般運用機。\n\n套件本體收錄「a Unit」與「b Unit」兩種增裝背包：a Unit 配備六連裝大型飛彈莢艙與兩把承襲自 ZZ Gundam 的巨型光劍（同時可切換為 Beam Cannon 使用）；b Unit 則搭載雙聯裝 Mega Beam Launcher 與 Mega 粒子砲，可於中短程與遠程之間靈活切換打擊手段。機體亦可透過換裝零件完整重現 MS 形態與 Wave Rider 高速形態的變形機構，是 UC 系列少數具備完整可變設計的量產機。\n\n雖然原版 ReZEL 下半身穩定性是知名弱點，加裝大型背包後重心更為後傾，但套件貼心附上支撐架輔助站立。值得一提的是，萬代當年僅將售價從基礎版上調約 1,500 日圓，就一次收錄 a、b 兩種背包，CP 值極高，至今仍被模型玩家譽為近十年最具誠意的鋼普拉之一。",
+    description: "《機動戰士鋼彈UC》是描繪一年戰爭後、宇宙世紀0096年拉普拉斯事件的作品，故事中登場的量產機「ReZEL」承襲Z鋼彈系血統，以修長機身與均衡性能廣受玩家好評。本商品是第六話登場、由地球聯邦軍旗艦「將軍雷比爾號」搭載機的特別配色版本，換上灰橙相間的旗艦護衛塗裝，並追加大型後背包「Defenser Unit」，戰鬥力遠超一般運用機，象徵著旗艦護衛部隊的高規格待遇。套件本體收錄「a Unit」與「b Unit」兩種增裝背包：a Unit配備六連裝大型飛彈莢艙與兩把承襲自ZZ鋼彈的巨型光劍，同時可切換為Beam Cannon使用；b Unit則搭載雙聯裝Mega Beam Launcher與Mega粒子砲，可於中短程與遠程之間靈活切換打擊手段。機體亦可透過換裝零件完整重現MS形態與Wave Rider高速形態的變形機構，是UC系列少數具備完整可變設計的量產機。雖然原版下半身穩定性是知名弱點，加裝大型背包後套件貼心附上支撐架輔助站立，且一次收錄兩種背包CP值極高，至今仍被玩家譽為近十年最具誠意的鋼普拉之一。",
     reviews: [
       {
         title: "MG ReZel type-C (Defencer unit A + B) — 一天到晚作模型的MS翰",
@@ -6140,7 +6140,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/AZ005368001",
     imageUrl: "/images/hg-gekiryujin.jpg",
     tags: ["勇者王ガオガイガー", "GaoGaiGar", "撃龍神", "HG", "Bandai Spirits", "P-Bandai限定", "風龍", "雷龍"],
-    description: "《勇者王ガオガイガー》是 1997 年至 1998 年播出的經典勇者系列動畫，「撃龍神（Gekiryujin）」正是劇中登場的合體機器人之一，由攪拌車型態的「風龍（Fuuryuu）」與傾卸車型態的「雷龍（Rairyuu）」透過獨特的「對稱合體（シンメトリカルドッキング）」機構結合而成。\n\n此次 HG 立體化的撃龍神以「動態擺姿表現」為開發主軸，兩台載具機器人皆各自具備完整的變形機構，可從載具形態變化為機器人形態，再透過零件換裝進行左右對稱合體，重現原作中撃龍神登場的英姿。套件同時收錄エレキガン、ジャオダンジィ、デンジャンホー等武裝配件與多款替換表情面部零件，讓玩家能自由重現各種招式姿勢。\n\n作為 Premium Bandai 限定商品，本作也預留了與另款「HG 超龍神」合體的擴充性，只要另外購入即可重現「幻龍神」與「強龍神」的最終合體形態，滿足資深勇者迷收藏兩大龍神系列、湊齊終極合體的心願。",
+    description: "《勇者王GaoGaiGar》是1997年至1998年播出的經典勇者系列動畫，講述地球守護組織GGG對抗機械生命體「ゾンダー」侵略的故事，劇中登場的多台合體機器人以獨特變形合體機構著稱。「撃龍神」正是其中登場的合體機器人之一，由攪拌車型態的「風龍」與傾卸車型態的「雷龍」透過獨特的「對稱合體」機構結合而成，是系列中人氣頗高的支援型合體機體。此次HG立體化以「動態擺姿表現」為開發主軸，兩台載具機器人皆各自具備完整變形機構，可從載具形態變化為機器人形態，再透過零件換裝進行左右對稱合體，重現原作中撃龍神登場的英姿。套件同時收錄多款武裝配件與多款替換表情面部零件，讓玩家能自由重現各種招式姿勢。作為Premium Bandai限定商品，本作也預留了與另款「HG超龍神」合體的擴充性，只要另外購入即可重現「幻龍神」與「強龍神」的最終合體形態，滿足資深勇者迷收藏兩大龍神系列、湊齊終極合體的心願，是勇者系列鋼普拉化中頗具野心的一款企劃。",
     reviews: [
       {
         title: "HG 撃龍神 レビューその１ 風龍＆雷龍編【勇者王ガオガイガー】",
@@ -6176,7 +6176,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5109/",
     imageUrl: "/images/hg-am-gunner.jpg",
     tags: ["スーパーロボット大戦OG", "AMガンナー", "HG", "Bandai Spirits", "P-Bandai限定", "ヒュッケバインMk-III"],
-    description: "《スーパーロボット大戦OG》系列中，「AMガンナー（AM Gunner）」是專為駕駛員機體「ヒュッケバインMk-III」打造的個人運兵載具（パーソナルトルーパー・キャリア），如今首次以全新開模的 HG 規格立體化，完整重現其修長流線的巨大艦體。\n\n完成後全長約 390mm，是相當有份量的重量級套件：機身兩側的 G インパクトキャノン（G Impact Cannon）砲管以成形色精細分色重現，鞍座部位並設計有可展開的 3mm 軸接口機構，方便搭載 Huckebein Mk-III（需另外購入）並維持穩定站姿。握把與踏板部位各自具備兩處可動關節，能因應各種豪邁的駕駛姿勢做出調整。\n\n機身兩側的多重追蹤飛彈莢艙艙蓋可依設定連動開闔，彈頭並以分件成形色呈現，無須額外塗裝即可完美重現原作設定。作為 Premium Bandai 限定商品，AMガンナー自 2024 年初次接受訂購後便迅速售罄，是機戰系列鋼普拉化中人氣居高不下的支援武裝代表作。",
+    description: "《超級機器人大戰OG》是萬代旗下原創機體構成的機戰系列作品，脫離既有動畫版權限制，自由發展出獨自的世界觀與角色設定，「ヒュッケバインMk-III」是系列中人氣頗高的主力機體之一。「AMガンナー」是專為駕駛員機體ヒュッケバインMk-III打造的個人運兵載具，如今首次以全新開模的HG規格立體化，完整重現其修長流線的巨大艦體，扮演將機體運送至戰場並提供火力支援的後勤兼武裝平台角色。完成後全長約390mm，是相當有份量的重量級套件：機身兩側的G Impact Cannon砲管以成形色精細分色重現，鞍座部位設計有可展開的3mm軸接口機構，方便搭載Huckebein Mk-III並維持穩定站姿。握把與踏板部位各自具備兩處可動關節，能因應各種豪邁的駕駛姿勢做出調整。機身兩側的多重追蹤飛彈莢艙艙蓋可依設定連動開闔，彈頭並以分件成形色呈現，無須額外塗裝即可完美重現原作設定。作為Premium Bandai限定商品，AMガンナー自2024年初次接受訂購後便迅速售罄，是機戰系列鋼普拉化中人氣居高不下的支援武裝代表作。",
     reviews: [
       {
         title: "萬代PB HG AM砲艇型補助裝備 -超級機器人大戰OG系列快速開箱! AM Gunner",
@@ -6216,7 +6216,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5532/",
     imageUrl: "/images/rg-nu-gundam-double-fin-funnel.jpg",
     tags: ["ガンプラ", "RG", "Bandai", "逆襲のシャア", "νガンダム", "GUNDAM SIDE-F", "フィンファンネル"],
-    description: "Bandai Spirits RG 1/144《機動戰士鋼彈 逆襲的夏亞》限定機體νガンダム(ダブル・フィン・ファンネル装備型)，是為紀念「GUNDAM SIDE-F」福岡復刻展示企劃、以逆襲的夏亞MSV設定為藍本推出的強化版νGUNDAM。相較於標準版RG νGUNDAM，本商品拿掉右肩原本收納光束軍刀的掛架，改為安裝第二組Fin Funnel掛架，使機體最多可同時搭載12枚Fin Funnel，重現設定畫集中「雙翼」形象的最強阿姆羅專用機。\n\n套件依福地仁的MSV設定畫重新設計頭部、胸甲、肩甲、腰部前裙甲、光束步槍與盾牌等多處零件，新版Fin Funnel可個別拆卸並切換「發射待機」與「收納」兩種姿態，展示自由度大幅提升。RG系列一貫的內構骨架與可動範圍，讓本作得以擺出比舊有MG、HG版更誇張的浮游砲攻擊姿勢。\n\n本商品於2024年12月21日限定在「GUNDAM BASE TOKYO／GUNDAM SIDE-F」與線上通路（Premium Bandai）以會員限定方式販售，主要為防止黃牛炒作而採取購買資格限制，之後也規劃在THE GUNDAM BASE海外據點及線上商店販售，是鋼彈45週年紀念活動中話題度最高的RG商品之一。",
+    description: "《機動戰士鋼彈 逆襲的夏亞》是宇宙世紀系列的重要轉捩點，講述阿姆羅・雷與夏亞・阿茲納布多年恩怨的最終決戰，阿姆羅專用機νGUNDAM搭載的浮游砲「Fin Funnel」是全系列最具代表性的武裝設定之一。本商品是為紀念「GUNDAM SIDE-F」福岡復刻展示企劃、以逆襲的夏亞MSV設定為藍本推出的強化版νGUNDAM，相較於標準版RG νGUNDAM，本商品拿掉右肩原本收納光束軍刀的掛架，改為安裝第二組Fin Funnel掛架，使機體最多可同時搭載12枚Fin Funnel，重現設定畫集中「雙翼」形象的最強阿姆羅專用機。套件依福地仁的MSV設定畫重新設計頭部、胸甲、肩甲、腰部前裙甲、光束步槍與盾牌等多處零件，新版Fin Funnel可個別拆卸並切換「發射待機」與「收納」兩種姿態，展示自由度大幅提升。RG系列一貫的內構骨架與可動範圍，讓本作得以擺出比舊有MG、HG版更誇張的浮游砲攻擊姿勢。本商品2024年12月21日限定在GUNDAM BASE TOKYO與線上通路以會員限定方式販售，是鋼彈45週年紀念活動中話題度最高的RG商品之一。",
     reviews: [
       {
         title: "RG νガンダム（ダブル・フィン・ファンネル装備型） レビュー",
@@ -6245,7 +6245,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5986/",
     imageUrl: "/images/hg-rick-dom-gaia-ortega-gq.jpg",
     tags: ["ガンプラ", "HG", "Bandai", "GQuuuuuuX", "リック・ドム", "黒い三連星", "ジークアクス"],
-    description: "Bandai Spirits HG 1/144《機動戰士Gundam GQuuuuuuX（鋼彈 GQuuuuuuX）》新商品，將黑色三連星成員加亞（Gaia）與奧爾提加（Ortega）駕駛的専用機「リック・ドム ガイア機/オルテガ機(GQ)」正式收錄進HG系列。本作以獨立世界線「ジークアクス」版基連姆軍設計為基礎，在保留初代リック・ドム傳統剪影的前提下大幅強化細節，背部加裝的巨大腿部推進單元讓機體看起來宛如三腳機動兵器，充分展現該世界線的架空科技感。\n\n套件可動範圍遠超以往同型號製品，頭部採用球形關節式單眼，能自由指向各種角度；機身內建高機動形態變形機構，無需替換零件即可重現作品中的高速突擊姿態。配件包含巨大火箭筒（附可動握把）、熱能軍刀兩把（一備用）、以及使用鉛線重現的電磁鎬（電磁ハーケン），並附貼紙供加亞、奧爾提加雙塗裝方案自由選擇組裝。\n\n本商品已於2025年9月20日發售，定價3,300日圓（未稅），是《GQuuuuuuX》系列中人氣與話題度均相當高的角色機體之一，發售後隨即登上多家鋼彈情報網站與YouTube開箱頻道的推薦名單。",
+    description: "《機動戰士Gundam GQuuuuuuX》是2025年推出、以獨立世界線重新詮釋一年戰爭時代的話題企劃作品，「黑色三連星」是原作《機動戰士鋼彈》中著名的吉翁軍王牌駕駛小隊，由加亞、奧爾提加與馬・克貝三人組成，以團隊默契與豐富實戰經驗聞名。本作將黑色三連星成員加亞與奧爾提加駕駛的專用機「リック・ドム」正式收錄進HG系列，以獨立世界線「ジークアクス」版基連姆軍設計為基礎，在保留初代リック・ドム傳統剪影的前提下大幅強化細節，背部加裝的巨大腿部推進單元讓機體看起來宛如三腳機動兵器，充分展現該世界線的架空科技感。套件可動範圍遠超以往同型號製品，頭部採用球形關節式單眼，能自由指向各種角度；機身內建高機動形態變形機構，無需替換零件即可重現作品中的高速突擊姿態。配件包含巨大火箭筒、熱能軍刀兩把、以及使用鉛線重現的電磁鎬，並附貼紙供加亞、奧爾提加雙塗裝方案自由選擇組裝。本商品2025年9月20日發售，是《GQuuuuuuX》系列中人氣與話題度均相當高的角色機體之一。",
     reviews: [
       {
         title: "HG リック・ドム ガイア機/オルテガ機(GQ) レビュー",
@@ -6286,7 +6286,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.megahobby.jp/products/item/4948/",
     imageUrl: "/images/asurada-vsx-r.jpg",
     tags: ["ヴァリアブルアクション", "MegaHouse", "サイバーフォーミュラ", "アスラーダ", "河森正治", "1/24"],
-    description: "MegaHouse旗下可動人偶品牌「ヴァリアブルアクション」新系列「バリエーションズ」，推出《新世紀GPX賽車手方程式》機械設計師河森正治在令和時代重新構思的第二款原創新概念賽車機體——「アスラーダV.S.X-R」。造型靈感取自「量產版」阿斯拉達的概念設計，呈現介於劇中超級跑車與近未來概念車之間的洗鍊線條，約1/24比例、全長約190mm，塗裝完成品即可上手把玩，附專用展示台座。\n\n本商品最大賣點在於豐富的可動與換裝機關：透過替換零件可展開機身側邊的增壓艙（Boost Pod）與尾翼，並能從一般模式切換為SUV模式，甚至進一步變形為敞篷車形態，重現原作中阿斯拉達多樣化的機能造型。車身部分採用蓄光塗料，關燈後車身線條會呈現螢光綠色的未來科技光效，向初代「Vision Asurada」商品致敬。\n\n本商品自2025年2月6日起於Premium Bandai等通路開放預購，2025年8月下旬正式發售，定價27,280日圓（含稅），限定版並附河森正治手繪插圖明信片，是《賽車手方程式》系列近年紀念企劃中備受矚目的高單價收藏品之一。",
+    description: "《新世紀GPX賽車手方程式》是1991年播出的經典未來賽車動畫，講述配備人工智慧的高科技賽車「阿斯拉達」與少年車手風見隼人在賽場上並肩作戰的故事，機械設計出自巨匠河森正治之手，其充滿速度感與生物機械美學的線條設計成為系列標誌。MegaHouse旗下可動人偶品牌「ヴァリアブルアクション」新系列「バリエーションズ」，推出河森正治在令和時代重新構思的第二款原創新概念賽車機體「アスラーダV.S.X-R」。造型靈感取自「量產版」阿斯拉達的概念設計，呈現介於劇中超級跑車與近未來概念車之間的洗鍊線條，約1/24比例、全長約190mm，塗裝完成品即可上手把玩，附專用展示台座。本商品最大賣點在於豐富的可動與換裝機關：透過替換零件可展開機身側邊的增壓艙與尾翼，並能從一般模式切換為SUV模式，甚至進一步變形為敞篷車形態，重現原作中阿斯拉達多樣化的機能造型。車身部分採用蓄光塗料，關燈後車身線條會呈現螢光綠色的未來科技光效，向初代商品致敬。本商品2025年8月下旬正式發售，定價27,280日圓，是系列近年紀念企劃中備受矚目的高單價收藏品之一。",
     reviews: [
       {
         title: "「新世紀GPXサイバーフォーミュラ」アスラーダV.S.X-Rがメガハウスからフィギュア化！",
@@ -6316,7 +6316,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://online.aniplex.co.jp/itemtqcrlNXw.html",
     imageUrl: "/images/kasumigaoka-utaha-japanese-clothes.jpg",
     tags: ["冴えない彼女の育てかた", "霞ヶ丘詩羽", "和服", "花魁", "ANIPLEX+", "1/8"],
-    description: "本作是ANIPLEX+推出的《冴えない彼女の育てかた》人氣角色霞ヶ丘詩羽（詩羽學姊）1/8比例「和服ver.」，以角色原案深崎暮人繪製的花魁風格插畫為原型立體化。詩羽身著鬆垮披掛的深紫色羽織，搭配金色紋樣華麗的腰帶，胸口若隱若現的肌膚展現出成熟嫵媚的氣質，是系列中辨識度極高的一款造型。\n\n細節部分同樣講究：頭髮上點綴著鮮紅石榴石風格的髮飾，手中撐著一把漸層上色、呈現半透明質感的番傘，整體站姿優雅、視線微微向前，帶著溫柔卻又略帶挑逗的笑容，將詩羽身為「隱藏系」女主角的魅力表現得淋漓盡致。原型製作為Design Coco，塗裝由MIC Corporation負責，材質為ATBC-PVC並附專用台座。\n\n本商品自2017年3月25日起於ANIPLEX+線上商店接受預約訂購（受注生産），至同年5月29日截止，2018年3月11日正式出貨，官方售價為13,241日圓（含稅）。作為限定通販商品，如今在市面上已屬稀少的收藏品，深受詩羽學姊粉絲與和服系列愛好者追捧。",
+    description: "《不起眼女主角培育法》是丸戶史明原作、深崎暮人繪製角色的人氣輕小說改編作品，講述主角安藝倫也與多位女主角一同製作同人遊戲的青春物語，霞之丘詩羽（詩羽學姊）身為暢銷輕小說作家「霞詩子」，個性毒舌腹黑卻對倫也懷抱著複雜情感，是系列中人氣最高的「隱藏系」角色之一，長年在讀者票選中名列前茅。本作是ANIPLEX+推出的詩羽1/8比例「和服ver.」，以角色原案深崎暮人繪製的花魁風格插畫為原型立體化，詩羽身著鬆垮披掛的深紫色羽織，搭配金色紋樣華麗的腰帶，胸口若隱若現的肌膚展現出成熟嫵媚的氣質，是系列中辨識度極高的一款造型。細節部分同樣講究：頭髮上點綴著鮮紅石榴石風格的髮飾，手中撐著一把漸層上色、呈現半透明質感的番傘，整體站姿優雅、視線微微向前，帶著溫柔卻又略帶挑逗的笑容。原型製作為Design Coco，塗裝由MIC Corporation負責，材質為ATBC-PVC並附專用台座。本商品2017年受注生產、2018年3月出貨，售價13,241日圓，如今在市面上已屬稀少的收藏品，深受詩羽學姊粉絲與和服系列愛好者追捧。",
     reviews: [
       {
         title: "吸引全場目光的花魁風格！《不起眼女主角培育法》霞之丘詩羽 和服ver. 1/8比例模型【ANIPLEX+限定】",
@@ -6352,7 +6352,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://kdcolle.kadokawa.co.jp/product/kimisen/4935228318773.html",
     imageUrl: "/images/aliceliese-lou-nebulis-original-dress.jpg",
     tags: ["キミと僕の最後の戦場、あるいは世界が始まる聖戦", "アリスリーゼ・ルゥ・ネビュリス9世", "KDcolle", "KADOKAWA", "1/7", "冰禍魔女", "星靈使", "美少女フィギュア"],
-    description: "阿麗絲莉婕・盧・涅比里斯九世（アリスリーゼ・ルゥ・ネビュリス9世）是輕小說改編動畫《你與我最後的戰場，或是世界重生的聖戰》中涅比里斯皇廳的第二皇女，同時是令帝國聞風喪膽的最強星靈使「冰禍魔女」。她外表清麗優雅、氣質高貴，實則擁有能瞬間凍結一切的強大星靈力量，是全系列人氣最高的女主角之一。\n\n本作為KADOKAWA旗下KDcolle推出的1/7比例塗裝完成品，經原作者珪素親自監修設計電擊文庫版原創禮服，展現躍動感十足的躍身姿態，金色紋樣與紅色荷葉邊層層堆疊，背後與台座並飾有星靈使身份象徵的星辰紋章。原型製作由Sebe操刀，全高約250mm，2021年7月27日發售，官方售價21,780日圓（含稅）。",
+    description: "《你與我最後的戰場，或是世界重生的聖戰》是細音啟原作的人氣輕小說改編動畫，描繪帝國最強劍士伊斯卡與涅比里斯皇廳皇女阿麗絲莉婕之間亦敵亦友的複雜關係，兩人身處敵對陣營卻彼此惺惺相惜，是近年輕小說改編作品中頗受矚目的一部。阿麗絲莉婕・盧・涅比里斯九世是涅比里斯皇廳的第二皇女，同時是令帝國聞風喪膽的最強星靈使「冰禍魔女」，她外表清麗優雅、氣質高貴，實則擁有能瞬間凍結一切的強大星靈力量，是全系列人氣最高的女主角之一。本作為KADOKAWA旗下KDcolle推出的1/7比例塗裝完成品，經原作者珪素親自監修設計電擊文庫版原創禮服，展現躍動感十足的躍身姿態，金色紋樣與紅色荷葉邊層層堆疊，背後與台座並飾有星靈使身份象徵的星辰紋章，將角色高貴又充滿力量感的形象具體呈現。原型製作由Sebe操刀，全高約250mm，2021年7月27日發售，官方售價21,780日圓（含稅），是喜愛本作的粉絲不可錯過的一款代表性收藏品。",
     reviews: [
       {
         title: "KADOKAWA「キミと僕の最後の戦場、あるいは世界が始まる聖戦 アリスリーゼ・ルゥ・ネビュリス9世 オリジナルドレスVer.」フィギュアレビュー",
@@ -6383,7 +6383,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://arcadia.ac/",
     imageUrl: "/images/yamato-macross-zero-vf0s.jpg",
     tags: ["マクロスゼロ", "VF-0S", "フェニックス", "ロイ・フォッカー", "YAMATO", "1/60", "完全変形", "ロボット"],
-    description: "《超時空要塞ZERO》（マクロスゼロ）是為紀念《超時空要塞》系列播出20週年推出的OVA作品，故事發生在南方諸島群戰役期間。VF-0S「鳳凰」是傳奇王牌飛行員洛伊·福克（ロイ・フォッカー）的座機，機體以白色為基調並繪有骷髏標誌，是VF-1女武神系列的原型機種，代表統合軍最早期實戰化的可變戰鬥機。\n\n本商品為YAMATO推出的1/60比例「完全変形」系列可動玩具，可在戰鬥機、GERWALK、機甲人形三種形態間完整變形，內建大量壓鐵提升手感與可動性，隨附機炮莢艙、副油箱、飛行員模型與多款武裝配件，戰鬥機模式全長約320mm。2006年4月發售，是YAMATO可變戰鬥機系列的代表作之一，深受馬克羅斯玩具收藏者喜愛。",
+    description: "《超時空要塞ZERO》是為紀念《超時空要塞》系列播出20週年推出的OVA作品，故事發生在南方諸島群戰役期間，時間點早於初代電視動畫，補完了系列草創初期的世界觀設定。VF-0S「鳳凰」是傳奇王牌飛行員洛伊・福克的座機，機體以白色為基調並繪有骷髏標誌，是VF-1女武神系列的原型機種，代表統合軍最早期實戰化的可變戰鬥機，其兼具戰鬥機、GERWALK人機一體形態與人形機甲三段變形的機構，正是後續整個系列可變戰機設計的原點。本商品為YAMATO推出的1/60比例「完全変形」系列可動玩具，可在戰鬥機、GERWALK、機甲人形三種形態間完整變形，內建大量壓鐵提升手感與可動性，兼顧變形機構的精密度與整體持握的沉穩份量感。套件隨附機炮莢艙、副油箱、飛行員模型與多款武裝配件，戰鬥機模式全長約320mm，充分呈現初代原型機略顯簡樸卻紮實的軍用氣息。本作2006年4月發售，是YAMATO可變戰鬥機系列的代表作之一，深受馬克羅斯玩具收藏者喜愛。",
     reviews: [],
     youtube: [
       {
@@ -6408,7 +6408,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/12506/霞ヶ丘詩羽.html",
     imageUrl: "/images/saekano-utaha-white-dress-1-7.jpg",
     tags: ["冴えない彼女の育てかた", "霞ヶ丘詩羽", "ワンピース", "Phat!", "1/7", "白いドレス", "美少女フィギュア"],
-    description: "霞ヶ丘詩羽（かすみがおかうたは）是輕小說改編動畫《不起眼女主角培育法》中的女主角之一，同時是暢銷輕小說作家「霞詩子」，個性毒舌腹黑卻對學弟安藝倫也懷抱著複雜情感，是系列人氣最高的「隱藏系」角色之一，長年在讀者投票中與加藤惠、澤村・史賓瑟・英梨梨並列前三強。\n\n本商品為Phat!（ファット・カンパニー）推出的1/7比例塗裝完成品，取材自《不起眼女主角培育法♭》，以白色為基調的洋裝造型呈現詩羽學姊少見的溫柔淺笑，隨風飄揚的長髮與裙擺經過細膩雕琢，搭配原作繪師深崎暮人纖細筆觸重現的漸層配色，頭戴白色寬帽更添成熟氣質。全高約260mm（含帽子），附專用台座，2023年9月30日發售，官方售價16,800日圓（含稅）。",
+    description: "霞之丘詩羽是輕小說改編動畫《不起眼女主角培育法》中的女主角之一，同時是暢銷輕小說作家「霞詩子」，個性毒舌腹黑卻對學弟安藝倫也懷抱著複雜情感，是系列人氣最高的「隱藏系」角色之一，長年在讀者投票中與加藤惠、澤村・史賓瑟・英梨梨並列前三強，其若即若離的態度與偶爾流露的真心形成的反差魅力，是角色長銷不衰的關鍵。本商品為Phat!（ファット・カンパニー）推出的1/7比例塗裝完成品，取材自續篇《不起眼女主角培育法♭》，以白色為基調的洋裝造型呈現詩羽學姊少見的溫柔淺笑，一改平時毒舌形象展現出更加柔和的一面。隨風飄揚的長髮與裙擺經過細膩雕琢，搭配原作繪師深崎暮人纖細筆觸重現的漸層配色，頭戴白色寬帽更添成熟氣質，整體呈現出既清純又帶有女人味的複合氣質。全高約260mm（含帽子），附專用台座，2023年9月30日發售，官方售價16,800日圓（含稅），是詩羽學姊眾多手辦作品中風格較為柔美的一款代表作。",
     reviews: [
       {
         title: "【開箱】Phat! 霞之丘詩羽 pvc 1/7",
@@ -6438,7 +6438,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sen-ti-nel.co.jp/items/1-48-afc-01h-regios/",
     imageUrl: "/images/mospeada-legioss-afc01h.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01H", "RIOBOT", "千値練", "1/48"],
-    description: "「機甲創世記モスピーダ」（1983年，タツノコプロ）是繼《超時空要塞》後又一部影響深遠的機械改編作品，海外以《Robotech: The New Generation》之名播出。AFC-01 レギオス（Legioss）為劇中主力可變戰鬥機，可在アーモファイター（戰鬥機）、アーモダイバー（中間形態）、アーモソルジャー（人形機器人）三形態間完全變形；其中エータ（Eta）為指揮官機，由主角スティック・バーナード駕駛，於第二次地球奪還作戰中降臨地球。\n\n本品為千値練（Sentinel）RIOBOT系列於2020年6月推出的1/48比例可動完成品，採用壓鑄合金、ABS、PVC等多種材質，重新設計變形機構，人形態下駕駛艙可收納至胸部並下移至頭部下方，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀。隨附光束砲、飛彈莢艙、可動迷你騎乘裝甲（ライドアーマー）與飛行員人偶及展示台，是MOSPEADA收藏中不可或缺的核心機體。",
+    description: "「機甲創世記MOSPEADA」（1983年，タツノコプロ）是繼《超時空要塞》後又一部影響深遠的機械改編作品，海外以《Robotech: The New Generation》之名播出，講述地球遭外星種族因比特侵略後，火星降下部隊駕駛可變形兵裝展開反攻的故事。AFC-01「レギオス」為劇中主力可變戰鬥機，可在戰鬥機、中間形態、人形機器人三形態間完全變形；其中「エータ」為指揮官機，由主角スティック・バーナード駕駛，於第二次地球奪還作戰中降臨地球，是全系列的核心主力機體，肩負隊伍指揮與突擊雙重任務。本品為千値練RIOBOT系列於2020年6月推出的1/48比例可動完成品，採用壓鑄合金、ABS、PVC等多種材質，重新設計變形機構，人形態下駕駛艙可收納至胸部並下移至頭部下方，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀，機構精密度遠超舊有玩具產品。隨附光束砲、飛彈莢艙、可動迷你騎乘裝甲與飛行員人偶及展示台，是MOSPEADA收藏中不可或缺的核心機體。",
     reviews: [],
     youtube: [
       {
@@ -6468,7 +6468,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-legioss-zeta/",
     imageUrl: "/images/mospeada-legioss-afc01z.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01Z", "RIOBOT", "千値練", "1/48"],
-    description: "AFC-01Z レギオス・ゼータ（Legioss Zeta）是「機甲創世記モスピーダ」故事後段登場的強化型可變戰鬥機，由角色フーケ（Fouquet）駕駛，塗裝以鮮紅色為主，象徵其作為前線精銳部隊機體的身分。與指揮官機エータ相同，ゼータ同樣具備アーモファイター、アーモダイバー、アーモソルジャー三段變形，但在武裝與機動性上做了進一步強化，可換裝光束步槍與光束砲。\n\n本品為千値練RIOBOT系列於2021年1月推出的1/48比例可動完成品，承襲エータ版的壓鑄合金與ABS/PVC混合結構，並針對前作變形卡榫、腳部收納等細節重新調校，操作更為流暢。隨附可動迷你騎乘裝甲、替換武裝與展示台，紅白配色搭配細緻標誌貼片，是MOSPEADA系列中人氣極高的強化量產機體之一。",
+    description: "AFC-01Z「レギオス・ゼータ」是「機甲創世記MOSPEADA」故事後段登場的強化型可變戰鬥機，由角色フーケ駕駛，塗裝以鮮紅色為主，象徵其作為前線精銳部隊機體的身分。フーケ在原作中是隊伍中經驗豐富的資深成員，性格沉穩可靠，其座機也因此被賦予了更具攻擊性的強化配置。與指揮官機エータ相同，ゼータ同樣具備戰鬥機、中間形態、人形機器人三段變形，但在武裝與機動性上做了進一步強化，可換裝光束步槍與光束砲，呼應其作為前線突擊主力的定位。本品為千値練RIOBOT系列於2021年1月推出的1/48比例可動完成品，承襲エータ版的壓鑄合金與ABS/PVC混合結構，並針對前作變形卡榫、腳部收納等細節重新調校，操作更為流暢順手，變形過程的緊密度與穩定性皆有提升。隨附可動迷你騎乘裝甲、替換武裝與展示台，紅白配色搭配細緻標誌貼片，鮮明的塗裝與エータ機並列展示時更顯層次對比，是MOSPEADA系列中人氣極高的強化量產機體之一，也是RIOBOT系列補完隊伍陣容的重要一環。",
     reviews: [],
     youtube: [
       {
@@ -6493,7 +6493,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-tread/",
     imageUrl: "/images/mospeada-legioss-tread-ab01h.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "トレッド", "Tread", "AB-01H", "RIOBOT", "千値練", "1/48"],
-    description: "トレッド（Tread，型式編號AB-01H）是「機甲創世記モスピーダ」系列中登場的アーモボマー（Armo Bomber）型可變運輸支援機，機體設計沿襲AFC-01 レギオス系統，可與指揮官機エータ合體組成「トレッド＆レギオス」形態，於劇中及外傳作品中負責火力支援與大型武裝搭載任務，是系列中頗具人氣的重裝機體。\n\n本品為千値練RIOBOT系列於2025年7月推出的1/48比例可動完成品，由T-REX擔綱原型與機構設計、早川洋司負責塗裝完稿，可在アーモボマー、アーモダイバー、アーモソルジャー三形態間免換件完全變形，大量使用壓鑄合金零件確保變形穩定性，並可與另售的RIOBOT レギオス・エータ合體展示、重現劇中經典組合場景，是MOSPEADA收藏者期待已久的重磅機體。",
+    description: "「トレッド」（型式編號AB-01H）是「機甲創世記MOSPEADA」系列中登場的アーモボマー型可變運輸支援機，機體設計沿襲AFC-01レギオス系統，可與指揮官機エータ合體組成「トレッド＆レギオス」形態，於劇中及外傳作品中負責火力支援與大型武裝搭載任務，其厚重的運輸機體型與レギオス的流線戰機形成強烈對比，是系列中頗具人氣的重裝機體，象徵著地球降下部隊在火力配置上的多元組合思路。本品為千値練RIOBOT系列於2025年7月推出的1/48比例可動完成品，由T-REX擔綱原型與機構設計、早川洋司負責塗裝完稿，可在アーモボマー、アーモダイバー、アーモソルジャー三形態間免換件完全變形，大量使用壓鑄合金零件確保變形穩定性，讓大型機體在變形過程中依然保持結構紮實的手感。本作可與另售的RIOBOT レギオス・エータ合體展示、重現劇中經典組合場景，補完了RIOBOT MOSPEADA系列長年來玩家期待已久的合體機構，是系列收藏者心目中的重磅壓軸機體之一。",
     reviews: [],
     youtube: [
       {
@@ -6518,7 +6518,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.sentinel-toys.com/index.php?route=product/product&product_id=635",
     imageUrl: "/images/mospeada-vr038l-fuke-bartley.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "バートレイ", "VR-038L", "千値練", "ライドアーマー", "1/12"],
-    description: "《機甲創世記モスピーダ》是1983年タツノコプロ製作的經典機甲動畫，描述地球受外星種族因比特（Inbit）侵略後，火星降下部隊展開反攻的冒險旅程。作品中的兵裝可從騎乘服、裝甲機車（Armor Cycle）到人形裝甲（Ride Armor）三段變形，深刻影響後來的機甲玩具企劃。VR-038L「バートレイ」是系列中少見的女性專用第一世代Ride Armor，由隊伍成員フーケ・エローズ駕駛，配備可發射實彈與光束的專用巴祖卡炮。",
+    description: "《機甲創世記MOSPEADA》是1983年タツノコプロ製作的經典機甲動畫，描述地球受外星種族因比特侵略後，火星降下部隊展開反攻的冒險旅程。作品中的兵裝可從騎乘服、裝甲機車到人形裝甲三段變形，深刻影響後來的機甲玩具企劃，是80年代變形機甲設計的重要里程碑之一。VR-038L「バートレイ」是系列中少見的女性專用第一世代Ride Armor，由隊伍成員フーケ・エローズ駕駛，配備可發射實彈與光束的專用巴祖卡炮，機體造型相對纖細俐落，呼應其駕駛員在隊伍中機動偵查與支援的角色定位。作為RIOBOT系列重現原作三段變形樂趣的一員，本品延續千値練一貫講究的機構設計，力求在小比例下仍保有精密可動性與變形完整度，材質搭配上兼顧壓鑄合金的耐用度與塗裝細節的還原度，是MOSPEADA收藏者補完第一世代Ride Armor陣容不可或缺的一款機體，也讓玩家得以重現原作中較少被立體化的女性駕駛員專屬座機。",
     reviews: [
       {
         title: "人車一體！千值練《機甲創世紀》RIOBOT VR-038L BARTLEY",
@@ -6559,7 +6559,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sentinel-toys.com/index.php?product_id=513&route=product%2Fproduct",
     imageUrl: "/images/mospeada-vr041h-yellow-blowsperior.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "ブロウスーペリア", "VR-041H", "千値練", "ライドアーマー", "1/12"],
-    description: "《機甲創世記モスピーダ》描繪火星降下部隊為奪回受因比特佔領之地球而戰的經典變形機甲動畫。「ブロウスーペリア」是較モスピーダ本體更早期的第一世代Ride Armor，胸部搭載飛彈發射器、雙臂配備高周波軍刀，火力凶悍。駕駛員イエロー・ベルモント原為第一次降下部隊軍人，為躲避因比特軍獵殺而隱藏身分，平日以女裝歌手身分活動，是系列中形象獨特的角色。",
+    description: "《機甲創世記MOSPEADA》描繪火星降下部隊為奪回受因比特佔領之地球而戰的經典變形機甲動畫。「ブロウスーペリア」是較モスピーダ本體更早期的第一世代Ride Armor，胸部搭載飛彈發射器、雙臂配備高周波軍刀，火力凶悍，設定上屬於重裝突擊型機體，在隊伍中負責正面火力壓制任務。駕駛員イエロー・ベルモント原為第一次降下部隊軍人，為躲避因比特軍獵殺而隱藏身分，平日以女裝歌手身分活動，是系列中形象獨特、充滿反差魅力的角色，其座機的凶悍火力設定也與角色隱忍的雙面身分形成有趣對照。作為RIOBOT系列重現原作三段變形機構的一員，本品延續系列講究的機構精密度與塗裝分色表現，力求在1/12比例下呈現扎實的重裝甲質感與可動範圍，材質選用兼顧壓鑄合金強度與細節還原，是喜愛MOSPEADA第一世代Ride Armor陣容、或對角色設定深感興趣的玩家值得收藏的一款機體。",
     reviews: [
       {
         title: "RIOBOT 1/12 VR-041H 機甲創世記 Blowsperior Yellow 上色原型評測",
@@ -6600,7 +6600,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sentinel-toys.com/index.php?product_id=60&route=product%2Fproduct",
     imageUrl: "/images/mospeada-vr052f-variable-stick.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "RIOBOT", "VR-052F", "千値練", "スティック", "ライドアーマー", "1/12"],
-    description: "《機甲創世記モスピーダ》為タツノコプロ1983年播出的經典科幻機甲動畫，主角群搭乘可從騎乘服、裝甲機車到人形裝甲三段變形的兵裝「モスピーダ」，展開奪回地球的冒險。VR-052F是系列主角機之一，由隊伍領袖スティック・バーナード駕駛——他原是火星降下部隊軍人，起初性格剛硬，在與雷、フーケ等夥伴同行前往Reflex Point的旅途中逐漸卸下心防，成為一行人實質上的領隊。",
+    description: "《機甲創世記MOSPEADA》為タツノコプロ1983年播出的經典科幻機甲動畫，主角群搭乘可從騎乘服、裝甲機車到人形裝甲三段變形的兵裝「モスピーダ」，展開奪回地球的冒險。VR-052F是系列主角機之一，由隊伍領袖スティック・バーナード駕駛——他原是火星降下部隊軍人，起初性格剛硬、對同伴保持距離，在與雷、フーケ等夥伴同行前往Reflex Point的漫長旅途中逐漸卸下心防，成為一行人實質上的領隊，其座機也因此在系列中具備代表全隊核心的象徵意義。本品為千値練RIOBOT系列作品，延續系列一貫講究的三段變形機構，從騎乘服經裝甲機車過渡至人形裝甲，兼顧變形流暢度與人形態下的可動範圍，1/12比例下仍力求保有原作機體修長俐落的線條比例。作為主角專用機，套件在細節重現與塗裝分色上皆下足功夫，是喜愛MOSPEADA故事主線、或希望收藏隊伍領袖座機的玩家不可或缺的核心機體之一。",
     reviews: [
       {
         title: "千値練 RIOBOT《太空戰神》MOSPEADA\"Stick機\"完全變型 1/12比例尺寸！",
@@ -6641,7 +6641,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sen-ti-nel.co.jp/items/vr-052t-mospeada-rei/",
     imageUrl: "/images/mospeada-vr052t-variable-tray.jpg",
     tags: ["BOX0001", "機甲創世記モスピーダ", "MOSPEADA", "VR-052T", "レイ", "RIOBOT", "千値練", "1/12", "可變形"],
-    description: "《機甲創世記モスピーダ》是1983年播出的日昇動畫，描述地球遭外星種族因比特（Invid）侵略後，地球圈防衛軍精銳部隊「ライドバック隊」駕駛可變形動力裝甲「バリアブル・トルーパー（Ride Armor）」展開反攻的故事，其兼具機車、半人形、鎧甲三段變形機構，是80年代變形機甲設計的代表作之一，也是後來美版《太空堡壘：新世代》的原始素材來源。\n\nRIOBOT VR-052T是隊員「レイ」的專用機，由設計師前野圭一郎（T-REX）在荒木伸吾監修下重新詮釋，1/12比例、全高約160mm，可完整由「裝甲機車（Armor Cycle）」變形為「騎乘鎧甲（Ride Armor）」，過程無需拆換零件。機身骨架局部採用壓鑄合金強化耐用度，內裡騎乘服採用布料材質重現貼身感，並附可替換的レイ專用頭部、多種替換手型與展示台座，是千値練RIOBOT系列重現原作機車鎧甲變形樂趣的代表作。",
+    description: "《機甲創世記MOSPEADA》是1983年播出的日昇動畫，描述地球遭外星種族因比特侵略後，地球圈防衛軍精銳部隊「ライドバック隊」駕駛可變形動力裝甲「バリアブル・トルーパー」展開反攻的故事，其兼具機車、半人形、鎧甲三段變形機構，是80年代變形機甲設計的代表作之一，也是後來美版《太空堡壘：新世代》的原始素材來源。「レイ」是隊伍中的重要成員之一，個性與其他夥伴形成互補，在漫長的Reflex Point歸還旅途中扮演不可或缺的角色，其座機同樣具備完整的三段變形機構，呼應原作對隊伍每位成員座機均賦予獨立設定的細膩世界觀。RIOBOT VR-052T由設計師前野圭一郎（T-REX）在荒木伸吾監修下重新詮釋，1/12比例、全高約160mm，可完整由裝甲機車變形為騎乘鎧甲，過程無需拆換零件。機身骨架局部採用壓鑄合金強化耐用度，內裡騎乘服採用布料材質重現貼身感，並附可替換的レイ專用頭部、多種替換手型與展示台座，是千値練RIOBOT系列重現原作機車鎧甲變形樂趣的代表作。",
     reviews: [
       {
         title: "「RIOBOT 1/12 VR-052T モスピーダ レイ」レビュー",
@@ -6672,7 +6672,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-gb-vrs077f/",
     imageUrl: "/images/mospeada-vrs077f-intruder-gate.jpg",
     tags: ["BOX0001", "機甲創世記モスピーダ", "MOSPEADA", "GENESIS BREAKER", "VRS-077F", "イントルーダー", "ゲイト", "RIOBOT", "千値練", "1/12"],
-    description: "《機甲創世記モスピーダ外伝 GENESIS BREAKER》是官方發行的小說外傳，描寫特殊任務部隊「ブレイカーズ」隊長「ゲイト」率隊執行敵後突襲與偵查任務的故事，補完了本篇《機甲創世記モスピーダ》世界觀中未曾登場的多款新設定騎乘鎧甲（Ride Armor），為原作粉絲提供了全新視角的支線劇情。\n\nRIOBOT VRS-077F「イントルーダー」是ゲイト的專用突襲偵查型鎧甲，左右配備45mm速射光束砲，尾部可拆卸為偵查用無人機，機械設計監修同樣由荒木伸吾操刀。1/12比例、全高約150mm，延續系列招牌的「裝甲機車→騎乘鎧甲」完全變形機構，過程無需拆換零件，骨架局部使用壓鑄合金確保小比例下的耐久度；頭部面罩可開闔露出ゲイト面容，並附握持手、張開手、持握武器手等多種替換手型與展示台座，是RIOBOT系列首次以外傳小說機體商品化的作品。",
+    description: "《機甲創世記MOSPEADA外傳 GENESIS BREAKER》是官方發行的小說外傳，描寫特殊任務部隊「ブレイカーズ」隊長「ゲイト」率隊執行敵後突襲與偵查任務的故事，補完了本篇《機甲創世記MOSPEADA》世界觀中未曾登場的多款新設定騎乘鎧甲，為原作粉絲提供了全新視角的支線劇情，也讓系列的兵裝設定得以進一步延伸擴充。RIOBOT VRS-077F「イントルーダー」是ゲイト的專用突襲偵查型鎧甲，左右配備45mm速射光束砲，尾部可拆卸為偵查用無人機，呼應其偵查突襲的任務屬性；機械設計監修同樣由荒木伸吾操刀，延續本篇系列一貫的美術風格與世界觀一致性。1/12比例、全高約150mm，延續系列招牌的「裝甲機車→騎乘鎧甲」完全變形機構，過程無需拆換零件，骨架局部使用壓鑄合金確保小比例下的耐久度；頭部面罩可開闔露出ゲイト面容，並附握持手、張開手、持握武器手等多種替換手型與展示台座，是RIOBOT系列首次以外傳小說機體商品化的作品，對於深度MOSPEADA粉絲而言別具意義。",
     reviews: [],
     youtube: [
       {
@@ -6702,7 +6702,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://sen-ti-nel.co.jp/items/riobot-legioss-iota/",
     imageUrl: "/images/mospeada-legioss-afc01i-iota.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "Legioss", "AFC-01I", "イオタ", "RIOBOT", "千値練", "1/48"],
-    description: "「機甲創世記モスピーダ」（1983年，タツノコプロ）描述第二次地球奪還作戰中，地球圈防衛軍精銳部隊駕駛可變形戰鬥機AFC-01レギオス展開反攻的故事。イオタ（Iota）是レギオス系列中配發給一般兵的綠色量產型號，不同於指揮官機エータ與強化機ゼータ的個人專用配色，機身塗裝走實用的軍規迷彩風格，是火星降下部隊主力戰力的代表機種。\n\n本品為千値練（Sentinel）RIOBOT系列於2021年8月推出的1/48比例可動完成品，延續系列「アーモファイター（戰鬥機）→アーモダイバー（中間形態）→アーモソルジャー（人形）」三段完全變形機構，人形態下駕駛艙收納至胸部並下移至頭部下方，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀。隨附光束砲、榴彈發射器、飛彈莢艙、可動迷你騎乘裝甲（VR-041H）與飛行員人偶及專用展示台，是MOSPEADA收藏中代表量產部隊的核心機體。",
+    description: "「機甲創世記モスピーダ」為1983年タツノコプロ製作的科幻機械動畫，描寫月球都市居民組成地球奪還軍，搭乘可變形兵器AFC-01レギオス突破火星防線、重返地球的戰役故事。作品以三段變形機構與角色成長羈絆為賣點，是80年代變形機甲類作品的代表之一。イオタ是配發給地球奪還軍火星降下部隊一般士兵的量產型號，採用綠色系軍規塗裝，與指揮官機エータ、強化機ゼータ的鮮豔專用配色形成對比，樸實塗裝象徵前線部隊踏實作戰的一面，是レギオス系列中數量最多、支撐整體戰力的主力機種。\\n\\n本商品由千値練RIOBOT系列推出1/48比例可動完成品，忠實重現「アーモファイター（戰鬥機）→アーモダイバー（中間形態）→アーモソルジャー（人形）」三段完全變形機構，人形態下駕駛艙收納下移，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀，關節活動範圍充分可擺出多樣戰鬥姿勢。隨附光束砲、榴彈發射器、飛彈莢艙、可動迷你騎乘裝甲及飛行員人偶與專用展示台，配件豐富完整，是重現量產部隊集團作戰場景不可或缺的一件核心機體。",
     reviews: [
       {
         title: "RIOBOT 1/48 AFC-01I レギオス・イオタ [レビュー]",
@@ -6727,7 +6727,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1031/",
     imageUrl: "/images/dx-chogokin-vf25g-messiah-michael.jpg",
     tags: ["マクロスF", "Macross Frontier", "VF-25G", "メサイアバルキリー", "ミハエル・ブラン", "DX超合金", "1/60", "可變形", "GE-44"],
-    description: "《マクロスF》（2008）是河森正治原案的《超時空要塞》系列電視動畫，描繪人類移民艦隊「マクロス・フロンティア」號在銀河邊境遭遇未知生命體「バジュラ」襲擊，飛行員以可變形戰機「バルキリー」與歌聲共同對抗危機的故事。VF-25G是隊員ミハエル・ブラン（Michael Blanc）的專用機，藍白配色搭配專屬狙擊槍，是三架VF-25主力機中偏向支援與精準射擊定位的一架。\n\n此為DX超合金VF-25G「メサイアバルキリー」ミハエル機的最初期原版（GE-44），2009年3月21日發售，1/60比例、Battroid形態全高約300mm，可完整切換Fighter（戰機）、Gerwalk（半人形）、Battroid（人形）三段變形，並可加裝「スーパーパーツ」強化背包套件，即使裝上超級零件仍可完整變形。隨附三對替換手型、狙擊槍、可動式錨爪、突擊小刀，以及ミハエル・ブラン與クラン・クラン（小尺寸）駕駛人偶與專用展示台，是マクロスF系列最早推出的VF-25G立體化商品，後續才有リニューアルVer.及2023年リバイバルVer.等復刻版本。",
+    description: "《マクロスF》（2008）是河森正治原案的《超時空要塞》系列電視動畫，描繪移民艦隊「マクロス・フロンティア」號在銀河邊境遭遇未知生命體「バジュラ」襲擊，飛行員駕駛可變形戰機「バルキリー」並以歌聲共同對抗危機的故事，是系列在新世代重新獲得廣大人氣的重要作品。VF-25G是隊員ミハエル・ブラン的專用機，在三架VF-25主力機中偏向支援與精準狙擊定位，藍白配色與其冷靜沉著的性格相呼應，是隊伍中不可或缺的後援戰力。\\n\\n本品為DX超合金VF-25G「メサイアバルキリー」ミハエル機的最初期原版，1/60比例，Battroid形態全高約300mm，可完整切換Fighter（戰機）、Gerwalk（半人形）、Battroid（人形）三段變形，並可加裝「スーパーパーツ」強化背包套件，裝上後仍保有完整變形能力，展現超合金系列一貫的高完成度工程設計。隨附三對替換手型、狙擊槍、可動式錨爪、突擊小刀，以及ミハエル・ブラン與クラン・クラン小尺寸駕駛人偶與專用展示台，是マクロスF系列最早推出的VF-25G立體化商品，深具紀念意義。",
     reviews: [
       {
         title: "【ＤＸ超合金】 ＶＦ－２５Ｇ メサイアバルキリー （ミハエル・ブラン機）[レビュー]",
@@ -6752,7 +6752,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5354/",
     imageUrl: "/images/hg-gyan-strom-hilda-haken.jpg",
     tags: ["機動戦士ガンダムSEED FREEDOM", "ギャンシュトローム", "ヒルダ・ハーケン", "ZGMF-2027", "HG", "1/144", "P-Bandai", "BANDAI SPIRITS"],
-    description: "「ギャンシュトローム」是《機動戦士ガンダムSEED FREEDOM》劇場版中登場的機體，作為「グフイグナイテッド」的後繼機種由ZAFT開發而成，型式編號ZGMF-2027。本商品重現的是量產機規格塗裝的「希爾妲・哈肯（ヒルダ・ハーケン）」座機，藍色系塗裝取代了原本專用機的鮮豔配色，呈現前線部隊使用機體的樸實感，並配備大氣圈突入用背包，象徵其多用途戰術定位。\n\n本項為HG 1/144系列首次立體化「希爾妲・哈肯專用機」版本，採用「SEEDアクションシステム」可動結構，徹底追求還原劇中華麗的近戰動作。武裝齊全，包含光束斧（含收納握把，可替換掛載於腰部）、光束軍刀、光束步槍、雙聯裝光束加特林及專用盾牌，並附特效零件與替換手掌。2024年8月透過Bandai Hobby Online Shop／P-Bandai限定販售，售價3,190日圓。",
+    description: "「ギャンシュトローム」是《機動戦士ガンダムSEED FREEDOM》劇場版登場的機體，作為「グフイグナイテッド」的後繼機種由ZAFT開發，型式編號ZGMF-2027。本商品重現的是量產機規格塗裝的「希爾妲・哈肯」座機，藍色系塗裝取代原本專用機的鮮豔配色，呈現前線部隊使用機體的樸實感，並配備大氣圈突入用背包，象徵其多用途戰術定位，在劇中與主角陣營展開多場激烈交鋒。\\n\\n本項為HG 1/144系列首次立體化「希爾妲・哈肯專用機」版本，採用「SEEDアクションシステム」可動結構，徹底追求還原劇中華麗的近戰動作演出，關節活動範圍寬廣，能重現大幅度的格鬥姿勢。武裝齊全，包含光束斧（含收納握把，可替換掛載於腰部）、光束軍刀、光束步槍、雙聯裝光束加特林及專用盾牌，並附特效零件與替換手掌，配件組合豐富。本商品透過Bandai Hobby Online Shop／P-Bandai限定販售，屬於限量流通商品，收藏價值隨系列人氣持續看漲。",
     reviews: [
       {
         title: "HGCE ギャンシュトローム（ヒルダ・ハーケン専用機） レビュー",
@@ -6788,7 +6788,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_4408/",
     imageUrl: "/images/hg-msn032-psycho-doga.jpg",
     tags: ["機動戦士ガンダム逆襲のシャア", "ベルトーチカ・チルドレン", "サイコ・ドーガ", "MSN-03-2", "GUNDAM SIDE-F", "HG", "1/144", "BANDAI SPIRITS"],
-    description: "「MSN-03-2 サイコ・ドーガ」出自《機動戦士ガンダム 逆襲のシャア》衍生小說《ベルトーチカ・チルドレン》，是新吉翁（ネオ・ジオン）為強化新人類（ニュータイプ）駕駛員戰鬥力而開發的特殊試作機。機體以「ギラ・ドーガ」為基礎，植入精神感應框體（サイコフレーム）駕駛艙，雙肩各搭載三具浮游炮（ファンネル），並在背部裝有三片獨立可動的推進浮游翼，大幅提升加速性與追蹤能力，是精神感應兵器譜系中相當獨特的存在。\n\n本商品為該機體首次以HG比例立體化，以「GUNDAM SIDE-F」限定形式於2022年12月19日發售，售價4,620日圓。特徵性的頭部造型與背部三片浮游翼皆採用全新開模，單眼感應器可動，雙肩浮游炮可透過零件替換呈現展開待機狀態；腹部關節設計可大幅度上下左右擺動，能重現原作插畫中大膽奔放的姿態演出。",
+    description: "「MSN-03-2 サイコ・ドーガ」出自《機動戦士ガンダム 逆襲のシャア》衍生小說《ベルトーチカ・チルドレン》，是新吉翁為強化新人類駕駛員戰鬥力而開發的特殊試作機。機體以量產機「ギラ・ドーガ」為基礎，植入精神感應框體（サイコフレーム）駕駛艙，雙肩各搭載三具浮游炮，並在背部裝有三片獨立可動的推進浮游翼，大幅提升加速性與追蹤能力，是精神感應兵器譜系中造型相當獨特、充滿新人類機體神秘氣息的存在，也體現了新吉翁殘黨勢力對舊時代技術的執著追求。\\n\\n本商品為該機體首次以HG比例立體化，特徵性的頭部造型與背部三片浮游翼皆採用全新開模，單眼感應器可動，雙肩浮游炮可透過零件替換呈現展開待機狀態；腹部關節設計可大幅度上下左右擺動，能重現原作插畫中大膽奔放的姿態演出，是HG系列少見兼顧細膩造型與高度動態表現的宇宙世紀機體。以「GUNDAM SIDE-F」限定形式販售，發售管道有限，對熱愛小說設定機體的玩家而言是不可多得的收藏品。",
     reviews: [
       {
         title: "HG サイコ・ドーガ レビュー | ガンダムブログはじめました",
@@ -6828,7 +6828,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10637/",
     imageUrl: "/images/dx-chogokin-yf25-prophecy.jpg",
     tags: ["マクロスF", "YF-25", "プロフェシー", "VF-25", "DX超合金", "TAMASHII NATIONS", "バルキリー", "BANDAI SPIRITS"],
-    description: "「YF-25 プロフェシー」是《劇場版マクロスF 虚空歌姫〜イツワリノウタヒメ〜》登場的試作型可變戰鬥機，由新星工業與L.A.I公司在「Triangle計畫」下以「YF-24 エボリューション」為原型開發，是後來量產配備機「VF-25 メサイア」的直系前身。機體本身其實並未直接出現於電影正片，而是隨電影預售套票贈送的模型率先公開，其後才在BD／DVD追加畫面中登場，是系列中相當特殊的「先玩具、後動畫」機體，主要駕駛為《マクロス30》主角リオン・榊。\n\n本商品為Bandai「DX超合金」系列重現的完成品，2014年6月21日發售，售價15,400日圓。戰鬥機形態能完整變形為巴特羅伊德（Battroid）形態，全高約220mm，主體採用ABS與壓鑄合金（ダイキャスト）混合構造，忠實還原試作機特有的塗裝與雙人座艙罩；頭部以透明零件呈現內部結構細節。配件包含專用槍械、展示台座、左右各三種替換手掌以及駕駛員人偶。",
+    description: "「YF-25 プロフェシー」是《劇場版マクロスF 虚空歌姫〜イツワリノウタヒメ〜》登場的試作型可變戰鬥機，由新星工業與L.A.I公司在「Triangle計畫」下以「YF-24 エボリューション」為原型開發，是後來量產配備機「VF-25 メサイア」的直系前身。機體本身其實並未直接出現於電影正片，而是隨電影預售套票贈送的模型率先公開，其後才在BD／DVD追加畫面中登場，是系列中相當特殊的「先玩具、後動畫」機體，主要駕駛為《マクロス30》主角リオン・榊，肩負銜接舊世代與新世代バルキリー技術的設定使命。\\n\\n本商品為Bandai「DX超合金」系列重現的完成品，戰鬥機形態能完整變形為巴特羅伊德形態，全高約220mm，主體採用ABS與壓鑄合金混合構造，忠實還原試作機特有的塗裝與雙人座艙罩；頭部以透明零件呈現內部結構細節，質感出色。配件包含專用槍械、展示台座、左右各三種替換手掌以及駕駛員人偶，作為系列中話題性十足的試作機立體化商品，對マクロスF與VF-25系列收藏者而言別具意義。",
     reviews: [
       {
         title: "DX Chogokin YF-25 Prophecy - Toys - Macross World Forums",
@@ -6853,7 +6853,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2805106001",
     imageUrl: "/images/hg-saylas-light-guncannon.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "Bandai", "GQuuuuuuX", "軽キャノン", "セイラ・マス", "ジークアクス", "プレミアムバンダイ"],
-    description: "《機動戦士Gundam GQuuuuuuX（鋼彈 GQuuuuuuX）》登場的「セイラ専用軽キャノン」，是以連邦軍制式量產機「軽キャノン（ライトタイプ・ガンキャノン）」為基礎的專屬機。劇中セイラ・マス隱藏身分駕駛此機，在索羅門攻防戰中擊墜多茲爾・薩比中將，其後更對夏亞座機「紅色鋼彈」發動奇襲，是全劇話題度極高的關鍵機體之一。\n\n本商品為HG系列新規色替版，以成形色重現角色標誌性的紅、白、藍三色塗裝，無需大量塗裝即可還原劇中配色。武裝配件齊全，包含光束步槍、光束軍刀、光束加農砲，以及最具代表性的「鋼彈鎚」，其鎖鏈部分採用可動軟骨關節，能自由擺動重現揮擊姿態。本商品為Premium Bandai限定販售，2025年10月發售，定價2,530日圓（含稅）。",
+    description: "《機動戦士Gundam GQuuuuuuX（鋼彈 GQuuuuuuX）》登場的「セイラ専用軽キャノン」，是以連邦軍制式量產機「軽キャノン（ライトタイプ・ガンキャノン）」為基礎的專屬機。劇中セイラ・マス隱藏身分駕駛此機，在索羅門攻防戰中擊墜多茲爾・薩比中將，其後更對夏亞座機「紅色鋼彈」發動奇襲，是全劇話題度極高的關鍵機體之一，也讓觀眾重新認識這位一年戰爭經典角色在新作中的全新形象。\\n\\n本商品為HG系列新規色替版，以成形色重現角色標誌性的紅、白、藍三色塗裝，無需大量塗裝即可還原劇中配色，對追求效率組裝的玩家相當友善。武裝配件齊全，包含光束步槍、光束軍刀、光束加農砲，以及最具代表性的「鋼彈鎚」，其鎖鏈部分採用可動軟骨關節，能自由擺動重現揮擊姿態，動作演出感十足。本商品為Premium Bandai限定販售，屬於限量流通商品，隨新作話題延燒，市場詢問度持續升溫，是GQuuuuuuX系列收藏者的重點目標。",
     reviews: [
       {
         title: "HG セイラ専用軽キャノン レビュー【機動戦士Gundam GQuuuuuuX】",
@@ -6894,7 +6894,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2363/",
     imageUrl: "/images/rg-tallgeese3-endless-waltz.jpg",
     tags: ["ガンプラ", "RG", "Bandai", "ガンダムW", "トールギスIII", "ゼクス・マーキス", "エンドレスワルツ", "プレミアムバンダイ"],
-    description: "「トールギスIII」（OZ-00MS2B）是劇場版《新機動戰記鋼彈W Endless Waltz》中登場的機體，由昔日「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）駕駛。作為初代トールギス的強化發展型，機體換裝三角犄角狀新頭部與大型化肩甲，並配備高輸出兆能加農砲與熱能鞭，戰鬥力遠超前作，是OZ系列中極具人氣的最終決戰機體。\n\n本商品為RG系列重新原創設計版本，頭部三犄角、肩甲、兆能加農砲與熱能鞭皆為全新開模，兆能加農砲重現收納與展開雙形態的伸縮機構，熱能鞭則以金屬線材呈現可自由彎折的柔軟質感，另附1/144比例ゼクス人形供情境展示。本商品為Premium Bandai限定販售，2019年7月發售，定價3,080日圓（含稅）。",
+    description: "「トールギスIII」（OZ-00MS2B）是劇場版《新機動戰記鋼彈W Endless Waltz》中登場的機體，由昔日「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）駕駛。作為初代トールギス的強化發展型，機體換裝三角犄角狀新頭部與大型化肩甲，並配備高輸出兆能加農砲與熱能鞭，戰鬥力遠超前作，是OZ系列中極具人氣的最終決戰機體，象徵著這位悲劇性角色為結束戰爭所背負的最後使命。\\n\\n本商品為RG系列重新原創設計版本，頭部三犄角、肩甲、兆能加農砲與熱能鞭皆為全新開模，兆能加農砲重現收納與展開雙形態的伸縮機構，熱能鞭則以金屬線材呈現可自由彎折的柔軟質感，充分展現RG系列一貫追求的內構造與細節重現水準。另附1/144比例ゼクス人形供情境展示，強化整體演出氛圍。本商品為Premium Bandai限定販售，屬於限量流通商品，是鋼彈W系列玩家間長年搶手的收藏機種之一。",
     reviews: [
       {
         title: "RG トールギスIII レビュー",
@@ -6935,7 +6935,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2783960001",
     imageUrl: "/images/re100-denan-gei-xm02.jpg",
     tags: ["ガンプラ", "RE/100", "Bandai", "ガンダムF91", "デナン・ゲー", "クロスボーン・バンガード", "XM-02", "プレミアムバンダイ"],
-    description: "「XM-02 デナン・ゲー」是劇場版《機動戰士鋼彈F91》中登場的機體，由宇宙海盜組織「クロスボーン・バンガード」獨自研發，以主力機「デナン・ゾン」為基礎進行輕量化與高性能化改良。全高13.9公尺，屬於小型機種，採取一擊脫離的高機動打帶跑戰術，在發電機輸出與推進力等綜合戰鬥力上凌駕原型機，是電影中壓制地球聯邦軍MS部隊的主力量產機。\n\n本商品是「デナン・ゲー」睽違約20年首次立體化的塑膠模型，屬於RE/100系列新作，採用最新規格關節結構帶來寬廣可動範圍，肩部可作橫向大幅擺動。套件收錄設定稿與電影版兩種座艙艙蓋，並附遊行演武用腳底蓋，武裝則有光束步槍、光束軍刀、光束盾牌及手臂光束槍。本商品為Premium Bandai限定販售，2025年10月發售，定價3,300日圓（含稅）。",
+    description: "「XM-02 デナン・ゲー」是劇場版《機動戰士鋼彈F91》中登場的機體，由宇宙海盜組織「クロスボーン・バンガード」獨自研發，以主力機「デナン・ゾン」為基礎進行輕量化與高性能化改良。全高13.9公尺，屬於小型機種，採取一擊脫離的高機動打帶跑戰術，在發電機輸出與推進力等綜合戰鬥力上凌駕原型機，是電影中壓制地球聯邦軍MS部隊的主力量產機，也體現了F91世界觀中機體小型化、高輸出化的技術演進方向。\\n\\n本商品是「デナン・ゲー」睽違約20年首次立體化的塑膠模型，屬於RE/100系列新作，採用最新規格關節結構帶來寬廣可動範圍，肩部可作橫向大幅擺動，能重現原作中靈活的機動姿態。套件收錄設定稿與電影版兩種座艙艙蓋，並附遊行演武用腳底蓋，考量情境展示的多樣需求；武裝則有光束步槍、光束軍刀、光束盾牌及手臂光束槍，配置齊全。本商品為Premium Bandai限定販售，屬於限量流通商品，深受F91世界觀收藏者關注。",
     reviews: [
       {
         title: "RE/100 1/100 デナン・ゲー レビュー【機動戦士ガンダムF91】",
@@ -6976,7 +6976,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1349/",
     imageUrl: "/images/mg-gundam-f91-ver2.jpg",
     tags: ["ガンダムF91", "Mobile Suit Gundam F91", "MG", "1/100", "BANDAI SPIRITS", "ガンプラ", "シーブック・アノー"],
-    description: "F91為1991年劇場版《機動戦士ガンダムF91》主角機體，由主角シーブック・アノー（西布克・亞諾）駕駛，隸屬F91計畫試作機，在對抗クロスボーン・バンガード（十字骨先鋒）的戰鬥中展現壓倒性的高機動性能，機體搭載大量微粒子兵器MEPE，戰鬥時可見腹部與背包散熱口大量噴發光粒子，是宇宙世紀作品中極具代表性的傑作機。\n\n本商品為2018年推出的MG Ver.2.0一般彩色版本，相較初版比例與可動大幅進化，腹部散熱口採多層次結構並附有透光零件，可搭配另售發光基座重現MEPE特效；雙腳推進器連動機構、V.S.B.R.展開機構、可開閉臉部裝甲頭部等機構一應俱全，同時附開放式與非變形頭部、光束步槍、光束軍刀、光束發射器與光束盾牌等豐富武裝。",
+    description: "F91為1991年劇場版《機動戦士ガンダムF91》主角機體，由主角シーブック・アノー駕駛，隸屬F91計畫試作機，在對抗クロスボーン・バンガード的戰鬥中展現壓倒性的高機動性能。機體搭載大量微粒子兵器MEPE，戰鬥時可見腹部與背包散熱口大量噴發光粒子，甚至能產生帶有質量感的殘像效果，是宇宙世紀作品中極具代表性、造型俐落洗鍊的傑作機，至今仍是眾多鋼彈迷心目中最具魅力的試作型MS之一。\\n\\n本商品為MG Ver.2.0一般彩色版本，相較初版比例與可動大幅進化，腹部散熱口採多層次結構並附有透光零件，可搭配另售發光基座重現MEPE特效，臨場感十足；雙腳推進器連動機構、V.S.B.R.展開機構、可開閉臉部裝甲頭部等機構一應俱全，充分還原原作設定中的多項機能演出。同時附開放式與非變形頭部、光束步槍、光束軍刀、光束發射器與光束盾牌等豐富武裝，是F91收藏中必備的基準版本。",
     reviews: [
       {
         title: "MG 普通版MG201 高达F91 Ver.2.0 - 78动漫模型玩具网",
@@ -7012,7 +7012,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_2116/",
     imageUrl: "/images/mg-gundam-f91-ver2-afterimage.jpg",
     tags: ["ガンダムF91", "Mobile Suit Gundam F91", "MG", "1/100", "BANDAI SPIRITS", "ガンプラ", "シーブック・アノー", "残像イメージカラー", "P-Bandai", "クリアパーツ"],
-    description: "F91為1991年劇場版《機動戦士ガンダムF91》主角機體，由主角シーブック・アノー（西布克・亞諾）駕駛，隸屬F91計畫試作機，在對抗クロスボーン・バンガード（十字骨先鋒）的戰鬥中展現壓倒性的高機動性能，機體搭載大量微粒子兵器MEPE，戰鬥時可見腹部與背包散熱口大量噴發光粒子，是宇宙世紀作品中極具代表性的傑作機。\n\n本商品為Premium Bandai限定販售的「残像イメージカラー」版本，取材自電影最終決戰中F91因MEPE效果產生「帶有質量的殘像」這一幕，將機身絕大部分零件替換為半透明藍色的透明成形色，呈現宛如殘影般的視覺效果，與2018年發售的一般彩色版MG Ver.2.0為同一套件的特別配色版本。2019年2月發售，售價4,400日圓（含稅）。",
+    description: "F91為1991年劇場版《機動戦士ガンダムF91》主角機體，由主角シーブック・アノー駕駛，隸屬F91計畫試作機，在對抗クロスボーン・バンガード的戰鬥中展現壓倒性的高機動性能，機體搭載大量微粒子兵器MEPE，戰鬥時可見腹部與背包散熱口大量噴發光粒子，是宇宙世紀作品中極具代表性的傑作機，其高速戰鬥演出深植於老一輩鋼彈迷心中。\\n\\n本商品為Premium Bandai限定販售的「残像イメージカラー」版本，取材自電影最終決戰中F91因MEPE效果產生「帶有質量的殘像」這一經典畫面，將機身絕大部分零件替換為半透明藍色的透明成形色，呈現宛如殘影般的夢幻視覺效果，讓收藏者得以用立體模型重現電影中稍縱即逝的震撼瞬間。與一般彩色版MG Ver.2.0為同一套件的特別配色版本，機構、可動範圍完全相同，僅零件配色與部分成形材質有所差異。由於限定販售且透明成形色版本產量有限，本品在F91收藏系列中屬於話題性較高、市場詢問度不低的特別版本，深受偏好特殊塗裝表現的玩家青睞。",
     reviews: [
       {
         title: "MG ガンダムF91 Ver.2.0（残像イメージカラー） レビュー",
@@ -7042,7 +7042,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://manual.bandai-hobby.net/menus/detail/2742",
     imageUrl: "/images/mg-gundam-f91-ver2-harrison.jpg",
     tags: ["ガンダムF91", "機動戦士クロスボーン・ガンダム", "MG", "1/100", "BANDAI SPIRITS", "ガンプラ", "ハリソン・マディン", "P-Bandai"],
-    description: "《機動戦士クロスボーン・ガンダム》是《機動戦士ガンダムF91》的漫畫續篇，故事發生在宇宙世紀0133年，講述木星帝國殘黨組織「クロスボーン・バンガード」與地球圈的鬥爭。ハリソン・マディン（哈里遜・馬丁）是劇中登場的舊地球聯邦軍王牌駕駛員，戰後轉投木星方陣營，其座機正是當年F91計畫試作機之一，塗裝以深藍配黃色為主，是與主角機白色F91形成強烈對比的宿敵機體。\n\n本商品為MG Ver.2.0套件的專用配色版本，以成形色與水轉印水貼紙重現ハリソン機特有的深藍、黃色塗裝，右下臂並追加專用造型零件以區隔於標準版。套件結構與一般彩色版、残像イメージカラー版完全相同，僅更換配色與部分零件，2019年10月透過Premium Bandai限定販售，售價4,620日圓（含稅）。",
+    description: "《機動戦士クロスボーン・ガンダム》是《機動戦士ガンダムF91》的漫畫續篇，故事發生在宇宙世紀0133年，講述木星帝國殘黨組織「クロスボーン・バンガード」與地球圈的鬥爭。ハリソン・マディン是劇中登場的舊地球聯邦軍王牌駕駛員，戰後轉投木星方陣營，其座機正是當年F91計畫試作機之一，塗裝以深藍配黃色為主，是與主角機白色F91形成強烈對比的宿敵機體，象徵著同源機體因立場不同而走向不同命運的戲劇張力。\\n\\n本商品為MG Ver.2.0套件的專用配色版本，以成形色與水轉印水貼紙重現ハリソン機特有的深藍、黃色塗裝，右下臂並追加專用造型零件以區隔於標準版，細節考究。套件結構與一般彩色版、残像イメージカラー版完全相同，僅更換配色與部分零件，機構層面同樣具備MG Ver.2.0的散熱口特效相容性、V.S.B.R.展開機構與可開闔頭部裝甲。透過Premium Bandai限定販售，屬限量流通商品，是喜愛F91宿敵機體與漫畫外傳世界觀收藏者的重點目標之一。",
     reviews: [
       {
         title: "MG ガンダムF91 Ver.2.0（ハリソン・マディン専用機） レビュー",
@@ -7072,7 +7072,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1136135/Nendoroid+Hatsune+Miku+Black+Maneki+Miku+Ver.",
     imageUrl: "/images/nendoroid-hatsune-miku-black-maneki.jpg",
     tags: ["初音ミク", "Hatsune Miku", "ねんどろいど", "Nendoroid", "VOCALOID", "グッドスマイルカンパニー", "招き猫", "黒猫"],
-    description: "初音ミク為Crypton Future Media推出的VOCALOID聲音合成軟體角色，是虛擬歌手文化的代表性存在。「招きミク」以日本傳統招財貓為概念設計，象徵開運吉祥，深受粉絲喜愛並多次推出不同版本；此次推出的「黒招きミク」則以搖滾風格、帶點慵懶氣質的黑貓造型重新詮釋，服裝與配色皆呼應黑貓形象，別具個性。\n\n本商品為Good Smile Company推出的黏土人（ねんどろいど）系列作品，2025年10月發售，附有微笑、打呵欠、壞笑等三種表情臉件，以及團扇、坐姿專用下半身等豐富配件，可重現招財貓招手坐姿的可愛姿態。僅限GSC官方網店與Chara-Ani.com販售，後者另有附贈專屬貓咪坐墊的限定套組。",
+    description: "初音ミク為Crypton Future Media推出的VOCALOID聲音合成軟體角色，自2007年問世以來已成為虛擬歌手文化的代表性存在，全球擁有龐大的創作者與粉絲社群，並衍生出無數企劃版本與周邊商品系列。「招きミク」以日本傳統招財貓為概念設計，象徵開運吉祥，深受粉絲喜愛並多次推出不同季節與主題版本；此次推出的「黒招きミク」則以搖滾風格、帶點慵懶氣質的黑貓造型重新詮釋，服裝以黑色系為主搭配貓耳與貓尾元素，別具個性，與過往較為活潑可愛的招きミク形象形成有趣對比。\\n\\n本商品為Good Smile Company推出的黏土人（ねんどろいど）系列作品，附有微笑、打呵欠、壞笑等三種表情臉件，可自由替換呈現不同情緒表現，另備團扇、坐姿專用下半身等豐富配件，能重現招財貓招手坐姿的可愛姿態，把玩性十足。僅限GSC官方網店與Chara-Ani.com等特定通路販售，其中部分通路更附贈專屬貓咪坐墊的限定套組，收藏價值因通路限定而更顯珍貴。",
     reviews: [
       {
         title: "【初音ミク】縁起の良い\"招きミク\"にロックでちょっぴりアンニュイな黒猫ver.が登場！",
@@ -7102,7 +7102,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15224/",
     imageUrl: "/images/hmr-vf2ss-sap-silvie-gena-lovers-again.jpg",
     tags: ["マクロスII", "Macross II", "VF-2SS", "バルキリー", "シルビー・ジーナ", "HI-METAL R", "TAMASHII NATIONS", "SAP"],
-    description: "VF-2SS為OVA《超時空要塞マクロスII -LOVERS AGAIN-》中登場的可變戰鬥機，由女主角シルビー・ジーナ（希薇・吉娜）駕駛。作品為《超時空要塞マクロス》系列首部OVA外傳，描繪地球統合軍與新種族マルドゥーク的星際戰爭，機體可在戰鬥機、GERWALK、機器人三型態間變形，並可掛載強化用的SAP（特殊武裝包）大幅提升火力。\n\n本商品為TAMASHII NATIONS「HI-METAL R」系列的可變可動完成品，2025年6月再販，全高約160mm，三段變形機構完整重現原作設定，SAP可於三種形態下裝備，駕駛艙可開闔並內建希薇・吉娜駕駛員模型，機體並可不換零件切換軌道砲射擊模式；附贈印有女神歌手イシュタル圖樣的紀念專用展示台座。",
+    description: "VF-2SS為OVA《超時空要塞マクロスII -LOVERS AGAIN-》中登場的可變戰鬥機，由女主角シルビー・ジーナ駕駛。作品為《超時空要塞マクロス》系列首部OVA外傳，描繪地球統合軍與新種族マルドゥーク的星際戰爭，在系列世界觀中屬於較為獨立的支線設定，シルビー・ジーナ以歌聲鼓舞士氣的女武神駕駛員形象，也延續了初代女主角林明美「用歌聲對抗敵人」的系列傳統精神。機體可在戰鬥機、GERWALK、機器人三型態間變形，並可掛載強化用的SAP（特殊武裝包）大幅提升火力，是VF-2系列中兼具速度與火力的代表機型。\\n\\n本商品為TAMASHII NATIONS「HI-METAL R」系列的可變可動完成品，全高約160mm，三段變形機構完整重現原作設定，SAP可於三種形態下裝備，兼顧演出彈性；駕駛艙可開闔並內建希薇・吉娜駕駛員模型，機體並可不換零件切換軌道砲射擊模式，機構設計相當巧妙。附贈印有女神歌手イシュタル圖樣的紀念專用展示台座，是深度マクロス系列收藏者不可錯過的一件。",
     reviews: [
       {
         title: "HI-METAL R：VF-2SS バルキリーⅡ＋SAP（シルビー・ジーナ機）-Lovers Again- [レビュー]",
@@ -7143,7 +7143,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2335/",
     imageUrl: "/images/mg-gundam-f90.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "宇宙世紀", "Premium Bandai"],
-    description: "F90是《機動戰士高達F90》（Formula91企劃）中的核心機體，設定於宇宙世紀0120年，由獨立兵工廠薩納璃為對抗日益巨大化的量產機所研發的次世代主力MS原型機。機體標準裝備精簡，機身預留多處硬點，可透過替換26種任務背包（Mission Pack）因應偵查、強襲、格鬥等不同戰術需求，是高達系列「量產泛用原型機」構想的原點，劇中由測試駕駛員迪夫·斯塔利安駕駛進行實戰測試。",
+    description: "F90是《機動戰士高達F90》（Formula91企劃）中的核心機體，設定於宇宙世紀0120年，由獨立兵工廠薩納璃為對抗日益巨大化的量產機所研發的次世代主力MS原型機。機體標準裝備精簡，機身預留多處硬點，可透過替換26種任務背包（Mission Pack）因應偵查、強襲、格鬥等不同戰術需求，是高達系列「量產泛用原型機」構想的原點，其設計理念後來更直接延伸出《機動戰士鋼彈F91》的F91機體，在宇宙世紀技術發展史上具有承先啟後的地位，劇中由測試駕駛員迪夫·斯塔利安駕駛進行實戰測試，驗證各種任務背包在實戰中的表現。\\n\\n作為MG系列重現的F90本體套件，其標準形態強調精簡俐落的線條與均衡比例，關節可動性依循MG系列規格設計，能重現多種站姿與格鬥動作；機身各硬點結構清晰可見，方便日後與各式Mission Pack擴充套件組合搭配，展現高度模組化的收藏樂趣，是喜愛Formula91企劃機體設定、講究原型機純粹造型的玩家值得入手的基礎機體。",
     reviews: [
       {
         title: "MG ガンダムF90 レビュー",
@@ -7184,7 +7184,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5961/",
     imageUrl: "/images/hg-gquuuuuux-gfred.jpg",
     tags: ["BOX0005", "HG", "1/144", "GQuuuuuuX", "GFreD", "ジーフレッド", "高達", "BANDAI SPIRITS", "Newtype專用機"],
-    description: "GFreD（ジーフレッド）是《機動戰士Gundam GQuuuuuuX（機動戰士高達GQuuuuuuX）》中登場的Newtype專用機，是搭載精神感應通訊裝置的高達機體系列第二號機，由格拉納達研發，劇中由少女尼安駕駛。機體頭部可展開變形，展現出與初號機GQuuuuuuX截然不同的詭譎機能美，是該系列後半劇情中的關鍵機體之一。",
+    description: "GFreD（ジーフレッド）是《機動戰士Gundam GQuuuuuuX（機動戰士高達GQuuuuuuX）》中登場的Newtype專用機，是搭載精神感應通訊裝置的高達機體系列第二號機，由格拉納達研發，劇中由少女尼安駕駛。機體頭部可展開變形，展現出與初號機GQuuuuuuX截然不同的詭譎機能美，造型設計融合了新人類感應兵器一貫的神秘感與本作特有的美術風格，是該系列後半劇情中的關鍵機體之一，隨著劇情推進逐步揭露其開發背景與尼安身世之間的關聯。\\n\\n本商品為HG 1/144系列立體化作品，作為系列中話題性極高的新規機體，套件著重呈現頭部變形機構與獨特的外裝輪廓，力求在標準比例規格下重現原作設定稿中略帶不安氣息的機能美學。作為近年鋼彈新作中討論度居高不下的角色機體，本品對關注GQuuuuuuX劇情發展與新人類感應機體收藏系譜的玩家而言，是掌握最新劇情動向不可或缺的一件立體化商品。",
     reviews: [
       {
         title: "HG GFreD（ジフレド） レビュー",
@@ -7225,7 +7225,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5057/",
     imageUrl: "/images/hg-build-strike-galaxy-cosmos.jpg",
     tags: ["BOX0005", "HG", "1/144", "高達創鬥者", "Build Strike", "Galaxy Cosmos", "高達基地限定", "BANDAI SPIRITS", "普拉夫斯基粒子"],
-    description: "Build Strike Galaxy Cosmos（星系高達 銀河宇宙）是《高達創鬥者 對戰記（ガンダムビルドファイターズ バトローグ）》中登場的機體，由主角編出流之子編出星操縱，以「Build Strike Cosmos」為基礎進一步強化而成，在與三代川口名人辰巳龍也的決戰中登場。機體背包配置12枚可動翼片，能自由展開變形為「Galaxy Booster」等造型，重現如銀河、星芒般的華麗外觀，是Build Strike系列的最終強化形態。",
+    description: "Build Strike Galaxy Cosmos（星系高達 銀河宇宙）是《高達創鬥者 對戰記（ガンダムビルドファイターズ バトローグ）》中登場的機體，由主角編出流之子編出星操縱，以「Build Strike Cosmos」為基礎進一步強化而成，在與三代川口名人辰巳龍也的決戰中登場。作為Build Strike系列一路發展至此的最終強化形態，機體延續系列「透過模型比賽對戰、機體不斷升級進化」的核心世界觀，展現高達創鬥者作品一貫天馬行空的機體設計魅力。\\n\\n本商品為HG 1/144規格，機體背包配置12枚可動翼片，能自由展開變形為「Galaxy Booster」等造型，重現如銀河、星芒般的華麗外觀，是視覺效果相當華麗搶眼的一款套件。特別採用普拉夫斯基粒子透明成形色呈現，讓翼片與特效零件在光線下呈現晶瑩剔透的質感，強化整體演出張力。本商品為GUNDAM BASE限定販售，屬於限量流通商品，是Build Fighters系列收藏者間人氣居高不下的代表作之一。",
     reviews: [
       {
         title: "【HGBF】ビルドストライクギャラクシーコスモス [プラフスキーパーティクルクリア]【ガンダムベース限定】レビュー",
@@ -7266,7 +7266,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.mechasmile.com/seven_changer/",
     imageUrl: "/images/seven-changer-god-brave.jpg",
     tags: ["THE合体", "セブンチェンジャー", "傳說的勇者達爾剛", "GOOD SMILE COMPANY", "GOD BRAVE STUDIO", "勇者系列", "合體玩具", "完成品"],
-    description: "セブンチェンジャー（Seven Changer）是1993年動畫《傳說的勇者達爾剛（伝説の勇者ダ・ガーン）》中登場的隱密型勇者機器人，出身自遭歐波斯毀滅的星球，起初與達爾剛一方處於敵對立場，其後轉為並肩作戰的盟友。機體擅長多段變形與潛入偵查，可完全變形為噴射機、潛水艇、拖車、戰車、美洲豹與獅鷲獸共七種形態，善用鎖鏈狀武裝「Changer Bretzen」等多樣化裝備執行隱密作戰任務。",
+    description: "セブンチェンジャー（Seven Changer）是1993年動畫《傳說的勇者達爾剛（伝説の勇者ダ・ガーン）》中登場的隱密型勇者機器人，出身自遭歐波斯毀滅的星球，起初與達爾剛一方處於敵對立場，其後轉為並肩作戰的盟友，這段從敵對到信任的角色弧線也是「勇者系列」作品中相當受歡迎的橋段之一。機體擅長多段變形與潛入偵查，可完全變形為噴射機、潛水艇、拖車、戰車、美洲豹與獅鷲獸共七種形態，善用鎖鏈狀武裝「Changer Bretzen」等多樣化裝備執行隱密作戰任務，多形態設計也充分展現「勇者系列」玩具本位、強調變形合體樂趣的製作精神。\\n\\n本商品為GOOD SMILE COMPANY推出的完成品收藏模型，原型製作由GOD BRAVE STUDIO操刀，屬非官方授權的原型師自製系企劃性質，以高完成度雕刻與塗裝重現角色複雜的七段變形結構與細節質感，各形態間的比例與造型皆經過精心調校，是老一輩「勇者系列」粉絲及機器人動畫周邊收藏者眼中相當珍稀的一件立體化作品。",
     reviews: [
       {
         title: "レビュー077 THE合体 セブンチェンジャー",
@@ -7306,7 +7306,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4189/",
     imageUrl: "/images/rg-rx93ff-nu-gundam.jpg",
     tags: ["ガンダム", "νガンダム", "RG", "1/144", "Bandai", "逆襲のシャア", "GUNDAM SIDE-F", "聯邦軍"],
-    description: "《機動戰士鋼彈：逆襲的夏亞》(1988) 主角機 νGundam 的實物大立像常設展示於「GUNDAM SIDE-F」（福岡 LaLaport 商業設施），本商品即是以該立像的獨特配色與細節為藍本推出的 RG（Real Grade）1/144版「RX-93ff νGundam」——「ff」即代表以福岡立像重新詮釋的特別規格。\n\n機身塗裝與水轉印水貼皆忠實重現立像的塗裝細節，並附有依立像姿態設計的原創手型零件。最大特徵是全新開模的大型「Long Range Fin Funnel（長距離鰭狀凡納機）」，具備展開收納機構，可掛載於肩部新規零件或手臂上；肩部與腹部內建關節，可做出捻轉與肩部推出動作，搭配腰部逐塊可動的關節設計，即使身處1/144小比例也能重現極具魄力的動態姿勢。此商品原為GUNDAM SIDE-F限定販售，後續亦透過線上通路及海外市場開放購買，是νGundam迷不可錯過的紀念版本。",
+    description: "《機動戰士鋼彈：逆襲的夏亞》(1988) 主角機νGundam的實物大立像常設展示於「GUNDAM SIDE-F」（福岡LaLaport商業設施），本商品即是以該立像的獨特配色與細節為藍本推出的RG（Real Grade）1/144版「RX-93ff νGundam」——「ff」即代表以福岡立像重新詮釋的特別規格，讓玩家能將實地朝聖體驗的視覺印象帶回家中收藏。\\n\\n機身塗裝與水轉印水貼皆忠實重現立像的塗裝細節，並附有依立像姿態設計的原創手型零件，貼近實物大立像展示時的經典姿勢。最大特徵是全新開模的大型「Long Range Fin Funnel（長距離鰭狀凡納機）」，具備展開收納機構，可掛載於肩部新規零件或手臂上；肩部與腹部內建關節，可做出捻轉與肩部推出動作，搭配腰部逐塊可動的關節設計，即使身處1/144小比例也能重現極具魄力的動態姿勢。此商品原為GUNDAM SIDE-F限定販售，後續亦透過線上通路及海外市場開放購買，是νGundam迷不可錯過的紀念版本。",
     reviews: [
       {
         title: "[開箱] RG RX-93ff ν鋼彈組裝心得分享｜把 LaLaport福岡限定牛鋼彈帶回家！ - 相機旅圖",
@@ -7346,7 +7346,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3524/",
     imageUrl: "/images/rg-hi-nu-gundam.jpg",
     tags: ["ガンダム", "Hi-νガンダム", "RG", "1/144", "Bandai", "逆襲のシャア", "ベルトーチカ・チルドレン", "聯邦軍", "倫敦貝爾"],
-    description: "富野由悠季原作小說《機動戰士鋼彈 逆襲的夏亞 貝爾托奇卡之子（ベルトーチカ・チルドレン）》中，阿姆羅雷所駕駛的 νGundam 後繼強化機——RX-93-ν2 Hi-νGUNDAM，以 RG（Real Grade）1/144 規格重新詮釋。身為地球聯邦軍宇宙艦隊「倫敦貝爾（Londo Bell）」部隊阿姆羅專屬座機，本商品追求嶄新的細節詮釋與寫實感。\n\n搭載「多連結機構（マルチリンク・ギミック）」，各部裝甲能隨關節可動同步滑動，讓內部機械骨架若隱若現；腰部上基座可上下擺動，實現大膽的姿勢演出，腰部裝甲的連接關節設計亦不妨礙腿部動作。腿部可動範圍廣，能確實貼地站立；臂部光束槍具備隨手腕下壓連動伸長的機構，背包鰭狀凡納機收納容器可大幅展開如同雙翼，並透過「Advanced MS Joint」固定凡納機射擊形態，是RG系列公認的技術結晶之作。",
+    description: "富野由悠季原作小說《機動戰士鋼彈 逆襲的夏亞 貝爾托奇卡之子（ベルトーチカ・チルドレン）》中，阿姆羅雷所駕駛的νGundam後繼強化機——RX-93-ν2 Hi-νGUNDAM，以RG（Real Grade）1/144規格重新詮釋。身為地球聯邦軍宇宙艦隊「倫敦貝爾（Londo Bell）」部隊阿姆羅專屬座機，機體延續νGundam的精神框架技術並在推進力、感應兵裝性能上進一步強化，是小說世界觀中阿姆羅晚年駕駛的最終決戰機體，本商品追求嶄新的細節詮釋與寫實感。\\n\\n搭載「多連結機構（マルチリンク・ギミック）」，各部裝甲能隨關節可動同步滑動，讓內部機械骨架若隱若現；腰部上基座可上下擺動，實現大膽的姿勢演出，腰部裝甲的連接關節設計亦不妨礙腿部動作。腿部可動範圍廣，能確實貼地站立；臂部光束槍具備隨手腕下壓連動伸長的機構，背包鰭狀凡納機收納容器可大幅展開如同雙翼，並透過「Advanced MS Joint」固定凡納機射擊形態，是RG系列公認的技術結晶之作，也是νGundam系列進化史上不可忽視的重要一員。",
     reviews: [
       {
         title: "[開箱] RG Hi-ν鋼彈(海牛)噴漆與組裝心得 | 加映分享 PB限定販售 MEGA海牛火箭巨砲 - 相機旅圖",
@@ -7386,7 +7386,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_1931",
     imageUrl: "/images/mg-sinanju-mechanical-clear.jpg",
     tags: ["ガンダム", "シナンジュ", "MG", "1/100", "Bandai", "ガンダムベース限定", "新吉翁", "クリアパーツ"],
-    description: "MSN-06S 新安州（Sinanju）是《機動戰士鋼彈UC》中新吉翁殘黨組織「Sleeves」旗艦駕駛員弗爾·福朗托的專屬機。「MG 1/100 ガンダムベース限定 シナンジュ[メカニカルクリア]」是THE GUNDAM BASE（鋼彈基地旗艦店）限定推出的特別規格，將原版不透明的紅色外裝甲全數置換為半透明的「機械透明（メカニカルクリア）」材質，讓機體內部精密的骨架結構得以透視呈現。\n\n套件沿用MG版本的高精度骨架與細膩分割，並額外附上採用金屬箔材質印刷的金屬感水貼，以及模型原創標記貼紙，讓透明外殼與內部機構相互輝映，呈現與一般版本截然不同的展示效果，是鋼彈基地限定商品中人氣居高不下的夢幻逸品。",
+    description: "MSN-06S 新安州（Sinanju）是《機動戰士鋼彈UC》中新吉翁殘黨組織「Sleeves」旗艦駕駛員弗爾·福朗托的專屬機，鮮紅塗裝與犄角狀頭部造型使其成為系列中辨識度最高的機體之一，設定上承襲了夏予系機體一貫的高機動、高輸出精神。「MG 1/100 ガンダムベース限定 シナンジュ[メカニカルクリア]」是THE GUNDAM BASE（鋼彈基地旗艦店）限定推出的特別規格，將原版不透明的紅色外裝甲全數置換為半透明的「機械透明（メカニカルクリア）」材質，讓機體內部精密的骨架結構得以透視呈現，呈現與一般版本截然不同的視覺魅力。\\n\\n套件沿用MG版本的高精度骨架與細膩分割，內部機構包含關節、動力管線等結構因透明外殼而清晰可見，強化了模型「內外兼具」的觀賞樂趣。套件並額外附上採用金屬箔材質印刷的金屬感水貼，以及模型原創標記貼紙，讓透明外殼與內部機構相互輝映。由於僅限鋼彈基地通路販售，本品是鋼彈基地限定商品中人氣居高不下的夢幻逸品，深受偏好特殊材質表現的收藏者青睞。",
     reviews: [
       {
         title: "素組レビューMG 1/100 ガンダムベース限定 シナンジュ[メカニカルクリア]",
@@ -7415,7 +7415,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2346795005",
     imageUrl: "/images/re100-rebawoo.jpg",
     tags: ["ガンダム", "リバウ", "RE/100", "1/100", "Bandai", "プレミアムバンダイ限定", "新吉翁", "機動戦士ガンダムUC"],
-    description: "AMX-107R 里巴烏（リバウ／Rebawoo）是《機動戰士鋼彈UC》外傳設定（MSV）中登場的新吉翁（Neo Zeon）殘黨勢力所開發的新人類專用可變形試作機，設定為弗爾·福朗托的預備座機之一，機體設計混合了同時期新吉翁機體新安州（Sinanju）與巴武（Bawoo）的特徵。\n\n本商品「RE/100 1/100 リバウ」為Premium Bandai（プレミアムバンダイ）限定販售商品，採用與機體塗裝相呼應的紅色系包裝盒（赤箱），未在一般通路上架。套件以2016年發售的RE/100巴武為基礎，新規開模頭部、胸部、腰部、前臂、腿部、背包及盾牌等部位，武裝則沿用MG新安州的光束步槍與光束斧刃效果零件；機體以紅色為主色調，搭配黑白配色的軀幹、背包與盾牌，並可如原設定般在MS形態與飛行形態「Rebawoo Attacker／Rebawoo Nutter」之間變形，是熟悉宇宙世紀MSV體系鋼彈迷的珍稀收藏品。",
+    description: "AMX-107R 里巴烏（リバウ／Rebawoo）是《機動戰士鋼彈UC》外傳設定（MSV）中登場的新吉翁殘黨勢力所開發的新人類專用可變形試作機，設定為弗爾·福朗托的預備座機之一，機體設計混合了同時期新吉翁機體新安州與巴武的特徵，兼具兩者的高機動性能與變形能力，是宇宙世紀MSV體系中頗具話題性的隱藏機種，補完了新吉翁殘黨勢力在正史之外的技術發展脈絡。\\n\\n本商品「RE/100 1/100 リバウ」為Premium Bandai限定販售商品，採用與機體塗裝相呼應的紅色系包裝盒（赤箱），未在一般通路上架。套件以既有RE/100巴武為基礎，新規開模頭部、胸部、腰部、前臂、腿部、背包及盾牌等部位，武裝則沿用MG新安州的光束步槍與光束斧刃效果零件；機體以紅色為主色調，搭配黑白配色的軀幹、背包與盾牌，並可如原設定般在MS形態與飛行形態「Rebawoo Attacker／Rebawoo Nutter」之間變形，是熟悉宇宙世紀MSV體系鋼彈迷的珍稀收藏品。",
     reviews: [
       {
         title: "プレミアムバンダイ限定RE/100「1/100 リバウ」レビュー – PachiLateji -ガンプラレビューBLOG-",
@@ -7454,7 +7454,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_4970/",
     imageUrl: "/images/mg-johnny-ridden-gelgoog.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "ゲルググ", "ジョニー・ライデン", "P-Bandai限定"],
-    description: "Bandai Spirits MG 1/100 MS-14B 高機動型蓋爾古格〔喬尼·萊登專用機〕，以MG 夏亞專用蓋爾古格 Ver.2.0 骨架為基礎，重新開發B型背包與火箭發射器等新規零件。喬尼·萊登因座機塗裝而有「緋紅閃電（真紅の稲妻）」異名，是吉翁公國精銳王牌駕駛員，曾駕駛薩克II高機動型、蓋爾古格等多款機體轉戰各大戰役。\n\nB型背包可透過專用接頭同時掛載火箭發射器、巨型突擊砲或光束步槍等三種武裝，推進器可獨立可動；新造型火箭發射器握把可撓曲，能重現雙手持槍的迫力姿勢。全身以「真紅の稲妻」招牌紅黑配色成形色重現，另附喬尼·萊登少校專屬個人徽章與編號的全新設計水貼。本商品為Premium Bandai（P-Bandai）限定販售，未於一般模型店鋪流通。",
+    description: "MS-14B 高機動型蓋爾古格〔喬尼·萊登專用機〕出自《機動戰士鋼彈》一年戰爭世界觀，喬尼·萊登因座機塗裝而有「緋紅閃電（真紅の稲妻）」異名，是吉翁公國精銳王牌駕駛員，曾駕駛薩克II高機動型、蓋爾古格等多款機體轉戰各大戰役，其鮮明的紅黑塗裝與王牌事蹟使其成為一年戰爭MSV體系中人氣最高的角色之一，也讓蓋爾古格這款機體的多種塗裝版本長年成為玩家收藏焦點。\\n\\n本商品以MG 夏亞專用蓋爾古格 Ver.2.0骨架為基礎，重新開發B型背包與火箭發射器等新規零件。B型背包可透過專用接頭同時掛載火箭發射器、巨型突擊砲或光束步槍等三種武裝，推進器可獨立可動；新造型火箭發射器握把可撓曲，能重現雙手持槍的迫力姿勢。全身以「真紅の稲妻」招牌紅黑配色成形色重現，另附喬尼·萊登少校專屬個人徽章與編號的全新設計水貼。本商品為Premium Bandai限定販售，未於一般模型店鋪流通，是MSV高人氣王牌機體收藏系列中的重點目標。",
     reviews: [
       { title: "MG ジョニー・ライデン専用ゲルググ レビュー | schizophonic9", url: "https://schizophonic9.com/re8/mg_johnnygelgoog.html", lang: "ja" },
       {
@@ -7482,7 +7482,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.scalemates.com/kits/bandai-0202266-rx-0-unicorn-gundam-ver-ka-code-852--1125041",
     imageUrl: "/images/mg-unicorn-verka-code852.jpg",
     tags: ["Gunpla", "MG", "ユニコーンガンダム", "Ver.Ka", "CODE_852", "香港限定", "バンダイスピリッツ", "1/100", "RX-0", "金メッキ"],
-    description: "「MG 1/100 RX-0 獨角獸鋼彈 Ver.Ka [CODE_852]」是2015年8月「Gundam Docks at Hong Kong II」活動限定販售的特別版本，僅於香港銅鑼灣時代廣場展覽會場現場販售，官方定價港幣$495，數量有限、售完即止，並未透過P-Bandai線上或一般模型店鋪流通。\n\n「CODE_852」之名取自香港的國際電話區號「852」，凸顯其香港會場限定身份。套件以2007年發售的經典「MG 獨角獸鋼彈 Ver.Ka」為基礎，外裝改為與「MG 百式 Ver.2.0」相同工法的消光金電鍍處理，部分武裝與背包零件更換為活動限定專屬成形色，並附有活動原創設計的標記水貼；膝關節可動範圍亦較初版擴大，更貼近動畫中的演出動作。\n\n由於發售管道極為稀少、僅限香港會場現場購買，此版本自發售起即被視為獨角獸鋼彈系列中最珍稀的收藏品之一，二手市場流通價格遠高於原始定價。",
+    description: "「MG 1/100 RX-0 獨角獸鋼彈 Ver.Ka [CODE_852]」是2015年8月「Gundam Docks at Hong Kong II」活動限定販售的特別版本，僅於香港銅鑼灣時代廣場展覽會場現場販售，數量有限、售完即止，並未透過P-Bandai線上或一般模型店鋪流通，發售管道之稀少在鋼普拉限定商品中屬於少見案例。\\n\\n「CODE_852」之名取自香港的國際電話區號「852」，凸顯其香港會場限定身份。套件以經典的「MG 獨角獸鋼彈 Ver.Ka」為基礎，外裝改為與「MG 百式 Ver.2.0」相同工法的消光金電鍍處理，呈現與白色獨角獸模式截然不同的華麗質感，部分武裝與背包零件更換為活動限定專屬成形色，並附有活動原創設計的標記水貼；膝關節可動範圍亦較初版擴大，更貼近動畫中的演出動作，兼顧原版的獨角獸模式與毀滅模式雙形態變形機構。由於發售管道極為稀少、僅限香港會場現場購買，此版本自發售起即被視為獨角獸鋼彈系列中最珍稀的收藏品之一，二手市場流通價格遠高於原始定價。",
     reviews: [
       {
         title: "MG 1/100 RX-0 UNICORN GUNDAM \"Ver.Ka\" [CODE_852] - Release Info, Box Art and Official Images | Gundam Kits Collection",
@@ -7513,7 +7513,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5779/",
     imageUrl: "/images/mg-sinanju-stein-verka.jpg",
     tags: ["ガンプラ", "MG", "Ver.Ka", "Bandai", "シナンジュ・スタイン", "MSN-06S", "獨角獸鋼彈"],
-    description: "Bandai Spirits MG 1/100 MSN-06S 沙南珠·斯坦因 Ver.Ka，出自《機動戰士鋼彈UC》MSV企劃，是U.C.0094年由阿納海姆電子開發的精神框架（Psycho-Frame）試驗機。原為地球聯邦相關計畫測試機體，其後遭覆面公司（The Sleeves）奪取，先由強化人瑪莉妲·克魯茲駕駛，其後交由夏亞的複製人全法蘭托（Full Frontal）進行改修塗裝，成為紅色的「沙南珠」；本商品重現的正是尚未改修前、以純白成形色表現的原始「斯坦因」狀態。\n\n延續MG系列出色比例與全身高可動性設計，手部零件採用『MG ν鋼彈 Ver.Ka』首度導入、表現力極高的「情感操作器SP（エモーションマニュピレーターSP）」，可確實握持各式武裝；並附有Katoki Hajime親自監修設計的標記水貼。武裝方面除盾牌、光束步槍外，更附有僅登場於小說版《機動戰士鋼彈UC》的「沙南珠專用火箭砲」，是UC世界觀中極具代表性的Katoki Ver.Ka作品之一。",
+    description: "MSN-06S 沙南珠·斯坦因（シナンジュ・スタイン）Ver.Ka，出自《機動戰士鋼彈UC》MSV企劃，是U.C.0094年由阿納海姆電子開發的精神框架（Psycho-Frame）試驗機。原為地球聯邦相關計畫測試機體，其後遭覆面公司（The Sleeves）奪取，先由強化人瑪莉妲·克魯茲駕駛，其後交由夏亞的複製人全法蘭托進行改修塗裝，成為紅色的「沙南珠」；本商品重現的正是尚未改修前、以純白成形色表現的原始「斯坦因」狀態，補完了新安州機體誕生前的原型階段。\\n\\n延續MG系列出色比例與全身高可動性設計，手部零件採用『MG ν鋼彈 Ver.Ka』首度導入、表現力極高的「情感操作器SP（エモーションマニュピレーターSP）」，可確實握持各式武裝；並附有Katoki Hajime親自監修設計的標記水貼。武裝方面除盾牌、光束步槍外，更附有僅登場於小說版《機動戰士鋼彈UC》的「沙南珠專用火箭砲」，是UC世界觀中極具代表性的Katoki Ver.Ka作品之一，也是瑪莉妲・克魯茲這位悲劇角色最具代表性的座機立體化商品。",
     reviews: [
       { title: "MG シナンジュ・スタイン Ver.Ka | b's mono-log", url: "https://mono-log.jp/archives/2013/03/mg_sinanju_stein_verka.php", lang: "ja" },
       {
@@ -7541,7 +7541,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_1999/",
     imageUrl: "/images/rg-unicorn-gold-coating.jpg",
     tags: ["ガンプラ", "RG", "ユニコーンガンダム", "ガンダムベース限定", "ゴールドコーティング", "バンダイスピリッツ", "1/144", "RX-0"],
-    description: "「RG 1/144 ガンダムベース限定 獨角獸鋼彈 [金色鍍層]」是全球官方鋼普拉綜合設施「THE GUNDAM BASE」為慶祝東京旗艦店開幕一週年，於2018年8月推出的限定紀念版本。以人氣的RG獨角獸鋼彈為基礎，機身各部位施以電鍍加工並搭配珍珠光澤成形色，呈現金碧輝煌的高級塗裝規格，隨觀看角度與光線呈現微妙色澤變化。\n\n套件延續RG系列標誌性的「Advanced MS Joint」精密骨架與內構造重現設計，可完整重現獨角獸模式與毀滅模式的變形機構，並附有多面透明護盾與武裝配件。由於僅限THE GUNDAM BASE各據點（東京、福岡及新千歲機場店等）與GUNDAM BASE會員通路販售，並未在一般模型店鋪或P-Bandai線上通路流通，發售後迅速售罄，是鋼普拉收藏者間長年熱門的高達基地巡禮紀念代表作之一。",
+    description: "「RG 1/144 ガンダムベース限定 獨角獸鋼彈 [金色鍍層]」是全球官方鋼普拉綜合設施「THE GUNDAM BASE」為慶祝東京旗艦店開幕一週年推出的限定紀念版本。以人氣的RG獨角獸鋼彈為基礎，機身各部位施以電鍍加工並搭配珍珠光澤成形色，呈現金碧輝煌的高級塗裝規格，隨觀看角度與光線呈現微妙色澤變化，與原版樸素的獨角獸白截然不同，展現出RX-0機體另一種奢華視覺印象。\\n\\n套件延續RG系列標誌性的「Advanced MS Joint」精密骨架與內構造重現設計，可完整重現獨角獸模式與毀滅模式的變形機構，並附有多面透明護盾與武裝配件，機構層面與一般版本完全一致，差異僅在於塗裝與電鍍規格。由於僅限THE GUNDAM BASE各據點（東京、福岡及新千歲機場店等）與GUNDAM BASE會員通路販售，並未在一般模型店鋪或P-Bandai線上通路流通，發售後迅速售罄，是鋼普拉收藏者間長年熱門的高達基地巡禮紀念代表作之一。",
     reviews: [
       { title: "ガンダムベース限定RG「1/144 ユニコーンガンダム [ゴールドコーティング]」レビュー | PachiLateji", url: "https://pachilateji.jp/rg-unicorngc/", lang: "ja" },
       {
@@ -7572,7 +7572,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102618634000&grp_id=5325",
     imageUrl: "/images/mg-avalanche-astraea-typef.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam 00", "アストレア", "P-Bandai限定", "アヴァランチ"],
-    description: "《機動戰士鋼彈00F》正義女神鋼彈（GNY-001F Gundam Astraea TYPE-F）專用的高機動擴充裝備「阿瓦蘭契衝刺單元（Avalanche Dash Unit）」，MG 1/100 P-Bandai 限定單售商品。\n\n本商品僅為裝備套件，不含機體本體，需搭配另售的「MG 1/100 ガンダムアストレア TYPE-F（フルウェポンセット）」組裝完成後方可裝著重現包裝彩圖中的高速衝刺形態。成形色以與 TYPE-F 相同的深紅色呈現，肩部與背部大型推進裝甲可展開變形至高速移動模式，衝刺單元前端的 GN 爪（GNクロー）可開闔，並附有意象 GN 粒子的透明綠色專用展示台座與水轉印式貼紙。\n\n作為《機動戰士鋼彈00F》外傳系列少見的重武裝擴充零件，此單元讓 MG 版正義女神 TYPE-F 得以重現漫畫、小說中高速戰鬥形態，是 00 系列玩家與正義女神鋼彈粉絲的收藏話題商品。",
+    description: "《機動戰士鋼彈00F》正義女神鋼彈（GNY-001F Gundam Astraea TYPE-F）專用的高機動擴充裝備「阿瓦蘭契衝刺單元（Avalanche Dash Unit）」，是MG 1/100 P-Bandai限定單售商品，作為00F外傳漫畫中賦予正義女神鋼彈高速突擊能力的關鍵擴充裝備，補完了本機在漫畫、小說劇情中對抗強敵時展現的高機動戰鬥面貌。\\n\\n本商品僅為裝備套件，不含機體本體，需搭配另售的「MG 1/100 ガンダムアストレア TYPE-F（フルウェポンセット）」組裝完成後方可裝著重現包裝彩圖中的高速衝刺形態。成形色以與TYPE-F相同的深紅色呈現，整體色調高度統一；肩部與背部大型推進裝甲可展開變形至高速移動模式，衝刺單元前端的GN爪（GNクロー）可開闔，重現攻擊時的張合演出，並附有意象GN粒子的透明綠色專用展示台座與水轉印式貼紙。作為00系列玩家與正義女神鋼彈粉絲的收藏話題商品，本品讓TYPE-F的收藏組合更加完整。",
     reviews: [
       { title: "MG ガンダムアストレアTYPE-F用 アヴァランチダッシュユニット レビュー", url: "https://schizophonic9.com/re7/mg_avalancheunit.html", lang: "ja" },
       {
@@ -7608,7 +7608,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5882/",
     imageUrl: "/images/mg-wing-gundam-proto-zero.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Endless Waltz", "ウイングガンダム", "プロトゼロ", "カトキハジメ"],
-    description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》漫畫中登場的 XXXG-00W0 飛翼鋼彈原型零式（Wing Gundam Proto Zero）MG 1/100 版本，2013 年發售，是飛翼零式正式量產前的原型機。\n\n本套件採用完全新開模具並搭載變形機構，可動骨架使用新素材製作、支援後續塗裝。頭部與下半身可 180 度旋轉，配合各部位機構重現 MS 形態與 Neo Bird（新生鳥翼形態）之間的完全變形；特徵性的翼部具備連動開闔與可動設計，腰部側甲翼片亦可動。肩部火神砲艙蓋可開闔，四連火神砲細節精緻；肩甲為雙重構造可展開收納光束軍刀，內部維修管線也忠實重現。雙聯結巨型狙擊步槍（Twin Buster Rifle）以壓倒性比例呈現，並可左右分割。機體標誌採用機械設計師香貫花人（カトキハジメ）繪製之原創標識，並附專用可雙形態展示的飛行台座。\n\n作為飛翼鋼彈零式的原型設定機，本作在無盡的華爾茲系列中具有獨特的過渡地位，是深度鋼彈W粉絲不可錯過的一款隱藏名機。",
+    description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》漫畫中登場的XXXG-00W0飛翼鋼彈原型零式（Wing Gundam Proto Zero）MG 1/100版本，是飛翼零式正式量產前的原型機，補完了漫畫外傳中「Neo Bird」變形形態尚未成熟前的過渡設定，對深度鋼彈W世界觀而言別具意義。\\n\\n本套件採用完全新開模具並搭載變形機構，可動骨架使用新素材製作、支援後續塗裝。頭部與下半身可180度旋轉，配合各部位機構重現MS形態與Neo Bird（新生鳥翼形態）之間的完全變形；特徵性的翼部具備連動開闔與可動設計，腰部側甲翼片亦可動。肩部火神砲艙蓋可開闔，四連火神砲細節精緻；肩甲為雙重構造可展開收納光束軍刀，內部維修管線也忠實重現。雙聯結巨型狙擊步槍（Twin Buster Rifle）以壓倒性比例呈現，並可左右分割。機體標誌採用機械設計師香貫花人（カトキハジメ）繪製之原創標識，並附專用可雙形態展示的飛行台座，是深度鋼彈W粉絲不可錯過的一款隱藏名機。",
     reviews: [
       { title: "MG Wing Gundam Proto Zero – 一天到晚作模型的MS翰", url: "https://mshanplamo.com/blog/post/397549597", lang: "zh" },
       { title: "MGウイングガンダムプロトゼロレビュー", url: "https://schizophonic9.com/re3/mg_protozero.html", lang: "ja" },
@@ -7632,7 +7632,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102618627000&grp_id=5325",
     imageUrl: "/images/mg-astraea-typef-full-weapon.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam 00", "アストレア", "P-Bandai限定", "フルウェポンセット"],
-    description: "官方外傳《機動戰士鋼彈00F》主角機 GNY-001F 正義女神鋼彈 TYPE-F（フルウェポンセット・全武裝套組）MG 1/100 版本，2022 年 4 月發售，P-Bandai 限定商品。\n\nTYPE-F 與能天使鋼彈（Exia）系出同源卻有著大幅差異的機體造形——頭部、衣領、胸部、肩部、腹部、前後裙甲、手臂與膝側裝甲全數採用新規造形零件重現，頭部並可選擇露出或隱藏鋼彈臉（ガンダムフェイス）；GN 驅動及胸背裝甲以新設計零件呈現，並可另外加裝別售 LED 發光單元。本套件依 MG 規格新設計了大量武裝：Proto GN 劍、Proto GN 發射器、GN 光束步槍、GN 大鎚、GN 盾牌、GN 光束手槍、NGN 火箭筒、GN 光束軍刀、GN 飛彈、GN 劍、GN 長短刀、GN 盾（能天使型）等一應俱全，手臂與腿部新增武裝掛架可懸掛各式裝備；並可透過更換頭部、腰部、手臂、腿部零件重現 TYPE-F2 形態。\n\n作為 00F 外傳唯一的 MG 化正義女神鋼彈全武裝套組，此商品堆疊豐富武裝配件，是深紅色能天使系機體收藏者與 00 系列玩家的重點目標。",
+    description: "官方外傳《機動戰士鋼彈00F》主角機GNY-001F正義女神鋼彈TYPE-F（フルウェポンセット・全武裝套組）MG 1/100版本，P-Bandai限定商品。TYPE-F是00F漫畫中登場、與電視版能天使鋼彈（Exia）系出同源卻大幅差異化的獨立機體，設定上肩負應對外星生命體侵略的重任，是00系列外傳中人氣頗高的原創機體之一。\\n\\nTYPE-F頭部、衣領、胸部、肩部、腹部、前後裙甲、手臂與膝側裝甲全數採用新規造形零件重現，頭部並可選擇露出或隱藏鋼彈臉（ガンダムフェイス）；GN驅動及胸背裝甲以新設計零件呈現，並可另外加裝別售LED發光單元，強化展示效果。本套件依MG規格新設計了大量武裝：Proto GN劍、Proto GN發射器、GN光束步槍、GN大鎚、GN盾牌、GN光束手槍、NGN火箭筒、GN光束軍刀、GN劍、GN長短刀等一應俱全，手臂與腿部新增武裝掛架可懸掛各式裝備；並可透過更換頭部、腰部、手臂、腿部零件重現TYPE-F2形態，是00F外傳唯一的MG化正義女神鋼彈全武裝套組，重點收藏價值極高。",
     reviews: [
       {
         title: "[萬代MG組裝模型開箱]PB MG 1/100 機動戰士鋼彈00F GNY-001F 正義女神鋼彈F型(全武裝套組)/GUNDAM ASTRAEA TYPE-F (FULL WEAPON SET)",
@@ -7668,7 +7668,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2164/",
     imageUrl: "/images/mg-jegan-typef-d.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam UC", "ジェガン", "P-Bandai限定", "連邦軍"],
-    description: "《機動戰士鋼彈UC》地球聯邦軍量產傑鋼的特殊塗裝衍生機型 RGM-89D 傑鋼D型（Jegan D-Type）MG 1/100 版本，2019 年 4 月發售，P-Bandai 限定商品。\n\n以 MG 傑鋼骨架為基礎，針對 D 型特徵進行大量新規造形：頭部及火神砲莢艙（バルカン・ポッド・システム）、背包、稜角分明的肩部裝甲、前腕側面細節、腰部與前裙甲、腿部推進器護蓋等部位皆重新設計。機體色以淺綠色成形色徹底重現 D 型的獨特塗裝辨識度，並附新設計圖案的水轉印式貼紙。標準配備包含光束步槍、光束軍刀、盾牌、手榴彈等武裝。可動範圍依循近年 MG 標準大幅提升，髖關節與腿部具備靈活可動性，並可與另售的「89式基地噴射機（ベース・ジャバー）」組合重現劇中場景。\n\nD 型是《機動戰士鋼彈UC》中登場的傑鋼多種塗裝／機能衍生型之一，其標誌性的淺綠塗裝與細部差異讓本作成為傑鋼系列收藏者眼中的重要拼圖。",
+    description: "《機動戰士鋼彈UC》地球聯邦軍量產傑鋼的特殊塗裝衍生機型RGM-89D傑鋼D型（Jegan D-Type）MG 1/100版本，P-Bandai限定商品。D型是傑鋼系列多種塗裝／機能衍生型之一，出現於UC世界觀外傳設定，標誌性的淺綠塗裝在系列眾多傑鋼衍生型中辨識度極高，補完了聯邦軍在傑鋼量產體系下多樣化任務編成的細節設定。\\n\\n以MG傑鋼骨架為基礎，針對D型特徵進行大量新規造形：頭部及火神砲莢艙（バルカン・ポッド・システム）、背包、稜角分明的肩部裝甲、前腕側面細節、腰部與前裙甲、腿部推進器護蓋等部位皆重新設計。機體色以淺綠色成形色徹底重現D型的獨特塗裝辨識度，並附新設計圖案的水轉印式貼紙。標準配備包含光束步槍、光束軍刀、盾牌、手榴彈等武裝。可動範圍依循近年MG標準大幅提升，髖關節與腿部具備靈活可動性，並可與另售的「89式基地噴射機（ベース・ジャバー）」組合重現劇中場景，是傑鋼系列收藏者眼中的重要拼圖。",
     reviews: [
       {
         title: "[開箱]PB MG 1/100 機動戰士鋼彈UC RGM-89D 傑鋼D型/JEGAN D TYPE/ジェガン D型",
@@ -7704,7 +7704,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_3948/",
     imageUrl: "/images/mg-tallgeese-3.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "トールギスIII", "ゼクス・マーキス", "エンドレスワルツ", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W Endless Waltz》OZ-00MS2B トールギスIII，由「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）於劇場版最終決戰駕駛的托爾吉斯最終強化型。主武裝由多佛槍（Dover Gun）換裝為兆能加農砲（メガキャノン），戰鬥力大幅提升，直逼鋼彈等級。\n\n套件頭部、肩甲、兆能加農砲、盾牌等大量新開模，兆能加農砲重現伸縮收納機構，熱能鞭長度可透過付屬零件調整，並附有ゼクス人形（站姿、坐姿各一）與全新設計轉印水貼。本商品為Premium Bandai限定販售，2015年1月發售，定價4,950日圓（含稅）。",
+    description: "《新機動戰記鋼彈W Endless Waltz》OZ-00MS2B トールギスIII，由「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）於劇場版最終決戰駕駛的托爾吉斯最終強化型。作為初代トールギス的發展型，主武裝由多佛槍（Dover Gun）換裝為兆能加農砲（メガキャノン），戰鬥力大幅提升，直逼鋼彈等級，是ゼクス這位悲劇英雄角色在系列尾聲展現的最終戰力象徵。\\n\\n套件頭部、肩甲、兆能加農砲、盾牌等大量新開模，兆能加農砲重現伸縮收納機構，熱能鞭長度可透過付屬零件調整，靈活重現原作中鞭擊敵機的演出畫面。並附有ゼクス人形（站姿、坐姿各一）與全新設計轉印水貼，方便情境展示與角色塑造。本商品為Premium Bandai限定販售，作為MG規格立體化的トールギスIII，可動性與細節密度皆優於同機體的其他規格版本，是鋼彈W系列玩家心目中夢寐以求的收藏機種之一。",
     reviews: [
       { title: "MG トールギスIII レビュー", url: "https://schizophonic9.com/re3/mg_tallgeese3.html", lang: "ja" },
       { title: "MG トールギス3 レビュー", url: "https://hacchaka.net/archives/51939796.html", lang: "ja" },
@@ -7728,7 +7728,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_1462/",
     imageUrl: "/images/mg-core-booster-verka.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Vガンダム", "コアブースター", "Ver.Ka", "リーグ・ミリティア", "変形"],
-    description: "Bandai MG 1/100《機動戰士V鋼彈》可變・分離戰鬥機 LM312V04(B-parts)+SD-VB03A コア・ブースター Ver.Ka，隸屬U.C.0153年League Militaire軍。套件同梱兩種頭部規格的核心戰機（V鋼彈用／Hexa鋼彈用），可組成單獨的Core Fighter，亦可與MG Vガンダム Ver.Ka／MG Vダッシュガンダム Ver.Ka等機體合體變形為V核心戰機、V-Dash鋼彈等形態。\n\n同梱兵裝包含火神砲、飛彈莢艙、拋棄式火箭筒、格林機砲、光束標槍、可摺疊光束槍等多種武裝，各自具備專屬把持機構。本商品為2010年鋼普拉30週年紀念企劃「Ver.Ka」系列之一，2010年7月24日發售，定價2,420日圓（含稅）。",
+    description: "《機動戰士V鋼彈》可變・分離戰鬥機LM312V04(B-parts)+SD-VB03A コア・ブースター Ver.Ka，隸屬U.C.0153年League Militaire軍。核心戰機在V鋼彈的世界觀中扮演著重要的緊急脫出與變形合體核心角色，反映出當時李亞・米利提亞軍面對薩比亞王國龐大戰力，被迫發展出高度模組化、機體可拆分重組作戰體系的時代背景。\\n\\n套件同梱兩種頭部規格的核心戰機（V鋼彈用／Hexa鋼彈用），可組成單獨的Core Fighter，亦可與MG Vガンダム Ver.Ka／MG Vダッシュガンダム Ver.Ka等機體合體變形為V核心戰機、V-Dash鋼彈等形態，充分展現V鋼彈系列合體變形的機構魅力。同梱兵裝包含火神砲、飛彈莢艙、拋棄式火箭筒、格林機砲、光束標槍、可摺疊光束槍等多種武裝，各自具備專屬把持機構。本商品為鋼普拉30週年紀念企劃「Ver.Ka」系列之一，是V鋼彈系列玩家組建完整合體形態不可或缺的關鍵套件。",
     reviews: [
       { title: "MGコアブースター/Vダッシュガンダム レビュー", url: "https://schizophonic9.com/mg_corebooster_p.html", lang: "ja" },
       { title: "MG コア・ブースター Ver.ka レビュー", url: "https://www.oshiiregunpla.com/blog-entry-92.html", lang: "ja" },
@@ -7749,7 +7749,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_2262/",
     imageUrl: "/images/mg-shenlong-liaoya.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "シェンロンガンダム", "獠牙", "敗者たちの栄光", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》XXXG-01S シェンロンガンダムEW（獠牙／タウヤー裝備），沿用一般販售版シェンロンガンダムEW本體素體，追加漫畫「敗者們的榮光」中登場的原創巨大兵裝「獠牙」——一把透過鋼索與盾牌相連、可投擲後回收的大型彎刀。\n\n鋼索部分以金屬線材重現，兼顧強度與可動的柔軟彎折表現，另附加藤單（カトキハジメ）設計轉印水貼與展示台。同梱兵裝包含光束三叉戟、シェンロン盾、獠牙、龍爪（Dragon Hang）。本商品為Premium Bandai限定販售，2019年5月發售，定價4,950日圓（含稅）。",
+    description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》XXXG-01S シェンロンガンダムEW（獠牙／タウヤー裝備），沿用一般販售版シェンロンガンダムEW本體素體，追加漫畫「敗者們的榮光」中登場的原創巨大兵裝「獠牙」——一把透過鋼索與盾牌相連、可投擲後回收的大型彎刀，是張五飛這位重情重義的角色在外傳劇情中展現獨門近戰美學的代表兵裝，也呼應了神龍鋼彈一貫以格鬥戰術見長的機體設定。\\n\\n鋼索部分以金屬線材重現，兼顧強度與可動的柔軟彎折表現，能自由擺出投擲與回收的動態姿勢；另附加藤單（カトキハジメ）設計轉印水貼與展示台，強化整體收藏質感。同梱兵裝包含光束三叉戟、シェンロン盾、獠牙、龍爪（Dragon Hang）等一應俱全，武裝陣容豐富。本商品為Premium Bandai限定販售，作為鋼彈W外傳漫畫中原創兵裝立體化的稀有商品，是深度鋼彈W系列與神龍鋼彈收藏者相當重視的一件。",
     reviews: [
       { title: "MG シェンロンガンダム EW （タウヤー装備） レビュー", url: "https://schizophonic9.com/re5/mg_liaounit.html", lang: "ja" },
       { title: "【ガンプラ】MG 1/100 シェンロンガンダム EW（タウヤー装備） レビュー【プレバン】", url: "https://gunplapocchi.com/mg-shenlong-gundam-tauer/", lang: "ja" },
@@ -7773,7 +7773,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_4230/",
     imageUrl: "/images/mgex-strike-freedom.jpg",
     tags: ["ガンプラ", "MGEX", "Bandai", "ガンダムSEED", "ストライクフリーダム", "1/100", "通常版"],
-    description: "Bandai Spirits 頂規 MGEX（Master Grade Extreme）1/100 ストライクフリーダムガンダム 通常配色版，為MGEX系列第二彈作品，重現《機動戰士鋼彈SEED DESTINY》基拉・大和座駕強攻自由鋼彈。機體內部搭載全新設計骨架，並以電鍍、金屬成型等多種表面處理重現機體內部色彩，翼型Super Dragoon武裝系統與PS裝甲細節皆以MGEX規格全新開模。\n\n本品與P-Bandai限定「MECHANICAL CLEAR」版採用相同素體開模，但為一般配色的標準販售版本，兩者為獨立商品編號、獨立定價、不同發售時程。2022年11月19日發售，定價17,050日圓（含稅）。",
+    description: "Bandai Spirits頂規MGEX（Master Grade Extreme）1/100 ストライクフリーダムガンダム 通常配色版，為MGEX系列第二彈作品，重現《機動戰士鋼彈SEED DESTINY》基拉・大和座駕強攻自由鋼彈。強攻自由鋼彈是基拉在故事後期為對抗命運鋼彈等強敵所駕駛的最終決戰機體，搭載可展開為翼狀的Super Dragoon武裝系統，是SEED系列中人氣最高、辨識度最強的主角機之一。\\n\\n機體內部搭載全新設計骨架，並以電鍍、金屬成型等多種表面處理重現機體內部色彩，展現MGEX系列作為頂級規格產品線的工藝水準；翼型Super Dragoon武裝系統與PS裝甲細節皆以MGEX規格全新開模，力求還原動畫中展翼待機、多方位射擊的華麗演出。本品與P-Bandai限定「MECHANICAL CLEAR」版採用相同素體開模，但為一般配色的標準販售版本，兩者為獨立商品編號、獨立定價、不同發售時程，是SEED系列收藏者建立完整強攻自由鋼彈收藏的基礎版本。",
     reviews: [
       { title: "MGEX ストライクフリーダムガンダム レビューその１", url: "https://schizophonic9.com/re7/mgex_strikefreedom.html", lang: "ja" },
       { title: "【ガンプラ】MGEX 1/100 ストライクフリーダムガンダム レビュー", url: "https://gunplapocchi.com/mgex-strike-freedom-gundam/", lang: "ja" },
@@ -7796,7 +7796,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://p-bandai.com/tw/item/A2464717001",
     imageUrl: "/images/mg-re-gz-91b-custom.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "逆襲のシャア", "MSV", "可變形", "P-Bandai"],
-    description: "Bandai Spirits MG 1/100《機動戰士鋼彈 逆襲的夏亞》MSV RGZ-91B 靈格斯·特裝型（Re-GZ Custom），P-Bandai 限定，以既有 MG Re-GZ 為基礎全新造形設計，強化肩部與大腿內構關節可動性，武裝換裝為突擊步槍（AK-47型）與雙持光束軍刀，並可不更換零件直接變形為波動騎士形態。",
+    description: "《機動戰士鋼彈 逆襲的夏亞》MSV RGZ-91B 靈格斯·特裝型（Re-GZ Custom），P-Bandai限定商品。Re-GZ是聯邦軍在ν鋼彈開發計畫中平行推進的另一系脈試作機，繼承了初代Z鋼彈的可變形設計理念並強化裝甲與武裝配置，特裝型則是MSV體系中針對局部戰場需求進行的改修版本，補完了逆襲的夏亞時代聯邦軍多線並進的MS開發脈絡。\\n\\n以既有MG Re-GZ為基礎全新造形設計，強化肩部與大腿內構關節可動性，讓機體在人形與波動騎士（MA）形態切換時展現更流暢的動態表現。武裝換裝為突擊步槍（AK-47型）與雙持光束軍刀，武裝風格更貼近地面戰與近距離格鬥需求，並可不更換零件直接變形為波動騎士形態，變形機構設計相當俐落。作為MSV體系中話題性十足的隱藏機種，本商品是深度逆襲的夏亞世界觀與可變形MS收藏者值得關注的一款限定套件。",
     reviews: [
       {
         title: "[開箱]PB MG 1/100 逆襲的夏亞MSV RGZ-91B 靈格斯.特裝型",
@@ -7827,7 +7827,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3907/",
     imageUrl: "/images/mg-destiny-impulse-gundam-r.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED DESTINY", "ASTRAY R", "P-Bandai限定", "命運脈衝"],
-    description: "《機動戰士鋼彈SEED DESTINY ASTRAY R》官方外傳漫畫中登場的原創機體「命運脈衝鋼彈R（リジェネス）」MG化。以既有 MG 命運鋼彈與 MG 力天使脈衝鋼彈的骨架與零件為基礎，追加大量新造形零件重新設計而成，是 Premium Bandai 限定販售商品。\n\n背部搭載全新造形的大型背包「命運R Silhouette」，中央保留單眼（Mono Eye）駕駛艙設計，頭部可替換為鋼彈型或單眼「DI Adaga」兩種形態。左右一對的「Wolf Bane 長射程光束砲塔」除可掛載於肩部外，亦能拆下由雙手持握射擊，重現漫畫中命運脈衝鋼彈R最強火力形態。",
+    description: "《機動戰士鋼彈SEED DESTINY ASTRAY R》官方外傳漫畫中登場的原創機體「命運脈衝鋼彈R（リジェネス）」MG化，是命運鋼彈與力天使脈衝鋼彈兩大人氣機體技術結晶的延伸產物，設定上匯集了兩機體各自的核心裝備優勢，是ASTRAY外傳體系中相當受矚目的原創機種，補完了SEED DESTINY正史之外的另一條技術發展支線。\\n\\n本商品以既有MG命運鋼彈與MG力天使脈衝鋼彈的骨架與零件為基礎，追加大量新造形零件重新設計而成，是Premium Bandai限定販售商品。背部搭載全新造形的大型背包「命運R Silhouette」，中央保留單眼（Mono Eye）駕駛艙設計，呼應吉翁系機體的血統元素，頭部可替換為鋼彈型或單眼「DI Adaga」兩種形態，變化性十足。左右一對的「Wolf Bane 長射程光束砲塔」除可掛載於肩部外，亦能拆下由雙手持握射擊，重現漫畫中命運脈衝鋼彈R最強火力形態，是SEED系列外傳機體收藏中兼具話題性與武裝豐富度的重點作品。",
     reviews: [
       { title: "MG デスティニーインパルスガンダムＲ（リジェネス）のレビュー紹介", url: "https://hayamimi-gunpla.com/?mode=m&no=7567&m2=res&page=0", lang: "ja" },
       { title: "MG ディスティニーインパルスガンダムリジェネス【開封編】【仕上編】", url: "https://www.mastergradeclub.com/blog/destiny-impulse-gundam-r/4863/", lang: "ja" },
@@ -7849,7 +7849,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1585/",
     imageUrl: "/images/mg-zplus-c1.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダム・センチネル", "Z Plus", "可變形", "E.F.S.F."],
-    description: "《機動戰士Z鋼彈》外傳企劃「鋼彈・センチネル（Gundam Sentinel）」中登場的地球聯邦軍原型可變形 MS「Ζ Plus C1（ゼータプラスC1）」MG化。本機為03號機，由駕駛員希古曼・謝德（Sigman Shade）所駕駛，採用海空迷彩塗裝，是 MG Z鋼彈系列中風格獨特的支線機體。\n\n主要武裝為大型「Beam Smart Gun」光束步槍，機體可完整變形為 Wave Rider 高速飛行形態，背部推進背包與增裝燃料槽皆可動。作為2002年發售的 MG 舊金型作品，至今仍以優秀的分色與可動性獲得玩家肯定，是 MSZ-006 系列中少數保有波動戰機變形機構的高完成度 MG 套件。",
+    description: "「鋼彈センチネル（Gundam Sentinel）」是設定於《機動戰士Z鋼彈》與《ZZ鋼彈》之間空白期的原創外傳企劃，由多位資深模型師與設定家聯手打造，補完地球聯邦軍在此過渡時期的兵器發展脈絡，也讓官方正史之外的量產機譜系得以完整呈現。「Ζ Plus」正是在Z鋼彈技術基礎上發展、供實戰部隊測試評估的量產型可變MS原型系列，其中03號機由駕駛員希古曼・謝德所駕駛，捨棄常見的量產配色，改採罕見的海空迷彩塗裝，是系列中辨識度極高的一機，也常被視為Sentinel企劃中最具個性的支線機體代表。\n\n作為2002年發售的MG舊金型套件，本作關節結構在當年已屬優秀水準，主要武裝大型Beam Smart Gun光束步槍握持穩固，機體可完整變形為Wave Rider高速飛行形態，背部推進背包與增裝燃料槽皆可動，呼應設定中高速偵察與火力支援兼具的定位。即便金型年代較早，其分色精度與變形機構完成度至今仍受玩家肯定，是收藏Z鋼彈支線機體系譜不可或缺的一件。",
     reviews: [
       { title: "MG ゼータプラスC1 レビュー", url: "https://www.tsumipla-factory.com/entry/mgzetaplusc1", lang: "ja" },
       { title: "MG 1/100 MSZ-006C1 ゼータプラスC1 レビュー", url: "https://aoimokei.hatenablog.jp/entry/20090719/p1", lang: "ja" },
@@ -7872,7 +7872,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13226/",
     imageUrl: "/images/metal-build-freedom-concept2.jpg",
     tags: ["Gundam SEED", "フリーダムガンダム", "METAL BUILD", "Bandai", "合金", "CONCEPT2"],
-    description: "《機動戰士鋼彈SEED》主角機 ZGMF-X10A 自由鋼彈的全新設計版本「CONCEPT 2」，由 METAL BUILD 品牌重新詮釋，機體結構與外裝造型皆與初代 METAL BUILD 自由鋼彈截然不同，追加了更具躍動感的翼翅演出結構。\n\n背部主翼採前後可動軸設計，展開時能呈現更具躍動感與量感的輪廓；主武裝「バラエナ收束電漿光束槍」可變換持握位置，重現動畫中「High-Mat Full Burst」的招牌射擊姿勢。膝部關節、多節伸縮短臂與合金骨架的搭配，讓雙翼得以自由展開而不需扭轉砲身，是 METAL BUILD SEED 系列中評價最高的機體之一。",
+    description: "ZGMF-X10A自由鋼彈是《機動戰士鋼彈SEED》主角基拉・大和在血腥情人節事件後、為對抗地球聯合軍而挺身駕駛的次世代MS，機體搭載可解除N干擾儀限制的核子反應爐，火力與機動性遠超同時期量產機，是劇中「以力量守護和平」理念的象徵性存在，招牌的「High-Mat Full Burst」全兵裝齊射姿勢更成為系列經典畫面，也奠定了自由鋼彈在鋼彈周邊商品市場中經久不衰的人氣地位。\n\nMETAL BUILD「CONCEPT 2」以全新設計思路重新詮釋這款人氣機體，機體骨架與外裝造型皆與初代METAL BUILD版本截然不同，追加更具躍動感的翼翅演出結構。背部主翼採前後可動軸設計，展開時呈現更具量感的輪廓；主武裝收束電漿光束槍可變換持握位置，重現全兵裝齊射的招牌姿勢。膝部關節、多節伸縮短臂與合金骨架的搭配，讓雙翼得以自由展開而無須扭轉砲身，關節活動範圍與姿勢重現度皆有大幅進化，是METAL BUILD SEED系列中評價最高的機體之一。",
     reviews: [
       { title: "自由永遠屹立【開箱】Metal Build 自由鋼彈 Concept 2", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=54132", lang: "zh" },
       { title: "自由之翼2.0—Metal Build FREEDOM GUNDAM Concept 2 玩評報告 兼論MB 1.0及ROBOT魂版本", url: "https://www.toy-people.com/?p=54958", lang: "zh" },
@@ -7896,7 +7896,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13948/",
     imageUrl: "/images/metal-build-devise-exia.jpg",
     tags: ["Gundam 00", "デヴァイズエクシア", "METAL BUILD", "Bandai", "合金", "Revealed Chronicle"],
-    description: "《機動戰士鋼彈00》系列全新企劃「Revealed Chronicle」中登場的能天使鋼彈衍生機體「GN-001/de-01RS 鋼彈德凡斯・艾克西亞（ガンダムデヴァイズエクシア）」，由「機動戦士ガンダム00」機械設計師海老川兼武全新設計打造的 METAL BUILD 完成品。\n\n機體搭載雙重 GN Drive 驅動的「GN Devise 背包」，可與其他選配武裝零件相容組裝，重現多種戰鬥形態；隨附新武裝「Proto GN Raster Sword」光劍。合金與樹脂骨架構成的可動關節，讓能天使鋼彈系譜中這款強化衍生機在細節密度與可動幅度上都更進一步。",
+    description: "《機動戰士鋼彈00》描繪私設武裝組織「天人（Celestial Being）」為終結戰爭而以武力介入世界各國的故事，主角刹那・F・清英所駕駛的能天使鋼彈搭載GN Drive粒子驅動系統，並具備Trans-Am瞬間出力提升機構，是系列象徵性主力機體。「Revealed Chronicle」則是跳脫原作動畫框架、由機械設計師海老川兼武全新構思的衍生企劃，持續為00世界觀補充官方正史之外的假想機體，本機「GN-001/de-01RS鋼彈德凡斯・艾克西亞」即為能天使鋼彈在此設定下的強化衍生機。\n\n本作為METAL BUILD規格完成品，機體搭載雙重GN Drive驅動的GN Devise背包，可與其他選配武裝零件相容組裝，重現多種戰鬥形態；隨附全新武裝Proto GN Raster Sword光劍。合金與樹脂骨架構成的可動關節，讓能天使鋼彈系譜中這款強化衍生機在細節密度與可動幅度上都更進一步，是能天使系機體收藏中值得留意的一件延伸作品，也展現了00系列在動畫完結多年後持續擴充世界觀的創作能量。",
     reviews: [
       { title: "METAL BUILD ガンダムデヴァイズエクシア レビュー", url: "https://hacchaka.net/archives/52087765.html", lang: "ja" },
       { title: "METAL BUILD：ガンダムデヴァイズエクシア [レビュー]", url: "https://toroplus.blog/metalbuild-gff/metal-build-deviseexia/", lang: "ja" },
@@ -7920,7 +7920,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_4060/",
     imageUrl: "/images/mg-slash-zaku-phantom-yzak.jpg",
     tags: ["ガンダムSEED DESTINY", "ザクファントム", "イザーク・ジュール", "MG", "1/100", "Bandai", "P-Bandai限定"],
-    description: "《機動戦士ガンダムSEED DESTINY》中由伊薩克・喬爾（Yzak Jule）駕駛、換裝近戰用「斬擊魔杖（Slash Wizard）」的斬擊型薩克幽靈，首度以MG 1/100規格商品化。機體以薩克勇士（Zaku Warrior）為基礎骨架，全新造形重現斬擊魔杖的厚重量感與精密機構。\n\n新規造形武裝包括MMI-M826「九頭蛇」連裝光束加特林砲，砲身部位可旋轉、可動範圍廣泛；以及大型近戰武裝MA-MR「法爾克斯G7」光束斧，收納與展開形態皆以換裝方式重現，更可將左右刀刃合體成MG原創的雙刃形態，收納時亦可掛載於腰部。機體以象徵伊薩克專用機的水藍色為成型色，各部位分色細緻。附有含札夫特（ZAFT）標誌的水轉印水貼。此為Premium Bandai限定商品，2020年4月發售，非一般通路販售。",
+    description: "《機動戰士鋼彈SEED DESTINY》承接前作血腥情人節事件後的新一輪衝突，札夫特王牌伊薩克・喬爾在故事中期換裝近戰特化的斬擊魔杖，駕駛薩克幽靈系列衍生機「斬擊型薩克幽靈」投入戰場，展現這位好勝心強的王牌駕駛員不服輸的性格與精湛的近戰身手。本套件首度以MG 1/100規格商品化，機體以薩克勇士為基礎骨架，全新造形重現斬擊魔杖的厚重量感與精密機構，讓玩家得以近距離欣賞這款人氣配角機的細節設計。\n\n新規造形武裝包括MMI-M826九頭蛇連裝光束加特林砲，砲身可旋轉、可動範圍廣泛；以及大型近戰武裝法爾克斯G7光束斧，收納與展開形態皆以換裝方式重現，更可將左右刀刃合體成MG原創的雙刃形態，收納時亦可掛載於腰部。機體以象徵伊薩克專用機的水藍色為成型色，各部位分色細緻，附有含札夫特標誌的水轉印水貼。此為Premium Bandai限定商品，2020年4月發售，非一般通路販售，稀有度較高。",
     reviews: [
       {
         title: "MG 1/100《機動戰士鋼彈SEED DESTINY》斬擊型薩克幽靈（伊薩克･焦耳專用機）開箱 | 玩具人",
@@ -7960,7 +7960,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3474/",
     imageUrl: "/images/mg-blaze-zaku-phantom-rey.jpg",
     tags: ["ガンダムSEED DESTINY", "ザクファントム", "レイ・ザ・バレル", "MG", "1/100", "Bandai", "P-Bandai限定"],
-    description: "《機動戦士ガンダムSEED DESTINY》中由雷伊・薩・巴雷爾（Rey Za Burrel）駕駛的烈火型薩克幽靈，以MG 1/100規格商品化，是繼綠色標準機之後推出的角色專屬配色版本。\n\n機體延續薩克幽靈系列高可動內構，肩部追加尖刺造型裝甲，展現雷伊機的凌厲氣勢。隨附全新造形的「凱特斯500mm」無後座力砲，砲口與彈匣採分件處理以重現細緻分色；此外亦附上光束突擊步槍、高性能炸裂彈、光束戰斧、盾牌等豐富武裝。機身以雷伊專用機特徵性的白色搭配淺紫色成型色重現，並附含札夫特標誌的水轉印水貼。此為Premium Bandai限定商品，2021年6月發售。",
+    description: "《機動戰士鋼彈SEED DESTINY》中雷伊・薩・巴雷爾是身世成謎、與Rau Le Creuset有著隱密關聯的關鍵角色，性格冷靜疏離卻在故事後段揭露驚人真相，其駕駛的烈火型薩克幽靈以重火力見長，是薩克幽靈系列中偏向支援攻擊的量產衍生機型，也常被視為呼應雷伊角色深沉城府的火力擔當機體。本套件以MG 1/100規格商品化，是繼綠色標準機之後推出的角色專屬配色版本，讓收藏者能對照兩種塗裝欣賞同一機體的不同面貌。\n\n機體延續薩克幽靈系列高可動內構，肩部追加尖刺造型裝甲，展現雷伊機的凌厲氣勢。隨附全新造形的凱特斯500mm無後座力砲，砲口與彈匣採分件處理以重現細緻分色；此外亦附上光束突擊步槍、高性能炸裂彈、光束戰斧、盾牌等豐富武裝。機身以雷伊專用機特徵性的白色搭配淺紫色成型色重現，並附含札夫特標誌的水轉印水貼。此為Premium Bandai限定商品，2021年6月發售，屬於稀少度較高的角色專用配色機體。",
     reviews: [
       { title: "MG ブレイズザクファントム（レイ・ザ・バレル専用機）レビュー", url: "https://schizophonic9.com/re7/mg_blazezakurey.html", lang: "ja" },
       { title: "MG ブレイズザクファントム（レイ・ザ・バレル専用機） : デンデロの消失", url: "https://dendero.blog.jp/archives/35218289.html", lang: "ja" },
@@ -7984,7 +7984,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3991/",
     imageUrl: "/images/mg-hyakushiki-kai.jpg",
     tags: ["機動戦士Zガンダム", "百式改", "MG", "1/100", "Bandai", "P-Bandai限定", "量産機"],
-    description: "取材自《機動戦士Zガンダム》MSV設定，由AEUG運用、以百式為基礎發展的主力量產攻擊用MS「量産型百式改」，首度以MG系列商品化，同時也是鋼普拉史上首次推出此機體的套件。\n\n套件以未電鍍消光金成型色重現機體色，並新規造形頭部、肩甲、光束加特林槍及背包等特徵部位：向後突出的獨特頭部造形、可掛載光束加特林槍的肩部掛架、雙色分件呈現的光束加特林砲（附兩挺，可左右肩掛載並可調整角度）、以及取消背部大型推進組件、線條簡潔的新型背包（可掛載隨附的黏土式火箭砲）。透過零件替換，同一套件亦可組裝出電鍍金色的標準版「百式」，並相容於「Mega Bazooka Launcher」與「Value Pack」等外掛擴充零件。此為Premium Bandai限定商品，原版於2015年12月發售。",
+    description: "百式是《機動戰士Z鋼彈》中夏亞・阿茲納布爾（化名夸特羅・巴吉納）駕駛的AEUG指揮官用MS，因全身鍍以金色塗裝而成為系列中極具話題性的機體，也是夏亞座機系譜裡最廣為人知的一款。「量産型百式改」則取材自MSV設定，是以百式為基礎發展、供AEUG部隊實戰運用的主力量產攻擊型改良機，補完了官方動畫之外聯邦與AEUG兵器發展的合理化脈絡。本套件首度將此機體以MG系列商品化，也是鋼普拉史上首次立體化此設定機體，對長期關注MSV支線的玩家而言意義重大。\n\n套件以未電鍍消光金成型色重現機體色，並新規造形頭部、肩甲、光束加特林槍及背包等特徵部位：向後突出的獨特頭部造形、可掛載光束加特林槍的肩部掛架、雙色分件呈現的光束加特林砲（附兩挺，可左右肩掛載並可調整角度）、以及線條簡潔的新型背包。透過零件替換，同一套件亦可組裝出電鍍金色的標準版百式，並相容於Mega Bazooka Launcher等外掛擴充零件。此為Premium Bandai限定商品，原版於2015年12月發售。",
     reviews: [
       { title: "MG 量産型百式改 レビュー", url: "https://schizophonic9.com/re3/mg_hyakushikikai.html", lang: "ja" },
       { title: "ＭＧ量産型百式改 レビュー", url: "https://gunplamarusime.com/mg-%EF%BD%8Dass%E2%80%90production-type-hyakusiki-kai/", lang: "ja" },
@@ -8009,7 +8009,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://alter-web.jp/products/26/",
     imageUrl: "/images/alter-heroine-x-fate.jpg",
     tags: ["Fate/stay night", "ヒロインX", "1/7", "ALTER", "セイバー"],
-    description: "由ALTER推出的《Fate/stay night》1/7比例完成品「ヒロインX（Heroine X）」，是為了打倒各式「セイバー系」英靈而登場的神秘覆面女英雄——其真身正是亞瑟王傳說的騎士王阿爾托莉雅・潘德拉貢（セイバー），此角色最初源自《Fate/hollow ataraxia》「膠囊從者」企劃及愚人節企劃「路地裏さつき ヒロイン十二宮編」中的惡搞設定，其後也延伸出FGO中「謎の英雄X」等相關衍生角色（注意與FGO從者「謎のヒロインX〔オルタ〕」為不同企劃、不同角色）。\n\n雕像重現角色頭戴黑色貓耳鴨舌帽、以藍色圍巾遮住口鼻的招牌造型，身穿藍色運動外套與短褲，右手持巨劍擺出戰鬥架勢，及膝馬尾與圍巾隨風飄動，展現英姿颯爽又帶點街頭感的獨特形象。原型製作由竜崎理擔綱，塗裝由鉄森七方負責，全高約230mm（含圍巾）。初版於2016年1月發售，2017年4月推出再版。由於角色本身設定為「神秘」身分，包裝與宣傳素材皆未直接標示其真實身份。",
+    description: "《Fate/stay night》以聖杯戰爭為主軸，召喚歷史英靈化身的從者「セイバー」（阿爾托莉雅・潘德拉貢）為系列人氣最高的角色之一，其英姿與悲劇性格深植玩家心中。「ヒロインX（Heroine X）」則是源自《Fate/hollow ataraxia》膠囊從者企劃及愚人節惡搞企劃「路地裏さつき」的衍生設定，塑造為打倒各式セイバー系英靈而現身的神祕覆面女英雄，其真身正是騎士王本人，其後也延伸出FGO中謎の英雄X等相關角色（注意與FGO從者謎のヒロインX〔オルタ〕為不同企劃、不同角色），是Fate系列中頗具惡搞色彩卻仍受玩家喜愛的特殊分支設定。\n\nALTER推出的1/7比例完成品重現角色頭戴黑色貓耳鴨舌帽、以藍色圍巾遮住口鼻的招牌造型，身穿藍色運動外套與短褲，右手持巨劍擺出戰鬥架勢，及膝馬尾與圍巾隨風飄動，展現英姿颯爽又帶點街頭感的獨特形象。原型製作由竜崎理擔綱，塗裝由鉄森七方負責，全高約230mm（含圍巾）。初版於2016年1月發售，2017年4月再版，包裝與宣傳素材皆未直接標示其真實身份，維持設定上的神祕感。",
     reviews: [],
     youtube: [
       {
@@ -8033,7 +8033,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_1147/",
     imageUrl: "/images/mg-sandrock-custom-ew.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "サンドロック", "Endless Waltz", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W Endless Waltz》劇場版限定機體 XXXG-01SR2 鋼彈沙德洛克改EW（ガンダムサンドロック改 EW），奇渣爾・拉巴巴・維拿（Quatre Raberba Winner）於劇場版中的座駕。套件沿用既有 MG 沙德洛克EW（XXXG-01SR）本體素體，以全新成形色與追加零件重現劇場版限定塗裝，最大特徵為披覆全身、可自由展開造型的大型抗光束塗層斗篷，斗篷採三段式構造搭配軟質素材，可呈現隨風飄動的動態姿勢。\n\n同梱兵裝包含雙持熱能彎刀（ヒートショーテル）、光束機槍與盾牌，另附換裝手部零件（張開手、持握手×2）及奇渣爾同比例人形一體，並附加藤單（カトキハジメ）設計轉印水貼。本商品為Bandai Hobby Online Shop（Premium Bandai）限定販售，2017年10月發售，定價5,280日圓（含稅）。",
+    description: "《新機動戰記鋼彈W Endless Waltz》為電視版完結後的劇場版總集篇兼後日談，描繪殖民地衝突落幕後和平主義者奇渣爾・拉巴巴・維拿的座駕鋼彈沙德洛克改EW。奇渣爾出身軍火財閥家族卻堅持非戰理念，一心期盼終結戰爭卻始終背負著理想與現實的矛盾，其座機在劇場版中換裝了全身披覆的大型斗篷，象徵角色低調行事、避免正面殺傷的作戰哲學，也呼應他在五位鋼彈少年中最為柔軟細膩的性格描寫。\n\n本套件沿用既有MG沙德洛克EW本體素體，以全新成形色與追加零件重現劇場版限定塗裝，最大特徵為披覆全身、可自由展開造型的大型抗光束塗層斗篷，斗篷採三段式構造搭配軟質素材，可呈現隨風飄動的動態姿勢。同梱兵裝包含雙持熱能彎刀、光束機槍與盾牌，另附換裝手部零件及奇渣爾同比例人形一體，並附加藤單設計轉印水貼。本商品為Premium Bandai限定販售，2017年10月發售，定價5,280日圓（含稅），屬限量流通商品。",
     reviews: [
       { title: "MG ガンダムサンドロック改 EW レビュー", url: "https://schizophonic9.com/re4/mg_sandrockcustom.html", lang: "ja" },
       { title: "FULL REVIEW P-Bandai MG 1/100 GUNDAM SANDROCK CUSTOM EW", url: "https://www.gunjap.net/site/?p=328353", lang: "en" },
@@ -8057,7 +8057,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_3984/",
     imageUrl: "/images/mg-altron-gundam-ew.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "アルトロンガンダム", "Endless Waltz", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W Endless Waltz》XXXG-01S2 阿爾托隆鋼彈（アルトロンガンダム EW），張五飛座駕，是沈龍鋼彈的強化發展型，因雙臂裝備的「龍牙鉤（ドラゴンハング）」而被稱為「雙首龍＝阿爾托隆」。套件以既有 MG 沈龍鋼彈EW為基礎，透過全新造形重現本機特徵性的雙大型武裝。\n\n龍牙鉤重現從收納到展開攻擊的連動機構，前端爪部為二軸可動抽拉式設計，可展開開闔，並附延長用臂節與兩支專用輔助支架供動態展示；雙頭光束三叉戟（ツインビームトライデント）握柄部位為細節豐富的新規零件，兩端出力口可裝上透明成形光束刃，拆下光束刃後可將握柄收納掛載於背包攜行。另附身著瑪莉梅亞軍制服的張五飛同比例人形（立姿／坐姿）及全新設計水轉印式貼紙。本商品為Premium Bandai限定販售，2015年10月發售，定價5,390日圓（含稅）。",
+    description: "《新機動戰記鋼彈W Endless Waltz》中張五飛是恪守武人信念、講求一對一決鬥美學的殖民地戰士，性格孤傲卻對戰鬥抱持近乎信仰般的執著，其座駕阿爾托隆鋼彈是沈龍鋼彈的強化發展型，因雙臂裝備的龍牙鉤而被稱為雙首龍＝阿爾托隆，是張五飛貫徹戰鬥哲學的具體化身，也是鋼彈W系列中造型辨識度最高的機體之一。\n\n本套件以既有MG沈龍鋼彈EW為基礎，透過全新造形重現本機特徵性的雙大型武裝。龍牙鉤重現從收納到展開攻擊的連動機構，前端爪部為二軸可動抽拉式設計，可展開開闔，並附延長用臂節與兩支專用輔助支架供動態展示；雙頭光束三叉戟握柄部位為細節豐富的新規零件，兩端出力口可裝上透明成形光束刃，拆下光束刃後可將握柄收納掛載於背包攜行。另附身著瑪莉梅亞軍制服的張五飛同比例人形（立姿／坐姿）及全新設計水轉印式貼紙。本商品為Premium Bandai限定販售，2015年10月發售，定價5,390日圓（含稅），是系列中相當受玩家推崇的一款。",
     reviews: [
       { title: "MG アルトロンガンダム EW レビュー", url: "https://schizophonic9.com/re3/mg_altron.html", lang: "ja" },
       { title: "【ガンプラ】MG 1/100 アルトロンガンダム EW レビュー【プレバン】", url: "https://gunplapocchi.com/mg-altron-gundam-ew/", lang: "ja" },
@@ -8081,7 +8081,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_3057/",
     imageUrl: "/images/mg-sandrock-ew-armadillo.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "サンドロック", "アーマディロ", "敗者たちの栄光", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》XXXG-01SR 鋼彈沙德洛克EW（アーマディロ裝備），漫畫「敗者們的榮光」中登場的原創增裝武裝「アーマディロ（犰狳）」商品化版本。套件以新規造形重現增加裝甲的展開與著脫機構，各部位細節與色分皆以成形品呈現：雙肩與正面增裝甲可透過新規肩部連接零件自由著脫，背包大型化並搭配新規零件重現，兩肩增裝甲上另附盾牌型輔助推進器，具備前後展開機構。\n\n本體沿用一般販售版沙德洛克EW核心素體，同梱兵裝包含熱能彎刀、光束機槍、盾牌及全套アーマディロ增裝甲組件，並附加藤單（カトキハジメ）設計轉印水貼。本商品為Premium Bandai限定販售，2020年10月發售，定價6,380日圓（含稅）。",
+    description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》是脫離電視版與劇場版正史、以漫畫形式展開的平行外傳，描繪Endless Waltz事件之外的另一段可能性，讓奇渣爾等角色的命運走向與觀眾熟知的劇場版產生分歧，其中登場的原創增裝武裝「アーマディロ（犰狳）」即是為奇渣爾座駕沙德洛克EW量身打造、強化防禦與突擊能力的重裝形態，呼應此外傳中沙漠地帶決戰的獨特戰術需求。\n\n本套件以新規造形重現增加裝甲的展開與著脫機構，各部位細節與色分皆以成形品呈現：雙肩與正面增裝甲可透過新規肩部連接零件自由著脫，背包大型化並搭配新規零件重現，兩肩增裝甲上另附盾牌型輔助推進器，具備前後展開機構，重現角色在防禦戰中包覆全身、強化生存性的戰術構想。本體沿用一般販售版沙德洛克EW核心素體，同梱兵裝包含熱能彎刀、光束機槍、盾牌及全套犰狳增裝甲組件，並附加藤單設計轉印水貼。本商品為Premium Bandai限定販售，2020年10月發售，定價6,380日圓（含稅），屬漫畫外傳限定衍生機體。",
     reviews: [
       { title: "MG ガンダムサンドロックEW（アーマディロ装備） レビュー", url: "https://schizophonic9.com/re6/mg_armadillo.html", lang: "ja" },
       { title: "【ガンプラ】MG 1/100 ガンダムサンドロックＥＷ（アーマディロ装備） レビュー【プレバン】", url: "https://gunplapocchi.com/mg-gundam-sandrock-ardimaro/", lang: "ja" },
@@ -8104,7 +8104,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1775/",
     imageUrl: "/images/mg-deathscythe-hell-ew.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "デスサイズヘル", "Endless Waltz"],
-    description: "Bandai Spirits MG 1/100《新機動戰記鋼彈W Endless Waltz》XXXG-01D2 鋼彈死神地獄EW（ガンダムデスサイズヘル EW），杜歐・馬克士威（Duo Maxwell）於劇場版中的座駕。套件採用可動性優異的「XXX-Gフレーム」新規骨架，全身以黑色為基調、搭配深紅裝甲細節重現劇場版限定的死神形象。\n\n最大特徵為背部大型斗篷「アクティブクローク」，搭載新規開閉機構，可自然重現振翅般展開與收攏合身兩種狀態，呈現原作中招牌的隱匿與奇襲姿態；武裝配置雙持光束鐮刀，標誌設計由加藤單（カトキハジメ）操刀。內容物包含成形零件×19、貼紙（鋁箔／marking）各一組、鋼彈專用水轉印貼紙一組及組裝說明書。2011年2月26日發售，定價5,390日圓（含稅）。",
+    description: "《新機動戰記鋼彈W Endless Waltz》中杜歐・馬克士威自稱死神、性格開朗詼諧卻背負孤兒院慘劇的沉重過去，習慣以玩笑掩飾內心傷痛，是五位鋼彈少年中反差感最強烈的角色之一。其座駕鋼彈死神地獄EW是劇場版中經強化改裝的死神系機體，以隱匿與奇襲戰術見長，招牌的雙持光束鐮刀與大型斗篷正是其角色性格與戰鬥風格的具象化，也讓「死神」形象在系列中留下深刻印記。\n\n套件採用可動性優異的XXX-Gフレーム新規骨架，全身以黑色為基調、搭配深紅裝甲細節重現劇場版限定的死神形象。最大特徵為背部大型斗篷アクティブクローク，搭載新規開閉機構，可自然重現振翅般展開與收攏合身兩種狀態，呈現原作中招牌的隱匿與奇襲姿態；武裝配置雙持光束鐮刀，標誌設計由加藤單操刀。內容物包含成形零件19枚、貼紙（鋁箔／marking）各一組、鋼彈專用水轉印貼紙一組及組裝說明書。2011年2月26日發售，定價5,390日圓（含稅），是EW系列中人氣長銷的一款。",
     reviews: [
       { title: "MG ガンダムデスサイズヘルEW レビュー", url: "https://schizophonic9.com/re6/mg_deathscythehell.html", lang: "ja" },
       { title: "【ガンプラ】MG 1/100 ガンダムデスサイズヘル EW レビュー", url: "https://gunplapocchi.com/mg-gundam-deathscythe-hell-ew/", lang: "ja" },
@@ -8127,7 +8127,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_33/",
     imageUrl: "/images/mg-gundam-x.jpg",
     tags: ["ガンダム", "MG", "1/100", "Bandai", "ガンダムX", "主役機"],
-    description: "《機動新世紀鋼彈X》主角機GX-9900鋼彈X的MG化，為標準／原色版本，與收藏中另一件P-Bandai限定的「ガンダムX3号機」（3號機・紫色特別配色版）為完全不同的獨立商品，並非重複收藏。\n\n本套件追求最佳比例與機關再現：最大特色衛星加農砲可完整展開背部反射鏡機關；身體各處藍色裝甲採用獨特光澤材質呈現異材質感；相機眼與胸部中央使用透明零件；肩部火神砲可展開；並附有可變形為盾牌／步槍雙模式的護盾巴斯特步槍，大型光束軍刀刀身則以透明效果零件表現。\n\n本商品為長銷再版商品，日版建議售價4,950日圓（含稅）。",
+    description: "《機動新世紀鋼彈X》舞台設定於第七次月面戰爭後、地球文明幾近毀滅的荒廢近未來，主角加洛德・朗駕駛的GX-9900鋼彈X搭載自殖民地衛星殘骸回收再利用的「衛星系統」，能將反射鏡收集的太陽能轉化為強大光束砲火力，是廢土背景下人類重建希望的重要象徵，也是後戰爭世界觀中少見兼具寫實與希望寓意的主角機設定。本商品為標準／原色版本的MG化，與收藏中另一件P-Bandai限定的鋼彈X3號機（紫色特別配色版）為完全不同的獨立商品，並非重複收藏。\n\n本套件追求最佳比例與機關再現：最大特色衛星加農砲可完整展開背部反射鏡機關；身體各處藍色裝甲採用獨特光澤材質呈現異材質感；相機眼與胸部中央使用透明零件；肩部火神砲可展開；並附有可變形為盾牌／步槍雙模式的護盾巴斯特步槍，大型光束軍刀刀身則以透明效果零件表現。本商品為長銷再版商品，日版建議售價4,950日圓（含稅）。",
     reviews: [
       { title: "【作品分享】月亮出來了! MG GX-9900 鋼彈X 非專業製作全記錄 - 巴哈姆特", url: "https://forum.gamer.com.tw/C.php?bsn=60053&snA=44796", lang: "zh" },
       { title: "MG ガンダムX レビュー", url: "https://schizophonic9.com/re3/mg_gundamx.html", lang: "ja" },
@@ -8150,7 +8150,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_298/",
     imageUrl: "/images/mg-gundam-double-x.jpg",
     tags: ["ガンダム", "機動新世紀ガンダムX", "MG", "1/100", "Bandai", "ガンダムダブルエックス", "衛星系統搭載機"],
-    description: "《機動新世紀鋼彈X》中鋼彈X的後繼機GX-9901-DX鋼彈雙X，MG化版本。內部骨架與反射鏡零件構成沿用MG鋼彈X的設計，強化了作為後繼機的說服力。\n\n最大特色雙衛星加農砲可完整重現展開時的反射鏡機關，內部採用與MG鋼彈X相同的鏡面貼紙表現集光狀態；前臂與小腿的散熱器亦可展開，打開外側護蓋時內部葉片會連動開闔；加農砲可滑動展開，並可鎖定於肩部相機邊框以確保姿勢固定，發射角度亦可調整。附屬配件包含盾牌、巴斯特步槍、雙衛星加農砲、雙HYPER光束軍刀，以及加洛德・朗與蒂法・亞蒂爾的比例人偶。",
+    description: "《機動新世紀鋼彈X》後段劇情中，加洛德・朗駕駛鋼彈X的後繼機GX-9901-DX鋼彈雙X迎戰更強大的威脅，雙衛星系統的搭載使其光束火力較前作大幅提升，同乘的少女蒂法・亞蒂爾亦在劇中扮演連結新人類感應與衛星系統操控的關鍵角色，兩人的羈絆是後段劇情的重要主軸，也讓這台後繼機承載著超越單純火力提升的情感意義。\n\n本套件內部骨架與反射鏡零件構成沿用MG鋼彈X的設計，強化了作為後繼機的說服力。最大特色雙衛星加農砲可完整重現展開時的反射鏡機關，內部採用與MG鋼彈X相同的鏡面貼紙表現集光狀態；前臂與小腿的散熱器亦可展開，打開外側護蓋時內部葉片會連動開闔；加農砲可滑動展開，並可鎖定於肩部相機邊框以確保姿勢固定，發射角度亦可調整。附屬配件包含盾牌、巴斯特步槍、雙衛星加農砲、雙HYPER光束軍刀，以及加洛德・朗與蒂法・亞蒂爾的比例人偶，收藏與把玩兼具的完成度頗高。",
     reviews: [
       { title: "[開箱]大班 MG 1/100 GX-9901-DX 機動新世紀鋼彈X 鋼彈DX - vertony's Dungeons", url: "https://vertony.net/unboxing-daban-model-mg-1-100-gx-9901-dx-after-war-gundam-x-gundam-double-x/", lang: "zh" },
       { title: "MGガンダムダブルエックス レビュー", url: "https://schizophonic9.com/re3/mg_doublex.html", lang: "ja" },
@@ -8173,7 +8173,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5808/",
     imageUrl: "/images/mg-aile-strike-verrm.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "主角機", "ストライク", "Ver.RM"],
-    description: "配合《機動戰士鋼彈SEED HD Remaster》十週年企劃推出的全新版本翔翼型攻擊鋼彈，代號「Ver.RM」，與收藏中另一件2003年発售的「GAT-X105+AQM/E-X01」擴充套件版本為不同商品——本套件為單體基礎機身，不含AQM/E-X01加農/劍式攻擊背包擴充零件（該擴充背包為另售商品）。\n\n本次以GAT-X骨架規格為基礎，比例、輪廓與細節配置全面翻新，呈現接近PG等級的肌肉感與立體感，飛行用背包Aile Striker造型也大幅進化；標準配備光束步槍與裝甲用細劍（Armor Schneider）。背部背包接點與舊版相容，可另外裝備透過P-Bandai販售的LAUNCHER STRIKER／SWORD STRIKER PACK擴充組件，重現完全裝備型態Perfect Strike Gundam。日版建議售價4,200日圓（未稅）。",
+    description: "《機動戰士鋼彈SEED》中基拉・大和駕駛的攻擊鋼彈是天然者陣營中罕見擁有頂尖戰鬥能力的機體，翔翼型（Aile）為其標準搭配形態，配備光束步槍與裝甲用細劍執行多樣任務，是SEED系列最具代表性的主角機之一，也是奠定基拉「非情願的英雄」形象的關鍵座機。本套件為配合HD Remaster十週年企劃推出的全新設計版本，代號「Ver.RM」，與收藏中另一件2003年發售的GAT-X105+AQM/E-X01擴充套件版本為不同商品——本套件為單體基礎機身，不含AQM/E-X01加農/劍式攻擊背包擴充零件（該擴充背包為另售商品）。\n\n本次以GAT-X骨架規格為基礎，比例、輪廓與細節配置全面翻新，呈現接近PG等級的肌肉感與立體感，飛行用背包Aile Striker造型也大幅進化；標準配備光束步槍與裝甲用細劍。背部背包接點與舊版相容，可另外裝備透過P-Bandai販售的LAUNCHER STRIKER／SWORD STRIKER PACK擴充組件，重現完全裝備型態Perfect Strike Gundam。日版建議售價4,200日圓（未稅）。",
     reviews: [
       { title: "MG Aile Strike Gundam ver.RM - 一天到晚作模型的MS翰", url: "https://mshanplamo.com/blog/post/401789380", lang: "zh" },
       { title: "MG エールストライクガンダム Ver.RM レビュー", url: "https://hacchaka.net/archives/51879525.html", lang: "ja" },
@@ -8196,7 +8196,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3694/",
     imageUrl: "/images/mg-tallgeese-fluegel-ew.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "トールギスF", "ゼクス・マーキス", "敗者たちの栄光", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits Premium Bandai 限定 MG 1/100《新機動戰記鋼彈W Endless Waltz 敗者們的榮光》OZ-00MS 托爾吉斯F EW（フリューゲル／Fluegel，德語「羽翼」之意），漫畫外傳中登場的托爾吉斯強化型，由「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）駕駛。以既有 MG 托爾吉斯EW／MG 零式鋼彈EW Ver.Ka 骨架為基礎，追加大量新開模的四片式「羽翼型」翼型推進裝甲（Wing Binder），呈現華麗且巨大的空間戰用形態。\n\n原創兵裝「熱能長槍（テンペスト裝備）」與「熱能戰斧」皆為全新開模，並附加藤單（カトキハジメ）設計轉印水貼重現ゼクス專屬機體塗裝。本商品為Premium Bandai限定販售，2021年10月發售，定價7,040日圓（含稅）。",
+    description: "托爾吉斯是《新機動戰記鋼彈W》系列中OZ組織開發的初代MS原型機，性能凌駕後續量產機，也是白色獠牙首領ゼクス・マーキス（本名米利亞爾特・匹斯克拉福特，賽克絲公主之兄）的代表座駕，象徵其身為戰士與貴族之間的矛盾宿命，同時也是他刻意隱藏身分、以假面騎士姿態遊走於戰爭邊緣的重要標誌。「トールギスF（フリューゲル，德語意為羽翼）」是漫畫外傳《敗者たちの栄光》中登場的托爾吉斯強化型，追加大型空間戰用翼型推進裝甲，呈現更為華麗且具壓迫感的形態。\n\n本套件以既有MG托爾吉斯EW／MG零式鋼彈EW Ver.Ka骨架為基礎，追加大量新開模的四片式羽翼型翼型推進裝甲，呈現華麗且巨大的空間戰用形態。原創兵裝熱能長槍（テンペスト裝備）與熱能戰斧皆為全新開模，並附加藤單設計轉印水貼重現ゼクス專屬機體塗裝。本商品為Premium Bandai限定販售，2021年10月發售，定價7,040日圓（含稅），屬外傳限定機體收藏。",
     reviews: [
       { title: "[萬代MG組裝模型開箱]PB MG 1/100 新機動戰記鋼彈W OZ-00MS 托爾吉斯F EW 羽翼型/TALLGEESE FLUEGEL EW", url: "https://vertony.net/mg-unboxing-pb-mg-1-100-gundam-w-oz-00ms-tallgeese-fluegel-ew/", lang: "zh" },
       { title: "MG トールギスF EW レビュー", url: "https://schizophonic9.com/re7/mg_tallgeesef.html", lang: "ja" },
@@ -8220,7 +8220,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2914/",
     imageUrl: "/images/mg-zeta-gundam-3-gray.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Zeta Gundam", "ゼータ", "EVOLVE", "MSV", "可變形", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits Premium Bandai 限定 MG 1/100 OVA『GUNDAM EVOLVE../9』登場機體 MSZ-006-3B ゼータガンダム3號機B型「灰色薩克」（グレイ・ゼータ），以3號機為基礎、強化火力導向的改良型。因追加武裝造成重量增加，雙腿新增輔助推進器，並裝有可左右展開的大型尾翼安定翼以提升機動性。因全機施加抗光束塗層而呈現黃色塗裝，因搭載駕駛員「灰狼（Gray Wolf）」而俗稱「灰色薩克」，是鋼普拉首次將此機體立體化的作品。\n\n同梱專屬武裝全長210mm大型光束加農砲「Beam Cannon」，與內建光束機槍的盾牌一體式「Mega Gatling」，並支援變形為波動騎士（Wave Rider）形態，附有可展示兩種形態的專用彈射座台。本商品為2015年2月發售的Premium Bandai限定商品，定價7,150日圓（含稅），其後多次再販。",
+    description: "OVA『GUNDAM EVOLVE../9』屬於《機動戰士Z鋼彈》系列以MSV形式延伸出的外傳短篇，進一步補完Z鋼彈量產與改良機的設定脈絡，讓官方正史之外的支線機體有機會被完整敘述與立體化。「ゼータガンダム3号機B型」是以3號機為基礎、朝火力強化方向發展的改良型，駕駛員「灰狼（Gray Wolf）」的機體因追加武裝而重量增加，故新增雙腿輔助推進器與大型尾翼安定翼以維持機動性，全機施加抗光束塗層而呈現獨特的黃色塗裝，因而俗稱「灰色薩克」，是Z鋼彈支線設定中辨識度極高的一款。\n\n本套件是鋼普拉首次將此機體立體化的作品，同梱專屬武裝全長210mm大型光束加農砲Beam Cannon，與內建光束機槍的盾牌一體式Mega Gatling，並支援變形為波動騎士形態，附有可展示兩種形態的專用彈射座台。本商品為2015年2月發售的Premium Bandai限定商品，定價7,150日圓（含稅），其後多次再販，是Z鋼彈支線機體收藏中辨識度極高的一件。",
     reviews: [
       { title: "MG ゼータガンダム3号機B型 グレイ・ゼータ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%BC%E3%83%BC%E3%82%BF%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A03%E5%8F%B7%E6%A9%9Fb%E5%9E%8B-%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%BC%E3%83%BC%E3%82%BF", lang: "ja" },
       { title: "MG Ｚガンダム３号機Ｂ型【素組編】", url: "https://www.mastergradeclub.com/blog/gray-zeta/1399/", lang: "ja" },
@@ -8243,7 +8243,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_4017/",
     imageUrl: "/images/mg-zeta-plus-unicorn-ver.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムUC", "ゼータプラス", "E.F.S.F.", "可變形", "プレミアムバンダイ限定"],
-    description: "Bandai Spirits Premium Bandai 限定 MG 1/100《機動戰士鋼彈UC》RE:0096世界觀重新詮釋版本 MSZ-006A1 ゼータプラス（ユニコーンVer.），為《鋼彈センチネル》原創機體「Ζ プラス」以《機動戰士鋼彈UC》第7話登場配色重製的地球聯邦軍量產型可變式MS。\n\n套件採用劇中登場時的成形色重現塗裝，同梱與力捷爾（ReZEL）同型的長身管光束步槍，並附加可重現A2型的頭部零件（與A1型頭部組裝方式二選一）。機體維持一貫的MS形態與波動騎士（Wave Rider）飛行形態變形機構，延續自2006年MG ゼータプラス骨架。2016年6月發售，定價4,180日圓（含稅）。",
+    description: "「Ζ プラス」原是《鋼彈センチネル》外傳企劃中設定的地球聯邦軍量產型可變式MS，本套件是《機動戰士鋼彈UC（獨角獸）》RE:0096世界觀對此經典設計的重新詮釋版本，取材自動畫第7話中登場的配色，將這款舊設定機體重新編入獨角獸鋼彈所處的新吉翁殘黨與聯邦軍衝突時代背景，延續其偵察與支援兼具的量產機定位，也讓兩個世代的鋼彈支線設定產生了有趣的連結。\n\n套件採用劇中登場時的成形色重現塗裝，同梱與力捷爾（ReZEL，同樣是UC世界觀量產機代表）同型的長身管光束步槍，並附加可重現A2型的頭部零件（與A1型頭部組裝方式二選一），讓玩家可依喜好選擇不同機體型號。機體維持一貫的MS形態與波動騎士飛行形態變形機構，延續自2006年MG ゼータプラス骨架，變形機構成熟穩定。2016年6月發售，定價4,180日圓（含稅），是UC系列中連結舊設定與新作的橋樑機體。",
     reviews: [
       { title: "MGゼータプラス（ユニコーンVer.）", url: "https://schizophonic9.com/re4/mg_zplusuc.html", lang: "ja" },
       { title: "プレミアムバンダイ限定MG「1/100 ゼータプラス（ユニコーンVer.）」レビュー", url: "https://pachilateji.jp/mg-zplusuc/", lang: "ja" },
@@ -8267,7 +8267,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_2631/",
     imageUrl: "/images/mazinger-z-infinity-160.jpg",
     tags: ["マジンガーZ", "INFINITY", "1/60", "BANDAI SPIRITS", "プラモデル"],
-    description: "劇場版『マジンガーZ／INFINITY』のメカニックデザイン（やまだたかひろ）を1/60スケールで立体化したキャラクタープラモデル。全高約423mmという特大サイズで、腕部を組み替えることでアイアンカッター・ドリルミサイル・ロケットパンチの各形態を再現できる。頭部カメラアイ部分にはLEDユニットが付属し、発動状態のマジンガーZを発光ギミックで表現。ジェットスクランダーは角度可動に加え、翼を折りたたんで格納することも可能。ホバーパイルダーも別パーツとして付属し、合体前後どちらの姿も楽しめる。",
+    description: "マジンガーZ是永井豪於1972年創作的作品，首度確立「駕駛員搭乘於機體內部操控」的巨大機器人敘事模式，深遠影響後續整個超級機器人類型作品的發展，主角兜甲兒駕駛擁有超合金Z裝甲與光子力驅動的マジンガーZ，對抗Dr.ヘル率領的機械獸軍團，成為日後無數機器人動畫的原型範本。劇場版『マジンガーZ／INFINITY』是時隔約40年後推出的正統續篇，故事描繪年邁的兜甲兒與新一代角色再度面對舊敵威脅，重新詮釋這部經典作品的世界觀，並以現代技術重新演繹熟悉的必殺技場面。\n\n本商品為劇場版機械設計（やまだたかひろ）監修下、以1/60比例立體化的角色模型，全高約423mm的特大尺寸相當具存在感，可透過組替腕部零件重現アイアンカッター、ドリルミサイル、ロケットパンチ等招牌必殺技形態。頭部相機眼部位內建LED單元，能以發光機關表現マジンガーZ發動時的狀態；ジェットスクランダー除角度可動外，亦可將雙翼折疊收納；ホバーパイルダー作為別體零件附屬，合體前後兩種姿態皆可展示把玩。",
     reviews: [
       {
         title: "1/60 マジンガーZ(マジンガーZ INFINITY Ver.) レビュー | KenBill Blog",
@@ -8303,7 +8303,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12636/",
     imageUrl: "/images/dx-chogokin-vf31f-siegfried-lilldraken-set.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "マクロスΔ", "VF-31F", "リルドラケン", "ジークフリード", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-31F ジークフリード 追加的支援無人機「リル・ドラケン」套組，魂ウェブ商店限定販售。內含リル・ドラケン本體 x2、對應 Fighter/Gerwalk 形態與 Battroid 形態的連接零件，以及專用展示台 x2，可讓 VF-31F 重現劇中搭載無人僚機作戰的場面。",
+    description: "《マクロスΔ》延續系列一貫的「以歌對抗Vár症候群」核心設定，偶像戰鬥組合ワルキューレ與新統合軍第117戰術宇宙艦隊搭檔作戰，主角隊長ハヤテ・インメルマン所駕駛的VF-31F ジークフリード是新統合軍最新銳的第五世代可變戰機，本套組即為其專屬支援無人機「リル・ドラケン」的擴充配件，於魂ウェブ商店限定販售，是補完隊長機戰術陣容的重要周邊。\n\n無人機支援作戰是《マクロスΔ》一大特色設定，リル・ドラケン可在劇中隨VF戰機出擊、提供額外火力支援與偵察能力，強化編隊作戰的立體感。本套組內含リル・ドラケン本體×2、對應Fighter/Gerwalk形態與Battroid形態的連接零件，以及專用展示台×2，可讓DX超合金VF-31Fジークフリード本體重現劇中搭載無人僚機作戰的場面，是喜愛Δ隊戰術細節的收藏者不可或缺的擴充組件。",
     reviews: [],
     youtube: [
       {
@@ -8328,7 +8328,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/11581/",
     imageUrl: "/images/dx-chogokin-sv262hs-draken3-keith.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "キース・エアロ・ウィンダミア", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《マクロスΔ》Windermere 王國騎士團 Ace 飛行員 Keith Aero Windermere 機 Sv-262Hs Draken III，河森正治監修下與 VF 系列截然不同的全新變形機構，金色與深藍的塗裝在敵方陣營機體中辨識度極高。內附可換裝的透明駕駛艙罩、駕駛人偶及專用底座。",
+    description: "《マクロスΔ》中溫德米亞王國是與統合軍長期敵對的勢力，該國飛行員因特殊生理構造而不受Vár症候群侵擾，卻也因此背負著身分認同的悲劇色彩；キース・エアロ・ウィンダミア身為王國騎士團的王牌飛行員，性格冷酷而執著，是ワルキューレ一行人的頭號勁敵，其內心對故土與同胞命運的複雜情感也是劇情後段的重要看點。其座機Sv-262Hs ドラケンIII並非源自統合軍VF系譜，而是溫德米亞王國獨自發展的技術脈絡，由總監修河森正治操刀設計出截然不同的變形機構，展現與VF系列迥異的美學風格。\n\n本商品為DX超合金規格立體化，金色與深藍的塗裝在敵方陣營機體中辨識度極高，充分呼應キース身為騎士團精銳的身分。機體支援三段變形機構，內附可換裝的透明駕駛艙罩、駕駛人偶及專用底座，可完整重現戰機、過渡與人形形態的把玩樂趣。",
     reviews: [
       {
         title: "【レビュー】DX超合金 Sv-262Hs ドラケンIII（キース・エアロ・ウィンダミア機）(ファイター・ガウォーク) | 獅子王ホビー",
@@ -8368,7 +8368,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/11668/",
     imageUrl: "/images/dx-chogokin-vf31j-siegfried-hayate-superparts.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-31Jジークフリード（ハヤテ・インメルマン機）本體追加的 Super Parts 套組，內含左右主推進器、左右臂部裝甲、胸部飛彈莢艙裝甲、腰部裝甲、左右腿部推進器，以及 Super Siegfried（Fighter 形態）專用支架，裝上後可升格為劇中的強化「スーパージークフリード」形態。",
+    description: "ハヤテ・インメルマン是《マクロスΔ》第117戰術宇宙艦隊「Δ小隊」隊長，個性衝動直率卻擁有優異的戰鬥直覺，其座機VF-31J ジークフリード是隊上主力機體，隨劇情推進在關鍵戰役中換裝強化用武裝以對抗溫德米亞王國的猛烈攻勢，展現統合軍在技術上的持續進化，也呼應ハヤテ從衝動新人逐漸成長為可靠隊長的敘事弧線。\n\n本套組為DX超合金VF-31Jジークフリード（ハヤテ機）本體追加的Super Parts擴充配件，內含左右主推進器、左右臂部裝甲、胸部飛彈莢艙裝甲、腰部裝甲、左右腿部推進器，以及Super Siegfried（Fighter形態）專用支架，裝上後可將原本機體升格為劇中登場的強化「スーパージークフリード」形態，大幅提升機體的量感與武裝密度，重現隊長機在後段戰鬥中壓制強敵的火力優勢，是Δ系列收藏中補完主角機戰力全貌的重要擴充。",
     reviews: [],
     youtube: [
       {
@@ -8393,7 +8393,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12553/",
     imageUrl: "/images/dx-chogokin-yf19-full-set.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "マクロスプラス", "YF-19", "イサム・ダイソン", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "OVA《マクロスプラス》(1994) 天才試驗飛行員 Isamu Dyson 駕駛的次世代可變戰機 YF-19 Full Set Pack 版本，首度將劇中未實體化的武裝完整立體化——反艦反應飛彈、高機動飛彈、FAST Pack 增裝甲、摺疊推進器（Fold Booster）及對甲武裝莢艙均一應俱全，並支援 Fighter/Gerwalk/Battroid 三型態完全變形。與競爭機 YF-21 形成鮮明的設計對比，是 Macross Plus 系列最重要的立體化商品之一。",
+    description: "OVA《マクロスプラス》（1994）以近未來新統合軍次世代主力戰機競標為主軸，天才卻性格衝動的試驗飛行員イサム・ダイソン與昔日摯友グルド・ゴア・ボーマン因各自駕駛的YF-19與YF-21競爭而重燃夙怨，兩人之間的糾葛與作品中渡邊信一郎執導的高張力空戰場面，加上菅野よう子的配樂，使本作至今仍被視為Macross系列的經典之作。イサム駕駛的YF-19延續傳統VF可變戰機設計脈絡，操控性與格鬥性能凌駕於AI輔助的YF-21之上，兩機的設計對比也隱喻著人類直覺與機器理性之間的較量。\n\n本商品為DX超合金YF-19 Full Set Pack版本，首度將劇中未實體化的武裝完整立體化——反艦反應飛彈、高機動飛彈、FAST Pack增裝甲、摺疊推進器及對甲武裝莢艙均一應俱全，並支援Fighter/Gerwalk/Battroid三型態完全變形，是Macross Plus系列最重要的立體化商品之一。",
     reviews: [
       {
         title: "DX超合金 YF-19 フルセットパック（ファイター編） レビュー | TOYHOUND",
@@ -8429,7 +8429,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13293/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-alto-full-set.jpg",
     tags: ["macross001@中壢收多易", "マクロス", "マクロスF", "YF-29", "デュランダル", "早乙女アルト", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版マクロスF～サヨナラノツバサ～》主角早乙女アルト（Alto Saotome）駕駛的次世代可變機 YF-29 Durandal，本 Full Set Pack 將 2011 年發售的本體與原先魂ウェブ限定販售的 Super Parts 合併為一套。頭部、腰部關節、雙翼引擎基座採用新規造型並加入卡扣式可動關節，兼顧美觀與耐用度，是《マクロスF》系列性能最頂尖的可變機立體化代表作。",
+    description: "《劇場版マクロスF～サヨナラノツバサ～》承接電視版故事，描繪主角早乙女アルト在異星生命體Vajra侵略危機下的成長與抉擇，同時交織偶像シェリル・ノーム與ランカ・リー的歌聲對峙，是Macross F系列劇情的最終總結篇，也為アルト與兩位女主角之間的三角關係畫下句點。アルト在劇中駕駛新統合軍高度機密試驗機YF-29 デュランダル迎戰Vajra女王與敵對勢力，展現壓倒性的次世代戰力，是全系列中設定最為強悍的機體之一。\n\n本商品Full Set Pack將2011年發售的本體與原先魂ウェブ限定販售的Super Parts合併為一套，讓玩家無須額外收集配件即可完整重現劇中強化形態。頭部、腰部關節、雙翼引擎基座採用新規造型並加入卡扣式可動關節，兼顧美觀與耐用度，是《マクロスF》系列性能最頂尖的可變機立體化代表作，也是アルト機系列收藏中最具份量的一件。",
     reviews: [
       {
         title: "DX超合金 YF-29デュランダルバルキリー（早乙女アルト機）フルセットパック　ファイター編　レビュー | TOYHOUND",
@@ -8465,7 +8465,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/11786/",
     imageUrl: "/images/dx-chogokin-vf31c-siegfried-mirage.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスΔ", "VF-31C", "ジークフリード", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《TV版 Macross Delta》女主角 Mirage Farina Jenius（傳奇 Ace Max Jenius 之孫女）在劇中前期駕駛的 VF-31C 齊格弗里德，粉紫白灰的個人配色與 Hayate 機的紅色形成對比。此為劇場版 VF-31AX Kairos-Plus 之前、TV 版本的機體，新頭部雕刻與專屬塗裝辨識度高，附換手、格鬥小刀、Mirage 與 Makina 兩款駕駛員人偶及專用台座。",
+    description: "《TV版マクロスΔ》中ミラージュ・ファリーナ・ジーナス是傳奇王牌マックス・ジーナス與ミリア・ファリーナ夫婦的孫女，血統背景使她自幼便被寄予厚望，個性認真拘謹卻在與ハヤテ等隊員的相處中逐漸敞開心房，是Δ小隊中技術扎實的重要戰力，其身世也讓老牌Macross粉絲倍感親切。她在劇中前期駕駛的VF-31C ジークフリード，粉紫白灰的個人配色與ハヤテ機的紅色形成鮮明對比，展現角色沉穩內斂的性格特質。\n\n本商品為TV版時期機體的DX超合金立體化，此為劇場版VF-31AX Kairos-Plus之前的版本，新頭部雕刻與專屬塗裝辨識度高。內附換手、格鬥小刀、ミラージュ與マキナ兩款駕駛員人偶及專用台座，可重現三段變形機構與多種展示姿勢，是喜愛Jenius家族血統設定的收藏者值得入手的一件。",
     reviews: [
       {
         title: "DX超合金 VF-31Cジークフリード (ミラージュ・ファリーナ・ジーナス機) レビュー | はっちゃか",
@@ -8494,7 +8494,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12418/",
     imageUrl: "/images/dx-chogokin-vf31c-siegfried-superparts-mirage.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスΔ", "VF-31C", "ジークフリード", "ミラージュ", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-31Cジークフリード（ミラージュ・ファリーナ・ジーナス機）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，2017年底受注、2018年5月出貨。裝設後可將本體升格為強化版「スーパージークフリード」形態，與 Hayate 機的 VF-31J 專用 Super Parts 為對應但獨立的套組。",
+    description: "延續傳奇王牌マックス・ジーナス與ミリア血脈的ミラージュ・ファリーナ・ジーナス，在《マクロスΔ》劇情推進中隨隊伍屢屢面對溫德米亞王國的強力攻勢，其座機VF-31C ジークフリード亦需搭配強化裝備才能對抗日益升級的戰局，呼應劇中Δ小隊整體戰力持續進化的設定脈絡，也讓這位低調的技術派角色在戰鬥表現上不落人後。\n\n本套組為DX超合金VF-31Cジークフリード（ミラージュ機）本體追加的Super Parts擴充配件，魂ウェブ商店限定販售，2017年底受注、2018年5月出貨。裝設後可將本體升格為強化版「スーパージークフリード」形態，大幅提升機體的武裝密度與整體量感，與ハヤテ機的VF-31J專用Super Parts為對應但獨立的套組，方便玩家依角色分別收集強化配件，完整重現Δ小隊在後段戰役中的火力升級陣容。",
     reviews: [],
     youtube: [
       {
@@ -8518,7 +8518,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1786/",
     imageUrl: "/images/dx-chogokin-vf25g-messiah-michael-renewal.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《マクロスF》狙擊手 Michael Blanc 專用機 VF-25G メサイアバルキリー的リニューアルVer.（改良重製版），沿用アルト機・オズマ機時期建立的關節結構並持續優化，肩部與頸部可動範圍更自然，可重現趴姿射擊等姿勢。標配專屬大型狙擊槍及原本アルト・オズマ機未附屬的 Super Parts，是VF-25G系列中可動性與遊玩性最完整的版本，早於後續2023年推出的スーパーメサイアバルキリー リバイバルVer.。",
+    description: "《マクロスF》中ミハエル・ブラン是天鳳隊（Skull小隊）成員之一，個性沉穩內斂、擅長狙擊戰術，與隊上的ルカ形成鮮明對比，其座機VF-25G メサイアバルキリー是VF-25系列中特化遠距離精準打擊的狙擊型號，搭載大型狙擊裝備以發揮其戰術特長，也讓天鳳隊在正面交戰之外多了一層戰術縱深。\n\n本商品為リニューアルVer.（改良重製版），沿用アルト機・オズマ機時期建立的關節結構並持續優化，肩部與頸部可動範圍更自然，可重現趴姿射擊等狙擊姿勢，充分展現ミハエル機的戰術定位。標配專屬大型狙擊槍，並附有アルト・オズマ機當初未附屬的Super Parts，是VF-25G系列中可動性與遊玩性最完整的版本，發售時間早於後續2023年推出的スーパーメサイアバルキリー リバイバルVer.，對比之下更能看出關節設計的世代演進。",
     reviews: [
       {
         title: "DX超合金 VF-25G メサイアバルキリー(ミハエル・ブラン機) リニューアルVer. レビュー | はっちゃか",
@@ -8547,7 +8547,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10627/",
     imageUrl: "/images/dx-chogokin-vf25g-tornado-parts-renewal.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "トルネードパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer. 本體追加的 Tornado Parts 套組，魂ウェブ商店限定販售，2014年2月受注、8月出貨。裝上後可重現劇場版《サヨナラノツバサ》中米海爾機的強化龍捲風裝甲形態，不含本體。",
+    description: "《劇場版マクロスF 絶対LIVE!!!!!!～サヨナラノツバサ～》中Vajra侵略危機升級，天鳳隊成員ミハエル・ブラン的座機VF-25G メサイアバルキリー在劇情高潮的空戰中換裝了強化用龍捲風裝甲，以應對更為凶猛的敵方戰力，展現角色從狙擊支援轉為正面迎敵的戰術轉變，也呼應電影後段全員總動員迎戰Vajra本體的高潮氛圍。\n\n本套組為DX超合金VF-25Gメサイアバルキリー（ミハエル機）リニューアルVer.本體追加的Tornado Parts擴充配件，魂ウェブ商店限定販售，2014年2月受注、8月出貨。裝上後可重現劇場版中米海爾機的強化龍捲風裝甲形態，外裝造型較標準版更具份量感與攻擊性，不含本體，需另行搭配本體套件組裝使用，是補完劇場版劇情戰鬥場面不可或缺的擴充配件。",
     reviews: [],
     youtube: [
       {
@@ -8571,7 +8571,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10421/",
     imageUrl: "/images/dx-chogokin-vf25g-super-parts-renewal.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25G メサイアバルキリー（ミハエル・ブラン機）リニューアルVer. 本體追加的 Super Parts 套組，不含本體，裝上後可強化機體火力與防禦外觀。",
+    description: "《マクロスF》系列中VF-25系可變戰機在面對Vajra蟲族的高強度戰鬥時，往往需要搭配額外裝甲與武裝強化才能發揮完整戰力，Super Parts正是此類強化構型的代表性配備，能大幅提升機體的裝甲防禦與整體火力密度，呼應劇中戰局逐步升級的敘事節奏，也讓原本以狙擊見長的機體多了一層正面對抗的能力。\n\n本套組為DX超合金VF-25Gメサイアバルキリー（ミハエル・ブラン機）リニューアルVer.本體追加的Super Parts擴充配件，不含本體，需搭配本體套件組裝使用。裝上後可強化機體火力與防禦外觀，讓原先以狙擊為特長的メサイア機也能具備正面迎敵的重裝甲形態，與同系列的Tornado Parts分屬不同的強化構型，收藏者可依喜好選擇不同形態進行展示，完整呈現VF-25G機體的多樣化戰術面貌。",
     reviews: [],
     youtube: [
       {
@@ -8595,7 +8595,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10603/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-ozma.jpg",
     tags: ["macross003@中壢收多易", "マクロス", "マクロス30", "YF-29", "デュランダル", "オズマ・リー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《マクロス30 銀河を繋ぐ歌姫》遊戲中 Ozma Lee 機 YF-29 デュランダルバルキリー，深灰黑的沉穩塗裝與 Alto／Max 機的鮮豔配色形成對比。腳踝可動範圍優異，GERWALK 形態可做出漂亮的鳥足站姿，各形態皆可掛載槍炮，標配可動手指。",
+    description: "《マクロス30 銀河を繋ぐ歌姫》是為紀念Macross系列30週年推出的遊戲作品，串聯歷代主角與機體展開跨時空劇情，オズマ・リー身為天鳳隊隊長、シェリル的兄長角色，性格穩重可靠，是《マクロスF》系列中舉足輕重的支援型角色，在正傳中始終以沉著冷靜的形象守護隊員與シェリル。本作中他駕駛次世代試驗機YF-29 デュランダルバルキリー登場，展現超越常規天鳳隊機體的壓倒性戰力，也讓這位配角角色有機會駕駛系列中最頂尖的機體亮相。\n\n本商品為DX超合金立體化版本，深灰黑的沉穩塗裝與アルト／マックス機的鮮豔配色形成對比，貼合オズマ沉穩內斂的角色性格。機體腳踝可動範圍優異，GERWALK形態可做出漂亮的鳥足站姿，各形態皆可掛載槍炮，標配可動手指，細節與可玩性兼具，是YF-29系列收藏中呈現不同駕駛員個性配色的重要一件。",
     reviews: [
       {
         title: "DX超合金 YF-29 デュランダルバルキリー (オズマ機) レビュー | はっちゃか",
@@ -8619,7 +8619,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_2820/",
     imageUrl: "/images/hg-gran-saurer.jpg",
     tags: ["macross002@中壢收多易", "熱血最強ゴウザウラー", "エルドラン", "グランザウラー", "ゴウザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル"],
-    description: "紀念「熱血最強ゴウザウラー」放送25週年，由ゴウザウラーデザインワークス山田天寛監修的 HG プラモデル化。附屬キングブレード（約300mm）、ビッグランサー、トリケラシールド，可與另售的 HG ゴウザウラー、HG マグナザウラー 合體重現最終形態「キングゴウザウラー」。",
+    description: "「勇者系列」是日昇（Sunrise）自1990年代起推出的經典機器人動畫系列，《熱血最強ゴウザウラー》為系列中「エルドラン」三部曲的第三作，故事描繪外星文明遺留的智慧生命體エルドラン協助地球少年對抗侵略者，機體設計融合恐龍與重機械美學，兼具熱血與科幻元素，深受當年觀眾喜愛，也奠定了後續勇者系列以「夥伴機器人」為核心的敘事傳統。「グランザウラー」是劇中主力合體機體之一，以強悍的近戰武裝著稱，是恐龍系機體陣容中人氣頗高的一款。\n\n本商品為紀念該作放送25週年、由ゴウザウラーデザインワークス山田天寛監修重新推出的HG規格プラモデル化。套件附屬キングブレード（約300mm）、ビッグランサー、トリケラシールド等招牌武裝零件，並可與另售的HG ゴウザウラー、HG マグナザウラー合體，重現作品最終決戰形態「キングゴウザウラー」，是勇者系列老玩家重溫經典的紀念性商品。",
     reviews: [
       {
         title: "HG 1/300 グランザウラー (熱血最強ゴウザウラー)レビュー | KenBill Blog",
@@ -8655,7 +8655,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/9904/Nia",
     imageUrl: "/images/gsc-nia-xenoblade2.jpg",
     tags: ["ゼノブレイド2", "Xenoblade Chronicles 2", "ニア", "Nia", "覚醒", "Blade", "Good Smile Company", "1/7"],
-    description: "《ゼノブレイド2》女主角ニア覺醒後的巫女風格 1/7 比例figure，由齋藤智之依原畫設計立體化，白底金線的巫女式服裝搭配珍珠塗裝，腰間紅色綬帶與鈴鐺點綴，和洋融合的設計語彙極具特色。雙馬尾髮量龐大，需搭配支撐柱穩定展示，並附一把大型光劍武裝。",
+    description: "《ゼノブレイド2》是任天堂旗下人氣RPG系列作品，故事描繪少年レックス與各具靈魂的武器少女「刃（Blade）」們共同冒險的旅程，世界觀融合天空巨獸與失落文明等奇幻元素。ニア是主角團隊中身世最為神秘的角色之一，表面以貓耳少女形象示人，實則背負著與泰爾納（Torna）事件相關的沉重過去，在劇情後段揭露真實身分並經歷「覺醒」，展現截然不同的巫女風格造型與力量，是全系列情感衝擊最強烈的轉折之一。\n\n本商品為Good Smile Company推出的1/7比例figure，由齋藤智之依原畫設計立體化，重現角色覺醒後的巫女式服裝，白底金線搭配珍珠塗裝呈現高雅質感，腰間紅色綬帶與鈴鐺點綴，和洋融合的設計語彙極具特色。雙馬尾髮量龐大，需搭配支撐柱穩定展示，並附一把大型光劍武裝，完整呈現角色覺醒後的強大氣場。",
     reviews: [
       {
         title: "【レビュー】グッドスマイルカンパニー「ゼノブレイド2 ニア」フィギュアレビュー | HOBBY Watch",
@@ -8696,7 +8696,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13555/",
     imageUrl: "/images/saint-cloth-myth-sky-cross-sho-revival.jpg",
     tags: ["聖闘士星矢", "Saint Seiya", "聖闘士聖衣神話", "セイントクロスマイス", "スカイクロス翔", "鋼鉄聖闘士", "リバイバル版", "Bandai", "可動フィギュア"],
-    description: "《聖闘士星矢》動畫原創角色「鋼鉄聖闘士 スカイクロス翔」時隔10年再度以聖闘士聖衣神話系列復刻登場的リバイバル版，新雕刻頭部一種、換裝笑臉表情零件，並修正部分聖衣塗裝使其更貼近動畫中的配色。全高約160mm，材質為ABS、PVC、壓鑄合金。",
+    description: "《聖闘士星矢》是車田正美原作的經典漫畫，描繪身披聖衣、以宇宙力量作戰的聖鬥士們守護雅典娜的故事，系列自1980年代動畫化後持續衍生出眾多支線企劃並影響深遠。「鋼鉄聖闘士」是動畫原創設定的支援角色群，並非原作漫畫登場人物，其中「スカイクロス翔」以輕巧靈活的空戰型聖衣著稱，是動畫原創陣容中人氣較高的一員，也是不少老玩家童年回憶中印象深刻的配角。\n\n本商品為聖闘士聖衣神話系列時隔約10年再度復刻推出的リバイバル版，新雕刻頭部一種、換裝笑臉表情零件，並修正部分聖衣塗裝使其更貼近動畫中的原始配色，讓收藏者能以更新的規格重溫這款動畫原創角色。全高約160mm，材質為ABS、PVC、壓鑄合金，兼具細節密度與可動性，是聖衣神話系列中補完動畫原創聖鬥士陣容的重要一件。",
     reviews: [
       {
         title: "聖闘士聖衣神話 スカイクロス翔 〈リバイバル版〉 レビュー | はっちゃか",
@@ -8732,7 +8732,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/ghostbusters-ecto-1-10274",
     imageUrl: "/images/lego-10274-ghostbusters-ecto1.jpg",
     tags: ["LEGO", "樂高", "Ghostbusters", "魔鬼剋星", "ECTO-1", "10274", "積木", "Icons系列"],
-    description: "樂高 Icons（原 Creator Expert）系列的《魔鬼剋星》經典座駕 ECTO-1，2352 顆零件，是史上最大最精細的樂高版 ECTO-1，較 2014 年 LEGO Ideas 版（508 顆零件）大幅升級。重現車頂儀器、可動方向盤、活動地板陷阱、可伸縮後座槍手座椅、質子背包與經典魔鬼剋星標誌等細節，並附贈積木拼砌版遙控幽靈捕捉器與小型遙控車。",
+    description: "1984年上映的電影《Ghostbusters（魔鬼剋星）》開創了喜劇與超自然題材結合的經典類型，四位捉鬼特工駕駛的ECTO-1原型為一輛改裝自1959年凱迪拉克靈車的座駕，車頂裝載各式偵測儀器與捕鬼裝備，是電影中辨識度最高、最具代表性的道具之一，也成為流行文化中經典的「怪車」象徵，即便未看過電影的人也大多對其造型有印象。\n\n本商品為樂高Icons（原Creator Expert）系列推出的高規格重製版，全套2352顆零件，是史上最大最精細的樂高版ECTO-1，較2014年LEGO Ideas版（508顆零件）大幅升級。套件重現車頂儀器、可動方向盤、活動地板陷阱、可伸縮後座槍手座椅、質子背包與經典魔鬼剋星標誌等細節，並附贈積木拼砌版遙控幽靈捕捉器與小型遙控車，是樂高載具系列與電影周邊收藏中份量十足的一件。",
     reviews: [
       {
         title: "LEGO 10274 Ghostbusters ECTO-1 review | Brick Fanatics",
@@ -8761,7 +8761,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/4549660159308000.html",
     imageUrl: "/images/super-minipla-gaogaigar-2.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "ガオガイガー2", "ゴルディーマーグ", "ゴルディオンハンマー", "ステルスガオーII", "スターガオガイガー", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA 勇者王ガオガイガー2」是BANDAI食玩事業部「スーパーミニプラ」勇者系列的第二彈商品，於2017年6月20日發售，延續1997年動畫《勇者王ガオガイガー》的機體陣容。本彈全3種：マーグハンド、ゴルディオンハンマー（附加加特林Driver與ウルテクポッド）、以及ステルスガオーII。マーグハンド與ゴルディオンハンマー可合體為「ゴルディーマーグ」，ステルスガオーII則能與初代ガオガイガー合體重現「スターガオガイガー」形態。單價¥1,045（含稅），全3種需集齊方能完整重現各形態。",
+    description: "《勇者王ガオガイガー》是1997年播出的勇者系列動畫，也是系列中格局最為宏大的一作，描繪主角勇者機器人與地底文明後裔携手對抗侵略地球的機械生命體，故事融合硬派科幻設定與熱血合體變身要素，登場機體眾多且合體關係複雜，深受特攝機器人愛好者推崇，至今仍被視為勇者系列的巔峰之作。「SUPER MINIPLA」是BANDAI食玩事業部推出的小比例可動組裝系列，讓玩家能以低價位重現系列龐雜的合體機體陣容。\n\n本商品為勇者系列SUPER MINIPLA第二彈，於2017年6月20日發售，全3種：マーグハンド、ゴルディオンハンマー（附加加特林Driver與ウルテクポッド）、以及ステルスガオーII。マーグハンド與ゴルディオンハンマー可合體為ゴルディーマーグ，ステルスガオーII則能與初代ガオガイガー合體重現スターガオガイガー形態。單價¥1,045（含稅），需集齊全3種方能完整重現各形態，是拼湊完整合體陣容的重要一彈。",
     reviews: [
       {
         title: "スーパーミニプラ 勇者王ガオガイガー2 マーグハンド レビュー | 獅子王ホビー",
@@ -8791,7 +8791,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660503507000.html",
     imageUrl: "/images/smp-power-dagwon-2.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者指令ダグオン", "COMMAND OF BRAVES", "DAGWON2", "パワーダグオン", "ファイヤーエン", "スーパーファイヤーダグオン", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "盒身英文標示「COMMAND OF BRAVES DAGWON2 POWER DAGWON」，即為BANDAI食玩「スーパーミニプラ 勇者指令ダグオン2」，於2021年5月17日發售，是1996年勇者系列動畫《勇者指令ダグオン》SMP化的第二彈商品。內含動畫中後段主角エン所駕駛的新主力機體「パワーダグオン」（A、B兩台組裝合體），以及エン變身後的「ファイヤーエン」，全3種一套。可與另售的第一彈合體重現「超火焰合体スーパーファイヤーダグオン」。單價¥2,145（含稅），附贈蘇打口味口香糖。",
+    description: "《勇者指令ダグオン》是1996年播出的勇者系列動畫，描繪一群少年組成的特搜隊駕駛擁有變身能力的機器人夥伴，對抗異次元生物侵略地球的故事，其角色與機體之間近乎搭檔的深厚羈絆是本作區別於其他勇者作品的特色所在，也讓年少觀眾對「夥伴」的意義留下深刻印象。劇情後段主角エン獲得強化的新主力機體「パワーダグオン」，自身亦能變身為戰鬥形態「ファイヤーエン」，展現角色與夥伴機體共同成長的敘事主軸。\n\n盒身英文標示COMMAND OF BRAVES DAGWON2 POWER DAGWON，即為BANDAI食玩「スーパーミニプラ 勇者指令ダグオン2」，於2021年5月17日發售，是SMP化的第二彈商品，內含パワーダグオン（A、B兩台組裝合體）與ファイヤーエン，全3種一套。可與另售的第一彈合體重現「超火焰合体スーパーファイヤーダグオン」，單價¥2,145（含稅），附贈蘇打口味口香糖，是勇者系列老玩家重溫回憶的懷舊食玩商品。",
     reviews: [
       {
         title: "【レビュー】スーパーミニプラ 勇者指令ダグオン2（ファイヤーエン／スーパーファイヤーダグオン） | 獅子王ホビー",
@@ -8821,7 +8821,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660251125000.html",
     imageUrl: "/images/super-minipla-giant-gorg.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "巨神ゴーグ", "Giant Gorg", "ゴーグ", "マノン・ガーディアン", "サンライズ", "バンダイキャンディ", "食玩", "勇者シリーズ", "1984年アニメ"],
-    description: "取材自1984年サンライズ製作的機器人動畫《巨神ゴーグ》，由BANDAI食玩事業部於2018年7月23日推出，是「スーパーミニプラ」系列少見跨足80年代經典舊作的企劃。「2個入り」內含主角機體「ゴーグ」與敵方陣營「マノン」專用機「マノン・ガーディアン」共2種，需成套集齊才能同時擁有雙方陣營機體。ゴーグ附有可換裝手部零件、180mm大型光束砲，並附主角田神ゆう的搭乘人偶零件；マノン・ガーディアン則配備可換裝手部與雙持雷射砲。單價¥2,310（含稅）。",
+    description: "《巨神ゴーグ》為1984年日昇（サンライズ）製作的科幻機器人動畫，故事描述少年田神ゆう為尋找失蹤的考古學家父親，隨隊前往南洋孤島探險，意外喚醒沉睡島底的古代巨大人形兵器「ゴーグ」，並捲入與神秘組織「マノン」爭奪遺跡技術的冒險。作品融合考古探險與熱血機器人元素，是80年代「勇者」系列前身之作，風格與後來的勇者系列一脈相承，於玩具迷間評價頗高卻長年缺乏立體化商品。BANDAI食玩事業部推出的「スーパーミニプラ」系列以親民單價的食玩規格，重現本作雙陣營機體，2018年7月23日發售，是該企劃罕見跨足80年代懷舊舊作的嘗試。「2個入り」組合需集齊主角機ゴーグ與敵方マノン專用機マノン・ガーディアン方能同時擁有雙方陣容，兩者皆需玩家自行組裝上色。ゴーグ具備可換裝手部零件及180mm大型光束砲等武裝，並附主角搭乘人偶零件，マノン・ガーディアン則配備換裝手部與雙持雷射砲，單價¥2,310（含稅），兼具模型考究樂趣與收藏懷舊價值。",
     reviews: [
       {
         title: "【徹底レビュー】スーパーミニプラ 巨神ゴーグ（1.ゴーグ） | 獅子王ホビー",
@@ -8852,7 +8852,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10255/",
     imageUrl: "/images/dx-chogokin-vf171-nightmare-plus-general.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "VF-171", "ナイトメアプラス", "一般機", "N.UNS", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《マクロスF》中量産型 VF-171 夢魘型（Nightmare Plus）的一般機塗裝版本，深藍近黑的迷彩塗裝配上「N.UNS」（New United Nations Spacy）標誌，呈現新統合宇宙軍艦隊主力機體的樣貌，而非特定駕駛員的專用機。可完整重現戰機、GERWALK、機甲人形三段變形，並附屬駕駛員人偶、機炮、三對替換手腕、替換天線與展示台。",
+    description: "《マクロスF》延續超時空要塞系列一貫的可變戰機與歌姫文化世界觀，故事舞台設定於殖民船隊「フロンティア」，講述新統合宇宙軍與神秘外星生物「ヴァジュラ」的衝突，並交織兩位歌姫與駕駛員之間的情感糾葛。VF-171夢魘型（Nightmare Plus）是劇中新統合宇宙軍在VF-25正式量產配備前使用的過渡主力戰機，性能介於舊式VF-171與新銳機種之間，多見於一般部隊與護衛任務，並非特定王牌駕駛員專屬座機，代表艦隊防衛體系中承先啟後的重要一環。本品為「一般機」塗裝版本，捨棄個人專用機的鮮豔配色，改採深藍近黑迷彩並標示「N.UNS」（New United Nations Spacy）軍徽，寫實呈現制式軍用機的量產質感。DX超合金系列一貫以高精度變形機構聞名，本作可完整重現戰機（Fighter）、GERWALK、機甲人形（Battroid）三段變形，關節結構兼顧變形順暢度與人形態的可動性，並附屬駕駛員人偶、機炮、三對替換手腕、替換天線及專用展示台座，方便玩家依喜好擺出不同姿態與收納形態，是量產機色收藏中兼顧寫實感的代表商品。",
     reviews: [
       {
         title: "DX超合金 VF-171 ナイトメアプラス（一般機） レビュー | 南方東方",
@@ -8887,7 +8887,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10351/",
     imageUrl: "/images/dx-chogokin-vf171-nightmare-plus-general-armored-parts.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "VF-171", "ナイトメアプラス", "一般機", "アーマードパーツ", "オプションパーツ", "DX超合金", "Bandai"],
-    description: "專為「DX超合金 VF-171 ナイトメアプラス（一般機）」設計的追加裝甲配件組，本身不含機體本體，需另行購買主機體搭配使用。裝備後可在戰機、GERWALK、機甲人形三形態下重現機體重裝化的樣貌，屬魂ウェブ商店限定販售商品。",
+    description: "《マクロスF》中量產型VF-171夢魘型是新統合宇宙軍過渡期主力戰機，在正式主角機VF-25服役前擔負艦隊護衛與前線戰鬥任務，性能雖不及主角專屬機顯眼，卻是支撐艦隊防衛體系的中堅力量。本品為DX超合金VF-171ナイトメアプラス（一般機）本體的追加裝甲擴充套件，屬純選配零件包，不含機體本身，須另行購入對應本體方能組裝使用。裝備後可在戰機、GERWALK、機甲人形三種形態下同步重現機體加裝重裝甲後的強化戰鬥外觀，呼應原作中戰機因應激烈戰況追加武裝的設定，讓一般機色版本也能享有接近專用機的份量感與武裝密度，視覺張力大幅提升。此類擴充零件組多透過魂ウェブ商店等官方通路限定販售，未隨本體常態鋪貨，需把握官方開放購入的期間才能入手，對於希望收藏完整形態的玩家而言屬於必要組件，也因限定性而在二手市場流通有限，具備一定稀有度與收藏門檻，是量產機色系列中相對少見的擴充商品。",
     reviews: [],
     youtube: [],
   },
@@ -8905,7 +8905,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13771/",
     imageUrl: "/images/soc-gx96x-armriser.jpg",
     tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Getter Robo Go", "Gアームライザー", "超合金魂", "Bandai", "合金"],
-    description: "《ゲッターロボ號》（1991）中登場的強化戰機「Gアームライザー」，是超合金魂 GX-96 ゲッターロボ號的專用強化配件組。可拆解裝甲零件供ゲッターロボ號裝備，變形為「超ゲッターロボ號」形態，並附帶磁力鋼劍ソード・トマホーク。本體不含金屬零件，是輕量化的選配零件包，需搭配 GX-96 本體使用。",
+    description: "《ゲッターロボ號》是1991年播出的合體機器人動畫，為永井豪「ゲッターロボ」系列作品之一，故事講述主角們駕駛可自由變換組合形態的三台戰機「ゲッター號」對抗邪惡勢力，延續系列一貫的熱血對決與招牌武器演出風格。系列一貫特色為多機合體、必殺武器與熱血對決演出，本作在此基礎上加入強化配件的設定，讓機體能進一步升級變身成更強大的形態應戰，是系列中強化玩法的重要延伸設計。「Gアームライザー」即是劇中登場的強化戰機配件，作為超合金魂GX-96ゲッターロボ號的專用擴充零件商品化，本身不含金屬骨架也無法單獨作為完整機體使用，須搭配GX-96本體才能發揮功能，屬輕量化的選配零件包。裝備後可讓ゲッターロボ號拆換裝甲、進一步變形為劇中強化形態「超ゲッターロボ號」，並附帶原作標誌性的磁力鋼劍武裝，重現角色在關鍵戰鬥時刻覺醒或升級的名場面，是超合金魂系列中專為擴充可玩性而推出的重要商品，對已收藏GX-96本體的玩家而言是提升可玩深度與收藏完整度的延伸選項。",
     reviews: [
       {
         title: "超合金魂：GX-96X Gアームライザー [レビュー]",
@@ -8935,7 +8935,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13354/",
     imageUrl: "/images/soc-gx94-dancouga-blackwing.jpg",
     tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "Dancouga", "ブラックウイング", "超合金魂", "Bandai", "合金", "可變形"],
-    description: "《超獣機神ダンクーガ》劇場版「Godbless the Machine」中登場的強化形態「ダンクーガ ブラックウイング」超合金魂完成品。可由戰機形態變形為人形態，重現原作中黑色羽翼裝甲的獨特造型，並與其他 SOC ダンクーガ系列零件相容擴充。",
+    description: "《超獣機神ダンクーガ》是1985年播出的合體機器人動畫，講述四名擁有超能力的駕駛員各自操縱獸型機體，合體組成人形巨大機器人ダンクーガ對抗侵略地球的異星種族，是80年代合體機器人代表作之一。劇場版《Godbless the Machine》為系列後續補完劇情之作，深化角色情感與世界觀設定，劇中登場的強化形態「ダンクーガ ブラックウイング」在原版基礎上追加了漆黑羽翼裝甲，象徵角色力量的進一步昇華與世界觀的延伸發展，視覺上更添肅殺與神秘感，是劇場版限定的特殊形態。本品為超合金魂GX-94規格完成品，延續系列一貫講究的金屬質感與變形機構，可由戰機形態流暢變形為人形態，並精細重現劇場版中黑色羽翼裝甲的獨特造型與塗裝細節，展現不同於本篇電視版的另一種視覺風格與戲劇張力。作為超合金魂ダンクーガ系列的其中一項規格，本體亦考量與其他系列相關零件的相容擴充性，方便玩家依既有收藏搭配組裝，呈現更完整的角色形態收藏體系，是喜愛劇場版限定造型玩家的重點收藏對象。",
     reviews: [
       {
         title: "超合金魂 GX-94 ：ブラックウイング【レビュー】",
@@ -8966,7 +8966,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12161/",
     imageUrl: "/images/soc-gx13r-dancouga-renewal.jpg",
     tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "Dancouga", "リニューアルバージョン", "超合金魂", "Bandai", "合金", "可變形", "合體"],
-    description: "《超獣機神ダンクーガ》主角機體「ダンクーガ」的超合金魂リニューアルバージョン完成品，由ビッグモス、イーグルファイター、ランドライガー、ランドクーガー四台獣機合體變形而成。相較初版重新設計配色與助推器關節結構，新增造型優先的非變形頭部零件，並附上ダンクーガ剣及多種武裝配件，約250mm高，ABS、壓鑄合金與PVC材質。",
+    description: "《超獣機神ダンクーガ》講述四名擁有超能力的駕駛員分別操縱獸型機體ビッグモス、イーグルファイター、ランドライガー、ランドクーガー，合體組成人形巨大機器人「ダンクーガ」，對抗侵略地球的異星種族「ムゲ・ゾルバドス帝国」，是80年代合體機器人動畫的代表作之一，主角機的四獸合體設定深受特攝與機器人迷喜愛，至今仍是懷舊機甲收藏的熱門對象。本品為超合金魂GX-13R「リニューアルバージョン（重新設計版）」，相較初版GX-13重新檢視配色與助推器關節結構，修正原版部分變形卡榫與可動限制，讓合體與變形操作更為流暢，並新增造型優先、不需考量變形機構的頭部零件，讓靜態展示時的頭雕細節更為銳利精緻。套組並附上代表主角必殺武器的ダンクーガ剣及多種武裝配件，機身約250mm高，採用ABS、壓鑄合金與PVC複合材質構成，兼顧變形合體的機構強度與塗裝質感，是重製版中兼顧懷舊情懷與新規格細節升級的代表商品，也是超合金魂ダンクーガ收藏線中承先啟後的重要一員。",
     reviews: [
       {
         title: "超合金魂 GX-13R 超獣機神ダンクーガ（リニューアルバージョン）",
@@ -8997,7 +8997,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13574/",
     imageUrl: "/images/soc-gx96-getter-robo-go.jpg",
     tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Getter Robo Go", "超合金魂", "Bandai", "合金", "可變形", "合體"],
-    description: "1991年播出的《ゲッターロボ號》登場的三台可變形合體機體超合金魂完成品，可組合出地上戰用「ゲッター號」、高速空戰用「ゲッター翔」與「ゲッター凱」三種形態，約180mm高。附有ゲッター斧、ブーメランソーサー旋轉刃、腿部刃、トルネードアタック鑽頭、ストリングアタック電磁線及ブレストボンバー飛彈等豐富配件，並附以劇中秘密基地「ビッグナイザー」為原型的專屬展示台座。",
+    description: "《ゲッターロボ號》為1991年播出的永井豪「ゲッターロボ」系列動畫，延續系列一貫的三機合體變形設定，講述主角們駕駛可自由組合切換的三台戰機對抗邪惡勢力，強調熱血對決與招牌武器的爽快演出，是系列作品中變形合體設計較為精巧的一部。本品為超合金魂GX-96完成品，可組合出地上戰用形態「ゲッター號」、高速空戰用形態「ゲッター翔」，以及第三種形態「ゲッター凱」，忠實重現原作中依戰況切換合體形態的經典設定，機身約180mm高，展現超合金魂系列一貫講究的金屬質感與機構強度。套組附屬配件相當豐富，包含ゲッター斧、可高速旋轉的ブーメランソーサー旋轉刃、腿部刃、鑽頭形態的トルネードアタック、電磁線形態ストリングアタック，以及飛彈武裝ブレストボンバー等多種原作招牌武器零件，重現各形態間的招牌絕技。並特別附上以劇中秘密基地「ビッグナイザー」為原型設計的專屬展示台座，讓玩家能重現機體從基地出擊的經典畫面，兼顧可玩性與世界觀還原度，是系列收藏中份量與配件皆屬豐富的一件商品。",
     reviews: [
       {
         title: "超合金魂：GX-96 ゲッターロボ號 [レビュー]（その2）",
@@ -9027,7 +9027,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10638/",
     imageUrl: "/images/tamashii-stage-act-soc.jpg",
     tags: ["合金0001@中壢收多易", "魂STAGE", "展示台座", "超合金魂", "METAL BUILD", "Bandai", "配件"],
-    description: "適用於超合金魂／METAL BUILD等大型機體系列的通用展示台座「魂STAGE Act.超合金魂」，ABS材質，總高約300mm。套組包含底座、背面桁架、支柱×2、上部掛勾零件×2、大型支柱掛勾零件×2、小型支柱掛勾零件×6、底座掛勾零件×4，桁架部分可自由組合陳列武裝，並可左右連結拼接多座使用。",
+    description: "「魂STAGE Act.超合金魂」是TAMASHII NATIONS專為超合金魂、METAL BUILD等大型合金機體系列所設計的通用展示台座商品，本身無特定角色或系列歸屬，屬於純配件性質的展示用底座，可廣泛適用於旗下多款大型機體公仔的陳列需求，是收藏家提升展示質感的實用配件。整體以ABS材質製成，兼顧輕量化與結構強度，組裝完成後總高約300mm，具備一定存在感卻不會過度搶眼，適合作為背景襯托主角機體，讓陳列畫面更具層次與立體感。套組內容物相當完整，包含底座本體、背面桁架、支柱兩支、上部掛勾零件兩個、大型支柱掛勾零件兩個，以及小型支柱掛勾零件六個、底座掛勾零件四個，桁架部分可依玩家喜好自由組合，用來懸掛陳列武裝配件或替換零件，達到收納兼展示的雙重效果，同時也解決大量武裝零件散置的收納難題。此外，多組台座之間可左右連結拼接，方便收藏多台大型機體的玩家打造連續延伸的展示場景，是提升收藏陳列質感的實用配件，也是長期收藏超合金魂系列不可或缺的基礎道具。",
     reviews: [],
     youtube: [
       {
@@ -9051,7 +9051,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1318/",
     imageUrl: "/images/dx-vb6-konig-monster-ge51.jpg",
     tags: ["合金0001@中壢收多易", "マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "VB-6", "GE-51", "DX超合金", "ROBOT魂", "Bandai", "可變形", "合金"],
-    description: "初登場於PS用遊戲《マクロスVF-X2》、後於《マクロスF》劇場版再度登場的大型可變爆撃機「VB-6 ケーニッヒ・モンスター」（GE-51）完成品。原規劃以ROBOT魂規格商品化，但因體型須配合VF-25等機體比例而過於巨大，一般關節結構難以支撐重量，因此改與DX超合金team合作，採用壓鑄合金關節強化結構與塗裝品質，可完整重現シャトル形態、ガウォーク形態、デストロイド形態三形態變形，附專用展示台座。",
+    description: "「VB-6 ケーニッヒ・モンスター（König Monster）」最初登場於PlayStation平台遊戲《マクロスVF-X2》，是設定中體型龐大的可變爆撃機（GE-51），後於《マクロスF》劇場版中再度客串登場，以其巨大機身與獨特的爆撃機定位在系列眾多戰機中獨樹一格，深受硬派機甲迷喜愛，也是跨遊戲與動畫作品的少見機體設定。由於機體比例須與VF-25等主角機並列展示才有意義，體型遠超一般ROBOT魂規格能負荷的範圍，若採用一般可動關節結構將難以支撐自身重量並維持站立姿勢，因此原規劃的ROBOT魂商品化方案改由DX超合金team接手製作，改採壓鑄合金材質強化關節結構與整體塗裝品質，兼顧巨大機體的耐用度與精緻度，是跨團隊協作打造的特別規格商品。完成品可完整重現シャトル形態（太空梭形態）、ガウォーク形態、デストロイド形態三段變形，並附屬專用展示台座，供玩家因應巨大機身穩定站立展示，是DX超合金系列中份量感數一數二的重量級商品，也是Macross跨作品客串機體立體化的珍貴代表。",
     reviews: [
       {
         title: "DX超合金ケーニッヒモンスター レビュー",
@@ -9081,7 +9081,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13391/",
     imageUrl: "/images/soc-gx68x-stargaogaigar-option.jpg",
     tags: ["合金0001@中壢收多易", "勇者王ガオガイガー", "GaoGaiGar", "スターガオガイガー", "究極の勇者王Ver.", "超合金魂", "Bandai", "合金"],
-    description: "《勇者王GaoGaiGar》中「スターガオガイガー」的強化配件套組，超合金魂GX-68勇者王ガオガイガー本體專用擴充零件，「究極の勇者王Ver.」為初版配色的重新塗裝進化版本。套組包含ステルスガオーII、ガトリングドライバー、造型優先非變形頭部零件，以及專用強化展示台座（本版改為透明綠色），並強化各部位金屬質感塗裝。",
+    description: "《勇者王ガオガイガー》是「勇者系列」集大成之作，講述地球守護組織GGG（技術開発局）為對抗侵略地球的機械生命體「ゾンダー」，動用巨大人形機器人ガオガイガー及各式強化機體迎戰，「スターガオガイガー」即為劇中後段登場的強化太空戰鬥形態，象徵主角機為因應宇宙戰鬥環境所進行的最終進化，也是全劇高潮戰役中的關鍵形態。本品為超合金魂GX-68勇者王ガオガイガー本體專用的強化配件套組，「究極の勇者王Ver.」則是相對於初版配色的重新塗裝進化版本，以更深化的金屬質感與配色調整呈現角色設定的終極樣貌，讓收藏家能一睹主角機最終進化形態的完整風采。套組內容包含ステルスガオーII、ガトリングドライバー等強化武裝零件，以及造型優先、不受變形機構限制的非變形頭部零件，方便靜態展示時呈現最銳利的頭雕細節；本版另附透明綠色的專用強化展示台座，相較初版更強調各部位金屬質感塗裝，是收藏家用來升級既有GX-68本體的重要延伸商品，也是勇者系列超合金魂收藏線中人氣頗高的一項擴充配件。",
     reviews: [
       {
         title: "超合金魂：GX-68X スターガオガイガー オプションセット(究極の勇者王Ver.)[レビュー]",
@@ -9117,7 +9117,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/9454/Nendoroid+Swacchao+Darkness",
     imageUrl: "/images/nendoroid-swacchao-darkness.jpg",
     tags: ["etc0001@中壢收多易", "このすば", "KonoSuba", "ダクネス", "Darkness", "ねんどろいど", "Swacchao", "Good Smile Company", "GSC"],
-    description: "Good Smile Company「ねんどろいど Swacchao！」系列作品，來自人氣異世界喜劇動畫《為美好的世界獻上祝福！》的女騎士達克妮絲。Swacchao！系列以「更貼近生活、更輕鬆擺放」為概念，讓角色可愛地坐在專屬椅子上，方便在桌面或狹小空間展示，椅腳可拆卸調整，甚至能坐在桌緣或層板邊緣。",
+    description: "《為美好的世界獻上祝福！（この素晴らしい世界に祝福を！）》是由角色扮演式冒險與喜劇並重的人氣異世界作品，講述主角佐藤和真意外身亡後轉生異世界，與性格各異的女神、法師、騎士等夥伴組隊冒險，笑料百出卻也不失熱血與感動，是近年異世界題材中話題性極高的代表作。ダクネス（Darkness）是隊伍中身兼十字騎士的女性角色，出身貴族卻擁有特殊的受虐性癖，戰鬥時常主動吸引敵方攻擊，是隊伍中防禦與吐槽擔當，人氣角色形象鮮明討喜，其反差萌設定深受粉絲喜愛。本品為Good Smile Company「ねんどろいど Swacchao！」系列作品，此系列有別於傳統ねんどろいど的站立展示概念，改以「更貼近生活、更輕鬆擺放」為設計主軸，讓角色以可愛坐姿安置於專屬椅子上，方便置於桌面、書架或其他狹小空間展示。椅腳部件可拆卸調整長短，甚至能讓角色坐在桌緣、層板邊緣等特殊位置，增添擺設樂趣與收藏彈性，是該系列一貫的招牌玩法特色，也讓收藏空間有限的玩家也能輕鬆入手心儀角色。",
     reviews: [
       {
         title: "『ねんどろいど ダクネス』レビュー。写真より実物のほうが可愛いフィギュアでした。 | 美プラブログ",
@@ -9148,7 +9148,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/9453/Nendoroid+Swacchao+Aqua",
     imageUrl: "/images/nendoroid-swacchao-aqua.jpg",
     tags: ["etc0001@中壢收多易", "このすば", "KonoSuba", "アクア", "Aqua", "ねんどろいど", "Swacchao", "Good Smile Company", "GSC"],
-    description: "Good Smile Company「ねんどろいど Swacchao！」系列作品，來自《為美好的世界獻上祝福！》的水之女神阿克婭。以坐姿設計呈現，附贈專屬椅子與腳架，可靈活擺放於桌面邊緣或層架狹小空間，是系列中討喜的桌上小物代表角色之一。",
+    description: "《為美好的世界獻上祝福！》是深受歡迎的異世界喜劇作品，故事描述主角佐藤和真轉生異世界後，與個性鮮明的女神、法師、騎士等夥伴一同組隊冒險，笑點與熱血兼具，是近年輕小說改編動畫中人氣長青的代表作品之一。アクア（Aqua）是劇中自稱水之女神的角色，個性天然呆又愛耍廢，時常成為劇情笑料的來源，卻也在關鍵時刻展現女神應有的能力與魅力，是本作人氣角色之一，其代表性的水藍色雙馬尾造型極具辨識度，也是系列周邊商品中最常見的角色之一。本品為Good Smile Company「ねんどろいど Swacchao！」系列作品，延續該系列以坐姿設計為核心的展示概念，附贈專屬椅子與可調整長度的腳架，讓阿克婭能以放鬆坐姿呈現於桌面、書架邊緣或層架狹小空間，兼顧收藏與居家擺設的實用性。此系列強調輕鬆、療癒的展示體驗，有別於傳統可動人偶著重站立姿態與豐富替換配件的設計方向，是近年頗受女性向與輕收藏族群歡迎的商品線，也讓角色慵懶耍廢的個性有了更貼切的呈現方式。",
     reviews: [
       {
         title: "Nendoroid Swacchao Aqua Megumin & Darkness Kono Suba GSC Reviews | MyFigureCollection.net",
@@ -9179,7 +9179,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/9452/Nendoroid+Swacchao+Megumin",
     imageUrl: "/images/nendoroid-swacchao-megumin.jpg",
     tags: ["etc0001@中壢收多易", "このすば", "KonoSuba", "めぐみん", "Megumin", "ねんどろいど", "Swacchao", "Good Smile Company", "GSC"],
-    description: "Good Smile Company「ねんどろいど Swacchao！」系列作品，來自《為美好的世界獻上祝福！》的紅魔族爆裂魔法師惠惠。以招牌爆裂魔法姿態融入坐姿造型，附椅子與可調整腳架，是該系列中人氣角色之一，可與同系列的阿克婭、達克妮絲並排展示。",
+    description: "《為美好的世界獻上祝福！》講述主角佐藤和真轉生異世界後，與性格各異的夥伴組隊冒險的異世界喜劇作品，笑料與熱血兼具，人氣居高不下，是同類型作品中話題度數一數二的代表作。めぐみん（Megumin）是紅魔族出身的年幼法師，一生僅專精學習「爆裂魔法」這種威力驚人卻極度耗費魔力、且戰鬥後即刻癱軟無法行動的高風險魔法，其偏執的中二病性格與招牌喊出咒語詠唱的橋段深植人心，是本作最具代表性的角色之一，也是系列中話題度與周邊商品數量最高的角色。本品為Good Smile Company「ねんどろいど Swacchao！」系列作品，將角色招牌的爆裂魔法詠唱姿態巧妙融入該系列一貫的坐姿造型設計中，同樣附贈專屬椅子與可調整腳架，方便安置於桌面邊緣、書架或其他狹小空間展示。作為該系列人氣角色之一，本作可與同系列陸續推出的阿克婭、達克妮絲等隊伍夥伴並排擺設，重現整支冒險小隊齊聚一堂的溫馨畫面，深受粉絲喜愛，也是喜愛異世界題材收藏者的必收單品之一。",
     reviews: [
       {
         title: "Nendoroid Swacchao Aqua Megumin & Darkness Kono Suba GSC Reviews | MyFigureCollection.net",
@@ -9210,7 +9210,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/en/product/11488/Nendoroid+Illyasviel+von+Einzbern.html",
     imageUrl: "/images/nendoroid-illyasviel-1680.jpg",
     tags: ["etc0001@中壢收多易", "Fate", "プリズマ☆イリヤ", "イリヤ", "Illyasviel", "ねんどろいど", "Good Smile Company", "GSC", "#1680"],
-    description: "Good Smile Company ねんどろいど 系列作品，商品編號 #1680，取材自劇場版《Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女》的女主角伊莉雅絲菲爾・馮・愛因兹貝倫。附三款替換表情：可愛笑容、戰鬥時的堅毅表情，以及慌張欲逃的哭泣臉。選配部件包含她的萬花筒魔法杖「魔法紅寶石」與Class Card，魔法紅寶石可替換翅膀與刀刃型態重現變身姿態。",
+    description: "《Fate/kaleid liner プリズマ☆イリヤ》系列是Fate系列的衍生外傳作品，講述原作中僅有短暫登場的少女イリヤスフィール・フォン・アインツベルン（Illyasviel von Einzbern）意外獲得魔法少女力量，展開與收集「Class Card」相關的冒險故事，風格較本傳更為輕鬆可愛，同時保留魔法戰鬥的熱血元素，是Fate系列衍生作品中人氣獨立的一支。劇場版《Licht 名前の無い少女》為系列近年推出的完結篇章，深化了角色情感糾葛與最終決戰的張力，為長年連載的系列故事畫下句點。本品為Good Smile Company ねんどろいど系列作品，商品編號#1680，忠實呈現女主角伊莉雅在劇場版中的造型。附三款替換表情，涵蓋日常可愛笑容、戰鬥時的堅毅神情，以及慌張欲逃的哭泣臉，情緒展現層次豐富；選配部件則包含她標誌性的萬花筒魔法杖「魔法紅寶石」以及Class Card，其中魔法紅寶石更可替換翅膀與刀刃型態零件，重現角色施展魔法變身的經典場面，收藏與把玩兼具，是系列粉絲期待已久的商品化角色。",
     reviews: [
       {
         title: "ねんどろいど イリヤスフィール・フォン・アインツベルン レビュー | はっちゃか",
@@ -9241,7 +9241,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/8865/Nendoroid+Kokkoro",
     imageUrl: "/images/nendoroid-kokkoro-princess-connect.jpg",
     tags: ["etc0001@中壢收多易", "プリンセスコネクト", "プリコネ", "コッコロ", "Kokkoro", "ねんどろいど", "Good Smile Company", "GSC", "#1644"],
-    description: "Good Smile Company ねんどろいど 系列作品，商品編號 #1644，取材自人氣手機遊戲《公主連結！Re:Dive》，一路指引主角冒險的精靈嚮導コッコロ。附三款替換表情：溫柔微笑、戰鬥時的認真表情，以及招牌驚訝「×」嘴型。選配部件包含她的法杖、戰鬥時召喚的精靈，以及印有「コッコロ印章」的插畫紙。",
+    description: "《公主連結！Re:Dive（プリンセスコネクト！Re:Dive）》是由Cygames推出的人氣手機角色扮演遊戲，並改編為動畫作品，講述失憶主角ユウキ在異世界「アストラエア大陸」與夥伴們組隊冒險、逐步找回記憶的故事，融合輕鬆日常與熱血冒險元素，角色魅力深受玩家喜愛，是近年手遊改編作品中人氣持續發燒的代表。コッコロ（Kokkoro）是隊伍中的精靈嚮導，個性溫柔體貼、擅長料理與照顧隊友，是主角冒險路上不可或缺的重要夥伴，人氣居高不下，長年在遊戲人氣投票中名列前茅。本品為Good Smile Company ねんどろいど系列作品，商品編號#1644，附三款替換表情，分別為溫柔微笑、戰鬥時的認真神情，以及角色招牌的驚訝「×」嘴型表情，充分展現角色個性反差萌。選配部件包含她慣用的法杖、戰鬥中召喚出的精靈造型配件，以及印有專屬「コッコロ印章」圖樣的插畫紙，細節還原度高，是喜愛本作與手遊角色收藏者的熱門選項，也是系列眾多角色商品化中辨識度極高的一款。",
     reviews: [
       {
         title: "【レビュー】ねんどろいど《コッコロ》ちゃんの「驚き表情」が愛くるしい - かわにょぶろぐ",
@@ -9272,7 +9272,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/8866/Nendoroid+Pecorine",
     imageUrl: "/images/nendoroid-pecorine-princess-connect.jpg",
     tags: ["etc0001@中壢收多易", "プリンセスコネクト", "プリコネ", "ペコリーヌ", "Pecorine", "ねんどろいど", "Good Smile Company", "GSC", "#1678"],
-    description: "Good Smile Company ねんどろいど 系列作品，商品編號 #1678，取材自《公主連結！Re:Dive》中身兼「格斯汀公國」公會長身分的元氣少女佩克莉努。附三款替換表情：活力笑容、俏皮眨眼，以及大口吃飯糰時鼓起臉頰的「もぐもぐ顔」。選配部件包含王族神器「王女之劍」、大飯糰與帶骨肉，充分呈現角色貪吃又元氣滿滿的個性。",
+    description: "《公主連結！Re:Dive》是Cygames推出的人氣手機角色扮演遊戲及其動畫化作品，講述失憶主角與夥伴們在異世界大陸展開冒險、逐步尋回記憶的故事，世界觀輕鬆討喜卻不失熱血劇情張力，是近年手遊跨媒體改編中相當成功的案例之一。ペコリーヌ（Pecorine）表面上是活力充沛、貪吃愛玩的元氣少女，實際身分卻是「格斯汀公國」的公會長，反差萌人設深受玩家喜愛，是本作代表角色之一，也是系列作品中曝光度最高的女主角。本品為Good Smile Company ねんどろいど系列作品，商品編號#1678，附三款替換表情：展現角色天真爛漫的活力笑容、俏皮眨眼表情，以及大口吃著飯糰時鼓起臉頰的招牌「もぐもぐ顔（咀嚼臉）」，生動捕捉角色貪吃逗趣的一面。選配部件包含象徵其公主身分的王族神器「王女之劍」，以及大顆飯糰與帶骨肉等經典食物道具，完整呈現佩克莉努貪吃又元氣滿滿的角色魅力，是系列粉絲熱門收藏品項，也是了解角色雙重身分反差設定的最佳立體化呈現。",
     reviews: [
       {
         title: "Nendoroid 1678 - Princess Connect Re:Dive Pecorine Review | LH Yeung.net Blog",
@@ -9303,7 +9303,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1816/Nendoroid+Ranka+Lee",
     imageUrl: "/images/nendoroid-ranka-lee-350.jpg",
     tags: ["macross002@中壢收多易", "マクロス", "マクロスF", "ランカ・リー", "Ranka Lee", "ねんどろいど", "Good Smile Company", "GSC", "#350"],
-    description: "Good Smile Company ねんどろいど 系列作品，商品編號 #350，取材自《超時空要塞Frontier》女主角之一ランカ・リー，重現電視版第二期片頭曲與最終回中的「星間飛行」演出服裝。附三款替換表情：吶喊、歌唱與招牌眨眼表情，選配部件包含麥克風等舞台演出道具，並附專屬舞台底座讓她擺出live演出姿態。",
+    description: "《超時空要塞Frontier（マクロスフロンティア）》是超時空要塞系列的重要作品之一，延續系列一貫的可變戰機與歌姫文化世界觀，講述殖民船隊フロンティア面對神秘外星生物ヴァジュラ的威脅，同時交織兩位歌姫與駕駛員之間情感糾葛的故事，是系列作品中商業與口碑俱佳的代表之作。ランカ・リー（Ranka Lee）是本作女主角之一，原為前代歌姫的孤兒，逐步從素人偶像成長為足以獨當一面的歌姫，其成長歷程與歌唱表現是本作重要看點，代表曲「星間飛行」更是系列經典金曲之一，傳唱度極高。本品為Good Smile Company ねんどろいど系列作品，商品編號#350，重現電視版第二期片頭曲及最終回中「星間飛行」的演出服裝造型，色彩鮮明活潑。附三款替換表情，包括吶喊、歌唱以及招牌眨眼表情，選配部件涵蓋麥克風等舞台演出道具，並附上專屬舞台造型底座，讓玩家能重現ランカ在演唱會現場盡情高歌的動態瞬間，是系列早期商品化中辨識度與收藏價值兼具的經典一作。",
     reviews: [
       {
         title: "Kahotan's Blog | GOOD SMILE COMPANY Figure Reviews | Nendoroid Ranka Lee",
@@ -9328,7 +9328,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/en/product/10690/Nendoroid+Snow+Miku+Glowing+Snow+Ver.html",
     imageUrl: "/images/nendoroid-snow-miku-glowing-snow-2021.jpg",
     tags: ["etc0001@中壢收多易", "初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC", "#1539"],
-    description: "Good Smile Company ねんどろいど 系列「雪ミク 2021」年度主題造型「Glowing Snow Ver.」，商品編號 #1539，以雪夜中閃耀發光的歌姫為設計概念。附三款替換表情：標準表情、陶醉表情與微笑表情，可拆卸的時鐘造型貝雷帽與披風、迷你雪兔ラビット・ユキネ模型，以及展開／闔上兩種型態的歌詞本，裙擺緞帶亦可替換成如天使羽翼般延展的造型部件。",
+    description: "「雪ミク（Snow Miku）」是初音ミク衍生出的冬季限定人氣角色企劃，每年皆會推出以北海道雪祭為主題的全新造型設計，並固定推出ねんどろいど版本供粉絲收藏，是初音未來周邊中辨識度極高、深受全球粉絲喜愛的年度系列，累積多年造型變化已成為粉絲每年期待的重點。「Glowing Snow Ver.」為2021年度雪ミク主題造型，商品編號#1539，以雪夜中發光閃耀的歌姫意象為設計核心，服裝配色帶有柔和的螢光藍白色調，呼應冬夜雪景中發光的浪漫氛圍，是該年度造型中意象最為夢幻的一款。本品附三款替換表情：標準表情、陶醉表情與微笑表情，情緒層次豐富；可拆卸配件包含造型如時鐘般的貝雷帽與披風設計、雪ミク招牌搭檔迷你雪兔ラビット・ユキネ模型，以及可展開與闔上兩種型態的歌詞本道具，細節講究。裙擺緞帶部分亦可替換成如天使羽翼般向外延展的造型部件，讓靜態展示時更添夢幻視覺效果，是雪ミク系列中頗受好評的一作，也是歷年雪ミク中造型設計最具巧思的版本之一。",
     reviews: [
       {
         title: "雪夜に舞い降りた煌びやかな歌姫がデフォルメフィギュアに！「ねんどろいど 雪ミク Glowing Snow Ver.」製品サンプルレビューをお届け！ | 電撃ホビーウェブ",
@@ -9353,7 +9353,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/9839/Nendoroid+Snow+Miku+Grand+Voyage+Ver.",
     imageUrl: "/images/nendoroid-snow-miku-grand-voyage-2022.jpg",
     tags: ["etc0001@中壢收多易", "初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC"],
-    description: "Good Smile Company ねんどろいど 系列「雪ミク 2022」年度主題造型「Grand Voyage Ver.」，以北海道冬季「海洋」為設計主題。附三款替換表情：標準、微笑與興奮表情，可拆卸的船長帽、迷你雪兔ラビット・ユキネ模型、雙筒望遠鏡與帥氣墨鏡，並附脫下外套後的替換上半身部件，重現船長出航英姿。",
+    description: "「雪ミク（Snow Miku）」是初音ミク衍生出的冬季限定人氣角色企劃，每年配合北海道雪祭推出全新主題造型，並固定推出ねんどろいど版本供粉絲收藏，是初音未來周邊中極具代表性的年度系列之一，每年造型主題皆緊扣北海道地方特色。「Grand Voyage Ver.」為2022年度雪ミク主題造型，以北海道冬季「海洋」為設計核心概念，服裝呈現航海船長風格，配色沉穩中帶有清爽的藍白色調，展現與過往可愛路線不同的英氣氛圍，是雪ミク系列中形象轉變較為突出的一年。本品附三款替換表情：標準表情、微笑表情與興奮表情，情緒表現豐富多變；可拆卸配件包含造型別緻的船長帽、雪ミク招牌搭檔迷你雪兔ラビット・ユキネ模型、雙筒望遠鏡以及帥氣墨鏡等航海主題道具。此外還附有脫下外套後的替換上半身部件，讓玩家能重現雪ミク化身船長、意氣風發準備出航的英姿，是該年度系列中造型變化較大、頗具新鮮感的一作，也讓長年收藏雪ミク系列的粉絲耳目一新。",
     reviews: [
       {
         title: "北海道の冬の荒波を越えていけ！可愛らしさ全開の「ねんどろいど 雪ミク Grand Voyage Ver.」製品レビューをお届け！ | 電撃ホビーウェブ",
@@ -9384,7 +9384,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/en/product/9000/Nendoroid+Snow+Miku+Snow+Parade+Ver.html",
     imageUrl: "/images/nendoroid-snow-miku-snow-parade-2020.jpg",
     tags: ["etc0001@中壢收多易", "初音ミク", "雪ミク", "Snow Miku", "ねんどろいど", "Good Smile Company", "GSC", "#1250"],
-    description: "Good Smile Company ねんどろいど 系列「雪ミク 2020」年度主題造型「Snow Parade Ver.」，商品編號 #1250，以北海道「雪與樂器」為主題，重現行進樂隊風格服裝。附三款替換表情：微笑表情、吹奏法國號時的閉眼表情，以及興奮可愛的表情，選配部件包含迷你雪兔ラビット・ユキネ、法國號與指揮棒，並附可替換手部部件供她抱著雪兔擺姿。原為Wonder Festival 2020［冬］限定販售。",
+    description: "「雪ミク（Snow Miku）」是初音ミク衍生出的冬季限定人氣角色企劃，每年配合北海道雪祭推出全新主題造型，並固定推出ねんどろいど版本供粉絲收藏，是延續多年的固定年度企劃。「Snow Parade Ver.」為2020年度雪ミク主題造型，商品編號#1250，以北海道當地「雪與樂器」為設計主題，重現行進樂隊（マーチングバンド）風格的整齊制服造型，色調明亮且帶有濃厚節慶氛圍，呼應雪祭期間常見的遊行表演意象，是該年度造型中活潑熱鬧氣息最為濃厚的一款。本品附三款替換表情：溫和微笑表情、吹奏法國號時專注的閉眼表情，以及興奮可愛的表情，情緒層次生動。選配部件包含雪ミク招牌搭檔迷你雪兔ラビット・ユキネ、法國號樂器與指揮棒，並附有可替換手部部件，方便玩家改為抱著雪兔的溫馨姿態擺設。本作原為Wonder Festival 2020［冬］活動限定販售商品，發售當時頗受排隊搶購熱潮，具一定紀念與收藏價值，也是疫情前最後一批線下限定販售的雪ミク商品之一。",
     reviews: [
       {
         title: "今年の雪ミクはマーチングバンド衣装！「ワンフェス2020［冬］」ワンホビブースで販売の「ねんどろいど 雪ミク Snow Parade Ver.」を製品レビュー☆ | 電撃ホビーウェブ",
@@ -9415,7 +9415,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1627/Nendoroid+Snow+Miku+Strawberry+White+Kimono+Ver.",
     imageUrl: "/images/nendoroid-snow-miku-strawberry-shiromuku.jpg",
     tags: ["etc0001@中壢收多易", "初音ミク", "雪ミク", "Snow Miku", "いちご白無垢", "ねんどろいど", "Good Smile Company", "GSC", "#303"],
-    description: "Good Smile Company ねんどろいど 系列「雪ミク 2013」年度主題造型「いちご白無垢Ver.（草莓白無垢版）」，商品編號 #303，正式英文名為 Strawberry White Kimono Ver.。以帶點成熟韻味的白無垢和服為設計概念，草莓造型棉帽可拆卸並切換雙馬尾或盤髮兩種髮型，選配部件包含番傘、和式圓盤、牙籤與雪兔，原為札幌雪祭 2013 與 Wonder Festival 2013［冬］限定販售商品，2025年曾再版復刻。",
+    description: "「雪ミク（Snow Miku）」是初音ミク衍生出的冬季限定人氣角色企劃，每年配合北海道雪祭推出全新主題造型，是初音未來周邊中歷史悠久且深具代表性的年度系列，長年累積下已形成獨立且龐大的收藏支線。「いちご白無垢Ver.（草莓白無垢版）」為2013年度雪ミク主題造型，商品編號#303，正式英文名為Strawberry White Kimono Ver.，以帶點成熟韻味的傳統和服「白無垢」為設計概念，融入草莓元素點綴，呈現介於可愛與典雅之間的獨特氣質，是早期雪ミク系列中人氣頗高的經典造型之一。本品的草莓造型棉帽可拆卸，並可切換雙馬尾或盤髮兩種髮型呈現不同氛圍；選配部件包含番傘、和式圓盤、牙籤與雪兔等和風道具，細節講究。本作原為札幌雪祭2013與Wonder Festival 2013［冬］限定販售商品，發售當時一機難求，2025年曾因粉絲高度呼籲而再版復刻，足見其長年不衰的人氣與收藏價值，是雪ミク早期造型中最具代表性的懷舊經典之一。",
     reviews: [
       {
         title: "カホタン：【あと5日】「ねんどろいど 雪ミク いちご白無垢Ver.」で遊んでみた！【WF】",
@@ -9440,7 +9440,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-127778",
     imageUrl: "/images/megahouse-mylene-jenius-firebomber.jpg",
     tags: ["etc0001@中壢收多易", "マクロス", "マクロス7", "Fire Bomber", "ミレーヌ・ジーナス", "Mylene Jenius", "MegaHouse", "完成品フィギュア"],
-    description: "MegaHouse 推出的《超時空要塞7》完成品塗裝雕像，重現樂團「Fire Bomber」貝斯手兼主唱ミレーヌ・ジーナス的舞台演出英姿，全高約190mm。套組附贈她隨身攜帶的貝斯、銀毛長鼠グババ，以及以作品Logo為造型的專屬台座，與另售的熱気バサラ figure並列展示可組成完整的Fire Bomber舞台場景。注意：此角色為Macross初代Ace飛行員麥克斯與美利亞之女，與其母「Milia Jenius（美利亞・ジーナス）」為兩個不同角色，勿混淆。",
+    description: "《超時空要塞7（マクロス7）》是超時空要塞系列作品之一，故事講述宇宙移民船隊「マクロス7」中，搖滾樂團「Fire Bomber」以歌聲對抗外星侵略者「プロトデビルン」的獨特世界觀，強調「歌聲即武器」的熱血設定，是系列中風格最為搖滾奔放的一作，也塑造出許多深植人心的樂團角色。ミレーヌ・ジーナス（Mylene Jenius）是樂團Fire Bomber的貝斯手兼主唱，性格活潑直率，在劇中同時肩負戰鬥駕駛員與舞台演出雙重身分，是團內活力擔當的重要成員。本品為MegaHouse推出的完成品塗裝雕像，全高約190mm，精細重現她在舞台上演出時的活力英姿，套組附贈隨身貝斯、招牌寵物銀毛長鼠グババ，以及以作品Logo為造型設計的專屬台座。與另售的熱気バサラ figure並列展示，可組成完整的Fire Bomber舞台場景，重現樂團齊聚演出的熱血畫面。特別提醒：本角色為Macross初代王牌駕駛員麥克斯與美利亞之女，與其母「Milia Jenius（美利亞・ジーナス）」為兩個不同角色，收藏時勿混淆。",
     reviews: [
       {
         title: "あどけなさを残した表情が可愛すぎ！『マクロス7』ミレーヌ・ジーナスが親友であるグババとともにメガハウスからフィギュア化！ | 電撃ホビーウェブ",
@@ -9476,7 +9476,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-127779",
     imageUrl: "/images/megahouse-basara-nekki-firebomber.jpg",
     tags: ["etc0001@中壢收多易", "マクロス", "マクロス7", "Fire Bomber", "熱気バサラ", "Basara Nekki", "MegaHouse", "完成品フィギュア"],
-    description: "MegaHouse 推出的《超時空要塞7》完成品塗裝雕像，重現樂團「Fire Bomber」主唱兼吉他手熱気バサラ在戰場中放聲高歌的舞台演出瞬間，全高約230mm。造型還原招牌墨鏡與豎立髮型，肩背吉他、手握立式麥克風的經典姿態，與另售的ミレーヌ・ジーナス figure並列展示可組成完整的Fire Bomber舞台場景。",
+    description: "《超時空要塞7》講述宇宙移民船隊マクロス7中，搖滾樂團「Fire Bomber」以歌聲對抗外星侵略者「プロトデビルン」的獨特故事，強調歌聲能夠感化敵人、化解戰爭的核心主題，是系列中最具搖滾魂與音樂本位色彩的一作，也是超時空要塞系列中風格最為特立獨行的一部。熱気バサラ（Basara Nekki）是樂團Fire Bomber的主唱兼吉他手，個性我行我素、堅信音樂勝過武力，即使身處戰場也堅持高歌不輟，其標誌性的墨鏡與豎立誇張髮型深植人心，是系列人氣居高不下的代表角色之一，也是全劇貫徹「以歌止戰」理念的靈魂人物。本品為MegaHouse推出的完成品塗裝雕像，全高約230mm，生動重現バサラ在戰場中放聲高歌的舞台演出瞬間，造型細節完整還原招牌墨鏡與蓬鬆豎立髮型，肩背吉他、手握立式麥克風的經典搖滾姿態極具張力。與另售的ミレーヌ・ジーナス figure並列展示，可組成完整的Fire Bomber舞台演出場景，是Macross7粉絲收藏的重點單品，也是系列完成品雕像中人氣經久不衰的代表作。",
     reviews: [
       {
         title: "今にもあの歌声が聞こえてきそうな躍動感が魅力的！『マクロス7』熱気バサラがライブ中のワンシーンを切り抜いたような姿でメガハウスからフィギュア化！ | 電撃ホビーウェブ",
@@ -9512,7 +9512,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.alphaomega-web.jp/products/41",
     imageUrl: "/images/alpha-omega-sheryl-nome-gorgeous.jpg",
     tags: ["etc0001@中壢收多易", "マクロス", "マクロスF", "シェリル・ノーム", "Sheryl Nome", "ALPHA X OMEGA", "アルファオメガ", "1/7スケール"],
-    description: "Alter與MegaHouse共同品牌「ALPHA X OMEGA」推出的《超時空要塞F》1/7比例雕像，以銀河妖精シェリル・ノーム歌曲《ゴ～～ジャス》為意象，將阿拉伯風情的妖艷世界觀立體化，全長約290mm（含底座）。原型製作飛田崇文、彩色鉄森七方，服裝細節與飾品極盡奢華、部件數與上色工序繁複，展現藝術品等級的完成度。與 Good Smile Company 的 Nendoroid Sheryl Nome（#330）為完全不同品牌、不同比例的獨立商品，非重複收藏。",
+    description: "《マクロスF》延續超時空要塞系列可變戰機與歌姫文化的世界觀，講述殖民船隊フロンティア對抗神秘外星生物ヴァジュラ的故事，其中被譽為「銀河妖精」的人氣歌姫シェリル・ノーム（Sheryl Nome）以華麗奪目的舞台魅力與強烈個性深受粉絲喜愛，是本作靈魂人物之一，其代表歌曲風格多元、演出場面極具視覺震撼力。「アルファオメガ」是老牌雕像廠Alter與MegaHouse共同成立的合作品牌，主打高精緻度、藝術品等級的美少女雕像，作品向來以細膩上色與繁複細節著稱。本品以シェリル歌曲《ゴ～～ジャス》為創作意象，將歌曲中充滿阿拉伯風情的妖艷世界觀立體化呈現，全長約290mm（含底座），由原型師飛田崇文負責雕塑、彩色師鉄森七方負責上色。服裝細節與飾品呈現極盡奢華的堆疊層次，部件數量與塗裝工序均相當繁複，展現出媲美藝術品的完成度。特別提醒：本品與Good Smile Company推出的Nendoroid Sheryl Nome（#330）為完全不同品牌、不同比例規格的獨立商品，收藏定位並不重複，兩者可並存收藏互不衝突。",
     reviews: [
       {
         title: "アルファオメガ シェリル・ノーム ゴ～～ジャスVer. レビュー | 楽園 フィギュアレビューブログ",
@@ -9543,7 +9543,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12361/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-general.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスΔ", "VF-31A", "カイロス", "一般機", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《超時空要塞Δ》登場的量產型可變戰鬥機 VF-31A Kairos 一般配色版，重現 Delta 小隊支援機（非個人識別機）的低視度塗裝。此為 2018 年魂ウェブ商店限定發售的初版一般機色，早於後續推出的「マクロスΔ10周年記念」版本，是 VF-31A 首次以一般塗裝形式商品化的版本。三段變形（Fighter/Gerwalk/Battroid）完整支援，機體以壓鑄合金搭配關節卡榫結構，展現量產機特有的寫實軍武質感。",
+    description: "《超時空要塞Δ（マクロスΔ）》是超時空要塞系列近年作品，講述偶像團體「ワルキューレ」透過歌聲淨化因「感染」而失控暴走的可變戰機駕駛員，同時交織Δ小隊的戰鬥任務，是系列中將歌姫元素與軍事戰鬥結合更為緊密的一作，也延續了系列一貫的歌聲與戰爭並存的核心命題。VF-31A Kairos為Δ小隊的支援機種，性能定位介於主力機VF-31S與其他配備之間，多用於火力支援與後勤協防任務，並非特定王牌駕駛員的個人專屬座機。本品為2018年魂ウェブ商店限定發售的初版一般機色，捨棄個人專用機的鮮豔識別塗裝，改採低視度的軍用寫實配色，呈現量產支援機低調務實的一面，時序上早於後續推出的「マクロスΔ10周年記念」紀念版本，是VF-31A首度以一般塗裝形式商品化的重要版本。三段變形（Fighter/Gerwalk/Battroid）機構完整支援，機體以壓鑄合金搭配關節卡榫結構打造，兼顧變形順暢度與人形態的可動細節，展現量產機特有的寫實軍武質感，是初版收藏中頗具紀念意義的商品。",
     reviews: [
       {
         title: "DX超合金《超時空要塞Δ》VF-31A 凱羅斯（一般機）",
@@ -9579,7 +9579,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13846/",
     imageUrl: "/images/proplica-microphone-sheryl-ranka-set.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "PROPLICA", "マイク", "シェリル・ノーム", "ランカ・リー", "Sheryl Nome", "Ranka Lee", "Bandai"],
-    description: "PROPLICA 系列首度將《超時空要塞F》銀河妖精シェリル・ノーム與次元灰姑娘ランカ・リー的舞台麥克風以近乎實物大尺寸道具化的雙人套組。麥克風本體忠實重現各角色專屬造型與配色，內建開關可切換台詞、歌曲、伴奏與紅外線通訊模式，兩支麥克風各自收錄3首個人歌曲（含人聲與伴奏版），並可透過紅外線通訊功能觸發合唱曲目。套組內含兩支麥克風本體、專用展示台座、連接零件與說明書。",
+    description: "《マクロスF》中兩位女主角シェリル・ノーム與ランカ・リー分別以「銀河妖精」與「次元灰姑娘」的稱號活躍於劇中舞台演出，兩人的歌聲與競爭關係貫穿全劇，是系列作品中歌姫元素發揮最為極致的一部，兩人代表歌曲亦廣受粉絲傳唱至今，成為系列最具代表性的音樂符號。「PROPLICA」是TAMASHII NATIONS旗下主打忠實道具重現的商品線，本品首度將劇中兩位歌姫使用的舞台麥克風以近乎實物大尺寸道具化推出，成為系列人氣雙人套組。麥克風本體忠實重現各角色專屬造型與配色細節，內建開關機構可切換角色台詞、歌曲、伴奏及紅外線通訊等多種模式，兩支麥克風各自收錄三首角色代表歌曲（含人聲版與伴奏版），更設計有紅外線通訊功能，讓兩支麥克風互相感應觸發合唱曲目，重現劇中對唱名場面。套組內含麥克風本體兩支、專用展示台座、連接零件與說明書，是兼具道具擬真與互動玩法的特色商品，讓粉絲能親身體驗劇中歌姫合唱的臨場感受。",
     reviews: [
       {
         title: "『マクロスF』ランカとシェリルのマイクが約1/1サイズでPROPLICAより商品化！「星間飛行」や「ノーザンクロス」など代表曲や名セリフなどを収録！",
@@ -9604,7 +9604,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10442/",
     imageUrl: "/images/dx-chogokin-vf25a-messiah-general.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25A", "メサイアバルキリー", "一般機", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《マクロスF》中 S.M.S 部隊量產配備機 VF-25A Messiah Valkyrie 一般機首次立體化。有別於アルト、ミハエル、オズマ等主角專用機的個人塗裝，本機採用低調的軍用實用色調，展現量產型主力機特有的寫實質感。Fighter/Gerwalk/Battroid 三段變形完整支援，套組內含機體本體、槍械 Gunpod、突擊小刀、專用展示台，以及左右各三種替換手掌與 S.M.S 一般士兵駕駛人偶。",
+    description: "《マクロスF》講述殖民船隊フロンティア對抗神秘外星生物ヴァジュラ的故事，VF-25 Messiah Valkyrie是劇中傭兵部隊「S.M.S」的主力可變戰機，性能優異且配備豐富，主角アルト、王牌ミハエル、隊長オズマ等人皆各自駕駛專屬塗裝的座機參與多場經典空戰，是系列近年作品中極具人氣的機體設定。本品重現的是S.M.S部隊實際大量配備的「一般機」版本，有別於主角群個人專屬機的鮮豔識別塗裝，改採低調的軍用實用色調，呈現量產型主力戰機特有的寫實軍武質感，是VF-25首次以一般機色形式立體化的商品。Fighter/Gerwalk/Battroid三段變形機構完整支援，變形流暢度與人形態可動性兼具，套組內容豐富，包含機體本體、槍械Gunpod、突擊小刀等原作標誌武裝，以及專用展示台、左右各三種替換手掌，並附S.M.S一般士兵駕駛人偶，方便玩家依喜好重現不同的乘坐與戰鬥姿態，收藏與把玩兼具，是量產機色收藏中兼顧寫實與可玩性的代表商品。",
     reviews: [
       {
         title: "VF-25Aメサイアバルキリー一般機",
@@ -9633,7 +9633,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10521/",
     imageUrl: "/images/dx-chogokin-vf25a-messiah-general-super-parts.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25A", "メサイア", "一般機", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25A メサイアバルキリー（一般機）本體追加的太空用強化推進背包（Super Parts）套組，魂ウェブ商店限定販售，不含本體。裝設後可大幅提升機體的航程與加速性能，讓量產型 VF-25A 呈現出與アルト機、ミハエル機等主角機同等的強化戰鬥外觀。",
+    description: "《マクロスF》中的S.M.S主力可變戰機VF-25 Messiah Valkyrie，其中「一般機」是部隊實際大量配備的量產塗裝版本，性能雖不及主角群的個人專屬機顯眼，卻是支撐整個部隊作戰體系的中堅力量，也是艦隊戰力的重要基石。本品是為DX超合金VF-25Aメサイアバルキリー（一般機）本體所推出的追加太空用強化推進背包（Super Parts）套組，屬魂ウェブ商店限定販售商品，本身不含機體本體，須另行購入對應主機才能組裝使用。裝設後可大幅提升機體的航程與加速性能表現，呼應原作設定中該類擴充裝備用於長程任務或激烈戰鬥時的強化需求，讓原本低調樸實的量產型VF-25A在外觀上也能呈現出與アルト機、ミハエル機等主角專用機同等份量的強化戰鬥外觀，視覺份量大幅提升。是喜愛VF-25一般機規格、想進一步豐富收藏形態變化的玩家值得入手的擴充配件，也讓量產機色系列的收藏深度更上一層樓。",
     reviews: [
       {
         title: "VF-25Aメサイアバルキリー一般機",
@@ -9658,7 +9658,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10905/",
     imageUrl: "/images/dx-chogokin-vf19-advance.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-19", "ADVANCE", "アドバンス", "イサム・ダイソン", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "劇場版《サヨナラノツバサ》登場的 VF-19 ADVANCE，是イサム・ダイソン（Isamu Dyson）為了讓調整版 VF-19 貼近原型機 YF-19 性能而自行改裝的座機，由河森正治監修外型比例。三段變形支援腰部旋轉與大範圍張腿動作，可拆卸式 ADVANCE 推進背包是本作特色配件，並首度在 DX超合金 マクロス 系列中附帶「Pin Point Barrier」防護力場特效零件。套組內含機體本體、槍械、左右各三種替換手掌、ADVANCE Pack 套組、駕駛員人偶與專用展示台。",
+    description: "劇場版《マクロスF -サヨナラノツバサ-》是《マクロスF》電視版劇情的延伸與補完，故事後段登場的VF-19 ADVANCE是王牌駕駛員イサム・ダイソン（Isamu Dyson）的座機，其角色個性強悍、崇尚極致性能，為讓調整版VF-19能更貼近原型機YF-19的優異性能，自行改裝而成的特化機型，外型比例由總監督河森正治親自監修，兼顧寫實軍武感與角色個人風格，也呼應了イサム作為前系列作品客串角色的深厚人氣。本品三段變形機構支援腰部旋轉與大範圍張腿等高難度動作，展現DX超合金系列一貫講究的精密關節設計；可拆卸式ADVANCE推進背包是本作辨識度極高的特色配件，套組並首度在DX超合金マクロス系列中附帶「Pin Point Barrier」防護力場特效零件，重現角色戰鬥中展開防護力場的名場面。套組內容包含機體本體、槍械、左右各三種替換手掌、ADVANCE Pack套組、駕駛員人偶與專用展示台，收藏與擺姿玩法兼具，是系列中兼顧武裝豐富度與特效呈現的重點商品。",
     reviews: [
       {
         title: "DX超合金 VF-19 ADVANCE レビュー",
@@ -9687,7 +9687,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10020/",
     imageUrl: "/images/dx-chogokin-vf25s-messiah-ozma-armored-parts-renewal.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25S", "オズマ・リー", "アーマードパーツ", "リニューアルVer.", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer. 本體追加的全套裝甲（ARMORED PACK）套組，魂ウェブ商店限定販售，不含本體。裝設後可重現小隊長 Ozma Lee 座機特有的重裝甲戰鬥形態，機體與裝甲表面均施以霧面消光處理，質感較初版大幅提升，是 VF-25S 系列中份量感與武裝密度最高的配置。",
+    description: "劇場版《マクロスF -サヨナラノツバサ-》延續電視版故事，講述S.M.S部隊隊長オズマ・リー（Ozma Lee）率隊迎戰更為強大的敵人，其座機VF-25S Messiah Valkyrie也隨劇情推進而配備更強大的重裝武裝形態，象徵隊長身分應對高強度戰局的責任與實力，也是全劇後段重要戰役的關鍵機體形態。本品是為DX超合金VF-25Sメサイアバルキリー（オズマ・リー機）リニューアルVer.本體所追加的全套裝甲（ARMORED PACK）擴充套組，屬魂ウェブ商店限定販售商品，本身不含機體本體，須搭配對應的リニューアル版主機才能組裝。裝設後可重現隊長座機特有的重裝甲戰鬥形態，機體與裝甲表面均施以霧面消光處理，質感較初版舊規格大幅提升，細節銳利度與塗裝精細度俱佳。套組整體武裝密度與份量感在VF-25S系列各式擴充配置中屬於數一數二的等級，是喜愛重裝甲造型收藏者的必入商品，也讓オズマ機的收藏形態更臻完整。",
     reviews: [
       {
         title: "リニューアルメサイア用アーマードパーツレビュー",
@@ -9722,7 +9722,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/11562/",
     imageUrl: "/images/dx-chogokin-vf25s-super-parts-renewal.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25S", "オズマ・リー", "スーパーパーツ", "リニューアルVer.", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25S メサイアバルキリー（オズマ・リー機）リニューアルVer. 本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體。全新造型設計以貼合リニューアル版更纖細機身，細節精度與整合度均優於初版超級零件，裝設後可強化機體航程與火力，重現強化超音速追加背包形態。",
+    description: "《マクロスF -サヨナラノツバサ-》中，S.M.S部隊隊長オズマ・リー的座機VF-25S Messiah Valkyrie在劇情推進中歷經多次強化配置，反映隊長身分需具備因應各種戰局的機動彈性，也讓角色專屬機的收藏形態更加豐富多元，深受系列玩家喜愛收集比較不同形態。本品是為DX超合金VF-25Sメサイアバルキリー（オズマ・リー機）リニューアルVer.本體追加的Super Parts套組，屬魂ウェブ商店限定販售商品，本身不含機體本體，須搭配對應的リニューアル版主機才能組裝使用。相較初版舊規格的超級零件，本品採全新造型設計，更貼合リニューアル版經過重新調校、更為纖細俐落的機身比例，細節精度與各部位整合度均有所提升。裝設後可強化機體航程與火力表現，重現原作設定中強化超音速追加背包形態，讓オズマ機在遠距離奔襲或高速戰鬥場景中的裝備樣貌更加完整，是喜愛角色專屬機收藏的重點擴充配件，也是リニューアル系列擴充零件中設計最為精緻的一款。",
     reviews: [],
     youtube: [
       {
@@ -9746,7 +9746,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/dx-chogokin-vf25-messiah-ghost-weapons-set.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25", "メサイア", "ゴースト", "ウェポンズ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25 メサイアバルキリー系列本體追加的魂ウェブ商店限定「ゴースト＆ウェポンズセット」，不含本體。內含ゴースト無人戦闘機一機及配套飛彈、リアクションミサイル、フォールド波通信アンテナ等武裝零件、專用展示台座。年代久遠（2009年發售）官網頁面已下架，officialUrl暫留空，商品圖片取自二手交易平台實物拍攝。",
+    description: "《マクロスF》中VF-25 Messiah Valkyrie系列可變戰機常配合無人僚機「ゴースト」協同作戰，ゴースト無人戦闘機在原作設定中負責提供額外火力支援與誘餌牽制，是S.M.S部隊戰術體系中重要的輔助戰力，也豐富了VF-25系列在戰場上的多樣戰術呈現與視覺演出效果。本品是為DX超合金VF-25メサイアバルキリー系列本體所推出的「ゴースト＆ウェポンズセット」擴充套組，屬魂ウェブ商店限定販售商品，本身不含機體本體，須搭配對應的VF-25系列主機使用。套組內容包含ゴースト無人戦闘機一機，以及配套的飛彈、可鎖定攻擊的リアクションミサイル、用於通訊的フォールド波通信アンテナ等武裝零件，並附專用展示台座，方便玩家同時陳列主機與僚機的協同作戰場景。由於本品發售年代較早（2009年），官方網站頁面現已下架，資訊留存有限，商品圖片係取自二手交易平台實物拍攝，收藏時需留意年代久遠可能伴隨的塗裝或零件耗損狀況，是入手難度較高的早期擴充商品。",
     reviews: [
       {
         title: "DX超合金 VF-25 メサイアバルキリー用 ゴースト＆ウェポンズセット レビュー | アオイ模型店",
@@ -9770,7 +9770,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10626/",
     imageUrl: "/images/dx-chogokin-vf25f-messiah-alto-renewal-tornado-parts.jpg",
     tags: ["macross0004@中壢收多易", "マクロス", "マクロスF", "VF-25F", "早乙女アルト", "トルネードパーツ", "リニューアルVer.", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 VF-25F メサイアバルキリー（早乙女アルト機）リニューアルVer. 本體追加的 Tornado Parts 套組，魂ウェブ商店限定販售，不含本體。裝上後可重現劇場版《サヨナラノツバサ》中アルト機的強化龍捲風推進裝甲形態，是アルト機在 VF-25F 系列中火力最強的形態。",
+    description: "劇場版《マクロスF -サヨナラノツバサ-》中，主角早乙女アルト（Alto Saotome）駕駛的VF-25F Messiah Valkyrie在劇情推進中屢次配備強化裝備，以因應日益激烈的戰鬥局面，是S.M.S部隊裡火力與機動性兼備的主角專屬機代表，其多種形態變化也是系列收藏中的熱門主題。本品是為DX超合金VF-25Fメサイアバルキリー（早乙女アルト機）リニューアルVer.本體追加的トルネードパーツ（Tornado Parts）擴充套組，屬魂ウェブ商店限定販售商品，本身不含機體本體，須搭配對應的リニューアル版主機組裝使用。裝上後可重現劇場版中アルト機經強化推進裝甲、化身「龍捲風」形態應戰的經典畫面，強化裝甲設計兼具視覺張力與武裝密度，是アルト機在VF-25F系列各式配置形態中火力表現最為強悍的一種，對於希望收藏主角機完整形態變化的玩家而言是不可或缺的擴充配件，也是系列中人氣居高不下的限定商品。",
     reviews: [
       {
         title: "DX超合金 VF-25F トルネードメサイアバルキリー(早乙女アルト機) リニューアルVer.",
@@ -9800,7 +9800,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tf.takaratomy.co.jp/products-lineup/tf_bb/bb-03",
     imageUrl: "/images/mpm-07-bumblebee.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "Bumblebee", "大黃蜂", "MPM", "Masterpiece Movie", "Takara Tomy"],
-    description: "《大黃蜂》電影版的傑作級（Masterpiece Movie）大黃蜂，車型還原 1967 年金龜車（VW Beetle），是大黃蜂在電影中登陸地球時的初代載具形態，也呼應了 1984 年 G1 初代玩具的甲蟲車設定。機器人型態頭雕經過重新設計，減少骷髏感、更貼近電影造型，可收納出隱藏的戰鬥面罩，並附有替換武器與可動手指關節。",
+    description: "《變形金剛》真人電影系列由麥可貝執導首部曲起，將擎天柱、大黃蜂等賽博坦戰士首度以寫實機械質感搬上大銀幕，掀起全球變形玩具熱潮，也讓「大黃蜂」這個角色從配角逐步躍升為系列人氣代表，並在後續獨立前傳電影《大黃蜂》中成為真正主角，講述牠初抵地球、與少女相遇並肩作戰的溫馨故事，是系列作品中情感面最為濃厚的一部。本品為「傑作級電影版（Masterpiece Movie，MPM）」系列規格，車型還原1967年金龜車（VW Beetle），呼應大黃蜂在電影中初登陸地球時偽裝採用的載具形態，同時也巧妙呼應1984年G1初代玩具經典的甲蟲車設定，串連新舊世代粉絲情懷。機器人型態頭雕經過重新設計調整，減少過去電影版本常見的骷髏感、更貼近電影原始造型的飽滿線條，並可收納變化出隱藏式戰鬥面罩，套組並附有替換武器與講究的可動手指關節，兼顧變形玩法與人形態的細膩擺姿表現，是MPM系列中人氣與還原度俱佳的代表商品。",
     reviews: [
       {
         title: "【評測】變形金剛 MPM-7 開箱 大黃蜂電影版 經典G1甲蟲車造型",
@@ -9835,7 +9835,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tf.takaratomy.co.jp/products-lineup/tf_mpm/mpm-8",
     imageUrl: "/images/mpm-08-megatron.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "Megatron", "密卡登", "MPM", "Masterpiece Movie", "Takara Tomy"],
-    description: "還原 2007 年《變形金剛》首部曲狂派首領密卡登的傑作電影系列玩具，外星戰機型態線條銳利、氣勢十足，機器人型態頭雕與尖銳裝甲高度重現電影原始設計，銀色塗裝搭配深灰色件與金色細節。附有胸口方塊能量核心艙、可延伸的手部鞭狀武器，以及可自由組裝的手臂加農炮，是 MPM 系列中還原度與完成度均獲肯定的一作。",
+    description: "《變形金剛》真人電影系列首部曲於2007年上映，由麥可貝執導，講述狂派首領密卡登（Megatron）率領麾下戰士降臨地球，與博派展開激烈爭奪能量塊「火種源」的戰爭，開啟後續系列電影的世界觀基礎，密卡登陰狠強悍的領袖形象也成為真人電影版的經典反派代表，深植廣大影迷心中。本品為「傑作級電影版（Masterpiece Movie，MPM）」系列規格，還原首部曲中密卡登的外星戰機型態，線條銳利、氣勢十足，機器人型態頭雕與尖銳裝甲高度重現電影原始設計細節，銀色主體塗裝搭配深灰色件與金色細節點綴，呈現冷冽而威嚴的反派氣場。套組配件講究，附有胸口方塊能量核心艙、可延伸伸縮的手部鞭狀武器，以及可自由組裝變化的手臂加農炮，兼顧變形機構與武裝玩法的豐富性，是MPM系列中在整體還原度與商品完成度上都獲得高度評價的一作，也是系列反派角色收藏中不可或缺的重點商品。",
     reviews: [
       {
         title: "狂暴的破壞大帝霸氣現身！！ 孩之寶 傑作電影系列《變形金剛》密卡登 Megatron MPM-08",
@@ -9870,7 +9870,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://takaratomymall.jp/shop/g/g4904810163770/",
     imageUrl: "/images/mpm-11-ratchet.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "Ratchet", "救護車", "MPM", "Masterpiece Movie", "Takara Tomy"],
-    description: "傑作電影系列第 11 彈，重現電影首部曲中汽車人隨軍醫療兵救護車，載具型態為悍馬 H2 越野救援車，肩負搶險救災任務的多功能載具。歷經約三年半的產品開發，MPM 系列首波五位汽車人（擎天柱、大黃蜂、爵士、鐵皮、救護車）終於補齊最後一位成員。機器人型態車頂需經多道折疊才能貼合背部，每處折疊皆有穩固卡榫固定，並附鋸片、雷射砲、雙臂飛彈等替換武裝配件。",
+    description: "《變形金剛》真人電影三部曲於2007年開啟系列先河，奠定往後十餘年變形金剛電影宇宙的視覺美學基礎，博派五人組（擎天柱、大黃蜂、爵士、鐵皮、救護車）作為人類最早接觸的汽車人代表，成為影迷心中經典班底。救護車在片中身為隨軍醫療兵，載具型態選用悍馬H2越野救援車，象徵其後勤支援與搶險救災的角色定位，雖非戰鬥主力，卻是博派不可或缺的後盾。Takara Tomy「Masterpiece Movie」傑作電影系列以高度忠實電影CG設計為訴求，MPM-11作為系列第十一彈，耗時約三年半開發，終於補齊首波五人組最後一塊拼圖。機器人型態的車頂收納需經多道精密折疊才能完全貼合背部，每一折疊點皆設計穩固卡榫確保外觀俐落不鬆散，並標配鋸片、雷射砲與雙臂飛彈等替換武裝配件，兼顧收藏擺設與武裝場景重現的雙重樂趣，是傑作電影系列中補完陣容意義重大的一件作品。此外，本體塗裝細膩重現急救車輛應有的十字醫療標誌與警示反光細節，機器人型態胸口與肩部保留悍馬車體元素，兼顧變形合理性與角色識別度。作為傑作電影系列補完最後一塊拼圖的關鍵商品，對於已收藏前四位成員的玩家而言，本作是完整重現電影首部曲博派陣容不可或缺的收藏品，展示櫃上五人並列的畫面極具紀念意義。",
     reviews: [
       {
         title: "变形金刚玩具 篇三百零二：第一波汽车人到齐了——MPM11救护车开箱",
@@ -9906,7 +9906,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tfsource.com/uniquetoys/r-02-challenger/",
     imageUrl: "/images/utr-02-challenger.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "擎天柱", "三方廠", "UniqueToys", "Challenger", "The Last Knight"],
-    description: "三方廠 UniqueToys「R」系列之一，以《變形金剛：最終騎士》電影版擎天柱（騎士擎天柱）為原型設計的原創詮釋玩具，型號 R-02，暱稱「Challenger（挑戰者）」。此為一般配色版本，採用經典紅藍配色搭配火焰塗裝。載具型態為北美重型卡車，機器人型態身披厚重鎧甲，標配長劍、盾牌、手刃、短劍、權杖等8款配件，變形結構採胸腔與腿部内外翻轉的方式，完成度與可動性在同類三方擎天柱商品中評價優異。",
+    description: "《變形金剛：最終騎士》為真人電影系列第五部作品，將亞瑟王傳說與變形金剛設定結合，賦予擎天柱全新中世紀騎士風格造型，配色維持經典紅藍主調並加入烈焰紋路塗裝，成為該片視覺焦點之一。三方廠UniqueToys「R」系列以電影版角色為藍本進行原創詮釋開發，R-02「Challenger（挑戰者）」即取材自此一騎士擎天柱造型，此為一般配色版本。載具型態重現北美常見的重型卡車樣式，機器人型態則披掛厚重鎧甲裝甲片，視覺份量感十足，符合角色作為博派領袖的威嚴形象。變形結構採胸腔與腿部内外翻轉方式，兼顧完成度與可動性，在同類三方擎天柱商品中素有佳評。標準配備長劍、盾牌、手刃、短劍、權杖等八款配件，可自由替換擺出多種持械姿態，滿足玩家重現電影經典場面與自由創作雙重需求，是三方廠MP比例擎天柱收藏中不可忽視的一員。包裝設計與商品定位皆瞄準MP尺寸收藏線，方便玩家與Takara Tomy正廠MPM系列同台比較展示。頭雕細節力求貼近電影原始設計的稜角與神情，胸口車燈與進氣口等載具元素亦保留清晰可辨識度，展現三方廠近年在原創詮釋商品上兼顧忠實還原與自我風格詮釋的開發水準，是喜愛電影版擎天柱多樣造型的玩家值得入手的一件作品。",
     reviews: [
       {
         title: "挑战者版本太多分不清？看这篇就够啦",
@@ -9937,7 +9937,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tfsource.com/unique-toys/r-03-dragoon-with-base-unique-toys/",
     imageUrl: "/images/utr-03-dragoon.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "威震天", "三方廠", "UniqueToys", "Dragoon", "The Last Knight"],
-    description: "三方廠 UniqueToys「R」系列之一，型號 R-03「Dragoon（巨龍）」，以《變形金剛：最終騎士》電影版威震天（騎士威震天）為原型的原創詮釋玩具。全身銀灰色金屬質感塗裝，機器人型態肩部與背部帶有尖銳龍翼造型裝甲，附有可發光效果（LED三段式）的融合加農炮、長劍及盾牌等配件，並隨附一顆擎天柱頭雕作為彩蛋。變形機制為人形軀幹內翻收納出機首、腿部翻出機翼與進氣口，完成後可變為星際戰機造型。",
+    description: "承接《變形金剛：最終騎士》電影版設定，威震天在本片中以「騎士威震天」形象登場，融合中世紀鎧甲與龍族意象，塑造出比過往更具邪異威脅感的反派造型。三方廠UniqueToys「R」系列R-03「Dragoon（巨龍）」即以此形象為藍本進行原創詮釋，全身採銀灰色金屬質感塗裝，呼應威震天冷硬機械化的角色本質。機器人型態肩部與背部裝有尖銳龍翼造型裝甲，強化其如龍似魔的視覺震撼力，變形機制由人形軀幹內翻收納出機首、腿部翻出機翼與進氣口，完成後化身為星際戰機造型，重現角色能夠遨遊星際的設定。武裝配件包含可發光效果（LED三段式）的融合加農炮、長劍及盾牌，光效設計大幅提升桌面展示效果與臨場感，並隨附一顆擎天柱頭雕作為彩蛋收藏，呼應宿敵對決的系列主軸，是三方廠威震天詮釋作品中兼具造型張力與遊玩機構的代表作。包裝定位同屬三方廠MP尺寸收藏系列，機體整體比例與細節密度足以與正廠商品分庭抗禮。頭雕表情陰鷙冷酷，胸口反應爐與肩部結構線條銳利，充分傳達威震天身為狂派最高領袖應有的壓迫氣場。對於同時收藏R系列擎天柱與威震天的玩家而言，兩者並列展示更能凸顯電影版正邪對峙的視覺張力，是三方廠原創詮釋商品中人氣頗高的一件作品。",
     reviews: [
       {
         title: "我回来了——UT电影威震天开箱",
@@ -9968,7 +9968,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tfsource.com/3rd-party-figures/r-04-nero-unique-toys/",
     imageUrl: "/images/utr-04-nero.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "Galvatron", "威震天", "三方廠", "UniqueToys", "Nero", "Age of Extinction"],
-    description: "三方廠 UniqueToys「R」系列之一，型號 R-04「Nero（尼祿）」，以《變形金剛4：絕跡重生》電影版威震天（Galvatron）為原型的原創詮釋玩具。載具型態為大型半掛聯結車，機器人型態頭部雕刻與胸口反應爐造型高度還原電影設計，配備多處管線與金屬質感塗裝細節，MP比例可與其他三方廠電影系列擎天柱、禁閉等機體同台展示。",
+    description: "《變形金剛4：絕跡重生》為真人電影系列重新啟動篇章，故事將舞台轉往新一代主角，威震天則以殘軀重生之姿化身為「Galvatron」，成為背後操縱局勢的隱藏反派，其造型設計更趨工業機械感與粗獷質地。三方廠UniqueToys「R」系列R-04「Nero（尼祿）」即取材此一電影版Galvatron形象進行原創詮釋，載具型態選用大型半掛聯結車，符合角色隱身於人類社會、伺機而動的敘事定位。機器人型態頭部雕刻與胸口反應爐造型高度還原電影原始設計，力求捕捉角色重生後略顯殘破卻又蓄勢待發的氣質，配備多處外露管線與金屬質感塗裝細節，強化機械滄桑感。此商品採MP（Masterpiece）相近比例規格開發，可與其他三方廠電影系列擎天柱、禁閉等機體同台展示比對，方便玩家依電影時間軸完整重現絕跡重生篇章的陣容對峙場面。商品整體塗裝著重表現金屬鏽蝕與磨損質感，呼應角色重生軀體殘破卻仍具威脅性的設定基調，頭部細節與胸口反應爐的雕刻線條經過精心考究，力求在有限比例下傳達電影原設計的機械複雜感。作為三方廠絕跡重生篇章詮釋商品之一，本作也方便玩家與同系列禁閉、擎天柱等機體組合展示，重現電影新舊角色交鋒的完整場景陣容，收藏價值頗受同好肯定。",
     reviews: [
       {
         title: "Review: Unique Toys R-04 Nero (part 1)",
@@ -9999,7 +9999,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.actionfigure411.com/transformers/masterpiece/special-edition/starscream-mpm-10-10733.php",
     imageUrl: "/images/tf-mpm-10-starscream.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "紅蜘蛛", "Masterpiece Movie", "MPM", "Takara Tomy", "Hasbro"],
-    description: "Takara Tomy／Hasbro「Masterpiece Movie Series」正廠商品，取材自2007年首部真人電影版《變形金剛》中反派星星叫（Starscream，中文玩家圈暱稱「天王星」或「紅蜘蛛」）。以電影CAD原始設計為藍本，可變形為Lockheed Martin F-22 Raptor戰機，機器人型態擁有50個以上可動點、可動嘴部與可翻折推進器，標配飛彈及圓鋸臂配件與加特林機炮，全63道變形步驟高度還原電影細節，是MPM系列公認的高完成度作品之一。",
+    description: "星星叫（Starscream）作為狂派中野心勃勃、屢屢覬覦領袖之位卻又機關算盡難成大器的經典角色，自1980年代動畫起便深植變形金剛粉絲心中，2007年首部真人電影版延續其反覆無常、詭計多端的性格設定，中文玩家圈亦暱稱其為「天王星」或「紅蜘蛛」。Takara Tomy／Hasbro「Masterpiece Movie Series」傑作電影系列以電影原始CAD設計資料為開發藍本，MPM-10即為此角色的正廠立體化商品，可完全變形為Lockheed Martin F-22 Raptor隱形戰機，呼應角色在電影中作為狂派空戰主力的設定。機器人型態擁有50個以上可動點，關節活動範圍充足，並具備可動嘴部與可翻折推進器等細節機構，標配飛彈、圓鋸臂配件與加特林機炮等武裝，重現角色好戰又狡詐的形象。全商品共63道變形步驟，高度還原電影機械細節，是MPM系列公認完成度極高、深獲玩家肯定的代表作之一。商品包裝延續傑作電影系列一貫的沉穩配色設計，並附詳細變形步驟說明書，兼顧收藏展示與實際把玩的雙重需求。機翼與尾翼細節塗裝精緻，載具型態的空氣力學線條流暢，充分重現F-22 Raptor隱形戰機的銳利外型。對於收藏傑作電影系列擎天柱、大黃蜂等正派成員的玩家而言，加入星星叫更能完整呈現電影首部曲正邪雙方對峙的陣容規模，是系列中不可或缺的反派代表商品。",
     reviews: [],
     youtube: [
       {
@@ -10024,7 +10024,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tfsource.com/iron-warrior/iw06-jet-power-armor/",
     imageUrl: "/images/iw-06-jet-power-armor.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "擎天柱", "三方廠", "Iron Warrior", "升級套組", "Revenge of the Fallen"],
-    description: "三方廠 Iron Warrior 推出的擎天柱升級外掛套組，設計靈感來自《變形金剛：復仇之戰》結局中鐵霸犧牲自我、擎天柱吸收其部件後化身「噴射動力擎天柱（Jet Power Prime）」的經典場面。套組本身不含擎天柱本體，需搭配 Takara Tomy MPM-04 擎天柱組裝，可安裝於其背部與四肢，形成大型噴射戰機外骨骼，具備可動機翼、可拆卸反應爐及紅藍黑三色塗裝的武裝配件，組裝完成後份量感十足。",
+    description: "《變形金剛：復仇之戰》劇情高潮處，博派老將鐵霸（Jetfire）為助擎天柱擊敗強敵，選擇犧牲自我，讓擎天柱吸收其部件與噴射動力系統，蛻變為視覺與戰力皆大幅躍升的「噴射動力擎天柱（Jet Power Prime）」，成為該片最令粉絲津津樂道的高潮場面之一。三方廠Iron Warrior推出的IW-06即是以此經典橋段為靈感開發的擎天柱升級外掛套組，套組本身不含擎天柱本體，需搭配Takara Tomy正廠MPM-04擎天柱組裝使用，安裝於本體背部與四肢後，可組成大型噴射戰機外骨骼裝甲，重現角色吸收鐵霸後的強化形態。套組具備可動機翼與可拆卸反應爐等機構設計，並採紅藍黑三色塗裝呼應原版擎天柱與鐵霸的配色元素，整體組裝完成後份量感與威壓感十足，是MPM-04擎天柱收藏者用以重現電影終幕經典畫面的重要延伸擴充配件。商品開發時特別考量與MPM-04本體的接合穩固度，避免因額外重量造成關節鬆脫，確保整體展示時能維持挺立姿態。機翼與推進器細節皆經過精密雕刻，呼應電影中角色升空作戰的空戰機能設定。對於已收藏MPM-04擎天柱本體的玩家而言，本套組是重現電影終幕經典強化橋段不可或缺的延伸配件，也讓收藏展示更具層次與故事完整性，深受電影系列擎天柱收藏者青睞。",
     reviews: [
       {
         title: "Review: Iron Warrior IW-06 Jet Power Armor – Optimus Prime Upgrade",
@@ -10060,7 +10060,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tfsource.com/uniquetoys/r-01-peru-kill/",
     imageUrl: "/images/r-01-peru-kill.jpg",
     tags: ["TF0001@中壢收多易", "トランスフォーマー", "Lockdown", "禁閉", "三方廠", "UniqueToys", "Peru Kill", "Age of Extinction"],
-    description: "三方廠 UniqueToys「R」系列之一，型號 R-01「Peru Kill（秘魯殺手）」，以《變形金剛4：絕跡重生》電影版懸賞獵人禁閉（Lockdown）為原型的原創詮釋玩具。載具型態為藍寶堅尼 Aventador LP700-4 超跑，深色系塗裝搭配泛黃色調的頭部面罩鏡片，冷酷陰狠的角色形象重現度高。附可掛載於頭部的狙擊步槍、代表電影麥高芬「種子」的銀漆道具，以及機械犬型寵物配件，機器人型態關節可動範圍大、載具細節精緻。",
+    description: "禁閉（Lockdown）於《變形金剛4：絕跡重生》中登場，設定為遊走星際、不隸屬博派狂派任何一方的懸賞獵人，性格冷酷、行事不擇手段，專門為神秘勢力KSI獵捕變形金剛個體以換取利益，是該片頗具魅力的灰色地帶反派角色。三方廠UniqueToys「R」系列R-01「Peru Kill（秘魯殺手）」即取材自此一角色進行原創詮釋，載具型態選用藍寶堅尼Aventador LP700-4超跑，貼合禁閉獵人身分所需的速度感與高級感。整體採深色系塗裝，搭配泛黃色調的頭部面罩鏡片，將角色陰狠冷酷的形象重現度極高。標準配件包含可掛載於頭部的狙擊步槍、代表電影麥高芬「種子」的銀漆道具，以及呼應原作機械犬夥伴設定的寵物配件，機器人型態關節可動範圍寬廣，載具細節刻畫精緻，是三方廠絕跡重生系列中角色詮釋與完成度俱佳的作品。商品整體比例與細節密度貼近MP收藏規格，方便與其他三方廠電影版角色同台展示比對。載具型態車身線條流暢，車燈與輪圈細節刻畫用心，機器人型態的肩部裝甲與武裝掛載設計亦充分保留角色的獵人機能形象。對於喜愛電影版反派多樣詮釋的玩家而言，本作是重現絕跡重生篇章禁閉獨特魅力不可或缺的一件收藏，也可與擎天柱、Galvatron等同系列機體組合成完整電影對峙場景。",
     reviews: [
       {
         title: "让人着迷的玩具（3）—UT PeruKill禁闭",
@@ -10090,7 +10090,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2020/1000139189.html",
     imageUrl: "/images/super-minipla-gaogaigo.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "ガオガイゴー", "覚醒人凱号", "ステルスガオーII", "ライナーガオーII", "ドリルガオーII", "バンダイキャンディ", "食玩", "勇者シリーズ", "P-Bandai限定"],
-    description: "「スーパーミニプラ 勇者王ガオガイガー ガオガイゴー」是BANDAI食玩事業部Premium Bandai限定商品，2020年1月出貨，延續《勇者王ガオガイガー》系列機體陣容。以全新造形的「覚醒人凱号」為核心，可透過「アクセプトモード（凱号）」與「アクティブモード（ガイゴー）」兩形態完全變形重現，套組並同梱歷代ガオーマシン「ステルスガオーII」、「ライナーガオーII」、「ドリルガオーII」。色分再現度高，幾乎無需貼紙即可達成高完成度變形效果。",
+    description: "《勇者王ガオガイガー》為日昇「勇者系列」後期集大成之作，故事描述地球防衛組織GGG對抗來自宇宙的機械生命體ゾンダー，主角勇者王ガオガイガー結合了獅子與獸型機械的合體變形設計，深受特攝與機甲迷喜愛。「覚醒人凱号」是劇中登場的支援型機體，可透過「アクセプトモード（凱号）」與「アクティブモード（ガイゴー）」兩種形態進行完全變形，呼應原作中角色依戰況切換型態支援主力作戰的設定。本商品為BANDAI食玩事業部「スーパーミニプラ」系列出品，屬Premium Bandai限定商品，2020年1月出貨，以全新造形重現覚醒人凱号本體，並同梱歷代ガオーマシン夥伴「ステルスガオーII」、「ライナーガオーII」、「ドリルガオーII」，方便玩家搭配既有收藏擴充陣容。色分再現度高，組裝過程幾乎無需額外貼紙輔助即可達成高完成度變形效果，深受勇者系列食玩收藏者喜愛。商品包裝內附詳細組裝說明圖示，兼顧新手與資深玩家的組裝體驗，關節可動範圍設計充分考量兩種形態切換時的結構強度。整體塗裝配色忠實還原動畫設定色彩，金屬感塗裝處理提升整體質感層次。對於長年收藏勇者王系列SUPER MINIPLA商品的玩家而言，本作補齊了覚醒人凱号與歷代ガオーマシン的完整陣容，是勇者王系列食玩收藏線中相當重要的一件延伸商品。",
     reviews: [
       {
         title: "スーパーミニプラ 「勇者王ガオガイガー ガオガイゴー」 レビュー",
@@ -10125,7 +10125,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/1000162717.html",
     imageUrl: "/images/smp-gaoknight.jpg",
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "百獣戦隊ガオレンジャー", "Gaoranger", "ガオナイト", "GaoKnight", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
-    description: "「SMP 百獣合体ガオナイト」是BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列出品，出自2001年《百獣戦隊ガオレンジャー》電影版限定登場的精靈騎士「ガオナイト」，屬於Premium Bandai限定商品，2022年1月出貨。全新造形西洋騎士風格頭部，配備武器變形的百獸ガオエレファント，並同梱與SMP ガオキング相同的百獸夥伴ガオコンドル、ガオシャーク、ガオタイガー、ガオバイソン（異色版）。注意：本品名稱雖與GaoGaiGar系列相似，但實際franchise為《百獣戦隊ガオレンジャー》特攝戰隊系列，並非勇者王GaoGaiGar作品。",
+    description: "《百獣戦隊ガオレンジャー》是東映超級戰隊系列2001年作品，以「動物力量」為核心設定，戰隊成員借助百獸之力戰鬥，風格明快熱血。ガオナイト（精靈騎士）為該系列電影版限定登場的神秘機體，設定上並非電視本傳固定戰力，而是關鍵時刻現身相助的西洋騎士風格夥伴，造型上與電視版百獸機體風格略有差異，別具特色。本商品「SMP 百獣合体ガオナイト」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定商品，2022年1月出貨，採全新造形重現騎士風格頭部設計，配備可武器化變形的百獸ガオエレファント，並同梱與另一款SMP ガオキング相同的百獸夥伴ガオコンドル、ガオシャーク、ガオタイガー及其異色版ガオバイソン，方便玩家跨商品組裝擴充。需特別留意，本品名稱雖與《勇者王GaoGaiGar》相似，實為《百獣戦隊ガオレンジャー》特攝戰隊作品，並非同一franchise。商品組裝過程色分精細，關節結構穩固耐玩，兼顧變形機構的順暢度與展示姿態的穩定性。頭部騎士造型與其他百獸機體相比別具異國風情，展現原作電影版嘗試突破電視版既有美術風格的巧思。對於同時收藏SMP百獣戦隊ガオレンジャー系列多款商品的玩家而言，本作補齊了電影版限定機體的重要拼圖，也讓百獸機體陣容更加完整多元，具備一定的系列收藏意義。",
     reviews: [
       {
         title: "【SMP・ガオナイト】素組みレビュー＆改修箇所洗い出し！！",
@@ -10149,7 +10149,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/4549660627968000.html",
     imageUrl: "/images/smp-gaohunter.jpg",
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "百獣戦隊ガオレンジャー", "Gaoranger", "ガオハンター", "GaoHunter", "ガオウルフ", "ガオハンマーヘッド", "ガオアリゲイター", "スーパー戦隊", "バンダイキャンディ", "食玩"],
-    description: "「SMP 百獣合体ガオハンター」是BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列出品，出自2001年特攝戰隊作品《百獣戦隊ガオレンジャー》，2022年1月24日發售。由ガオウルフ、ガオハンマーヘッド、ガオアリゲイター三隻百獸合體而成，可重現「ガオハンターEvil」與「ガオハンターJustice」兩種形態，並可與其他另售百獸零件相容擴充。上下半身分離可變形為巨劍與盾牌，色分塗裝精緻。與GaoKnight同屬《百獣戦隊ガオレンジャー》系列，並非勇者王GaoGaiGar作品。",
+    description: "《百獣戦隊ガオレンジャー》延續東映超級戰隊系列以動物力量為主題的傳統，除了主角合體機甲外，反派陣營同樣擁有能與正義百獸機體抗衡的合體兵器，ガオハンター即為劇中極具張力的正邪對抗象徵之一，設定上可依附體歸屬而呈現善惡兩種樣貌。本商品「SMP 百獣合体ガオハンター」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列出品，2022年1月24日發售，由ガオウルフ、ガオハンマーヘッド、ガオアリゲイター三隻百獸機體合體而成，可重現「ガオハンターEvil」與「ガオハンターJustice」兩種形態切換，重現原作中依善惡立場轉化的劇情張力。合體本體上下半身可分離變形為巨劍與盾牌兩種武裝型態，並可與其他另售百獸零件相容擴充組裝，色分塗裝精緻、無需額外上色即具備高完成度。與GaoKnight同屬《百獣戦隊ガオレンジャー》系列作品，並非勇者王GaoGaiGar相關商品。商品組裝步驟明確，三隻百獸機體各自結構獨立又能緊密合體咬合，展現食玩商品少見的高精度工程設計。武裝形態轉換過程流暢，巨劍與盾牌造型棱角分明，充分傳達反派兵器應有的攻擊性與防禦感。對於收藏《百獣戦隊ガオレンジャー》系列SMP商品的玩家而言，本作與ガオナイト形成正邪對照，補齊了該系列反派機體陣容，具有相當的系列收藏完整度意義。",
     reviews: [],
     youtube: [
       {
@@ -10173,7 +10173,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660583677000.html",
     imageUrl: "/images/super-minipla-fighbird.jpg",
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "太陽の勇者ファイバード", "Fighbird", "武装合体ファイバード", "アンドロイド火鳥勇太郎", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ"],
-    description: "「SMP 太陽の勇者ファイバード」是BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列出品，2021年9月27日發售，取材自1991年動畫《太陽の勇者ファイバード》。本作為系列第一彈，可從噴射機形態變形為「アンドロイド火鳥勇太郎」人形態，再合體重現「武装合体ファイバード」，附贈金色勇者之劍。全3種一套集齊，並與後續推出的ファイバード2形成聯動擴充。",
+    description: "《太陽の勇者ファイバード》為日昇「勇者系列」第二部作品，1991年播出，承接《勇者エクスカイザー》確立系列往後由人類搭檔與勇者機器人並肩作戰的敘事公式，主角アンドロイド火鳥勇太郎兼具人形與戰機雙重身分，是系列中頗具代表性的搭檔設定。本商品「SMP 太陽の勇者ファイバード」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列第一彈，2021年9月27日發售，可從噴射機形態變形為アンドロイド火鳥勇太郎人形態，再進一步合體重現主角機「武装合体ファイバード」，完整呈現原作三段式變形合體機構。標配金色勇者之劍作為武裝配件，呼應勇者系列一貫的正義劍術意象。全套共3種零件需集齊組裝，並可與後續推出的ファイバード2形成聯動擴充，構成系列收藏的重要起點，深受勇者系列與食玩玩家的關注。商品組裝步驟循序漸進，三段式變形機構設計流暢自然，兼顧食玩商品應有的親民組裝難度與完成後的展示質感。配色塗裝忠實重現1991年動畫設定色彩，金色勇者之劍細節雕刻立體，握持感穩固。對於收藏勇者系列SUPER MINIPLA／SMP商品線的玩家而言，本作是系列起點的重要一環，後續延伸商品皆以此為基礎擴充，具備承先啟後的收藏意義。",
     reviews: [],
     youtube: [
       {
@@ -10202,7 +10202,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/1000162722.html",
     imageUrl: "/images/smp-fighbird-dryas.jpg",
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "太陽の勇者ファイバード", "Fighbird", "ドライアス", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ", "P-Bandai限定"],
-    description: "「SMP 太陽の勇者ファイバード ドライアス」是Premium Bandai限定食玩模型，取材自《太陽の勇者ファイバード》反派巨大機體「ドライアス」，由デスイーグル、デスタイガー、デスドラゴン三台動物機合體變形而成，全高約175mm，與主角機ファイバード形成鮮明體型對比。標配「デスブレード」音叉造型武器及多種替換手型，重現原作中複雜的合體變形機構，開發耗時逾一年，可噴射機形態收納並具備豐富可動關節。",
+    description: "ドライアス是《太陽の勇者ファイバード》劇中登場的巨大反派機體，由デスイーグル、デスタイガー、デスドラゴン三台動物型機械合體變形而成，設定上與主角機ファイバード形成強烈的正邪對峙關係，也是勇者系列中頗具存在感的反派巨獸代表。本商品「SMP 太陽の勇者ファイバード ドライアス」為Premium Bandai限定食玩模型，全高約175mm，體型明顯大於主角機，重現劇中反派機體壓迫感十足的視覺份量。標準配備「デスブレード」音叉造型武器，以及多種替換手型配件，可擺出豐富的戰鬥姿勢，重現原作中結構複雜的合體變形機構，官方表示開發耗時逾一年方才完成。整體可收納變形為噴射機形態便於展示與收藏，關節可動範圍豐富，是《太陽の勇者ファイバード》系列反派陣容中份量十足的一件收藏作品，適合搭配主角機組成完整對戰場景。商品整體塗裝以暗沉色調為主，搭配局部金屬光澤處理，強化反派機體陰森詭譎的視覺氛圍，與主角機明亮色系形成強烈對比。三台動物機合體介面設計精密，兼顧結構穩固與變形順暢度。對於收藏《太陽の勇者ファイバード》系列SMP商品的玩家而言，本作補齊了劇中最具威脅性的反派陣容，讓正邪雙方展示更加完整，是系列收藏中份量感十足的重要延伸商品。",
     reviews: [],
     youtube: [
       {
@@ -10226,7 +10226,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000161607.html",
     imageUrl: "/images/miniplus-battle-caesar-robo.jpg",
     tags: ["smp0001@中壢收多易", "機界戦隊ゼンカイジャー", "Zenkaiger", "バトルシーザーロボ", "ミニプラ", "全界合体シリーズ", "バンダイキャンディ", "食玩", "スーパー戦隊", "P-Bandai限定"],
-    description: "「ミニプラ 全界合体シリーズ PB バトルシーザーロボ」是Premium Bandai限定食玩模型，取材自《機界戦隊ゼンカイジャー》反派幹部ステイシーザー專用的巨大暗黒ロボ「バトルシーザーロボ」，以英雄比例造型忠實還原原作深沉配色，腳踝、腳趾等關節可動範圍優異，支援豐富動作姿勢。標配「ダークパワー」、「ステイシールド」及雙劍「ソードシーザー」等武裝，並附替換頭部零件可重現強化型態「バトルシーザーロボ2世」。",
+    description: "《機界戦隊ゼンカイジャー》為東映超級戰隊系列2021年作品，以「玩具」與「機械生命體」為核心概念，敵我雙方皆由變形玩具化的角色構成，風格詼諧且富含向歷代戰隊致敬的巧思。バトルシーザーロボ是劇中反派幹部ステイシーザー所駕駛的專用巨大暗黒ロボ，配色深沉陰暗，與正義方英雄機體形成強烈對比，象徵敵對陣營的壓迫感。本商品「ミニプラ 全界合体シリーズ PB バトルシーザーロボ」為Premium Bandai限定食玩模型，以近似英雄比例的造型忠實還原原作深沉配色設計，腳踝、腳趾等下肢關節可動範圍表現優異，支援豐富的動作姿勢擺放，展示效果出色。標配「ダークパワー」、「ステイシールド」及雙劍「ソードシーザー」等武裝配件，並附替換頭部零件，可重現強化型態「バトルシーザーロボ2世」，滿足玩家重現劇情不同階段造型變化的收藏需求。商品整體造型比例厚實穩重，符合反派巨大機體應有的壓迫存在感，關節結構在確保可動性之餘也兼顧展示時的穩定站立。武裝配件細節刻畫精緻，劍身與盾牌邊緣線條銳利，充分傳達戰隊反派兵器的攻擊性。對於收藏《機界戦隊ゼンカイジャー》系列全界合体ミニプラ商品的玩家而言，本作是補齊反派陣容不可或缺的一員，也讓正邪雙方展示更臻完整。",
     reviews: [
       {
         title: "【ミニプラ・バトルシーザーロボ】素組みレビュー＆改修箇所洗い出し！！ | のどかな日常",
@@ -10250,7 +10250,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660543077000.html",
     imageUrl: "/images/super-minipla-trider-g7.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "無敵ロボ トライダーG7", "Trider G7", "バンダイキャンディ", "食玩", "サンライズ"],
-    description: "「スーパーミニプラ 無敵ロボ トライダーG7」是BANDAI食玩事業部出品，2021年5月24日發售，取材自1980–1981年日本サンライズ製作機器人動畫《無敵ロボ トライダーG7》。全3種組件（頭部＆武器、胴體、腿部）集齊後可組成完整トライダーG7本體，具備3段式頭部變形機構，並可進一步變形為「トライダー・イーグル」與「トライダー・コスミック」形態，另附有可換裝的Bird Attack模式胸部零件。",
+    description: "《無敵ロボ トライダーG7》為日本サンライズ於1980至1981年間製作的機器人動畫作品，故事描述少年駕駛巨大機器人トライダーG7對抗外星侵略者，設計風格帶有濃厚昭和機器人動畫特色，是許多老玩家的童年回憶之一。本商品「スーパーミニプラ 無敵ロボ トライダーG7」為BANDAI食玩事業部出品，2021年5月24日發售，全套分為頭部＆武器、胴體、腿部共3種組件，集齊後可組裝成完整トライダーG7本體，重現主角機的標誌性造型。機體具備3段式頭部變形機構，設計別具巧思，並可進一步變形為「トライダー・イーグル」與「トライダー・コスミック」兩種延伸形態，重現原作中依戰況切換裝備的設定。另隨附可換裝的Bird Attack模式胸部零件，增添遊玩變化與收藏樂趣，是懷舊機器人動畫食玩化的代表作品之一。商品組裝步驟循序漸進，三種組件之間的合體介面設計精密咬合，兼顧食玩商品應有的親民難度與完成後的穩固手感。塗裝配色忠實重現1980年代動畫設定色彩，頭部變形機構的巧妙設計是本作一大亮點。對於喜愛懷舊機器人動畫立體化商品的玩家而言，本作重現了サンライズ早期機器人動畫的獨特魅力，是機甲收藏線中頗具紀念意義的一件延伸商品。",
     reviews: [
       {
         title: "スーパーミニプラ 「トライダーG7」 レビュー",
@@ -10285,7 +10285,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000154067.html",
     imageUrl: "/images/super-minipla-trider-shuttle-set.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "無敵ロボ トライダーG7", "Trider G7", "トライダー・シャトル", "トライダー・ニューシャトル", "バンダイキャンディ", "食玩", "P-Bandai限定"],
-    description: "「スーパーミニプラ 無敵ロボ トライダーG7 トライダー・シャトル＆トライダー・ニューシャトルセット」是Premium Bandai限定商品，2021年5月出貨，為本體トライダーG7的專用擴充載具套組，內含新舊兩代穿梭機造型「トライダー・シャトル」與「トライダー・ニューシャトル」，皆可與本體トライダーG7組合，重現原作中更多樣的變形合體場景與獨自遊玩機構。",
+    description: "本商品「スーパーミニプラ 無敵ロボ トライダーG7 トライダー・シャトル＆トライダー・ニューシャトルセット」為Premium Bandai限定商品，2021年5月出貨，係本體「トライダーG7」的專用擴充載具套組，需搭配本體使用方能發揮完整遊玩機構。套組內含新舊兩代穿梭機造型「トライダー・シャトル」與「トライダー・ニューシャトル」，兩者皆可與本體トライダーG7自由組合銜接，重現原作動畫中角色搭乘穿梭機出擊、與主力機體會合作戰的經典場面。此擴充套件的推出讓收藏者得以更完整地重現《無敵ロボ トライダーG7》劇中多樣的變形合體橋段與獨自遊玩機構，也呼應了トライダーG7系列一貫強調的多段變形樂趣，對於已收藏本體的玩家而言，是提升展示豐富度與劇情重現度不可或缺的延伸配件。商品整體造型延續本體トライダーG7的配色與設計語彙，穿梭機外型線條流暢，兼顧新舊兩代載具的差異化特徵呈現。組合介面設計精密，安裝拆卸皆順暢便利，不影響本體既有的變形操作手感。對於長年收藏《無敵ロボ トライダーG7》系列商品的玩家而言，本套組讓收藏場景更加豐富立體，也充分展現サンライズ懷舊機器人動畫食玩化企劃的用心與誠意。",
     reviews: [],
     youtube: [
       {
@@ -10309,7 +10309,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/4549660700326000.html",
     imageUrl: "/images/super-minipla-fighbird2.jpg",
     tags: ["smp0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "太陽の勇者ファイバード", "Fighbird2", "ジェット合体グランバード", "グレートファイバード", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ"],
-    description: "「SMP 太陽の勇者ファイバード2」是BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列第2彈商品，2022年2月21日發售，全3種一套¥2,145（含稅）／個。ファイアーシャトル可變形為「グランバード」，並與ブレスタージェット合體重現「ジェット合体グランバード」；再與第1彈「武装合体ファイバード」合體即可重現最強形態「グレートファイバード」，是《太陽の勇者ファイバード》系列合體收藏的重要延伸商品。",
+    description: "「SMP 太陽の勇者ファイバード2」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的第二彈商品，2022年2月21日發售，延續第一彈「武装合体ファイバード」的產品脈絡，進一步擴充《太陽の勇者ファイバード》系列的合體收藏陣容。商品全套共3種零件，其中ファイアーシャトル可獨立變形為「グランバード」型態，並能與ブレスタージェット合體重現「ジェット合体グランバード」，呈現原作中角色升級強化的橋段。若再與第一彈「武装合体ファイバード」組合，即可重現作品中最強形態「グレートファイバード」，完整呈現原作故事後期主角機不斷強化進化的敘事主軸。此商品的推出使收藏者得以將前後兩彈作品串聯展示，重現勇者系列一貫強調「夥伴合體、力量提升」的核心精神，是喜愛《太陽の勇者ファイバード》系列玩家不可錯過的延伸收藏。商品組裝過程各組件結構獨立又能緊密合體咬合，變形轉換機構設計流暢，兼顧食玩商品應有的組裝親和度。塗裝配色延續系列一貫風格，金屬光澤處理提升整體質感。對於收藏《太陽の勇者ファイバード》系列SMP商品的玩家而言，本作串聯前後兩彈形成完整的最強形態展示，是系列收藏中承先啟後、串聯劇情發展的重要延伸商品，深受勇者系列老玩家珍視。",
     reviews: [
       {
         title: "【レビュー】SMP 太陽の勇者ファイバード2 (グレートファイバード)",
@@ -10339,7 +10339,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000151825.html",
     imageUrl: "/images/super-minipla-dagwon-ryan-gunkid.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "勇者指令ダグオン", "Dagwon", "ライアン", "ガンキッド", "Ryan", "Gunkid", "バンダイキャンディ", "食玩", "勇者シリーズ", "P-Bandai限定", "サンライズ"],
-    description: "「スーパーミニプラ 勇者指令ダグオン ライアン＆ガンキッド」是Premium Bandai限定商品，2021年5月出貨，取材自1996年動畫《勇者指令ダグオン》。宇宙剣士ライアン可變形為「ファイヤーライオソード」，並附有一般刀身與必殺技演出用刀身兩種替換件；無限砲ガンキッド則可完全變形出4種形態。與已收錄的「SMP Power Dagwon2」同屬《勇者指令ダグオン》系列。",
+    description: "《勇者指令ダグオン》為日昇「勇者系列」1996年作品，故事描述地底文明遺跡甦醒的機械生命體與人類少年並肩作戰，除主角機外，劇中亦登場多位個性鮮明的夥伴機體，豐富了系列的角色群像。宇宙剣士ライアン與無限砲ガンキッド即為劇中重要配角機體，前者擅長劍術戰鬥，後者則以火砲支援見長，兩者風格互補，構成劇情中的戰術搭檔關係。本商品「スーパーミニプラ 勇者指令ダグオン ライアン＆ガンキッド」為Premium Bandai限定商品，2021年5月出貨。宇宙剣士ライアン可完全變形為「ファイヤーライオソード」形態，並附有一般刀身與必殺技演出用刀身兩種替換配件，方便重現劇中招式演出；無限砲ガンキッド則可完全變形出4種不同形態，展現其多樣化的武裝機構。本作與已推出的「SMP Power Dagwon2」同屬《勇者指令ダグオン》系列陣容，適合系列收藏者搭配組合展示。商品組裝步驟明確，兩款機體各自的多形態變形機構設計精巧，兼顧食玩商品應有的組裝親和度與完成後的把玩樂趣。塗裝配色忠實重現1996年動畫設定色彩，武裝配件細節刻畫立體。對於收藏《勇者指令ダグオン》系列SUPER MINIPLA商品的玩家而言，本作補齊了劇中重要配角機體的陣容，讓系列收藏更加完整多元，具有承先啟後的系列意義。",
     reviews: [
       {
         title: "【レビュー】スーパーミニプラ 勇者指令ダグオン ライアン",
@@ -10374,7 +10374,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000151828.html",
     imageUrl: "/images/super-minipla-balgion.jpg",
     tags: ["smp0001@中壢收多易", "スーパーミニプラ", "超電子バイオマン", "Bioman", "バルジオン", "Balzion", "バイオハンター・シルバ", "バンダイキャンディ", "食玩", "P-Bandai限定", "スーパー戦隊"],
-    description: "「スーパーミニプラ バルジオン」是Premium Bandai限定商品，2021年4月出貨，取材自1984年特攝戰隊作品《超電子バイオマン》，為反派角色「バイオハンター・シルバ」的座機。可動範圍豐富，膝部可彎曲，並附替換張開手掌零件以擺出多種戰鬥姿勢，可與另售的「スーパーミニプラ 電子合体 バイオロボ」組合重現劇中對戰場景。注意：本品雖冠以「スーパーミニプラ」勇者系列相同品牌名，但實際franchise為《超電子バイオマン》特攝戰隊系列。",
+    description: "《超電子バイオマン》為東映超級戰隊系列1984年作品，故事描述五名擁有超能力的戰士對抗邪惡組織「新帝國ギア」，是昭和末期戰隊作品的代表之一，至今仍擁有大量懷舊粉絲支持。バルジオン為劇中反派角色「バイオハンター・シルバ」的專屬座機，設定上是與主角方巨大機甲バイオロボ相抗衡的邪惡兵器，造型陰暗銳利，突顯敵對陣營的威脅感。本商品「スーパーミニプラ バルジオン」為Premium Bandai限定商品，2021年4月出貨，可動範圍豐富，膝部關節可自由彎曲，並附替換張開手掌零件，方便擺出多種戰鬥姿勢重現劇中對戰畫面。可與另售的「スーパーミニプラ 電子合体 バイオロボ」組合搭配，重現原作正邪對戰的經典場景。特別留意，本品雖冠以「スーパーミニプラ」勇者系列相同品牌名稱，實際franchise為《超電子バイオマン》特攝戰隊作品，並非勇者系列。商品整體塗裝以暗色系為主，局部搭配金屬光澤處理，強化反派座機陰森銳利的視覺氛圍。可動關節設計靈活，搭配替換手掌零件可擺出多種戰鬥姿態，展現食玩商品少見的細膩可玩性。對於收藏《超電子バイオマン》系列SUPER MINIPLA商品的玩家而言，本作補齊了反派陣容重要一員，讓正邪雙方展示更加完整，具備一定的懷舊戰隊收藏意義。",
     reviews: [],
     youtube: [
       {
@@ -10404,7 +10404,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1729/Nendoroid+Sheryl+Nome",
     imageUrl: "/images/nendoroid-sheryl-nome-330.jpg",
     tags: ["macross002@中壢收多易", "マクロス", "マクロスF", "シェリル・ノーム", "Sheryl Nome", "ねんどろいど", "Good Smile Company", "GSC", "#330"],
-    description: "Good Smile Company ねんどろいど 系列作品，商品編號 #330，取材自《超時空要塞Frontier》另一位女主角シェリル・ノーム，服裝重現電視版片頭曲與最終回中的演出造型。附三款替換表情：微笑、吶喊與熱唱，選配部件包含麥克風、替換手臂與腿部道具，並附專屬舞台底座可與標準底座連接，重現她的Live演出姿態。與 Alter/MegaHouse「ALPHA X OMEGA」推出的 1/7 比例シェリル・ノーム雕像為完全不同品牌、不同比例的獨立商品，非重複收藏。",
+    description: "《超時空要塞Frontier》是マクロス系列2007年作品，延續系列一貫「歌聲對抗異形」的核心命題，劇中兩位歌姬シェリル・ノーム與ランカ・リー的三角關係與歌唱演出，是該作深植人心的重要看點。シェリル・ノーム作為銀河知名的當紅偶像歌手，舞台魅力四射，個性強勢又帶有脆弱的一面，是系列女主角中辨識度極高的角色。本商品為Good Smile Company「ねんどろいど」系列作品，商品編號#330，服裝重現電視版片頭曲與最終回演出中的招牌造型，Q版比例搭配精緻服裝細節。隨附三款替換表情：微笑、吶喊與熱唱，充分表現角色演唱時情緒起伏的多樣面貌，選配部件包含麥克風、替換手臂與腿部道具，並附專屬舞台底座可與標準底座連接組合，重現她的Live演出姿態。需特別說明，本品與Alter/MegaHouse「ALPHA X OMEGA」推出的1/7比例シェリル・ノーム雕像為完全不同品牌、不同比例的獨立商品，並非重複收藏。商品整體塗裝細膩，服裝褶皺與配色層次分明，充分展現Good Smile Company一貫的高品質工藝水準。表情零件雕刻生動傳神，眼部繪製精緻，可依展示情境自由替換營造不同氛圍。對於收藏マクロスF系列周邊商品的玩家而言，本作與同系列ランカ・リー等角丸商品並列展示，更能完整呈現該作雙女主角魅力，是系列粉�:絲不可錯過的Q版收藏代表作。",
     reviews: [
       {
         title: "カホタン：銀河の歌姫登場！『マクロスF』より「ねんどろいど シェリル・ノーム」で遊んでみた！",
@@ -10440,7 +10440,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/12440",
     imageUrl: "/images/yamato-vf1s-roy-focker-48.jpg",
     tags: ["macross002@中壢收多易", "マクロス", "劇場版", "VF-1S", "YAMATO", "Roy Focker", "ロイ・フォッカー", "可變形", "1/48"],
-    description: "《超時空要塞 愛・おぼえていますか》劇場版中ロイ・フォッカー機專屬塗裝的VF-1S超級女武神，YAMATO 1/48比例完全可變形版本。黑金配色包裝致敬劇場版視覺基調，機體採用完全變形機構（Fighter/GERWALK/Battroid三型態均可完全切換），附駕駛員人偶、槍型武器、微型飛彈莢艙與貼紙。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站已不存在，改連結 hpoi 手辦維基資料頁。",
+    description: "《超時空要塞 愛・おぼえていますか》是マクロス系列首部劇場版，將電視版故事重新編排並強化戰爭悲劇色彩，其中ロイ・フォッカー作為主角一条輝的教官與精神導師，在劇中壯烈犧牲的橋段成為系列早期最令人動容的場面之一，也奠定了他在粉絲心中亦師亦友的經典形象。本商品為其專屬座機VF-1S超級女武神的立體化商品，由YAMATO推出1/48比例完全可變形版本，黑金配色包裝設計致敬劇場版沉穩肅穆的視覺基調。機體採用完全變形機構，Fighter（戰機）、GERWALK（人機兩用）、Battroid（人形）三型態均可完整切換，重現VF-1系列標誌性的多段變形魅力。標準配件包含駕駛員人偶、槍型武器與微型飛彈莢艙，並附貼紙供玩家自行加工細節。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站亦已不存在，具有一定收藏稀有性。商品機身塗裝細節豐富，機翼與尾翼標誌清晰可辨，載具型態的線條流暢俐落，充分展現1/48比例應有的細節密度與質感。人形態關節活動範圍充足，可擺出多種持槍與站立姿勢，兼顧收藏展示與把玩樂趣。作為YAMATO停產絕版商品，本作在現今二手市場流通量有限，對於長年收藏マクロス劇場版VF-1系列的玩家而言，具備相當的紀念與稀有價值。",
     reviews: [
       {
         title: "Yamato 1/60 VF-1S Roy Focker Review | MacrossWorld",
@@ -10471,7 +10471,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/yamato-vf1a-angel-birds-48.jpg",
     tags: ["macross002@中壢收多易", "マクロス", "TV版", "VF-1A", "YAMATO", "Angel Birds", "エンジェルバーズ", "可變形", "1/48"],
-    description: "《超時空要塞マクロス》電視版中統合軍飛行表演隊「エンジェルバーズ」慶祝マクロス艦命名典禮的特技飛行塗裝機，YAMATO 1/48比例完全可變形版本。全機採用紅藍白三色鮮豔塗裝與翼面彩繪，有別於一般作戰機的迷彩塗色，是VF-1系列中最具視覺辨識度的紀念塗裝版本之一。附駕駛員人偶、飛彈莢艙、槍型武器與貼紙。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站已不存在，目前查無對應的hpoi手辦維基頁面，故officialUrl暫留空。",
+    description: "《超時空要塞マクロス》電視版是マクロス系列的原點作品，1982年播出，確立了系列「戰鬥機變形機甲」與「歌聲對抗異形文明」並存的核心世界觀，深刻影響其後日本機甲動畫發展。エンジェルバーズ為劇中統合軍飛行表演隊，於マクロス艦命名典禮上進行特技飛行表演，是劇情中較為輕鬆歡快的橋段，其塗裝也因而特別亮眼奪目。本商品為該隊塗裝機VF-1A的立體化商品，YAMATO推出1/48比例完全可變形版本，全機採用紅藍白三色鮮豔塗裝並搭配翼面彩繪，有別於一般作戰機沉穩的迷彩塗色，是VF-1系列中辨識度最高的紀念塗裝版本之一，深受喜愛華麗塗裝的玩家青睞。標準配件包含駕駛員人偶、飛彈莢艙、槍型武器與貼紙。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站亦已不存在，具一定收藏稀有性。商品機身彩繪線條工整精細，翼面圖騰細節清晰，充分展現特技飛行隊塗裝應有的華麗視覺效果，與同系列作戰機型形成鮮明對比。人形態關節活動範圍充足，可擺出多種持槍與站立姿勢。作為YAMATO停產絕版商品，本作在現今二手市場流通量有限，對於長年收藏マクロス電視版VF-1系列多樣塗裝機的玩家而言，是不可多得的紀念塗裝代表作品。",
     reviews: [],
     youtube: [
       {
@@ -10496,7 +10496,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/yamato-vf1a-hikaru-ichijo-48.jpg",
     tags: ["macross002@中壢收多易", "マクロス", "劇場版", "VF-1A", "YAMATO", "Hikaru Ichijo", "一条輝", "可變形", "1/48"],
-    description: "《超時空要塞 愛・おぼえていますか》劇場版主角一条輝專屬座機VF-1A女武神，YAMATO 1/48比例完全可變形版本，發售當時號稱最大型的可完全變形VF-1系列玩具。黑色包裝配金色文字，機體具備精細駕駛艙、可開啟艙蓋與機鼻、可動指節等細節，並附駕駛員人偶、武器與說明書。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站已不存在，目前查無對應的hpoi手辦維基頁面，故officialUrl暫留空。",
+    description: "一条輝為《超時空要塞 愛・おぼえていますか》劇場版男主角，身兼統合軍王牌飛行員與音樂人ミンメイ、林明美之間三角戀情的男主角，其座機VF-1A貫穿全片重要戰鬥場面，是マクロス系列最具代表性的主角機之一。本商品由YAMATO推出1/48比例完全可變形版本，發售當時號稱系列中最大型的可完全變形VF-1系列玩具，包裝採黑色搭配金色文字設計，質感沉穩大氣。機體具備精細駕駛艙細節、可開啟艙蓋與機鼻等擬真機構，並具備可動指節等精緻關節設計，提升人形態的動作表現力與擺放彈性。標準配件包含駕駛員人偶、武器與說明書，方便玩家重現劇場版經典空戰場面。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站亦已不存在，具備一定收藏稀有性與紀念意義。商品機身塗裝工整細膩，機首與機翼線條流暢俐落，充分展現1/48比例應有的細節密度。人形態關節活動範圍充足，指節與手腕可動設計提升持槍與站立姿勢的表現力，兼顧收藏展示與把玩樂趣。作為YAMATO停產絕版商品，本作在現今二手市場流通量有限，對於長年收藏マクロス劇場版主角機VF-1系列的玩家而言，具備相當的紀念與稀有價值，是系列收藏的核心代表作品之一。",
     reviews: [],
     youtube: [
       {
@@ -10521,7 +10521,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/yamato-ve1-elintseeker.jpg",
     tags: ["macross002@中壢收多易", "マクロス", "劇場版", "VE-1", "エリントシーカー", "YAMATO", "Elintseeker", "可變形", "1/60"],
-    description: "《超時空要塞 愛・おぼえていますか》劇場版中登場的電子偵察機型VE-1「エリントシーカー」，YAMATO 1/60比例完全可變形版本，Fighter/GERWALK/Battroid三型態均可完全切換。機體特徵為機背大型雷達罩與偵搜天線，採前後雙座駕駛艙設計，附雷達罩、增程油箱、通訊中繼天線、前後座駕駛員人偶等大量選配零件。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站已不存在，目前查無對應的hpoi手辦維基頁面，故officialUrl暫留空。",
+    description: "VE-1「エリントシーカー」是《超時空要塞 愛・おぼえていますか》劇場版中登場的電子偵察機型，屬於VF-1系列的衍生機型，並非直接作戰兵裝，而是負責前線情報蒐集與電子偵搜任務，機體特徵為機背裝設的大型雷達罩與偵搜天線，外型辨識度極高。本商品由YAMATO推出1/60比例完全可變形版本，Fighter、GERWALK、Battroid三型態均可完全切換，重現VF-1系列一貫的多段變形機構魅力。機體採前後雙座駕駛艙設計，呼應偵察任務需要駕駛員與情報官協同作業的角色分工，標準配件包含雷達罩、增程油箱、通訊中繼天線，以及前後座駕駛員人偶等大量選配零件，細節豐富度在VF-1系列衍生機型中頗具代表性。YAMATO已於2013年結束營運，本商品現已停產絕版，官方網站亦已不存在，具備一定收藏稀有性。商品機身塗裝細膩，雷達罩表面紋路與偵搜天線細節刻畫用心，充分展現1/60比例應有的細節密度與辨識度。人形態關節活動範圍充足，可擺出多種站立與作業姿勢，兼顧收藏展示與把玩樂趣。作為YAMATO停產絕版商品，本作在現今二手市場流通量有限，對於長年收藏マクロス劇場版VF-1衍生機型的玩家而言，是補齊偵察機種陣容不可或缺的稀有收藏品。",
     reviews: [],
     youtube: [
       {
@@ -10550,7 +10550,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1815/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-30th-anniversary.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "マクロス30周年", "YF-29", "デュランダル", "30周年記念カラー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "為紀念マクロス系列30週年推出的特別塗裝版本，以初代 VF-1S Valkyrie 為靈感發想，採用黑黃兩色特別塗裝，有別於原版 YF-29 Durandal Valkyrie 的一般配色。機體結構、變形機構與可動性均與原版相同，支援戰鬥機、加瓦克、戰鬥人形三段變形，標配槍莢、三種替換手腕、原創配色駕駛員迷你人偶及專用展示架。",
+    description: "YF-29 デュランダルバルキリー原為《劇場版マクロスF～サヨナラノツバサ～》中登場的次世代可變戰鬥機，設定上結合前代機體技術結晶，機動性與火力均大幅躍進，是マクロスF系列後期戰力象徵之一。本商品為紀念マクロス系列30週年推出的特別塗裝版本，特意以初代VF-1S Valkyrie的經典配色為靈感發想，採用黑黃兩色特別塗裝，與原版YF-29 Durandal Valkyrie慣用的配色形成鮮明對比，別具跨世代致敬意義。機體結構、變形機構與可動性均與原版商品相同，支援戰鬥機、加瓦克（GERWALK）、戰鬥人形三段式變形，維持DX超合金系列一貫的高完成度與金屬質感。標準配件包含槍莢、三種替換手腕、原創配色駕駛員迷你人偶及專用展示架，作為週年紀念企劃商品，兼具收藏紀念價值與展示可玩性。商品塗裝工藝細膩，黑黃配色的邊界處理俐落分明，充分展現DX超合金系列一貫的金屬質感與塗裝精度。變形操作維持原版YF-29應有的順暢度與穩固卡榫設計，展示姿態穩定不易鬆脫。作為週年紀念限定配色商品，本作對於長年收藏マクロスF系列DX超合金的玩家而言，是串聯初代VF-1與後期YF-29世代美學傳承、極具紀念意義的一件特別版收藏品。",
     reviews: [
       {
         title: "DX超合金 YF-29 デュランダルバルキリー (30周年記念カラー) レビュー | はっちゃか",
@@ -10574,7 +10574,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10172/",
     imageUrl: "/images/dx-chogokin-yf29-superparts-30th-anniversary.jpg",
     tags: ["macross0005@中壢收多易", "macross0006@中壢收多易", "マクロス", "マクロスF", "マクロス30周年", "YF-29", "スーパーパーツ", "30周年記念カラー", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 YF-29 デュランダルバルキリー（30周年記念カラー）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體。裝設後可大幅提升機體航程與火力，重現強化超音速追加背包形態。",
+    description: "本商品為DX超合金YF-29デュランダルバルキリー（30周年記念カラー）本體追加的Super Parts擴充套組，屬於魂ウェブ商店限定販售商品，不含本體需另行搭配已收藏的YF-29 30周年記念カラー本體使用方能組裝完整。Super Parts設定上為機體追加的強化超音速飛行背包裝置，裝設後可大幅提升機體航程與火力表現，呼應マクロス系列中戰機常見的追加武裝強化設定，也是玩家展現機體「全副武裝」形態的重要收藏配件。此擴充套件延續本體30周年記念カラー的黑黃特別塗裝配色，安裝後整體造型份量感顯著提升，展示效果更為壯觀。對於已收藏YF-29 30周年記念カラー本體的玩家而言，本商品是完整重現機體強化形態不可或缺的延伸配件，也因限定通路販售而具備一定的收藏稀有性。商品整體造型與本體接合處經過精密設計，安裝後不影響本體既有的變形操作與展示穩定度，同時大幅提升整體視覺份量與武裝完整度。塗裝細節與本體配色高度一致，安裝銜接處幾乎無違和感。作為魂ウェブ商店限定販售商品，本套組在市場流通量相對有限，對於追求機體完整強化形態的DX超合金收藏者而言，是提升收藏完整度不可或缺的稀有擴充配件。",
     reviews: [
       {
         title: "バンダイ DX超合金 YF-29 デュランダルバルキリー(30周年記念カラー)用スーパーパーツ レビュー | ガムの玩具店",
@@ -10598,7 +10598,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1582/",
     imageUrl: "/images/dx-chogokin-vf25f-messiah-alto-renewal.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "VF-25F", "メサイア", "早乙女アルト", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）機 VF-25F Messiah Valkyrie 的 リニューアルVer.（Renewal Ver.），導入先行發售的 YF-29 Durandal 技術規格重新設計，機身更纖薄、細節精度更高。標配 Ex-Gear 裝甲版阿爾特人偶、格鬥小刀、三種替換手腕，起落架可不拆換直接收放，並可另加購リニューアルVer.專用 Tornado Parts 與 Super Parts 擴充套件。",
+    description: "早乙女アルト（Alto Saotome）為《マクロスフロンティア》男主角，出身歌舞伎世家卻投身統合軍飛行員生涯，其座機VF-25F メサイアバルキリー貫穿全片重要空戰場面，是マクロスF系列最具代表性的主角機之一。本商品為該機體的リニューアルVer.（Renewal Ver.），導入先行發售之YF-29 Durandal的技術規格重新設計開發，機身結構更加纖薄俐落，細節精度也較初版商品明顯提升，展現DX超合金系列產品線持續進化的工藝水準。標準配件包含身著Ex-Gear裝甲服的阿爾特人偶、格鬥小刀、三種替換手腕，起落架機構經過改良可不拆換零件直接收放，操作更為便利流暢。玩家亦可另行加購リニューアルVer.專用的Tornado Parts與Super Parts擴充套件，進一步強化武裝與飛行外觀，滿足系列收藏者追求機體完整形態的需求。商品塗裝細節精緻，機身線條較初版更為流暢俐落，充分展現DX超合金系列產品線技術升級後的工藝水準。變形操作順暢度亦有提升，關節卡榫設計更為穩固，展示姿態不易鬆脫。對於長年收藏マクロスF系列DX超合金的玩家而言，本リニューアルVer.是替換初版收藏、體驗系列技術進化成果的重要選項，也是主角機收藏中不可或缺的核心代表作品。",
     reviews: [
       {
         title: "DX超合金：VF-25F メサイアバルキリー(早乙女アルト機)リニューアルVer. [レビュー] | TORO'S BLOG",
@@ -10633,7 +10633,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10317/",
     imageUrl: "/images/dx-chogokin-rvf25-messiah-luca-renewal.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "マクロス30周年", "RVF-25", "メサイア", "ルカ・アンジェローニ", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Frontier》電子戰專用機 RVF-25 Messiah Valkyrie（Luca Angeloni 機）之 リニューアルVer.（Renewal Ver.），綠色塗裝搭配獨特頭部造型、刀刃天線與圓盤狀雷達罩（Radome）為最大特徵，雷達罩可展開重現「大氣偵察模式」機構並具備閉鎖防呆設計。標配駕駛員人偶、可換手部、槍莢與專用底座，另可加購對應 Super Parts＆Ghost Set 擴充套件。",
+    description: "ルカ・アンジェローニ為《マクロスフロンティア》劇中重要配角飛行員，個性溫和穩重，與主角アルト形成鮮明對比，其座機RVF-25為電子戰專用型メサイアバルキリー，負責前線電子干擾與情報支援任務，是劇中空戰場面不可或缺的戰術要角。本商品為該機體之リニューアルVer.（Renewal Ver.），綠色塗裝搭配獨特頭部造型、刀刃天線與圓盤狀雷達罩（Radome）為最大外觀特徵，呼應其電子戰機種的任務定位。雷達罩可展開重現「大氣偵察模式」機構，並具備閉鎖防呆設計避免誤觸損壞，機構細節考量周到。標準配件包含駕駛員人偶、可換手部、槍莢與專用底座，方便玩家展示收藏。另可加購對應的Super Parts＆Ghost Set擴充套件，進一步豐富武裝與飛行支援機構的重現度，是マクロスF系列電子戰機體收藏中頗具特色的一件作品。商品塗裝細節精緻，綠色機身與雷達罩銀灰色澤對比鮮明，充分展現電子戰機種應有的獨特識別度。變形操作順暢，雷達罩展開機構設計巧妙不易誤觸損壞，兼顧收藏展示與把玩樂趣。對於長年收藏マクロスF系列DX超合金的玩家而言，本作補齊了電子戰機種的重要陣容，讓主角機、電子戰機等多樣機種展示更加完整豐富，具備一定的系列收藏意義。",
     reviews: [
       {
         title: "DX超合金 RVF-25 メサイアバルキリー (ルカ・アンジェローニ機) リニューアルVer. レビュー | はっちゃか",
@@ -10658,7 +10658,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10693/",
     imageUrl: "/images/dx-chogokin-yf30-chronos.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロス30", "YF-30", "クロノス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "為紀念マクロス30週年，由河森正治設計、登場於紀念遊戲《マクロス30 銀河を繋ぐ歌声》的次世代可變戰鬥機 YF-30 Chronos 立體化商品。採用全新變形機構，Gerwalk 形態首度導入腰部旋轉機構，可做出更豐富的姿勢；機首兩側飛彈艙共36個艙口皆可開闔，是系列中火力展示最壯觀的機型之一。標配本體、左右各3種替換手腕、量子光束槍莢及專用展示架。",
+    description: "YF-30 クロノス為紀念マクロス系列30週年而企劃的次世代可變戰鬥機設計，由系列總監督河森正治親自操刀，登場於紀念遊戲作品《マクロス30 銀河を繋ぐ歌声》，象徵系列世界觀持續向未來延伸的技術願景。本商品即為該機體的立體化商品，採用全新開發的變形機構，Gerwalk形態首度導入腰部旋轉機構，使機體在人機兩用型態下能夠做出更豐富多樣的姿勢演出，大幅提升展示與擺拍的可玩性。機首兩側飛彈艙設計共計36個艙口，且皆可個別開闔，火力展示效果在DX超合金系列可變戰機商品中堪稱壯觀之最，充分呼應クロノス作為次世代機體的強大設定。標準配件包含本體、左右各3種替換手腕，以及量子光束槍莢與專用展示架，兼具細膩武裝細節與穩固展示支撐，是マクロス30週年紀念企劃中極具代表性的立體化商品。商品塗裝工藝精細，機身線條銳利流暢，充分展現次世代機體應有的科技感與量感十足的武裝配置。變形操作機構經過重新設計，各形態切換順暢自然，展示姿態穩固不易鬆脫。作為マクロス30週年紀念企劃代表商品，本作對於長年收藏DX超合金系列可變戰機的玩家而言，是體驗河森正治次世代機體設計美學、極具紀念意義的重要收藏品。",
     reviews: [
       {
         title: "DX超合金 YF-30 クロノス レビュー | はっちゃか",
@@ -10688,7 +10688,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/4549660392095000.html",
     imageUrl: "/images/smp-dancouga.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "超獣機神ダンクーガ", "ダンクーガ", "イーグルファイター", "ランドカーガー", "ランドライガー", "ビッグモス", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA 超獣機神ダンクーガ」是BANDAI食玩事業部推出的1985年經典機器人動畫《超獣機神ダンクーガ》立體化商品，於2019年9月23日發售。組合內含四台合體用機體：イーグルファイター、ランドカーガー、ランドライガー、ビッグモス，可組裝合體為主角機「ダンクーガ」，並附強化翼與斷空剣等武裝零件。",
+    description: "《超獣機神ダンクーガ》為1985年播出的經典機器人動畫，由四台各具野獸造型的機體合體組成主角機「ダンクーガ」，其「合體變身」的演出形式深刻影響後續日本機甲動畫的美學走向，至今仍是老玩家心中不可磨滅的懷舊經典。本商品「SUPER MINIPLA 超獣機神ダンクーガ」為BANDAI食玩事業部推出的立體化商品，2019年9月23日發售，組合內含四台合體用機體：イーグルファイター、ランドカーガー、ランドライガー、ビッグモス，可各自獨立組裝再合體重現主角機「ダンクーガ」的完整英雄比例造型。商品並附強化翼與斷空剣等武裝零件，重現原作劇中角色升級強化後的必殺武裝形態，讓玩家得以重現動畫高潮橋段的視覺震撼。作為「スーパーミニプラ」系列延伸至昭和機器人動畫的代表作品之一，兼具懷舊情懷與現代食玩工藝水準，深受資深機甲迷喜愛收藏。商品組裝步驟循序漸進，四台機體結構各自獨立又能緊密合體咬合，展現食玩商品少見的高精度工程設計。塗裝配色忠實重現1985年動畫設定色彩，金屬質感處理提升整體質感層次。對於收藏勇者系列與昭和機器人動畫SUPER MINIPLA商品的玩家而言，本作重現了ダンクーガ經典合體變身的魅力，是機甲收藏線中承載濃厚懷舊情懷的重要代表作品。",
     reviews: [
       {
         title: "スーパーミニプラ 超獣機神ダンクーガ レビュー | 獅子王ホビー",
@@ -10728,7 +10728,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/1000135694.html",
     imageUrl: "/images/smp-dancouga-option-parts.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "超獣機神ダンクーガ", "Dancouga", "オプションパーツ", "断空剣", "強化ウイング", "プレミアムバンダイ限定", "食玩"],
-    description: "為「SUPER MINIPLA 超獣機神ダンクーガ」本體追加的Premium Bandai限定オプションパーツセット，全新造形設計，包含大型「断空剣」與可裝設於背部、可動範圍不受限制的「強化ウイング」，裝上後可重現動畫中ダンクーガ的必殺武裝姿態，不含本體需另行購買。",
+    description: "本商品「スーパーミニプラ 超獣機神ダンクーガ オプションパーツセット」為「SUPER MINIPLA 超獣機神ダンクーガ」本體追加的Premium Bandai限定擴充套組，不含本體，需另行搭配已收藏之ダンクーガ本體組裝使用方能發揮完整效果。套組全新造形設計，包含劇中角色升級強化後標誌性的大型武裝「断空剣」，以及可裝設於背部、可動範圍不受本體結構限制的「強化ウイング」，兩者皆是原作動畫中角色進入必殺技演出階段時的重要視覺元素。裝上此套組後，可完整重現ダンクーガ在劇情後期展現壓倒性戰力的必殺武裝姿態，大幅提升本體的展示張力與收藏完整度。對於已收藏本體的玩家而言，本擴充套組是重現原作經典必殺場面、補完整體收藏完整性不可或缺的延伸配件，也因限定通路販售而具備一定稀有性。商品造型細節精緻，断空剣劍身雕刻立體，強化ウイング翼面線條流暢，安裝後與本體既有配色高度融合不顯突兀。裝設介面設計精密，安裝拆卸皆順暢便利，不影響本體既有的變形操作手感。對於已收藏ダンクーガ本體的玩家而言，本擴充套組是體驗劇中必殺武裝形態、提升收藏完整度不可或缺的延伸配件，也因限定通路販售而具備一定的收藏稀有性。",
     reviews: [
       {
         title: "【レビュー】スーパーミニプラ 超獣機神ダンクーガ(ダンクーガ、オプションパーツセット)",
@@ -10752,7 +10752,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/4549660158950000.html",
     imageUrl: "/images/smp-zambot3-40th.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "無敵超人ザンボット3", "Zambot3", "ザンボット3", "ザンボエース", "ザンバード", "ザンブル", "ザンベース", "40周年", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA 無敵超人ザンボット3」為紀念1977年播出的サンライズ機器人動畫始祖作《無敵超人ザンボット3》40周年而推出，於2017年11月27日發售。全4種：ザンボエース、ザンバード、ザンブル、ザンベース，可各自變形並互相合體重現劇中多種形態。為食玩驚喜盒販售形式。",
+    description: "《無敵超人ザンボット3》為1977年播出的機器人動畫，是日本サンライズ公司獨立製作的首部原創機器人作品，開創其往後長年深耕機甲動畫產業的重要起點，劇中悲劇色彩濃厚的敘事風格也對後世作品影響深遠，堪稱該公司機器人動畫始祖之作。本商品「SUPER MINIPLA 無敵超人ザンボット3」為紀念該作品播出40週年而推出的紀念商品，於2017年11月27日發售，全套共4種組件：ザンボエース、ザンバード、ザンブル、ザンベース，可各自獨立變形，並可相互合體重現劇中呈現的多種合體形態組合，展現原作中角色依戰況調整合體方式的設定巧思。商品採食玩驚喜盒（ブラインドボックス）販售形式，開盒本身即帶有收藏驚喜樂趣，作為サンライズ機器人動畫始祖作品的40週年紀念立體化商品，兼具歷史意義與收藏價值，深受資深機甲動畫愛好者珍視。商品組裝步驟簡明，四種組件各自的變形與合體機構設計貼合1970年代機器人動畫的樸實風格，兼顧懷舊情懷與現代食玩工藝水準。塗裝配色忠實重現原作設定色彩，展現サンライズ早期機器人動畫的獨特美術魅力。作為始祖作品的40週年紀念立體化商品，本作對於資深機甲動畫愛好者而言，具備相當的歷史意義與收藏價值，也是回顧日昇機甲動畫發展脈絡的重要代表作品。",
     reviews: [
       {
         title: "スーパーミニプラ 無敵超人ザンボット3 レビュー | 獅子王ホビー",
@@ -10792,7 +10792,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/1000126029.html",
     imageUrl: "/images/smp-gaogaigar-sp-pack-set.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "SPパックセット", "超竜神", "撃龍神", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA 勇者王ガオガイガー SPパックセット」是プレミアムバンダイ限定販售的追加零件套組，於2018年10月出貨。內含4個SPパック，以及可對應氷竜・炎竜的鉛筆型發射器（ペンシルランチャー）零件，可與另售的「超龍神」「撃龍神」搭配組裝，重現動畫中更完整的武裝形態。",
+    description: "《勇者王ガオガイガー》劇中，主角機ガオガイガー在戰鬥後期常需借助追加裝備強化戰力，「SPパック」即為劇中重要的能量強化道具之一，可為超龍神、撃龍神等大型支援機體注入額外動力，展現勇者系列一貫強調夥伴協力、裝備升級的敘事特色。本商品「SUPER MINIPLA 勇者王ガオガイガー SPパックセット」為プレミアムバンダイ限定販售的追加零件套組，於2018年10月出貨，內含4個SPパック，以及可對應氷竜・炎竜使用的鉛筆型發射器（ペンシルランチャー）零件，皆為原作劇情中的重要細節道具。此套組不含本體，需搭配另售的「超龍神」「撃龍神」商品組裝使用，方能重現動畫中更完整的武裝形態與戰鬥演出。對於已收藏超龍神、撃龍神系列本體的玩家而言，本套組是補完收藏細節、貼近原作劇情呈現的重要延伸配件，也因限定通路販售具備一定稀有性。商品造型細節精緻，SPパック外觀線條俐落，鉛筆型發射器零件比例精準，安裝後與本體既有配色高度融合不顯突兀。裝設介面設計精密，安裝拆卸皆順暢便利，不影響本體既有的變形操作手感。對於已收藏超龍神、撃龍神本體的玩家而言，本套組是體驗劇中強化能量演出、提升收藏完整度不可或缺的延伸配件，也因限定通路販售而具備一定的收藏稀有性。",
     reviews: [
       {
         title: "スーパーミニプラ 勇者王ガオガイガー SPパックセット 予約情報 | バンダイキャンディ公式ブログ",
@@ -10821,7 +10821,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660190233000.html",
     imageUrl: "/images/smp-gaogaigar3-choryujin.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "超竜神", "Choryujin", "氷竜", "炎竜", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "包裝盒上標示「GaoGaiGar3」，實際商品為「SUPER MINIPLA 勇者王ガオガイガー3 超竜神」，於2018年1月22日發售，取材自《勇者王ガオガイガーFINAL》OVA中登場的中國龍系機體。全2種氷竜、炎竜可分別組裝，再合體重現「超竜神」形態，並可另外搭配SPパックセット強化。",
+    description: "超竜神為《勇者王ガオガイガーFINAL》OVA續篇中登場的中國龍主題合體機體，由氷竜、炎竜兩台巨龍造型機構合體而成，設計上融入中國龍的意象元素，與正篇中西式獸型機甲風格形成有趣對比，是勇者王系列後期擴充陣容中頗具特色的一員。本商品包裝盒上雖標示「GaoGaiGar3」，實際商品名稱為「SUPER MINIPLA 勇者王ガオガイガー3 超竜神」，於2018年1月22日發售。全套共2種組件：氷竜、炎竜，可分別獨立組裝把玩，再合體重現「超竜神」完整形態，機構設計貼合原作合體變身橋段。玩家亦可另外搭配前述SPパックセット進行進一步強化裝配，重現劇中更完整的武裝演出效果。作為《勇者王ガオガイガーFINAL》OVA限定機體的立體化商品，本作是勇者王系列收藏中補完OVA限定陣容不可或缺的一件作品。商品組裝步驟循序漸進，兩台龍型機體結構各自獨立又能緊密合體咬合，展現食玩商品少見的高精度工程設計。塗裝配色以中國龍意象為發想，鱗片與火焰紋路刻畫細膩，展現與正篇獸型機甲截然不同的美術風格。對於收藏勇者王系列SUPER MINIPLA商品的玩家而言，本作補齊了OVA限定機體陣容，讓系列收藏更加完整多元，具有承先啟後的收藏意義。",
     reviews: [
       {
         title: "スーパーミニプラ 超竜神 素組みレビュー",
@@ -10861,7 +10861,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660251132000.html",
     imageUrl: "/images/smp-gaogaigar4-gaofighgar.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "ガオファイガー", "GaoFighGar", "ファントムガオー", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "包裝盒上標示「GaoGaiGar4」，實際商品為「SUPER MINIPLA 勇者王ガオガイガー4 ガオファイガー」，於2018年6月25日發售，取材自《勇者王ガオガイガーFINAL》OVA限定登場機體。全4種：ファントムガオー、ステルスガオーIII、ライナーガオーII、ドリルガオーII，組裝合體後重現「ガオファイガー」，並附換裝拳頭零件可重現多種必殺技形態。",
+    description: "ガオファイガー為《勇者王ガオガイガーFINAL》OVA限定登場的合體機體，由ファントムガオー、ステルスガオーIII、ライナーガオーII、ドリルガオーII四台機體合體組成，延續正篇中ガオーマシン群合體支援主角機的設定架構，並在OVA中進一步強化陣容與武裝表現。本商品包裝盒上雖標示「GaoGaiGar4」，實際商品名稱為「SUPER MINIPLA 勇者王ガオガイガー4 ガオファイガー」，於2018年6月25日發售。全套共4種組件，組裝合體後可重現完整「ガオファイガー」形態，並附換裝拳頭零件，可重現劇中多種必殺技演出姿態，讓玩家得以重現OVA中角色戰鬥高潮的視覺震撼。作為《勇者王ガオガイガーFINAL》限定機體立體化商品系列的其中一彈，本作是補完勇者王系列OVA限定陣容、串聯前後彈作品收藏完整度的重要一員。商品組裝步驟循序漸進，四台機體結構各自獨立又能緊密合體咬合，展現食玩商品少見的高精度工程設計。塗裝配色忠實重現OVA設定色彩，換裝拳頭零件細節刻畫立體，握持與安裝皆順暢便利。對於收藏勇者王系列SUPER MINIPLA商品的玩家而言，本作補齊了OVA限定合體機體陣容，讓系列收藏更加完整多元，是資深勇者系列玩家不可錯過的延伸收藏。",
     reviews: [
       {
         title: "スーパーミニプラ ガオファイガー 素組みレビュー",
@@ -10901,7 +10901,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/4549660290599000.html",
     imageUrl: "/images/smp-gaogaigar5-volfogg.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "ボルフォッグ", "Volfogg", "マイク・サウンダース13世", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "包裝盒上標示「GaoGaiGar5」，實際商品為「SUPER MINIPLA 勇者王ガオガイガー5 ボルフォッグ」，於2018年12月24日發售，取材自《勇者王ガオガイガーFINAL》登場的傭兵機體。全3種：ボルフォッグ本體、駕駛員マイク・サウンダース13世人偶、以及バリバリイン・セット零件。另有更大型的プレミアムバンダイ限定「ビッグボルフォッグ」（三身一體版）同期推出。",
+    description: "ボルフォッグ為《勇者王ガオガイガーFINAL》登場的傭兵型機體，設定上並非GGG正規軍所屬，而是受雇於組織的獨立戰鬥者，駕駛員マイク・サウンダース13世個性豪邁不羈，與GGG正規成員形成有趣對比，是勇者王系列後期陣容中頗具人氣的角色組合。本商品包裝盒上雖標示「GaoGaiGar5」，實際商品名稱為「SUPER MINIPLA 勇者王ガオガイガー5 ボルフォッグ」，於2018年12月24日發售。全套共3種組件：ボルフォッグ本體、駕駛員マイク・サウンダース13世人偶、以及バリバリイン・セット零件，組裝後可重現角色搭乘座機出擊的經典畫面。另有更大型的プレミアムバンダイ限定「ビッグボルフォッグ」（三身一體版）於同期推出，供進階收藏者追加擴充，兩者合觀可完整呈現該角色機體在原作中的多樣型態與人氣地位。商品造型細節精緻，機體線條硬派剛猛，符合傭兵角色特立獨行的形象設定，駕駛員人偶雕刻生動傳神，個性表情清晰可辨。組裝步驟明確，各組件結構穩固耐玩。對於收藏勇者王系列SUPER MINIPLA商品的玩家而言，本作補齊了傭兵陣容重要一員，也可與ビッグボルフォッグ組合展示，完整呈現該角色機體在原作中的多樣型態，具有相當的系列收藏意義。",
     reviews: [
       {
         title: "スーパーミニプラ 勇者王ガオガイガー5 ボルフォッグ 発売告知 | バンダイキャンディ公式ブログ",
@@ -10941,7 +10941,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2018/1000123967.html",
     imageUrl: "/images/smp-gekiryujin.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "撃龍神", "Gekiryujin", "風龍", "雷龍", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA 勇者王ガオガイガー 撃龍神」為プレミアムバンダイ限定商品，於2018年6月出貨，取材自《勇者王ガオガイガーFINAL》登場的中國龍系合體機體。內含風龍、雷龍兩台機體，可組裝合體重現「撃龍神」，並可另外搭配SPパックセット強化武裝。注意：本品為BANDAI食玩事業部「スーパーミニプラ」系列（附口香糖的食玩），與另一條無附糖果的「HG 撃龍神」塑膠模型商品線不同，兩者為獨立產品。",
+    description: "「勇者王ガオガイガー」為Sunrise「勇者系列」最終長篇作品，描述地球防衛組織GGG對抗來自宇宙的機械生命體ゾンダー的故事；續篇《FINAL》規模再擴大，集結各國自製勇者機體參戰。「撃龍神」是其中登場的中國風合體機體，以風龍、雷龍兩隻中國龍造型機身合體而成，呼應該系列一貫以動物、幻獸為母題設計必殺武裝的傳統。本商品為SUPER MINIPLA系列（附口香糖食玩），プレミアムバンダイ限定販售，2018年6月出貨。內含風龍、雷龍兩台可各自變形的機體，關節可動、色分精良，組裝合體後即可重現「撃龍神」形態，另可選購SPパックセット追加強化武裝零件擴充遊玩性。與同名角色的HG塑膠模型商品線（不含糖果）為獨立產品系列，購買時需注意區分。此系列食玩以精緻分色與高整合度合體機構聞名，是勇者系列周邊收藏中頗具代表性的一款作品，深受懷舊特攝機器人迷喜愛。相較一般食玩多以簡易組裝為主，SUPER MINIPLA系列強調關節可動與分件分色精度，讓非比例的食玩商品也能兼顧展示姿勢的變化與收藏把玩的樂趣，也因此在勇者系列老玩家間持續累積口碑。",
     reviews: [
       {
         title: "スーパーミニプラ 撃龍神（プラモ組み比較レビュー） | 電撃ホビーウェブ",
@@ -10981,7 +10981,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/1000138107.html",
     imageUrl: "/images/smp-combattler-v-option-parts.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "超電磁ロボ コン・バトラーV", "Combattler V", "コン・バトラーV", "オプションパーツセット", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA 超電磁ロボ コン・バトラーV オプションパーツセット」是プレミアムバンダイ限定的追加零件套組，於2019年12月出貨，需搭配同年12月發售的本體「SUPER MINIPLA 超電磁ロボ コン・バトラーV」使用，可為1976年經典機器人動畫《超電磁ロボ コン・バトラーV》立體化商品追加超電磁ヨーヨー等武裝零件，重現更多必殺技形態。",
+    description: "「超電磁ロボ コン・バトラーV」是1976年播出的經典超級機器人動畫，由長濱忠夫執導，講述搭乘五台各具特色載具的戰鬥員合體為巨大機器人「コン・バトラーV」，運用超電磁力對抗坎佩帝國侵略地球的故事，其獨創的五機合體形式對後續多台勇者、戰隊系列合體機體設計影響深遠。「超電磁ヨーヨー」是本作最具代表性的必殺武裝之一，以旋轉飛出的巨大溜溜球狀武器展開近距離格鬥攻擊，是劇中經典畫面之一。本商品為SUPER MINIPLA系列推出的追加零件套組，プレミアムバンダイ限定販售，2019年12月出貨，需搭配同期發售的「SUPER MINIPLA 超電磁ロボ コン・バトラーV」本體使用，方能為食玩版本體追加超電磁ヨーヨー等武裝零件，重現更多原作必殺技演出姿勢。作為附加擴充商品本身不含機體本體，屬於進階收藏者用來完整重現角色武裝全貌的選配零件，凸顯SUPER MINIPLA系列一貫透過分件精細重現經典機體細節與招牌武裝的製作理念。對於已收藏本體的玩家而言，此類選配零件套組往往是補齊角色標誌性武裝、提升展示完整度的關鍵環節，也是勇者系列食玩收藏樂趣中不可或缺的延伸擴充。",
     reviews: [
       {
         title: "スーパーミニプラ コン・バトラーV オプションパーツセット レビュー | 獅子王ホビー",
@@ -11016,7 +11016,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/1000117867.html",
     imageUrl: "/images/smp-king-j-der.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "勇者王ガオガイガー", "GaoGaiGar", "GaoGaiGarFINAL", "キングジェイダー", "KingJDer", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "勇者シリーズ"],
-    description: "「SUPER MINIPLA キングジェイダー」為プレミアムバンダイ限定商品，於2017年12月出貨，取材自《勇者王ガオガイガーFINAL》登場的超弩級合體機體「キングジェイダー」。全高約280mm，為當時スーパーミニプラ系列中最大型的商品，內含大量可動與換裝零件，重現機體巨大的艦體與武裝形態。",
+    description: "「キングジェイダー」是《勇者王ガオガイガーFINAL》登場的超弩級合體機體，隸屬支援地球防衛組織GGG作戰的友軍勢力，以龐大艦體規模與壓倒性火力著稱，是該系列眾多合體機體中體型數一數二的存在，象徵《FINAL》相較前作大幅擴張的世界觀與各國勇者機集結對抗強敵的劇情發展。本商品為SUPER MINIPLA系列推出的食玩模型，プレミアムバンダイ限定販售，2017年12月出貨，全高約280mm，發售當時為系列中尺寸最大的商品之一。內含大量可動關節與換裝零件，力求重現機體龐大的艦體結構與多樣化武裝形態，組裝過程需拼接多個分件單元才能完成整體造型，考驗收藏者的組裝耐心。色分表現細緻，貼紙與成型色搭配盡量還原劇中設定色，是勇者系列食玩商品線中規模最為壯觀的代表作之一，對於喜愛《ガオガイガー》系列龐大合體機體設計美學的玩家而言，是不可或缺的收藏標的。由於機體規模龐大，組裝完成後展示所需空間也相對可觀，是勇者系列食玩收藏中最能凸顯「巨大感」魅力的代表作品之一。",
     reviews: [
       {
         title: "スーパーミニプラ キングジェイダー 素組みレビュー",
@@ -11056,7 +11056,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2020/1000140089.html",
     imageUrl: "/images/smp-jaguar-vulcan-bigscale.jpg",
     tags: ["smp0002@收多易", "スーパーミニプラ", "太陽戦隊サンバルカン", "Sun Vulcan", "ジャガーバルカン", "コズモバルカン", "ブルバルカン", "ビッグスケール", "プレミアムバンダイ限定", "バンダイキャンディ", "食玩", "スーパー戦隊"],
-    description: "「SUPER MINIPLA 太陽戦隊サンバルカン ビッグスケール ジャガーバルカン」是プレミアムバンダイ限定商品，2020年2月17日出貨，取材自1981年特攝戰隊作品《太陽戦隊サンバルカン》的母艦機械獸「ジャガーバルカン」。可與另售的「太陽合体 世界のスーパーミニプラ サンバルカン」聯動，機體內部可收納コズモバルカン與ブルバルカン兩台戰隊機體，內建彈簧機構可展開斜坡讓コズモバルカン重現發進場面。2023年曾再版（定價調整為¥13,200）。",
+    description: "「太陽戦隊サンバルカン」是1981年播出的東映特攝戰隊作品，講述三名隊員分別化身為鷹、鯊、豹三種動物造型戰士，搭乘各自機械獸並合體為巨大機器人「太陽合体」對抗黑十字軍的故事，是スーパー戦隊系列早期奠定「動物合體」設計傳統的重要作品之一。「ジャガーバルカン」為劇中登場的母艦機械獸，負責收納並發進コズモバルカン與ブルバルカン兩台隊員專用機體，是支撐整體合體演出的重要後勤載具。本商品為SUPER MINIPLA「ビッグスケール」規格商品，プレミアムバンダイ限定販售，2020年2月17日出貨，可與另售的「太陽合体 世界のスーパーミニプラ サンバルカン」聯動遊玩。機體內部具備收納空間可實際放入コズモバルカン、ブルバルカン兩台機體，並內建彈簧展開機構重現斜坡下降、戰機發進的經典場面，遊玩互動性極高。2023年曾一度再版並調整定價為¥13,200，顯示其長銷人氣。「ビッグスケール」規格相較一般SUPER MINIPLA商品尺寸更大、細節更為講究，機構複雜度也隨之提升，是母艦與載機互動玩法在食玩商品線中的代表性呈現，深受特攝戰隊機體收藏者喜愛。",
     reviews: [
       {
         title: "【レビュー】 スーパーミニプラ ビッグスケール ジャガーバルカン | 獅子王ホビー",
@@ -11080,7 +11080,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10697/",
     imageUrl: "/images/dx-chogokin-yf29-superparts-ozma.jpg",
     tags: ["macross0006@中壢收多易", "マクロス", "マクロス30", "YF-29", "デュランダル", "オズマ・リー", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 YF-29 デュランダルバルキリー（オズマ機）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體。裝設後可強化火力與航程，重現遊戲《マクロス30 銀河を繋ぐ歌姫》中 Ozma Lee 機的強化超音速追加背包形態，可展開摺疊投影儀與飛彈艙門。",
+    description: "「マクロス30 銀河を繋ぐ歌姫」是為紀念マクロス系列30週年推出的遊戲作品，集結歷代マクロス系列人氣角色與可變戰機跨作登場。YF-29 デュランダルバルキリー原為劇場版《マクロスF～サヨナラノツバサ～》主角早乙女アルト的座機，本商品則衍生自遊戲中登場的Ozma Lee（オズマ・リー）搭乘機仕樣。本商品為DX超合金追加販售的「Super Parts」強化零件套組，魂ウェブ商店限定販售，不含機體本體，需搭配另售的DX超合金YF-29本體（オズマ機）方能組裝使用。裝設後可重現機體換裝超音速追加背包後強化火力與航程的特殊形態，通常會加大機背推進器並追加飛彈艙門與投影儀等機構，具備可展開摺疊的細部演出機構，讓玩家能重現遊戲中Ozma機切換至強化戰鬥形態的橋段。作為擴充配件商品，其收藏價值主要建立在與本體搭配後的完整度提升，是DX超合金YF-29系列收藏中補完機體火力設定的重要一環。由於魂ウェブ商店限定商品多為期間限定受理訂購，錯過訂購期即難以循一般通路購得，也讓此類擴充零件套組在系列收藏者間具有一定的稀有度與話題性。",
     reviews: [],
     youtube: [
       {
@@ -11104,7 +11104,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/12489",
     imageUrl: "/images/arcadia-yf19-fast-pack.jpg",
     tags: ["macross0006@中壢收多易", "マクロス", "マクロスプラス", "YF-19", "イサム・ダイソン", "ファストパック", "アルカディア", "1/60", "可變形", "合金"],
-    description: "《超時空要塞 Macross Plus》（1994）主角一根隼機駕駛的 YF-19 試作可變戰鬥機，附帶強化火力與加速性能的「Fast Pack」增裝組件的完全變形版本。由已解散的合金玩具品牌 Arcadia 推出，戰機形態全長約310mm，可完整重現 Fighter、Gerwalk、Battroid 三段變形，並附一根隼與楊．諾伊曼雙人座駕駛員人偶。",
+    description: "《超時空要塞マクロスプラス》是1994年推出的OVA作品，描寫舊識好友一根隼與ガルド・ゴア・ボーマン分別試乘次世代可變戰鬥機YF-19與YF-21進行競標對決的故事，並穿插新星偶像シャロン・アップル引發的AI失控危機，以精緻的空戰演出與音樂表現聞名。YF-19為一根隼（Isamu Dyson）的試作機，機動性與運動性能出色，是該作中與YF-21形成鮮明對比的「傳統派」代表機體。「ファストパック」為強化火力與加速性能的追加裝備組件，本商品為附帶該裝備的完全變形版本，由已於2019年結束事業的合金玩具品牌Arcadia推出。戰機形態全長約310mm，可完整重現戦闘機、ガウォーク、戦闘人形三段變形機構，標配一根隼與楊．諾伊曼雙人座駕駛員人偶，忠實重現作品中雙人駕駛艙的設定細節，是マクロスプラス周邊收藏中份量十足的經典商品。Arcadia作為承繼やまと合金玩具技術與資產的後繼品牌，其推出的完全變形商品向來以扎實的金屬質感與精準的變形機構著稱，本商品亦延續此一傳統，是喜愛90年代マクロス機體設計美學收藏者的重要選項。",
     reviews: [
       {
         title: "おもちゃ：アルカディア 完全変形 YF-19 with ファストパック レビュー",
@@ -11144,7 +11144,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12827/",
     imageUrl: "/images/dx-chogokin-vf31e-siegfried-chuck-mustang.jpg",
     tags: ["macross0006@中壢收多易", "マクロス", "マクロスΔ", "VF-31E", "ジークフリード", "チャック・マスタング", "早期警戒機", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《Macross Δ》中Δ小隊電子戰／早期警戒機駕駛員 Chuck Mustang 座機 VF-31E 齊格弗里德，是三一小隊機體齊聚 DX CHOGOKIN 系列的最終補完。機首新開模具重現可展開收納的雷達罩，為系列中造型最特殊的一機。可完整變形為 Battroid、Gerwalk、Fighter 三形態，並附 Chuck Mustang 與 Reina Prowler 兩款駕駛員人偶及多具無人偵察機掛載板。",
+    description: "「マクロスΔ」是2016年播出的マクロス系列電視動畫，描寫アイドル部隊「ワルキューレ」以歌聲對抗名為「ヴァール症候群」的異常現象，並穿插Δ小隊駕駛員們的日常與戰鬥故事。Chuck Mustang為Δ小隊資深隊員，擔任電子戰、早期警戒機駕駛員角色，座機VF-31E ジークフリード在外型上與隊友主力機種有所區隔，機首搭載可收納展開的大型雷達罩，凸顯其負責偵蒐、指揮支援而非正面格鬥的機體定位。本商品為DX超合金系列中補完三一小隊機體陣容的最終商品，機首部位為配合特殊雷達罩機構新開模具製作，是系列中造型最為特殊的一款。支援戰鬥機、ガウォーク、戦闘人形三段完全變形，標配Chuck Mustang與隊友Reina Prowler兩款駕駛員人偶，以及多具無人偵察機掛載板，呼應其電子戰角色設定，讓玩家能重現偵蒐支援與武裝掛載的多樣形態組合，是マクロスΔ機體收藏中補完隊伍全貌不可或缺的一款。搭配已推出的隊友機體並列展示，可完整重現Δ小隊各具分工的作戰陣容，對追求隊伍收藏完整度的玩家而言深具意義。",
     reviews: [
       {
         title: "DX超合金 VF-31Ｅジークフリード(チャック・マスタング機) レビュー | はっちゃか",
@@ -11184,7 +11184,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10962/",
     imageUrl: "/images/dx-chogokin-yf29b-percival-rb-custom.jpg",
     tags: ["macross0006@中壢收多易", "マクロス30", "銀河を繋ぐ歌声", "YF-29B", "パーツィバル", "Percival", "GE-71", "DX超合金", "Bandai", "可變形", "合金"],
-    description: "登場於遊戲《マクロス30 -銀河を繋ぐ歌声-》中的敵方勢力機體「YF-29B パーツィバル（ロッド機）」，以 YF-29 デュランダルバルキリー 為基礎衍生的姊妹機，採用海軍藍為主的專屬塗裝，與早乙女アルト機的量產型配色形成鮮明對比。因在「マクロス×魂ウェブ超時空合金展」上獲得高人氣而正式立體化為DX超合金規格商品。支援戰鬥機、加瓦克、戰鬥人形三段完全變形，戰鬥人形形態全高約220mm，標配主體、槍莢、展示台座、三種替換手腕、駕駛員迷你人偶及小刀。",
+    description: "「マクロス30 -銀河を繋ぐ歌声-」是為紀念マクロス系列30週年推出的跨作紀念遊戲，集結歷代人氣角色與機體跨時空共演。「YF-29B パーツィバル（ロッド機）」是遊戲原創登場的敵方勢力機體，以劇場版主角機YF-29 デュランダルバルキリー為基礎設計的姊妹機，機體塗裝改為以海軍藍為主色調，與早乙女アルト機的白色量產配色形成強烈對比，凸顯其作為對立陣營象徵性存在的定位。該機體因在「マクロス×魂ウェブ超時空合金展」展出時獲得粉絲高度支持而促成正式商品化，以DX超合金規格立體化，型號GE-71。支援戦闘機、ガウォーク、戦闘人形三段完全變形，戦闘人形形態全高約220mm，標準配件包含主體、槍莢武裝、展示台座、三種替換手腕零件及駕駛員迷你人偶與小刀，配件豐富度貼近正規主力機商品規格，是喜愛YF-29系列衍生機體與敵對陣營配色版本收藏者的重要選項。此類源自玩家投票或展覽人氣促成商品化的機體，往往因發行規模有限而在系列收藏中具備一定稀有度，也讓收藏者得以透過同機體不同陣營塗裝的對照，感受設定衍生的樂趣。",
     reviews: [
       {
         title: "【レビュー】バンダイ DX超合金 YF-29B パーツィバル（ロッド機）バトロイド形態",
@@ -11214,7 +11214,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1644/",
     imageUrl: "/images/dx-chogokin-vf25s-messiah-ozma-renewal.jpg",
     tags: ["macross0006@中壢收多易", "マクロス", "マクロスF", "VF-25S", "メサイア", "オズマ・リー", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版マクロスF -サヨナラノツバサ-》小隊長 Ozma Lee 座機 VF-25S メサイアバルキリー 全新原型重新開發的 Renewal Ver.，相較初版頭部雕刻更為銳利精緻，加瓦克形態可動範圍更貼近原作。灰色系機體以成型色重現主體塗裝，搭配黑黃塗裝與骷髏中隊標誌。標配槍莢、格鬥小刀、左右各四種替換手腕、專用底座及 Ranka Lee 迷你人偶，支援戰鬥機、加瓦克、戰鬥人形三段變形，是加裝 Armored Parts（另售，リニューアルVer.）前的本體版本。",
+    description: "《劇場版マクロスF～サヨナラノツバサ～》是2011年上映的マクロスF劇場版完結篇，講述S.M.S.部隊對抗ヴァジュラ與異星文明陰謀的最終決戰。Ozma Lee身為骷髏中隊隊長，座機VF-25S メサイアバルキリー在原作中經過強化改良，塗裝與武裝配置皆與量產型有所區別，象徵其隊長機的特殊地位。本商品為DX超合金系列針對VF-25S全新原型重新開發的Renewal Ver.，相較初版商品，頭部雕刻更為銳利精緻，ガウォーク形態可動範圍也更貼近原作演出。機體以灰色系成型色重現主體塗裝，搭配黑黃配色與骷髏中隊隊徽細節，標準配件包含槍莢、格鬥用小刀、左右各四種替換手腕零件、專用展示台座，以及Ranka Lee迷你人偶。支援戦闘機、ガウォーク、戦闘人形三段完全變形，是加裝另售Armored Parts（同為Renewal Ver.規格）強化裝甲前的基礎本體版本，適合作為單機收藏或後續擴充升級的起點。Renewal Ver.的推出反映廠商對長銷機體持續精進造形技術的態度，讓早期發售的機體也能透過重新開發獲得更貼近現行工藝水準的呈現。",
     reviews: [
       {
         title: "DX超合金 VF-25S メサイア (オズマ・リー機) リニューアルVer. レビュー | はっちゃか",
@@ -11249,7 +11249,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12425/",
     imageUrl: "/images/dx-chogokin-vf31j-siegfried-hayate-tamashii2017.jpg",
     tags: ["macross0006@中壢收多易", "マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "改", "TAMASHII NATION 2017", "魂ウェブ商店限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "為紀念 2017年12月於東京秋葉原舉辦的「魂ネイション2017」活動推出的限定商品。重現《マクロスΔ》最終話中登場的 VF-31J改 ジークフリード 特別塗裝，並新增該話首度登場的大型飛彈作為新規零件，可與另售的 Super Parts 併用專用轉接件。標配本體、左右各六種替換手腕、格鬥用小刀、Hayate Immelmann 迷你人偶、專用展示台一式及大型飛彈×2，魂ウェブ商店限定、僅開放預約於會場領取。",
+    description: "「魂ネイション2017」是2017年12月於東京秋葉原舉辦的萬代魂商品線大型展示活動，會場推出多款限定紀念商品供玩家預約領取。本商品即為紀念該活動推出的限定版本，重現《マクロスΔ》最終話中登場的VF-31J改 ジークフリード特別塗裝版本，該機為主角隊員Hayate Immelmann在故事高潮階段駕駛的座機，塗裝與武裝配置相較一般量產機型有所強化，象徵劇情最終決戰的緊張氛圍。商品新增該話中首度登場的大型飛彈作為新開模具零件，並可與另售的Super Parts套組併用專用轉接零件擴充遊玩性。標準配件包含本體、左右各六種替換手腕零件、格鬥用小刀、Hayate Immelmann迷你人偶、專用展示台一式，以及大型飛彈兩具，配件豐富度遠超一般量產機商品。本品僅限魂ウェブ商店預約、於活動會場現場領取，未曾在通路販售，是マクロスΔ機體收藏中辨識度極高且取得管道特殊的限定品項。此類活動限定商品因發行數量與領取方式皆受限，長年來在二手市場上的討論度與稀有度也相對較高，對於重視發售背景與紀念意義的收藏者格外具有吸引力。",
     reviews: [
       {
         title: "『マクロスΔ』VF-31J改 ジークフリードなどが「魂ネイション2017」開催記念商品として登場！ | 電撃ホビーウェブ",
@@ -11279,7 +11279,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://arcadia.ac/products/detail/228",
     imageUrl: "/images/arcadia-vf4g-lightning-iii.jpg",
     tags: ["macross0007@中壢收多易", "マクロス", "VF-4G", "ライトニングIII", "Arcadia", "MACROSS DIGITAL MISSION VF-X", "可變形", "1/60"],
-    description: "出自1997年PlayStation遊戲《MACROSS DIGITAL MISSION VF-X》的次世代可變形戰機「VF-4G ライトニングIII」，與同名機體 VF-4A（出自1987音樂OVA《Flash Back 2012》）為不同世界線的塗裝／規格衍生機，最初由やまと以網路限定方式販售，因入手困難而備受矚目，其後由 Arcadia 接手品牌重新販售。全長約300mm，支援戰鬥機、加瓦克、戰鬥人形三段完全變形，並具備駕駛員可乘坐座艙、起落架展開、飛彈掛架拆裝等多種機構，標配駕駛員人偶、替換手部零件、進氣口零件、展示台座及貼紙。",
+    description: "「MACROSS DIGITAL MISSION VF-X」是1997年発售的PlayStation模擬空戰遊戲，玩家可駕駛歷代マクロス系列可變戰機執行任務，「VF-4G ライトニングIII」即為該作原創設計的次世代可變戰機。與同名機體VF-4A（首見於1987年音樂OVA《Flash Back 2012》）分屬不同世界線的塗裝與規格衍生設定，兩者雖同名卻代表遊戲版與OVA版各自獨立的機體詮釋。本商品最初由已解散品牌やまと以網路限定形式販售，因發行量稀少、入手困難而在玩家間備受矚目，其後由繼承相關資產的Arcadia品牌接手重新販售，讓錯過首發的玩家有機會收藏。全長約300mm，支援戦闘機、ガウォーク、戦闘人形三段完全變形，並具備駕駛員可乘坐座艙、起落架展開、飛彈掛架拆裝等豐富機構設計。標準配件包含駕駛員人偶、替換手部零件、進氣口零件、專用展示台座及貼紙，是マクロス周邊收藏中兼具稀有度與遊戲取材背景的特殊機體。由於品牌歷經やまと解散再由Arcadia接手的曲折發行過程，此類商品在市場上的流通與定價也因發行背景而備受玩家關注與討論。",
     reviews: [
       {
         title: "Arcadia 1/60 scale VF-4G lightning III reissue review",
@@ -11303,7 +11303,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/yamato-vb6-konig-monster-1999.jpg",
     tags: ["macross0007@中壢收多易", "マクロス", "マクロスVF-X2", "ケーニッヒモンスター", "VB-6", "YAMATO", "可變形", "1/100"],
-    description: "初登場於1999年PlayStation2遊戲《マクロスVF-X2》的大型可變爆撃機「VB-6 ケーニッヒモンスター」，やまと於2004年推出的1/100大型完全可變形版本，早於後來的DX超合金（GE-51）規格商品問世。シャトル形態全長／全寬約320mm，無須拆換零件即可完整重現シャトル、ガウォーク、デストロイド三形態變形，原案設計由桜川晃（Liquid Stone）操刀。やまと結束營業後已停產多年，官方網站已不存在，故officialUrl暫留空。",
+    description: "「マクロスVF-X2」是1999年発售的PlayStation2空戰模擬遊戲，作為前作VF-X的續篇進一步擴充可駕駛機體陣容與任務內容，「VB-6 ケーニッヒモンスター」即為該作登場的大型可變爆撃機，以厚重的裝甲與強大火力見長，是遊戲中屬於重火力支援定位的代表機體之一。本商品為已結束事業的合金玩具品牌やまと於2004年推出的1/100大型完全可變形版本，早於後續萬代推出的DX超合金（GE-51）規格商品問世，可視為該機體早期立體化的先驅版本。シャトル形態全長／全寬約320mm，無須拆換零件即可完整重現シャトル、ガウォーク、デストロイド三段變形機構，操作流暢度在同世代合金玩具中頗受好評。機體原案設計由桜川晃（筆名Liquid Stone）操刀，延續其一貫厚重寫實的機械美學風格。やまと結束營業多年後官方網站已不存在，故本頁officialUrl暫留空，是マクロス玩具收藏中具有品牌歷史意義的絕版商品。作為やまと時代大型可變合金玩具的代表作之一，本商品也見證了2000年代初期マクロス周邊商品從中小規模品牌逐步走向精緻化、大型化的發展歷程。",
     reviews: [
       {
         title: "Yamato 1/100 Konig Monster - A Monster that Won't Fit Under Your Bed",
@@ -11338,7 +11338,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660583554000.html",
     imageUrl: "/images/smp-gyakuten-ippatsuman-tokkyu-zaurus-set.jpg",
     tags: ["smp0001@中壢收多易", "タイムボカンシリーズ", "逆転イッパツマン", "食玩", "SMP"],
-    description: "「SMP [SHOKUGAN MODELING PROJECT]」是萬代承繼「超級迷你Pla」技術推出的食玩模型系列，本作重現タイムボカンシリーズ第六作『逆転イッパツマン』（1982～1983年）主角機「トッキュウザウルス」拆解出「逆転王」機體，與搭載一發滿彈頭ユニット合體的場景，並附屬拖車「リリーフドン」。組裝完成後可重現作品中的合體變形機構，並附有正義之劍、逆転盾牌及兩種魔法伸縮棒等配件，忠實還原大河原邦男的昭和機械人設計。",
+    description: "「タイムボカンシリーズ」是龍之子製作、自1975年《タイムボカン》開始的長壽動畫系列，以固定班底的搞笑三人組反派與主角一行人鬥智鬥法為主軸，並固定穿插巨大機械人合體對決橋段。「逆転イッパツマン」為系列第六作，於1982至1983年播出，主角機「トッキュウザウルス」承襲系列傳統機械恐龍造型設計，可拆解重組為戰鬥用形態「逆転王」，並與拖車「リリーフドン」搭配運用強化戰力。本商品為萬代「SMP（SHOKUGAN MODELING PROJECT）」系列作品，承繼SUPER MINIPLA系列的立體化技術推出食玩模型，重現トッキュウザウルス拆解出逆転王機體並搭載一發滿彈頭ユニット合體的經典場景，並附屬拖車リリーフドン。組裝完成後可實際重現劇中變形合體機構，標準配件包含正義之劍、逆転盾牌及兩種魔法伸縮棒等武裝配件，忠實還原傳奇機械設計師大河原邦男一貫充滿昭和特攝美學的機器人造型語彙，是懷舊機器人動畫周邊收藏中頗具趣味性的一款。タイムボカン系列一貫兼具搞笑與熱血合體要素的特色，透過SMP系列的立體化技術得以延續給新一代玩家認識，也讓老玩家重溫昭和機器人動畫的懷舊情懷。",
     reviews: [
       {
         title: "食玩「SMP タイムボカンシリーズ 逆転イッパツマン トッキュウザウルスセット」レビュー 大河原邦男氏デザインの昭和タツノコメカを忠実に再現",
@@ -11368,7 +11368,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1499/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-alto-base.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "YF-29", "デュランダル", "早乙女アルト", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
-    description: "《劇場版マクロスF～サヨナラノツバサ～》主角早乙女アルト（Alto Saotome）機 YF-29 デュランダルバルキリー的最初期原版（GE-53），2011年6月25日發售，本體不含 Super Parts（另售，魂ウェブ商店限定）。支援戰鬥機、加瓦克、戰鬥人形三段完全變形，標配主體、槍莢、專用展示台、左右各三種替換手腕、駕駛員人偶及格鬥小刀，後於2020年推出整合本體與Super Parts的Full Set Pack版本。",
+    description: "《劇場版マクロスF～サヨナラノツバサ～》是マクロスF系列劇場版完結篇，講述S.M.S.部隊在異星文明ヴァジュラ侵略危機下的最終決戰，主角早乙女アルト（Alto Saotome）在片中駕駛全新試作機YF-29 デュランダルバルキリー投入戰局，象徵其身為王牌駕駛員的成長與定位提升。本商品為DX超合金系列針對該機體推出的最初期原版商品，型號GE-53，2011年6月25日發售，本體不含另售的Super Parts強化背包套組（魂ウェブ商店限定），玩家需另行購入方能重現劇場版終盤強化形態。支援戦闘機、ガウォーク、戦闘人形三段完全變形，標準配件包含主體、槍莢、專用展示台座、左右各三種替換手腕零件、駕駛員人偶及格鬥用小刀，配件組合已能完整重現機體基礎形態的各式演出姿勢。後於2020年萬代另行推出整合本體與Super Parts的Full Set Pack版本，方便新加入的收藏者一次購足，本商品則是最初單獨發售、僅含本體的原始版本，具有一定的發售時期紀念意義。作為YF-29系列的起點商品，其發售時期正值DX超合金系列邁向精緻化的重要階段，收藏此原始版本也是回顧該系列演進歷程的方式之一。",
     reviews: [
       {
         title: "ＤＸ超合金：YF-29 デュランダルバルキリー （早乙女アルト機）[レビュー]",
@@ -11392,7 +11392,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/dx-chogokin-yf29-alto-super-parts.jpg",
     tags: ["macross0005@中壢收多易", "マクロス", "マクロスF", "YF-29", "デュランダル", "早乙女アルト", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
-    description: "為 DX超合金 YF-29 デュランダルバルキリー（早乙女アルト機）本體追加的 Super Parts 套組，魂ウェブ商店限定販售，不含本體，2011年發售。裝設後可強化機體航程與火力，重現劇場版《サヨナラノツバサ》最終決戰的強化超音速追加背包形態。年代久遠官網頁面已下架，officialUrl暫留空，商品圖片取自海外代理商實物拍攝。",
+    description: "《劇場版マクロスF～サヨナラノツバサ～》劇情終盤，主角早乙女アルト駕駛的YF-29 デュランダルバルキリー換裝強化背包投入最終決戰，象徵故事高潮階段火力全開的關鍵形態轉換。本商品即為重現該強化背包的DX超合金追加「Super Parts」套組，魂ウェブ商店限定販售，2011年發售，商品內容不含機體本體，需搭配另售的DX超合金YF-29デュランダルバルキリー（早乙女アルト機）本體方能組裝使用。裝設後可強化機體航程與火力表現，重現劇場版最終決戰中的超音速追加背包形態，通常具備加大推進器與武裝掛架等細部機構設計，讓玩家能將原本已完整變形的本體進一步升級為劇場版高潮場景的完整形態。由於發售年代久遠，官方網站頁面已下架，故本頁officialUrl暫留空，商品圖片係取自海外代理商實物拍攝紀錄，是YF-29系列收藏中補完劇場版最終決戰設定不可或缺的擴充配件之一。與本體搭配組裝後，即可完整呈現劇場版終盤決戰畫面中機體換裝強化背包投入戰鬥的關鍵一幕，對重視原作場景重現度的收藏者而言別具意義。",
     reviews: [],
     youtube: [
       {
@@ -11416,7 +11416,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13807/",
     imageUrl: "/images/gx-75sp-mazinkaiser-20th-anniversary.jpg",
     tags: ["macross0005@中壢收多易", "マジンカイザー", "Mazinkaiser", "超合金魂", "20周年記念", "Bandai", "合金"],
-    description: "為紀念《マジンカイザー》放送20週年推出的「超合金魂 GX-75」豪華鍍膜版本，機身各部位施以金、銀、黑三色電鍍處理，展現漆黒に輝くメタルボディ質感。標配「ファイナルカイザーブレード」較初版放大約20%，附加全新開發的專用展示台座，造型取材自地獄城廢墟意象並刻有マジンカイザー標誌，內建水木一郎演唱《マジンカイザーのテーマ》音源播放機構，是マジンカイザー系列收藏中份量與紀念意義兼具的豪華版本。",
+    description: "「マジンカイザー」是2001年推出的OVA作品，為永井豪原作《マジンガーZ》系列的正統續篇兼強化重詮釋，講述主角兜甲児駕駛全面強化的機體「マジンカイザー」對抗機械獣帝国復甦威脅的故事，其厚重威武的機體設計與熱血演出風格深受經典機器人動畫迷喜愛，被視為2000年代初期重新點燃マジンガー系列人氣的重要作品。本商品為紀念該作放送20週年推出的「超合金魂 GX-75」豪華鍍膜版本，機身各部位施以金、銀、黑三色電鍍處理，呈現「漆黒に輝くメタルボディ」的高質感視覺效果，相較一般塗裝版本更顯華麗厚重。標準配件包含較初版放大約20%的招牌武裝「ファイナルカイザーブレード」，並附加全新開發的專用展示台座，造型取材自地獄城廢墟意象並刻有マジンカイザー標誌。機身更內建可播放主題曲《マジンカイザーのテーマ》（水木一郎演唱）的音源播放機構，結合視覺與聽覺的紀念巧思，是マジンカイザー系列收藏中份量與紀念意義兼具的豪華版本。「超合金魂」系列一貫強調機體重量感與金屬質地的還原，本次紀念版本更透過鍍膜工藝將角色代表性的黑金配色發揮得淋漓盡致，是喜愛超級機器人厚重美學收藏者的重點商品。",
     reviews: [],
     youtube: [
       {
@@ -11440,7 +11440,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2017/4549660140887000.html",
     imageUrl: "/images/smp-yusha-ou-gaogaigar.jpg",
     tags: ["smp0002@收多易", "勇者王ガオガイガー", "GaoGaiGar", "食玩", "SUPER MINIPLA"],
-    description: "「SUPER MINIPLA」系列推出的《勇者王ガオガイガー》食玩模型全4種（ギャレオン・ガイガー、ステルスガオー、ライナーガオー＋ディバイディングドライバー、ドリルガオー），組裝並合體後可完整重現主角機「ガオガイガー」的最終合體（ファイナルフュージョン）序列，比例約與1/144鋼彈模型相當。色分與貼紙精度高，組裝完成即接近設定原色，關節可動，並附換裝ステルスガオー專用大手，可重現劇中約九成的合體場景。",
+    description: "「勇者王ガオガイガー」是Sunrise於1997年播出的勇者系列最終長篇作品，描述地球防衛組織GGG運用主角獅子王凱融合而成的機械生命體「ガイガー」，搭配四台各具特色的支援機體「ガオーマシン」合體變形為主角機「ガオガイガー」，對抗來自宇宙的機械生命體ゾンダー侵略地球的故事，是勇者系列中劇情張力與機體設計皆廣受好評的代表作品。本商品為「SUPER MINIPLA」系列推出的食玩模型，全4種商品分別為ギャレオン・ガイガー、ステルスガオー、ライナーガオー＋ディバイディングドライバー、ドリルガオー，玩家需集齊全套方能組裝並合體重現主角機的最終合體序列「ファイナルフュージョン」，比例約與1/144鋼彈模型相當，便於與其他系列商品並列展示。色分與貼紙精度表現優異，組裝完成後即接近原作設定色彩，關節具備一定可動範圍，並附換裝ステルスガオー專用大手零件，讓玩家能重現劇中約九成的合體變形場景，是勇者系列食玩模型中完整度與人氣兼具的長銷經典商品。此系列的成功也奠定了SUPER MINIPLA品牌後續延伸至《FINAL》及其他勇者系列作品的基礎，是探討勇者機體食玩化發展歷程時不可忽略的起點作品。",
     reviews: [
       {
         title: "スーパーミニプラ 勇者王ガオガイガー［各パッケージ・ギャレオン］レビュー | 食玩レビュー.com",
@@ -11464,7 +11464,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/4549660339823000.html",
     imageUrl: "/images/smp-yusha-ou-gaogaigar-6.jpg",
     tags: ["smp0002@收多易", "勇者王ガオガイガー", "勇者王ガオガイガーFINAL", "GaoGaiGar", "ジェネシックガオガイガー", "食玩", "SUPER MINIPLA"],
-    description: "「SUPER MINIPLA」勇者王ガオガイガーシリーズ第6彈，收錄《勇者王ガオガイガーFINAL》最強破壊神「ジェネシックガオガイガー」全4種零件（ジェネシックギャレオン、ガジェットガオー、プロテクトガオー＆ブロウクンガオー、ストレイトガオー＆スパイラルガオー），組裝合體後完整重現劇中變形與合體場景，是勇者王系列食玩模型中人氣最高的機體之一。",
+    description: "「勇者王ガオガイガーFINAL」是1998年播出的《勇者王ガオガイガー》續篇作品，劇情規模與危機層級大幅升級，講述GGG與各國自製勇者機體聯手對抗更強大敵人的故事，「ジェネシックガオガイガー」即為劇中登場的最強破壊神機體，由主角機再度進化而成，象徵故事後段主角陣營戰力的終極提升，是整個勇者系列中人氣最高的機體形象之一。本商品為「SUPER MINIPLA」勇者王ガオガイガー系列第6彈食玩模型，收錄組成該機體所需的全4種零件商品：ジェネシックギャレオン、ガジェットガオー、プロテクトガオー＆ブロウクンガオー、ストレイトガオー＆スパイラルガオー，玩家需集齊全套方能組裝合體，完整重現劇中複雜的變形與合體場景。系列一貫維持高精度色分與貼紙細節，關節可動範圍充足，讓最終形態的巨大機體得以穩定展示與擺出多種姿勢，是勇者王系列食玩模型中收藏門檻較高、但完整度與滿足感也最為突出的一款作品，深受長年支持該系列的死忠玩家青睞。作為系列第6彈作品，本商品也象徵SUPER MINIPLA勇者王系列食玩化企劃已發展至相當成熟的階段，收藏齊全套機體更能完整重現《FINAL》故事高潮的視覺震撼。",
     reviews: [
       {
         title: "【レビュー】スーパーミニプラ 勇者王ガオガイガー6 (ジェネシックガオガイガー)",
@@ -11488,7 +11488,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13633/",
     imageUrl: "/images/gx-97-daileon.jpg",
     tags: ["macross0007@中壢收多易", "巨獣特捜ジャスピオン", "Jaspion", "ダイレオン", "超合金魂", "Bandai", "合金", "魂ウェブ商店限定"],
-    description: "《巨獣特捜ジャスピオン》（東映METAL HERO系列第4作）登場の超惑星戦闘母船「ダイレオン」超合金魂立體化商品，魂ウェブ商店限定販售。可從全長約170mm的戦闘母船形態完整變形為約185mm高的戦闘巨人形態，重現劇中招牌必殺技「コズミッククラッシュ」的多樣可動姿勢。標配黄金の剣、替換手部零件、艦載機「超惑星戦闘車ガービン」與「超惑星機イアンウルフ」、ジャスピオン迷你人偶及母船形態專用展示台，機身施以銀色電鍍處理，重現原作特攝場景中的存在感。",
+    description: "「巨獣特捜ジャスピオン」是東映「メタルヒーロー」系列的第4作特攝作品，於1985年播出，講述來自宇宙的正義戦士ジャスピオン對抗侵略地球的サタン帝国的故事，是メタルヒーロー系列中首度大量導入大型變形機械要素的作品之一，母船機體「ダイレオン」即為劇中支援ジャスピオン作戰的超惑星戦闘母船，可變形為巨大戰鬥機人形態投入近身戰鬥，是該作特攝場景中極具存在感的招牌機體。本商品為「超合金魂 GX-97」規格立體化商品，魂ウェブ商店限定販售，可從全長約170mm的戦闘母船形態完整變形為約185mm高的戦闘巨人形態，並重現劇中招牌必殺技「コズミッククラッシュ」的多樣可動姿勢演出。標準配件包含黄金の剣、替換手部零件、艦載機「超惑星戦闘車ガービン」與「超惑星機イアンウルフ」、ジャスピオン迷你人偶，以及母船形態專用展示台座，機身並施以銀色電鍍處理，重現原作特攝畫面中金屬機體的厚重存在感，是懷舊特攝機器人周邊收藏中頗具份量的作品。「超合金魂」系列近年持續回顧メタルヒーロー等昭和末期至平成初期特攝作品的機體設定，此類魂ウェブ商店限定商品也讓相對冷門作品的機體得以被重新關注與收藏。",
     reviews: [
       {
         title: "超合金魂：GX-97 超惑星戦闘巨人 ダイレオン [レビュー]",
@@ -11512,7 +11512,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_5340",
     imageUrl: "/images/hg-shenlong-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "シェンロンガンダム", "クリアパーツ", "THE GUNDAM BASE限定"],
-    description: "THE GUNDAM BASE限定販售的HG 1/144シェンロンガンダム透明成形色版本，關節與手部零件維持金屬色成形，紅、藍、黃、白各面板改為透明素材，呈現晶瑩剔透的視覺效果。胸部內建可動軸心，可做出左右及前後彎曲動作；肩關節新增滑動機構強化動態姿勢演出；標誌武裝「龍牙（ドラゴンハング）」可重現展開與收納兩種狀態，並附延伸零件重現伸長效果。",
+    description: "「新機動戦記ガンダムW」是1995年播出的鋼彈系列外傳作品，描寫五名少年駕駛員各自搭乘由Gundanium合金打造的高性能鋼彈機體，潛入地球圈對抗殖民地軍事組織OZ的故事，其中張五飛（Chang Wufei）所駕駛的「シェンロンガンダム」以中國武術與龍形意象為設計主題，機體造型融合東方美學元素，是五飛角色堅毅武人形象的具體投射。本商品為THE GUNDAM BASE限定販售的透明成形色版本，關節與手部零件維持金屬色成形，紅、藍、黃、白各面板則改為透明素材，呈現晶瑩剔透的視覺效果，是常規塗裝版之外別具特色的收藏選項。可動機構方面，胸部內建可動軸心，可做出左右及前後彎曲動作；肩關節新增滑動機構，強化整體動態姿勢演出的自由度。標誌武裝「龍牙（ドラゴンハング）」可重現展開與收納兩種狀態，並附延伸零件重現武器伸長效果，讓玩家能完整重現原作中五飛以龍牙近身格鬥的招牌畫面，是ガンダムW系列透明色商品中辨識度極高的一款。THE GUNDAM BASE限定的透明成形色系列近年成為鋼彈模型收藏中頗受歡迎的品項，透過素體本身呈現的色彩效果，讓玩家無需額外塗裝即可享受與常規版截然不同的展示樂趣。",
     reviews: [
       {
         title: "【HGAC】シェンロンガンダム[クリアカラー]【イベント限定】レビュー | プレナム速報",
@@ -11536,7 +11536,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?detail=4790",
     imageUrl: "/images/hg-deathscythe-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "デスサイズ", "クリアパーツ", "THE GUNDAM BASE限定"],
-    description: "THE GUNDAM BASE限定販售的HG 1/144ガンダムデスサイズ透明成形色版本，肩甲與膝甲部位搭載滑動機構可做出自然姿勢演出，標配兩種型態的光束大鎌（收納／展開）效果零件，巴斯特盾牌刀刃部位可左右連動展開，並附透明零件重現光束發射狀態，是Gundam Wing系列透明色收藏中辨識度極高的一款。",
+    description: "「新機動戦記ガンダムW」故事中，デュオ・マックスウェル（Duo Maxwell）駕駛的「ガンダムデスサイズ」以死神鐮刀為武裝主題，機體具備高度隱密作戰能力，擅長潛入敵陣展開奇襲，其造型與武裝設計皆呼應デュオ豁達不羈卻背負沉重過去的角色性格，是五名鋼彈駕駛員中形象最為鮮明的一位。本商品為THE GUNDAM BASE限定販售的透明成形色版本，延續HGガンダムW透明系列一貫的晶透質感呈現，讓玩家能以不同視角欣賞機體內部結構與零件分件細節。可動機構方面，肩甲與膝甲部位搭載滑動機構，可做出更為自然流暢的姿勢演出；標準配件包含收納與展開兩種型態的光束大鎌效果零件，重現デスサイズ標誌性的死神鐮刀武裝變化。巴斯特盾牌刀刃部位可左右連動展開，並附透明效果零件重現光束發射狀態，讓玩家得以擺出格鬥與遠程攻擊等多種戰鬥姿勢，是ガンダムW系列透明色收藏中辨識度極高的一款商品。搭配同系列陸續推出的其他四台透明色鋼彈並列展示，可完整重現五名主角駕駛員各自座機集結出擊的經典陣容畫面。",
     reviews: [
       {
         title: "HGAC ガンダムデスサイズ[クリアカラー] レビュー",
@@ -11560,7 +11560,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_3083",
     imageUrl: "/images/hg-sandrock-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "サンドロック", "クリアパーツ", "THE GUNDAM BASE限定"],
-    description: "THE GUNDAM BASE限定販售的HG 1/144ガンダムサンドロック透明成形色版本，追求最佳比例並可重現劇中招牌姿勢，雙臂可向後伸展重現熱能彎刀（ヒートショーテル）拔刀動作，標配可替換角度手腕零件，熱能彎刀可切換收鞘與拔出兩種狀態。",
+    description: "「新機動戦記ガンダムW」中，カトル・ラバーバ・ウィナー（Quatre Raberba Winner）駕駛的「ガンダムサンドロック」是以沙漠地形作戰為設計主題的機體，標誌武裝為雙持的熱能彎刀（ヒートショーテル），象徵カトル溫和外表下堅定的戰鬥意志，也是五機鋼彈中格鬥風格最為鮮明的一台。本商品為THE GUNDAM BASE限定販售的透明成形色版本，延續系列一貫的晶透質感視覺呈現，追求最佳比例與可動範圍，力求重現劇中招牌姿勢與格鬥動作。雙臂可向後大幅伸展，重現拔出雙持熱能彎刀時的經典演出動作，標準配件包含可替換角度的手腕零件，方便擺出多種格鬥姿勢；熱能彎刀本身可切換收鞘與拔出兩種狀態，呈現武器收放的細節變化。整體造型比例均衡，是ガンダムW透明色系列中兼顧動感與收藏完整度的一款作品，適合搭配同系列其他四台鋼彈並列展示，重現原作五人小隊集結的經典畫面。透明成形色的呈現方式也讓サンドロック相對簡潔的機體造型多了一層清透質感，是喜愛比較常規塗裝版與透明版差異的收藏者值得留意的品項。",
     reviews: [
       {
         title: "HGAC ガンダムサンドロック［クリアカラー］ レビュー",
@@ -11584,7 +11584,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_4280",
     imageUrl: "/images/hg-wing-gundam-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "ウイングガンダム", "クリアパーツ", "THE GUNDAM BASE限定"],
-    description: "THE GUNDAM BASE限定販售的HG 1/144ウイングガンダム透明成形色版本，透明裝甲可清楚看見內部機構與盾牌變形機關細節。標配可展開收納的機翼機構，可重現動態演出姿勢，並可完整變形為鳥型形態（Bird Mode），標配大型巴斯特步槍及兩把光束軍刀。",
+    description: "「新機動戦記ガンダムW」主角ヒイロ・ユイ（Heero Yuy）駕駛的「ウイングガンダム」是五機鋼彈中的主角代表機，機翼造型與變形為鳥型形態（Bird Mode）的設計是其最大特色，象徵ヒイロ執行任務時展現的高速機動與精準打擊能力，也是ガンダムW系列標誌性最強的視覺符號之一。本商品為THE GUNDAM BASE限定販售的透明成形色版本，透明裝甲讓玩家能清楚看見內部機構與盾牌變形機關的細部結構，是欣賞機體工程設計的絕佳版本。標準配件包含可展開收納的機翼機構，能重現機體展翼時的動態演出姿勢；機體可完整變形為鳥型形態，重現原作中高速飛行追擊的經典畫面。武裝方面標配大型巴斯特步槍及兩把光束軍刀，兼顧遠程火力與近身格鬥的表現力。作為系列主角機，本商品在透明色收藏中格外具有象徵意義，適合作為ガンダムW透明色系列收藏的核心展示品。作為五機鋼彈中知名度最高的一台，本商品的透明色版本也往往是玩家蒐集整套ガンダムW透明色系列時最先入手的品項。",
     reviews: [
       {
         title: "【イベント限定】ウイングガンダム[クリアカラー] レビュー",
@@ -11608,7 +11608,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102672698000&grp_id=5325",
     imageUrl: "/images/mg-narrative-gundam-b-packs-verka.jpg",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダムNT", "ナラティブガンダム", "Ver.Ka", "Premium Bandai限定"],
-    description: "取材自《機動戦士ガンダムNT》「不死鳥狩り作戦」中登場的ナラティブガンダム B装備，加藤單（Katoki Hajime）監修的Ver.Ka規格全新造形背包套件。特色武裝「有線遠隔攻撃端末」搭載可動軸心機構，可重現電影中不干涉MS肩部的射出姿勢，並具備纜線拉出、捲收演出機構。標配Action Base與武裝展示台座，可將B装備與有線攻撃端末以射出狀態同時展示，另附ジオン式サイコフレーム透明跑道零件及C装備背包用轉接零件。",
+    description: "《機動戦士ガンダムNT》是2018年上映的鋼彈系列劇場版動畫，故事銜接《機動戦士ガンダムUC》後續時間線，講述主角ヨナ・バシュタ駕駛「ナラティブガンダム」執行代號「不死鳥狩り作戦」，追尋失落的獨角獣鋼彈技術與角色救贖的故事。ナラティブガンダム可依任務需求換裝A、B、C三種不同背包裝備，其中B裝備搭載特色武裝「有線遠隔攻撃端末」，象徵機體在特定戰術情境下的支援攻擊能力。本商品為由知名機械設計師加藤單（Katoki Hajime）監修的Ver.Ka規格全新造形背包套件，有線遠隔攻撃端末搭載可動軸心機構，可重現電影中不干涉MS本體肩部的射出姿勢，並具備纜線拉出、捲收演出機構，重現武裝發射的動態過程。標準配件包含Action Base與武裝展示台座，可將B裝備與有線攻撃端末以射出狀態同時展示，另附ジオン式サイコフレーム透明跑道零件及C裝備背包用轉接零件，方便玩家日後擴充收藏其他裝備版本，是Ver.Ka系列中造型考究、細節豐富的一款高規格商品。加藤單監修的Ver.Ka系列一貫以貼近電影演出的細膩機構設計著稱，本商品作為背包裝備套件，也讓玩家能靈活切換ナラティブガンダム不同任務形態的收藏玩法。",
     reviews: [],
     youtube: [
       {
@@ -11632,7 +11632,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102666949000&grp_id=5325",
     imageUrl: "/images/mg-sinanju-stein-narrative-verka.jpg",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダムNT", "シナンジュ・スタイン", "Ver.Ka"],
-    description: "承繼RX-0系列全機身精神框架的原型機「シナンジュ・スタイン」，以《機動戦士ガンダムNT》劇場版登場的ナラティブVer.造形加藤單Ver.Ka規格重新詮釋。機體同時擁有聯邦與吉翁雙方設計語彙，各部位施以精細engraving刻紋，此次以純白／純黑零件精準分色（有別於一般版本以貼紙表現）。雙持ビームアックス可連結成長柄ビームナギナタ，亦可裝設於盾牌上展開光束刃；手部採用νガンダムVer.Ka同款「情感操作器SP」設計，各指節可獨立可動，並附立姿與坐姿兩款ゾルタン・アッカネン人偶。",
+    description: "「シナンジュ・スタイン」是《機動戦士ガンダムUC》系列衍生設定中登場的原型機，承繼RX-0系列全機身精神框架技術，機體造型同時融合聯邦與吉翁雙方的設計語彙，象徵其身世與技術來源的複雜性。本商品以《機動戦士ガンダムNT》劇場版登場的「ナラティブVer.」造形為基礎，由加藤單以Ver.Ka規格重新詮釋設計，該版本機體駕駛員為敵方陣營角色ゾルタン・アッカネン（Zoltan Akkanen）。造型上各部位施以精細engraving刻紋線條，此次版本更以純白／純黑零件精準分色呈現機體雙陣營配色，有別於一般版本多以貼紙表現的作法，色彩對比更為銳利分明。武裝方面雙持ビームアックス可連結成長柄ビームナギナタ，亦可拆卸裝設於盾牌上展開光束刃，呈現多種武裝組合變化；手部採用與νガンダムVer.Ka同款的「情感操作器SP」設計，各指節可獨立可動，大幅提升持械與細膩動作的表現力。另附立姿與坐姿兩款ゾルタン・アッカネン人偶，方便玩家搭配情境展示，是Ver.Ka系列中兼具設計深度與細節密度的代表作品。機體融合聯邦與吉翁設計語彙的獨特身世，加上加藤單一貫細膩的機構詮釋手法，使本商品成為鋼彈UC系列衍生機體收藏中話題性與完成度兼具的一款。",
     reviews: [
       {
         title: "MG シナンジュ・スタイン (ナラティブ Ver.) Ver.Ka レビュー | ガンダムブログはじめました",
@@ -11662,7 +11662,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102634313000&grp_id=5325",
     imageUrl: "/images/mg-gundam-mk5-clear-color.jpg",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "ガンダム・センチネル", "クリアパーツ", "THE GUNDAM BASE限定"],
-    description: "取材自小說《ガンダムセンチネル》、New Desides勢力運用的準精神感應框架試作機「ORX-013 ガンダムMk-V」，首度以MG規格立體化的透明成形色版本。機身以透明藍為基調，頭部、胸部與腿部的白色細節線條透過分件與分色精細呈現，各式武裝含手部感應通訊裝置（インコム）等亦忠實重現，THE GUNDAM BASE限定販售。",
+    description: "「ガンダムセンチネル」是1987年起於玩具雜誌連載的鋼彈系列外傳小說企劃，設定於一年戰爭後的宇宙世紀0087年，講述地球聯邦內部組織「ロンド・ベル」與新興勢力間的權力鬥爭故事，並發表大量獨創機體設定補完U.C.世界觀的空白時期，深受硬派鋼彈迷喜愛。「ORX-013 ガンダムMk-V」即為劇中運用勢力「New Desides」開發運用的準精神感應框架試作機，作為量産機定位存在，象徵該勢力在精神感應武器技術上的野心與嘗試。本商品為首度以MG規格立體化的透明成形色版本，THE GUNDAM BASE限定販售，機身以透明藍為基調呈現晶透質感，頭部、胸部與腿部的白色細節線條透過分件與分色技術精細呈現，避免依賴貼紙表現細節。各式武裝包含手部感應通訊裝置（インコム）等精神感應相關裝備亦忠實重現，讓玩家得以透過通透機身欣賞內部結構工程之美，是鋼彈外傳機體收藏中兼具設定深度與視覺特色的一款商品。《ガンダムセンチネル》所開創的獨立衍生機體設定，長年來持續透過各式立體化商品與硬派鋼彈迷保持連結，本商品即為此脈絡下深受矚目的一次全新規格立體化嘗試。",
     reviews: [
       {
         title: "MG ガンダムMk-V クリアカラー レビュー｜ガンダムベース限定 1/100 センチネル 組み立て・仕上げガイド",
@@ -11686,7 +11686,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102558534000&grp_id=5325",
     imageUrl: "/images/mg-astray-red-dragon.jpg",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "ガンダムSEED ASTRAY", "アストレイ"],
-    description: "junk屋組合ロウ・ギュール駕駛的紅色機體最強形態「ガンダムアストレイ レッドドラゴン」MG規格全新造形立體化。頭部換裝為ドラグヘッド，背部搭載三具卡雷特弗爾夫（カレトヴルッフ），可重組為Sモード、Gモード或雙手大戟形態演出多種姿勢；標配格伯拉直式劍、光束步槍及可拆卸光束效果的Bauk偵察頭部等配件，1/100比例更能完整重現迫力十足的重裝形態。",
+    description: "《機動戦士ガンダムSEED DESTINY ASTRAY R》是ガンダムSEED系列外傳漫畫作品，描寫junk屋出身的駕駛員ロウ・ギュール（Lowe Guele）駕駛紅色機體アストレイ在戰場與廢鐵回收工作間輾轉求生的故事，機體歷經多次改裝強化，「レッドドラゴン」即為其中火力與裝甲皆大幅升級的最強形態，象徵ロウ從junk屋技師蛻變為熟練駕駛員的成長軌跡。該形態頭部換裝為龍首造型的「ドラグヘッド」，背部搭載三具巨大爪狀武裝「カレトヴルッフ」，可重組變化為Sモード、Gモード或雙手持大戟等多種形態，展現豐富的武裝組合玩法。本商品為MG規格全新造形立體化商品，1/100比例更能完整重現機體重裝厚重的迫力感，標準配件包含格伯拉直式劍、光束步槍，以及可拆卸光束效果零件的Bauk偵察頭部等配件，讓玩家能重現原作漫畫中多種招牌武裝組合姿勢，是ASTRAY系列衍生機體收藏中份量感與可玩性兼具的代表作品。ASTRAY系列一貫強調「junk屋改裝機」的設定魅力，機體造型隨劇情推進不斷升級強化，本商品即為呈現該系列最具視覺衝擊力形態的立體化代表。",
     reviews: [
       {
         title: "MG ガンダムアストレイ レッドドラゴン レビュー | ガンダムブログはじめました",
@@ -11710,7 +11710,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102654069000&grp_id=5325",
     imageUrl: "/images/hg-tolro800-torohachi.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "Bandai", "機動戦士ガンダムUC", "THE GUNDAM BASE限定", "全新造形"],
-    description: "《機動戦士ガンダムUC》登場的小型工作用MS「TOLRO-800 -トロハチ-」，THE GUNDAM BASE限定全新造形HG化。駕駛艙罩採用透明零件可開闔，內部細節精密重現；肩部軌道可動、手臂伸縮機構及爪部可動一應俱全，並附專用零件可連接另售的「Action Base 5」重現各種動作姿勢。",
+    description: "「機動戦士ガンダムUC」是鋼彈系列於2010年代推出的重要OVA企劃，改編自福井晴敏原作小說，講述主角バナージ・リンクス與獨角獣鋼彈捲入拉普拉斯之盒爭奪戰的故事，劇中除主力戰鬥用MS外，也穿插不少作業用、工程用機體豐富世界觀細節，「TOLRO-800 -トロハチ-」即為其中登場的小型工作用MS，負責港灣或設施內的搬運、維修等作業任務，是宇宙世紀日常後勤場景中常見的機體類型。本商品為THE GUNDAM BASE限定推出的全新造形HG商品，此類原創或補完設定機體向來是ガンダムベース限定商品線的特色主打之一。駕駛艙罩採用透明零件並可實際開闔，內部細節精密重現，貼近工程用機體的寫實質感；肩部軌道可動、手臂伸縮機構及爪部可動一應俱全，重現作業機特有的多關節靈活動作。另附專用零件可連接另售的「Action Base 5」重現各種工作姿勢，是喜愛宇宙世紀後勤、作業用機體收藏者不可錯過的特色商品。此類非戰鬥用MS的立體化，也讓收藏者得以透過模型呈現宇宙世紀世界觀中鮮少被聚焦的日常勞動場景，豐富整體收藏的敘事層次。",
     reviews: [],
     youtube: [
       {
@@ -11734,7 +11734,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102671967000&grp_id=5325",
     imageUrl: "/images/hg-draken-e.jpg",
     tags: ["BOX0002", "ガンプラ", "HG", "Bandai", "機動戦士ガンダム0080", "THE GUNDAM BASE限定", "全新造形"],
-    description: "《機動戦士ガンダム0080 ポケットの中の戦争》登場的工程用起重機型MS「ドラケンE」，THE GUNDAM BASE限定以全新造形HG化，是ガンダムベース原創造形第2彈商品。駕駛艙內部形狀精密重現，並可透過零件選擇組裝出吉翁軍所屬機塗裝，起重臂各部位皆可滑動可動，重現作業機特有的機構感。",
+    description: "《機動戦士ガンダム0080 ポケットの中の戦争》是1989年推出的OVA作品，以少年視角描寫一年戰爭末期殖民地內平凡日常與戰爭殘酷面的對比，是鋼彈系列中評價極高的戰爭寫實作品之一。「ドラケンE」為劇中登場的工程用起重機型MS，主要負責港灣或建設工地的重物吊掛與搬運作業，並非正規戰鬥用機體，呼應本作著重描繪戰場周邊日常勞動與後勤場景的敘事基調。本商品為THE GUNDAM BASE限定推出的全新造形HG商品，是ガンダムベース原創造形系列第2彈作品，延續前作TOLRO-800所開創的作業用機體立體化路線。駕駛艙內部形狀經過精密重現，並可透過零件選擇組裝出吉翁軍所屬機的塗裝方案，讓玩家能自行決定機體所屬陣營配色。起重臂各部位皆可滑動可動，充分重現作業機特有的機構感與工作姿態，是喜愛《0080》世界觀細節與後勤支援類機體收藏者值得關注的特色商品。《0080》以少年視角描繪戰爭殘酷面向的敘事手法向來受到高度評價，此類非戰鬥用機體的商品化，也呼應該作著重呈現戰場周邊日常樣貌的獨特敘事基調。",
     reviews: [
       {
         title: "【ガンプラ】HG ガンダムベース限定 ドラケンE レビュー",
@@ -11764,7 +11764,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1319/",
     imageUrl: "/images/dx-vb6-konig-monster-sp.jpg",
     tags: ["マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "VB-6", "DX超合金", "SP Ver.", "Bandai", "可變形", "合金"],
-    description: "與標準版「DX超合金 VB-6 ケーニッヒ・モンスター」（GE-51）同日發售的特別規格「SP Ver.」，取材自《劇場版マクロスF～イツワリノウタヒメ～》。相較標準版，SP Ver.追加了SMS部隊識別塗裝與機體標誌細節，デストロイド形態肩部塗裝與貼紙配置更貼近劇場版演出畫面，是同款機體收藏中另一種版本選擇。",
+    description: "「劇場版マクロスF～イツワリノウタヒメ～」是マクロスF系列電視動畫劇情重新剪輯並加入新演出的首部劇場版作品，講述S.M.S.部隊在異星生命體ヴァジュラ威脅下的初期戰鬥故事。「VB-6 ケーニッヒ・モンスター」為S.M.S.部隊運用的大型可變爆撃機，以厚重裝甲與強大火力著稱，是該作機體陣容中重火力支援的代表機種之一。本商品為與標準版「DX超合金 VB-6 ケーニッヒ・モンスター」（GE-51）同日發售的特別規格「SP Ver.」，取材自劇場版演出中的機體樣貌。相較標準版，SP Ver.追加了S.M.S.部隊識別塗裝與機體標誌等細節，デストロイド形態的肩部塗裝與貼紙配置也更貼近劇場版畫面演出，讓玩家能同時收藏標準與特別規格兩種版本進行比較。作為同款機體的差異化收藏選項，本商品保留原有的完全變形機構與豐富配件組合，是喜愛比較同一機體不同塗裝版本的マクロス收藏者的合適選擇。同日發售標準版與SP Ver.的作法，也讓玩家能依個人偏好選擇貼近遊戲原設或劇場版演出的塗裝版本，豐富同一機體的收藏面向。",
     reviews: [
       {
         title: "「DX超合金 VB-6 ケーニッヒ・モンスター SPver」代行レビュー",
@@ -11794,7 +11794,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/10741/",
     imageUrl: "/images/dx-konig-monster-wings-of-valkyria.jpg",
     tags: ["マクロス", "マクロスF", "ケーニッヒモンスター", "VB-6", "DX超合金", "魂ウェブ商店限定", "Bandai", "可變形", "合金"],
-    description: "取材自劇場版《マクロスF～サヨナラノツバサ～》的「ケーニッヒ・モンスター」魂ウェブ商店限定版，機身施以劇場版限定的特別標誌塗裝，並附屬「ウイングス・オブ・ヴァルキュリア」主題塗裝彩繪貼紙，重現SMS部隊在劇場版決戰場景中的機體樣貌，2014年10月24日至12月21日期間開放預訂。",
+    description: "《劇場版マクロスF～サヨナラノツバサ～》是マクロスF劇場版完結篇，描寫S.M.S.部隊在異星文明ヴァジュラ侵略危機下展開最終決戰的故事。「ケーニッヒ・モンスター」作為S.M.S.部隊運用的大型可變爆撃機，在劇場版終盤戰役中同樣扮演重要的重火力支援角色。本商品為取材自該劇場版演出的「ケーニッヒ・モンスター」魂ウェブ商店限定版，機身施以劇場版限定的特別標誌塗裝，並附屬以「ウイングス・オブ・ヴァルキュリア」為主題的彩繪貼紙套組，重現S.M.S.部隊在劇場版決戰場景中呈現的機體樣貌與隊徽識別。2014年10月24日至12月21日期間開放預訂販售，屬於限定期間受理訂購的商品，錯過訂購期即難以透過一般通路購得。作為魂ウェブ商店限定機體，本商品延續標準版的完全變形機構與配件組合，透過特殊塗裝與貼紙賦予機體獨特的紀念版本識別度，是喜愛收藏マクロスF劇場版特殊塗裝機體的玩家值得留意的品項。限定期間受理訂購的販售方式，也使此類商品在錯過訂購時機後往往僅能透過二手市場尋獲，具有一定的收藏門檻與紀念價值。",
     reviews: [],
     youtube: [
       {
@@ -11819,7 +11819,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/109563",
     imageUrl: "/images/bearpanda-xiaojiu.jpg",
     tags: ["原創角色", "美少女フィギュア", "1/6", "中國品牌", "否极"],
-    description: "中國廠牌「否极」New Era系列作品「灵尾之契约 小九」，取材自原創古風角色設定，1/6比例、全高約413mm。造型結合中國風飄逸長裙與粉色系狐尾裝飾，原型師由sk糖王周毅操刀，材質採用PVC搭配金屬鏈條與寶石裝飾配件，呈現柔美空靈的東方美人形象。",
+    description: "「灵尾之契约 小九」是中國模型廠牌「否极」旗下「New Era」系列推出的原創角色手辦作品，取材自帶有古風奇幻色彩的原創世界觀設定，角色名「小九」暗示其身分可能與東方神話中的靈狐、九尾傳說相關，呼應商品造型中融入的狐尾裝飾元素。作品比例為1/6，全高約413mm，屬於中大型美少女手辦規格，展示存在感十足。造型設計上結合中國風飄逸長裙的柔美線條與粉色系狐尾裝飾，呈現空靈飄逸又不失嫵媚的東方美人形象，服飾細節與髮絲流動感皆展現原型師深厚的雕塑功力。原型製作由知名原型師sk糖王周毅操刀，其作品向來以細膩的表情神韻與服飾層次感著稱，本作亦延續其一貫風格。材質採用PVC搭配金屬鏈條與寶石裝飾配件，金屬與寶石元素的加入提升整體質感與精緻度，是近年中國原創美少女手辦品牌崛起浪潮中，兼具東方美學與精工製作水準的代表作品之一。近年不少中國廠牌積極投入原創IP開發，透過大比例、高細節的手辦形式塑造自有角色識別度，本作即為此一趨勢下強調東方奇幻美學的代表嘗試。",
     reviews: [],
     youtube: [
       {
@@ -11844,7 +11844,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hpoi.net/hobby/110789",
     imageUrl: "/images/heatpanda-asuka-1-4.jpg",
     tags: ["新世紀エヴァンゲリオン", "Evangelion", "式波・アスカ・ラングレー", "美少女フィギュア", "1/4", "中國品牌"],
-    description: "中國廠牌BearPanda旗下「HeatPanda」品牌推出的《新世紀エヴァンゲリオン》式波・明日香・蘭格雷1/4大比例手辦，全高約410mm，PVC＋ABS材質，附金屬銘牌。忠實重現經典310號機駕駛服造型，紅色緊身服搭配招牌雙馬尾髮型，是明日香周邊收藏中份量感十足的大型商品化作品。",
+    description: "《新世紀エヴァンゲリオン》是1995年播出、由庵野秀明執導的劃時代科幻動畫作品，描寫少年少女駕駛人形決戰兵器「EVA」對抗名為「使徒」的謎樣敵人，並深入探討角色內心創傷與人際關係的複雜命題，是動畫史上影響力最深遠的作品之一。式波・明日香・蘭格雷（Asuka Langley Shikinami）是劇中重要女主角之一，個性好強自信卻內心脆弱，駕駛專屬機體「第參號機（310號機）」，其鮮明的角色魅力使她長年位居該作人氣角色前列，也是周邊商品化最頻繁的角色之一。本商品為中國廠牌BearPanda旗下「HeatPanda」品牌推出的1/4大比例手辦，全高約410mm，採用PVC＋ABS材質製作，並附金屬銘牌提升收藏質感。造型忠實重現經典310號機駕駛服造型，紅色緊身服凸顯角色鮮明的視覺識別度，搭配招牌雙馬尾髮型完整重現角色標誌性外觀，是明日香周邊收藏中份量感十足、適合作為展示焦點的大型商品化作品。近年中國廠牌積極投入《EVA》等經典日系IP的大比例手辦開發，本商品即以扎實的比例與細節工藝，展現該品牌在授權角色商品化上的用心程度。",
     reviews: [],
     youtube: [],
   },
@@ -11863,7 +11863,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/62126/POP+UP+PARADE+SP+Albedo+Jet+Black+Dress+Ver.",
     imageUrl: "/images/popup-parade-sp-albedo.jpg",
     tags: ["オーバーロード", "Overlord", "アルベド", "Albedo", "POPUP PARADE", "GOOD SMILE COMPANY", "GSC限定"],
-    description: "Good Smile Company「POP UP PARADE SP」系列（突破一般POPUP PARADE規格的大型系列）取材自《オーバーロード 聖王国編》身著漆黒禮服的アルベド，全高約245mm，原型師萬蔵まもる（Louis Entertainment）操刀。充分展現角色魔性魅惑的曲線身姿與妖豔氣場，標配專用展示台座，是POPUP PARADE系列中份量與精緻度並重的高規格商品。",
+    description: "《オーバーロード》是原作丸山くがね的輕小說改編動畫作品，描寫主角安茲・烏爾・恭連同其麾下納薩力克地下大墳墓的守護者們，在異世界展開統治與冒險的故事，是近年異世界題材中頗具人氣的黑暗奇幻代表作。アルベド（Albedo）為納薩力克樓層守護者統帥，同時也是深愛主角安茲的重要角色之一，其兼具妖艷與威嚴的魔性形象，加上背後象徵墮天使的翅膀設計，使她成為該作周邊商品化最頻繁的角色之一。本商品取材自《オーバーロード 聖王国編》中身著漆黒禮服的アルベド形象，隸屬Good Smile Company旗下「POP UP PARADE SP」系列，是突破一般POPUP PARADE規格、尺寸與細節皆更為講究的高規格版本。全高約245mm，原型師由萬蔵まもる（Louis Entertainment）操刀，充分展現角色魔性魅惑的曲線身姿與妖豔氣場，禮服皺褶與髮絲流動的雕刻細節皆相當講究。標準配件包含專用展示台座，是POPUP PARADE系列中份量與精緻度並重的高規格商品，適合喜愛アルベド角色魅力的收藏者入手。「POP UP PARADE SP」定位介於一般POPUP PARADE與高單價比例手辦之間，讓玩家能以相對親民的形式收藏具備高完成度雕刻與細節的角色手辦商品，是Good Smile Company拓展中價位精品手辦市場的重要嘗試。",
     reviews: [
       {
         title: "POP UP PARADE アルベド ドレスver開封レビュー｜鎧ver＆T-mostと比較",
@@ -11888,7 +11888,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.hlj.com/1-6-scale-she-is-real-nafu-bpd49003",
     imageUrl: "/images/bearpanda-she-is-real-nafu.jpg",
     tags: ["原創角色", "美少女フィギュア", "1/6", "中國品牌", "BearPanda", "サキュバス"],
-    description: "中國廠牌BearPanda「She is real」系列原創魅魔角色「ナフ（娜芙）」，全高約285mm，PVC＋ABS材質。造型以黑紫色系惡魔翅膀與尾巴搭配網襪呈現挑逗撩人的身姿與表情，網襪採用真實網紗材質提升質感，首批特典附徽章與簽名卡。",
+    description: "「She is real」是中國模型廠牌BearPanda推出的原創美少女手辦系列，以性感撩人的角色設定與精緻雕塑工藝為主打特色，「ナフ（娜芙）」即為該系列登場的原創魅魔（サキュバス）角色，設定上延續魅魔題材常見的誘惑與神秘氣質，透過造型設計具體呈現角色魅力。本商品全高約285mm，屬於1/6比例的中大型美少女手辦規格，材質採用PVC＋ABS製作，兼顧細節呈現與結構穩定性。造型以黑紫色系惡魔翅膀與尾巴作為魅魔身分的標誌性元素，搭配網襪呈現挑逗撩人的身姿與表情神韻，網襪部位特別採用真實網紗材質提升質感層次，跳脫一般手辦以塗裝或雕刻表現網紗紋理的作法，是本作在材質工藝上的一大亮點。首批特典附徽章與簽名卡，提升早期購入者的收藏紀念價值。整體而言，本作是中國原創美少女手辦品牌近年在情色向題材與材質創新雙軌並進趨勢下的代表作品之一，也反映該品牌對角色魅力塑造的用心經營。近年原創魅魔、惡魔等奇幻情色向題材在中國美少女手辦市場中逐漸形成一股風潮，本作即為此類題材中兼顧材質創新與角色設定完整度的代表作品之一。",
     reviews: [],
     youtube: [
       {
@@ -11912,7 +11912,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102607133000&grp_id=5325",
     imageUrl: "/images/hg-pale-rider-ground-clear.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "クリアパーツ", "THE GUNDAM BASE限定"],
-    description: "《機動戦士ガンダム外伝 ミッシングリンク》登場的陸戦用裝備換裝型「ペイルライダー」透明成形色版本，THE GUNDAM BASE限定。標配可折疊的180mm加農炮、90mm短型機槍、腿部飛彈艙等陸戰裝備，スパイク・シールド前端附伸縮式打樁機。",
+    description: "《機動戦士ガンダム外伝 ミッシングリンク》是以「一年戰爭中鮮少被提及的機體」為題材展開的外傳企劃，強調貼近THE ORIGIN世界觀的寫實考證與細膩機構設計，書中登場的謎樣白色機體「ペイルライダー」身世不明，其存在被視為連結各方勢力秘辛的關鍵。陸戰重裝備仕樣著重強化地面戰鬥能力，相較空間戰仕樣換裝了更為厚重的裝甲與火力配置，展現截然不同的重裝風格。本商品為THE GUNDAM BASE限定販售，採用透明成形色呈現，能清楚窺見套件內部關節與零件層次堆疊之美，是鑑賞該機體結構設計的絕佳版本。標配可摺疊收納的180mm加農炮、90mm短型機槍、腿部飛彈艙等陸戰裝備，スパイク・シールド前端更配備伸縮式打樁機，可重現近距離貼身戰鬥場面。整體武裝豐富、可動性佳，延續「ミッシングリンク」系列一貫的高完成度取向，是掌握該企劃世界觀不可或缺的收藏版本。透明成形色的呈現方式讓玩家得以由結構角度重新審視這台身世成謎機體的骨架設計，若與一般塗裝版並列陳列，更能突顯THE GUNDAM BASE限定商品特有的稀有質感與蒐藏樂趣。",
     reviews: [
       {
         title: "HGUC ガンダムベース限定 ペイルライダー（陸戦重装備仕様）［クリアカラー］ レビュー",
@@ -11942,7 +11942,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102639295000&grp_id=5325",
     imageUrl: "/images/hg-rx80rr-red-rider.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "レッドライダー", "Premium Bandai限定"],
-    description: "《機動戦士ガンダム アグレッサー》登場、「ペイルライダー計画」試作機之一「レッドライダー」，以HGペイルライダー為基礎重新造形與塗裝。標配專屬武裝「ツヴァイハンダー」可切換盾牌與長劍兩種形態，並附機槍與光束軍刀等配件，可重現原作動態揮劍姿勢。",
+    description: "《機動戦士ガンダム アグレッサー》是聚焦於教官部隊與假想敵戰術訓練的外傳作品，其中登場之「ペイルライダー計画」延伸出多台試作機，各自被賦予不同的實驗性用途與塗裝識別色。「レッドライダー」作為其中之一，以鮮明紅色塗裝彰顯其攻擊型定位，性格強悍、戰鬥風格更為直接凶猛，於原作中常擔任高壓演習的假想敵角色。本商品以HGペイルライダー既有素體為基礎，重新進行造形與配色調整，呈現該機獨有的視覺印象。標配專屬武裝「ツヴァイハンダー」，可自由切換為盾牌與長劍兩種形態，體現該機靈活多變的戰術風格；另附機槍與光束軍刀等配件，並可重現原作中大幅度揮劍的動態姿勢，展現角色張揚的戰鬥美學。作為「ペイルライダー計画」系列衍生機體之一，本作以Premium Bandai限定形式販售，是喜好衍生機體設定與塗裝差異玩家的重點收藏對象。由於各試作機皆共用相近骨架卻各具塗裝與武裝特色，玩家可透過並列收集感受同一計畫下不同性格試作機所呈現的差異化戰術美學，也讓整個系列的收藏脈絡更加完整，是理解假想敵部隊訓練體系不可或缺的一環。",
     reviews: [
       {
         title: "HG レッドライダー レビュー",
@@ -11966,7 +11966,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621948000&grp_id=5325",
     imageUrl: "/images/hg-rx80br-black-rider.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "ブラックライダー", "Premium Bandai限定"],
-    description: "《機動戦士ガンダム バトルオペレーション Code Fairy》登場的「ペイルライダー計画」試作機「ブラックライダー」，以HGペイルライダー為基礎新規造形頭部與特殊戰術裝備「ステイヤード」，鱗片狀雷達罩與電子戰用背包為其特徵。",
+    description: "《機動戦士ガンダム バトルオペレーション Code Fairy》為線上對戰遊戲系列衍生的外傳故事，延續「ペイルライダー計画」的世界觀設定，描繪多台試作機在秘密任務中的活躍。「ブラックライダー」定位偏向偵察與電子戰用途，一身低調的黑色塗裝暗示其潛行滲透的任務性質，與強調正面火力的其他試作機形成鮮明對比。本商品以HGペイルライダー為造形基礎，新規開模頭部零件，重現該機特徵性的鱗片狀雷達罩，象徵其強化偵測與電子干擾能力；背部亦搭載專為電子戰用途設計的大型背包，外型充滿科幻感。另附特殊戰術裝備「ステイヤード」，暗示該機在戰場上扮演支援與情報蒐集的關鍵角色。整體造形延續ペイルライダー系列的骨架設計，同時透過新規部位塑造出獨立的個性化外觀。本商品為Premium Bandai限定販售，適合喜愛蒐集同系列衍生機同時展示比較的玩家。與同計畫的レッドライダー、ホワイトライダー等試作機相比，「ブラックライダー」的偵察電子戰定位提供了截然不同的展示切入點，並列收藏可完整呈現「ペイルライダー計画」多元化的任務分工構想。",
     reviews: [
       {
         title: "HG ブラックライダー レビュー",
@@ -11990,7 +11990,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621931000&grp_id=5325",
     imageUrl: "/images/hg-rx80wr-white-rider.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "ホワイトライダー", "Premium Bandai限定"],
-    description: "《機動戦士ガンダム バトルオペレーション Code Fairy》登場的「ペイルライダー計画」試作1號機「ホワイトライダー」，以HGペイルライダー為基礎重現造形與配色，標配特殊武裝「試作型シェキーナ」與「ヒートレイピア」，翼部可展開重現ZEUS發動狀態。",
+    description: "《機動戦士ガンダム バトルオペレーション Code Fairy》中，「ホワイトライダー」被設定為「ペイルライダー計画」最初的試作1號機，象徴整個計畫的原點，白色塗裝呼應其作為基準機的地位，也暗示著日後衍生出紅、黑等各式試作機的起點。本商品以HGペイルライダー為基礎重現其造形與配色，忠實再現初號機略帶素樸卻不失存在感的視覺印象。標配特殊武裝「試作型シェキーナ」與近戰用「ヒートレイピア」，展現該機兼具遠近戰能力的多樣戰術性，翼部並可展開，重現機體發動「ZEUS」系統時的高輸出狀態，是掌握該計畫核心設定的重要細節。整體造形延續系列共通的骨架結構，同時透過翼部展開機構與武裝配置塑造出獨特存在感。作為Premium Bandai限定商品，適合與同系列的レッド、ブラック等試作機並列展示，完整呈現「ペイルライダー計画」的機體發展脈絡。作為計畫最初的原型機，「ホワイトライダー」的收藏意義不僅在於其自身武裝表現，更在於它作為後續衍生機體參照基準的歷史地位，是理解整個系列演變過程的起點之作，也是掌握「ZEUS」系統設定緣起的重要參照版本。",
     reviews: [
       {
         title: "HGUC ホワイトライダー レビュー",
@@ -12014,7 +12014,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102610386000&grp_id=5325",
     imageUrl: "/images/hg-amx018-todesritter.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "トーリスリッター", "Premium Bandai限定"],
-    description: "「終焉の騎士」トーリスリッター，遭吉翁軍捕獲並歷經10年大幅改造的ペイルライダー，新規造形重現肩部展開式副臂與背包彈射式インコム等機構，武裝經改修升級為ハイパーナックルバスター、繼承自Bau的盾牌及可收納於前臂的光束軍刀，可透過替換透明面罩（綠／紅）重現一般狀態與HADES發動狀態。",
+    description: "「終焉の騎士」トーリスリッター是《機動戦士ガンダム外伝 ミッシングリンク》中份量厚重的支線劇情機體，原型為聯邦所屬的ペイルライダー，遭吉翁軍捕獲後經過長達十年的秘密改造，脫胎換骨成為性能凌駕原型的異形機體，其德語代號「Todesritter」意為死亡騎士，暗示該機在戰場上帶來的壓倒性威脅感。本商品採全新造形，重現肩部展開式副臂與背包彈射式インコム等複雜機構，呈現吉翁改造技術特有的機械美學與威嚇感。武裝方面經大幅升級，配備強化型「ハイパーナックルバスター」，並繼承自「Bau」系機體的盾牌，以及可收納於前臂內部的光束軍刀，充分展現十年改造歷程所累積的技術結晶。套件並附透明面罩（綠／紅雙色），可自由替換重現一般狀態與代號「HADES」發動時的覺醒狀態兩種樣貌，是掌握該機隱藏設定與視覺張力的關鍵配件，為Premium Bandai限定商品。作為ペイルライダー系列中身世最為坎坷的一員，其吉翁改造背景與雙面罩機構讓本商品在整個計畫收藏中格外具備劇情深度與蒐藏話題性，也是理解該計畫如何被敵方勢力奪取並轉化為己用的關鍵一環。",
     reviews: [],
     youtube: [
       {
@@ -12038,7 +12038,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102649119000&grp_id=5325",
     imageUrl: "/images/hg-arz124-tr6-woundwort-psychoblade.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ガンダムTR-6", "ウーンドウォート", "Premium Bandai限定"],
-    description: "A.O.Z Re-Boot系列「ガンダムTR-6［ウーンドウォート］サイコブレードカスタム」，重現特徵性機體塗裝與造型並新規造形頭部零件與招牌武裝「サイコブレード」，同時強化可動性並提升與バーザム等其他A.O.Z RE-BOOT系機體的兼容性。",
+    description: "「A.O.Z Re-Boot」是官方認證的《機動戦士Zガンダム》外傳系列，重新詮釋TR系列試作計畫，深入描寫グリプス戰役背後鮮為人知的機體開發史。「ガンダムTR-6［ウーンドウォート］サイコブレードカスタム」為該系列中強化型的特裝機體，以招牌武裝「サイコブレード」為象徵，展現TR-6試作機系譜在近戰性能上的極致追求，其銳利的機體輪廓與塗裝亦傳達出試作兵器獨有的實驗性氣息。本商品完整重現該機特徵性塗裝與造型，並新規開模頭部零件以強化神情表現，招牌武裝「サイコブレード」亦經過重新設計，提升細節密度與存在感。同時本作大幅強化可動性能，並特別考量與「バーザム」等其他A.O.Z RE-BOOT系機體之間的兼容性，方便玩家進行武裝與配件互換，重現原作中多機體協同作戰的場面。作為Premium Bandai限定商品，是深入蒐集TR系列試作機譜系的重點單品。透過本商品，玩家得以一窺A.O.Z Re-Boot系列如何延伸拓展TR-6這條支線機體的可能性，也讓グリプス戰役背後隱而未顯的兵器開發史更添立體血肉。",
     reviews: [
       {
         title: "【ガンプラ】HGUC ガンダムTR-6［ウーンドウォート］サイコブレードカスタム （A.O.Z RE-BOOT版） レビュー【プレバン】",
@@ -12068,7 +12068,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102649102000&grp_id=5325",
     imageUrl: "/images/hg-rx78-ms00z-engage-zero.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム U.C. ENGAGE", "エンゲージゼロ", "Premium Bandai限定"],
-    description: "手機遊戲《機動戦士ガンダム U.C. ENGAGE》登場、由阿納海姆電子開發、作為地球聯邦鋼彈開發計畫追加方案的「ガンダム開発試験0番機（エンゲージゼロ）」，全新造形重現獨特機身輪廓，肩部可拉出關節、腰部可動範圍大，標配光束步槍、盾牌、光束軍刀及追加推進背包等配件。",
+    description: "手機遊戲《機動戦士ガンダム U.C. ENGAGE》是以宇宙世紀為舞台展開的原創戰略企劃，透過重新編排的劇情與虛構機體，補完歷代鋼彈作品之間的空白篇章。「ガンダム開発試験0番機（エンゲージゼロ）」由阿納海姆電子公司開發，被定位為地球聯邦鋼彈開發計畫的追加驗證方案，象徵在RX-78鋼彈成功之後，聯邦持續摸索次世代機體可能性的實驗精神，機體代號中的「0番機」也暗示其作為原點驗證機的特殊地位。本商品全新造形，重現該機獨有的機身輪廓與線條比例，肩部設計可拉出關節以擴大動作範圍，腰部亦具備寬廣可動幅度，能夠重現多樣化的戰鬥姿勢。標配光束步槍、盾牌、光束軍刀，並附追加推進背包，強化機動與火力展示的豐富度，充分體現作為試驗機體所具備的多用途潛力，是《U.C. ENGAGE》原創機體立體化的代表作之一，為Premium Bandai限定商品。作為手機遊戲原創企劃衍生的立體化商品，本作也讓玩家得以透過實體模型重新體會遊戲劇情中鋼彈開發計畫延續不絕的世界觀魅力，感受阿納海姆電子在不同時代持續參與鋼彈開發史的一貫定位。",
     reviews: [],
     youtube: [
       {
@@ -12092,7 +12092,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102652928000&grp_id=5325",
     imageUrl: "/images/hg-arz124hb2m-aqua-hambrabi2.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "アクア・ハンブラビ", "ティターンズ", "Premium Bandai限定"],
-    description: "《A.O.Z RE-BOOT ガンダム・インレ－くろうさぎのみた夢－》登場，結合水中戰用MA與MS合體運用的「アクア・ハンブラビII」ティターンズ仕様塗裝版本。",
+    description: "《A.O.Z RE-BOOT ガンダム・インレ－くろうさぎのみた夢－》承接A.O.Z系列一貫的外傳世界觀，聚焦於格里普斯戰役中鮮少描繪的水中戰場，補完MS/MA複合運用的作戰型態。「アクア・ハンブラビII」為水陸兩用可變機體，承襲原型機ハンブラビ結合MA高速機動與MS格鬥能力於一身的設計理念，並針對水中戰鬥環境進行大幅強化，可自由於MS與MA形態間切換，兼顧潛航速度與近接戰鬥的靈活性。本商品重現該機於劇中登場的獨特ティターンズ塗裝仕様，以深沉色調呼應迪坦斯部隊一貫低調而具壓迫感的視覺風格，與一般水色系版本形成鮮明對比。套件延續HG系列扎實的關節結構與變形機構設計，讓玩家能夠實際體驗MS與MA之間的形態轉換樂趣，並感受水中戰用機體特有的流線造型美學。作為A.O.Z RE-BOOT系列的塗裝別注版本，是喜好蒐集同機體多重配色的玩家不可錯過的一款。透過ティターンズ塗裝與原始版本的對照收藏，玩家也能進一步體會格里普斯戰役中不同陣營對同一機體平台各自詮釋的美術巧思，感受水陸兩用兵器在不同勢力手中所展現的多元運用面貌。",
     reviews: [
       {
         title: "HGUC アクア・ハンブラビII ティターンズ仕様（A.O.Z.RE-BOOT版） レビュー",
@@ -12116,7 +12116,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_2542",
     imageUrl: "/images/hg-rx80pr-pale-rider-space-clear.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "クリアパーツ", "イベント限定"],
-    description: "重現宇宙戰仕様形態的「ペイルライダー」透明成形色版本，THE GUNDAM BASE TOKYO開幕イベント限定販售。標配巨型格林機砲、超級光束步槍及盾牌等武裝，並可透過透明面罩與貼紙選擇重現一般狀態與HADES發動狀態。",
+    description: "《機動戦士ガンダム外伝 ミッシングリンク》中的「ペイルライダー」身世成謎，其空間戰仕様針對無重力戰鬥環境進行優化，相較陸戰重装備仕様捨棄部分重裝甲，轉而強化推進系統與遠距離火力輸出，展現截然不同的宇宙戰特化設計思路。本商品採用透明成形色重現該機宇宙戰形態，晶瑩剔透的質感搭配內部關節結構，呈現有別於一般塗裝版本的獨特陳列效果，並作為THE GUNDAM BASE TOKYO開幕紀念活動限定商品，深具紀念意義與稀有性。標配巨型格林機砲展現壓倒性彈幕火力、超級光束步槍強化遠距離狙擊性能，另附盾牌等防禦裝備，充分體現該機作為宇宙戰用途所需的重裝火力配置。套件並可透過替換透明面罩與貼紙自由選擇重現一般狀態與代號「HADES」發動時的覺醒狀態，讓玩家得以還原角色身世之謎所牽涉的雙重樣貌，是掌握ペイルライダー全貌不可或缺的關鍵版本。若與陸戰重装備仕様透明版並列展示，更可完整呈現該機因應不同戰場環境所發展出的兩種截然不同的裝備思路，是活動限定商品中兼具紀念性與造形完成度的珍貴一款，也是掌握身世成謎機體宇宙戰面貌的重要收藏版本。",
     reviews: [],
     youtube: [
       {
@@ -12145,7 +12145,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555724000&grp_id=5325",
     imageUrl: "/images/hg-blue-destiny1-exam-metallic.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "THE BLUE DESTINY", "ブルーディスティニー", "THE GUNDAM BASE限定"],
-    description: "《機動戦士ガンダム外伝 THE BLUE DESTINY》主角機「ブルーディスティニー1号機“EXAM”」金屬光澤成形色版本，THE GUNDAM BASE限定販售。標配100mm機槍、盾牌、可替換頭部（漫畫版配色）及EXAM系統發動用零件，並附開放式左手掌與雙光束軍刀刀身。",
+    description: "《機動戦士ガンダム外伝 THE BLUE DESTINY》以一年戰爭末期為舞台，描繪搭載神秘「EXAM系統」的試作鋼彈遭AI暴走支配、化身殺戮兵器的驚悚故事，是鋼彈系列中少見帶有恐怖色彩的外傳作品。主角機「ブルーディスティニー1号機」平時外觀與一般試作鋼彈無異，然而一旦EXAM系統發動，機體便會切換為猩紅雙眼的異常狀態，戰鬥性能大幅提升卻也逐漸失去理性控制，是該系列最具標誌性的設定。本商品以金屬光澤成形色呈現，透過亮麗塗裝質感強調機體英雄機般的視覺印象，為THE GUNDAM BASE限定販售版本，深具收藏價值。標配100mm機槍、盾牌，並附可替換頭部重現漫畫版特有配色，另附EXAM系統發動用專屬零件，可重現角色雙眼發光的異變狀態；開放式左手掌與雙光束軍刀刀身亦一併同梱，方便重現徒手格鬥與雙刀交叉等經典場面，完整呈現角色理性與失控間的雙重魅力。金屬光澤成形色的加持讓機體平時外觀更顯英雄機質感，也讓EXAM系統發動瞬間的反差張力更加鮮明，是THE BLUE DESTINY系列收藏中造形與劇情兼具的重點版本。",
     reviews: [
       {
         title: "HGUC【ガンダムベース限定】ブルーディスティニー1号機”EXAM”［メタリックグロスインジェクション］ レビュー",
@@ -12175,7 +12175,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102653871000&grp_id=5325",
     imageUrl: "/images/hg-moon-gundam-longrifle.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士MOONガンダム", "ムーンガンダム", "THE GUNDAM BASE限定"],
-    description: "《機動戦士MOONガンダム》主角機「ムーンガンダム」THE GUNDAM BASE限定追加武裝版本，新增大型「ロング・ライフル」，槍托部位搭載伸縮機構及可動握把專用轉接零件，強化狙擊姿態的展示效果。",
+    description: "《機動戦士MOONガンダム》是以月球都市為舞台展開的鋼彈外傳漫畫作品，描繪與地球圈截然不同的月面勢力鬥爭與機體技術演進，世界觀獨立而別具特色。主角機「ムーンガンダム」造形融合月面科技的洗鍊線條與鋼彈系列一貫的英雄機格局，象徵月面居民追求自主與尊嚴的意志。本商品為THE GUNDAM BASE限定追加武裝版本，在既有套件基礎上新增大型狙擊武裝「ロング・ライフル」，大幅提升機體的遠距離火力表現，滿足玩家對於重武裝形態的收藏需求。槍托部位搭載伸縮機構，可依展示需求調整長度與姿態，並附專用轉接零件供可動握把裝設，強化持槍時手部與槍身的連動穩定性，讓狙擊姿態的擺放更加自然流暢。整體而言，本商品透過追加武裝擴充了「ムーンガンダム」的展示可能性，是喜愛狙擊型武裝與月面世界觀設定玩家的重點收藏對象，也讓月球都市這個獨特舞台的世界觀更添說服力。若與基本裝備版本一同收藏，更能完整呈現「ムーンガンダム」因應不同戰術需求所發展出的多樣化武裝配置構想，也讓月面獨立勢力自主研發的兵器美學更加立體鮮明，是掌握該作世界觀武裝擴充脈絡的重要一環。",
     reviews: [],
     youtube: [
       {
@@ -12199,7 +12199,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandaispirits.co.jp/products/search/detail.php?prd_id=4573102614124000&grp_id=5325",
     imageUrl: "/images/hg-rx80pr2-pale-rider-cavalry.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "キャバルリー", "量産機", "Premium Bandai限定"],
-    description: "「ペイルライダー計画」集大成的量産化重新設計機體「ペイルライダー・キャバルリー」，以HGペイルライダー為基礎忠實重現造形與配色，複合特殊武裝「シェキーナ」全新造形並簡化零件更換與過剩裝備，兼具高性能與量産適性，暱稱「騎士団」。",
+    description: "「ペイルライダー・キャバルリー」是《機動戦士ガンダム外伝 ミッシングリンク》「ペイルライダー計画」歷經多台試作機摸索後所集大成的量産化重新設計機體，象徵該計畫從實驗性質走向實戰部署的最終成果，暱稱「騎士団」則暗示其作為部隊規模運用的定位，與先前個別試作機的實驗色彩形成明顯對比。本商品以HGペイルライダー為造形基礎，忠實重現該機的整體輪廓與識別配色，同時針對量産適性進行大幅簡化與最佳化。複合特殊武裝「シェキーナ」經全新造形設計，維持原有多功能性之餘也簡化了零件更換與過剩裝備的操作步驟，讓組裝與把玩過程更加流暢，充分反映該機兼顧高性能與量産效率的設計理念。作為「ペイルライダー計画」系列的集大成之作，本商品適合與レッド、ブラック、ホワイト等各式試作機並列展示，完整呈現一套機體從實驗原型走向制式化部隊裝備的發展歷程，為Premium Bandai限定商品，深具系列收藏意義。作為「ペイルライダー計画」故事線的終章機體，「キャバルリー」的量産化設計思維也呼應了宇宙世紀兵器發展史上經常可見的實驗機朝實戰配置收斂之過程。",
     reviews: [],
     youtube: [
       {
@@ -12223,7 +12223,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102588197000&grp_id=5325",
     imageUrl: "/images/hg-ams123xx-moon-gundam-clear.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士MOONガンダム", "ムーンガンダム", "クリアパーツ", "イベント限定"],
-    description: "《機動戦士MOONガンダム》主角機「ムーンガンダム」透明成形色版本，イベント限定販售。標配「サイコプレート」背包可展開臂部機構並分離重組，「ビームトマホーク」、「ビームライフル」及「バタフライエッジ」等武裝的光束刃部位皆以透明零件重現。",
+    description: "《機動戦士MOONガンダム》描繪月球都市獨立勢力與技術體系下誕生的鋼彈機體，主角機「ムーンガンダム」以流線洗鍊的造形呼應月面科技美學，同時承襲鋼彈系列一貫的英雄機格局與武裝多樣性。本商品以透明成形色重現該機樣貌，作為活動限定販售版本，晶瑩通透的質感讓套件內部關節結構與武裝細節得以清晰展現，呈現有別於一般塗裝版的獨特陳列效果，深受著重造形細節玩家的青睞。標配特徵性背包「サイコプレート」，可展開重現臂部延伸機構，並支援分離重組玩法，展現該機在戰術運用上的靈活多變；武裝方面則配備「ビームトマホーク」、「ビームライフル」及「バタフライエッジ」等多種光束兵裝，其光束刃部位皆以透明零件重現，搭配整體透明配色更顯一致美感。整體而言，本商品透過透明成形色的呈現方式，讓玩家得以從結構角度重新欣賞「ムーンガンダム」的機構設計巧思，是掌握該機武裝全貌的收藏版本。與長距離狙擊裝備版並列收藏，更能完整體會月面世界觀下這台主角機多樣化的戰術面貌與造形變化，也讓透明零件呈現的光束兵裝更添晶瑩質感，是活動限定商品中兼具造形美感與蒐藏話題性的一款。",
     reviews: [
       {
         title: "HGUC ムーンガンダム［クリアカラー］ レビュー",
@@ -12253,7 +12253,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102663757000&grp_id=5325",
     imageUrl: "/images/hg-orx005-gaplant-tr5-hrairoo-titans.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ギャプラン", "フライルー", "ティターンズ", "Premium Bandai限定"],
-    description: "A.O.Z Re-Boot系列「ギャプランTR-5［フライルー］」ティターンズ塗裝仕様版本，可動式盾牌大型化，整體造型較一般版更具剛硬軍武氣息。",
+    description: "「A.O.Z Re-Boot」系列以官方認證的形式重新詮釋《機動戦士Zガンダム》背後鮮少描繪的TR試作機開發史，「ギャプランTR-5［フライルー］」承襲原型機ギャプラン兼具高速可變與格鬥性能的設計理念，並在TR系列試作計畫中進一步強化其戰術泛用性。本商品重現該機於ティターンズ部隊麾下運用時的專屬塗裝仕様，深沉冷硬的迪坦斯配色相較一般版本更添軍事壓迫感，呼應迪坦斯部隊一貫強調威懾與鎮壓的組織性格。套件特徴為可動式盾牌經大型化處理，不僅提升防禦面積的視覺存在感，也強化了整體機體的量感與剛硬氣息，讓「フライルー」在同系列衍生機體中呈現更為銳利強悍的軍武氛圍。整體造形延續A.O.Z RE-BOOT系列扎實的關節設計與變形機構，玩家可透過與同系列其他機體如基本形態ギャプランTR-5並列比較，感受迪坦斯塗裝所帶來的氛圍轉變，為Premium Bandai限定商品，是塗裝別注版本蒐集的重點對象。搭配同系列後續推出的大型武裝裝備版本一併收藏，更能完整感受「フライルー」作為TR試作機平台在武裝擴充上的多樣可能性。",
     reviews: [
       {
         title: "HGUC ギャプランTR-5［フライルー］（ティターンズ仕様）（A.O.Z.RE-BOOT版） レビュー",
@@ -12283,7 +12283,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102663764000&grp_id=5325",
     imageUrl: "/images/hg-orx005-gaplant-tr5-hrairoo-gigantic-arm.jpg",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ギャプラン", "フライルー", "ギガンティック・アーム・ユニット", "Premium Bandai限定"],
-    description: "A.O.Z Re-Boot系列「ギャプランTR-5［フライルー］」搭載大型追加武裝「ギガンティック・アーム・ユニット」的重裝形態，可與基本形態的ギャプランTR-5組合展示，是A.O.Z RE-BOOT版陣容中份量感最重的一款。",
+    description: "「ギャプランTR-5［フライルー］」在《機動戦士Zガンダム》官方外傳「A.O.Z Re-Boot」系列中，被設定為可搭配大型追加武裝進行重裝化改造的試作機體，展現TR系列一貫講求模組化擴充運用的開發理念。本商品重現該機搭載大型追加武裝「ギガンティック・アーム・ユニット」的重裝形態，龐大的臂部單元大幅擴充機體原有的攻擊與防禦範疇，是同系列陣容中份量感最為厚重的一款商品，光是展示時的存在感便極具震撼力。套件設計上考量到與基本形態ギャプランTR-5套件之間的組合展示可能，玩家可依個人收藏情況選擇單獨展示重裝形態，或是與基本形態並列比較，充分感受追加武裝前後在量感與戰術定位上的巨大差異。整體而言，本商品延續A.O.Z RE-BOOT系列扎實的可動與變形機構，並透過大型武裝的加持，讓「フライルー」呈現出更具壓迫感的重武裝樣貌，為Premium Bandai限定商品，是喜好大型追加裝備套件玩家的必收之作。搭配ティターンズ塗裝仕様版本一同收藏，更能完整呈現「フライルー」這一機體平台從基本形態到重裝形態、從一般配色到特殊塗裝的多元變化脈絡。",
     reviews: [],
     youtube: [
       {
@@ -12308,7 +12308,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/7196/",
     imageUrl: "/images/gsc-xenoblade2-hikari.jpg",
     tags: ["ゼノブレイド2", "Xenoblade Chronicles 2", "ヒカリ", "GOOD SMILE COMPANY", "1/7", "美少女フィギュア"],
-    description: "Nintendo Switch遊戲《ゼノブレイド2》傳說之刃「ホムラ」的另一形態「ヒカリ」1/7比例完成品。承襲ホムラ的聖杯之劍造型並大幅提升份量感，忠實重現角色自信洋溢的招牌表情，核心結晶採用透明零件呈現，特徵性長髮從背後看也完整雕琢。與另售的「ホムラ」並列展示時可讓雙方武器交錯，呈現更具魄力的陳列效果。",
+    description: "Nintendo Switch遊戲《ゼノブレイド2》以浮游大陸與巨神獸背上的世界觀著稱，「刃」作為與人類締結契約、化身武器的存在，是遊戲戰鬥系統的核心設計。傳說之刃「ホムラ」擁有覺醒後的另一形態「ヒカリ」，兩者共享同一角色卻展現截然不同的樣貌與氣質，象徵角色內在力量的深化與蛻變，是劇情推進的重要轉折點。本商品為「ヒカリ」1/7比例完成品，承襲「ホムラ」聖杯之劍的造形語彙並大幅提升整體份量感，展現覺醒後更為強大而成熟的存在感。雕像忠實重現角色自信洋溢的招牌表情與挺立的站姿，核心結晶部位採用透明零件呈現通透光澤，強化角色作為刃所具備的神祕感；特徵性的長髮線條即使從背後觀賞也經過細膩雕琢，展現廠商對細節毫不妥協的堅持。若與另售的「ホムラ」並列展示，更可讓雙方武器交錯呈現，重現同一角色兩種形態並存的獨特陳列效果，是收藏系列刃角色不可或缺的重點單品。作為承載劇情核心轉折的角色形態，本商品也讓玩家得以透過立體造形重新回味遊戲中角色蛻變覺醒的關鍵時刻，感受兩種形態之間力量與情感層層遞進的細膩描寫，是系列角色魅力延伸拓展的最佳例證。",
     reviews: [
       {
         title: "ゼノブレイド2 ヒカリ 1/7スケール グッドスマイルカンパニー レビュー | ひろちゃんの趣味の部屋",
@@ -12339,7 +12339,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/6966/",
     imageUrl: "/images/gsc-xenoblade2-homura.jpg",
     tags: ["ゼノブレイド2", "Xenoblade Chronicles 2", "ホムラ", "GOOD SMILE COMPANY", "1/7", "美少女フィギュア"],
-    description: "Nintendo Switch遊戲《ゼノブレイド2》傳說之刃「ホムラ」1/7比例完成品，以角色設計師齋藤将嗣的描き下ろし插畫為藍本立體化。聖杯之劍與背部造形物份量十足，大量使用透明零件呈現高完成度塗裝與雕工，尤以聖杯之劍的細節精緻度最受矚目。與另售的「ヒカリ」並列展示可讓雙方武器交錯呈現。",
+    description: "Nintendo Switch遊戲《ゼノブレイド2》中，「刃」是與人類契約者共同戰鬥、化身武器的存在，其中傳說之刃「ホムラ」更是貫穿全篇劇情的關鍵角色，肩負著守護世界與尋找天之聖杯等重要使命，深受玩家喜愛。本商品為「ホムラ」1/7比例完成品，以角色設計師齋藤将嗣專為本商品繪製的描き下ろし插畫為藍本進行立體化，忠實傳達原案插畫中角色的氣質與魅力。雕像的招牌武裝「聖杯之劍」與背部造形物皆展現十足份量感，大量使用透明零件呈現高完成度的塗裝與雕工，尤以聖杯之劍細膩的紋理刻畫與光澤質感最受矚目，充分展現該武裝作為劇情核心道具的神聖意象。整體姿態設計兼具躍動感與優雅氣質，忠實還原角色於戰鬥中英姿煥發的形象。若與另售的覺醒形態「ヒカリ」並列展示，可讓雙方武器交錯呈現，同時呈現同一角色的兩種面貌，是喜愛本作角色與刃設定玩家收藏的重點對象。作為《ゼノブレイド2》系列人氣角色的代表立體化商品，本作也充分展現Good Smile Company在美少女角色雕像上一貫追求的高完成度水準，並延續系列一貫以原案插畫為藍本的忠實立體化理念。",
     reviews: [
       {
         title: "ゼノブレイド2 1/7 ホムラ レビュー | TOYHOUND",
@@ -12370,7 +12370,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/8719/KOS+MOS+Re.html",
     imageUrl: "/images/gsc-xenoblade2-kosmos-re.jpg",
     tags: ["ゼノブレイド2", "Xenoblade Chronicles 2", "KOS-MOS", "GOOD SMILE COMPANY", "1/7", "美少女フィギュア"],
-    description: "Nintendo Switch遊戲《ゼノブレイド2》登場的稀有之刃「KOS-MOS Re:」1/7比例完成品，以田中一久原案插畫為藍本，細膩重現全身細節與材質感，雙持大型武裝「ゾハルランチャー」氣勢磅礡。附可替換瀏海零件，可重現護目鏡放下與抬起兩種造型，並附專用展示台座。",
+    description: "Nintendo Switch遊戲《ゼノブレイド2》中登場的稀有之刃陣容豐富多樣，其中「KOS-MOS Re:」是與系列前作《ゼノサーガ》人氣角色KOS-MOS聯動而生的特別存在，透過跨作品的角色再詮釋，為玩家帶來熟悉又嶄新的驚喜體驗，也讓兩大系列世界觀產生有趣的連結。本商品為「KOS-MOS Re:」1/7比例完成品，以《ゼノサーガ》美術負責人田中一久所繪製的原案插畫為藍本進行立體化，細膩重現角色全身機械質感與服裝材質的差異對比，兼具冷冽與精緻兩種氣質。雙持的大型武裝「ゾハルランチャー」氣勢磅礡，展現角色作為兵器少女一貫的壓迫感與存在感，是雕像視覺焦點所在。套件並附可替換瀏海零件，可自由重現護目鏡放下與抬起兩種造型，呈現角色冷靜待機與戰鬥模式間的表情變化；另附專用展示台座，方便玩家穩定陳列這尊份量十足的作品，是喜愛跨作聯動企劃與KOS-MOS角色玩家的重點收藏對象。透過《ゼノブレイド2》與《ゼノサーガ》兩大系列的角色互文設計，本商品也讓長年支持系列作品的玩家得以感受跨世代角色傳承的獨特情懷。",
     reviews: [
       {
         title: "グッドスマイルカンパニー「ゼノブレイド2 KOS-MOS Re：」フィギュアレビュー | fig-memo",
@@ -12401,7 +12401,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://online.aniplex.co.jp/itemPouPwvTg.html",
     imageUrl: "/images/nendoroid-pekora-mash-collab.jpg",
     tags: ["hololive", "ホロライブ", "兎田ぺこら", "Fate/Grand Order", "Good Smile Company", "ねんどろいど"],
-    description: "hololive production 3期生「兎田ぺこら」與《Fate/Grand Order》「マシュ・キリエライト」聯名企劃，以竹内崇繪製的原案插畫為藍本製作的Nendoroid。附「笑顏」「戰鬥顏」「莉泳顏」三種表情零件，以及擬似展開／人理の礎（ロード・カルデアス）、フォウくん野うさぎ等選配零件。",
+    description: "「兎田ぺこら」是VTuber事務所hololive production 3期生成員，以招牌兔耳造型與充滿活力的直播風格擁有高人氣，本次企劃為其與人氣手機遊戲《Fate/Grand Order》角色「マシュ・キリエライト」的跨界聯名合作，透過雙方粉絲群的交流激盪出全新的視覺詮釋，是VTuber與遊戲IP跨界聯動的代表企劃之一。本商品以《Fate/Grand Order》人物設計師竹内崇親自繪製的原案插畫為藍本製作而成的Nendoroid，服裝融合マシュ標誌性的鎧甲元素與ぺこら本身兔耳造型，呈現兩種角色魅力交織的獨特風貌。套件標配「笑顏」、「戰鬥顏」、「莉泳顏」三種表情零件，分別對應日常互動、戰鬥英姿與慵懶放鬆等不同情境，充分展現角色多變的個性魅力。另附擬似展開的「人理の礎（ロード・カルデアス）」場景配件，重現《Fate/Grand Order》標誌性的世界觀道具，以及「フォウくん」野うさぎ版本等選配小物，增添把玩與陳列的樂趣，是雙方粉絲皆不容錯過的聯名收藏品。這類跨界聯名企劃近年在VTuber與遊戲IP之間日益盛行，本商品正是雙方粉絲圈交流互動下所誕生的具體成果，兼具紀念性與話題性。",
     reviews: [],
     youtube: [
       {
@@ -12425,7 +12425,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5962/",
     imageUrl: "/images/mgsd-gundam-aerial.jpg",
     tags: ["機動戦士ガンダム 水星の魔女", "ガンダムエアリアル", "BANDAI SPIRITS", "MGSD", "ガンプラ"],
-    description: "《機動戦士ガンダム 水星の魔女》主角機「ガンダムエアリアル」以MGSD系列立體化，內構骨架搭配金屬銀色件與多色成型，可重現貝壳骨架（シェルユニット）換裝與展開至「パーメットスコア6」的鋼彈比特（ガンビット）完全變形機構。附光束步槍、光束軍刀×2、盾牌等武裝。",
+    description: "《機動戦士ガンダム 水星の魔女》是鋼彈系列近年備受矚目的原創電視動畫，以商業競技「決鬥」制度與莫比爾套裝（MS）產業為背景，描繪女主角蘇萊塔與神秘鋼彈機體「エアリアル」之間深厚的羈絆，該機更以搭載黑歷史級「鋼彈比特」系統與神秘的貝壳骨架著稱，是全劇最具話題性的存在。本商品以MGSD系列規格立體化，內構骨架採用高精度設計並搭配金屬銀色件與多色成型技術，兼顧細膩塗裝分色與扎實的關節結構，呈現接近完成品等級的視覺效果。套件可重現貝壳骨架（シェルユニット）的換裝變化，並支援展開至「パーメットスコア6」狀態的鋼彈比特（ガンビット）完全變形機構，完整重現劇中最高潮的覺醒場面，是掌握該機神秘設定的關鍵版本。標配光束步槍、光束軍刀×2、盾牌等基本武裝，滿足日常戰鬥姿態的展示需求，整體而言是喜愛「水星の魔女」世界觀與MGSD系列精密結構玩家的重點收藏。作為系列最具人氣的主角機，「エアリアル」的立體化不僅滿足外觀還原需求，也讓玩家得以親手體驗劇中神秘系統覺醒瞬間所帶來的震撼張力，重溫蘇萊塔與機體之間逐漸建立信任的成長歷程。",
     reviews: [
       {
         title: "「MGSD ガンダムエアリアル」レビュー【#水星の魔女】 | HOBBY Watch",
@@ -12449,7 +12449,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_6881/",
     imageUrl: "/images/mgsd-destiny-gundam.jpg",
     tags: ["機動戦士ガンダムSEED DESTINY", "デスティニーガンダム", "BANDAI SPIRITS", "MGSD", "ガンプラ"],
-    description: "MGSD系列第五彈「デスティニーガンダム」，內構骨架以SD比例重現MG級關節可動性。招牌武裝「アロンダイトビームソード」與「高エネルギー長射程ビーム砲」皆搭載MGSD原創機構，刀身可伸縮、砲口可展開，並附光之翼特效件，完成後展開全幅可達400mm以上。",
+    description: "《機動戦士ガンダムSEED DESTINY》是SEED系列的直接續作，描繪二次寇迪亞尼戰役中新一代主角機的活躍，其中「デスティニーガンダム」由紅色彗星希恩・アスカ駕駛，機體展開光之翼時所展現的壓倒性戰鬥姿態，是該作最具代表性的名場面之一，深植人心。本商品作為MGSD系列第五彈商品，內構骨架以SD比例重現接近MG級套件的高密度關節可動性，讓小比例商品也能擺出豐富多變的戰鬥姿勢。招牌武裝「アロンダイトビームソード」與「高エネルギー長射程ビーム砲」皆搭載MGSD系列原創開發的機構設計，劍身可自由伸縮、砲口部位亦可展開變形，重現機體火力全開時的震撼視覺效果。套件並附光之翼特效零件，完整重現機體覺醒狀態下光翼展開的經典場面，完成後整體展開全幅可達400mm以上，展示存在感十足，是喜愛SEED系列與MGSD精密結構設計玩家不容錯過的重點商品。作為SEED DESTINY最具代表性的主角機立體化，本商品也讓玩家得以在小巧的SD比例下，親手重現原作光之翼展開時萬眾矚目的高潮場面，感受希恩・アスカ這名角色從迷惘走向覺悟的心境轉折。",
     reviews: [
       {
         title: "ガンプラ「MGSD デスティニーガンダム」レビュー | HOBBY Watch",
@@ -12473,7 +12473,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_1705/",
     imageUrl: "/images/mg-garmor-realtype.jpg",
     tags: ["機動戦士ガンダム", "MSV", "RX-78-2", "Gアーマー", "BANDAI SPIRITS", "MG", "ガンプラ", "リアルタイプカラー"],
-    description: "以電影海報等宣傳美術為藍本的「リアルタイプカラー」配色重現MSV設定「Gアーマー」，RX-78-2鋼彈與Gファイター可合體變形為Gアーマー、Gスカイ、Gブル等多種形態，附光束步槍、超級凝固汽油彈、超級火箭筒、光束軍刀×2、鋼彈鎚、盾牌×2等豐富配件。",
+    description: "「Gアーマー」是《機動戦士ガンダム》系列中MSV（Mobile Suit Variation）企劃所衍生的經典支援兵器設定，由主角機RX-78-2鋼彈與大型支援戰機「Gファイター」合體而成，象徵一年戰爭初期聯邦軍在缺乏成熟MS運用體系下，摸索出的過渡性複合戰術方案，兼具運輸、支援與變形多重機能，是MSV世界觀中極具代表性的存在。本商品以電影海報等當年宣傳美術為藍本重現「リアルタイプカラー」配色，相較一般鮮豔玩具色更貼近寫實軍武質感，呈現MSV考證派玩家偏好的美術路線。套件可重現RX-78-2鋼彈與Gファイター合體變形為Gアーマー、Gスカイ、Gブル等多種形態的機構，完整呈現該套裝備豐富的戰術運用彈性。武裝方面極為豐富，標配光束步槍、超級凝固汽油彈、超級火箭筒、光束軍刀×2、鋼彈鎚、盾牌×2等多樣配件，充分滿足重現各種經典場面與大量武裝陳列的收藏需求，是MG系列中份量感與變形樂趣兼具的代表作。以寫實配色重現這台承載聯邦初期複合戰術構想的支援兵器，也讓玩家得以從美術考證的角度重新認識MSV企劃背後豐富的設定深度。",
     reviews: [
       {
         title: "MG Gアーマー リアルタイプカラー レビュー",
@@ -12503,7 +12503,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.kotobukiya.co.jp/product/detail/p4934054073672/",
     imageUrl: "/images/kotobukiya-kosmos-ver4-extra.jpg",
     tags: ["ゼノサーガ", "KOS-MOS", "コトブキヤ", "1/12", "美少女プラモデル"],
-    description: "《ゼノサーガ エピソードIII》人型対グノーシス兵器「KOS-MOS」1/12比例組裝模型的「Extra coating edition」再販版，身體部位預先塗裝金色與亮白色、加特林砲為銀色，兼具組裝樂趣與近乎完成品的質感。附兩種表情、可替換瀏海重現「ファティマグラモード」，以及可替換胸部零件重現「エックスバスター」攻擊形態。",
+    description: "《ゼノサーガ エピソードIII》是描繪對抗神秘生命體「グノーシス」戰爭的科幻RPG系列完結篇，「KOS-MOS」作為人型対グノーシス兵器，兼具冷冽機械美感與內在情感糾葛的角色深度，是系列象徵性的存在，其角色魅力橫跨戰鬥兵器與情感角色兩種面向，深受玩家喜愛。本商品為「KOS-MOS Ver.4」的「Extra coating edition」再販版本，屬於1/12比例組裝模型，身體部位預先施以金色與亮白色塗裝處理，加特林砲部位則採用銀色塗裝，讓玩家在組裝過程中就能享受接近完成品等級的質感效果，兼顧組裝樂趣與成品美觀度兩大優勢。套件標配兩種表情零件與可替換瀏海組件，可自由重現角色進入「ファティマグラモード」時的特殊狀態，另附可替換胸部零件，用以重現「エックスバスター」武裝展開時的攻擊形態，完整呈現該角色戰鬥模式切換的設定巧思，是喜愛塗裝精緻度與角色多樣形態變化玩家的收藏重點。作為長銷企劃的再販版本，本商品也讓錯過初版的玩家有機會重新入手這尊兼具組裝樂趣與角色深度的經典作品，感受《ゼノサーガ》系列人型兵器少女角色設計的獨特魅力。",
     reviews: [],
     youtube: [
       {
@@ -12527,7 +12527,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102632791000&grp_id=5325",
     imageUrl: "/images/mg-shinmusha-sengoku-black.jpg",
     tags: ["武者頑駄無", "真武者頑駄無", "BANDAI SPIRITS", "MG", "ガンプラ", "プレミアムバンダイ限定"],
-    description: "「真武者頑駄無 戦国の陣」的黑衣配色原創塗裝版，以黑色為基底、原本紅色外裝改為電鍍處理、銀色部位使用金屬成型色，氣勢更顯威武。附種子島、日輪丸、散光丸、電光丸等戦国風武裝，以及裝飾台座、屏風、木牌等展示配件，屏風由森下直親手繪龍鳳圖並施以銀箔壓印。プレミアムバンダイ限定商品。",
+    description: "「武者頑駄無」是BANDAI長壽SD鋼彈企劃之一，將戰國武將元素與鋼彈造形巧妙融合，塑造出獨樹一格的和風機甲美學，深受懷舊玩家喜愛，其中「真武者頑駄無 戦国の陣」系列更以華麗的鎧甲裝飾與濃厚戰國氛圍著稱。本商品為「真武者頑駄無」的黑衣配色原創塗裝版本，以黑色為整體基底色調，原本外裝的紅色部位改以電鍍加工處理，銀色部位則使用金屬質感成型色，整體氣勢相較一般配色版本更顯威武沉穩，呈現武將鎧甲特有的莊嚴感。標配種子島、日輪丸、散光丸、電光丸等充滿戰國風情的武裝道具，完整重現角色多樣化的戰鬥裝備設定。套件並附裝飾台座、屏風、木牌等豐富展示配件，其中屏風更由知名畫師森下直親自繪製龍鳳圖案並施以銀箔壓印工藝，大幅提升整體陳列的藝術質感與收藏價值。本商品為プレミアムバンダイ限定販售，是武者頑駄無系列玩家不可錯過的珍藏逸品。黑衣配色版本與原始正規配色形成鮮明對比，讓玩家得以透過同一機體不同塗裝的並列收藏，感受武者頑駄無企劃長年累積的和風美術底蘊，體會塗裝別注版本在既有造形基礎上另闢蹊徑的視覺巧思，也讓收藏架上的和風機甲陣容更添層次感。",
     reviews: [
       {
         title: "MG 真武者頑駄無 戦国の陣 黒衣大鎧 レビュー | schizophonic9",
@@ -12552,7 +12552,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.com/en/product/1139000/Nendoroid+Snow+Miku+Sweet+Snow+Ver.",
     imageUrl: "/images/nendoroid-snowmiku-sweetsnow.jpg",
     tags: ["初音ミク", "雪ミク", "SNOW MIKU", "Good Smile Company", "ねんどろいど"],
-    description: "SNOW MIKU 17周年、2026年度雪ミク設計以「幸せパティスリー」為主題，由插畫家cold_air繪製，經由粉絲票選服裝設計後製作成Nendoroid。商品編號2939。附「笑顏」「驚訝顏」「沉穩顏」表情零件，以及兔子雪音、甜點托盤等選配零件與專用底座（需搭配底座才能站立）。",
+    description: "「雪ミク」是初音ミク企劃中每年推出的季節限定人氣角色，長期作為北海道「SNOW MIKU」冬季活動的形象大使，每年皆由不同插畫家操刀設計並經由粉絲票選服裝，是初音未來系列中極具傳統與話題性的固定企劃。本次迎來SNOW MIKU十七週年，2026年度雪ミク設計以「幸せパティスリー」（幸福甜點店）為主題，由插畫家cold_air繪製，透過甜點與糖霜色調妝點出溫暖可愛的冬季形象，經粉絲票選服裝設計後正式製作成Nendoroid，商品編號為2939。套件標配「笑顏」、「驚訝顏」、「沉穩顏」三種表情零件，充分展現角色甜美討喜的多變情緒；另附兔子雪音、甜點托盤等主題選配零件，呼應甜點店的設計概念，增添場景陳列的豐富度與童趣氛圍。套件並附專用底座，角色需搭配底座方能穩定站立展示，是每年雪ミク系列收藏不可或缺的最新一彈。作為每年冬季固定推出的企劃商品，本作也延續了雪ミク系列透過粉絲參與設計、逐年累積角色魅力的獨特傳統，深受長年支持者期待，是初音未來相關企劃中持續進化的代表性支線角色，每年推出皆為冬季收藏市場帶來新話題。",
     reviews: [],
     youtube: [
       {
@@ -12576,7 +12576,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/4549660551232000.html",
     imageUrl: "/images/smp-daitarn3.jpg",
     tags: ["無敵鋼人ダイターン3", "BANDAI", "SMP", "食玩", "サンライズ"],
-    description: "1978年播出的機器人動畫《無敵鋼人ダイターン3》以SMP（食玩模型計畫）系列立體化，將設定全高120m的巨大機體壓縮重現為約183mm的可動模型，可變形為ダイファイター、ダイタンク，並附サン・アタック重現用替換手部零件與各式武器。",
+    description: "《無敵鋼人ダイターン3》是1978年播出、由富野由悠季執導的巨大機器人動畫作品，講述地球守護聯盟對抗侵略地球的邪魔一族「メガノイド」的故事，主角機ダイターン3以誇張華麗的變形機構與豪邁的戰鬥風格著稱，是機器人動畫黃金時期的代表作之一，也是富野作品序列中承先啟後的重要一環。原作設定中ダイターン3全高達120公尺，屬於超巨大級機體，象徵當年機器人動畫追求氣勢磅礡視覺效果的黃金年代美學。本商品以SMP（SHOKUGAN MODELING PROJECT，食玩模型計畫）系列形式立體化，將原設定的龐大機體壓縮重現為約183mm的可動模型，兼顧懷舊份量感與現代可動關節的把玩樂趣。套件可重現變形為戰機形態「ダイファイター」與戰車形態「ダイタンク」的三段變形機構，完整呈現原作標誌性的合體變形場面，並附招牌必殺技「サン・アタック」重現用替換手部零件與各式武器配件，是老牌機器人動畫粉絲重溫經典的絕佳選擇。SMP系列近年持續以食玩規格重新詮釋昭和機器人動畫的經典機體，本作正是延續此一脈絡、向富野由悠季早期作品致敬的代表商品之一。",
     reviews: [],
     youtube: [
       {
@@ -12601,7 +12601,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15177/",
     imageUrl: "/images/chogokin-gundam-ex.jpg",
     tags: ["機動戦士ガンダム 復讐のレクイエム", "ガンダムEX", "BANDAI SPIRITS", "超合金", "魂ウェブ商店限定"],
-    description: "《機動戦士ガンダム 復讐のレクイエム》登場「戦慄の白い悪魔」ガンダムEX以超合金系列立體化，全高約185mm大型比例，關節與裝甲部位大量採用重量感十足的壓鑄件，頭部內建LED發光機構重現劇中形象。魂ウェブ商店限定販售。",
+    description: "《機動戦士ガンダム 復讐のレクイエム》是鋼彈系列中一部聚焦於黑暗復仇主題的外傳作品，描繪主角機「ガンダムEX」背負著沉重復仇使命於戰場上大開殺戒的故事，其別名「戦慄の白い悪魔」不僅呼應初代鋼彈「白い悪魔」的稱號，更暗示該機在戰鬥中展現出遠超一般鋼彈的冷酷與壓迫感，是系列作品中風格獨樹一幟的存在。本商品以超合金系列形式立體化，全高約185mm屬於大型比例商品，關節與裝甲部位大量採用壓鑄合金材質製作，沉甸甸的手感充分展現超合金系列一貫追求的份量感與金屬質地，與塑料成型的鋼彈模型形成截然不同的觸感體驗。頭部更內建LED發光機構，可重現劇中角色眼部發光的經典形象，強化其陰鬱而具威嚇力的視覺效果，讓玩家得以親手體驗超合金系列獨有的重量級收藏樂趣。本商品為魂ウェブ商店限定販售，數量有限且僅透過官方通路購入，深具稀有收藏價值。作為外傳作品中風格較為黑暗的一台鋼彈，超合金規格的重量感立體化，也讓角色背負的復仇宿命透過紮實的金屬觸感更添說服力，是喜愛重口味外傳劇情與大比例合金商品玩家的珍藏對象，也是超合金系列近年持續開拓外傳機體題材的代表作。",
     reviews: [
       {
         title: "HG ガンダムEX（復讐のレクイエム） レビュー",
@@ -12631,7 +12631,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15204/",
     imageUrl: "/images/scm-ex-opyx-odysseus.jpg",
     tags: ["聖闘士星矢", "オピュクスオデッセウス", "BANDAI SPIRITS", "聖闘士聖衣神話EX", "魂ウェブ商店限定"],
-    description: "紀念車田正美正統續作《聖闘士星矢 NEXT DIMENSION 冥王神話》完結，推出的「オピュクスオデッセウス」可動人偶，採用EX METAL body呈現目前最高規格關節結構。附4種替換表情，並可展開變形為大型オピュクス聖衣獸形態。魂ウェブ商店限定販售。",
+    description: "《聖闘士星矢》是車田正美創作的經典少年漫畫，描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事，影響橫跨數個世代讀者。其續作《聖闘士星矢 NEXT DIMENSION 冥王神話》由車田正美親自執筆完結，補完黃金聖鬥士們與冥界之間更深層的因緣糾葛，「オピュクスオデッセウス」正是該作品中新增的第十三黃金聖衣持有者，其存在填補了黃金十二宮之外蛇夫座聖衣的空白，深具劇情意義與話題性，也讓長年支持者對聖鬥士聖衣體系有了更完整的認識。本商品為紀念該作完結所推出的可動人偶，採用系列目前最高規格的「EX METAL body」關節結構，兼顧金屬質感與流暢可動範圍，讓角色姿勢重現更加自由生動。套件附4種替換表情零件，充分展現角色多層次的情緒張力，並可展開變形為大型オピュクス聖衣獸形態，完整重現聖衣覺醒時的震撼場面。本商品為魂ウェブ商店限定販售，是聖闘士聖衣神話EX系列蒐藏中極具紀念價值的重點單品。作為原作者車田正美親筆完結作品的紀念商品，本作也讓長年支持《聖闘士星矢》的玩家得以透過立體化見證這段冥王神話最終篇章畫下的句點。",
     reviews: [
       {
         title: "聖闘士聖衣神話EX：オピュクスオデッセウス [レビュー]",
@@ -12661,7 +12661,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5208/",
     imageUrl: "/images/hg-infinite-justice2.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "インフィニットジャスティス", "アスラン・ザラ"],
-    description: "《機動戦士ガンダムSEED FREEDOM》登場，阿斯蘭・薩拉駕駛「インフィニットジャスティスガンダム弐式」，全新造形重現強化後的機體輪廓，SEEDアクションシステム搭載大幅提升可動範圍，背包「フォランテス」與武裝可展開變形，重現原作華麗的十刀流戰鬥姿態。",
+    description: "《機動戦士ガンダムSEED FREEDOM》是SEED系列電影續作，接續電視動畫劇情描繪柯內利亞斯事件後的新一輪衝突，阿斯蘭・薩拉再度駕駛強化後的正義系鋼彈投入戰場，其座機「インフィニットジャスティスガンダム弐式」承襲初代インフィニットジャスティス的十刀流華麗戰鬥風格，並經過大幅性能提升，象徵角色在歷經多次戰役洗禮後更為成熟老練的戰鬥姿態。本商品採全新造形，重現強化後機體更具銳利感的整體輪廓與細節線條。套件搭載「SEEDアクションシステム」，大幅提升關節可動範圍，讓角色招牌的高速格鬥動作得以更自然流暢地重現。背包「フォランテス」與隨附武裝皆可展開變形，重現原作中華麗多變的十刀流戰鬥姿態，充分展現該機作為近戰型鋼彈的華麗美學。整體而言，本商品完整呈現阿斯蘭座機一貫的高機動格鬥風格，是SEED FREEDOM系列玩家收藏戰鬥姿態展示的重點商品。作為劇場版新設計機體，「弐式」的推出也讓長年支持阿斯蘭這名角色的玩家得以見證其座機隨劇情推進不斷進化的軌跡，也再次呼應了角色與正義系鋼彈之間長年不離不棄的深厚淵源。",
     reviews: [],
     youtube: [
       {
@@ -12685,7 +12685,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5754/",
     imageUrl: "/images/hg-ras96-anksha.jpg",
     tags: ["BOX0005", "ガンプラ", "HGUC", "1/144", "Bandai", "機動戦士ガンダムUC", "アンクシャ", "可變形"],
-    description: "《機動戦士ガンダムUC episode 5》登場的可變MS「アンクシャ」，アッシマー的後繼機種，頭部採用類似リゼル的臉部設計。標配一部零件替換即可從MS形態變形為飛行形態，並附屬MA形態展示專用底座，透過專用連接桿可搭載其他MS重現「サブ・フライト・システム」運用方式。",
+    description: "《機動戦士ガンダムUC》是描繪拉普拉斯事變後宇宙世紀局勢動盪的長篇外傳作品，其獨立衍生篇章《episode 5》進一步補完後續勢力鬥爭的細節，「アンクシャ」正是該篇章中登場的可變式莫比爾套裝，作為早期可變機体アッシマー的後繼機種，繼承了MS與MA形態自由切換的戰術優勢，同時針對操控性與運用彈性進行世代性改良。本商品頭部造形採用類似「リゼル」的臉部設計語彙，呼應宇宙世紀後期地球聯邦系機體逐漸統一的量產美學路線。套件標配一部零件替換即可完成從MS形態變形為飛行形態的機構，操作簡便且變形後外觀完整度高，充分體現該機作為可變兵器的實用性設計。另附屬MA形態專用展示底座，並透過專用連接桿支援搭載其他MS機體，重現原作中「サブ・フライト・システム」的經典運用方式，讓玩家得以還原宇宙世紀後期MS與運輸載具協同作戰的戰術場面，是HGUC系列可變機體收藏的重點對象。作為《機動戦士ガンダムUC》世界觀持續擴充下誕生的支線機體，「アンクシャ」也讓玩家得以進一步認識拉普拉斯事變後聯邦軍技術演進的細節脈絡，感受可變機體世代交替下逐漸統一的量產美學走向。",
     reviews: [
       {
         title: "HGUCアンクシャレビュー",
@@ -12715,7 +12715,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5274/",
     imageUrl: "/images/hg-lightning-buster-gundam.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ライトニングバスターガンダム", "ディアッカ・エルスマン"],
-    description: "《機動戦士ガンダムSEED FREEDOM》中迪亞卡・艾爾斯曼駕駛的「ライトニングバスターガンダム」，SEEDアクションシステム搭載，雙腿股關節連接軸左右獨立且可上下滑動，實現大膽的動態姿勢。大型加農炮可從摺疊狀態展開，並可透過臂部零件切換架設於肩部或腰部。",
+    description: "《機動戦士ガンダムSEED FREEDOM》劇情中，昔日隊友迪亞卡・艾爾斯曼再度披甲上陣，駕駛支援火力型鋼彈「ライトニングバスターガンダム」投入戰場，延續其在SEED系列一貫的狙擊與重火力支援定位，象徵角色從輔助戰力成長為足以獨當一面的關鍵戰力。本商品同樣搭載「SEEDアクションシステム」，透過雙腿股關節連接軸採左右獨立設計並可上下滑動的創新機構，實現遠超一般HG套件的大膽動態姿勢展現，讓射擊姿勢的重現更加自然逼真。套件標誌性的大型加農炮可從摺疊收納狀態自由展開至射擊姿態，充分展現該機作為重火力支援機的戰術定位；武裝並可透過臂部零件切換架設於肩部或腰部兩種攜行方式，貼合原作中依戰況調整武裝配置的細節設定。整體而言，本商品在保有SEED系列一貫美型機體輪廓的同時，透過創新可動機構大幅提升展示樂趣，是喜愛狙擊型鋼彈與新一代HG可動科技玩家的重點收藏。作為迪亞卡在劇場版中的全新座機，本商品也讓玩家得以見證這位一路以來擔任隊伍支援角色的成長軌跡，感受其從輔助定位邁向獨當一面王牌駕駛員的蛻變過程。",
     reviews: [],
     youtube: [
       {
@@ -12739,7 +12739,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5932/",
     imageUrl: "/images/hg-gelgoog-sugai-gq.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "ゲルググ"],
-    description: "《機動戦士Gundam GQuuuuuuX》世界線中登場的「ゲルググ スガイ機(GQ)」，以劇中登場的獨特配色立體化——白色為基底搭配軀幹與腳底紅色、胸腹腿部黃色點綴，融合聯邦吉姆與吉翁量產機的架空設計語彙。雙手皆可裝備光束噴槍，另附光束軍刀與可動式線纜錨爪（電磁ハーケン，以鉛線重現）。",
+    description: "《機動戦士Gundam GQuuuuuuX》是以「假如夏亞成功奪取阿克西斯」為前提展開的平行世界作品，重新編織一年戰爭後的架空歷史，劇中登場多台融合聯邦與吉翁設計語彙的架空機體，展現有別於正史的獨特美學。「ゲルググ スガイ機(GQ)」正是這個世界線下的產物，其配色設計融合聯邦GM與吉翁量產機的視覺元素，象徵在這個扭曲歷史中敵我陣營界線逐漸模糊的世界觀特色。本商品以劇中登場的獨特配色進行立體化，白色為整體基底，軀幹與腳底點綴紅色，胸腹與腿部則搭配黃色細節，塗裝配置大膽卻協調，充分呈現架空世界觀特有的違和美感。套件雙手皆可裝備光束噴槍，展現駕駛員スガイ的個人戰鬥風格，另附光束軍刀作為近戰輔助武裝，以及以鉛線材質重現可自由彎折的電磁ハーケン線纜錨爪，讓鋼索钩爪的動態姿勢呈現更加自由多變，是GQuuuuuuX世界觀收藏中極具話題性的一款。作為平行世界企劃下重新詮釋的量產機型，本商品也讓玩家得以感受GQuuuuuuX如何在既有機體設定基礎上發展出全新的視覺語彙與世界觀想像，重新思考鋼彈系列平行歷史所蘊含的無限可能性。",
     reviews: [],
     youtube: [
       {
@@ -12763,7 +12763,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_2681/",
     imageUrl: "/images/hg-gundam-marchosias.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム 鉄血のオルフェンズ", "ガンダムマルコシアス"],
-    description: "《機動戦士ガンダム 鉄血のオルフェンズ》厄災戦時期失落的幻之機體「ガンダムマルコシアス」，最大特徵是背部與腰部合計裝備4枚「バインダー」，全部皆可作為副手臂運作。標配「バスタードメイス」巨型狼牙棒、短劍×4、盾牌、指虎護具×2等武裝。",
+    description: "《機動戦士ガンダム 鉄血のオルフェンズ》以火星為舞台，描繪少年兵團「鉄華団」在殘酷戰場上求生存的熱血故事，其中「厄災戦」時期的鋼彈骨架機體大多下落不明或遭到封印，「ガンダムマルコシアス」正是這段失落歷史中意外重見天日的幻之機體，其存在補完了厄災戦時代鋼彈骨架多樣化開發的空白篇章，深受核心粉絲關注。本商品最大特徵是背部與腰部合計搭載4枚「バインダー」機構，這些裝甲單元全數皆可作為副手臂靈活運作，展現厄災戦時期鋼彈骨架技術特有的異形化與多臂戰術構想，呈現與一般人型MS截然不同的戰鬥美學。標配巨型狼牙棒「バスタードメイス」展現壓倒性近戰破壞力，另附短劍×4供多手臂同時揮舞使用，充分發揮多臂機體的戰術優勢；盾牌與指虎護具×2則進一步強化防禦與貼身格鬥能力，整體武裝配置豐富且具高度延展性，是鉄血のオルフェンズ系列中造形設計最具衝擊力的機體之一。作為厄災戦時期失落機體重見天日的代表作，「マルコシアス」也讓玩家得以透過立體造形一窺鉄華団故事背後更為龐大而神秘的鋼彈骨架開發史，感受鉄血のオルフェンズ世界觀考證細膩的一面。",
     reviews: [],
     youtube: [
       {
@@ -12787,7 +12787,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_6865/",
     imageUrl: "/images/hg-gquuuuuux-endymion-awakened.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "エンディミオン"],
-    description: "《機動戦士Gundam GQuuuuuuX》最終決戰「エンディミオン・ユニット覚醒」形態立體化，頭部採無需替換零件即可開闔的「口部」開閉機構，搭配PET材質與透明零件組合而成的光輪特效零件，重現覺醒時異界般的壓迫感。套件亦附屬未覺醒狀態用零件，可自由選擇組裝形態。",
+    description: "《機動戦士Gundam GQuuuuuuX》在最終決戰篇章中，主角機覺醒為「エンディミオン・ユニット覚醒」形態，展現超越常理的異界般存在感，象徵劇情推向高潮時角色與機體共同跨越極限的關鍵轉折，是全劇視覺與敘事張力的最高點。本商品聚焦重現此一覺醒形態，頭部採用無需替換零件即可直接開闔的「口部」開閉機構，讓角色覺醒時特有的猙獰表情得以透過機構直接呈現，展現細膩的機構設計巧思。套件搭配PET材質與透明零件組合而成的光輪特效零件，環繞機體周身重現覺醒瞬間異界般的壓迫氛圍與神秘光效，大幅提升整體陳列的戲劇張力與視覺震撼力。此外，套件亦貼心附屬未覺醒狀態專用零件，讓玩家可依個人喜好自由選擇組裝一般形態或覺醒形態，兼顧兩種樣貌的收藏彈性，完整呈現GQuuuuuuX世界觀中角色蛻變前後的強烈對比，是該系列粉絲不可錯過的話題重點商品。作為全劇最高潮的視覺象徵，本商品也讓玩家得以親手重現這個顛覆常規機體設計、充滿異界壓迫感的最終決戰形態，體會GQuuuuuuX顛覆傳統鋼彈美學所帶來的強烈衝擊，感受劇情推向終局時那股難以言喻的神秘氛圍。",
     reviews: [],
     youtube: [
       {
@@ -12811,7 +12811,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_4402/",
     imageUrl: "/images/hg-heindree-sturm.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム 水星の魔女", "ハインドリーシュトルム"],
-    description: "《機動戦士ガンダム 水星の魔女》グラスレー社實戰配備規格「ハインドリーシュトルム」，相較一般版ハインドリー追加背部可動式專用武裝與左臂專用盾牌。頭部與上半身可動範圍極廣，可完整重現側身姿勢與流暢的跪姿動作，附光束步槍、光束軍刀、盾牌等配件。",
+    description: "《機動戦士ガンダム 水星の魔女》以商業競技「決鬥」制度與莫比爾套裝相關企業間的角力為背景，劇中登場多家民間企業所開發的機體各具特色，「グラスレー社」作為劇中重要企業勢力之一，其開發的「ハインドリー」系機體便以泛用性與量產適性著稱。「ハインドリーシュトルム」為該公司實戰配備規格版本，相較一般版ハインドリー進一步強化戰場實用性，反映グラスレー社因應激烈市場競爭所推出的升級方案。本商品在既有基礎上追加背部可動式專用武裝，大幅提升機體火力與戰術彈性，並新增左臂專用盾牌，強化近戰防禦能力，呈現企業機體因應實戰需求而演進的設計脈絡。套件頭部與上半身可動範圍設計極廣，能夠完整重現側身姿勢與流暢的跪姿動作，充分展現HG系列近年在可動關節上的技術進步。標配光束步槍、光束軍刀、盾牌等基本配件，滿足日常戰鬥姿態的多樣化展示需求，是「水星の魔女」世界觀中企業機體收藏的重點對象。作為グラスレー社量產機系譜的實戰強化版本，本商品也讓玩家得以感受「水星の魔女」世界觀中企業間軍備競賽的具體樣貌，體會商業競技制度下各家莫比爾套裝廠商角力較勁的縮影。",
     reviews: [
       {
         title: "HG ハインドリーシュトルム レビュー",
@@ -12841,7 +12841,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5354/",
     imageUrl: "/images/hg-gyanstrom-hilda-haken.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ギャンシュトローム", "ヒルダ・ハーケン", "Premium Bandai限定"],
-    description: "《機動戦士ガンダムSEED FREEDOM》量産機規格「ギャンシュトローム（ヒルダ・ハーケン専用機）」，以アグネス機為基礎但換裝大氣圏用背包「ボレロA」（アグネス機為宇宙用「ボレロS」），成型色重現量産機塗裝。標配光束步槍、可收展的光束斧、鞭状武裝スレイヤーウィップ、自航防盾及三連裝旋轉光束機槍×2等豐富武裝。Premium Bandai限定販售。",
+    description: "《機動戦士ガンダムSEED FREEDOM》為2024年上映的高達SEED系列最新劇場版，承接《SEED DESTINY》故事線後日談。「ギャン」是Cosmic Era世界觀中吉翁系傑內森教聯合的代表機種，以厚重裝甲與獨特頭部造型著稱，「ギャンシュトローム」則承襲此設計譜系推出的新型量產機。本商品重現隸屬量產機規格的希爾妲・哈肯專用機，以姊妹機「アグネス機」為基礎設計，但因應大氣圈内作戰需求換裝專用背包「ボレロA」，有別於原版宇宙用「ボレロS」，成型色也對應量產機統一塗裝規格，與専用機鮮豔配色形成對比。套件標配武裝豐富，包含光束步槍、可收展的光束斧、鞭状武裝スレイヤーウィップ、自航式防盾及三連裝旋轉光束機槍兩挺，武裝密度高，能重現機體多變戰鬥姿態。作為Premium Bandai限定販售商品，僅透過官方通路提供，未於一般零售鋪貨，具收藏稀有性，適合SEED系列與量產機收藏愛好者入手。作為HG系列一貫主打親民售價與簡易組裝的定位，本套件同樣採用高精度色分成型技術，玩家即使不額外塗裝也能重現量產機規格配色，兼顧入門玩家與資深藏家的組裝需求，適合搭配専用機版本併列展示比較。",
     reviews: [
       {
         title: "HGCE ギャンシュトローム（ヒルダ・ハーケン専用機） レビュー",
@@ -12865,7 +12865,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5206/",
     imageUrl: "/images/hg-gyanstrom-agnes-giebenrath.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ギャンシュトローム", "アグネス・ギーベンラート"],
-    description: "《機動戦士ガンダムSEED FREEDOM》登場、亞格妮絲・吉本拉特駕駛的專用機「ギャンシュトローム」，SEEDアクションシステム搭載重現動態姿勢，標配光束斧、熱能鞭、光束軍刀、光束步槍、光束加特林等多元武裝，是「令和版ギャン」的代表機體之一。",
+    description: "《機動戦士ガンダムSEED FREEDOM》為高達SEED系列時空最新劇場版，描述滅亡之戰後各國情勢與新威脅崛起。「ギャンシュトローム」承繼初代高達系列吉翁系「ギャン」設計血統，本商品重現由亞格妮絲・吉本拉特駕駛的專用機版本，塗裝與武裝規格皆針對其個人戰鬥風格調整，是劇中活躍主力機體之一。套件搭載「SEEDアクションシステム」關節結構，可動範圍廣泛，能重現大幅度迴旋與突擊等動態姿勢，展現SEED系列一貫的華麗空戰演出。標配武裝相當豐富，包含光束斧、熱能鞭、光束軍刀、光束步槍及光束加特林等近戰與遠程兵裝一應俱全，充分對應「ギャン」系列多元武裝的設計傳統。本機外型延續初代「ギャン」獨特頭部與肩甲輪廓，經現代考證重新設計後煥然一新，因此在玩家間亦被暱稱為「令和版ギャン」，是喜愛經典機體重生詮釋的收藏者不可錯過的一款。作為HG系列商品，本套件同樣兼顧組裝便利性與色彩分色精度，玩家可省去繁複塗裝工序，並適合與量產機規格的姊妹版本並列比較展示，完整呈現「ギャン」譜系於SEED FREEDOM世界觀中的多元衍生面貌。",
     reviews: [],
     youtube: [
       {
@@ -12889,7 +12889,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5453/",
     imageUrl: "/images/hg-option-parts15-cavalier-airfrid.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "キャバリアーアイフリッド", "オプションパーツ"],
-    description: "《機動戦士ガンダムSEED FREEDOM》登場的支援武裝「キャバリアーアイフリッド」以選配零件套組形式立體化，附多種接續零件可裝設於各式機體。標配試製35式改軌道炮，飛彈艙艙門可開闔，翼部可展開重現飛行形態，並附屬Action Base 7可單獨展示。",
+    description: "《機動戦士ガンダムSEED FREEDOM》劇中登場的支援武裝系統「キャバリアーアイフリッド」，本次以HG比例選配零件套組形式獨立商品化，方便玩家依需求裝設於旗下多款相容機體。套組內附多種不同規格的接續零件，可視所搭配主體機型調整裝設方式，展現高度相容性與延伸把玩樂趣，是SEED FREEDOM選配零件商品線中重要的一款擴充配件。標準配備包含試製35式改軌道炮，重現劇中遠程火力支援的關鍵武裝設定；飛彈艙艙門可自由開闔，重現彈藥填裝與待機狀態；兩側翼部並可展開切換為飛行形態，重現支援機體在戰場上高速機動、掩護友軍的定位。套組另附贈專用展示台「Action Base 7」，方便玩家將本體單獨展示，無需依附主力機也能完整呈現其武裝規格與飛行姿態，對熱衷收集SEED FREEDOM周邊裝備與武裝擴充零件的玩家而言，是相當實用且具展示價值的商品。此類選配零件套組是近年鋼普拉商品線常見的延伸企劃模式，讓玩家無需重複購入整台主體機即可擴充武裝配置，兼顧收藏成本與展示變化性，也讓單一支援武裝得以獨立成為展示焦點，深受追求場景多樣化的玩家青睞。",
     reviews: [],
     youtube: [
       {
@@ -12913,7 +12913,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_335/",
     imageUrl: "/images/hgbf-denial-gundam.jpg",
     tags: ["BOX0005", "ガンプラ", "HGBF", "1/144", "Bandai", "ガンダムビルドファイターズトライ", "ディナイアルガンダム"],
-    description: "《ガンダムビルドファイターズトライ》登場的「ディナイアルガンダム」，深灰與海軍藍為基調配上透明紫零件，小頭長腿的獨特輪廓專攻近身戰鬥。與ビルドバーニングガンダム共通部分關節零件，並附兩種光子粒子特效零件重現機體招牌演出。",
+    description: "《ガンダムビルドファイターズトライ》為高達模型競技題材動畫系列作品之一，描述主角們操縱自製鋼彈模型於虛擬戰鬥系統中一較高下。「ディナイアルガンダム」是劇中登場、專攻近身戰鬥的原創機體，本商品以HGBF比例呈現其獨特設計。機體配色以深灰與海軍藍為主要基調，並搭配透明紫零件點綴關鍵部位，塑造出低調卻帶神秘感的視覺印象。造型上採小頭配長腿的誇張比例設計，突顯重視機動力與貼身纏鬥的戰鬥風格，與系列中強調火力壓制的機體形成鮮明對比。可動結構方面，本機與同系列人氣機體「ビルドバーニングガンダム」共通部分關節零件，確保基礎可動性與骨架強度，方便玩家擺出各式高難度動作姿勢。套件另標配兩種光子粒子特效零件，可安裝於武裝或手部位置，重現角色使出必殺技瞬間迸發粒子光效的招牌演出畫面，讓靜態展示也能呈現躍動感十足的戰鬥張力。作為HGBF系列一貫親民定位的商品，套件組裝難度適中，色彩分色精度亦有一定水準，玩家無需大量塗裝即可重現機體特色配色，是《ビルドファイターズ》系列中造型獨樹一格、深受近戰機體愛好者關注的一款作品。",
     reviews: [
       {
         title: "HGBFディナイアルガンダム レビュー",
@@ -12937,7 +12937,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5583/",
     imageUrl: "/images/rx78f00e-glrss-feather-unit.jpg",
     tags: ["BOX0005", "ガンプラ", "1/144", "Bandai", "大阪関西万博", "ガンダムパビリオン", "RX-78F00", "限定"],
-    description: "2025年大阪・関西萬博「ガンダムパビリオン」展出象徵機體「RX-78F00/E ガンダム」搭載「グラスフェザー装備」的立體化商品。太陽能板部位採用透明藍零件，可重現機翼閉合狀態；ビーム溶接ガン可替換展開與收納兩種型態並可佩掛於手臂上。採用多色成型技術「イロプラ」呈現機體色彩，無需塗裝即可完成鮮豔配色，卡扣式組裝設計無需使用膠水。",
+    description: "2025年大阪・關西世界博覽會設置的「ガンダムパビリオン」以「GUNDAM: Next Universal Century」為主題概念，展望高達系列跨越世紀的未來願景，「RX-78F00/E ガンダム」正是象徵此展館精神的原創機體。本商品重現搭載追加裝備「グラスフェザー装備」的形態立體化，換裝後的太陽能翼部採用透明藍零件成型，可自由呈現翼面展開受光與閉合收納兩種狀態，象徵能源與未來科技的意象。標配的「ビーム溶接ガン」可自由替換展開及收納型態零件，並能直接佩掛固定於機體手臂上，兼顧武裝機能與造型俐落度。本套件另一大特色是採用萬博限定的多色成型技術「イロプラ」，機體各部位色彩已預先於零件成型階段區分完成，玩家無需另行塗裝即可完成鮮豔且高精度的配色效果；組裝方式亦採卡扣式設計，全程無需使用任何黏著劑，即便初學者也能輕鬆完成組裝，充分展現萬博限定商品面向大眾推廣的親民定位。此類萬博限定商品因展期與販售通路有限，向來受到鋼普拉收藏圈高度關注，隨著世博會落幕，此類紀念性質商品的市場流通量預期將逐漸收斂，對於喜愛紀念活動限定周邊與未來科技概念機體的玩家而言，具備一定的收藏意義。",
     reviews: [
       {
         title: "EXPO2025 1/144 RX-78F00/E ガンダム (EX-001 グラスフェザー装備) レビュー",
@@ -12967,7 +12967,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5931/",
     imageUrl: "/images/hg-ms06ssp-police-zaku.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "ザク", "軍警ザク"],
-    description: "《機動戦士Gundam GQuuuuuuX》世界線中登場的治安維持用機體「軍警ザク」，肩部燈具以透明零件重現警示燈效果，肩部組件可獨立可動實現生動的執勤姿態，單眼可動。標配警棍等裝備及重現劇中形象的標誌貼紙。",
+    description: "《機動戦士Gundam GQuuuuuuX》是以高達平行世界觀為背景的最新企劃，劇中舞台設定在薩比家族依然統治著薩比恩共和國的另一世界線，社會結構與經典高達系列大相逕庭。「軍警ザク」即是這個特殊世界線下、負責維持社會治安的薩克改型機體，脫離傳統薩克作為戰爭兵器的定位，轉型為執法用途的特殊塗裝機。本商品以HG比例重現這款饒富趣味的支線機體，肩部警示燈具採用透明零件成型，模擬燈光閃爍效果，為機體增添街頭執勤臨場感。肩部組件並設計為可獨立可動，方便擺出巡邏、戒備等生動執勤姿態；經典單眼護目鏡部位同樣保留可動機構，能微調視線角度增添表情變化。套件標準配備警棍等治安維持用裝備，並附有重現劇中畫面的標誌貼紙，讓玩家可依喜好於機體表面點綴警徽等細節，完整呈現這個平行世界獨有的薩克形象。此類跳脫戰爭兵器框架、賦予薩克嶄新社會角色的企劃設計，是GQuuuuuuX世界觀相當受討論的一項嘗試，也讓長年作為反派兵器象徵的薩克，得以呈現守護治安的正面形象，成為系列衍生商品中話題性十足的一款。",
     reviews: [
       {
         title: "HG 軍警ザク レビュー",
@@ -12997,7 +12997,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5582/",
     imageUrl: "/images/hg-gquuuuuux-gms-omega.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス"],
-    description: "《機動戦士Gundam GQuuuuuuX》主角機「GQuuuuuuX（ジークアクス）」標準形態立體化，精密重現獨特的機體輪廓與細部線條，主要可動機構集中於背包部位。套件由7張成型件組成，不使用連接骨架（ポリキャップレス）方式組裝，色分度高、幾乎無須塗裝即可重現劇中形象。",
+    description: "《機動戦士Gundam GQuuuuuuX》為薩比家族統治世界線下的最新高達企劃，「GQuuuuuuX（ジークアクス）」正是本作真正主角機，其名稱與造型皆刻意打破傳統高達既定印象，在系列粉絲間引發高度討論。本商品重現機體標準形態「gMS-Ω」，透過HG比例精密還原獨特且充滿個性的整體輪廓與細部線條分割，力求忠實呈現原作前衛的造型概念。可動機構方面，主要活動範圍集中於背包部位，透過背包內建關節搭配伸縮結構，能重現角色特有的動態姿勢與招牌演出動作。套件工程上一大特色是全套僅由7張成型件構成，數量精簡卻兼顧高度色彩分色，並採用不使用連接骨架（ポリキャップレス）的組裝方式，關節活動全數仰賴零件本身結構設計，展現Bandai近年HG系列在工程精簡化上的技術積累。整體色分完成度高，幾乎不需額外塗裝即可重現劇中鮮明視覺形象，是入門新系列的絕佳首選。由於本作機體造型顛覆了系列一貫既定印象，發售後在玩家間引發正反兩極的熱烈討論，但也正因如此獨特的視覺衝擊力，使其成為近年鋼普拉話題度最高的新機體之一，值得關注系列最新動向的玩家收藏比較。",
     reviews: [],
     youtube: [
       {
@@ -13021,7 +13021,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5100/",
     imageUrl: "/images/hg-gelgoog-menace-lunamaria.jpg",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ゲルググメナース", "ルナマリア・ホーク"],
-    description: "《機動戦士ガンダムSEED FREEDOM》露娜瑪利亞・霍克駕駛的「ゲルググメナース」，SEEDアクションシステム搭載、翼部可動，標配光束薙刀、光束步槍、軌道炮及偏光光束盾等豐富武裝，重現劇中初戰即活躍的凌厲身姿。",
+    description: "《機動戦士ガンダムSEED FREEDOM》承接《SEED DESTINY》故事線的劇場版最新作，劇中登場多款經典機體的強化改良版本，「ゲルググメナース」便是吉翁系高性能機「ゲルググ」譜系的最新型號。本商品重現由露娜瑪利亞・霍克駕駛的專用機，她是《SEED DESTINY》系列中戲份吃重的女性駕駛員之一，本作中持續活躍於戰場前線。套件同樣搭載「SEEDアクションシステム」關節可動結構，翼部並具備可動機構，能重現角色駕駛此機於開戰之初便展現凌厲身手、大顯身手的動態場面。標準配備武裝十分齊全，包含光束薙刀、光束步槍、軌道炮以及偏光光束盾等遠近兼備的裝備陣容，充分體現「ゲルググ」系列一貫重視全方位武裝配置的設計理念。整體機身線條延續系列流線造型，同時針對SEED FREEDOM世界觀進行細節調整，是喜愛SEED系列吉翁後繼機譜系與女性駕駛員專用機收藏者值得收入的一款。作為HG系列商品，本套件亦兼顧組裝便利性與色彩分色精度，玩家可省去繁複塗裝工序即完成高完成度成品，適合與同系列其他駕駛員專用機並列展示，完整呈現SEED FREEDOM世界觀中「ゲルググ」譜系的多樣衍生面貌。",
     reviews: [],
     youtube: [
       {
@@ -13045,7 +13045,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/104/",
     imageUrl: "/images/gx10-boss-borot.jpg",
     tags: ["合金0002", "マジンガーZ", "ボスボロット", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《マジンガーZ》兜甲児親手改造的搞笑輔助機體「ボスボロット」，超合金魂系列立體化，全長約115mm，附屬三種不同表情的替換頭部零件，圓滾滾的外型與招牌的螺旋鑽拳頭忠實重現原作詼諧形象。",
+    description: "《マジンガーZ》是永井豪原作、1972年首播的經典巨大機器人動畫，開創了「駕駛員搭乘操縱巨大機器人」這一日後蔚為主流的作品類型，在特攝與動畫史上具有里程碑意義。「ボスボロット」是劇中主角兜甲児親手改造、原本用途五花八門的搞笑輔助機體，雖戰鬥力遠不及主角機マジンガーZ，卻是劇中不可或缺的人氣配角，以插科打諢與意外關鍵時刻的活躍表現深受觀眾喜愛。本商品收錄於「超合金魂」系列，以全長約115mm的小巧尺寸精緻重現其圓滾滾的逗趣造型與招牌螺旋鑽拳頭。套件附屬三種不同表情的替換頭部零件，能重現角色從呆萌、驚訝到得意等多種經典表情變化，充分呼應原作詼諧幽默的角色定位。作為初代機器人動畫時代深植人心的配角機體立體化商品，對資深特攝與機甲收藏愛好者而言，兼具情懷價值與把玩樂趣。作為初代機器人動畫黃金年代的產物，「超合金魂」系列近年持續推出マジンガーZ相關周邊配角機體，讓玩家得以逐步補齊整個世界觀的機體陣容，本商品小巧的尺寸也便於與主角機マジンガーZ本體並列展示對比。",
     reviews: [],
     youtube: [
       {
@@ -13069,7 +13069,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/295/",
     imageUrl: "/images/gx23-zambot3.jpg",
     tags: ["合金0002", "無敵超人ザンボット3", "ザンボット3", "超合金魂", "Bandai", "TAMASHII NATIONS", "サンライズ"],
-    description: "富野由悠季執導、日昇「無敵鋼人系列」首部作《無敵超人ザンボット3》主角機「ザンボット3」超合金魂立體化，由ザンボエース、ザンボット2、ザンボベース三機合體變形而成。ザンボエース單體可動並可變形為飛行形態「ザンバード」，附屬ザンボマグナム、ガンベルト、ザンバスター等多款武裝。",
+    description: "《無敵超人ザンボット3》是富野由悠季執導、日昇動畫於1977年推出的作品，為其「無敵鋼人系列」三部曲首部作，也是富野作品中首度嘗試將戰爭殘酷面與少年英雄成長故事結合的重要里程碑，日後對《機動戦士ガンダム》等作品的世界觀塑造影響深遠。「ザンボット3」是本作主角機，由ザンボエース、ザンボット2、ザンボベース三台各自獨立的載具合體變形而成，合體演出是當年劃時代的商業與敘事賣點。本商品收錄於「超合金魂」系列，完整重現三機合體變形機構，並考證原作細部進行造型優化。其中ザンボエース單體具備可動機構，並可單獨變形為飛行形態「ザンバード」，呈現多層次的把玩變化。標準配備包含ザンボマグナム、ガンベルト、ザンバスター等多款經典武裝配件，讓玩家能完整重現原作各個名場面，是喜愛富野作品系譜與早期合體機器人設計的收藏者不可錯過的一款。本商品沿襲「超合金魂」系列一貫的高完成度考證精神，兼顧合體機構的操作流暢度與靜態展示時的比例協調感，對於希望完整收藏日昇「無敵鋼人系列」三部曲機體陣容的資深藏家而言，是重要的補完之作。",
     reviews: [
       {
         title: "超合金魂：GX-23 無敵超人ザンボット３[レビュー]その１",
@@ -13099,7 +13099,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/166/",
     imageUrl: "/images/gx13-dancouga.jpg",
     tags: ["合金0002", "超獣機神ダンクーガ", "ダンクーガ", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《超獣機神ダンクーガ》主角機「ダンクーガ」超合金魂立體化，由四台動物型機甲合體變形而成，重現原作招牌武裝「龍虎豪拳」拳擊姿態，機體大量使用壓鑄件呈現厚重的金屬質感。",
+    description: "《超獣機神ダンクーガ》是1985年播出的動物合體機器人動畫代表作之一，劇中融合動物型態機甲與熱血格鬥要素，主角機「ダンクーガ」的合體演出與招牌必殺技「龍虎豪拳」在當年廣受歡迎，至今仍是超合金魂系列人氣居高不下的經典商品線。本商品重現由四台各具特色的動物型機甲——分別對應獅、虎、鷹、鯊、犬等動物意象——合體變形組成的完整ダンクーガ機體，考驗玩家對複雜合體工程結構的操作理解。套件特別著重重現原作招牌的「龍虎豪拳」拳擊架勢，能完整呈現主角機蓄力揮拳、擊倒敵人的經典必殺技瞬間。製作上大量採用壓鑄件構成機身骨架與外裝部位，帶來扎實的重量感與厚實金屬質感，符合「超合金魂」系列一貫追求「越級的份量感與高完成度」的品牌定位，對喜愛80年代動物合體機甲題材與早期超合金魂系列的收藏者而言，是重量級代表商品之一。本商品沿襲「超合金魂」系列一貫講究的合體工程精度，玩家可親手體驗五機合體為單一巨大機甲的變形樂趣，也是系列中少數以動物型態機甲為題材、兼具懷舊情懷與紮實把玩體驗的代表商品之一。",
     reviews: [],
     youtube: [],
   },
@@ -13117,7 +13117,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/368/",
     imageUrl: "/images/gx26-doublas-m2.jpg",
     tags: ["合金0002", "マジンガーZ", "ダブラスM2", "機械獣", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《マジンガーZ》代表性機械獣「ダブラスM2」超合金魂立體化，頸部可動重現原作特有姿態，粉紅與黑色相間的獨特配色與尖銳裝甲造型呈現十足的反派存在感。",
+    description: "《マジンガーZ》是永井豪原作的初代巨大機器人動畫經典，劇中反派赫爾博士率領機械獸軍團向主角機マジンガーZ發起一波波挑戰，構成系列早期最主要的戰鬥張力來源。「ダブラスM2」正是劇中登場的代表性機械獸之一，以尖銳誇張的裝甲造型與強烈反派存在感，成為粉絲心中初代機械獸圖鑑中辨識度極高的一員。本商品收錄於「超合金魂」機械獸系列商品線，頸部設計可動，能重現原作中機械獸特有的挑釁與攻擊姿態，賦予靜態模型更多戲劇張力。塗裝方面採用粉紅與黑色相間的醒目撞色配置，忠實呈現原作設定中略帶詭異又不失視覺衝擊力的獨特配色美學，與マジンガーZ本體正義凜然的形象形成強烈對比。作為「超合金魂」機械獣系列延伸商品之一，本作品讓玩家得以收藏正義主角機以外、同樣具備高辨識度的經典反派機體，補齊初代機器人動畫世界觀的重要一角。本商品體現「超合金魂」系列近年持續深耕マジンガーZ機械獸圖鑑的企劃方向，透過反派機體的立體化補完初代作品的完整世界觀陣容，對於致力收齊整套機械獸系列的資深藏家而言，是不可或缺的一件收藏品。",
     reviews: [],
     youtube: [],
   },
@@ -13135,7 +13135,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/355/",
     imageUrl: "/images/gx25-garada-k7.jpg",
     tags: ["合金0002", "マジンガーZ", "ガラダK7", "機械獣", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《マジンガーZ》系列超合金魂「機械獣」立體化第一彈「ガラダK7」，頭部鐮刀可拆卸，銀色機身搭配紅色火焰彩繪紋樣，重現マジンガーZ初期強敵之一的原作形象。",
+    description: "《マジンガーZ》劇中登場的機械獸軍團是赫爾博士對抗主角機的主要戰力來源，「ガラダK7」是其中初期登場的代表性機械獸之一，也是「超合金魂」系列「機械獣」立體化企劃的第一彈作品，具備一定的系列開創意義。作為マジンガーZ初期劇情中令主角吃盡苦頭的強敵之一，ガラダK7以頭部鐮刀狀武裝與銀色機身搭配醒目的紅色火焰彩繪紋樣著稱，塑造出兼具野獸感與機械感的獨特反派形象。本商品完整重現原作設定，頭部招牌鐮刀武裝可自由拆卸，方便玩家重現機體展開攻擊與收納待機兩種不同姿態。銀色機身塗裝搭配手繪質感的紅色火焰紋樣，忠實還原原作賽璐璐畫面中略帶粗獷筆觸的視覺效果，展現「超合金魂」系列一貫講究的塗裝與造型考證功力。作為系列機械獸商品線的開創之作，對喜愛蒐集マジンガーZ世界觀完整反派陣容的資深收藏者而言，具備相當重要的補完意義。本商品作為「機械獣」系列第一彈作品，開啟了後續一系列マジンガーZ反派機體立體化企劃的先河，對於關注超合金魂系列發展脈絡與初代機器人動畫反派陣容的資深收藏者而言，具備重要的系列起點意義。",
     reviews: [],
     youtube: [],
   },
@@ -13153,7 +13153,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/592/",
     imageUrl: "/images/gx32-gold-lightan.jpg",
     tags: ["合金0002", "黄金戦士ゴールドライタン", "ゴールドライタン", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《黄金戦士ゴールドライタン》主角機「ゴールドライタン」超合金魂立體化，可從打火機形態完整變形為機器人形態，全身以18金電鍍呈現璀璨金色光澤，並附豪華禮盒包裝，是深受成年收藏家喜愛的一款。",
+    description: "《黄金戦士ゴールドライタン》是1981年播出的作品，劇中設定主角機平時偽裝成一只金色打火機造型的日常小物，關鍵時刻才會變形為黃金戰士機器人形態迎戰敵人，這種「日常物品變形巨大機器人」的反差設定，在當年機器人動畫中獨樹一格，也奠定本作在特攝機甲愛好者心中的獨特地位。「超合金魂」系列將此經典設定完整立體化，本商品可完整重現機體從打火機收納形態，逐步展開變形為機器人戰鬥形態的完整過程，機構設計兼顧收納緊湊性與變形後的比例合理度，考驗設計團隊在有限空間內安排關節結構的巧思。塗裝方面，全身以18金電鍍工藝呈現璀璨奪目的金色光澤，質感遠勝一般噴塗成型色，充分呼應「黃金戰士」之名所象徵的尊貴感。商品並附有講究的豪華禮盒包裝，整體規格明顯針對成年收藏市場設計，是深受資深特攝機甲玩家喜愛、兼具情懷與精品收藏價值的一款超合金魂逸品。此類講究貴金屬電鍍工藝與精品包裝規格的商品路線，是「超合金魂」系列面向成年收藏市場的重要嘗試之一，透過提升素材質感與包裝規格，讓經典懷舊機體得以用更具收藏價值的樣貌重新問世。",
     reviews: [
       {
         title: "超合金魂：GX-32 ゴールドライタン [レビュー]",
@@ -13183,7 +13183,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/850/",
     imageUrl: "/images/gx41s-raideen-fadein-set.jpg",
     tags: ["合金0002", "勇者ライディーン", "ライディーン", "超合金魂", "Bandai", "TAMASHII NATIONS", "DXセット"],
-    description: "紀念超合金魂系列10週年推出的「勇者ライディーン DXフェードインセット」，重現原作神像浮現名場面——附屬可開闔並收納ライディーン本體的「神面岩」及ひびき洸搭乘的スパーカー座機。ライディーン本體上臂與大腿部位施以珍珠白特殊塗裝，與一般版做出區隔，並追加ヘッドカッター、ゴーグ・ソード等強化武裝。",
+    description: "《勇者ライディーン》是1975年播出的作品，由永井豪原案、日昇動畫製作，劇中主角機「ライディーン」設定為沉睡於巨大神像「神面岩」之中的古代機器人，每當危機降臨便會浮現覺醒、投入戰鬥，這種融合古代文明與科幻機甲的世界觀設定在當年別具一格，也深刻影響了日後多部融合神秘學元素的機器人動畫。本商品為紀念「超合金魂」系列10週年推出的紀念版「DXフェードインセット」，完整重現原作經典名場面——神像「神面岩」可自由開闔，並能將ライディーン本體收納其中，重現機體浮現覺醒的震撼演出；套組並附贈男主角ひびき洸搭乘的座機「スパーカー」，補完角色駕駛動線。本次限定版特別於ライディーン本體上臂與大腿部位施以珍珠白特殊塗裝，與一般版塗裝做出明顯區隔，並追加ヘッドカッター、ゴーグ・ソード等強化武裝配件，是紀念版商品中誠意十足、值得收藏的週年企劃之作。此類週年紀念版套組往往透過差異化塗裝與追加配件的方式，為長年支持系列的資深藏家提供再次收藏的誘因，也讓經典懷舊機體得以在紀念性節點重新獲得關注，是「超合金魂」系列企劃中頗具誠意的一類商品。",
     reviews: [
       {
         title: "超合金魂：GX-41S 勇者ライディーン DXフェードインセット [レビュー] その２",
@@ -13213,7 +13213,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/794/",
     imageUrl: "/images/gx39-baikanfu.jpg",
     tags: ["合金0002", "マシンロボ クロノスの大逆襲", "バイカンフー", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《マシンロボ クロノスの大逆襲》主角機「バイカンフー」超合金魂立體化，由ロム、レイナ、ケンリュウ三機合體而成，可重現原作招牌「パイルフォーメイション」合體演出，紅白配色的武打機器人造型深受熱血機甲愛好者喜愛。",
+    description: "《マシンロボ クロノスの大逆襲》是萬代旗下「機獸新世紀マシンロボ」系列作品之一，劇中主角機體多半具備變形為日常交通工具或武打機甲的雙重形態，帶有濃厚東方武打風格色彩，在80年代機器人動畫中獨樹一格。「バイカンフー」正是本作主角機，由ロム、レイナ、ケンリュウ三名角色各自駕駛的機體合體組成，合體後化身武打風格強烈的人形機甲，招牌必殺技「パイルフォーメイション」是劇中最具代表性的演出畫面。本商品以「超合金魂」規格完整重現三機合體變形機構，並考證原作進行細部造型優化，能重現角色蓄力出拳、擺出武打架式的經典姿態。紅白相間的鮮明配色搭配硬派剛健的機甲輪廓，塑造出濃厚東方武術美學風格的視覺印象，與同系列其他日系傳統機甲形成鮮明對比。對喜愛80年代武打機甲題材與マシンロボ系列世界觀的資深機甲玩家而言，本作是補齊收藏版圖不可或缺的一款重量級商品。本商品延續「超合金魂」系列一貫講究的合體工程與造型考證精神，讓玩家得以完整重現這款融合武打元素與機甲合體樂趣的經典角色，對於喜愛80年代機獣題材與マシンロボ系列世界觀的藏家而言別具意義。",
     reviews: [],
     youtube: [],
   },
@@ -13231,7 +13231,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=1643&grp_id=5312",
     imageUrl: "/images/bf37-franky.jpg",
     tags: ["合金0003", "ワンピース", "One Piece", "フランキー", "超合金", "Bandai"],
-    description: "《ワンピース》改造人フランキー戰鬥形態「BF-37（バトル・フランキー37号）」超合金立體化，全高約190mm，肩部與雙臂大型改造義體以壓鑄件重現厚重機械感，重現原作招牌「フランキー・ラジカルビーム」等姿勢。",
+    description: "《ワンピース (One Piece)》是尾田榮一郎自1997年連載至今的國民級海賊冒險漫畫，描述主角魯夫一行草帽海賊團尋找傳說中「ONE PIECE」寶藏的旅程，是日本漫畫史上發行量最高的作品之一。「フランキー」是草帽海賊團的船匠，本身為改造人身軀，平時可透過切換武裝模式強化戰鬥力，其中「BF-37（バトル・フランキー37号）」即是他在魚人島篇章前後展現的強化戰鬥形態，肩部與雙臂大幅擴張為巨型機械義體，火力與防禦力大幅提升。本商品收錄於「超合金」系列，全高約190mm，肩部與雙臂大型改造義體大量採用壓鑄件成型，呈現扎實厚重的機械觸感，與角色本身「半機械改造人」的設定不謀而合。套件並可重現角色招牌必殺技「フランキー・ラジカルビーム」等經典戰鬥姿勢，讓玩家得以完整重現原作漫畫與動畫中令人熱血沸騰的戰鬥畫面，是《ONE PIECE》周邊立體商品線中兼具份量與細節的代表作之一。本商品延續「超合金」系列一貫講究的壓鑄質感與角色姿態重現精神，讓喜愛《ONE PIECE》世界觀與フランキー改造人設定的玩家，得以透過立體模型完整感受角色戰鬥形態的機械魄力與份量感。",
     reviews: [],
     youtube: [],
   },
@@ -13249,7 +13249,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1131/",
     imageUrl: "/images/gx47-energer-z.jpg",
     tags: ["合金0003", "真マジンガー 衝撃！Z編", "エネルガーZ", "マジンガーZ", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《真マジンガー 衝撃！Z編》登場，以同樣海因元素打造的マジンガーZ原型機「エネルガーZ」超合金魂立體化。塗裝重現原作「光子力熔毀」灼熱通紅的機體狀態，標配招牌交通工具「パイルダー」及兩款替換駕駛員人偶（剣鉄也／兜甲児）。",
+    description: "《真マジンガー 衝撃！Z編》是2009年推出的マジンガーZ重製系列作品，在忠於原作精神的基礎上，重新詮釋並補完初代マジンガーZ世界觀中未曾詳述的設定細節，「エネルガーZ」便是本作獨創、以「光子力」理論為核心打造的マジンガーZ原型機，其存在補完了マジンガーZ誕生前的技術演進脈絡。本商品以「超合金魂」系列重現這款原型機，塗裝上特別重現原作設定中「光子力熔毀」時機體灼熱通紅、瀕臨失控的視覺震撼場面，紅色調層次分明，展現超合金魂系列一貫講究的細節塗裝工藝。套件標準配備招牌交通工具「パイルダー」，重現駕駛員空中對接搭乘機體的經典設定，並附贈兩款替換駕駛員人偶——剣鉄也與兜甲児，讓玩家可依劇情場景自由替換駕駛角色，完整重現《真マジンガー》系列補完初代世界觀的獨特敘事魅力。本商品體現「超合金魂」系列近年持續深耕マジンガーZ相關重製與衍生企劃的方向，透過原型機的立體化補完系列世界觀的技術演進脈絡，對於熟悉《真マジンガー》補完設定的資深藏家而言別具意義。",
     reviews: [],
     youtube: [],
   },
@@ -13267,7 +13267,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/gx06g1-getter1-metallic.jpg",
     tags: ["合金0003", "ゲッターロボ", "ゲッター1", "超合金魂", "Bandai", "TAMASHII NATIONS", "限定"],
-    description: "《ゲッターロボ》主角機「ゲッター1」超合金魂金屬色限定版本，僅於Comic-Con 2008與魂ウェブ商店限定販售。相較一般版，白色塗裝部位改為銀色電鍍處理，紅色部位則採用珍珠質感成型色，呈現更具高級感的金屬光澤。年代久遠已無法確認官方連結，官網頁面已下架，商品圖片取自玩具評測部落格。",
+    description: "《ゲッターロボ》是永井豪與石川賢共同創作、1974年首播的經典機器人動畫，首創「三機合體、依戰術需求切換不同形態」的設定，主角機「ゲッター1」正是三種合體形態中主打飛行與格鬥平衡的標準形態，在系列中人氣長年居高不下。本商品為「超合金魂」系列推出的金屬色限定版本，僅於美國Comic-Con 2008會場及魂ウェブ商店限定販售通路提供，發行數量與流通管道皆極為有限，市面流通稀少。相較於一般版本，本限定版將原本白色塗裝部位改為銀色電鍍處理，紅色部位則改採珍珠質感成型色，整體呈現出比標準版更具高級感與金屬光澤的視覺效果，是同一模具下透過配色差異化營造收藏價值的代表案例。由於年代久遠，官方原始販售頁面已下架，相關商品資訊與圖片多已無法透過官方管道確認，本頁面所使用圖片係取自玩具評測部落格保存的紀錄，提醒收藏者留意其稀有性與取得難度。此類限定色版本商品向來是「超合金魂」系列中最受資深藏家追捧的一類，透過單純配色差異化即可創造截然不同的收藏價值與稀有度，也反映出當年會場限定與網路商店限定商品在流通上的先天稀缺性。",
     reviews: [],
     youtube: [],
   },
@@ -13285,7 +13285,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/1518/",
     imageUrl: "/images/gx60-god-sigma.jpg",
     tags: ["合金0003", "宇宙大帝ゴッドシグマ", "ゴッドシグマ", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《宇宙大帝ゴッドシグマ》主角機「ゴッドシグマ」超合金魂立體化，由空雷王（上半身）、海鳴王（右腳）、陸震王（左腳）三台機體合體變形而成，機身尺寸較一般超合金魂マジンガー系列更大一圈，設計參考村上克司的舊超合金原案圖稿。",
+    description: "《宇宙大帝ゴッドシグマ》是1980年播出的合體機器人動畫，主角機「ゴッドシグマ」由空雷王、海鳴王、陸震王三台各自獨立的載具合體組成，分別對應上半身與左右雙腳的合體位置分工，是當年合體機甲設計中頗具代表性的分工模式。本商品以「超合金魂」系列完整重現三機合體變形機構，並依循原作設定進行考證與造型優化，讓玩家能親手體驗合體過程的機構樂趣。值得一提的是，本作機身尺寸較同系列其他マジンガー譜系商品更大一圈，展現出更具壓迫感的存在感與份量，滿足資深收藏者對大型合體機甲的期待。設計層面上，本商品特別參考知名機甲設計師村上克司當年繪製的舊版超合金原案圖稿進行還原考證，力求貼近該年代玩具設計的原始構想與美學脈絡，而非僅止於忠實重現動畫畫面，對熟悉超合金設計歷史的資深玩家而言，是別具考證價值的一款收藏逸品。本商品延續「超合金魂」系列一貫講究的合體工程精度與比例考證，對於喜愛80年代合體機器人題材、並致力收齊マジンガー系列相關大型商品的資深藏家而言，是份量與考證兼具的一款重點收藏。",
     reviews: [
       {
         title: "超合金魂：GX-60 宇宙大帝 ゴッドシグマ [レビュー]",
@@ -13315,7 +13315,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/148/",
     imageUrl: "/images/gx04s-grendizer-ohja-set.jpg",
     tags: ["合金0003", "UFOロボ グレンダイザー", "グレンダイザー", "超合金魂", "Bandai", "TAMASHII NATIONS", "DXセット"],
-    description: "《UFOロボ グレンダイザー》主角機「グレンダイザー」超合金魂全套裝「宇宙の王者セット」，一次收錄グレンダイザー本體及可合體的UFOスペイザー、ダブルスペイザー、ドリルスペイザー、マリンスペイザー，並附圓盤機兵「TFO」與可展示全部機體的專用底座。原為2002年發售商品，2026年適逢作品50週年推出紀念再販版。",
+    description: "《UFOロボ グレンダイザー》是永井豪原作、1975年播出的經典機器人動畫，主角機「グレンダイザー」設定來自外星球弗菲斯二世的科技結晶，故事講述其在地球上抵禦邪惡宇宙帝國侵略的冒險，本作也是日本機器人動畫少數在歐洲（尤其法國、義大利）造成現象級流行的代表作品。本商品為「超合金魂」系列推出的全套裝「宇宙の王者セット」，一次收錄グレンダイザー本體，以及劇中登場的多款可合體支援載具——UFOスペイザー、ダブルスペイザー、ドリルスペイザー、マリンスペイザー，完整重現機體因應空中、水中、鑽掘等不同戰鬥場景切換合體形態的設定魅力。套組並附贈敵方圓盤機兵「TFO」及可同時展示全套機體陣容的專用底座，展示效果極為壯觀。本商品原為2002年首度發售的經典商品，時隔多年因應作品迎來50週年紀念，於2026年推出紀念再販版本，讓當年錯過首發的玩家得以重新收藏這款系列代表作。此類全套裝商品一次收齊本體與所有支援載具，省去玩家分批購入的麻煩，也讓機體合體形態的展示更加完整豐富，對於喜愛永井豪作品譜系與經典合體機甲題材的資深藏家而言，是相當划算且具紀念意義的收藏選擇。",
     reviews: [
       {
         title: "超合金魂：GX-04S UFOロボ グレンダイザー 宇宙の王者セット [レビュー]",
@@ -13339,7 +13339,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/640/",
     imageUrl: "/images/gx34-gunbuster.jpg",
     tags: ["合金0003", "トップをねらえ！", "ガンバスター", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "《トップをねらえ！》主角機「ガンバスター」超合金魂立體化，重現原作高難度的バスターマシン1號、2號合體變形機構，是超合金魂系列公認技術力代表作之一。",
+    description: "《トップをねらえ！》是GAINAX於1988年推出的OVA作品，由庵野秀明執導，融合熱血機甲與少女成長題材，並大量致敬經典機器人動畫的橋段與演出手法，在御宅文化史上具有指標性地位。主角機「ガンバスター」由バスターマシン1號與2號合體變形而成，其合體機構在原作設定中即以複雜精密著稱，是動畫史上公認難度極高的合體演出之一。本商品以「超合金魂」系列完整重現這套高難度合體變形機構，從兩台個別載具的獨立形態，到合體後化身巨大人形機甲的完整過程皆忠實還原，機構工程對開發團隊而言堪稱一大挑戰。也因此，本作長年被系列粉絲與玩具評論界公認為「超合金魂」系列展現技術力的代表作品之一，無論在合體流暢度、比例協調性或細節考證上都獲得高度評價。對喜愛庵野秀明作品譜系與合體機甲工程美學的收藏者而言，本作是不可或缺的重量級收藏品。本商品延續「超合金魂」系列一貫追求高完成度與比例協調的製作理念，對於喜愛GAINAX作品譜系與致敬經典機器人動畫演出手法的資深藏家而言，是兼具情懷與工程技術含金量的重點收藏之作。",
     reviews: [
       {
         title: "超合金魂：GX-34 ガンバスター [レビュー]",
@@ -13369,7 +13369,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/706/",
     imageUrl: "/images/gx36-ideon.jpg",
     tags: ["合金0003", "伝説巨神イデオン", "イデオン", "超合金魂", "Bandai", "TAMASHII NATIONS", "サンライズ"],
-    description: "富野由悠季執導《伝説巨神イデオン》主角機「イデオン」超合金魂立體化，重現原作完整合體變形機構，比例精準呈現無需另行調整即可展示的高完成度，是系列中份量與人氣兼具的一款。",
+    description: "《伝説巨神イデオン》是富野由悠季於1980年執導的作品，描述人類與異星文明因誤解爆發衝突，最終導向悲劇性結局，其陰暗沉重的敘事基調在當年機器人動畫中極為罕見，日後更以劇場版《發動篇》的震撼結局聞名於世，被視為富野「反戰」思想脈絡的重要代表作之一。主角機「イデオン」設定為蘊藏神秘「イデ」之力的古代機體，由多台載具合體變形而成，其力量甚至超越駕駛員本身意志控制的範疇，帶有強烈的宿命論色彩。本商品以「超合金魂」系列完整重現機體複雜的合體變形機構，忠實呈現原作設定中充滿層次的組裝結構。比例協調度是本作一大亮點，開發團隊力求呈現無需玩家另行微調姿勢即可穩定展示的高完成度，兼顧美觀與操作便利性。作為富野由悠季作品譜系中份量與人氣兼具的一款，本商品在超合金魂系列中長年維持著居高不下的評價與詢問度，是資深富野作品收藏者心中不可或缺的重點商品。本商品延續「超合金魂」系列一貫講究的合體工程精度與比例考證功力，對於喜愛富野由悠季作品陰暗敘事風格與經典合體機甲題材的資深藏家而言，是份量與情懷兼具、值得長期珍藏的重點商品。",
     reviews: [
       {
         title: "超合金魂：GX-36 伝説巨神イデオン [レビュー]",
@@ -13399,7 +13399,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/909/",
     imageUrl: "/images/gx42-jeeg.jpg",
     tags: ["合金0003", "鋼鉄神ジーグ", "超合金魂", "Bandai", "TAMASHII NATIONS"],
-    description: "2007年WOWOW播出的《鋼鉄神ジーグ》主角機「鋼鉄神ジーグ」超合金魂立體化，全長約160mm，各部位可依原作設定分解並透過關節與磁石接合重現「ビルドアップ！」合體演出，標配ナックルボンバー、地獄ビンタ、ジーグブリーカー等武裝機構及ジーグバズーカ、マッハドリル等配件。",
+    description: "《鋼鉄神ジーグ》原作為永井豪與石川賢於1975年推出的漫畫及動畫作品，2007年由WOWOW推出重製版動畫，在忠於原作古代文明與機械神合體的世界觀基礎上，重新演繹主角機甦醒對抗邪惡埴輪帝國的冒險故事。主角機「鋼鉄神ジーグ」設定為沉睡地底的古代機械神，各部位分散於不同載具中，需經由駕駛員操作逐一組裝喚醒，招牌口號「ビルドアップ！」的合體演出深植人心。本商品以「超合金魂」系列重現這款作品，全長約160mm，各部位可依原作設定完全分解，並透過關節結構搭配磁石接合方式重現逐步組裝喚醒的完整合體演出，操作手感講究擬真度。標準配備包含ナックルボンバー、地獄ビンタ、ジーグブリーカー等招牌武裝機構，以及ジーグバズーカ、マッハドリル等配件，武裝種類豐富多元，能完整重現原作中鋼鉄神各式必殺技演出，是喜愛永井豪／石川賢作品譜系與古典機器人合體題材收藏者值得珍藏的一款。本商品延續「超合金魂」系列一貫講究的合體工程精度與磁石接合機構考證，對於喜愛永井豪／石川賢作品譜系與經典古代文明機甲題材的資深藏家而言，是兼具懷舊情懷與紮實把玩體驗的重點收藏。",
     reviews: [
       {
         title: "超合金魂：GX-42 鋼鉄神ジーグ [レビュー]",
@@ -13429,7 +13429,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_2076/",
     imageUrl: "/images/hg-byarlant-clear.jpg",
     tags: ["BOX0006", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士Ζガンダム", "バイアラン", "クリアパーツ", "イベント限定"],
-    description: "《機動戦士Ζガンダム》登場「バイアラン」以HG最新比例全新造形，頭部完全重新設計重現Z版バイアラン形象，THE GUNDAM BASE TOKYO限定透明成形色版本。標配爪型兆粒子炮及光束軍刀，整體造型較改良型／伊索爾德後繼機更為簡潔俐落。",
+    description: "《機動戦士Ζガンダム》是1985年播出的高達系列續作，描述提坦斯與艾武・佛柏森少校等奧古組織的抗爭，劇中登場多款極具個性的高性能機動戰士，「バイアラン」正是奧古方陣營中一款高機動、高輸出功率的代表機種，以獨特頭部造型與強悍戰鬥力著稱。本商品以HG最新比例規格全新造形設計，頭部部位經過完全重新設計，一改過往舊版商品的既定印象，忠實重現Z高達版本バイアラン應有的凌厲形象與細部線條。本次為THE GUNDAM BASE TOKYO店鋪限定販售版本，採用透明成形色呈現機體，通透質感與一般不透明版本形成強烈的視覺差異，具備一定的限定商品收藏價值。標準配備包含招牌爪型兆粒子炮及光束軍刀，能重現機體近戰與遠程並重的戰鬥風格；相較於後續推出的改良型或伊索爾德等後繼機種，本機整體造型更為簡潔俐落，展現初期設計未過度繁複裝飾的洗鍊美感。此類店鋪限定透明色版本商品是THE GUNDAM BASE系列常見的企劃手法，透過限定成型色創造與一般販售版本的差異化收藏價值，對於喜愛Z高達世界觀與奧古系高性能機體的鋼普拉藏家而言，具一定收藏吸引力。",
     reviews: [
       {
         title: "【HGUC】バイアラン[クリアカラー]【イベント限定】レビュー",
@@ -13453,7 +13453,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_1753/",
     imageUrl: "/images/mg-musha-gundam-mk2.jpg",
     tags: ["BOX0006", "ガンプラ", "MG", "1/100", "Bandai", "ガンダム無双", "武者ガンダム", "Mk-II"],
-    description: "PS2遊戲《ガンダム無双 Special》登場「武者ガンダムMk-II」，以MGガンダムMk-II Ver.2.0為基礎重新設計的武士造型立體化。金銀雙色電鍍呈現豪華絢爛的甲冑質感，標配雙刀、步槍、薙刀等和風武裝。",
+    description: "《ガンダム無双 Special》是萬代南夢宮推出、以「無雙」動作系統為基礎的高達題材遊戲作品，系列中特別企劃了融合日本戰國武將與高達機體的「武者ガンダム」系列原創機種，「武者ガンダムMk-II」正是這條企劃線中的人氣機體之一，將傳統高達設計與日式甲冑美學巧妙結合。本商品以「MG ガンダムMk-II Ver.2.0」的既有骨架與比例為基礎，重新設計外裝呈現武士造型，兼顧原機動戰士系列的合理機構與武者系列特有的和風裝飾細節。塗裝方面採用金銀雙色電鍍工藝，呈現宛如日本傳統甲冑鎧甲般豪華絢爛的貴族武將質感，與一般高達機體的軍事風格塗裝形成強烈反差，極具視覺衝擊力。標準配備武裝齊全，包含雙刀、步槍、薙刀等多款和風冷兵器與熱兵器組合，充分展現武者系列一貫融合傳統武術與科幻機甲的設計理念，是喜愛跨界企劃與武者高達系列的收藏者值得入手的一款進階組裝模型。此類跨界企劃商品是萬代將既有骨架系統延伸應用於不同主題造型的常見手法，透過保留合理機構、置換外裝設計的方式創造嶄新視覺風貌，對於同時喜愛高達系列與武者頑駄無和風題材的玩家而言別具吸引力。",
     reviews: [
       {
         title: "MG武者MK-II レビュー",
@@ -13483,7 +13483,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_6764/",
     imageUrl: "/images/mg-gundam-barbatos-lupus.jpg",
     tags: ["BOX0006", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダム 鉄血のオルフェンズ", "ガンダムバルバトス", "バルバトスルプス"],
-    description: "《機動戦士ガンダム 鉄血のオルフェンズ》主角機第四形態「ガンダムバルバトスルプス」睽違6年終於MG化，採用最新版「ガンダム・フレーム」大幅提升關節可動性，可重現原作招牌的狼型剪影與激烈戰鬥姿態。",
+    description: "《機動戦士ガンダム 鉄血のオルフェンズ》是2015年播出的高達系列作品，講述火星地區少年傭兵集團「タービンズ」與主角三日月・オーガス駕駛鋼彈搏鬥求生的殘酷成長故事，作品以寫實粗獷的機體設計與角色描寫著稱。「ガンダムバルバトス」是本作主角機，隨劇情推進歷經多次強化改裝，「ルプス」形態是其第四階段的進化型態，以狼型剪影著稱，象徵機體愈趨兇猛的戰鬥姿態，也是劇中戰鬥表現最為激烈的形態之一。本商品睽違六年終於推出MG比例立體化，採用萬代近年開發的最新版「ガンダム・フレーム」骨架系統，相較舊版關節結構大幅提升可動範圍與穩定性，能重現原作中角色近身肉搏、翻滾迴避等高強度動態戰鬥姿勢。整體造型延續劇中粗獷寫實的設計語彙，狼型輪廓經過細膩考證重現，對喜愛鉄血のオルフェンズ世界觀與MG系列進階組裝樂趣的玩家而言，是引頸期盼已久的重點商品。本商品作為《鉄血のオルフェンズ》主角機系列MG化的重要延伸，補齊了系列玩家長年期盼的進化形態立體化商品，對於致力收齊バルバトス各階段強化形態的資深鋼普拉收藏者而言，是不可或缺的一款重點商品。",
     reviews: [],
     youtube: [
       {
@@ -13507,7 +13507,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5345/",
     imageUrl: "/images/hg-huckebein-boxer.jpg",
     tags: ["BOX0006", "ガンプラ", "HG", "Bandai", "スーパーロボット大戦OG", "ヒュッケバイン", "Premium Bandai限定"],
-    description: "《スーパーロボット大戦OG》近戰強化裝甲模組「AMボクサー」與「ヒュッケバインMk-III」組合而成的「ヒュッケバインボクサー」，全長約230mm大型套件，軀幹單元可於背部與腰部雙點連接本體，實現上下半身扭轉的動態演出，並附「ガイストナックル」專用拳頭零件重現必殺技姿態。Premium Bandai限定販售。",
+    description: "《スーパーロボット大戦OG》是萬代南夢宮旗下策略模擬遊戲「超級機器人大戰」系列的原創世界觀分支，脫離既有跨作品聯動框架，打造完全原創的機體與角色譜系，長年累積為系列中人氣居高不下的獨立品牌。「ヒュッケバインボクサー」是由近戰強化裝甲模組「AMボクサー」與主力機「ヒュッケバインMk-III」組合而成的強化形態，主打貼身肉搏戰鬥風格，是系列近戰機體譜系中的代表作之一。本商品套件全長約230mm，屬於大型套件規格，軀幹單元設計可於背部與腰部雙點連接本體機身，透過雙連接點結構實現上下半身獨立扭轉的動態演出，大幅提升擺出戰鬥姿勢時的自由度與臨場感。套件並附有專用「ガイストナックル」拳頭零件，可替換重現角色使出招牌近戰必殺技瞬間的經典姿態。本商品為Premium Bandai限定販售，僅透過官方通路提供，對喜愛OG系列原創機體與大型近戰強化裝甲題材的玩家而言，具備相當的收藏稀有性與把玩價值。此類原創世界觀衍生機體商品是「超級機器人大戦OG」系列脫離既有版權授權限制、發揮自由設計創意的代表案例，對於喜愛系列原創機體譜系與大型強化裝甲題材的玩家而言，具備相當高的收藏與把玩價值。",
     reviews: [],
     youtube: [
       {
@@ -13531,7 +13531,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_5369/",
     imageUrl: "/images/hg-gunleon.jpg",
     tags: ["BOX0006", "ガンプラ", "HG", "Bandai", "スーパーロボット大戦OG", "スーパーロボット大戦Z", "ガンレオン"],
-    description: "《スーパーロボット大戦Z》主角機「ガンレオン」HG立體化，重裝甲的粗獷造型搭配工具主題武裝，各部位可變形並透過零件替換重現「マグナモード」形態。標配全長約230mm的巨大扳手武器「ライアット・ジャレンチ」及Action Base 7展示台。",
+    description: "《スーパーロボット大戦Z》是「超級機器人大戦」系列原創世界觀脈絡下的重要分支作品，「ガンレオン」正是本作的主角機，以粗獷厚重的重裝甲造型與工具主題武裝設計著稱，在系列眾多機體中辨識度相當高。本商品以HG比例立體化重現這款人氣機體，整體造型呈現濃厚的重裝甲工業風格，武裝設計不採傳統光束兵器路線，而是以扳手、鑽頭等工具意象為基礎打造，別具特色與趣味性。機構設計方面，機體各部位可透過零件替換與局部變形，重現原作設定中的強化形態「マグナモード」，讓玩家得以體驗機體戰力提升前後的造型變化樂趣。標準配備最大亮點為全長約230mm的巨大扳手武器「ライアット・ジャレンチ」，尺寸誇張且極具視覺張力，充分展現ガンレオン近戰壓制的招牌打法；套件並附贈「Action Base 7」展示台，方便玩家擺出各種蓄力揮擊的動態姿勢進行展示，是OG系列機甲收藏中兼具趣味與魄力的一款代表作品。此類原創世界觀主角機商品充分展現「超級機器人大戦」系列跳脫既有版權框架後的自由設計創意，對於喜愛系列原創機體譜系與工具主題武裝美學的玩家而言，是兼具特色與把玩樂趣的一款代表收藏。",
     reviews: [
       {
         title: "HG ガンレオン レビュー",
@@ -13561,7 +13561,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_1695/",
     imageUrl: "/images/mg-shinmusha-sengoku-no-jin.jpg",
     tags: ["BOX0006", "ガンプラ", "MG", "1/100", "Bandai", "武者頑駄無", "真武者頑駄無", "戦国の陣"],
-    description: "「真武者頑駄無 戦国の陣」金色標準版，各部位施以金色電鍍與光澤成型呈現宛如日本傳統蒔繪工藝般的絢爛質感。標配種子島（火砲）、日輪丸（刀）、散光丸（槍）、電光丸（薙刀）等戦国風武裝，並附裝飾台座、屏風、專用銘牌等豪華展示配件。",
+    description: "「武者頑駄無」是萬代SD鋼彈系列中融合日本戰國武將與高達造型的長壽企劃，將傳統武士甲冑美學與機動戰士設計巧妙結合，深受喜愛和風題材與SD比例模型的玩家支持。「真武者頑駄無 戦国の陣」是該系列中的重量級代表機體，本商品為其金色標準版本，以MG比例呈現，尺寸與細節密度遠勝一般SD規格商品，展現該企劃線少見的高規格立體化嘗試。塗裝方面，機體各部位大量施以金色電鍍處理，搭配光澤成型色點綴細部裝飾紋樣，呈現出宛如日本傳統蒔繪工藝般華麗絢爛的質感，充分呼應「真武者」之名所象徵的至尊地位。標準配備武裝陣容豐富，包含種子島（火砲）、日輪丸（刀）、散光丸（槍）、電光丸（薙刀）等多款戰國風格冷熱兵器，一應俱全對應各種姿勢展示需求。商品並附贈裝飾台座、屏風及專用銘牌等豪華展示配件，整體規格宛如工藝擺件，是武者頑駄無系列收藏者眼中不可多得的頂級逸品。此類跨界融合戰國元素與高機動戰士設計的和風企劃，是萬代SD鋼彈系列長年經營的獨立品牌路線，本次以MG高規格呈現更凸顯其工藝考究程度，對於喜愛和風題材與精緻收藏級模型的玩家而言極具吸引力。",
     reviews: [
       {
         title: "MG 真武者頑駄夢 戦国の陣 レビュー",
@@ -13591,7 +13591,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "",
     imageUrl: "/images/gd49-gouraisenpuujin-black.jpg",
     tags: ["忍風戦隊ハリケンジャー", "轟雷旋風神", "DX超合金", "Bandai", "黑色限定版"],
-    description: "《忍風戦隊ハリケンジャー》最終合體機體「轟雷旋風神」的黑色限定版本，由ハリケンホーク、ハリケンレオン、ハリケンドルフィン三台忍風合體機與ゴウライビートル、ゴウライスタッグ二台轟雷合體機、以及風雷丸共同組成，可完整重現風雷合體。標準版全身配色改為黑色系塗裝，是限定通販管道販售的稀有版本，官方發售資訊已不可考。",
+    description: "《忍風戦隊ハリケンジャー》是2002年播出的超級戰隊系列作品，以忍者為主題，劇中登場多款以動物與忍具為造型概念的合體機甲，「轟雷旋風神」正是本作後期登場的最終合體形態，象徵三名忍風戰隊成員與後期加入夥伴力量的總和展現。本商品為該機體的黑色限定版本，由ハリケンホーク、ハリケンレオン、ハリケンドルフィン三台忍風合體機，搭配ゴウライビートル、ゴウライスタッグ二台轟雷合體機，以及風雷丸共同組成，可完整重現劇中層層疊加的「風雷合體」演出過程，機構複雜度在同期戰隊合體玩具中相當突出。與標準塗裝版本不同，本限定版全身配色改為低調沉穩的黑色系塗裝，呈現截然不同於原作色彩的視覺風格，是特攝合體機甲收藏中常見的差異化再販操作手法。本商品僅透過限定通販管道販售，流通數量有限，年代久遠加上官方發售資訊已不可考，市面稀有度較高，是忍風戦隊系列與超級戰隊合體玩具收藏者眼中珍稀的一款逸品。此類限定通販管道推出的差異化配色版本，是特攝合體玩具企劃中常見的複刻銷售模式，透過重新配色延續經典機體的商業生命週期，對於致力收齊忍風戦隊系列各版本合體機甲的資深藏家而言，具備相當的收藏價值。",
     reviews: [],
     youtube: [
       {
@@ -13615,7 +13615,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/the-simpsons-krusty-burger-10352",
     imageUrl: "/images/lego-10352-krusty-burger.jpg",
     tags: ["LEGO", "LEGO Icons", "The Simpsons", "辛普森家庭", "Krusty Burger"],
-    description: "LEGO Icons系列時隔十餘年重返《辛普森家庭》主題，重現劇中經典速食店「Krusty Burger」。可掀開屋頂展示內部細節與各種原作彩蛋，附招牌霓虹燈飾柱、Krusty小丑車，以及Homer、Bart、Lisa、Farmer Krusty、Sideshow Bob等7款人偶。",
+    description: "《The Simpsons（辛普森家庭）》是自1989年開播至今的美國長壽動畫喜劇，以辛普森一家的日常生活諷刺美國中產階級文化，是電視動畫史上播映集數最多的作品之一。「Krusty Burger」是劇中虛構的速食連鎖店，經常作為劇情惡搞與社會諷刺的舞台背景，是粉絲心中極具辨識度的劇中地標之一。LEGO Icons系列時隔十餘年再度重返《辛普森家庭》主題，推出這款重現該速食店外觀的建築套組。套件設計可掀開屋頂展示內部細節，餐廳內裝與各式擺設均藏有多個原作彩蛋與致敬細節，考驗粉絲對劇集內容的熟悉度。建築外部特別重現招牌霓虹燈飾柱，點亮效果十足；套組並附贈Krusty小丑主題造型車輛作為周邊配套載具，強化場景敘事完整度。人偶陣容方面收錄Homer、Bart、Lisa、Farmer Krusty、Sideshow Bob等共7款角色人偶，涵蓋辛普森家族成員與劇中知名配角，是喜愛《辛普森家庭》長壽IP與LEGO建築主題收藏者值得收藏的一款重量級套組。此類重返經典長壽IP的LEGO Icons套組往往備受粉絲期待，透過細膩場景重現與豐富人偶陣容喚起觀眾對劇集的集體記憶，對於長年關注《辛普森家庭》周邊商品與LEGO建築系列的收藏者而言，是值得珍藏的重點套組。",
     reviews: [],
     youtube: [
       {
@@ -13639,7 +13639,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/iron-man-hall-of-armor-76125",
     imageUrl: "/images/lego-76125-iron-man-hall-of-armor.jpg",
     tags: ["LEGO", "LEGO Marvel", "Iron Man", "Avengers Endgame"],
-    description: "《復仇者聯盟：終局之戰》主題組，重現東尼・史塔克的「Hall of Armor」裝甲展示廳，附可動式Igor機甲、機動小型機器人及6款人偶，包含Iron Man Mark 1、Mark 5、Mark 41、Mark 50等多套裝甲人偶及Tony Stark便服零件。",
+    description: "《復仇者聯盟：終局之戰（Avengers: Endgame）》是漫威電影宇宙第三階段的集大成之作，作為歷經十餘年鋪陳的多部電影匯流終章，本片在全球創下現象級票房紀錄，鋼鐵人東尼・史塔克的角色弧線也在本片迎來關鍵收尾。本商品重現電影中東尼・史塔克位於基地內的裝甲收藏展示廳「Hall of Armor」，是鋼鐵人歷代戰甲一字排開展示的經典場景，對漫威影迷而言極具紀念意義。套件配備可動式的機械助手「Igor」機甲，重現東尼日常維修保養戰甲時的工作場景；並附有機動小型輔助機器人配件，增添場景細節豐富度與敘事氛圍。人偶陣容方面，套組收錄共6款人偶，涵蓋Iron Man Mark 1、Mark 5、Mark 41、Mark 50等多套具代表性的經典戰甲人偶，完整呈現戰甲設計演進脈絡，另附Tony Stark便服零件供玩家重現角色卸下戰甲後的日常形象，是漫威電影宇宙收藏者展示鋼鐵人戰甲系譜的絕佳套組。此類電影場景重現套組是LEGO Marvel系列常見的企劃形式，透過場景與多套戰甲人偶的組合，讓玩家得以在案頭重現電影經典畫面，對於漫威電影宇宙十餘年鋪陳歷程有深厚情懷的收藏者而言別具紀念意義。",
     reviews: [],
     youtube: [
       {
@@ -13663,7 +13663,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/porsche-911-10295",
     imageUrl: "/images/lego-10295-porsche-911.jpg",
     tags: ["LEGO", "LEGO Icons", "Porsche", "保時捷911", "跑車"],
-    description: "二合一組裝套件，可自由選擇組成渦輪增壓「911 Turbo」或搭載可拆卸車頂與招牌Targa車柱的「911 Targa」，精緻重現保時捷經典跑車的流線車身、內裝細節與可運作的轉向機構。",
+    description: "Porsche 911是德國保時捷自1963年推出至今、歷經多個世代演進仍持續生產的傳奇跑車系列，其流線車身與招牌後置引擎配置，使其成為汽車工業史上辨識度最高、最具代表性的跑車車型之一，也是眾多車迷心目中的夢幻收藏標的。本商品為LEGO Icons系列推出的二合一組裝套件，玩家可依個人喜好，選擇組成搭載渦輪增壓系統的性能取向「911 Turbo」，或是保留可拆卸車頂設計與招牌Targa車柱結構的「911 Targa」，一套零件即可體驗兩種經典車型風貌，設計巧思十足。套件精緻重現保時捷經典跑車圓潤流線的車身輪廓，車內內裝細節同樣講究，包含儀表板、座椅等元素均按比例還原。機構方面具備可實際運作的轉向機構，方向盤轉動可連動前輪偏轉角度，提升把玩互動性與真實感，是LEGO Icons系列中兼具工程巧思與經典車款情懷、適合汽車愛好者與資深組裝玩家收藏的代表套組之一。此類二合一組裝設計是LEGO Icons系列近年常見的巧思企劃，讓單一套件即可體驗兩種經典車型風貌，兼顧組裝挑戰性與收藏彈性，對於喜愛保時捷經典跑車譜系與精緻機構設計的玩家而言，是相當划算且具展示價值的選擇。",
     reviews: [],
     youtube: [
       {
@@ -13687,7 +13687,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/ford-mustang-10265",
     imageUrl: "/images/lego-10265-ford-mustang.jpg",
     tags: ["LEGO", "LEGO Creator Expert", "Ford Mustang", "福特野馬", "跑車"],
-    description: "以1967年Ford Mustang Fastback為原型的LEGO Creator Expert收藏級組裝套件，適合16歲以上玩家。具備可運作的方向盤轉向機構、可調式後懸吊，並可自由改裝加裝增壓器、排氣管、尾翼、氮氣瓶等客製化零件，內裝細節與V8引擎皆精緻重現。",
+    description: "Ford Mustang是福特汽車自1964年推出以來即引領美國肌肉車風潮的經典車系，其中1967年式樣的Mustang Fastback以修長俯衝的車頂線條與強悍性能形象，成為肌肉車黃金年代最具代表性的車型之一，深受全球車迷與收藏家青睞。本商品是LEGO Creator Expert系列推出的收藏級組裝套件，官方建議適合16歲以上具備一定組裝經驗的玩家挑戰，零件數量與組裝複雜度均高於一般入門套組。套件具備可實際運作的方向盤轉向機構，操作方向盤可連動前輪轉向；後懸吊系統同樣可調整，提升整體機構的真實互動性。造型方面完整重現1967年Mustang Fastback修長的車身線條與經典格柵造型，車內內裝與車頭V8引擎細節皆按比例精緻還原，引擎艙可掀開展示。此外，套件更貼心提供加裝增壓器、排氣管、尾翼、氮氣瓶等多款客製化改裝零件，讓玩家能自由改裝出專屬性能化外觀，是喜愛美式肌肉車文化與精緻收藏級模型組裝玩家值得珍藏的一款重點商品。作為LEGO Creator Expert系列的收藏級套件，本商品在組裝過程與最終展示效果上均講究貼近真實車輛的比例質感，對於喜愛美式肌肉車黃金年代文化與精緻收藏模型組裝樂趣的玩家而言，是值得長期珍藏的代表作品。",
     reviews: [],
     youtube: [
       {
@@ -13711,7 +13711,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/1989-batwing-76161",
     imageUrl: "/images/lego-76161-1989-batwing.jpg",
     tags: ["LEGO", "LEGO DC", "Batman", "蝙蝠俠", "Batwing", "蝙蝠戰機", "1989"],
-    description: "重現1989年提姆・波頓執導電影《蝙蝠俠》中經典戰機「Batwing」，收藏級大型套件，附可滑開的座艙罩、雙側隱藏機槍及展示台座，並附Batman（1989電影版披風造型）、Joker、Vicki Vale三款人偶。",
+    description: "1989年由提姆・波頓執導的電影《蝙蝠俠》是首部將這位DC英雄搬上大銀幕的正式作品，由米高・基頓飾演布魯斯・韋恩，其陰暗哥德式美學與傑克・尼克遜飾演的小丑一同奠定了往後蝙蝠俠電影系列的視覺基調。片中登場的「Batwing」蝙蝠戰機以其獨特的蝙蝠翼輪廓與黑色流線造型成為經典銀幕符號，此次LEGO以收藏級大型套件重現該座機，機體比例龐大、細節繁複，忠實還原機翼弧線與座艙結構。套件配備可滑開的座艙罩，方便展示內裝與人偶乘坐姿態，機身兩側更暗藏隱藏式機槍彈出機關，重現電影中攻擊場景的機械趣味。另附專屬展示台座供整機懸空陳列，展現戰機翱翔姿態。人偶陣容齊全，包含身披1989電影版經典披風造型的Batman、造型癲狂的Joker，以及女主角Vicki Vale，三款人偶皆採用該片專屬服裝與頭雕設計，是蝙蝠俠影迷與LEGO載具收藏者不可錯過的重點套組。",
     reviews: [],
     youtube: [
       {
@@ -13735,7 +13735,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/london-bus-10258",
     imageUrl: "/images/lego-10258-london-bus.jpg",
     tags: ["LEGO", "LEGO Creator Expert", "倫敦巴士", "London Bus", "英國"],
-    description: "重現倫敦經典雙層巴士「Routemaster」的收藏級組裝套件，車身細節精緻，可開闔車門與車窗，內裝樓梯、駕駛座及上下層座位完整重現，並附招牌雙層巴士廣告看板貼紙。",
+    description: "「Routemaster」雙層巴士自1950年代起服役於倫敦街頭，紅色車身與獨特的敞開式後車門設計使其成為倫敦市容最具代表性的符號之一，與電話亭、衛兵並列英國觀光象徵。LEGO Creator Expert系列以成人收藏玩家為目標客群，講求高度還原度與細節密度，這款倫敦巴士套件便是系列中的經典代表作。車身外觀比例精準，車窗與車門皆可實際開闔操作，車頂與車身連接處的弧線細節也透過大量小零件堆疊呈現。內裝部分下足功夫，完整重現上下兩層座位配置，並保留連接兩層樓的螺旋樓梯結構，駕駛座區域亦有方向盤與儀表細節。車身外側附有倫敦觀光巴士常見的廣告看板貼紙，可依個人喜好自由選擇黏貼位置，提升整體場景真實感。整體套件兼具靜態展示與細節把玩樂趣，適合擺放於書房或客廳作為城市風情擺飾。",
     reviews: [],
     youtube: [
       {
@@ -13759,7 +13759,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/back-to-the-future-time-machine-10300",
     imageUrl: "/images/lego-10300-bttf-time-machine.jpg",
     tags: ["LEGO", "LEGO Icons", "回到未來", "Back to the Future", "DeLorean", "時光機"],
-    description: "《回到未來》三部曲經典座駕「DeLorean時光機」組裝套件，可自由組裝呈現三部電影中不同造型變化（含飛行模式懸浮輪、時光旅行特效等），並附Marty McFly與Doc Brown兩款專屬人偶。",
+    description: "《回到未來》三部曲是1980年代最具代表性的科幻喜劇電影系列，麥克・福克斯飾演的馬蒂・麥佛萊與克里斯多夫・洛伊飾演的怪博士布朗，駕駛改裝自DeLorean DMC-12的時光機穿梭於過去、現在與未來，時速達到88英里即可啟動時空躍遷，成為流行文化中最深植人心的科幻載具之一。LEGO Icons系列以成人玩家為導向，此次推出的DeLorean時光機套件巧妙運用可拆換零件設計，讓玩家能自由組裝呈現三部電影中不同時期的造型變化，包括初代電光通量線路裝置，以及第二集中登場、配備懸浮飛行輪組的飛行模式，重現車輪收折於車身的經典畫面，並可透過發光效果零件模擬時光旅行特效的視覺印象。套件另附馬蒂與布朗博士兩款專屬人偶，各自搭配電影中標誌性的服裝造型，讓收藏者能重現多個經典場景，是影迷向載具收藏的重點選擇。",
     reviews: [],
     youtube: [
       {
@@ -13783,7 +13783,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/fiat-500-10271",
     imageUrl: "/images/lego-10271-fiat-500.jpg",
     tags: ["LEGO", "LEGO Creator Expert", "飛雅特500", "Fiat 500", "義大利"],
-    description: "重現義大利經典小車「Fiat Nuova 500」的LEGO Creator Expert組裝套件，車身尺寸較小巧，附可運作天窗、可開闔行李廂與備胎、可掀引擎蓋展示引擎細節，並附行李箱與畫架等場景配件。",
+    description: "「Fiat Nuova 500」誕生於1957年的義大利，以小巧圓潤的車身與親民定位風靡歐洲，是戰後義大利國民代步車的代表作，其可愛外型至今仍是義式生活風格與經典設計的象徵之一，也是《羅馬假期》般浪漫想像中不可或缺的街景元素。LEGO Creator Expert將此經典車款以小型精緻套件重現，相較於同系列大型跑車套組，本作尺寸較為小巧,但細節毫不馬虎：車頂天窗可實際滑動開闔，重現原車敞篷般的開放感；車尾行李廂與備胎艙皆可開啟展示，車頭引擎蓋亦可掀開露出內部引擎細節，還原度極高。套件額外附贈行李箱與畫架等生活場景配件，讓整台車不只是靜態模型，更像是一幅擷取自義大利街頭的生活速寫，適合喜愛復古車款與精緻小品風格的收藏者擺放展示。",
     reviews: [],
     youtube: [
       {
@@ -13807,7 +13807,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/batmobile-tumbler-76240",
     imageUrl: "/images/lego-76240-batmobile-tumbler.jpg",
     tags: ["LEGO", "LEGO DC", "Batman", "蝙蝠俠", "Batmobile", "蝙蝠車", "The Dark Knight"],
-    description: "以2008年電影《黑暗騎士》登場的「Tumbler」座駕為原型的收藏級大型組裝套件，車身長逾45公分，重現粗獷裝甲車身與招牌越野胎組，並附Batman、Joker兩款專屬人偶。",
+    description: "2008年克里斯多福・諾蘭執導的《黑暗騎士》被視為超級英雄電影的里程碑之作，希斯・萊傑飾演的小丑更以精湛演技獲得奧斯卡獎肯定。片中蝙蝠俠座駕捨棄過往流線跑車造型，改以軍武風格的「Tumbler」登場，其厚重裝甲、寬大越野胎組與近似坦克的粗獷輪廓，徹底顛覆觀眾對蝙蝠車的既有印象，成為諾蘭三部曲最具代表性的載具設計。LEGO DC此次推出的收藏級大型套件完整重現這份粗獷美感，車身長逾45公分，比例厚實，裝甲拼接的塊面感與招牌越野胎組皆透過大量零件堆疊呈現出原車的視覺重量。套件並附Batman與Joker兩款專屬人偶，皆採用諾蘭三部曲的專屬服裝設計與頭雕細節，讓玩家得以重現電影中經典的追逐與對峙場景，是蝙蝠俠載具收藏中份量十足的重點作品。",
     reviews: [],
     youtube: [
       {
@@ -13831,7 +13831,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/doms-dodge-charger-42111",
     imageUrl: "/images/lego-42111-doms-dodge-charger.jpg",
     tags: ["LEGO", "LEGO Technic", "玩命關頭", "Fast Furious", "Dodge Charger", "道奇衝鋒者"],
-    description: "《玩命關頭》系列多明尼克座駕「1970年 Dodge Charger R/T」的LEGO Technic組裝套件，具備可運作的活塞引擎、懸吊系統與轉向機構，重現電影中經典肌肉車的粗獷外型。",
+    description: "《玩命關頭》系列自2001年首集上映以來，憑藉飆速賽車文化與家族情誼主題累積龐大影迷基礎，逐漸發展為好萊塢最賣座的動作電影系列之一。文・迪索飾演的主角多明尼克・托瑞多所駕駛的「1970年 Dodge Charger R/T」貫穿系列多部作品，粗獷肌肉車身與低沉引擎聲浪成為角色本身的延伸象徵，是系列中辨識度最高的座駕之一。LEGO Technic系列向來以還原機械結構、講求可動機能著稱，此款套件即是以工程玩具角度重新詮釋這台經典肌肉車：車內具備可實際運作的活塞引擎模組，隨車輪轉動可見活塞上下往復；懸吊系統採用彈簧結構，行駛於不平路面時可感受避震效果；轉向機構亦與方向盤連動，可操控前輪轉向。外觀方面忠實呈現車頭寬闊進氣壩與粗獷肌肉線條，是機械結構玩家與影迷都能兼顧的收藏之作。",
     reviews: [],
     youtube: [
       {
@@ -13855,7 +13855,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/batman-v-superman-batmobile-76331",
     imageUrl: "/images/lego-76331-bvs-batmobile.jpg",
     tags: ["LEGO", "LEGO DC", "Batman", "蝙蝠俠", "Batmobile", "蝙蝠車", "Batman v Superman"],
-    description: "為紀念LEGO與Batman合作20週年推出，重現電影《蝙蝠俠對超人：正義曙光》中登場的裝甲版Batmobile，前方配備發射武裝，座艙可開闔，並附特別版金色紀念幣及全副武裝Batman人偶。",
+    description: "2016年電影《蝙蝠俠對超人：正義曙光》由查克・史奈德執導，班・艾佛列克首度飾演蝙蝠俠，片中座駕捨棄過往設計、改以厚重裝甲與前方武裝機構呈現更具攻擊性的視覺形象，是DC擴展宇宙初期最具代表性的載具之一。本套件為LEGO與Batman合作20週年推出的紀念企劃之一，以較小尺寸精巧重現這台裝甲版Batmobile，車頭配備可操作的發射武裝機構，重現片中攻擊場景的機械趣味，座艙部分亦可開闔，方便玩家將人偶放入駕駛座展示。套件特別附上紀念版金色紀念幣一枚,標誌著蝙蝠俠品牌里程碑的特殊意義，並附全副武裝的Batman人偶，服裝細節對應該片戰術裝甲造型。雖然整體規模較小、零件數不多，但作為紀念版商品仍具備一定收藏價值，適合喜愛蝙蝠車系列或紀念周邊的玩家入手。",
     reviews: [],
     youtube: [
       {
@@ -13879,7 +13879,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/captain-jack-sparrows-pirate-ship-10365",
     imageUrl: "/images/lego-10365-jack-sparrow-pirate-ship.jpg",
     tags: ["LEGO", "LEGO Icons", "神鬼奇航", "Pirates of the Caribbean", "黑珍珠號", "Black Pearl", "海盜船"],
-    description: "《神鬼奇航》系列傑克・史派羅船長座艦「黑珍珠號」大型收藏套件，是目前規模最大的神鬼奇航主題LEGO套組，超越2017年的Silent Mary套組。附可轉動側舷加農炮、可操控船舵、可掀開展示船長室的甲板，並附可拆卸的小艇及Jack Sparrow、Will Turner、Elizabeth Swann、Hector Barbossa等8款人偶。",
+    description: "《神鬼奇航》系列自2003年首集上映後風靡全球，強尼・戴普飾演的傑克・史派羅船長以其亦正亦邪的鮮明性格成為影史經典角色之一，而他所座駕的「黑珍珠號」則是系列中辨識度最高的海盜船，黑色船帆與詭譎氣氛貫穿多部作品，象徵著自由與冒險精神。LEGO Icons此次推出的黑珍珠號套件規模驚人，是目前神鬼奇航主題LEGO套組中規模最大的一款，超越了2017年推出的黑珍珠號前身「Silent Mary（沉默瑪莉號）」套組紀錄，船體長度與細節密度皆大幅提升。套件重現船身側舷可轉動操作的加農炮陣列，可模擬海戰砲擊場景；船舵可實際轉動操控；甲板局部可掀開展示船長室內裝，呈現多層次的可玩性。另附一艘可拆卸的小艇作為配套場景道具。人偶陣容豪華，共附上Jack Sparrow、Will Turner、Elizabeth Swann、Hector Barbossa等八款專屬人偶，服裝與頭雕皆對應電影造型，是海盜迷與大型船艦收藏者的重量級收藏品。",
     reviews: [],
     youtube: [
       {
@@ -13903,7 +13903,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.lego.com/en-us/product/1989-batmobile-76139",
     imageUrl: "/images/lego-76139-1989-batmobile.jpg",
     tags: ["LEGO", "LEGO DC", "Batman", "蝙蝠俠", "Batmobile", "蝙蝠車", "1989"],
-    description: "重現1989年提姆・波頓執導電影《蝙蝠俠》中經典座駕「Batmobile」，車長逾60公分的收藏級大型套件。具備可滑開的座艙罩配全景擋風玻璃、雙具隱藏式機槍彈出機構、裝飾用抓鉤等機關，並附Batman（1989電影版披風）、Joker、Vicki Vale三款人偶。",
+    description: "1989年提姆・波頓執導的《蝙蝠俠》開創了現代蝙蝠俠電影的視覺語彙，其中安東・佛斯特設計的Batmobile座駕以流線黑色車身、誇張的噴射尾翼與神秘機械感聞名，長年被影迷與車迷公認為影史最經典的蝙蝠車造型之一。LEGO DC此次推出的收藏級旗艦套件以極高規模重現該座駕，車長超過60公分，零件數逾3300件，是系列中數一數二的大型作品。套件細節講究，配備可滑開的座艙罩並搭載全景擋風玻璃設計，重現原車座艙的流線輪廓；車身兩側暗藏雙具隱藏式機槍彈出機構,重玩時可模擬電影中的戰鬥場面；車頭並設有裝飾用抓鉤機關，呼應原作道具設定。人偶陣容包含身披1989電影版經典披風造型的Batman、癲狂演繹的Joker,以及女主角Vicki Vale，三款人偶服裝與頭雕皆對應該片造型,是蝙蝠俠載具收藏中份量與細節兼具的頂級之作。",
     reviews: [],
     youtube: [
       {
@@ -13927,7 +13927,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.kicksgenerationtoys.com/products/moshow-yr-052f-noble-class-x-robotech-the-new-generation-cyclone-motorcycle",
     imageUrl: "/images/moshow-yr052f-noble-cyclone.jpg",
     tags: ["BOX0001", "Robotech", "The New Generation", "機甲創世記モスピーダ", "サイクロン", "Cyclone", "Moshow Toys", "Toynami"],
-    description: "《機甲創世記モスピーダ》海外版《Robotech: The New Generation》登場的可變機車兵裝「サイクロン（Cyclone）」，由Moshow Toys與Toynami合作、Harmony Gold正式授權推出的「Noble Class X」系列YR-052F規格。整合前代VR-030、VF-040系列優點的最新規格版本，可變形為機車、中間過渡、戰鬥裝甲（Battle Armor）三形態，標配駕駛員人偶、可替換手部零件及EP-40手槍。",
+    description: "《機甲創世記モスピーダ》為1983年播出的日本機甲動畫，海外經由Harmony Gold改編重製，併入《Robotech》系列第三部《The New Generation》播出，講述人類為對抗外星侵略者Invid而駕駛可變形機車兵裝作戰的故事。劇中主角所駕駛的可變機車「サイクロン（Cyclone）」是本作最大特色，能在機車、過渡形態與人形戰鬥裝甲（Battle Armor）三形態間自由變形，兼具機動性與貼身作戰能力，是系列中辨識度極高的機設代表。此次由Moshow Toys與Toynami合作、經Harmony Gold正式授權推出的「Noble Class X」系列YR-052F規格，定位為整合前代VR-030、VF-040等系列優點的最新規格可動完成品,約1/10比例，主打三形態實際變形機構的完整重現與良好可動性。標配駕駛員人偶方便重現騎乘或戰鬥裝甲操縱姿態，並附可替換手部零件因應不同持械動作，另配有EP-40手槍作為武裝配件，是機甲創世記與Robotech系列玩家不可多得的立體化收藏品。",
     reviews: [],
     youtube: [
       {
@@ -13952,7 +13952,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.nin-nin-game.com/en/original-character/151830-original-character-bunny-yuna-chan-14-animester-.html",
     imageUrl: "/images/animester-yuna-present-bunny.jpg",
     tags: ["原創角色", "尤娜醬", "Present Bunny", "兔女郎", "1/4", "AniMester", "SIINY", "中國品牌"],
-    description: "AniMester與SIINY聯名推出的原創角色「尤娜醬」1/4大比例兔女郎主題手辦，原案插畫由繪師BIYA操刀。以高難度倒立劈腿姿勢展現角色曼妙身形與招牌雙馬尾造型，全高約48cm。首批特典附「追視眼」替換臉部零件與原畫旋轉立牌。",
+    description: "「尤娜醬（Yuna-chan）」是由繪師BIYA所繪製的原創角色，並非既有動漫作品衍生角色，而是AniMester與SIINY兩品牌聯名企劃下誕生的原創立體化角色，主打兔女郎主題的性感手辦路線，近年在中國模型手辦市場逐漸嶄露頭角，以精緻雕工與大膽姿態設計吸引收藏者關注。本作以1/4大比例呈現，全高約48公分,在同類兔女郎主題商品中屬於較大規格，能充分展現角色身形曲線與細節雕琢。姿態上採用高難度的倒立劈腿造型，藉由誇張卻優雅的肢體語言展現角色的柔軟身段與運動感，同時保留角色招牌雙馬尾髮型作為識別特徵，兔耳與兔尾等主題元素亦一併呈現。首批特典版本附贈「追視眼」替換臉部零件，可更換為眼神略帶上揚的追視表情,增添角色情緒層次；另附原畫旋轉立牌,方便收藏者搭配展示或作為周邊擺飾，是喜愛原創角色與精緻塗裝手辦玩家值得留意的中國品牌代表作品。",
     reviews: [],
     youtube: [],
   },
