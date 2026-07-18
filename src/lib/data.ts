@@ -14046,4 +14046,34 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "lego-76167-iron-man-armory",
+    addedAt: "2026-07-18",
+    name: "LEGO 76167 鋼鐵人軍械庫 Iron Man Armory",
+    nameJa: "",
+    series: "LEGO Marvel Avengers",
+    character: "鋼鐵人（Tony Stark）",
+    manufacturer: "LEGO",
+    scale: "258件積木",
+    price: "US$29.99（原價，已停產）",
+    releaseDate: "2020年8月24日",
+    officialUrl: "https://www.lego.com/en-us/product/iron-man-armoury-76167",
+    imageUrl: "/images/lego-76167-iron-man-armory.jpg",
+    tags: ["LEGO", "Marvel Avengers", "鋼鐵人", "Iron Man Armory", "Tony Stark"],
+    description: "LEGO 76167「Iron Man Armory」（鋼鐵人軍械庫）是2020年推出的LEGO漫威系列積木組，以電影角色鋼鐵人東尼史塔克（Tony Stark）的私人軍械庫兼修復工坊為主題，重現他在片中打造與維修各式裝甲的祕密基地場景。套組核心為一座可展開的半圓形工坊建築，內含多套裝甲展示艙、維修工具與電腦螢幕等場景細節，並附有經典改裝復古風熱棒車（hot rod），車身以火焰塗裝點綴，充滿東尼史塔克玩心大開的個人風格。人偶陣容包含東尼史塔克本尊、兩款專屬本組的鋼鐵人裝甲人偶（其中一套為銀色量產原型裝甲），以及兩名反派組織A.I.M.特務作為對抗角色，另附迷你版鋼鐵人小人偶（nanofig）作為場景擺飾彩蛋。全組共258件積木，屬中小型規格組合，適合作為《Hall of Armor》（鋼鐵人軍械展示廳）系列套組的延伸擴充，也可獨立展示把玩。本組已於原廠停產（retired），近年在二手市場的行情逐漸水漲船高，是漫威系列積木收藏中頗具人氣的中價位代表作品。",
+    reviews: [
+      {
+        title: "Review | LEGO Avengers – Iron Man Armory 76167",
+        url: "https://lifeinbrick.com/2020/08/review-lego-marvel-iron-man-armory-76167/",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "LEGO MARVEL: Iron Man Armory Unboxing & Review! - Set #76167",
+        url: "https://www.youtube.com/watch?v=uYswpG4Xbl0",
+        lang: "en",
+      },
+    ],
+  },
 ]
