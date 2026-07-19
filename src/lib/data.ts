@@ -14302,4 +14302,28 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "smp-srx-altered-banpreeoth",
+    addedAt: "2026-07-19",
+    name: "SMP スーパーロボット大戦OG SRXアルタード「バンプレイオス」",
+    nameJa: "SMP スーパーロボット大戦OG SRXアルタード「バンプレイオス」",
+    series: "スーパーロボット大戦OG（Original Generations）",
+    character: "バンプレイオス（SRX Altered）",
+    manufacturer: "バンダイ（SHOKUGAN MODELING PROJECT・プレミアムバンダイ限定）",
+    scale: "非比例（頭頂高約350mm、全高約450mm）",
+    price: "36,300円（税込39,930円）",
+    releaseDate: "2024年4月",
+    officialUrl: "https://www.bandai.co.jp/candy/products/2024/1000200713.html",
+    imageUrl: "/images/smp-srx-altered-banpreeoth.jpg",
+    tags: ["SMP", "SHOKUGAN MODELING PROJECT", "スーパーロボット大戦", "SRX", "バンプレイオス", "バンダイ", "プレミアムバンダイ限定", "OG"],
+    description: "「バンプレイオス」是《スーパーロボット大戦》OG世界觀中SRX的強化形態「SRXアルタード」，最初登場於《第3次スーパーロボット大戦α》，設定上是SRX吸收敵方技術後進化而成的最終決戰用機體，繼承了SRX由三機合體的核心精神，同時擁有更強大的火力配置與飛行能力，是OG系列粉絲長年期盼立體化的夢幻機體之一。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」（SMP）系列首次將「バンプレイオス」立體化的紀念性商品，プレミアムバンダイ限定販售，頭頂高約350mm、含背部展開結構全高約450mm，比原本的SMP SRX本體規格更為龐大，是SMP系列中數一數二具存在感的大型商品。套件標配全長約47.5公分的巨大双刃剣「S・Z・O」與「エクスガンナー」等武裝配件，可重現角色招牌的展翼與持劍架勢，色分與塗裝相當精細，關節可動範圍豐富，兼顧大型合體機體應有的展示魄力與把玩樂趣。作為食玩模型少見規格突破常規尺寸的挑戰性商品，本作在玩具評論界也以「破格」規格與價位聞名，展現SMP系列近年持續挑戰大型人氣機體立體化的技術野心，是OG系列與勇者/機戰周邊收藏者極具指標性的收藏逸品。",
+    reviews: [
+      {
+        title: "約4万円の衝撃食玩！SMP SRXアルタード バンプレイオス 辛口レビュー",
+        url: "https://irukausagi-heart-yuusha.hatenablog.com/entry/2024/07/30/034749",
+        lang: "ja",
+      },
+    ],
+    youtube: [],
+  },
 ]
