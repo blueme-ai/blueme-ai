@@ -14983,7 +14983,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年10月",
     officialUrl: "https://www.goodsmile.com/en/product/10031",
     imageUrl: "/images/nendoroid-usada-pekora.jpg",
-    tags: ["hololive", "兎田ぺこら", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "兎田ぺこら", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "兎田ぺこら（Usada Pekora）是VTuber事務所hololive production 3期生成員，以招牌兔耳造型、獨特的「ぺこ」口頭禪與充滿活力又不失毒舌的直播風格擁有超高人氣，長年穩居各類VTuber人氣票選前段班，是hololive集團中最具代表性的成員之一。本商品是她首款標準版Nendoroid，取材自其日常直播的招牌造型，忠實重現淡藍雙馬尾綁上蘿蔔造型髮飾、粉紅眼瞳與招牌兔耳的整體形象，標配笑臉、眨眼與慌張等三種表情零件，充分展現角色時而活力四射、時而害羞的多變個性魅力。選配小物包含麥克風、墨鏡、可彎折兔耳部件，以及她的寵物圍巾兔子「のうさぎペコモン」迷你公仔等豐富配件，皆是粉絲熟悉的直播標誌元素，把玩與陳列樂趣兼具。本商品發售當時因VTuber周邊市場買氣正盛，預購階段即引發搶購熱潮，是hololive相關Nendoroid商品線中人氣與詢問度都名列前茅的一款，對VTuber周邊收藏者而言具有指標意義。",
     reviews: [],
     youtube: [
@@ -15012,7 +15012,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年10月",
     officialUrl: "https://www.goodsmile.info/en/product/8332/Nendoroid+Rorona.html",
     imageUrl: "/images/nendoroid-rorona.jpg",
-    tags: ["アトリエ", "ロロナ", "Gust", "Good Smile Company", "ねんどろいど"],
+    tags: ["アトリエ", "ロロナ", "Gust", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "「アトリエ」系列是Gust自1997年起開發的長壽煉金術RPG系列，以「煉金術士」為主軸展開的溫馨日常與冒險故事廣受玩家喜愛，系列中每位主角皆各具特色。ロロナ（本名ロロリーナ・フリクセル）是《ロロナのアトリエ ～アーランドの錬金術士～》（2010）的女主角，個性天真爛漫又帶點迷糊，是Arland三部曲的開端角色，因該作在系列中的高人氣與話題性，後續也推出多款重製版本，鞏固了她作為系列代表角色之一的地位。本商品以其標誌性的粉紅雙馬尾與煉金術士工作服為造型基礎，手持特色調製法杖，重現角色活潑靈動的日常姿態，Q版比例下依然保留原作插畫中粉嫩色調與煉金術士的職業特徵。作為Gust旗下作品少見獲得Nendoroid化的角色之一，本商品發售時間距原作已近十年，屬於系列老玩家回顧情懷向的紀念周邊，市場流通量不算大，對「アトリエ」系列或Gust作品收藏者而言是較具份量與辨識度的一件。",
     reviews: [],
     youtube: [
@@ -15036,7 +15036,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月初版、2023年11月再販",
     officialUrl: "https://www.goodsmile.com/en/product/9997",
     imageUrl: "/images/nendoroid-shirakami-fubuki.jpg",
-    tags: ["hololive", "白上フブキ", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "白上フブキ", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "白上フブキ（Shirakami Fubuki）是VTuber事務所hololive production 1期生成員，設定為「動物耳朵的家裡蹲狐狸」，出道以來以親和力十足的個性與長壽的直播生涯累積大量粉絲，是hololive元老級成員之一，長年活躍於音樂、遊戲直播與跨界合作企劃。本商品取材自其標誌性的白髮狐耳造型，忠實重現銀白色雙馬尾辮、狐耳與尾巴的招牌形象，尾巴與辮子部位皆可動，可擺出多種俏皮姿態，是本商品在結構設計上的一大亮點。標配笑臉、微笑與「滿滿愛心閃亮臉」三種表情零件，充分呼應她直播中招牌的興奮反應，選配小物包含吉祥物「フブちゃん」、「おるやんけ」、玉米與茶飲等，皆是粉絲熟悉的直播梗元素，把玩互動性豐富。由於原始版本推出後詢問度極高，Good Smile Company於2023年11月再度復刻再販，反映出角色歷久不衰的人氣，對hololive或VTuber周邊收藏者而言是相當具代表性的一件。",
     reviews: [],
     youtube: [
@@ -15065,7 +15065,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年10月",
     officialUrl: "https://www.goodsmile.com/en/product/10254/Nendoroid+Origami+Tobiichi+Spirit+Ver.",
     imageUrl: "/images/nendoroid-origami-tobiichi-spirit.jpg",
-    tags: ["デート・ア・ライブ", "鳶一折紙", "Good Smile Company", "ねんどろいど", "精霊Ver."],
+    tags: ["デート・ア・ライブ", "鳶一折紙", "Good Smile Company", "ねんどろいど", "精霊Ver.", "GSC0001"],
     description: "《デート・ア・ライブ》是橘公司創作的人氣輕小說，描寫少年五河士道透過「約會」化解精靈少女們負面情緒、進而封印其力量的獨特戀愛冒險故事，系列長年推出動畫、劇場版與大量角色周邊，是輕改作品中極具代表性的長銷IP。鳶一折紙原本是對立組織AST的王牌駕駛員，後續劇情揭露她其實正是精靈「無銘天使」的真身，其冷靜寡言卻對主角懷抱強烈執著的角色反差，使她成為系列人氣角色之一。本商品取材自她覺醒為精靈後的姿態，重現其標誌性的白色系精靈裝與展開的光之羽翼，並可裝配「日輪」與光劍等武裝配件重現戰鬥場景中的攻擊姿態，是本商品區別於其他角色版本鳶一折紙周邊的最大特色。塗裝與細節在羽翼透明感與裝甲金屬光澤的表現上力求精緻，充分展現精霊化後角色從人類駕駛員蛻變為精靈的視覺反差。作為《デート・ア・ライブ》系列後期推出的高規格Nendoroid之一，本商品對系列粉絲而言是收藏折紙精靈形態不可或缺的代表作。",
     reviews: [
       {
@@ -15095,7 +15095,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年12月",
     officialUrl: "https://www.goodsmile.com/en/product/8958/Nendoroid+Natsuiro+Matsuri",
     imageUrl: "/images/nendoroid-natsuiro-matsuri.jpg",
-    tags: ["hololive", "夏色まつり", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "夏色まつり", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "夏色まつり（Natsuiro Matsuri）是VTuber事務所hololive production 1期生成員，設定為活潑外向的元氣系少女，出道以來以直率不做作的個性與高互動性的直播風格累積死忠粉絲群，也是hololive元老成員中辨識度極高的一位。本商品重現她招牌的橙色系水手服學生裝造型，搭配標誌性的挑染棕髮雙馬尾與招牌髮飾兔子，將角色青春洋溢的形象轉化為Q版比例後依然保有鮮明的視覺特徵。造型姿態充滿動感，一手高舉展現角色開朗直率的性格特質，表情零件設計也呼應其直播中經常展露的誇張生動反應。作為hololive 1期生中相對較晚推出個人Nendoroid的成員，本商品發售當時對粉絲而言頗具紀念意義，也補齊了1期生成員周邊收藏的重要一塊拼圖。整體塗裝與服裝細節刻畫用心，橙白配色的水手服皺褶與髮飾光澤處理細緻，是hololive周邊收藏中兼具人氣與代表性的一件作品。",
     reviews: [
       {
@@ -15130,7 +15130,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年9月",
     officialUrl: "https://www.goodsmile.com/en/product/9946",
     imageUrl: "/images/nendoroid-oozora-subaru.jpg",
-    tags: ["hololive", "大空スバル", "Max Factory", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "大空スバル", "Max Factory", "ねんどろいど", "VTuber", "GSC0001"],
     description: "大空スバル（Oozora Subaru）是VTuber事務所hololive production 2期生成員，設定帶有中性運動風格的少年氣質，招牌招呼語與充滿元氣的直播風格使她擁有廣大粉絲群，其中「メスバル顔（女體化表情）」一度因反差萌效果在網路上引發熱烈討論，成為她最具代表性的招牌梗之一。本商品即以此為靈感，標配一般表情、認真表情，以及過去人氣爆棚的「メスバル顔」共三種表情零件，讓收藏者能重現這個經典網路話題瞬間，是本商品最大賣點所在。造型重現她招牌的紅白配色棒球帽、條紋運動風上衣與短褲造型，搭配吉祥物「スバルどダック」小鴨玩偶、附叉子香腸與初次推文語錄立牌等選配小物，皆呼應其直播中的經典橋段與粉絲熟悉的迷因元素。整體姿態活潑生動，雙手比出勝利手勢的動態設計充分展現角色開朗直率的性格特質，是hololive 2期生成員周邊收藏中話題性與人氣兼具的一件作品。",
     reviews: [
       {
@@ -15165,7 +15165,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://www.goodsmile.com/en/product/9311",
     imageUrl: "/images/nendoroid-akai-haato.jpg",
-    tags: ["hololive", "赤井はあと", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "赤井はあと", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "赤井はあと（Akai Haato）是VTuber事務所hololive production 1期生成員，設定為努力向上的元氣系偶像，招牌是充滿活力的「あちゃ～」口頭禪與招牌愛心手勢，是hololive元老成員中極具個人魅力的一位；其直播中偶爾切換為「はあちゃま」的獵奇脫序人格反差，更是粉絲圈津津樂道的話題。本商品重現她日常直播時的偶像造型，金色雙馬尾綁上心形髮飾，藍白配色水手服裝扮充滿元氣校園偶像氣息，標配招牌愛心手勢與指向手勢等配件，讓收藏者能重現她直播中最經典的招呼姿勢。表情零件設計圍繞她開朗直率又帶點天然呆的性格特質展開，選配道具包含燒焦平底鍋與蜘蛛玩偶等趣味小物，皆呼應她直播料理企劃與整人環節中令人印象深刻的橋段，把玩互動性十足。作為hololive 1期生中人氣經久不衰的成員之一，本商品對粉絲而言是收藏「本體」偶像形象赤井はあと不可或缺的代表作。",
     reviews: [
       {
@@ -15200,7 +15200,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年5月",
     officialUrl: "https://www.goodsmile.com/en/product/11266/Nendoroid+Shirogane+Noel",
     imageUrl: "/images/nendoroid-shirogane-noel.jpg",
-    tags: ["hololive", "白銀ノエル", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "白銀ノエル", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "白銀ノエル（Shirogane Noel）是VTuber事務所hololive production 3期生成員，人物設定為憧憬騎士的貴族大小姐，兼具優雅氣質與偶爾脫線的反差魅力，其充滿活力又略帶天然呆的直播風格使她累積大量死忠粉絲，是hololive 3期生中辨識度極高的成員之一。本商品重現她標誌性的騎士鎧甲造型，銀白色髮絲搭配藍黑色調的鎧甲裝束，肩甲、腰帶與裙裝的金屬光澤及紋章細節皆細緻重現，將原作插畫中英姿颯爽的騎士形象完美濃縮至Q版比例中。造型姿態展現角色昂首挺立的自信神情，雙手張開的動態設計充分呼應她直播中充滿活力的招牌動作，表情零件則兼顧優雅與可愛兩種面向，讓收藏者能自由詮釋角色不同情境下的性格魅力。作為hololive 3期生成員周邊收藏中製作規格較高的一款，本商品鎧甲部件的分件與塗裝工藝均屬同期Nendoroid中上乘水準，深受騎士系角色愛好者青睞。",
     reviews: [],
     youtube: [
@@ -15229,7 +15229,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.com/en/product/9305/Nendoroid+Gawr+Gura",
     imageUrl: "/images/nendoroid-gawr-gura.jpg",
-    tags: ["hololive English", "がうる・ぐら", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive English", "がうる・ぐら", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "がうる・ぐら（Gawr Gura）是VTuber事務所hololive English初期組合「hololive Myth」成員，設定為擁有鯊魚外形特徵的深海使者，出道後憑藉強大的歌唱實力與充滿感染力的直播魅力迅速累積龐大國際粉絲群，長年穩坐YouTube訂閱數最高VTuber之列，是hololive集團拓展英語圈市場最具代表性的成員。本商品重現她招牌的鯊魚連帽外套造型，白藍雙色挑染髮絲搭配鯊魚頭套的立體咬合式帽兜設計，是本商品在結構工藝上的一大亮點，標配三叉戟法杖與寵物魚「Bloop」的透明泡泡座台配件，充分呼應她直播中的招牌視覺元素。整體配色以海洋藍白為基調，鯊魚外套的鋸齒狀衣擺與尾鰭裝飾細節刻畫用心，將角色深海系可愛形象完整呈現。作為hololive English系列首批推出的個人Nendoroid商品之一，本商品發售當時因其國際人氣一度造成搶購熱潮，是VTuber周邊收藏中話題性與市場詢問度都名列前茅的代表作。",
     reviews: [
       {
@@ -15264,7 +15264,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年7月",
     officialUrl: "https://www.goodsmile.com/en/product/11267/Nendoroid+Shiranui+Flare",
     imageUrl: "/images/nendoroid-shiranui-flare.jpg",
-    tags: ["hololive", "不知火フレア", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "不知火フレア", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "不知火フレア（Shiranui Flare）是VTuber事務所hololive production 3期生成員，設定為擁有精靈耳朵特徵的隱居森林少女，個性溫柔療癒又不失搞怪幽默，其充滿治癒感的嗓音與直播風格使她擁有廣大粉絲群，是hololive 3期生成員中極具代表性的一位。本商品重現她招牌的橙金色系長髮與精靈尖耳造型，白色系連身洋裝搭配藍色蝴蝶結與披肩的清新配色，將原作插畫中充滿自然氣息的角色形象轉化為Q版比例後依然保有鮮明辨識度。造型姿態雙手張開展現角色開朗親和的性格特質，表情零件設計兼顧溫柔療癒與活潑俏皮兩種面向，讓收藏者能重現她直播中不同情境下的多變魅力。作為hololive 3期生成員周邊收藏中發售時間較晚、規格與塗裝工藝都相對成熟的一款，本商品服裝細節與髮絲光澤處理皆屬同期Nendoroid中上乘水準，對精靈系角色愛好者而言是不可錯過的收藏品。",
     reviews: [],
     youtube: [],
@@ -15282,7 +15282,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.com/en/product/9648/Nendoroid+Roxy+Migurdia",
     imageUrl: "/images/nendoroid-roxy-migurdia.jpg",
-    tags: ["無職転生", "ロキシー・ミグルディア", "Good Smile Company", "ねんどろいど"],
+    tags: ["無職転生", "ロキシー・ミグルディア", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "《無職転生 ～異世界行ったら本気だす～》改編自理不尽な孫の手的人氣異世界輕小說，描寫尼特族青年轉生後化身魯迪烏斯，在異世界重新展開人生並學習魔法的成長故事，以細膩的世界觀建構與角色刻畫在近年異世界題材中獨樹一格，動畫化後更引發廣泛討論。ロキシー・ミグルディア身為米格路德族的天才魔法師，是主角魯迪烏斯少年時期的魔法啟蒙恩師，同時也是他心目中重要的初戀對象，其兼具知性冷靜與偶爾迷糊可愛的角色反差，使她成為系列人氣角色之一。本商品取材自她招牌的魔法師巫師帽與藍髮造型，忠實重現角色略帶天然呆卻又充滿智慧的雙重魅力，標配法杖等魔法師配件，將原作插畫中沉穩幹練的教師形象轉化為Q版比例後依然保留其獨特韻味。整體塗裝與服裝細節刻畫用心，斗篷與帽子的皺褶處理細緻，是《無職転生》系列周邊收藏中不可或缺的代表角色之一。",
     reviews: [],
     youtube: [
