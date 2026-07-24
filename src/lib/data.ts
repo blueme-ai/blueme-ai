@@ -14908,7 +14908,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年12月",
     officialUrl: "https://www.goodsmile.com/en/product/58669",
     imageUrl: "/images/nendoroid-ainz-ooal-gown.jpg",
-    tags: ["オーバーロード", "アインズ・ウール・ゴウン", "Good Smile Company", "ねんどろいど"],
+    tags: ["オーバーロード", "アインズ・ウール・ゴウン", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "《オーバーロード》改編自丸山くがね的輕小說，描寫主角飛鼠（本名鈴木悟）連同其創建的公會「アインズ・ウール・ゴウン」麾下守護者們，於遊戲世界轉變為異世界後展開統治與冒險的故事，作為近年異世界題材中少見以「魔王」視角展開敘事的作品，其黑暗奇幻美術風格與角色魅力使其成為長銷人氣作品。アインズ・ウール・ゴウン（骸骨法師・飛鼠）作為納薩力克地下大墳墓的絕對統治者，其骷髏造型與威嚴氣場是全系列最具辨識度的視覺符號之一，本商品即取材自其標誌性的黑色法袍與骨骼形象製作而成的Nendoroid。造型忠實重現角色寬大的法袍剪裁、金色鎧甲配件與雙眼幽紅的骷髏頭部細節，標配權杖等法師系配件，將原作中威嚴肅穆的魔王形象轉化為Q版可愛卻不失氣勢的呈現方式，反差萌是本商品最大魅力所在。作為《オーバーロード》系列早期推出的周邊代表作之一，本商品奠定了後續系列角色（如雅兒貝德、夏提雅等守護者）陸續推出Nendoroid的市場基礎，對系列粉絲而言具有一定收藏指標意義。",
     reviews: [
       {
@@ -14943,7 +14943,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年1月",
     officialUrl: "https://www.goodsmile.com/en/product/3499/Nendoroid+Albedo",
     imageUrl: "/images/nendoroid-albedo.jpg",
-    tags: ["オーバーロード", "アルベド", "Good Smile Company", "ねんどろいど"],
+    tags: ["オーバーロード", "アルベド", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "アルベド（Albedo）是《オーバーロード》中納薩力克地下大墳墓的樓層守護者統帥，同時也是深愛主角飛鼠、性格妖艷又極度偏執的重要角色之一，其融合天使與惡魔特徵的雙翼造型與魔性魅力，使她長年高居該作角色人氣票選前列，是系列周邊商品化最為頻繁的角色。本商品為Good Smile Company推出的標準版Nendoroid，取材自其經典的白色禮服造型，忠實重現角色標誌性的漆黑犄角、紫色長髮與展開的墮天使之翼，將原作插畫中充滿魔性魅惑的角色設定轉化為Q版比例後依然保留其獨特氣場。表情零件與配件設計圍繞角色偏執又充滿母性溫柔的雙重性格展開，細節雕刻與塗裝在同期Nendoroid商品中屬於水準以上表現。此款為2017年推出的初代標準版，相較於後續陸續推出的禮服、婚紗等特別版本，本商品是アルベド角色最基礎、也最能代表原作設定形象的版本，對於想收藏該角色「原點」形象的玩家而言深具意義，也是《オーバーロード》系列周邊收藏中不可或缺的一件。",
     reviews: [
       {
@@ -15311,7 +15311,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.com/en/product/9911/Nendoroid+Uruha+Rushia",
     imageUrl: "/images/nendoroid-uruha-rushia.jpg",
-    tags: ["hololive", "潤羽るしあ", "Good Smile Company", "ねんどろいど", "VTuber"],
+    tags: ["hololive", "潤羽るしあ", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "潤羽るしあ（Uruha Rushia）是VTuber事務所hololive production 3期生（ホロライブファンタジー）成員，2019年7月出道，設定為魔界學校出身的「死靈法師公主（ネクロマンサーの姫）」，招牌是充滿感染力的歌聲與極具魅力的直播互動風格，尤其她對粉絲展現的黏人系互動魅力一度是業界話題焦點，出道以來累積大量死忠粉絲。本商品重現她招牌的深綠色系長髮與魔女風格服飾，黑色系服裝搭配白色蕾絲滾邊、蝴蝶結與披肩細節，將角色神秘又帶點嬌俏的魔法師形象轉化為Q版比例後依然保有鮮明辨識度，手持法杖姿態端莊中帶著俏皮，表情零件設計兼顧恬靜與活潑兩種面向。潤羽るしあ已於2022年2月因合約糾紛遭事務所解除契約而終止活動，本商品因此成為她在職期間推出的正式周邊之一，對曾追隨她直播生涯的粉絲而言別具紀念意義，也是hololive 3期生周邊收藏中辨識度極高的一件。",
     reviews: [],
     youtube: [
@@ -15429,7 +15429,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年7月",
     officialUrl: "https://www.goodsmile.info/en/product/12108/",
     imageUrl: "/images/nendoroid-hatsune-miku-maneki-miku.jpg",
-    tags: ["初音ミク", "Hatsune Miku", "Good Smile Company", "ねんどろいど", "招き猫"],
+    tags: ["初音ミク", "Hatsune Miku", "Good Smile Company", "ねんどろいど", "招き猫", "GSC0001"],
     description: "初音ミク是Crypton Future Media推出的VOCALOID聲庫代表角色，自2007年問世以來持續帶動同人創作與音樂產業的蓬勃發展，是全球辨識度最高的虛擬歌手代表符號之一，長年推出各式主題與聯名周邊，深受粉絲喜愛。本商品「福を呼ぶねこミクVer.（招福貓咪Ver.）」以日本傳統招財貓文化為靈感發想，將初音ミク招牌的雙馬尾造型與貓耳、貓爪元素巧妙結合，服裝以紅白喜氣配色搭配「福」字圖樣的和風圍裙，標配招財貓招牌動作的舉手造型與寫著「千客萬來」的金色百寶箱配件，充分呼應日本新春吉祥文化的視覺語彙。整體造型俏皮喜氣，貓耳與雙馬尾的動態呈現生動可愛，是初音ミク和風主題周邊中辨識度極高、話題性十足的一款，發售當時因應景的招財喜慶造型深受粉絲喜愛，兼具節慶收藏與日常擺飾兩種樂趣，對VOCALOID周邊收藏者而言是別具趣味的代表作品。",
     reviews: [],
     youtube: [],
@@ -15607,7 +15607,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年4月",
     officialUrl: "https://p-bandai.com/tw/item/A2518433002",
     imageUrl: "/images/mg-f90-mission-pack-dg.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "F90「Mission Pack」是《機動戰士高達F90》企劃的核心設定：機體本身裝備精簡，透過替換多達26種不同任務背包與武裝套件，即可因應偵察、強襲、警備、砲撃等各式戰術情境，是高達系列「量產泛用原型機」構想的具體實踐，也讓F90成為玩家可高度自訂武裝配置的模組化平台。本商品是Premium Bandai限定推出的「D型」與「G型」擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。D型（Destroy/近接壓制型）主打中近距離火力壓制，標配四連裝榴彈發射器、五連裝火箭莢艙與腰部MS破壞用炸藥，搭配前伸的巨型加特林機砲，展現近距離殲滅戰的火力密度；G型（Guard/警備護衛型）則配備大型盾牌與可切換光束劍／光束加農砲雙模式的「Multiple Beam Weapon」，主打護衛與警備任務下的靈活應對。兩款設計風格差異鮮明，一攻一守恰好呈現F90模組化設計的多元戰術可能性，是收集F90系列擴充配件不可或缺的一組。",
     reviews: [
       {
@@ -15637,7 +15637,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年9月",
     officialUrl: "https://p-bandai.com/tw/item/A2478696001",
     imageUrl: "/images/mg-f90-mission-pack-es.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「E型」與「S型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，延續F90企劃透過替換任務背包因應不同戰術情境的核心設計理念。E型與S型分別對應不同的裝備構型，機身可見大型碟形天線／感測裝置與多管火器組合，強化偵蒐與遠距支援能力，搭配F90簡潔俐落的骨架結構，呈現與標準形態截然不同的戰術面貌。作為F90眾多Mission Pack家族中發售較早的一組，其套件內容延續系列一貫的高組裝細節與分件精度，武裝配件的可動關節與收納結構皆經過仔細設計，方便與其他型號的裝備零件交互組合把玩。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是重現F90多樣化戰術構型不可或缺的一組擴充配件。",
     reviews: [],
     youtube: [],
@@ -15655,7 +15655,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年12月",
     officialUrl: "https://p-bandai.com/tw/item/A2478697001",
     imageUrl: "/images/mg-f90-mission-pack-fm.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「F型」與「M型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型肩部裝甲與加農砲等重武裝配置，搭配招牌黃色系塗裝的特徵零件，強化火力支援與特殊戰術任務的執行能力，與標準型F90相比呈現更具重裝甲的視覺份量感。作為F90「量產泛用原型機」構想的具體實踐之一，F型與M型的裝備構型延續系列一貫透過模組化武裝因應不同戰場需求的設計哲學，套件內的關節與武裝分件皆維持MG系列一貫的組裝精度與可動範圍。對於熱衷收集F90系列各式Mission Pack型號的玩家而言，本商品的重裝甲風格與其他偏向輕裝或偵察取向的型號形成鮮明對比，是展現F90多樣化戰術面貌不可或缺的一組擴充配件。",
     reviews: [],
     youtube: [],
@@ -15673,7 +15673,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年12月",
     officialUrl: "https://p-bandai.com/tw/item/A2654099001",
     imageUrl: "/images/mg-f90-mission-pack-jq.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「J型」與「Q型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是2023年底推出、相對較新的一組F90擴充配件。套組以藍色系裝甲為主色調，肩部搭載大型連裝機砲與大型格鬥用拳套，武裝配置偏向中近距離的火力壓制與格鬥戰能力，展現與F90標準型截然不同的重裝甲戰鬥姿態。作為F90企劃「透過任務背包因應不同戰術情境」核心理念持續擴編的最新成員，J型與Q型延續系列一貫的高組裝密度與精細分件設計，武裝零件的可動關節與收納結構皆維持MG系列水準。由於發售時間較晚、相較於D、E、F等早期型號流通量更為稀少，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是近年較難入手的補完拼圖之一。",
     reviews: [],
     youtube: [],
@@ -15691,7 +15691,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年9月",
     officialUrl: "https://p-bandai.com/tw/item/A2563768002",
     imageUrl: "/images/mg-f90-mission-pack-rv.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「R型」與「V型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型翼狀展開裝甲與長柄光束兵裝，搭配藍白配色的機身塗裝，呈現高機動與遠距交戰兼具的戰術取向，與F90標準型相比展現更為華麗、存在感十足的視覺輪廓。R型與V型延續F90「任務背包」模組化設計的核心理念，武裝配件的關節可動與分件精度皆維持MG系列一貫水準，展開狀態下的翼型裝甲細節刻畫講究，兼具擺放展示與武裝把玩的雙重樂趣。作為F90系列眾多Mission Pack型號中價格較高、配件份量也較為豐富的一組，對於致力收集齊全F90企劃所有機體構型的鋼普拉玩家而言，本商品是展現該系列設計多樣性的重要代表作之一。",
     reviews: [],
     youtube: [],
@@ -15709,7 +15709,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年4月",
     officialUrl: "https://p-bandai.com/tw/item/A2510310001",
     imageUrl: "/images/mg-f90-mission-pack-bk.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「B型」與「K型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型半透明粉紅色擴散光束兵裝與多連裝浮游砲莢艙，武裝配置偏向大範圍制壓與遠距火力支援，展現F90在特殊戰術情境下的另一種武裝面貌，與標準形態的簡潔線條形成強烈對比。B型與K型延續F90「透過任務背包因應戰術需求」的核心設計理念，套件內的關節可動與武裝分件皆維持MG系列一貫精度，展開型態的效果零件透明感表現亦是收藏與陳列時的一大亮點。作為海外玩家詢問度與評價都相當不錯的一組F90擴充配件（YouTube上有多支英語開箱評測），對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品也是相當受歡迎的一款。",
     reviews: [],
     youtube: [
@@ -15738,7 +15738,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年10月",
     officialUrl: "https://p-bandai.com/tw/item/A2518432001",
     imageUrl: "/images/mg-f90-mission-pack-ou.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「O型」與「U型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。相較於其他份量較大的Mission Pack型號，O型與U型是配件結構較為輕巧精簡的一組，主打貼合機身的武裝與裝甲設計，展現F90在輕裝任務情境下的靈活戰術面貌。作為部落客評測中提及「O型之後另一個小份量裝備」的參照型號之一，O型與U型延續F90「透過任務背包因應戰術需求」的核心設計理念，套件內的關節可動與武裝分件依然維持MG系列一貫的組裝精度，即使配件數量較少，細節密度與塗裝分色仍不馬虎。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是展現該企劃「輕裝亦能兼顧戰術多樣性」設計思路的代表作之一。",
     reviews: [
       {
@@ -15762,7 +15762,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://p-bandai.com/tw/item/A2563769002",
     imageUrl: "/images/mg-f90-mission-pack-w.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「W型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。與其他多以雙型號合售的Mission Pack不同，W型是單獨販售的型號，套件以醒目的紅白配色大型翼狀裝甲為最大特徵，展開後的視覺份量感與存在感在F90眾多擴充配件中相當突出，展現高機動戰術情境下的武裝構型。W型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內的關節可動與武裝分件維持MG系列一貫精度，大型翼裝甲的分件細節與塗裝分色處理亦相當講究，兼顧展示與把玩樂趣。由於是單獨型號、非雙拼販售，價格與內容量相對精簡，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品也是不容錯過的一組。",
     reviews: [],
     youtube: [],
@@ -15798,7 +15798,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年4月",
     officialUrl: "https://p-bandai.com/tw/item/A2542752001",
     imageUrl: "/images/mg-f90-mission-pack-i.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "深綠色盒裝", "木星戦仕様"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "深綠色盒裝", "木星戦仕様", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「I型［木星戦仕様／JUPITER BATTLE Ver.］」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，包裝以深綠色為主色調，對應設定中前往木星圈執行任務的特殊戰術情境。I型武裝以近距離格鬥為主軸，標配大型可展開爪型武裝，格鬥時的破壞力與視覺震撼感在F90眾多Mission Pack型號中相當突出，是系列中格鬥取向最鮮明的一款。作為部落客評測中特別介紹的型號之一，I型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內的關節可動與武裝分件皆維持MG系列一貫精度，爪型武裝的展開與收納機構設計亦相當講究。對於致力收集齊全F90系列所有Mission Pack型號、尤其偏好格鬥系武裝配置的鋼普拉玩家而言，本商品是別具特色的一組收藏。",
     reviews: [
       {
@@ -15822,7 +15822,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "The Gundam Base限定",
     officialUrl: "https://p-bandai.com/us/item/F2715395005",
     imageUrl: "/images/hg-gundam-calibarn-clear.jpg",
-    tags: ["ガンダム", "水星の魔女", "ガンダム・キャリバーン", "HG", "1/144", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー"],
+    tags: ["ガンダム", "水星の魔女", "ガンダム・キャリバーン", "HG", "1/144", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー", "BOX0007"],
     description: "《機動戰士鋼彈 水星的魔女》是近年鋼彈系列中話題度極高的作品，故事描寫轉學至技術高中就讀的少女蘇萊塔・墨丘利，因駕駛神秘機體而捲入校園權力鬥爭與企業陰謀，劇中充滿對前作《鋼彈AGE》世界觀的呼應與伏筆，也大膽採用校園背景與商業競爭作為主要敘事舞台，一改過往鋼彈系列的戰爭敘事套路。Gundam Calibarn是蘇萊塔在最終決戰中駕駛的機體，由艾亞魯・墨丘利遺留的關鍵技術構成，是全劇謎團的核心象徵，也是視覺衝擊力最強、設計最為華麗的機體之一。本商品為The Gundam Base實體店鋪限定推出的「クリアカラー（透明色）」特別版，全機身以半透明樹脂材質呈現，讓內部骨架結構與分件卡榫一覽無遺，搭配巨型光劍與推進翼的透明質感，展現出與一般上色版截然不同的通透科技美感。透明版套件在色分件配置上刻意保留部分不透明零件強化立體層次，讓機體輪廓在透明外殼下依然清晰可辨，是鋼普拉「透明特別版」商品線中兼具展示美感與話題性的一款，也因The Gundam Base限定通路屬性使其在市場上具備一定稀缺性。",
     reviews: [],
     youtube: [],
@@ -15840,7 +15840,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年8月",
     officialUrl: "https://p-bandai.com/tw/item/A2518434002",
     imageUrl: "/images/mg-gundam-f90-unit2.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90 Unit 2"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90 Unit 2", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）中的核心機體，設定於宇宙世紀0120年，由獨立兵工廠薩納璃為對抗日益巨大化的量產機所研發的次世代主力MS原型機，透過替換多種任務背包（Mission Pack）因應不同戰術情境，是高達系列「量產泛用原型機」構想的原點。「ユニット2（Unit 2）」是F90計畫中的第二號測試機，塗裝配色改為紫黑色系搭配黃色警示標誌，與初號機的白色基調形成鮮明對比，設定上代表另一組測試駕駛員所使用的量產前規格機體，是F90企劃「多機並行測試」概念下的具體呈現。本商品為Premium Bandai限定推出的MG 1/100版本，機身骨架與可動結構與標準版F90一致，延續系列精密的關節可動與硬點模組化設計，方便日後與各式Mission Pack擴充套件交互組合搭配。獨特的紫黑配色塗裝在同系列眾多F90機體中辨識度極高，對於收藏Formula91企劃各式F90測試機體塗裝差異的玩家而言，是不可或缺的一件P-Bandai限定商品。",
     reviews: [],
     youtube: [],
@@ -15858,7 +15858,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://p-bandai.com/tw/item/A2563790002",
     imageUrl: "/images/mg-gundam-f90-mars-zeon.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "火星独立ジオン軍"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "火星独立ジオン軍", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，設定於宇宙世紀0120年，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點。本商品「OMS-90R［火星独立ジオン軍仕様］」是設定中被殘存吉翁殘黨勢力「火星獨立吉翁軍」所鹵獲、並改造塗裝後投入使用的F90機體，將原本代表聯邦軍測試機的白色基調改為紅白搭配深藍腿部裝甲的吉翁系配色，肩部與盾牌造型也因應吉翁軍的機體審美略有調整，呈現出與聯邦制式F90截然不同的陣營風格與敘事想像，是F90企劃衍生設定中相當具話題性的一款「非正史」機體活用構想。本商品為Premium Bandai限定推出的MG 1/100版本，機身骨架延續系列精密可動結構，塗裝分色針對吉翁軍配色重新設計，展現出同一機體平台在不同陣營手中呈現的視覺反差。對於熱衷收集F90系列各式衍生塗裝與「if」設定機體的鋼普拉玩家而言，本商品是展現該企劃世界觀延伸想像力的代表作之一。",
     reviews: [],
     youtube: [],
@@ -15876,7 +15876,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2011年4月",
     officialUrl: "https://www.goodsmile.info/en/product/2988/",
     imageUrl: "/images/figma-kos-mos-ver4.jpg",
-    tags: ["ゼノサーガ", "KOS-MOS", "figma", "Max Factory", "Good Smile Company"],
+    tags: ["ゼノサーガ", "KOS-MOS", "figma", "Max Factory", "Good Smile Company", "GSC0001"],
     description: "KOS-MOS 是《異度傳說》系列的靈魂人物，作為人工生命體兵器兼女主角，其形象隨系列作品進展不斷強化升級，「Ver.4」正是她在第三章〈如是說查拉圖斯特拉〉終盤所展現的最強戰鬥形態，象徵角色在故事尾聲徹底覺醒的巔峰姿態。本商品是Max Factory推出的figma可動系列版本（figma No.095），相較於同角色的ALTER 1/8比例完成品定位於靜態展示，figma版本主打高可動關節設計，能重現原作插畫中各種戰鬥姿態與招牌動作，機甲裝甲的分件同時兼顧可動範圍與造型還原度。標配替換手部零件與武裝配件，讓收藏者能自由擺出格鬥、瞄準等多種戰鬥姿態，充分展現figma系列一貫「玩具與雕像兼具」的產品理念。作為figma品牌早期推出的美少女機械角色代表作之一，其關節結構與分件工藝見證了品牌初期的技術累積，即便發售多年，仍是Xenosaga系列可動人偶收藏中辨識度極高的一款。",
     reviews: [],
     youtube: [
@@ -15905,7 +15905,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年10月",
     officialUrl: "https://www.goodsmile.info/en/product/3553/",
     imageUrl: "/images/figma-telos-xenosaga.jpg",
-    tags: ["ゼノサーガ", "T-elos", "figma", "Max Factory", "Good Smile Company"],
+    tags: ["ゼノサーガ", "T-elos", "figma", "Max Factory", "Good Smile Company", "GSC0001"],
     description: "《異度傳說 第三章：如是說查拉圖斯特拉》是 Namco 旗下科幻 RPG 系列的完結篇，劇情圍繞人工生命體 KOS-MOS 與其對立存在展開最終決戰，T-elos 正是為此登場、由敵對組織打造的高性能戰鬥用人形兵器（AGWS），設計初衷便是要在各項性能指標上全面凌駕 KOS-MOS，是系列後期最具壓迫感的強敵之一。本商品是Max Factory推出的figma可動系列版本（figma No.150），相較於同角色的ALTER 1/8比例完成品偏重靜態展示的雕塑美感，figma版本強調高自由度的關節可動性，能重現角色手持能量刀交戰時的凌厲姿態。深藍紫色機甲質感、如絲綢般的白銀長髮與單邊發光紅色機械眼等角色標誌性元素，在可動版本中依然透過分件與塗裝細膩呈現，展現角色介於美麗與危險之間的獨特氣場。作為與KOS-MOS成對推出的figma商品，兩者並列收藏更能透過可動姿態重現原作中兩大人形兵器對峙交戰的張力，是Xenosaga系列可動人偶收藏中不可或缺的一件。",
     reviews: [],
     youtube: [
@@ -15934,7 +15934,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://www.goodsmile.info/en/product/11377/",
     imageUrl: "/images/figma-usada-pekora.jpg",
-    tags: ["hololive", "兎田ぺこら", "figma", "Max Factory", "Good Smile Company", "VTuber"],
+    tags: ["hololive", "兎田ぺこら", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
     description: "兎田ぺこら（Usada Pekora）是VTuber事務所hololive production 3期生成員，以招牌兔耳造型、獨特的「ぺこ」口頭禪與充滿活力又不失毒舌的直播風格擁有超高人氣，是hololive集團中最具代表性的成員之一。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.529）採用等身可動人偶規格，以更寫實的頭身比例重現她招牌的淡藍雙馬尾與兔耳造型，服裝皺褶、蕾絲滾邊與毛絨裝飾等細節在較大比例下呈現更為細膩講究。標配多種表情零件與寵物圍巾兔子「のうさぎペコモン」的可動小型公仔，胡蘿蔔造型髮飾配件亦一併收錄，讓收藏者能自由擺出她直播中活潑逗趣的招牌姿態。作為hololive周邊中價位較高的figma規格商品，其關節可動範圍與分件精細度皆屬同類商品中上乘水準，是喜愛可動人偶勝過Q版公仔的VTuber周邊收藏者不可錯過的一款。",
     reviews: [],
     youtube: [
@@ -15963,7 +15963,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.info/en/product/11883/",
     imageUrl: "/images/figma-uruha-rushia.jpg",
-    tags: ["hololive", "潤羽るしあ", "figma", "Max Factory", "Good Smile Company", "VTuber"],
+    tags: ["hololive", "潤羽るしあ", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
     description: "潤羽るしあ（Uruha Rushia）是VTuber事務所hololive production 3期生（ホロライブファンタジー）成員，設定為魔界學校出身的「死靈法師公主」，招牌是充滿感染力的歌聲與極具魅力的直播互動風格，出道以來累積大量死忠粉絲。她已於2022年2月因合約糾紛遭事務所解除契約而終止活動，本款figma（No.542）是她在職期間推出的正式周邊之一，對粉絲而言別具紀念意義。相較於同角色的Nendoroid Q版商品，本款figma採等身可動規格，以更寫實的比例重現她招牌的深綠色系長髮與魔女風格服飾，深色系服裝的皺褶與披肩細節在較大比例下呈現更細膩的立體感，法杖配件的雕刻與塗裝亦相當講究。標配多種表情零件，能重現角色恬靜與活潑兩種面向的性格魅力，關節可動範圍充分支援手持法杖的多種施法姿態。作為她個人生涯中規格較高的figma商品，本作對曾追隨她直播的粉絲而言是收藏其活動軌跡不可或缺的一件代表作。",
     reviews: [],
     youtube: [
@@ -15992,7 +15992,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年4月",
     officialUrl: "https://www.goodsmile.info/en/product/12490/",
     imageUrl: "/images/figma-shirogane-noel.jpg",
-    tags: ["hololive", "白銀ノエル", "figma", "Max Factory", "Good Smile Company", "VTuber"],
+    tags: ["hololive", "白銀ノエル", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
     description: "白銀ノエル（Shirogane Noel）是VTuber事務所hololive production 3期生成員，人物設定為憧憬騎士的貴族大小姐，兼具優雅氣質與偶爾脫線的反差魅力，充滿活力的直播風格使她累積大量死忠粉絲。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.565）採等身可動規格，以更寫實的比例重現她招牌的騎士鎧甲造型，銀白色髮絲搭配藍黑色調鎧甲裝束，肩甲、腰帶與裙裝的金屬光澤及紋章細節在較大比例下更加細膩考究，將原作插畫中英姿颯爽的騎士形象完整呈現。標配長柄武器與多種表情零件，關節可動範圍支援多種持械應戰姿態，充分展現角色昂首挺立的自信神情。作為hololive figma商品線中價格與規格都相對較高的一款，其鎧甲部件的分件工藝與可動關節設計皆屬同類商品中上乘水準，是騎士系角色與VTuber周邊收藏者都不容錯過的代表作。",
     reviews: [],
     youtube: [
@@ -16021,7 +16021,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年7月",
     officialUrl: "https://www.goodsmile.info/en/product/13038/",
     imageUrl: "/images/figma-houshou-marine.jpg",
-    tags: ["hololive", "宝鐘マリン", "figma", "Max Factory", "Good Smile Company", "VTuber"],
+    tags: ["hololive", "宝鐘マリン", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
     description: "宝鐘マリン（Houshou Marine）是VTuber事務所hololive production 3期生成員，人物設定為浪漫主義的海賊船長，招牌是充滿魅力的低沉嗓音與毫不掩飾的成人幽默直播風格，是hololive集團中人氣長年居高不下的代表成員之一。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.577）採等身可動規格，以更寫實的比例重現她招牌的海賊船長帽與深紅色系船長服，蕾絲滾邊與金色紐扣等海賊風格配件細節在較大比例下呈現更為華麗考究的質感，將角色性感又不失威嚴的船長形象完整呈現。標配多種表情零件與招牌手勢配件，關節可動範圍支援多種豪邁自信的招牌姿態。作為hololive figma商品線中價格最高的一批商品之一，其服裝分件的精細度與塗裝品質皆屬同類商品中頂尖水準，發售當時詢問度極高，是VTuber周邊收藏者心目中規格與人氣兼具的代表作。",
     reviews: [],
     youtube: [
@@ -16050,7 +16050,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年2月",
     officialUrl: "https://www.goodsmile.info/en/product/12058/",
     imageUrl: "/images/figma-shiranui-flare.jpg",
-    tags: ["hololive", "不知火フレア", "figma", "Max Factory", "Good Smile Company", "VTuber"],
+    tags: ["hololive", "不知火フレア", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
     description: "不知火フレア（Shiranui Flare）是VTuber事務所hololive production 3期生成員，設定為擁有精靈耳朵特徵的隱居森林少女，個性溫柔療癒又不失搞怪幽默，充滿治癒感的嗓音與直播風格使她擁有廣大粉絲群。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.552）採等身可動規格，以更寫實的比例重現她招牌的橙金色系長髮與精靈尖耳造型，白色系連身洋裝搭配藍色蝴蝶結與披肩的清新配色在較大比例下呈現更細膩的布料垂墜感，將原作插畫中充滿自然氣息的角色形象完整立體化。標配多種表情零件，關節可動範圍支援多種親和開朗的招牌姿態，充分展現角色溫柔療癒又活潑俏皮的雙重魅力。作為hololive figma商品線中的代表作之一，其服裝細節與髮絲塗裝處理皆屬同類商品中上乘水準，是精靈系角色與VTuber周邊收藏者都值得入手的一款。",
     reviews: [],
     youtube: [
