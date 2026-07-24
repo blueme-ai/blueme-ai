@@ -1,4 +1,4 @@
-const BOX_TAG_PREFIXES = ["macross", "smp", "etc", "TF", "合金", "BOX"]
+const BOX_TAG_PREFIXES = ["macross", "smp", "etc", "TF", "合金", "BOX", "GSC"]
 
 export function isBoxTag(tag: string) {
   if (tag.startsWith("箱號") || tag.includes("@")) return true
