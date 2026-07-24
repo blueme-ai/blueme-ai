@@ -14908,7 +14908,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年12月",
     officialUrl: "https://www.goodsmile.com/en/product/58669",
     imageUrl: "/images/nendoroid-ainz-ooal-gown.jpg",
-    tags: ["オーバーロード", "アインズ・ウール・ゴウン", "Good Smile Company", "ねんどろいど", "GSC0001"],
+    tags: ["オーバーロード", "アインズ・ウール・ゴウン", "Good Smile Company", "ねんどろいど"],
     description: "《オーバーロード》改編自丸山くがね的輕小說，描寫主角飛鼠（本名鈴木悟）連同其創建的公會「アインズ・ウール・ゴウン」麾下守護者們，於遊戲世界轉變為異世界後展開統治與冒險的故事，作為近年異世界題材中少見以「魔王」視角展開敘事的作品，其黑暗奇幻美術風格與角色魅力使其成為長銷人氣作品。アインズ・ウール・ゴウン（骸骨法師・飛鼠）作為納薩力克地下大墳墓的絕對統治者，其骷髏造型與威嚴氣場是全系列最具辨識度的視覺符號之一，本商品即取材自其標誌性的黑色法袍與骨骼形象製作而成的Nendoroid。造型忠實重現角色寬大的法袍剪裁、金色鎧甲配件與雙眼幽紅的骷髏頭部細節，標配權杖等法師系配件，將原作中威嚴肅穆的魔王形象轉化為Q版可愛卻不失氣勢的呈現方式，反差萌是本商品最大魅力所在。作為《オーバーロード》系列早期推出的周邊代表作之一，本商品奠定了後續系列角色（如雅兒貝德、夏提雅等守護者）陸續推出Nendoroid的市場基礎，對系列粉絲而言具有一定收藏指標意義。",
     reviews: [
       {
@@ -14943,7 +14943,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年1月",
     officialUrl: "https://www.goodsmile.com/en/product/3499/Nendoroid+Albedo",
     imageUrl: "/images/nendoroid-albedo.jpg",
-    tags: ["オーバーロード", "アルベド", "Good Smile Company", "ねんどろいど", "GSC0001"],
+    tags: ["オーバーロード", "アルベド", "Good Smile Company", "ねんどろいど"],
     description: "アルベド（Albedo）是《オーバーロード》中納薩力克地下大墳墓的樓層守護者統帥，同時也是深愛主角飛鼠、性格妖艷又極度偏執的重要角色之一，其融合天使與惡魔特徵的雙翼造型與魔性魅力，使她長年高居該作角色人氣票選前列，是系列周邊商品化最為頻繁的角色。本商品為Good Smile Company推出的標準版Nendoroid，取材自其經典的白色禮服造型，忠實重現角色標誌性的漆黑犄角、紫色長髮與展開的墮天使之翼，將原作插畫中充滿魔性魅惑的角色設定轉化為Q版比例後依然保留其獨特氣場。表情零件與配件設計圍繞角色偏執又充滿母性溫柔的雙重性格展開，細節雕刻與塗裝在同期Nendoroid商品中屬於水準以上表現。此款為2017年推出的初代標準版，相較於後續陸續推出的禮服、婚紗等特別版本，本商品是アルベド角色最基礎、也最能代表原作設定形象的版本，對於想收藏該角色「原點」形象的玩家而言深具意義，也是《オーバーロード》系列周邊收藏中不可或缺的一件。",
     reviews: [
       {
@@ -15311,7 +15311,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.com/en/product/9911/Nendoroid+Uruha+Rushia",
     imageUrl: "/images/nendoroid-uruha-rushia.jpg",
-    tags: ["hololive", "潤羽るしあ", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
+    tags: ["hololive", "潤羽るしあ", "Good Smile Company", "ねんどろいど", "VTuber"],
     description: "潤羽るしあ（Uruha Rushia）是VTuber事務所hololive production 3期生（ホロライブファンタジー）成員，2019年7月出道，設定為魔界學校出身的「死靈法師公主（ネクロマンサーの姫）」，招牌是充滿感染力的歌聲與極具魅力的直播互動風格，尤其她對粉絲展現的黏人系互動魅力一度是業界話題焦點，出道以來累積大量死忠粉絲。本商品重現她招牌的深綠色系長髮與魔女風格服飾，黑色系服裝搭配白色蕾絲滾邊、蝴蝶結與披肩細節，將角色神秘又帶點嬌俏的魔法師形象轉化為Q版比例後依然保有鮮明辨識度，手持法杖姿態端莊中帶著俏皮，表情零件設計兼顧恬靜與活潑兩種面向。潤羽るしあ已於2022年2月因合約糾紛遭事務所解除契約而終止活動，本商品因此成為她在職期間推出的正式周邊之一，對曾追隨她直播生涯的粉絲而言別具紀念意義，也是hololive 3期生周邊收藏中辨識度極高的一件。",
     reviews: [],
     youtube: [
@@ -15905,7 +15905,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年10月",
     officialUrl: "https://www.goodsmile.info/en/product/3553/",
     imageUrl: "/images/figma-telos-xenosaga.jpg",
-    tags: ["ゼノサーガ", "T-elos", "figma", "Max Factory", "Good Smile Company", "GSC0001"],
+    tags: ["ゼノサーガ", "T-elos", "figma", "Max Factory", "Good Smile Company"],
     description: "《異度傳說 第三章：如是說查拉圖斯特拉》是 Namco 旗下科幻 RPG 系列的完結篇，劇情圍繞人工生命體 KOS-MOS 與其對立存在展開最終決戰，T-elos 正是為此登場、由敵對組織打造的高性能戰鬥用人形兵器（AGWS），設計初衷便是要在各項性能指標上全面凌駕 KOS-MOS，是系列後期最具壓迫感的強敵之一。本商品是Max Factory推出的figma可動系列版本（figma No.150），相較於同角色的ALTER 1/8比例完成品偏重靜態展示的雕塑美感，figma版本強調高自由度的關節可動性，能重現角色手持能量刀交戰時的凌厲姿態。深藍紫色機甲質感、如絲綢般的白銀長髮與單邊發光紅色機械眼等角色標誌性元素，在可動版本中依然透過分件與塗裝細膩呈現，展現角色介於美麗與危險之間的獨特氣場。作為與KOS-MOS成對推出的figma商品，兩者並列收藏更能透過可動姿態重現原作中兩大人形兵器對峙交戰的張力，是Xenosaga系列可動人偶收藏中不可或缺的一件。",
     reviews: [],
     youtube: [
@@ -15934,7 +15934,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://www.goodsmile.info/en/product/11377/",
     imageUrl: "/images/figma-usada-pekora.jpg",
-    tags: ["hololive", "兎田ぺこら", "figma", "Max Factory", "Good Smile Company", "VTuber", "BOX0007"],
+    tags: ["hololive", "兎田ぺこら", "figma", "Max Factory", "Good Smile Company", "VTuber"],
     description: "兎田ぺこら（Usada Pekora）是VTuber事務所hololive production 3期生成員，以招牌兔耳造型、獨特的「ぺこ」口頭禪與充滿活力又不失毒舌的直播風格擁有超高人氣，是hololive集團中最具代表性的成員之一。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.529）採用等身可動人偶規格，以更寫實的頭身比例重現她招牌的淡藍雙馬尾與兔耳造型，服裝皺褶、蕾絲滾邊與毛絨裝飾等細節在較大比例下呈現更為細膩講究。標配多種表情零件與寵物圍巾兔子「のうさぎペコモン」的可動小型公仔，胡蘿蔔造型髮飾配件亦一併收錄，讓收藏者能自由擺出她直播中活潑逗趣的招牌姿態。作為hololive周邊中價位較高的figma規格商品，其關節可動範圍與分件精細度皆屬同類商品中上乘水準，是喜愛可動人偶勝過Q版公仔的VTuber周邊收藏者不可錯過的一款。",
     reviews: [],
     youtube: [
@@ -15963,7 +15963,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.info/en/product/11883/",
     imageUrl: "/images/figma-uruha-rushia.jpg",
-    tags: ["hololive", "潤羽るしあ", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
+    tags: ["hololive", "潤羽るしあ", "figma", "Max Factory", "Good Smile Company", "VTuber"],
     description: "潤羽るしあ（Uruha Rushia）是VTuber事務所hololive production 3期生（ホロライブファンタジー）成員，設定為魔界學校出身的「死靈法師公主」，招牌是充滿感染力的歌聲與極具魅力的直播互動風格，出道以來累積大量死忠粉絲。她已於2022年2月因合約糾紛遭事務所解除契約而終止活動，本款figma（No.542）是她在職期間推出的正式周邊之一，對粉絲而言別具紀念意義。相較於同角色的Nendoroid Q版商品，本款figma採等身可動規格，以更寫實的比例重現她招牌的深綠色系長髮與魔女風格服飾，深色系服裝的皺褶與披肩細節在較大比例下呈現更細膩的立體感，法杖配件的雕刻與塗裝亦相當講究。標配多種表情零件，能重現角色恬靜與活潑兩種面向的性格魅力，關節可動範圍充分支援手持法杖的多種施法姿態。作為她個人生涯中規格較高的figma商品，本作對曾追隨她直播的粉絲而言是收藏其活動軌跡不可或缺的一件代表作。",
     reviews: [],
     youtube: [
@@ -15992,7 +15992,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年4月",
     officialUrl: "https://www.goodsmile.info/en/product/12490/",
     imageUrl: "/images/figma-shirogane-noel.jpg",
-    tags: ["hololive", "白銀ノエル", "figma", "Max Factory", "Good Smile Company", "VTuber", "GSC0001"],
+    tags: ["hololive", "白銀ノエル", "figma", "Max Factory", "Good Smile Company", "VTuber"],
     description: "白銀ノエル（Shirogane Noel）是VTuber事務所hololive production 3期生成員，人物設定為憧憬騎士的貴族大小姐，兼具優雅氣質與偶爾脫線的反差魅力，充滿活力的直播風格使她累積大量死忠粉絲。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.565）採等身可動規格，以更寫實的比例重現她招牌的騎士鎧甲造型，銀白色髮絲搭配藍黑色調鎧甲裝束，肩甲、腰帶與裙裝的金屬光澤及紋章細節在較大比例下更加細膩考究，將原作插畫中英姿颯爽的騎士形象完整呈現。標配長柄武器與多種表情零件，關節可動範圍支援多種持械應戰姿態，充分展現角色昂首挺立的自信神情。作為hololive figma商品線中價格與規格都相對較高的一款，其鎧甲部件的分件工藝與可動關節設計皆屬同類商品中上乘水準，是騎士系角色與VTuber周邊收藏者都不容錯過的代表作。",
     reviews: [],
     youtube: [
@@ -16021,7 +16021,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年7月",
     officialUrl: "https://www.goodsmile.info/en/product/13038/",
     imageUrl: "/images/figma-houshou-marine.jpg",
-    tags: ["hololive", "宝鐘マリン", "figma", "Max Factory", "Good Smile Company", "VTuber", "BOX0007"],
+    tags: ["hololive", "宝鐘マリン", "figma", "Max Factory", "Good Smile Company", "VTuber"],
     description: "宝鐘マリン（Houshou Marine）是VTuber事務所hololive production 3期生成員，人物設定為浪漫主義的海賊船長，招牌是充滿魅力的低沉嗓音與毫不掩飾的成人幽默直播風格，是hololive集團中人氣長年居高不下的代表成員之一。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.577）採等身可動規格，以更寫實的比例重現她招牌的海賊船長帽與深紅色系船長服，蕾絲滾邊與金色紐扣等海賊風格配件細節在較大比例下呈現更為華麗考究的質感，將角色性感又不失威嚴的船長形象完整呈現。標配多種表情零件與招牌手勢配件，關節可動範圍支援多種豪邁自信的招牌姿態。作為hololive figma商品線中價格最高的一批商品之一，其服裝分件的精細度與塗裝品質皆屬同類商品中頂尖水準，發售當時詢問度極高，是VTuber周邊收藏者心目中規格與人氣兼具的代表作。",
     reviews: [],
     youtube: [
@@ -16050,7 +16050,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年2月",
     officialUrl: "https://www.goodsmile.info/en/product/12058/",
     imageUrl: "/images/figma-shiranui-flare.jpg",
-    tags: ["hololive", "不知火フレア", "figma", "Max Factory", "Good Smile Company", "VTuber", "BOX0007"],
+    tags: ["hololive", "不知火フレア", "figma", "Max Factory", "Good Smile Company", "VTuber"],
     description: "不知火フレア（Shiranui Flare）是VTuber事務所hololive production 3期生成員，設定為擁有精靈耳朵特徵的隱居森林少女，個性溫柔療癒又不失搞怪幽默，充滿治癒感的嗓音與直播風格使她擁有廣大粉絲群。相較於同角色已推出的Nendoroid Q版商品，本款figma（No.552）採等身可動規格，以更寫實的比例重現她招牌的橙金色系長髮與精靈尖耳造型，白色系連身洋裝搭配藍色蝴蝶結與披肩的清新配色在較大比例下呈現更細膩的布料垂墜感，將原作插畫中充滿自然氣息的角色形象完整立體化。標配多種表情零件，關節可動範圍支援多種親和開朗的招牌姿態，充分展現角色溫柔療癒又活潑俏皮的雙重魅力。作為hololive figma商品線中的代表作之一，其服裝細節與髮絲塗裝處理皆屬同類商品中上乘水準，是精靈系角色與VTuber周邊收藏者都值得入手的一款。",
     reviews: [],
     youtube: [
