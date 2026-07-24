@@ -16242,4 +16242,33 @@ export const collection: CollectibleItem[] = [
       },
     ],
   },
+  {
+    id: "ut-r05-desperado-original",
+    addedAt: "2026-07-25",
+    name: "Unique Toys R-05 Desperado（原版／風化銹色）",
+    nameJa: "ユニークトイズ R-05 デスペラード（オリジナルカラー）",
+    series: "Transformers: Dark of the Moon（第三方致敬版）",
+    character: "Megatron / 密卡登（電影版油罐車形態）",
+    manufacturer: "Unique Toys（第三方品牌）",
+    scale: "Masterpiece級（約33cm／13吋）",
+    price: "US$219.99",
+    releaseDate: "2022年",
+    officialUrl: "https://showzstore.com/unique-toys-r-05-desperado-megatron-original-version_p3516.html",
+    imageUrl: "/images/ut-r05-desperado-original.jpg",
+    tags: ["Transformers", "変形金剛", "Megatron", "密卡登", "Unique Toys", "第三方", "Masterpiece", "Dark of the Moon"],
+    description: "《變形金剛3：月黑之時》（Dark of the Moon, 2011）是麥可貝執導真人電影三部曲的第三部，劇情圍繞冷戰時期登陸月球的博派太空船「方舟號」及其搭載的賽博坦科技展開，密卡登在片中歷經重創後以殘破姿態重新崛起，其滄桑落魄卻依然充滿威脅感的造型設計，是電影版密卡登諸多形態中辨識度極高、也最受第三方廠商青睞重製的一版。「Desperado（亡命之徒）」是中國第三方品牌Unique Toys推出的MP級（Masterpiece，即高還原度、高可動的高階規格）致敬版本，代號R-05，變形形態為鏽蝕斑駁的油罐拖車，充分呼應密卡登在片中偽裝、蟄伏的落魄形象。本商品為「原版／風化銹色」塗裝，忠實重現密卡登破損盔甲、外露機械結構與披掛鐵鏈殘布的滄桑質感，人形態下標配招牌利爪與電漿砲手臂，全高約33公分，材質結合ABS塑料與局部壓鑄合金，兼顧份量感與可動性。作為第三方廠商挑戰電影版高複雜度角色的代表作之一，Unique Toys在變形結構與雕刻細節上皆獲得玩家高度評價，是電影版密卡登收藏中份量與話題性兼具的一件，後續也推出色調偏向沙漠塗裝的「Desert Color」限定版本供玩家比較收藏。",
+    reviews: [],
+    youtube: [
+      {
+        title: "Review - Unique Toys R-05 Desperado Megatron Battle Damaged Version",
+        url: "https://www.youtube.com/watch?v=_TokfLtaFk8",
+        lang: "en",
+      },
+      {
+        title: "Unique Toys DESPERADO (DotM Megatron): EmGo's Reviews",
+        url: "https://www.youtube.com/watch?v=WWjj-auTAjs",
+        lang: "en",
+      },
+    ],
+  },
 ]
