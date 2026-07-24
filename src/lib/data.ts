@@ -14884,7 +14884,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年2月",
     officialUrl: "https://www.goodsmile.info/en/product/4218/Nendoroid+May+n.html",
     imageUrl: "/images/nendoroid-mayn.jpg",
-    tags: ["May'n", "ねんどろいど", "Good Smile Company", "歌手"],
+    tags: ["May'n", "ねんどろいど", "Good Smile Company", "歌手", "GSC0001"],
     description: "May'n是日本知名歌手，因演唱《Macross Frontier》女主角シェリル・ノーム的全部劇中曲而聲名大噪，其充滿爆發力的現場演唱功力使她在動畫歌壇與偶像歌手之間都獲得極高評價，出道後持續以個人歌手身分活躍於音樂與演唱會舞台，是少數能橫跨動畫聲優歌手與獨立音樂人雙重身分的代表人物。本商品是Good Smile Company為紀念她出道十週年巡演「Road to 10th Anniversary Japan & World Tour 2014-2015『dots and lines』」而製作的個人紀念版Nendoroid，並非取材自任何動畫角色，而是直接以歌手本人形象立體化，在Nendoroid商品線中屬於較為少見的「真人歌手」企劃，紀念意義濃厚。造型重現她演唱會上招牌的短髮俐落造型與舞台服裝，標配骷髏頭造型麥克風、應援用毛巾與鯛魚燒等趣味小物，皆呼應她個人演唱會與粉絲互動時的經典畫面，細節設計充滿巧思。作為僅在巡演現場與特定通路限量販售的紀念商品，此款Nendoroid在市場上流通量不多，對May'n歌迷或Macross系列聲優周邊收藏者而言都具備一定稀缺性與紀念價值。",
     reviews: [
       {
