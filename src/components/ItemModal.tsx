@@ -111,6 +111,20 @@ export default function ItemModal({ item, onClose, onTagClick }: { item: Collect
               </div>
             )}
 
+            {item.manualUrl && (
+              <div>
+                <a
+                  href={item.manualUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 text-sm text-sky-400 hover:text-sky-300 transition-colors"
+                >
+                  <BookOpen size={14} />
+                  說明書 / 組裝手冊
+                </a>
+              </div>
+            )}
+
 
             {item.reviews && item.reviews.length > 0 && (
               <div>

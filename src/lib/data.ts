@@ -18,6 +18,7 @@ export type CollectibleItem = {
   height?: string
   officialUrl: string
   imageUrl: string
+  manualUrl?: string
   tags: string[]
   description: string
   reviews: ReviewLink[]
