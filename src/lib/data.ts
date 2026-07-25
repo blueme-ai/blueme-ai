@@ -18692,7 +18692,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-aoi-ogre-an21-2022",
     addedAt: "2026-07-25",
-    name: "AOI OGRE AN-21 -2022 17th CYBER FORMULA World Champion-",
+    name: "V.A. HI-SPEC OGRE AN-21",
     nameJa: "ヴァリアブルアクション ハイスペック 新世紀GPXサイバーフォーミュラSIN オウガAN-21 (2022 17th)",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "OGRE AN-21（ドライバー：ブリード・カガ）",
