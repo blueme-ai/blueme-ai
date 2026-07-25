@@ -18480,6 +18480,28 @@ export const collection: CollectibleItem[] = [
     youtube: [],
   },
   {
+    id: "smp-gingaioh",
+    addedAt: "2026-07-26",
+    name: "SMP 星獣合体ギンガイオー",
+    nameJa: "SMP 星獣合体ギンガイオー",
+    series: "星獣戦隊ギンガマン（Seijuu Sentai Gingaman）",
+    character: "ギンガイオー",
+    manufacturer: "バンダイ キャンディ事業部（BANDAI Candy Division）",
+    scale: "非比例（全高約155mm）",
+    price: "¥7,480（含稅）",
+    releaseDate: "2024年6月24日",
+    officialUrl: "https://www.bandai.co.jp/candy/products/2024/4570117913570000.html",
+    imageUrl: "/images/smp-gingaioh.jpg",
+    tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "星獣戦隊ギンガマン", "ギンガイオー", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
+    description: "《星獣戦隊ギンガマン》是東映超級戰隊系列1998年作品，第22作，講述傳承自星獸一族的五名戰士對抗宇宙海賊團的故事，以奇幻風格與星獸夥伴的羈絆為系列一大特色。「ギンガイオー」是由三隻星獸「ギンガリオン」「ギンガゴリラ」「ギンガコンドル」合體而成的主力機器人，手持光之聖劍「ギンガの剣」戰鬥，是劇中極具人氣的合體機甲之一。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列標準色版本，一般通路販售，2024年6月24日發售，完整重現三獣合體變形機構，四隻星獸夥伴皆施以塗裝並可開闔嘴部，其中ギンガゴリラ更重現太鼓演奏機關、手腕收納設計等原作巧思，忠實再現初代「DX超合金 星獣合体ギンガイオー」的經典造型與細節，是星獣戦隊ギンガマン與SMP合體機甲收藏陣容中的核心必備一件，亦是後續黑色限定版本「ブラックバージョン」的標準對照組。",
+    reviews: [
+      { title: "SMP 「星獣合体 ギンガイオー」レビュー", url: "http://myhobby.moo.jp/smp-gingaio/review.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "食玩で復活DX超合金を完全再現【星獣戦隊ギンガマン SMPギンガイオー】ヲタファのミニプラレビュー", url: "https://www.youtube.com/watch?v=LG4G-Fu394c", lang: "ja" },
+    ],
+  },
+  {
     id: "smp-goldran",
     addedAt: "2026-07-25",
     name: "SMP 黄金勇者ゴルドラン",
