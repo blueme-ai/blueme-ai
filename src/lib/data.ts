@@ -5015,7 +5015,10 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【組み立て動画】スーパーミニプラ天竜神 Super Mini Pla Tenryujin Symmetrical docking", url: "https://www.youtube.com/watch?v=klqvOax3fqk", lang: "ja" },
+      { title: "【スーパーミニプラ】光竜・闇竜/天竜神【勇者王ガオガイガーFINAL】食玩レビュー", url: "https://www.youtube.com/watch?v=Y_4NM4C8eAU", lang: "ja" },
+    ],
   },
   {
     id: "smp-srx-tenka-muteki",
