@@ -6828,42 +6828,6 @@ export const collection: CollectibleItem[] = [
     youtube: [],
   },
   {
-    id: "hg-gyan-strom-hilda-haken",
-    addedAt: "2026-07-03",
-    name: "HG 1/144 ギャンシュトローム（ヒルダ・ハーケン専用機）",
-    nameJa: "HG 1/144 ギャンシュトローム（ヒルダ・ハーケン専用機）",
-    series: "機動戦士ガンダムSEED FREEDOM",
-    character: "ヒルダ・ハーケン（ZGMF-2027/A ギャンシュトローム搭乗）",
-    manufacturer: "BANDAI SPIRITS",
-    scale: "1/144",
-    price: "¥3,190",
-    releaseDate: "2024年8月",
-    height: "約130mm",
-    officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5354/",
-    imageUrl: "/images/hg-gyan-strom-hilda-haken.jpg",
-    tags: ["機動戦士ガンダムSEED FREEDOM", "ギャンシュトローム", "ヒルダ・ハーケン", "ZGMF-2027", "HG", "1/144", "P-Bandai", "BANDAI SPIRITS"],
-    description: "「ギャンシュトローム」是《機動戦士ガンダムSEED FREEDOM》劇場版登場的機體，作為「グフイグナイテッド」的後繼機種由ZAFT開發，型式編號ZGMF-2027。本商品重現的是量產機規格塗裝的「希爾妲・哈肯」座機，藍色系塗裝取代原本專用機的鮮豔配色，呈現前線部隊使用機體的樸實感，並配備大氣圈突入用背包，象徵其多用途戰術定位，在劇中與主角陣營展開多場激烈交鋒。\\n\\n本項為HG 1/144系列首次立體化「希爾妲・哈肯專用機」版本，採用「SEEDアクションシステム」可動結構，徹底追求還原劇中華麗的近戰動作演出，關節活動範圍寬廣，能重現大幅度的格鬥姿勢。武裝齊全，包含光束斧（含收納握把，可替換掛載於腰部）、光束軍刀、光束步槍、雙聯裝光束加特林及專用盾牌，並附特效零件與替換手掌，配件組合豐富。本商品透過Bandai Hobby Online Shop／P-Bandai限定販售，屬於限量流通商品，收藏價值隨系列人氣持續看漲。",
-    reviews: [
-      {
-        title: "HGCE ギャンシュトローム（ヒルダ・ハーケン専用機） レビュー",
-        url: "https://schizophonic9.com/re9/hgce_gyanstromhilda.html",
-        lang: "ja",
-      },
-      {
-        title: "HG ギャンシュトローム（ヒルダ・ハーケン専用機） レビュー | ガンダムブログはじめました",
-        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A0-%E3%83%92%E3%83%AB%E3%83%80%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%B1%E3%83%B3%E5%B0%82%E7%94%A8%E6%A9%9F",
-        lang: "ja",
-      },
-    ],
-    youtube: [
-      {
-        title: "[UNBOX] P BANDAI HG GYAN Storm (HILDA HAKEN CUSTOM)",
-        url: "https://www.youtube.com/watch?v=ZzcK4U2YMIY",
-        lang: "en",
-      },
-    ],
-  },
-  {
     id: "hg-msn032-psycho-doga",
     addedAt: "2026-07-03",
     name: "HG 1/144 MSN-03-2 サイコ・ドーガ",
@@ -12938,8 +12902,19 @@ export const collection: CollectibleItem[] = [
         url: "https://schizophonic9.com/re9/hgce_gyanstromhilda.html",
         lang: "ja",
       },
+      {
+        title: "HG ギャンシュトローム（ヒルダ・ハーケン専用機） レビュー | ガンダムブログはじめました",
+        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A0-%E3%83%92%E3%83%AB%E3%83%80%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%B1%E3%83%B3%E5%B0%82%E7%94%A8%E6%A9%9F",
+        lang: "ja",
+      },
     ],
-    youtube: [],
+    youtube: [
+      {
+        title: "[UNBOX] P BANDAI HG GYAN Storm (HILDA HAKEN CUSTOM)",
+        url: "https://www.youtube.com/watch?v=ZzcK4U2YMIY",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "hg-gyanstrom-agnes-giebenrath",
