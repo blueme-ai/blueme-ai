@@ -3872,7 +3872,10 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【プライズフィギュア】マクロスF FIGURIZMα \"シェリル・ノーム\" 時の迷宮Ver.【開封＆完成品チェック！】", url: "https://www.youtube.com/watch?v=jg_UD4jjJQw", lang: "ja" },
+      { title: "マクロスＦ シェリル・ノーム ゴ～～ジャスVer. エッチングがデカルチャー！", url: "https://www.youtube.com/watch?v=bR7HVLPUG4Q", lang: "ja" },
+    ],
   },
   {
     id: "bearpanda-ghostblade-haiqinyan-encounter",
@@ -3996,7 +3999,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/alter-xenosaga-iii-t-elos.jpg",
     tags: ["ゼノサーガ", "テロス", "アルター", "Beagle", "1/8", "日系品牌", "ナムコ"],
     description: "《異度傳說 第三章：如是說查拉圖斯特拉》是 Namco 旗下科幻 RPG 系列的完結篇，劇情圍繞人工生命體 KOS-MOS 與其對立存在展開最終決戰，T-elos 正是為此登場、由敵對組織打造的高性能戰鬥用人形兵器（AGWS），其設計初衷便是要在各項性能指標上全面凌駕 KOS-MOS，是系列後期最具壓迫感的強敵之一。ALTER 與 Beagle 聯手打造的這款 1/8 完成品，由原型師羽根モトカツ操刀，精準重現 T-elos 深藍紫色的機甲質感、如絲綢般的白銀長髮以及單邊發光的紅色機械眼，這些設計元素共同營造出角色介於美麗與危險之間的獨特氣場。手持能量刀的姿態則凸顯其戰鬥兵器的本質。全高約 210mm 的規格細節扎實，作為 Xenosaga 系列少數推出的立體商品之一，本作在系列粉絲間評價甚高，具備一定稀少性與收藏價值。作為劇情中與 KOS-MOS 形成鏡像對照的存在，T-elos 造型刻意強化妖異冷豔的一面，與 KOS-MOS 的英挺俐落形成鮮明對比，兩者並列展示更能凸顯系列世界觀的敵我張力。",
-    reviews: [],
+    reviews: [
+      { title: "Review: T-elos by Alter", url: "https://wanderingkind.wordpress.com/2010/02/01/review-t-elos-by-alter/", lang: "en" },
+    ],
     youtube: [
       { title: "Alter T-Elos from Xenosaga III Unboxing", url: "https://www.youtube.com/watch?v=sZOPaB0W7Go", lang: "en" },
     ],
@@ -4048,7 +4053,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gsc-saber-alter-huke-collab.jpg",
     tags: ["Fate/stay night", "セイバーオルタ", "Good Smile Company", "GSC", "huke", "1/7", "日系品牌", "Wonder Hobby"],
     description: "「Saber Alter」是《Fate/stay night》中亞瑟王被聖杯汙染後黑化的形態，一改原本聖劍英靈的聖潔形象，轉為身披漆黑鎧甲、揮舞漆黑聖劍的暗黑戰士，強大而危險的反差魅力使其成為 Fate 系列最具人氣的角色詮釋之一。本作特別之處在於由知名插畫師 huke（代表作《大魔王與失業勇者》等）重新繪製全新原創插畫作為造型藍本，Good Smile Company 依此打造出風格獨具的 1/7 比例完成品，並隨商品附贈 A3 尺寸複製原畫供玩家收藏。雕塑上精細呈現黑色鎧甲的金屬冷冽質感與層層疊疊的服裝結構，手持的漆黑聖劍「Excalibur Morgan」造型霸氣十足，與角色墮落卻依然強大的設定相互呼應。本作初版於 2016 年 9 月發售，睽違多年後於 2025 年 12 月再版，全高約 330mm，為 Good Smile Company 官方商店限定商品，兼具插畫家聯名話題性與角色本身的長銷人氣。",
-    reviews: [],
+    reviews: [
+      { title: "【卑王鉄槌】セイバー・オルタ huke フィギュア（コラボパッケージ）【徹底レビュー】", url: "https://firststar.hatenablog.com/entry/2016/09/15/220314", lang: "ja" },
+    ],
     youtube: [
       {
         title: "Saber Alter huke collab 1/7 - Fate/Stay Night | Good Smile Company review",
@@ -4078,7 +4085,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/chogokin-msn04ff-sazabi.jpg",
     tags: ["機動戦士ガンダム", "逆襲のシャア", "サザビー", "超合金", "BANDAI SPIRITS", "日系品牌", "限定品"],
     description: "《機動戰士鋼彈：逆襲的夏亞》是宇宙世紀鋼彈系列的重要轉折點，夏亞・阿茲納布爾在片中駕駛新造機體「沙薩比」向舊識阿姆羅・雷發起最終決戰，兩人多年的宿命對決在此畫下句點，沙薩比也因此成為新吉翁軍最具代表性的旗艦機體之一。BANDAI SPIRITS 「超合金」系列一貫以金屬壓鑄件重現機體重量感與質感著稱，MSN-04FF 為特別企劃版本，取材自福岡 LaLaport SIDE-f 商場的等身大 νガンダム 立像展示企劃，可視為呼應該地標的紀念性商品。玩具大量運用壓鑄合金於關節與背部推進器等關鍵部位，展現遠超一般塑膠模型的沉甸手感與精密機構質感，頭部內建 LED 發光機構可呈現夏亞座機標誌性的綠色感應眼光效，並附有光束步槍、光束軍刀等多種武裝配件與特效零件供搭配展示。全高約 230mm，作為限定販售品，兼具高完成度與話題性，是鋼彈周邊玩具收藏中的重點單品。",
-    reviews: [],
+    reviews: [
+      { title: "超合金 MSN-04FF サザビー レビュー", url: "https://hobby.watch.impress.co.jp/docs/review/1634953.html", lang: "ja" },
+      { title: "バンダイ 超合金 MSN-04ff サザビーようやく開封＆レビュー", url: "https://terzoblog.com/msn-04-2/", lang: "ja" },
+    ],
     youtube: [
       {
         title: "【艾開箱】超合金MSN-04FF 沙薩比 サザビー 超級中的超級限定品!!!",
@@ -4108,7 +4118,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/kdcolle-kumo-arachne-shiraori.jpg",
     tags: ["蜘蛛ですが、なにか？", "アラクネ", "白織", "KADOKAWA", "KDcolle", "1/7", "日系品牌"],
     description: "《蜘蛛也能有異世界》是近年頗受歡迎的異世界轉生輕小說改編作品，女主角由普通女高中生轉生為蜘蛛怪物，在弱肉強食的地下迷宮中不斷進化求生，最終蛻變為兼具強大戰鬥力與人形外貌的「白織」，其獨特的成長弧線與幽默自嘲的敘事風格廣受讀者喜愛。KADOKAWA「KDcolle」系列推出的這款 1/7 完成品最大亮點在於支援雙形態展示——蜘蛛型最終進化形態「Arachne」與人形「白織」可自由切換組裝，讓玩家依喜好呈現角色蛻變前後的樣貌對比,充分展現原作核心的成長主題。本作以小說封面插畫為設計依歸，力求貼近原作世界觀氛圍。搭配另售的 Miraitia LED 發光組件，還能讓蜘蛛型態的複眼部位發光，增添展示效果的臨場感。全高約 240mm，是該人氣輕小說 IP 立體化商品中頗具代表性的一款。雙形態切換的展示巧思充分呼應原作「弱肉強食、不斷進化」的核心主題，是該人氣輕小說 IP 立體化商品中頗具代表性的一款。",
-    reviews: [],
+    reviews: [
+      { title: "【蜘蛛ですが、なにか？】KDcolle『原作版 「私」アラクネ/白織』1/7 完成品フィギュア", url: "https://blog.toyget.com/entry/2021/07/04/210156", lang: "ja" },
+      { title: "いつかは人型アラクネさん！KDcolle『蜘蛛ですが、なにか？』原作版「私」アラクネ／白織 1/7は圧倒的超造形", url: "https://fanblogs.jp/figno1/archive/983/0", lang: "ja" },
+    ],
     youtube: [
       {
         title: "LEDで目が光る！『蜘蛛ですが、なにか？』 原作版「私」アラクネ／白織 1/7スケールフィギュアレビュー！",
@@ -4170,7 +4183,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンダム45周年！【RG 1/144 RX-78-2 ガンダム Ver.2.0】ガンプラの集大成の傑作を徹底解説ヲタファのレビュー", url: "https://www.youtube.com/watch?v=BL1Y8okTjf8", lang: "ja" },
+      { title: "RG RX-78-2 ガンダム Ver2.0 レビュー！45年目の集大成！間違いなく現状最高のガンプラ、拘りがヤバすぎて狂気を感じる！", url: "https://www.youtube.com/watch?v=cpBsdjYb-jA", lang: "ja" },
+    ],
   },
   {
     id: "rg-full-armor-unicorn",
