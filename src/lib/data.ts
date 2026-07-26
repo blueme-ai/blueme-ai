@@ -8681,7 +8681,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】 DX超合金 YF-29 デュランダル オズマ機", url: "https://www.youtube.com/watch?v=ax9XmXDPJHk", lang: "ja" },
+    ],
   },
   {
     id: "hg-gran-saurer",
@@ -8823,7 +8825,10 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Ghostbusters Ecto 1- Lego 10274 - Unboxing & Review", url: "https://www.youtube.com/watch?v=g-bdWNem7N0", lang: "en" },
+      { title: "Kyglaring Lego Ghostbusters Ecto-1 LED light sound kit 10274 Full Unboxing & Review", url: "https://www.youtube.com/watch?v=Ep7qEWS011A", lang: "en" },
+    ],
   },
   {
     id: "super-minipla-gaogaigar-2",
@@ -9414,7 +9419,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "8K Nendoroid Snow Miku Glowing Snow Ver(2021) figure unboxing", url: "https://www.youtube.com/watch?v=EQZawoYolL8", lang: "en" },
+      { title: "ねんどろいど 雪ミク Glowing Snow Ver.", url: "https://www.youtube.com/watch?v=EV4Fb1QY9fA", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-snow-miku-grand-voyage-2022",
@@ -9501,7 +9509,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Unboxing Nendoroid Snow Miku: Strawberry White Kimono Ver", url: "https://www.youtube.com/watch?v=RMwBnxzrHuA", lang: "en" },
+    ],
   },
   {
     id: "megahouse-mylene-jenius-firebomber",
