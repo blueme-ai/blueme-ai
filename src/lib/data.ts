@@ -18732,7 +18732,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-aoi-ogre-an21-2022",
     addedAt: "2026-07-25",
-    name: "V.A. HI-SPEC OGRE AN-21",
+    name: "Variable Action Hi-SPEC: Future GPX Cyber Formula SIN - Ogre AN-21",
     nameJa: "ヴァリアブルアクション ハイスペック 新世紀GPXサイバーフォーミュラSIN オウガAN-21 (2022 17th)",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "OGRE AN-21（ドライバー：ブリード・カガ）",
@@ -18750,7 +18750,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-ogre-an21-livery-dx",
     addedAt: "2026-07-26",
-    name: "V.A. HI-SPEC OGRE AN-21 -Livery Edition- DX Set",
+    name: "Variable Action: Future GPX Cyber Formula SIN - Ogre AN-21 -Livery Edition- DX Set",
     nameJa: "ヴァリアブルアクション Hi-Spec 新世紀GPXサイバーフォーミュラSIN 凰呀AN-21 -Livery Edition- DXセット",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "OGRE AN-21（ドライバー：ブリード・カガ）",
@@ -18804,7 +18804,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-super-asurada-01-ver2",
     addedAt: "2026-07-25",
-    name: "SUPER ASURADA 01 Ver.2",
+    name: "Variable Action 2ndLAP: Future GPX Cyber Formula - Super Asurada 01 Ver.2",
     nameJa: "ヴァリアブルアクション 2nd LAP 新世紀GPXサイバーフォーミュラ スーパーアスラーダ01 Ver.2",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "SUPER ASURADA 01（Car Number 30）",
