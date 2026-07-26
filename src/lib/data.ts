@@ -7127,7 +7127,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラ初のポリキャップレスキット！！ MG ガンダムF91 ハリソン・マディン専用機", url: "https://www.youtube.com/watch?v=pGr8Y2Kr2S4", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-hatsune-miku-black-maneki",
@@ -7471,7 +7473,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "シナンジュメカニカルクリアを完成まで一気につくる！ガンダムベース限定", url: "https://www.youtube.com/watch?v=joxD1NM3ouM", lang: "ja" },
+    ],
   },
   {
     id: "re100-rebawoo",
@@ -7805,7 +7809,9 @@ export const collection: CollectibleItem[] = [
       { title: "MGコアブースター/Vダッシュガンダム レビュー", url: "https://schizophonic9.com/mg_corebooster_p.html", lang: "ja" },
       { title: "MG コア・ブースター Ver.ka レビュー", url: "https://www.oshiiregunpla.com/blog-entry-92.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Unboxing MG Core Booster ver. Ka", url: "https://www.youtube.com/watch?v=ZAwHWAUq0iA", lang: "en" },
+    ],
   },
   {
     id: "mg-shenlong-liaoya",
