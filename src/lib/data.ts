@@ -1691,7 +1691,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
     tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《マクロスΔ》於2016年首播，講述偶像團體Walküre以歌聲對抗名為Var症候群的異常現象，並描寫Delta小隊與溫達米亞王國之間長達一整季的衝突與成長故事。VF-31凱洛斯是Delta小隊的量產配備機型，供非個人識別的一般隊員駕駛，機體性能與主角機同源，但塗裝與武裝配置較為簡樸實用。相較隼、美雷、博格等隊員專屬的客製識別塗裝機，凱洛斯以統一制式塗裝呈現部隊感與整齊劃一的軍事美學。本品為紀念《マクロスΔ》十週年推出的DX超合金VF-31A凱洛斯，是VF-31A首度以一般制式配色形式發售的版本——過去該系列多以主要角色的個人識別塗裝推出商品，此次改以量產支援機定位補完商品線，對於希望完整重現Delta小隊編制陣容、而非僅收藏主角機的收藏者而言別具意義。機體仍完整搭載三段變形機構，可動性與細節分色皆維持DX超合金系列一貫水準，是十週年紀念企劃中相當特別的一件商品，也讓玩家得以用制式量產機視角重新欣賞這部作品的世界觀。",
-    reviews: [],
+    reviews: [
+      { title: "DX超合金 VF-31A カイロス マクロスΔ10th Anniv. レビュー", url: "https://www.amiami.jp/top/detail/review?gcode=FIGURE-193945", lang: "ja" },
+    ],
     youtube: [
       {
         title: "真愛黨的春天！萬代DX超合金 VF-31A（10週年紀念版） 開箱試玩",
@@ -2749,7 +2751,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendo-suisei-sailor-outfit.jpg",
     tags: ["星街すいせい", "hololive", "ねんどろいど", "Good Smile Company", "セーラー服", "VTuber", "GSC限定"],
     description: "星街すいせい是Cover株式會社旗下hololive production的人氣VTuber，出道前曾以獨立歌手身分活動、發行過個人單曲，出道後以扎實的歌唱實力與作詞作曲才華廣受矚目，是hololive眾多成員中少數兼具偶像人設與音樂人身分並存的存在，個人代表色為藍色，主題意象取自彗星，象徵她劃過天際、獨樹一格的存在感。此為Good Smile Company ねんどろいど系列推出的「Sailor Outfit Ver.」，商品編號#2893，為GOODSMILE ONLINE SHOP獨家限定商品，需透過官方通路預約才能入手。すいせい以藍白配色水手服為主造型，搭配標誌性藍色長髮與彗星主題頭飾，套件附三款替換表情（笑臉、活潑臉、自信臉），以及蘋果汁飲料、烤肉配餐具等多款道具配件，可自由搭配重現直播中她各種逗趣的互動場景與名場面。ねんどろいど系列一貫的Q版頭身比例，配合GSC精工彩繪面部細節，完美詮釋すいせい的個人魅力與星空主題設計，是彗星粉絲收藏中不可或缺的必備款。",
-    reviews: [],
+    reviews: [
+      { title: "ねんどろいど 星街すいせい セーラー衣装Ver.", url: "https://news.amiami.jp/review/2026/07/536196.html", lang: "ja" },
+    ],
     youtube: [
       {
         title: "【開封レビュー】ねんどろいど 星街すいせい着弾！ すいちゃんはねんどろいどでもかわいー！！",
