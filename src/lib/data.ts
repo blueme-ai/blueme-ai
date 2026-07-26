@@ -6511,7 +6511,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Phat! Saekano Utaha Kasumigaoka 1/7 Scale Anime Figure Unboxing Review", url: "https://www.youtube.com/watch?v=gh49SHVdf3s", lang: "en" },
+    ],
   },
   {
     id: "mospeada-legioss-afc01h",
@@ -6529,7 +6531,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mospeada-legioss-afc01h.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "AFC-01H", "RIOBOT", "千値練", "1/48"],
     description: "「機甲創世記MOSPEADA」（1983年，タツノコプロ）是繼《超時空要塞》後又一部影響深遠的機械改編作品，海外以《Robotech: The New Generation》之名播出，講述地球遭外星種族因比特侵略後，火星降下部隊駕駛可變形兵裝展開反攻的故事。AFC-01「レギオス」為劇中主力可變戰鬥機，可在戰鬥機、中間形態、人形機器人三形態間完全變形；其中「エータ」為指揮官機，由主角スティック・バーナード駕駛，於第二次地球奪還作戰中降臨地球，是全系列的核心主力機體，肩負隊伍指揮與突擊雙重任務。本品為千値練RIOBOT系列於2020年6月推出的1/48比例可動完成品，採用壓鑄合金、ABS、PVC等多種材質，重新設計變形機構，人形態下駕駛艙可收納至胸部並下移至頭部下方，戰鬥機形態雙腿大幅收縮呈現緊湊機首外觀，機構精密度遠超舊有玩具產品。隨附光束砲、飛彈莢艙、可動迷你騎乘裝甲與飛行員人偶及展示台，是MOSPEADA收藏中不可或缺的核心機體。",
-    reviews: [],
+    reviews: [
+      { title: "RIOBOT 1/48 AFC-01H レギオス・エータ", url: "https://ameblo.jp/sen-ti-nel-info/entry-12599908006.html", lang: "ja" },
+      { title: "今までにない変形を実現！「RIOBOT 1/48 AFC-01H レギオス・エータ」が予約締切間近", url: "https://game.watch.impress.co.jp/docs/news/1221533.html", lang: "ja" },
+    ],
     youtube: [
       {
         title: "千値練 RIOBOT 1/48 レギオス・エータ ヲタファの変形徹底レビュー",
@@ -6559,7 +6564,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mospeada-legioss-afc01z.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "レギオス", "AFC-01Z", "RIOBOT", "千値練", "1/48"],
     description: "AFC-01Z「レギオス・ゼータ」是「機甲創世記MOSPEADA」故事後段登場的強化型可變戰鬥機，由角色フーケ駕駛，塗裝以鮮紅色為主，象徵其作為前線精銳部隊機體的身分。フーケ在原作中是隊伍中經驗豐富的資深成員，性格沉穩可靠，其座機也因此被賦予了更具攻擊性的強化配置。與指揮官機エータ相同，ゼータ同樣具備戰鬥機、中間形態、人形機器人三段變形，但在武裝與機動性上做了進一步強化，可換裝光束步槍與光束砲，呼應其作為前線突擊主力的定位。本品為千値練RIOBOT系列於2021年1月推出的1/48比例可動完成品，承襲エータ版的壓鑄合金與ABS/PVC混合結構，並針對前作變形卡榫、腳部收納等細節重新調校，操作更為流暢順手，變形過程的緊密度與穩定性皆有提升。隨附可動迷你騎乘裝甲、替換武裝與展示台，紅白配色搭配細緻標誌貼片，鮮明的塗裝與エータ機並列展示時更顯層次對比，是MOSPEADA系列中人氣極高的強化量產機體之一，也是RIOBOT系列補完隊伍陣容的重要一環。",
-    reviews: [],
+    reviews: [
+      { title: "RIOBOT 1/48 AFC-01Z レギオス・ゼータ 受注開始！", url: "https://ameblo.jp/sen-ti-nel-info/entry-12609916672.html", lang: "ja" },
+      { title: "3形態に変形するメカ「レギオス」の強化型「レギオス・ゼータ」が千値練「RIOBOT」シリーズに登場！", url: "https://hobby.dengeki.com/news/1040934/", lang: "ja" },
+    ],
     youtube: [
       {
         title: "かなり改良されてる！【千値練RIOBOT】機甲創世記モスピーダ 1/48 AFC-01Z レギオス・ゼータ【バートレー】レビュー",
@@ -6584,7 +6592,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mospeada-legioss-tread-ab01h.jpg",
     tags: ["BOX0001", "モスピーダ", "機甲創世記モスピーダ", "トレッド", "AB-01H", "RIOBOT", "千値練", "1/48"],
     description: "「トレッド」（型式編號AB-01H）是「機甲創世記MOSPEADA」系列中登場的アーモボマー型可變運輸支援機，機體設計沿襲AFC-01レギオス系統，可與指揮官機エータ合體組成「トレッド＆レギオス」形態，於劇中及外傳作品中負責火力支援與大型武裝搭載任務，其厚重的運輸機體型與レギオス的流線戰機形成強烈對比，是系列中頗具人氣的重裝機體，象徵著地球降下部隊在火力配置上的多元組合思路。本品為千値練RIOBOT系列於2025年7月推出的1/48比例可動完成品，由T-REX擔綱原型與機構設計、早川洋司負責塗裝完稿，可在アーモボマー、アーモダイバー、アーモソルジャー三形態間免換件完全變形，大量使用壓鑄合金零件確保變形穩定性，讓大型機體在變形過程中依然保持結構紮實的手感。本作可與另售的RIOBOT レギオス・エータ合體展示、重現劇中經典組合場景，補完了RIOBOT MOSPEADA系列長年來玩家期待已久的合體機構，是系列收藏者心目中的重磅壓軸機體之一。",
-    reviews: [],
+    reviews: [
+      { title: "【前編】「RIOBOT AB-01H トレッド」解説！", url: "https://ameblo.jp/sen-ti-sentinel-info/entry-12864467958.html", lang: "ja" },
+      { title: "RIOBOTからモスピーダ外伝にて大活躍だった「アーモボマー・ブルドック」の元である「AB-01H トレッド」登場！", url: "https://hjweb.jp/article/952890/", lang: "ja" },
+    ],
     youtube: [
       {
         title: "Sentinel Riobot 1:48 AB-01H TLEAD (TREAD) / Robotech Beta Fighter",
@@ -6800,7 +6811,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【千値練】RIOBOT 1/48SCALE『AFC-01I LEGIOSS IOTA』【レギオス イオタ】", url: "https://www.youtube.com/watch?v=ajyu9J0A0-s", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-vf25g-messiah-michael",
@@ -6890,7 +6903,9 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Bandai DX YF 25 Prophecy Review", url: "https://www.youtube.com/watch?v=4dSqbvLdf0s", lang: "en" },
+    ],
   },
   {
     id: "hg-saylas-light-guncannon",
@@ -7079,7 +7094,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "BUILD UP MG 1/100 GUNDAM F91 Ver.2.0 (AFTERIMAGE COLOR)", url: "https://www.youtube.com/watch?v=-sqaHhl3EG4", lang: "en" },
+      { title: "【機動戦士ガンダムF91】MG 1/100 ガンダムF91 Ver.2.0 ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=b3qAgeHNxeA", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-f91-ver2-harrison",
