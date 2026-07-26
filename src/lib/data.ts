@@ -6293,7 +6293,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "asurada-vsx-r",
     addedAt: "2026-07-01",
-    name: "ヴァリアブルアクション バリエーションズ 新世紀GPXサイバーフォーミュラ アスラーダV.S.X-R",
+    name: "Variable Action Variations: Future GPX Cyber Formula - Asurada V.S.X-R",
     nameJa: "ヴァリアブルアクション バリエーションズ 新世紀GPXサイバーフォーミュラ アスラーダV.S.X-R",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "アスラーダV.S.X-R（Asurada V.S.X-R）",
@@ -6302,9 +6302,9 @@ export const collection: CollectibleItem[] = [
     price: "¥27,280",
     releaseDate: "2025年8月下旬",
     height: "全長約190mm",
-    officialUrl: "https://www.megahobby.jp/products/item/4948/",
+    officialUrl: "https://en.megahobby.jp/products/variable-action-variations-future-gpx-cyber-formula-asurada-v-s-x-r",
     imageUrl: "/images/asurada-vsx-r.jpg",
-    tags: ["ヴァリアブルアクション", "MegaHouse", "サイバーフォーミュラ", "アスラーダ", "河森正治", "1/24"],
+    tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada V.S.X-R", "河森正治", "MegaHouse", "Variable Action"],
     description: "《新世紀GPX賽車手方程式》是1991年播出的經典未來賽車動畫，講述配備人工智慧的高科技賽車「阿斯拉達」與少年車手風見隼人在賽場上並肩作戰的故事，機械設計出自巨匠河森正治之手，其充滿速度感與生物機械美學的線條設計成為系列標誌。MegaHouse旗下可動人偶品牌「ヴァリアブルアクション」新系列「バリエーションズ」，推出河森正治在令和時代重新構思的第二款原創新概念賽車機體「アスラーダV.S.X-R」。造型靈感取自「量產版」阿斯拉達的概念設計，呈現介於劇中超級跑車與近未來概念車之間的洗鍊線條，約1/24比例、全長約190mm，塗裝完成品即可上手把玩，附專用展示台座。本商品最大賣點在於豐富的可動與換裝機關：透過替換零件可展開機身側邊的增壓艙與尾翼，並能從一般模式切換為SUV模式，甚至進一步變形為敞篷車形態，重現原作中阿斯拉達多樣化的機能造型。車身部分採用蓄光塗料，關燈後車身線條會呈現螢光綠色的未來科技光效，向初代商品致敬。本商品2025年8月下旬正式發售，定價27,280日圓，是系列近年紀念企劃中備受矚目的高單價收藏品之一。",
     reviews: [
       {
