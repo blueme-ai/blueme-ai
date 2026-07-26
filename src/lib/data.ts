@@ -18894,7 +18894,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "threezero-asurada-gsx-30th",
     addedAt: "2026-07-25",
-    name: "threezero x Megahouse 30th Anniversary Future GPX Cyber Formula ASURADA G.S.X (Variable Action MI-SPEC UNITED)",
+    name: "VARIABLE ACTION Hi-SPEC UNITED FUTURE GPX CYBER FORMULA ASURADA G.S.X",
     nameJa: "ヴァリアブルアクション ハイスペック UNITED 新世紀GPXサイバーフォーミュラ アスラーダG.S.X",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "ASURADA G.S.X（Car Number 30）",
