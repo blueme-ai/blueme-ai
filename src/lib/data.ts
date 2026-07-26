@@ -5790,8 +5790,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/csm-kabuto-zecter-display-stand.jpg",
     tags: ["仮面ライダーカブト", "カブトゼクター", "CSM", "展示台座", "Premium Bandai限定"],
     description: "《假面騎士KABUTO》劇中登場的祕密組織「ZECT」負責監控並殲滅名為「Worm」的地底生物，主角天道總司即以ZECT提供的生體變身器「カブトゼクター」變身戰鬥，組織徽章因此成為系列世界觀中極具代表性的視覺符號。本商品是與「CSMカブトゼクター ver.1.5」同時企劃推出的專用展示台座，台座天面印有ZECT組織徽章標誌，設計簡潔莊重，可穩定支撐變身腰帶進行展示，避免長期擺放造成腰帶零件下垂變形，對於收藏CSM系列變身道具的玩家而言是相當實用的配件。隨附的擴充零件與調整零件可依腰帶尺寸與展示需求彈性調整固定方式，兼顧不同展示情境的相容性，也方便玩家將腰帶以最佳角度呈現細節與塗裝品質，無論正面陳列或搭配燈光展示均能維持穩定姿態。作為CSM系列變身器具收藏展示線的專用配件，本作與腰帶本體相輔相成，共同構成完整的展示體驗，同樣屬於Premium Bandai限定抽選販售商品，對於重視展示效果的假面騎士收藏者而言，是提升整體陳列質感不可或缺的一件周邊。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "CSMカブトゼクター ~ 特撮玩具の本棚", url: "http://doubletoysjp.blogspot.com/2016/04/csm_7.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "CSMカブトゼクター（仮面ライダーカブト） Ver.1.5をレビューした！", url: "https://www.youtube.com/watch?v=1gQ35WjAqcs", lang: "ja" },
+      { title: "プレバン限定 CSMカブトゼクター Ver1.5 レビュー！", url: "https://www.youtube.com/watch?v=TxmGvGDglHA", lang: "ja" },
+    ],
   },
   {
     id: "mg-hyaku-shiki-ver2-mechanical-core",
@@ -6083,7 +6088,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラ「RG 1/144 ガンダムアストレイ ゴールドフレーム天ミナ」開封・組立・レビュー", url: "https://www.youtube.com/watch?v=7gomjKSl-dw", lang: "ja" },
+      { title: "（凄いボリューム！）RG ガンダムアストレイ ゴールドフレーム天ミナ レビュー", url: "https://www.youtube.com/watch?v=f5v0hp2zluQ", lang: "ja" },
+    ],
   },
   {
     id: "sd-legend-bb-victory-daishogun",
@@ -6303,7 +6311,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "RG νガンダム(ダブル・フィン・ファンネル装備型) 徹底再現レビュー", url: "https://www.youtube.com/watch?v=SzgH6veRALQ", lang: "ja" },
+      { title: "圧倒的こだわり仕様！RG νガンダム ダブル･フィン･ファンネル装備型【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=KOBJLSjsocw", lang: "ja" },
+    ],
   },
   {
     id: "hg-rick-dom-gaia-ortega-gq",
@@ -6464,6 +6475,11 @@ export const collection: CollectibleItem[] = [
         title: "【マクロス玩具レビュー】アルカディア 1/60 VF-0S ロイ・フォッカー機 ／ Arcadia 1/60 scale VF-0S Roy Focker（同モールド系列參考評測）",
         url: "https://www.youtube.com/watch?v=FCwgjYnPGmY",
         lang: "ja",
+      },
+      {
+        title: "Review - Yamato 1/60 VF-0S Phoenix",
+        url: "https://www.youtube.com/watch?v=S3F2lpkFsB0",
+        lang: "en",
       },
     ],
   },
