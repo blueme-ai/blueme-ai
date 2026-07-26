@@ -18920,7 +18920,7 @@ export const collection: CollectibleItem[] = [
     scale: "約1/24",
     price: "¥17,600（含稅）",
     releaseDate: "2026年1月",
-    officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-188401",
+    officialUrl: "https://en.megahobby.jp/products/variable-action-future-gpx-cyber-formula-knight-savior-005-livery-edition",
     imageUrl: "/images/va-night-saber-005-livery.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "ナイトセイバー", "Night Saber 005", "ナイト・シューマッハ", "MegaHouse", "Variable Action", "Livery Edition", "メガトレショップ限定"],
     description: "《新世紀GPX サイバーフォーミュラ》中，ナイトセイバー005是賽車手奈特・舒馬克駕駛的賽車，以紅白配色為基底、象徵Union Saber車隊風格。本商品為MegaHouse「Variable Action」系列「Livery Edition」第五彈，重新賦予經典塗裝更具深度與立體感的專屬標誌與塗裝細節，可透過延伸軸距、收納增壓艙、折疊尾翼重現衝刺模式，並可替換前翼零件、延伸後輪呈現拉力模式，座艙罩可開啟展示內裝，全長約180mm，附未塗裝舒馬克人偶與專用台座，是Livery Edition系列中較晚推出的限定商品。",
