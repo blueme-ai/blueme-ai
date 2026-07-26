@@ -4529,7 +4529,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-v2-gundam-ver-ka-mechanical-clear-gold.jpg",
     tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "バンダイ", "1/100", "変形", "勝利二式", "メカニカルクリア", "ガンプラEXPO限定"],
     description: "《機動戰士V鋼彈》是宇宙世紀系列中風格最為冷冽殘酷的一部，主角烏索・埃溫的最終座機「勝利二式鋼彈」歷經多次機體損毀與強化，象徵著這段慘烈成長歷程的終點，是U.C.後期機體設計中構造最複雜的可變形機種之一。「MG V2鋼彈 Ver.Ka」由長年負責鋼彈機體設計監修的角色設計師香瀧一（カトキハジメ）親自操刀，重新調整原作略顯特殊的比例，更貼近其手繪設定稿的英挺體態。本商品是2016年11月「ガンプラEXPO ワールドツアージャパン 2016 WINTER」活動現場限定販售的特別配色版本，與一般通路販售的標準塗裝版屬完全不同商品，未透過Premium Bandai線上通路或一般模型店鋪流通。全身改採「メカニカルクリア」透明零件成形，讓Ver.Ka骨架內部精密的可動機構與分離合體構造直接透視可見；頭部V字天線及胸部延伸至翼部的招牌V字線條則施以金色電鍍處理，透明機身搭配金色描邊呈現有別於標準版的華麗視覺效果，強調V2鋼彈最具辨識度的V字線條設計語彙。由於僅限活動會場現場販售、數量稀少，此版本在V2鋼彈眾多Ver.Ka限定色版本中屬於辨識度與收藏熱度都極高的活動限定款式。",
-    reviews: [],
+    reviews: [
+      { title: "MG V2ガンダム Ver.Ka レビュー", url: "https://schizophonic9-2.com/blog-entry-2726.html", lang: "ja" },
+      { title: "【ガンプラレビュー】MG V2ガンダム Ver.Ka", url: "https://xbuild.site/reviews/mg-v2ka-4/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
