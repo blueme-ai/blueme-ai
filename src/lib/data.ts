@@ -18650,7 +18650,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/100",
     price: "¥7,700（含稅）",
     releaseDate: "2017年3月18日",
-    officialUrl: "https://global.bandai-hobby.net/en-us/item/01_829/",
+    officialUrl: "https://bandai-hobby.net/item/01_838/",
     imageUrl: "/images/mg-providence-gundam-premium-edition.jpg",
     tags: ["機動戦士ガンダムSEED", "プロビデンスガンダム", "MG", "マスターグレード", "ガンプラ", "Premium Edition", "Rau Le Creuset"],
     description: "《機動戰士鋼彈SEED》為2002年播出的新世紀鋼彈系列作品，以Coordinator與Natural的衝突為主軸。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色Rau Le Creuset駕駛，背部搭載大型DRAGOON System無線遙控射擊兵器群，是ZAFT陣營技術結晶的最強試驗型MS之一。本商品為MG系列的G.U.N.D.A.M. Premium Edition，採用特別設計的鋼彈系列紀念底座與水轉印貼紙，箱蓋設計特殊、側面印有劇中台詞，為初回限量的高規格包裝版本，是SEED系列鋼普拉收藏中的稀少版本。",
