@@ -18755,7 +18755,7 @@ export const collection: CollectibleItem[] = [
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "OGRE AN-21（ドライバー：ブリード・カガ）",
     manufacturer: "MegaHouse",
-    scale: "1/18",
+    scale: "約1/24",
     price: "¥22,000（含稅）",
     releaseDate: "2023年1月",
     officialUrl: "https://en.megahobby.jp/products/variable-action-future-gpx-cyber-formula-sin-ogre-an-21-livery-edition-dx-set",
