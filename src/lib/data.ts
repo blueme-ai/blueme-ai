@@ -4663,7 +4663,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラ「MG 1/100 キュベレイダムド(QUBELEY DAMNED)」開封・組立・素組完成レビュー", url: "https://www.youtube.com/watch?v=wlPXsCJazoE", lang: "ja" },
+      { title: "手がデカすぎw「MG 1/100 キュベレイダムド」開封・組立・レビュー", url: "https://www.youtube.com/watch?v=cbk5tgeSmiU", lang: "ja" },
+    ],
   },
   {
     id: "mg-hyaku-shiki-crash",
@@ -4979,7 +4982,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/tfc-toys-sg-perseus.jpg",
     tags: ["トランスフォーマー", "Devastator", "TFC Toys", "Shattered Glass", "SG", "合體", "珀修斯", "六體合體"],
     description: "Devastator（毀滅者）是《變形金剛》G1世代中由六名Constructicons建設機器人小隊合體而成的巨型戦鬥機體，力大無窮、以壓倒性蠻力著稱，是狂派陣營早期最具代表性的合體反派之一。Shattered Glass（碎鏡玻璃）為官方衍生的鏡像宇宙設定，其中博派與狂派陣營善惡立場完全對調，故該設定下的角色常以純白、鏡面等異於本傳的塗裝呈現「正邪反轉」的視覺意象。\n\n本品為台灣三方廠品牌TFC Toys推出的六體合體玩具，屬其Hercules（海格力士，即Devastator對應系列）產品線下的Shattered Glass限定版本，採用鏡像宇宙設定中的純白色塗裝重新演繹。套組由Dr. Krank、Structor、Heavylabor、Neckbreaker、Exgraver、Madblender六隻建設機器人個體組成，各自可獨立變形，合體後全高約35cm。全球限量2,012套並附專屬編號，是三方廠Transformers收藏品中稀有度相當高的限定合體組合。",
-    reviews: [],
+    reviews: [
+      { title: "Reviews of TFC Toys Perseus Devastator White Version Set of 6 Figures", url: "https://www.showzstore.com/review_p0789/", lang: "en" },
+    ],
     youtube: [
       {
         title: "TFC S.G. Perseus Hercules Devastator Review",
