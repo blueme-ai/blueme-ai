@@ -18794,7 +18794,7 @@ export const collection: CollectibleItem[] = [
     scale: "約1/24",
     price: "日版定價",
     releaseDate: "2022年",
-    officialUrl: "https://www.gundamplanet.com/products/variable-action-variations-future-gpx-cyber-formula-vision-asurada",
+    officialUrl: "https://en.megahobby.jp/products/variable-action-variations-future-gpx-cyber-formula-vision-asrada",
     imageUrl: "/images/va-vision-asurada.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada", "VISION ASURADA", "MegaHouse", "Variable Action", "30周年"],
     description: "《新世紀GPX サイバーフォーミュラ》为SUNRISE代表性的未來賽車動畫，機械設計出自川元正治之手，阿斯拉達（Asurada）系列賽車為系列核心象徵。VISION ASURADA為紀念系列30周年推出的全新繪製構想版本，並非既有劇情機體，而是以「假若未來阿斯拉達會如何進化」為概念重新設計。本商品為MegaHouse「Variable Action Variations」系列作品，具備升降增壓艙、賽道模式與空力模式零件替換、效果扇葉展開等豐富機構玩法，是收藏家眼中極具話題性的周年紀念商品之一。",
