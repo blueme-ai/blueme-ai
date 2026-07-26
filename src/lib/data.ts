@@ -18876,7 +18876,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mega-chogokin-scudregard-livery",
     addedAt: "2026-07-25",
-    name: "Mega Chogokin DX 新世紀GPXサイバーフォーミュラ スゴウレガード10V5000 -Livery Edition-",
+    name: "Cyber Formula Collection DX FUTURE GPX CYBER FORMULA Sugolegerd 10V5000-Livery Edition-",
     nameJa: "サイバーフォーミュラコレクションDX 新世紀GPXサイバーフォーミュラ スゴウレガード10V5000 -Livery Edition-",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "スゴウレガード10V5000（SUGO Legard）",
@@ -18912,7 +18912,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-night-saber-005-livery",
     addedAt: "2026-07-25",
-    name: "ナイトセイバー005 -Livery Edition-",
+    name: "Variable Action FUTURE GPX CYBER FORMULA - KNIGHT SAVIOR 005 -Livery Edition-",
     nameJa: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラ ナイトセイバー005 -Livery Edition-",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "ナイトセイバー005（ドライバー：ナイト・シューマッハ）",
