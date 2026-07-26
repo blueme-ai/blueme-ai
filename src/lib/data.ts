@@ -4155,7 +4155,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gsc-fgo-saber-alter-cuirassier-noir.jpg",
     tags: ["Fate/Grand Order", "FGO", "セイバーオルタ", "アルトリア", "Good Smile Company", "GSC", "1/8", "日系品牌"],
     description: "本作取材自《Fate/Grand Order》「特異點F 惡性隔絕庭園・新宿幻靈事件」章節的宣傳影片場景，將黑化亞瑟王「Saber／Altria Pendragon〔Alter〕」騎乘漆黑機甲戰馬「Cuirassier Noir」馳騁疾馳的震撼畫面立體化，這一幕也是該篇章劇情高潮中令玩家印象深刻的視覺演出之一。Good Smile Company 以 1/8 比例呈現這組動態感十足的組合，阿爾托莉雅手持漆黑聖劍「Excalibur Morgan」奮力揮擊的姿勢極具張力，黑色鎧甲的金屬質感與機甲戰馬流線造型相互呼應，共同構築出黑暗與速度感兼具的視覺衝擊。含劍全高約 270mm，附專用底座穩固支撐動態姿勢，展示效果比單體角色手辦更具敘事張力。本作於 2019 年首度發售後獲得高度評價，2024 年 9 月應玩家需求再版推出，讓錯過首發的收藏者得以入手這件融合角色魅力與劇情名場面的重量級作品。",
-    reviews: [],
+    reviews: [
+      { title: "グッドスマイルカンパニー セイバー/アルトリア・ペンドラゴン〔オルタ〕＆キュイラッシェ・ノワール レビュー", url: "https://hacchaka.net/archives/52053169.html", lang: "ja" },
+    ],
     youtube: [
       {
         title: "Unboxing 1/8 Saber Altria Pendragon Alter Cuirassier Noir Shinjuku Ver. Figure | Fate Grand Order",
@@ -4351,7 +4353,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/macross7-ultra-fire-vinyl.jpg",
     tags: ["マクロス7", "FIRE BOMBER", "バサラ・ネッキ", "ミレーヌ・ジーナス", "黑膠", "アナログ", "フライングドッグ", "30周年"],
     description: "《超時空要塞 Macross 7》（1994-1995）是系列作品中風格最為特殊的一部，首次將「用歌聲戰鬥」的核心設定推向搖滾樂團形式，劇中虛構搖滾樂團「FIRE BOMBER」由主唱巴薩拉・涅可領軍，以熱血高亢的搖滾樂曲貫穿全劇，「歌聲能感化敵人、平息戰爭」的獨特世界觀也成為 Macross 系列中最具個性的一頁。本作精選輯《ULTRA FIRE!!》首度以黑膠 LP 規格發行，初回生產限定版特別採用劇中主角機配色的彩色膠盤：Disc 1 以巴薩拉座機「VF-19改 Fire Valkyrie」的形象色透明紅壓製,Disc 2 則以蜜蕾奴座機「VF-11MAXL改 Mylene Valkyrie」形象色透明粉壓製，將機體配色與音樂載體巧妙結合，是 Macross 周邊中少見的視覺化設計巧思。專輯收錄「PLANET DANCE」、「突擊愛心」等系列經典曲目共 30 首，並附豪華拉頁封套及全新繪製插圖小冊子，是《Macross 7》三十週年紀念之際首次以類比黑膠規格復刻的精選輯，兼具音樂性與收藏話題性。",
-    reviews: [],
+    reviews: [
+      { title: "マクロス7のベストでウルトラなアナログ盤だぜ【ULTRA FIRE!! FIRE BOMBER BEST ALBUM/レコード/LP】", url: "https://nichijo.dropoutdiary.com/entry/2026/03/25/115639", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -4389,7 +4393,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/suisei-stillstillstellar-vinyl.jpg",
     tags: ["星街すいせい", "hololive", "Still Still Stellar", "黑膠", "LP", "音樂", "專輯", "カラーヴァイナル"],
     description: "星街彗星隸屬 VTuber 事務所 hololive，長年以真材實料的歌唱實力打破外界對虛擬歌手僅止於「人設」的既定印象，逐步在日本音樂產業中站穩腳步。《Still Still Stellar》是她首張個人全長專輯，原作 CD 發行於 2021 年 9 月，收錄「Stellar Stellar」、「Sagittarius」、「Ghost」等十二首代表曲目，奠定了她作為創作型歌手的音樂定位與初期風格基礎。本作於 2024 年 5 月首度以 2LP 彩膠形式復刻推出，Disc 1 採用標準黑膠、Disc 2 則採用透明藍色壓製，雙碟雙色的設計在 hololive 旗下眾多藝人商品中屬於首次嘗試,象徵虛擬偶像實體音樂周邊在製作規格上的升級。套組並附豪華內袋及展示用插圖，兼顧聆聽體驗與視覺收藏價值，對追蹤星街彗星音樂軌跡的歌迷而言，是回顧其出道初期代表作、感受類比黑膠特有溫暖音質的珍貴載體。",
-    reviews: [],
+    reviews: [
+      { title: "星街すいせい 1stアルバム Still Still Stellar レビュー｜全曲解説＆魅力", url: "https://holoaudio.site/hoshimachi-suisei-1st-album-still-still-stellar/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
