@@ -16508,7 +16508,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-mighty-strike-freedom-gundam.jpg",
     tags: ["ガンプラ", "HG", "Cosmic Era", "SEED FREEDOM", "BANDAI SPIRITS", "BOX0008"],
     description: "《機動戰士鋼彈SEED FREEDOM》是2024年上映的劇場版新作，作為2004年《SEED DESTINY》完結後時隔約20年的正統續篇，講述基拉・大和與拉克絲等人在新的宇宙局勢下再度挺身而戰的故事，是Cosmic Era世界觀近年最受矚目的重量級企劃。「瑪伊蒂突擊自由鋼彈」是基拉在本片中駕駛的全面強化新機體，承襲強攻自由鋼彈的雙翼展開形態，並進一步強化裝甲與武裝配置，是本片最終決戰的象徵性座機。本商品為HG 1/144比例套件，內建「SEED Action System」內構骨架，專為重現SEED系列標誌性的躍動英姿而設計。腰胯與大腿連接處採用可個別上下擺動的機構，搭配腳尖伸展設計，能重現雙腿併攏的細膩站姿；金色部位使用高質感金屬電鍍射出成型，展現華麗光澤。雙翼分為八段可獨立滑動的白色羽翼，能重現完全展開的華麗形態；背部普勞德防禦者可單獨拆下展示，額頭主炮亦可透過換裝零件呈現開啟狀態，武裝齊全，是SEED FREEDOM系列人氣最高的機體立體化作品之一。",
-    reviews: [],
+    reviews: [
+      { title: "HG マイティーストライクフリーダムガンダム レビュー", url: "https://gundamsblog.net/ガンプラ/hg-マイティーストライクフリーダムガンダム", lang: "ja" },
+      { title: "【徹底レビュー】HG 1/144 マイティーストライクフリーダムガンダム", url: "https://shishioh.info/HG_MIGHTY_STRIKE_FREEDOM_GUNDAM.php", lang: "ja" },
+    ],
     youtube: [
       {
         title: "【模人開箱】HG 瑪伊蒂突擊自由鋼彈 SEED FREEDOM｜Mr.Joe Hobby.tv",
@@ -16532,7 +16535,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-rising-freedom-gundam.jpg",
     tags: ["ガンプラ", "HG", "Cosmic Era", "SEED FREEDOM", "BANDAI SPIRITS", "BOX0008"],
     description: "《機動戰士鋼彈SEED FREEDOM》中，基拉・大和在劇場版前半段駕駛的座機正是「振揚自由鋼彈」（STTS-909），這款深藍配色的新機體是自由鋼彈系譜的最新發展型，在劇情初期展現凌厲身手，為後續劇情鋪墊重要伏筆，是SEED FREEDOM上映初期話題度極高的機體之一。本商品為HG 1/144比例套件，同樣搭載「SEED Action System」內構骨架，可透過換裝零件重現變形為MA（機動裝甲）形態的雙形態設定。新開發的盾牌兼具攻防機能，展開後可裝設透明效果零件重現劇場版中的必殺演出畫面；雙光束軍刀可相互連結使用，光束盾牌採用偏光成型技術，從不同角度觀看會呈現色澤變化的視覺效果。背部可展開雙翼與阿格尼加農炮，腰部軌道炮亦可伸縮延伸，重現劇中震撼的「HiMAT全力爆發」姿態；雙腿髖關節另具備上下滑動機構，強化下半身可動範圍，成形色分色精細，組裝完成即具備良好視覺效果。",
-    reviews: [],
+    reviews: [
+      { title: "HG ライジングフリーダムガンダム レビュー", url: "https://gundamsblog.net/ガンプラ/hg-ライジングフリーダムガンダム", lang: "ja" },
+      { title: "HGライジングフリーダムガンダムのレビュー【過去のフリーダムの中でも、めちゃくちゃ遊びやすい！】", url: "https://timao.hatenablog.com/entry/2024/07/18/105130", lang: "ja" },
+    ],
     youtube: [
       { title: "HG Rising Freedom Gundam ASMR Build", url: "https://www.youtube.com/watch?v=xq3huP8Aayo", lang: "en" },
       { title: "HG ライジングフリーダムガンダム レビュー", url: "https://www.youtube.com/watch?v=lgxZI40yVHY", lang: "ja" },
@@ -16579,7 +16585,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hgbdr-re-rising-gundam.jpg",
     tags: ["ガンプラ", "HGBD:R", "Build Divers", "BANDAI SPIRITS", "BOX0008"],
     description: "《ガンダムビルドダイバーズ Re:RISE》是「電腦模擬鋼彈對戰」題材GBN系列動畫的最新作，講述少年廣人與夥伴們在虛擬世界中組隊冒險、鑽研鋼彈模型的故事，第2期劇情高潮處，眾人使出集結全隊力量的必殺技，召喚出象徵團隊羈絆的巨大機體「リ・ライジングガンダム」，是該系列劇情最高潮的代表場面之一。本商品以特殊技發動時的「グランドクロスカラー」（Grand Cross Color）為主題，將廣人與夥伴們的四架代表機體──HGBD:R尤拉汶鋼彈、HGBD:R神盾騎士鋼彈、SDBD:R EX瓦爾基蘭達與HGBD:R沃頓鋼彈──全數以金黃色調成形色重新開模，四機合體後即可完整重現リ・ライジングガンダム必殺技發動瞬間的震撼英姿。套件隨附三座專用展示台座供分別展示與合體姿態擺放，並附燙金貼紙強化細節質感，是Build Divers Re:RISE粉絲收藏合體演出場面不可或缺的一件企劃商品。",
-    reviews: [],
+    reviews: [
+      { title: "HGBD:R リライジングガンダム レビュー", url: "https://gundamsblog.net/ガンプラ/hgbdr-リライジングガンダム1", lang: "ja" },
+      { title: "【ガンプラ】HGBD:R リライジングガンダム レビュー【合体】", url: "https://gunplapocchi.com/hgbd-re-rising-gundam/", lang: "ja" },
+    ],
     youtube: [
       { title: "CORE CHANGE! Re:RISING GO!!!", url: "https://www.youtube.com/watch?v=3XfAey0OQFg", lang: "en" },
       { title: "HG Re:Rising Gundam Review", url: "https://www.youtube.com/watch?v=BAeyxmfL4Ho", lang: "en" },
