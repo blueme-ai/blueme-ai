@@ -18358,8 +18358,12 @@ export const collection: CollectibleItem[] = [
     description: "《不起眼女主角培育法》是丸戶史明原作、深崎暮人繪製角色的人氣輕小說改編作品，講述主角安藝倫也與多位女主角一同製作同人遊戲的青春物語，霞之丘詩羽（詩羽學姊）身為暢銷輕小說作家「霞詩子」，個性毒舌腹黑卻對倫也懷抱著複雜情感，是系列人氣最高的「隱藏系」角色之一。本商品為Max Factory推出的1/7比例限定塗裝完成品，取材自TV動畫第一期BD/DVD第四卷特典插畫，重現詩羽學姊身著高中制服、手持自著小說單行本的躍動姿態，配件如隨風飄散的圍巾、飛揚的書本等營造大膽的空中構圖層次感，全高約210mm。原型製作由雕形師雅樹操刀，忠實還原深崎暮人筆下角色略帶挑釁的側目神情與長直髮的柔順質感，是詩羽學姊眾多手辦作品中少見以校園制服為主題、原案插畫氛圍感濃厚的一款人氣商品。",
     reviews: [
       { title: "【冴えない彼女の育てかた】霞ヶ丘詩羽 1/7フィギュアレビュー/MaxFactory", url: "https://koborechan.com/max-utaha/", lang: "ja" },
+      { title: "Saenai Heroine no Sodatekata ♭ - Kasumigaoka Utaha - 1/7 (Max Factory)", url: "https://myfigurecollection.net/item/549374", lang: "en" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【美少女フィギュア】マックスファクトリー 冴えない彼女の育てかた♭ 霞ヶ丘詩羽【開封】【レビュー】", url: "https://www.youtube.com/watch?v=YPJ47QUVeP8", lang: "ja" },
+      { title: "Kasumigaoka Utaha (Saekano♭) 1/7 Figure - Max Factory", url: "https://www.youtube.com/watch?v=S6BndLHjgN8", lang: "en" },
+    ],
   },
   {
     id: "smp-jdecker-gunmax",
@@ -18616,6 +18620,7 @@ export const collection: CollectibleItem[] = [
     description: "《恐竜戦隊ジュウレンジャー》為東映超級戰隊系列1992年作品，第16作，講述沉睡萬年的五名戰士甦醒後駕駛恐龍型機器人對抗邪惡巫女的故事，是後續《Power Rangers》美版改編的原始作品。「ドラゴンシーザー」是劇中登場的追加合體機甲，由巨大恐龍型機體變形而成，可與主力機「大獣神」合體升級為「剛龍神」，再進一步合體為終極形態「獣帝大獣神」，是ジュウレンジャー機甲收藏中不可或缺的核心拼圖之一。本商品為2025年5月出貨的Premium Bandai限定「クリアカラーVer.」，將原本黑、綠、金三色的機體改以透明成形色重新詮釋，搭配銀色與新增裁形貼紙強化細節效果，呈現有別於標準版的通透質感。作為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列限定色作品，完整重現原有變形合體機構，是恐竜戦隊ジュウレンジャー與SMP合體機甲收藏陣容中辨識度極高的稀有配色版本。",
     reviews: [
       { title: "レビュー308 SMP ドラゴンシーザー クリアカラーver.【前編】", url: "https://syoku-gun.blog/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC308%E3%80%80smp-%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%80%80%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BCver-%E3%80%90/", lang: "ja" },
+      { title: "レビュー309 SMPドラゴンシーザー クリアカラーver.【後編】", url: "https://syoku-gun.blog/レビュー309　smpドラゴンシーザー　クリアカラーver-【/", lang: "ja" },
     ],
     youtube: [],
   },
@@ -18678,9 +18683,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-goldran-kuuei.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "黄金勇者ゴルドラン", "空影", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《黄金勇者ゴルドラン》是SUNRISE勇者系列1995年作品，第6作，描寫三名少年與黃金龍族夥伴冒險的故事。「空影」是劇中登場的黃金忍者型機器人，以赤金雙色搭配大型金色羽翼造型為特徵，個性沉穩神祕、擅長忍術般的隱密戰法，與主角機「ゴルドラン」的活潑形象形成鮮明對比；兩者可合體升級為「スカイゴルドラン」形態，展現勇者系列一貫的多機合體魅力。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，2025年7月出貨，完整重現角色忍者般的關節可動設計與大型羽翼展開機構，並可與另售「SMP 黄金勇者ゴルドラン」本體合體重現原作經典大空合體場面，是勇者系列SMP陣容持續擴充中人氣度極高的重要一員。",
-    reviews: [],
+    reviews: [
+      { title: "レビュー378 SMP 空影/スカイゴルドラン", url: "https://syoku-gun.blog/レビュー378　smp　空影-スカイゴルドラン/", lang: "ja" },
+    ],
     youtube: [
       { title: "ゴルドランと大空合体！【SMP 黄金忍者空影】ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=HYXhCotCW4E", lang: "ja" },
+      { title: "【餓模人開箱】SMP 黃金勇者 黃金德蘭 & 空影 ゴルドラン", url: "https://www.youtube.com/watch?v=0cq14iJqC_w", lang: "zh" },
     ],
   },
   {
@@ -18716,8 +18724,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-providence-gundam-standard.jpg",
     tags: ["機動戦士ガンダムSEED", "プロビデンスガンダム", "MG", "マスターグレード", "ガンプラ", "Rau Le Creuset"],
     description: "《機動戰士鋼彈SEED》為2002年播出的新世紀鋼彈系列作品，以Coordinator與Natural的衝突為主軸，人氣角色與機體設計深受粉絲喜愛。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色勞・魯・克魯賽駕駛，背部搭載大型DRAGOON System（多拉貢系統）——一套可分離飛行的全方位無線遙控射擊兵器群，能對敵方展開立體式全向射擊，是ZAFT陣營技術結晶的最強試驗型MS之一，也是勞這名亦正亦邪角色最具代表性的座機。本商品為MG系列標準版商品，2017年3月18日發售，完整重現DRAGOON分離展開機構與飽含機械感的關節結構，標配光束步槍、電漿盾等武裝及駕駛員人偶，是SEED系列MG收藏中份量感十足的代表作。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【ガンプラ新作レビュー】MG 1/100 プロヴィデンスガンダムを作ってみた!!!", url: "https://hobby.dengeki.com/reviews/356976/", lang: "ja" },
+      { title: "MG プロヴィデンスガンダム レビュー", url: "https://gundamsblog.net/ガンプラ/mgプロヴィデンスガンダム", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【ガンプラ】終末の天帝！ MG 1/100 プロヴィデンス [日本語字幕]", url: "https://www.youtube.com/watch?v=Ddu6mn_AChw", lang: "ja" },
+      { title: "ZGMF-Xシリーズの異端児【MG1/100 プロヴィデンスガンダム】拡張エフェクトセットで...", url: "https://www.youtube.com/watch?v=McfqEJYPtXs", lang: "ja" },
+    ],
   },
   {
     id: "mg-providence-gundam-premium-edition",
