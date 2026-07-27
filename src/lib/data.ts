@@ -17390,7 +17390,10 @@ export const collection: CollectibleItem[] = [
       { title: "SDW HEROES シーザーレジェンドガンダム クリアカラーver. レビュー", url: "https://sumourobotto.livedoor.blog/archives/33002583.html", lang: "ja" },
       { title: "SDW HEROES シーザーレジェンドガンダム レビュー", url: "http://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/sdw-heroes-%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "SDW HEROES アーサーガンダムMk-III シーザーレジェンドガンダム レビュー", url: "https://www.youtube.com/watch?v=NKOtbJKPZQw", lang: "ja" },
+      { title: "SDW HEROES シーザーレジェンドガンダム 色分け済みプラモデル（マッキーで塗装）", url: "https://www.youtube.com/watch?v=6n5wSooE0ic", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-barbataurus",
@@ -17496,8 +17499,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-gespenst.jpg",
     tags: ["スーパーロボット大戦OG", "HG", "Bandai", "ゲシュペンスト", "BOX0011"],
     description: "《スーパーロボット大戦OG》是萬代旗下原創機體構成的機戰系列作品，脫離既有動畫版權限制，自由發展出獨自的世界觀與角色設定。「ゲシュペンスト」（幽靈式）是系列最初期登場的量產型人型兵器「Personal Trooper」代表機種之一，自初代《第4次スーパーロボット大戦》起便貫穿整個OG世界觀，是主角陣營最具象徵意義的起始機體。此HG規格套件為全新開模設計，全身黑色裝甲搭配紅色與橙黃色細節分色，手臂、髖關節與腹部前裝甲皆具備滑動可動機構，可展現更大幅度的射擊與格鬥姿勢；腹部並設計有左右滑動機構以隱藏可動間隙。武裝配備中性子光束「ニュートロンビーム」、電漿切割器「プラズマカッター」與分裂飛彈等多樣裝備，並附專用展示台座。作為機戦系列鋼普拉化的起點機體，是OG粉絲與機戰收藏者心中極具代表性的一款。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "HG ゲシュペンスト レビュー", url: "https://schizophonic9.com/re7/hg_gespenst.html", lang: "ja" },
+      { title: "プラモデル「ＨＧゲシュペンスト」私的キットレビュー", url: "https://blog.spalog.jp/?p=6398", lang: "ja" },
+    ],
+    youtube: [
+      { title: "ガンプラのノウハウが引き継がれた神キット爆誕！HG ゲシュペンスト レビュー【スーパーロボット大戦OG】", url: "https://www.youtube.com/watch?v=KW5Fwvmc2rg", lang: "ja" },
+      { title: "（驚異の色分け！HGでゲシュペンストが登場！PETシートを使ってスラッシュ・リッパーを再現！）HG ゲシュペンスト レビュー", url: "https://www.youtube.com/watch?v=S3AUMwHxWPM", lang: "ja" },
+    ],
   },
   {
     id: "sd-ex-valkylander",
@@ -17626,8 +17635,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/sdw-heroes-superior-strike-freedom-dragon.jpg",
     tags: ["SDW HEROES", "THE LEGEND OF DRAGON KNIGHT", "SDガンダム", "Bandai", "ドラゴン", "BOX0011"],
     description: "「THE LEGEND OF DRAGON KNIGHT」是《SDガンダムワールド ヒーローズ》展開的龍騎士支線，將高達機體重新詮釋為龍族與騎士交織的奇幻世界觀。「スペリオルストライクフリーダムドラゴン」以人氣機體「フリーダムガンダム」為原型意象，全身以金色為主色調，佈滿尖銳羽翼狀裝甲與獸首護肩，猶如展開雙翼的黃金巨龍，氣勢懾人。套件的翼部與尾部大量採用多關節設計，可自由調整開合角度與飛翔姿態，頭部與胸甲的紅色細節分色精緻，無須額外塗裝即可重現華麗的金龍造型。作為龍騎士支線中光明陣營的代表機體之一，與同支線的暗黑系角色形成鮮明對比，是SDW HEROES收藏中視覺張力十足的一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SDW HEROES スペリオルストライク フリーダムドラゴン レビュー | ガンダムブログはじめました", url: "https://gundamsblog.net/ガンプラ/sdw-heroes-スペリオルストライク-フリーダムドラゴン", lang: "ja" },
+      { title: "【ガンプラ】SDW HEROES スペリオルストライク フリーダムドラゴン レビュー", url: "https://gunplapocchi.com/sd-superior-strike-freedom-dragon/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "SDW HEROES スペリオルストライクフリーダムドラゴン 開封&素組み編", url: "https://www.youtube.com/watch?v=Pi0qZGo8sQ8", lang: "ja" },
+      { title: "（ナイトストライクとシャイングラスパードラゴンが融合！サンオリジネイトを発動！）SDW HEROES スペリオルストライク フリーダムドラゴン レビュー", url: "https://www.youtube.com/watch?v=EoOkjEWbdWc", lang: "ja" },
+    ],
   },
   {
     id: "sdw-heroes-musha-gundam-the-78th",
@@ -17644,8 +17659,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/sdw-heroes-musha-gundam-the-78th.jpg",
     tags: ["SDW HEROES", "武者頑駄無", "SDガンダム", "Bandai", "BOX0011"],
     description: "《SDガンダムワールド ヒーローズ》中的武者頑駄無支線，延續90年代「SD鋼彈外伝 武者七人衆」的戰國武者世界觀，在新企劃中重新展開歷代武者傳承的故事。「78代目武者頑駄無」作為武者一族最新一代傳人登場，全身以紅金為基調的鎧甲厚重威武，頭盔與肩甲飾以誇張的獅首與火焰紋樣，展現一脈相承的戰國武將氣魄。套件採用「輝羅鋼」電鍍成形技術重現金屬光澤鎧甲質感，胸甲與腿部護具細節分色精緻，無須額外塗裝即具備高完成度；关節採用球型可動設計，可擺出揮刀迎戰的武者姿態。作為武者頑駄無系列世代傳承敘事中的最新角色，是SD武者迷持續關注的話題新作。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SDW HEROES 78代目武者頑駄無 レビュー | ガンダムブログはじめました", url: "https://gundamsblog.net/ガンプラ/sdw-heroes-78代目武者頑駄無", lang: "ja" },
+      { title: "SDW HEROES 78代目武者頑駄無 レビュー", url: "https://schizophonic9.com/re8/sdw_musha78th.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "(バンダイのロストテクノロジーが復活！？まさかの輝羅鋼が再登場！)SDW HEROES 78代目武者頑駄無 レビュー", url: "https://www.youtube.com/watch?v=zl9yYtrJqKA", lang: "ja" },
+      { title: "SDWヒーローズ 78代目武者頑駄無 、中身が気になったので開けてみた！", url: "https://www.youtube.com/watch?v=Vq9rc2vliYw", lang: "ja" },
+    ],
   },
   {
     id: "sdw-heroes-onmitsu-gundam-aerial",
@@ -17662,8 +17683,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/sdw-heroes-onmitsu-gundam-aerial.jpg",
     tags: ["SDW HEROES", "SDガンダム", "Bandai", "エアリアル", "BOX0011"],
     description: "《SDガンダムワールド ヒーローズ》以歷代高達機體為基礎，融入日本傳統文化意象重新塑造角色。「隠密ガンダムエアリアル」以《機動戦士ガンダム 水星の魔女》人氣機體「ガンダムエアリアル」為原型，賦予其「忍者／隱密」的和風設定，白藍配色的輕裝甲搭配金色頭飾與猙獰面具護具，背後大型羽狀裝甲呈現焦褐漸層色，宛如展翅的隱形忍鳥。套件武裝配置忍者風格的雙刃武器，關節採可動性高的設計，可擺出俐落的潛行與突擊姿態；面具護具與胸甲細節分色精緻，無須額外塗裝即可重現原案的和風忍者氣質。作為水星魔女機體首度融入SDW HEROES世界觀的角色之一，是系列中話題度頗高的跨作聯動企劃。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SDW HEROES 隠密ガンダムエアリアル レビュー", url: "https://gundamsblog.net/ガンプラ/sdw-heroes-隠密ガンダムエアリアル", lang: "ja" },
+      { title: "【ガンプラ】SDW HEROES 隠密ガンダムエアリアル レビュー", url: "https://gunplapocchi.com/sd-onmitu-gundam-aerial/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "SDW HEROES 隠密ガンダムエアリアル、中身が気になったので開けてみた！", url: "https://www.youtube.com/watch?v=lq0AJ_rknR4", lang: "ja" },
+      { title: "【新商品レビュー】復活の輝羅鋼！SDW HEROES 隠密ガンダムエアリアルの細かなディテールを徹底レビュー", url: "https://www.youtube.com/watch?v=n-yVq0xLmpE", lang: "ja" },
+    ],
   },
   {
     id: "hg-ryujinmaru",
@@ -17680,7 +17707,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-ryujinmaru.jpg",
     tags: ["魔神英雄伝ワタル", "HG", "Bandai", "龍神丸", "BOX0011"],
     description: "《魔神英雄伝ワタル》是1988年播出的經典機甲動畫，講述少年獅子王神隼人駕駛守護神「龍神丸」，穿梭異世界拯救創界山的冒險故事，是80年代末機甲動畫的代表作之一，也是SD鋼彈風潮之外另一條深植人心的機戰血脈。「龍神丸」是劇中主角機，藍白為基調的裝甲搭配紅色戰甲與金色角飾，胸口鑲有象徵神聖之力的紋章，造型剛毅威武。此HG套件重現原作圓潤厚重的機身比例，肩部與四肢皆具備良好可動範圍，可擺出揮拳格鬥的招牌姿態；配色貼合動畫設定，無須額外塗裝即具備高完成度。作為老牌機戰IP時隔多年重新推出的立體化商品，是懷舊機甲迷與模型玩家共同期待的一款。",
-    reviews: [],
+    reviews: [
+      { title: "HG 龍神丸 レビュー", url: "https://gundamsblog.net/魔神英雄伝ワタル/hg-龍神丸", lang: "ja" },
+      { title: "HG 龍神丸 レビュー", url: "https://schizophonic9.com/re8/hg_ryujinmaru.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -17698,8 +17728,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/legend-bb-versal-knight-gundam.jpg",
     tags: ["SD騎士ガンダム", "LEGEND BB", "SDガンダム", "Bandai", "BOX0011"],
     description: "「騎士ガンダム」是SD鋼彈最早展開的支線世界觀之一，以中世紀西洋騎士為造型意象，勇者屠龍的王道敘事奠定了SD鋼彈文化的原點地位。「バーサル騎士ガンダム」是騎士鋼彈傳說中蘇達多雅魯卡騎士團階級最高的「バーサル（Versal）」騎士，此「LEGEND BB」系列第399彈以復古骨架重新演繹此經典角色，銀白色裝甲搭配貓頭鷹造型頭盔與胸前紅色寶珠，展現不同於主角騎士鋼彈的威嚴貴族氣質。套件配備長劍與異形武裝，各部位關節採球型可動設計，可靈活擺出騎士交戰姿勢；金屬感塗裝零件呈現細膩的光澤層次。作為LEGEND BB系列中復刻早期人氣配角的一款，深受SD騎士鋼彈系譜收藏者喜愛。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【レジェンドBB】バーサル騎士ガンダム レビュー【BB戦士】", url: "https://gunplapocchi.com/bb-versal-knight-gundam/", lang: "ja" },
+      { title: "LEGEND BB バーサル騎士ガンダム レビュー", url: "https://schizophonic9.com/re3/bb_versal.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "騎士ガンダムの最終形態・・・ではない！？ レジェンドBBバーサル騎士ガンダムレビュー【マキゆかずっこけおもちゃ箱】", url: "https://www.youtube.com/watch?v=j_LnitDmWe8", lang: "ja" },
+    ],
   },
   {
     id: "hg-cybaster",
@@ -17716,8 +17751,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-cybaster.jpg",
     tags: ["スーパーロボット大戦OG", "HG", "Bandai", "サイバスター", "BOX0011"],
     description: "《スーパーロボット大戦OG》系列中，「サイバスター」是搭載龍神脈動系統、由飛鳥刹那等人駕駛的和風異形機體，以中國龍為設計意象，展開的蝙蝠狀巨翼與尖銳鎧甲輪廓辨識度極高，是機戦世界觀中人氣長青的招牌機體之一。此HG套件為紀念《スーパーロボット大戦》系列30周年推出，箱繪由知名機械設計師大張正己親自繪製。套件全身以白紫雙色為主調，肩部與背部巨翼採多關節設計，可自由展開呈現振翅姿態；標誌性武裝「音速劍」與龍首護手細節分色精緻，並附專用展示台座供飛翔姿勢展示。作為機戦30周年紀念商品之一，是OG系列粉絲與机战鋼普拉收藏者高度關注的話題機體。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "HG サイバスター レビュー", url: "https://schizophonic9.com/re7/hg_cybaster.html", lang: "ja" },
+      { title: "HG サイバスター 素組みレビュー", url: "https://www.tsumipla-factory.com/entry/hgcybaster", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【バンダイ遂にスパロボ参戦！塗装不要の成型色】HG サイバスター スーパーロボット大戦OG", url: "https://www.youtube.com/watch?v=E4cBarYkxhE", lang: "ja" },
+      { title: "【HGでサイバスターが登場！サイバードに変形可能！】HG サイバスター レビュー", url: "https://www.youtube.com/watch?v=CSZ4tNZElZc", lang: "ja" },
+    ],
   },
   {
     id: "hg-ryuseimaru",
@@ -17734,8 +17775,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-ryuseimaru.jpg",
     tags: ["魔神英雄伝ワタル2", "HG", "Bandai", "龍星丸", "BOX0011"],
     description: "《魔神英雄伝ワタル2》是《魔神英雄伝ワタル》的續篇動畫，故事舞台移至新的創界山世界，「龍星丸」是劇中登場的黃金魔神，與前作主角機「龍神丸」同屬龍系守護神譜系，全身以金紅為主色調，頭部飾有火焰狀角飾與獠牙面甲，造型較龍神丸更顯華麗霸氣。此HG套件重現原作圓潤厚重的機身輪廓，胸甲與肩部裝甲以電鍍及金屬感塗裝零件呈現，無須額外塗裝即具備高完成度；四肢關節可動範圍良好，可擺出格鬥架勢。作為與龍神丸相呼應的續篇主角機，是老牌機甲IP時隔多年推出的立體化商品，對系列老粉絲而言別具紀念意義。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "HG 龍星丸 レビュー", url: "https://schizophonic9.com/re8/hg_ryuseimaru.html", lang: "ja" },
+      { title: "【魔神英雄伝ワタル2】HG龍星丸を重厚感のある金属色、懐かしいプロポーションに調整する", url: "https://hjweb.jp/article/956596/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【餓模人開箱】HG 龍星丸 魔神英雄伝ワタル2", url: "https://www.youtube.com/watch?v=gDQrzqoYMTE", lang: "zh" },
+      { title: "【ワタル】よみがえるHG龍星丸 プレミアムバンダイ限定", url: "https://www.youtube.com/watch?v=9qVXzM5yfCI", lang: "ja" },
+    ],
   },
   {
     id: "sdw-heroes-alternative-justice-infinity-dragon",
