@@ -18264,7 +18264,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/saint-aries-mu-original.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "黄金聖闘士", "初版"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。白羊座ムウ是十二黃金聖鬥士之一，鎮守聖域第一宮，個性沉穩超然、精通聖衣修復絕技，是唯一能修補其他聖鬥士損毀聖衣的關鍵角色，亦是青銅聖鬥士一輝、紫龍等人的重要師長輩人物。本商品為2005年發售的「聖闘士聖衣神話」系列初版商品，尚未冠上後續「EX」子系列名稱，是奠定該系列可動人偶規格的早期經典商品之一，重現ムウ標誌性的紫髮金聖衣造型與招牌的星痣印記，並附替換武器配件與斗篷。作為系列草創期就推出的重要角色商品，見證聖闘士聖衣神話從初代模具逐步進化到後續EX、リバイバル版等規格的發展歷程，是喜愛收藏系列初版舊模具、比較世代差異的資深玩家珍視的一件。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：アリエスムウ [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/aries-mu/", lang: "ja" },
+      { title: "牡羊座 アリエスのムウ | 聖闘士聖衣神話 レビュー", url: "https://ameblo.jp/saint-cloth-myth/entry-11120093619.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18302,6 +18305,7 @@ export const collection: CollectibleItem[] = [
     description: "《聖闘士星矢》北歐アスガルド篇中，「ポラリスヒルダ」是統帥七位神闘士的北歐諸神地上代行者，遭邪神洛基蠱惑操控意識，率領麾下戰士對抗前來拯救她的聖鬥士一行，是篇章中集悲劇色彩與強大戰力於一身的核心角色。本商品採用系列現行「3rd女性素體」重新開發，頭部與各式裝飾品皆由知名雕形師南田香名操刀全新造型，相較舊版素體大幅提升自立穩定度與比例協調性，長髮零件並改為球體關節連接、兼顧展示重心平衡。標配豐富替換配件可重現劇中多個經典名場面，其標誌性武裝巴爾蒙克之劍亦為新規造形，並以塗裝重現高潮场面中沾染血色的細節演出。作為北歐篇女性角色收藏中規格最高的一款，是聖闘士聖衣神話系列蒐藏中兼具劇情張力與造形技術突破的代表作。",
     reviews: [
       { title: "聖闘士聖衣神話 ポラリスヒルダ-オーディーンの地上代行者- レビュー", url: "https://hacchaka.net/archives/52096105.html", lang: "ja" },
+      { title: "聖闘士聖衣神話 : ポラリスヒルダ-オーディーンの地上代行者- [レビュー]", url: "https://toroplus.blog/saintclothmyth-godwarrior/polarishilda-odinagency/", lang: "ja" },
     ],
     youtube: [],
   },
@@ -18320,7 +18324,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/saint-cygnus-hyoga-original.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "青銅聖闘士", "初版"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。白鳥座氷河是主角星矢的重要夥伴，師承水瓶座カミュ，擅長冰系絕技「ダイヤモンドダスト」與「オーロラエクスキューション」，性格冷靜卻對亡母懷有深厚思念，是青銅五小強中人氣極高的角色。本商品重現原作漫畫最初登場時的「初期青銅聖衣」造型，與後續強化版本形成鮮明對比，屬「聖闘士聖衣神話」系列初版商品，尚未冠上後續「EX」子系列名稱，是奠定該系列可動人偶規格的早期經典商品，適合喜愛收藏聖衣進化歷程、比較新舊世代模具規格的資深玩家。",
-    reviews: [],
+    reviews: [
+      { title: "第72弾 キグナス氷河 初期青銅聖衣 | 聖闘士聖衣神話 レビュー", url: "https://ameblo.jp/saint-cloth-myth/entry-10885248792.html", lang: "ja" },
+      { title: "聖闘士聖衣神話：キグナス氷河 初期青銅聖衣 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/cygnushyoga-fastbronze/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18338,7 +18345,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/saint-dragon-shiryu-original.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "青銅聖闘士", "初版"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。龍座紫龍是青銅五小強之一，個性沉穩堅毅，擅長「廬山昇龍覇」等剛猛拳法，屢次以肉身抵擋強敵攻擊守護同伴，是系列中意志力象徵的代表角色。本商品重現「最終聖戦」篇章中紫龍所著的「最終青銅聖衣」造型，青綠色系搭配金色犄角頭盔為其標誌性特徵，呼應劇情尾聲的最終決戰。本品為2005年發售的「聖闘士聖衣神話」系列初版商品，尚未冠上後續「EX」子系列名稱，是紫龍角色歷程蒐藏中奠定系列早期規格的重點單品，適合喜愛比較新舊世代模具差異的資深玩家。",
-    reviews: [],
+    reviews: [
+      { title: "最終青銅聖衣 ドラゴン紫龍 | 聖闘士聖衣神話 レビュー", url: "https://ameblo.jp/saint-cloth-myth/entry-11120130296.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
