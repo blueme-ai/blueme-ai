@@ -16768,8 +16768,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-narrative-gundam-b-packs-gundam-base.jpg",
     tags: ["BOX0010", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムNT", "ナラティブガンダム", "ガンダムベース限定"],
     description: "《機動戦士ガンダムNT》劇場版中，主角機「ナラティブガンダム」可依任務需求換裝A、B、C三種不同背包裝備，其中B裝備搭載特色武裝「有線遠隔攻撃端末」，並在雙臂配備小型盾牌，象徵機體在特定戰術情境下靈活支援的攻擊型態。本商品為ガンダムベース限定販售版本，將ナラティブガンダム本體與B裝備擴充套組一同收錄，方便玩家一次購入即可完整組裝出B裝備形態。套件重現有線遠隔攻撃端末可拆卸展示、以鉛線重現纜線連接效果，並可搭配Action Base 4、5展示攻擊發射姿勢。作為僅在THE GUNDAM BASE店鋪限定販售的版本，具備一定稀有性與收藏價值，是鋼彈基地限定商品愛好者關注的品項之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "HG 1/144 ガンダムベース限定 ナラティブガンダム B装備 レビュー", url: "https://gunplakishidan.com/gunpla-nt-b/", lang: "ja" },
+      { title: "【HGUC】ナラティブガンダム B装備【ガンダムベース限定】レビュー", url: "https://plenum756.com/blog/gundambase/narrative-bpacks/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "ガンプラ 素体からB装備へ「HGUC 1/144 ナラティブガンダム B装備」開封・組立・素組レビュー/機動戦士ガンダムNT/プレバン", url: "https://www.youtube.com/watch?v=P4Avy0EIzGo", lang: "ja" },
+      { title: "【HGUC 1/144 ナラティブガンダム Ｂ装備】ガンダムベース限定販売のＢ装備をレビュー", url: "https://www.youtube.com/watch?v=bKrgamUIgvA", lang: "ja" },
+    ],
   },
   {
     id: "rg-unicorn-gundam-ver-twc",
@@ -16788,8 +16794,11 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダムUC》是鋼彈UC系列的核心作品，描述主角バナージ・リンクス駕駛「ユニコーンガンダム」揭開新吉翁殘黨與地球聯邦間爭奪「拉普拉斯之盒」秘密的故事。「Ver.TWC」是為紀念設置於東京台場（現東京海濱城TOKYO WATER CITY）的真人尺寸獨角獸鋼彈立像而推出的ガンダムベース限定版本，由機械設計師加藤單監修追加專屬水貼紙，並更改背包造型與雙手零件規格以貼近該尊立像的實際外觀。本商品為RG規格製品，具備獨角獸模式與毀滅模式雙形態切換機構、精細內部骨架結構與角面板的色分表現，另附白色專用展示台座。作為僅限鋼彈基地販售、呼應東京地標人氣立像的紀念商品，兼具高完成度與紀念收藏意義。",
     reviews: [
       { title: "FULL REVIEW: RG 1/144 THE GUNDAM BASE LIMITED RX-0 UNICORN GUNDAM Ver.TWC", url: "https://www.gunjap.net/site/?p=328571", lang: "en" },
+      { title: "RG ガンダムベース限定 ユニコーンガンダム［デストロイモード］ Ver.TWC ［LIGHTING MODEL］ レビュー", url: "https://dendero.blog.jp/archives/17999022.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "（RGユニコーンが発光！しかも色が変わる！！）RG ガンダムベース限定 RX-0 ユニコーンガンダム（デストロイモード）Ver.TWC［LIGHTING MODEL］レビュー", url: "https://www.youtube.com/watch?v=TETDjQHjkvA", lang: "ja" },
+    ],
   },
   {
     id: "rg-unicorn-gundam-perfectibility",
@@ -16850,8 +16859,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/re100-jagd-doga-gyunei-special-coating.jpg",
     tags: ["BOX0010", "ガンプラ", "RE/100", "1/100", "Bandai", "逆襲のシャア", "ヤクト・ドーガ", "スペシャルコーティング"],
     description: "《機動戦士ガンダム 逆襲のシャア》為1988年上映的鋼彈系列劇場版，描繪夏亞・アズナブル率領新吉翁與地球聯邦軍在小行星「アクシズ」墜落危機下的最終決戰。「ヤクト・ドーガ」是新吉翁的主力量產機，本商品重現夏亞親信部下ギュネイ・ガス所駕駛的座機，機體特徵為肩部搖擺機構與可拆卸展示待機、展開兩種狀態的背部「ファンネル」浮游砲。「スペシャルコーティング」版本以電鍍加工搭配金屬質感成形色，重現原作設定中帶有奢華厚重感的配色，開箱即具備高完成度的金屬光澤效果。套件所有六具ファンネル浮游砲皆可個別拆裝並重現展開演出姿態，並附有透明展示支架可同時展示全數浮游砲的展開狀態，可相容背包直接安裝或另售的Action Base 4使用，並附水貼紙。作為RE/100系列電鍍限定版本，是逆襲のシャア機體收藏者矚目的高質感商品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【ガンプラ素組みレビュー】RE/100 ヤクト・ドーガ (ギュネイ・ガス機) [スペシャルコーティング]", url: "https://gunpla-garage.com/msn-03-gyunei-special-coating-re-100/", lang: "ja" },
+      { title: "RE/100 ヤクト・ドーガ (ギュネイ・ガス機) [スペシャルコーティング]のレビュー紹介", url: "https://hayamimi-gunpla.com/blog-entry-20039.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "RE100 Gyunei Guss Jagd Doga [Special Coating] Gundam Side-F Limited", url: "https://www.youtube.com/watch?v=BsRkHEw8K9w", lang: "en" },
+    ],
   },
   {
     id: "hg-medd-gundam-base",
@@ -16870,8 +16884,11 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 逆襲のシャア》劇場版中，「メッド」是登場於片頭工業殖民地內、用於太空作業與貨物搬運的工作用モビルポッド，並非戰鬥機動兵器，而是描繪一年戰爭後宇宙世紀日常生活場景中的作業機械，黃色塗裝與圓潤外型使其在劇中留下深刻印象。本商品為ガンダムベース限定販售的HG規格新作，以全新開模呈現，具備可替換的伸長腿部零件、駕駛艙艙蓋開闔機構、以鉛線重現雙臂纜線細節，以及手臂旋轉伸縮機構等演出重現要素。作為劇中背景機械少見被商品化的品項，價格親民且造型獨特討喜，是鋼彈基地限定商品中兼具趣味性與收藏話題性的一款小型作品。",
     reviews: [
       { title: "HG ガンダムベース限定 メッド 完成！", url: "https://zuttogunpla.blog.jp/archives/46844904.html", lang: "ja" },
+      { title: "【HGUC】メッド【ガンダムベース限定】レビュー", url: "https://nazoplamo.com/gundambase/medd/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HGメッド レビュー！逆シャア名脇役MS奇跡のキット化！意外にギミック満載で遊べるガンプラ！【機動戦士ガンダム逆襲のシャア】", url: "https://www.youtube.com/watch?v=RihVmhhT0Vg", lang: "ja" },
+    ],
   },
   {
     id: "hg-monkey-rodi",
@@ -16891,7 +16908,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG モンキーロディ（598機）/モンキークラブロディ レビュー", url: "https://hobby.watch.impress.co.jp/docs/review/2066780.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【オルフェンズ】ジオン水泳部を彷彿とさせるフォルム！モンキーロディ(598機)をレビュー！【ウルズハント】", url: "https://www.youtube.com/watch?v=w5kd-r7JJ3g", lang: "ja" },
+      { title: "HG 1/144 モンキーロディ(598機)/モンキークラブロディをポージングレビュー！ランドマンロディとも徹底比較！", url: "https://www.youtube.com/watch?v=pwS7iYW6inY", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-zagan",
@@ -16911,7 +16931,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG ガンダムザガン レビュー【機動戦士ガンダム 鉄血のオルフェンズ ウルズハント】", url: "https://schizophonic9.com/re9/hg_zagan.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】ガンダムフレームが大幅強化！HGガンダムザガンをレビュー", url: "https://www.youtube.com/watch?v=XFaeQLhZdjI", lang: "ja" },
+      { title: "【鉄オル】積んだ事を後悔するカッコよさだったHGガンダムザガン【フルプラ工場】", url: "https://www.youtube.com/watch?v=-9nPINEWwmU", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-asmodeus",
@@ -16973,7 +16996,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG ガンダムグシオン レビュー", url: "https://schizophonic9.com/re3/hg_gusion.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "（こう見えてもガンダムフレーム）HG ガンダムグシオン 完成レビュー", url: "https://www.youtube.com/watch?v=usogxn_MtAM", lang: "ja" },
+      { title: "（重厚感ある独特なデザインを再現！グシオンハンマーを装備！）HG 1/144 ガンダムグシオン レビュー", url: "https://www.youtube.com/watch?v=EhVN7LtkYlA", lang: "ja" },
+    ],
   },
   {
     id: "hg-hyakuri",
@@ -16993,7 +17019,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG 百里 レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E7%99%BE%E9%87%8C", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラレビュー】# 112 [HG IBO 1/144 STH-14s 百里] 005", url: "https://www.youtube.com/watch?v=Oyqsu-1p890", lang: "ja" },
+    ],
   },
   {
     id: "hg-mobile-armor-hashmal",
@@ -17013,7 +17041,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG モビルアーマー ハシュマル レビュー", url: "https://schizophonic9.com/re4/hg_hashmal.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラレビュー#233 [HG IBO 1/144 モビルアーマー ハシュマル] 029", url: "https://www.youtube.com/watch?v=Q8Umf_nGT_E", lang: "ja" },
+      { title: "【鉄オル】デカイのに組み立て優しいガンプラHGハシュマル【フルプラ工場】", url: "https://www.youtube.com/watch?v=rQB9mgMhG08", lang: "ja" },
+    ],
   },
   {
     id: "hg-reginlaze-julieta",
