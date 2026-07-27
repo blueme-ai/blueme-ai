@@ -17063,8 +17063,12 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，治安維持組織「ギャラルホルン（Gjallarhorn）」為汰換老舊的グレイズ系列，投入最新改良型量產機「レギンレイズ（Reginlaze）」，較前代擁有更寬闊厚實的上半身與強化裝甲。本商品重現劇中指揮官角色ジュリエッタ・ジュリス所駕駛的專屬機，配色由制式灰改為深綠與白色雙色塗裝，凸顯其身為精銳指揮官機的識別度。套件標誌性武裝為附帶錨爪的雙劍「ツインパイル」、步槍與強化拳套「ガントレット」，並附替換用指揮官專用頭部零件；手腕部位採用可旋轉調整角度的關節設計，握持武器姿態更為靈活多變。作為鐵血系列後期量產機的代表作，兼具經濟實惠的價位與紮實可動性，是重現ギャラルホルン精銳部隊戰鬥場景不可或缺的一款套件。",
     reviews: [
       { title: "HG モビルレギンレイズ（ジュリエッタ機） レビュー", url: "https://schizophonic9.com/re4/hg_reginlaze.html", lang: "ja" },
+      { title: "HG モビルレギンレイズ（ジュリエッタ機） レビュー", url: "https://gundamsblog.net/ガンプラ/hg-モビルレギンレイズ（ジュリエッタ機）", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "（ジュリエッタ専用のツインパイルを装備！）HG 1/144 モビルレギンレイズ(ジュリエッタ機) レビュー", url: "https://www.youtube.com/watch?v=Rh_b6jXKSUs", lang: "ja" },
+      { title: "ガンプラレビュー#213 [HG IBO 1/144 EB-08s モビルレギンレイズ（ジュリエッタ機）] 024", url: "https://www.youtube.com/watch?v=ybqRtlBt3rA", lang: "ja" },
+    ],
   },
   {
     id: "hg-hekija",
@@ -17083,8 +17087,11 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「辟邪（ヘキジャ）」是宇宙運輸集團「タービンズ（Turbines）」旗下配備的新型MS，由巾幗女傑ラフタ・フランクランド（Lafter Frankland）等成員駕駛，擅長近距離突擊與游擊戰術，是與鐵華團並肩作戰的重要盟軍兵力之一。其名取自中國傳說中鎮邪辟兇的靈獸「辟邪」，造型融合猛獸般的獠牙輪廓與流線裝甲，在鐵血MS設計中獨具異色的東方意象。套件配備可掛載於腰部的刺刀步槍，以及形似獠牙的近戰武器「飛口ブレード（Tobi-Guchi Blade）」，透過零件差替可重現突擊形態的姿態變化。金屬灰搭配墨綠的塗裝經色分件呈現，價格親民且組裝門檻低，是鐵血系列第2期陣容中兼具角色魅力與造型辨識度的一款人氣套件。",
     reviews: [
       { title: "ガンプラ新作レビュー【HG 1/144 辟邪】を作ってみた!!", url: "https://hobby.dengeki.com/reviews/322124/", lang: "ja" },
+      { title: "HG辟邪（ヘキジャ）のレビューです。", url: "https://gundamsblog.net/ガンプラ/hg辟邪（ヘキジャ）", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "(ガンプラ) 鉄血のオルフェンズ HG 1/144 辟邪 レビュー IRON-BLOODED ORPHANS HG 1/144 HEKIJA", url: "https://www.youtube.com/watch?v=eX1el4LptyI", lang: "en" },
+    ],
   },
   {
     id: "hg-io-frame-shiden",
@@ -17103,8 +17110,11 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，隨著鐵華團規模擴大，團內新配備了以巴巴托斯所使用的「イオ・フレーム」技術部分再現的新型量產機「獅電」，作為團員們的標準戰鬥機體投入前線。套件局部重現鋼彈骨架系「イオ・フレーム」的機構意匠，並搭載開闔式面罩，可展現感應器外露的特寫演出效果，是鐵血系列中少見將骨架美學延伸至量產機體的設計嘗試。武裝方面附有巨大暴動盾「ライオットシールド」、可伸縮的長柄戟「パルチザン」、步槍與強化拳套等豐富配件，暗紅與灰色的塗裝組合展現鐵華團機體樸實剛硬的一貫風格。作為鐵血系列後期陣容的主力戰力代表，是重現鐵華團團員集體作戰場面不可或缺的一款套件。",
     reviews: [
       { title: "HG イオフレーム獅電 レビュー", url: "https://gundam-fun.hatenablog.com/entry/2016/12/30/231144", lang: "ja" },
+      { title: "HG イオフレーム獅電 （テイワズ所属機） レビュー", url: "https://gundamsblog.net/ガンプラ/hg-イオフレーム獅電-（テイワズ所属機）", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【HGガンプラ】まさかの内部フレーム搭載：鉄血のオルフェンズ：イオフレーム獅電レビュー【フルプラ工場】", url: "https://www.youtube.com/watch?v=eb6REI0n7mU", lang: "ja" },
+    ],
   },
   {
     id: "hg-ortlinde",
@@ -17123,8 +17133,12 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》是描寫本傳背景下另一段插曲的外傳漫畫，聚焦於管理鐵華團所在地周邊治安的「ナディラ家」及其麾下部隊。「オルトリンデ」是ナディラ家內部統制部隊隊長ジジル・ジジン所駕駛的「ヴァルキュリア・フレーム」機體，與HG グリムゲルデ共享同源骨架技術，卻透過全新造形外裝呈現截然不同的騎士風格輪廓，頭部羽飾與左肩十字紋章皆以成形色精細重現。標誌性武裝「ヴァルキュリアダブルブレード」可自由切換合體長槍與雙劍分持兩種形態，左肩的盾牌護甲「シールドバインダー」具備多關節可動設計，能靈活隨機體動作角度變化。作為プレミアムバンダイ限定販售商品，是月鋼外傳粉絲與鐵血系列骨架機體收藏者不容錯過的一款進階套件。",
     reviews: [
       { title: "HG オルトリンデ レビュー", url: "https://schizophonic9.com/re8/hg_oltlinde.html", lang: "ja" },
+      { title: "【ガンプラ】HG 1/144 オルトリンデ レビュー【プレバン】", url: "https://gunplapocchi.com/gunpla-oltlinde/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "2023年9月プレバン新ガンプラ【HG1/144 オルトリンデ】ヴァルキュリアフレームを採用したダインスレイヴ運搬用モビルスーツ！", url: "https://www.youtube.com/watch?v=_rRIkiut9Gs", lang: "ja" },
+      { title: "P-Bandai HG Oltlinde Review | Gundam Iron-Blooded Orphans - Gekko", url: "https://www.youtube.com/watch?v=vuUJJuqx_S0", lang: "en" },
+    ],
   },
   {
     id: "hg-gundam-hajiroboshi-2nd-form",
@@ -17143,8 +17157,12 @@ export const collection: CollectibleItem[] = [
     description: "《Urdr-Hunt》外傳中，主角ウィスタリオ・アファム所駕駛的「ガンダム端白星」在與無人兵器部隊的激戰中身負重創，其後於金星基地接受大規模改修，以嶄新姿態「第2形態」重返戰場，本商品即為此形態首次立體化的HG套件。套件針對胸部、肩部與腰部背包等關鍵部位進行全新開模，配色改變的胸甲以色分件精準重現；大型化的腰部推進背包搭載可多軸活動的推進單元，尾翼部分亦可個別展開，充分展現改修後機動性能躍升的設定。武裝方面新增專屬的十字骨錘「クロスメイス」與輕巧的「スマートクローシールド」，兩者皆可透過3mm軸掛載於手臂關節；下部裝甲可滑動配合鉛線零件重現劇中登場的鋼索錨「ワイヤーアンカー」發射狀態，是Urdr-Hunt系列中演出重現度極高的話題新作。",
     reviews: [
       { title: "HG ガンダム端白星 第2形態 レビュー", url: "https://schizophonic9.com/re8/hg_hajiroboshi2nd.html", lang: "ja" },
+      { title: "HG ガンダム端白星 第2形態 レビュー", url: "https://gundamsblog.net/ガンプラ/hg-ガンダム端白星-第2形態", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "[組立配信] HG ガンダム・端白星第2形態", url: "https://www.youtube.com/watch?v=MbnQ-10FU-U", lang: "ja" },
+      { title: "ガンダム端白星 第2形態", url: "https://www.youtube.com/watch?v=eDkgrGu44jQ", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-vual",
@@ -17163,8 +17181,12 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》外傳中，「ガンダムウヴァル」是與「ガンダムアスタロト」相對立的鋼彈骨架敵方機體，通體以漆黑塗裝呈現壓迫感十足的異色形象，部分裝甲設計亦與「ガンダムアスタロトオリジン」相互呼應，暗示兩者同源於災厄戦争時代的技術脈絡。套件搭載原創的背包展開機構，將裸露的鋼彈骨架手臂造型首度以HG系列規格具體重現，是骨架系機體愛好者矚目的一款作品。武裝方面附有礦業用大鎚「マイニングハンマー」、長柄戰斧「グレイブ」與圓形重盾「スパルタンシールド」等多種武裝配件，並可透過腰部與背部關節與其他「HG 鉄血のオルフェンズ系列」機體進行零件互換與混搭改裝，延伸更多元的自訂玩法，是月鋼外傳系列中造型與可玩性兼具的代表機體。",
     reviews: [
       { title: "HGガンダムウヴァル レビュー", url: "https://schizophonic9.com/re4/hg_vual.html", lang: "ja" },
+      { title: "HGIBO ガンダムウヴァル レビュー", url: "https://dendero.blog.jp/archives/17998964.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG 1/144 Gundam Vual - IRON BLOODED ORPHANS - Mecha Gaikotsu Gunpla REVIEW", url: "https://www.youtube.com/watch?v=MXiFJp7n6Hg", lang: "en" },
+      { title: "1174 - HGIBO Gundam Vual (OOB Review)", url: "https://www.youtube.com/watch?v=4zN3G11oa-4", lang: "en" },
+    ],
   },
   {
     id: "hg-gundam-gremory",
@@ -17227,8 +17249,12 @@ export const collection: CollectibleItem[] = [
     description: "《Urdr-Hunt》外傳中，「ガンダム端白星」是主角ウィスタリオ・アファム所駕駛的主力機體，是本作世界觀的核心象徵機。套件以鋼彈骨架4號機（ガンダムフレーム4）為基礎，前臂部位局部採新規造形，全新開模重現機體標誌性的三根天線與可動後部推進器組件，淡紫白為主色調搭配紅、黑點綴的塗裝經色分件與貼紙點綴精細呈現。標誌性裝備為可左右展開變形爪部並具備發射針刺演出的可變盾牌「クラブシールド」、大型戰鎚「スマートメイス」，以及110mm短程步槍，武裝組合充分展現此機於劇中近戰為主的戰鬥風格。作為Urdr-Hunt系列的門面機體，是本商品線中辨識度最高、也最具人氣的入門代表作，後續更推出經改修的「第2形態」延續其劇情發展脈絡。",
     reviews: [
       { title: "HG ガンダム端白星 レビュー", url: "https://schizophonic9.com/re6/hg_hajiroboshi.html", lang: "ja" },
+      { title: "HG ガンダム端白星 レビュー", url: "https://gundamsblog.net/ガンプラ/hg-ガンダム端白星", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HGIBO Gundam Hajiroboshi - Iron Blooded Orphans Urdr Hunt UNBOXING and Review", url: "https://www.youtube.com/watch?v=2KXFRVoFBjg", lang: "en" },
+      { title: "HG 1/144 Hajiroboshi | REVIEW", url: "https://www.youtube.com/watch?v=EIMBe93djjI", lang: "en" },
+    ],
   },
   {
     id: "hg-geirail",
@@ -17247,8 +17273,12 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「ゲイレール」是補完「グレイズ・フレーム」發展歷程的新型量產機，由傭兵ガラン・モッサ等角色駕駛登場，其結構承襲了初代グレイズ的內構骨架，外裝與機械造型則以全新零件重新設計，呈現承先啟後的過渡機體形象。套件在保留グレイズ既有可動基礎之上，賦予其獨立的外觀識別度，兼具開發脈絡上的考據意義與嶄新的視覺個性。武裝方面附有可變形的「盾斧（シールドアックス）」、110mm步槍，以及可掛載於背部、能拆卸的懸浮推進裝置「ホバーユニット」，展現此機體兼顧空中機動與近戰打擊的多樣戰術運用。作為鐵血系列中價格親民、組裝門檻低的一款套件，是補完グレイズ系機體收藏脈絡不可或缺的一員。",
     reviews: [
       { title: "HG ゲイレール レビュー", url: "https://gundam-fun.hatenablog.com/entry/2017/05/19/023104", lang: "ja" },
+      { title: "HG ゲイレール レビュー", url: "https://gundamsblog.net/ガンプラ/hg-ゲイレール", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG Geirail Review", url: "https://www.youtube.com/watch?v=T9e7gB_k1ns", lang: "en" },
+      { title: "897 - HGIBO Geirail (OOB Review)", url: "https://www.youtube.com/watch?v=vECqyH7psSQ", lang: "en" },
+    ],
   },
   {
     id: "hg-hugo",
@@ -17267,8 +17297,12 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「ユーゴー」是新興勢力「暁の地平団（Horizon of the Dawn）」旗下配備的新型MS，採用全新設計的骨架結構，兜帽狀的頭部與利爪般的足部造型使其在鐵血眾多機體中獨具個性，與同陣營或鐵華團機體皆呈現鮮明的差異化風格。套件標誌性武裝為造型優雅的新月形彎刀，可收納掛載於背部，另附機槍與內建鋼索的錨爪武器「ワイヤークロー」，供玩家重現纏繞牽制與突襲戰術的多樣戰鬥姿態。整體零件分割精簡、組裝容易，肩甲上緣等少數部位需搭配貼紙點綴即可完成塗裝級的色彩呈現，是鐵血系列第2期陣容中兼具特色與親民價位的一款人氣套件，後續更推出雙子兄弟駕駛的「ツインセット」限定版本延伸收藏話題。",
     reviews: [
       { title: "HG ユーゴー レビュー", url: "https://schizophonic9.com/re4/hg_hugo.html", lang: "ja" },
+      { title: "HG ユーゴー レビュー - 鉄血のオルフェンズ", url: "https://schizophonic9-2.com/blog-entry-2961.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG 1/144 Hugo - IRON BLOODED ORPHANS - Gunpla Review 鉄血のオルフェンズ", url: "https://www.youtube.com/watch?v=2D40RQ_jloo", lang: "en" },
+      { title: "HG 1/144 HUGO - Iron Blooded Orphans [REVIEW]", url: "https://www.youtube.com/watch?v=JSVinoZoOSo", lang: "en" },
+    ],
   },
   {
     id: "hg-sigrun",
@@ -17309,8 +17343,12 @@ export const collection: CollectibleItem[] = [
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》外傳中，「ガンダムアスタロトオリジン」是後續「ガンダムアスタロト」的原始樣貌，同樣採用鋼彈骨架4號機（ガンダムフレーム4）為基底，除骨架外幾乎所有外裝零件皆為全新開模，以鮮明的紅色塗裝呈現截然不同於後繼機的凌厲氣勢。武裝方面配備多型態組合武器，包含伽瑪奈米積層劍「ガンマナノラミネートソード」、鏈鎚「スレッジハンマー」與霰彈槍「ショットガン」，三者可自由組合變換型態並掛載於腰部武裝架，重現連結收納狀態；肩部與背部裝甲亦可展開變形，切換為滑翔飛行形態，充分展現此機體多樣化的戰術運用彈性。作為月鋼外傳系列中極具人氣的鋼彈骨架機體之一，其原型與後續機「アスタロト」「アスタロトリナシメント」共同構成一脈相承的機體發展系譜，深受骨架機收藏者青睞。",
     reviews: [
       { title: "HG ガンダムアスタロトオリジン レビュー", url: "https://schizophonic9.com/re4/hg_astarothorigin.html", lang: "ja" },
+      { title: "【ガンプラ】HG ガンダムアスタロトオリジン レビュー", url: "https://gunplapocchi.com/gunpla-gundam-astaroth-origin/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG Gundam Astaroth Origin Unboxing", url: "https://www.youtube.com/watch?v=ZFqSEgneVHI", lang: "en" },
+      { title: "803 - HGIBO Gundam Astaroth Origin UNBOXING", url: "https://www.youtube.com/watch?v=GFdOR_AAq3Q", lang: "en" },
+    ],
   },
   {
     id: "haropla-haro-solid-clear",
