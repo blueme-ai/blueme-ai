@@ -17799,8 +17799,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/sdw-heroes-alternative-justice-infinity-dragon.jpg",
     tags: ["SDW HEROES", "THE LEGEND OF DRAGON KNIGHT", "SDガンダム", "Bandai", "ドラゴン", "BOX0011"],
     description: "「THE LEGEND OF DRAGON KNIGHT」龍騎士支線中，「オルタナティブジャスティス インフィニットドラゴン」以人氣機體「ジャスティスガンダム」為原型意象，全身以藍紫雙色搭配透明零件構成，尖銳的水晶狀裝甲與獸型頭部護具交織出神秘而冷冽的氣場，與同支線中金色調的光明系龍形機體形成強烈對比。套件的翼部與尾部大量運用多關節構造，可自由調整開合角度與姿態；透明藍色零件的運用使機身在光線下呈現通透層次，無須額外塗裝即能重現設定畫的華麗質感。作為龍騎士支線中人氣角色代表之一，其精緻分色與可動性使其成為SDW HEROES收藏中極具視覺張力的一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SDW HEROES オルタナティブジャスティス インフィニットドラゴンのパッケージ・ランナー レビュー", url: "https://gundamsblog.net/ガンプラ/sdwh-oj-インフィニットドラゴンのパッケージ", lang: "ja" },
+      { title: "【ガンプラ】SDW HEROES オルタナティブジャスティス インフィニットドラゴン レビュー", url: "https://gunplapocchi.com/sd-alternative-justice-infinite-dragon/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "SD Gundam World Heroes The Legend of Dragon Knight No.31 - Alternative Justice Infinite Dragon", url: "https://www.youtube.com/watch?v=lwax3DQMj10", lang: "en" },
+      { title: "SDW Heroes Alternative Justice Infinite Dragon", url: "https://www.youtube.com/shorts/7WUmQIoyN2U", lang: "en" },
+    ],
   },
   {
     id: "moderoid-eldora-v",
@@ -17818,8 +17824,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-eldora-v.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "ガン×ソード", "Gun X Sword", "GSC0002"],
     description: "《ガン×ソード》（Gun X Sword）是2005年播出的原創機械人動畫，融合美國西部拓荒與太空歌劇元素，描寫主角ヴァン（Van）駕駛巨大機體「エルドラV」，一邊在無邊荒野中討伐罪犯，一邊追尋殺害未婚妻的仇人的復仇之旅，獨樹一格的美式西部風格與硬派機甲設計使其在當年動畫迷間留下深刻印象。エルドラV外型融合牛仔帽狀頭部與寬肩厚甲的粗獷造型，右臂搭載招牌巨型鑽頭武器「ドリル」，是作品最具識別度的標誌畫面。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可完成組裝，全高約200mm，可動關節完整重現機體站姿與揮拳動作，是懷舊機甲動畫粉絲不可錯過的收藏品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MODEROID エルドラV レビューその１", url: "https://schizophonic9.com/re8/moderoid_eldoraV.html", lang: "ja" },
+      { title: "レビュー390 MODEROID エルドラV", url: "https://syoku-gun.blog/moderoid　エルドラv/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "レッツゴー! エルドラド!【MODEROID エルドラV】5大のメカが完全合体！ ヲタファのプラモレビュー", url: "https://www.youtube.com/watch?v=4Sl1YTx8tSQ", lang: "ja" },
+      { title: "【MODEROID】エルドラV レビュー【ガン×ソード】【モデロイド】", url: "https://www.youtube.com/watch?v=9KWPnSdGW84", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-sol-sigma-gravion",
@@ -17837,8 +17849,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-sol-sigma-gravion.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "グラヴィオン", "Gravion", "GSC0002"],
     description: "《グラヴィオン》系列是由大張正己執導、GONZO製作的巨大機械人動畫，以誇張華麗的合體演出與熱血機甲美學著稱，續作《グラヴィオンZ》（Gravion Zwei）延續原班人馬設定，講述主角一行人再度迎戰地底文明「D-エンドレス」殘黨的戰鬥。「ソルΣグラヴィオン」是續作中登場的太陽系合體機體，由多台戰機合體組成，延續系列一貫的火焰般紅金配色與尖銳裝甲線條，象徵陽剛而炙熱的戰鬥風格。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約170mm，關節可動性佳，能重現合體機體霸氣站姿，是大張正己機甲美學愛好者的重要收藏。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MODEROID 「ソルΣグラヴィオン」 レビュー", url: "https://myhobby.moo.jp/mode-solsigma/review.html", lang: "ja" },
+      { title: "【MODEROID】ソルΣグラヴィオン パチ組レビュー", url: "https://hobbynotannkyuusitu.com/2023/03/03/【moderoid】ソルσグラヴィオン　パチ組レビュー/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MODEROID ソルΣグラヴィオン", url: "https://www.youtube.com/watch?v=ZakXgYEfB5I", lang: "ja" },
+      { title: "【変形合体解説】炎皇合神！ソルΣグラヴィオン！【MODEROID グラヴィオンシリーズ 第二弾】", url: "https://www.youtube.com/watch?v=cO71RTZ50qw", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-god-gravion",
@@ -17856,8 +17874,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-god-gravion.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "グラヴィオン", "Gravion", "GSC0002"],
     description: "《グラヴィオン》是2002年由大張正己執導、GONZO製作的巨大機械人動畫，描寫少年闘牙シンドウ（Toga Shindo）駕駛主角機「ゴッドグラヴィオン」，與同伴合體迎戰入侵地表的地底帝國「D-エンドレス」的熱血冒險故事，以誇張的合體變身演出與濃烈的男子氣概風格聞名，是2000年代初期機械人動畫的代表作之一。「ゴッドグラヴィオン」由五台戰機合體而成，金色與白色為主體配色，胸前巨大的太陽紋章是全系列最具識別度的標誌設計。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可完成組裝，全高約170mm，可動關節完整重現合體機體的威武站姿，是系列粉絲熱門收藏對象。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【MODEROID・ゴッドグラヴィオン】素組みレビュー！！", url: "https://nodokalife.com/gravion-sugumi", lang: "ja" },
+      { title: "【MODEROID】ゴッドグラヴィオン パチ組レビュー", url: "https://hobbynotannkyuusitu.com/2023/01/05/【moderoid】ゴッドグラヴィオン　パチ組レビュー/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【MODEROID ゴッドグラヴィオン】プラモの限界に挑戦!?", url: "https://www.youtube.com/watch?v=2YLyTW0svbQ", lang: "ja" },
+      { title: "『超重神グラヴィオン』ゴッドグラヴィオン：MODEROID God Gravion", url: "https://www.youtube.com/watch?v=_pCd9tccF8Q", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-god-sigma-gravion",
@@ -17875,8 +17899,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-god-sigma-gravion.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "グラヴィオン", "Gravion", "GSC0002"],
     description: "《グラヴィオンZ》（Gravion Zwei）是2003年播出的《グラヴィオン》續作，同樣由大張正己執導、GONZO製作，延續前作熱血合體機甲風格，講述主角一行人再度迎戰新敵「D-エンドレス」殘黨的故事。「ゴッドΣグラヴィオン」是續作中登場的強化型主角機，延續初代ゴッドグラヴィオン的金白配色與太陽紋章設計，同時追加更為銳利的裝甲線條與武裝細節，展現續作機體進化後的威容。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可完成組裝，全高約170mm，關節可動性佳，能重現合體機體的招牌站姿，是系列愛好者收藏的重點機體之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MODEROID 「ゴッドΣグラヴィオン」 レビュー", url: "http://myhobby.moo.jp/mode-godsigma/review.html", lang: "ja" },
+      { title: "ヤバいプラモデル！超絶怒涛の完成度！！ MODEROID ゴッド∑グラヴィオン アルティメットグラヴィオン レビュー", url: "https://irukausagi-heart-yuusha.hatenablog.com/entry/2023/02/24/000058", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【変形合体解説】超重合神！ゴッドΣグラヴィオン！そして 最終合神へ…‼【MODEROID グラヴィオンシリーズ 第三弾】", url: "https://www.youtube.com/watch?v=wH5R1rmZtds", lang: "ja" },
+      { title: "Gドリラー余らないように改造！超重合神ゴッドΣグラヴィオン/アルティメットグラヴィオン プラモレビュー", url: "https://www.youtube.com/watch?v=P6bfxeH3t94", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-aestivalis-ground-battle-frame",
@@ -17894,8 +17924,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-aestivalis-ground-battle-frame.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "機動戦艦ナデシコ", "Nadesico", "GSC0002"],
     description: "《機動戦艦ナデシコ》是1996年播出、由Production I.G製作的機械人動畫，以戲仿與致敬經典機甲作品的手法著稱，講述地球艦隊旗艦「ナデシコ」搭載的年輕艦員們駕駛主力機體「エステバリス」（Aestivalis）迎戰異星生物「木星蝕」的故事，兼具熱血戰鬥與細膩人物群像描寫，是90年代機甲動畫的話題之作。「エステバリス」依戰鬥環境分為多種裝備型態，「陸戦フレーム」為強化地面機動與火力的形態，加裝厚重下肢裝甲與近戰武裝，展現不同於標準型的沉穩量感。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約120mm，是重現作品多樣裝備形態的重要收藏機體。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MODEROID エステバリス陸戦フレーム レビュー", url: "https://gunplakishidan.com/moderoid-エステバリス陸戦フレーム-レビュー！/", lang: "ja" },
+      { title: "【レビュー】MODEROID エステバリス陸戦フレーム", url: "https://shishioh.info/MODEROID_Aestivalis_Ground_Battle_Frame.php", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【プラモデルレビュー】MODEROID 機動戦艦ナデシコ エステバリス陸戦フレーム", url: "https://www.youtube.com/watch?v=9DnzyI3eV5c", lang: "ja" },
+      { title: "MODEROID エステバリス陸戦フレーム パチ組み", url: "https://www.youtube.com/watch?v=f6hIdkWKSNI", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-aestivalis-aerial-battle-frame",
@@ -17913,8 +17949,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-aestivalis-aerial-battle-frame.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "機動戦艦ナデシコ", "Nadesico", "GSC0002"],
     description: "《機動戦艦ナデシコ》是1996年播出、由Production I.G製作的機械人動畫，講述地球艦隊旗艦「ナデシコ」搭載的年輕艦員們駕駛主力機體「エステバリス」（Aestivalis）迎戰異星生物「木星蝕」的故事，以戲仿經典機甲元素與細膩人物描寫並存的手法在90年代機甲動畫中獨樹一格。「エステバリス」依任務需求換裝不同裝備形態，「空戦フレーム」強化了飛行機動性與對空作戰能力，肩部與背部加裝翼狀推進裝置，呈現較標準型更為輕盈銳利的外型。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約120mm，與陸戦フレーム搭配收藏可完整呈現機體多形態魅力。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【レビュー】MODEROIDエステバリス空戦フレームを組み立てました", url: "https://www.mega3hobbylife.com/review-moderoid-aestivalis-aerial/", lang: "ja" },
+      { title: "Moderoid エステバリス 空戦フレーム 機動戦艦ナデシコ", url: "https://no-model.net/aerialbattleframe/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【ガイ機】MODEROID「機動戦艦ナデシコ」エステバリス空戦フレーム/プラモレビュー", url: "https://www.youtube.com/watch?v=8xQqHu1K7oE", lang: "ja" },
+      { title: "MODEROIDエステバリス空戦フレームを、みんなで組もう！【機動戦艦ナデシコ】", url: "https://www.youtube.com/watch?v=Z9vNwKZll7w", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-harbyzan",
@@ -17932,8 +17974,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-harbyzan.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "GSC0002"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，描寫三位少年分別駕駛石、木、金屬三屬性機體，合體為主角機「グランゾート」迎戰入侵地球的邪惡魔獣軍團，是80年代末期兼具熱血與奇幻色彩的經典機甲作品。「ハービザン」是敵方魔獣軍團旗下的戰鬥機體之一，以尖銳獠牙狀頭部與獸化裝甲為特徵，象徵魔獣勢力兇猛狂野的一面，是主角一行人早期強敵之一。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約140mm，可動關節完整重現機體張牙舞爪的戰鬥姿態，是懷舊機甲動畫粉絲的收藏亮點。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "『魔動王グランゾート』ワイバースト、ハービザン、ヒドラムがプラモデル「MODEROID」に仲間入り！", url: "https://hobby.dengeki.com/news/1870696/", lang: "ja" },
+      { title: "グッドスマイルカンパニー MODEROID ハービザン 価格比較", url: "https://kakaku.com/item/K0001524118/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "闇の邪動王が3形態に変形【魔動王グランゾート MODEROID】ハービザン ヲタファの僕の心がああああレビュー", url: "https://www.youtube.com/watch?v=t5er6_dLHBY", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-wybust",
@@ -17951,8 +17998,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-wybust.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "GSC0002"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年駕駛石、木、金屬三屬性機體合體為「グランゾート」，對抗入侵地球的邪惡魔獣軍團，作品融合熱血機甲對戰與奇幻冒險元素，是80年代末經典系列之一。「ワイバスト」為魔獣軍團陣營的戰鬥機體，外型帶有飛翼與尖角裝甲，散發陰森而銳利的敵方氣質，是劇中多次與主角機交手的強敵之一。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約140mm，關節可動性佳，能重現機體展翼備戰的姿態，是補齊反派陣容收藏的重要一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【レビュー】MODEROID ワイバースト", url: "https://shishioh.info/MODEROID_WYBUST.php", lang: "ja" },
+      { title: "34年ぶりの新規造形MODEROID「ワイバースト」をキットレビュー！", url: "https://hjweb.jp/article/1211375/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MODEROID ワイバースト ハービザン ヒドラム グランゾート魔動王邪動王", url: "https://www.youtube.com/shorts/RsTY-7u_1Yw", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-super-granzort",
@@ -17970,8 +18022,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-super-granzort.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "GSC0002"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年駕駛石、木、金屬三屬性機體合體為主角機「グランゾート」，對抗邪惡魔獣軍團的熱血冒險故事。「スーパーグランゾート」是原始グランゾート於劇情後段強化進化而成的形態，以純白配色搭配紅色鋭角裝甲取代原本的沉穩色調，象徵力量的飛躍提升，是主角陣營對抗強敵時的關鍵王牌機體。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約135mm，可動關節完整重現進化後主角機的英姿，是系列收藏中人氣度最高的核心機體之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【MODEROID スーパーグランゾート】レビューその① 開封レビュー", url: "https://plakatu.com/2022/10/20/moderoid-super-granzort-1/", lang: "ja" },
+      { title: "【レビュー】MODEROID スーパーグランゾート", url: "https://shishioh.info/MODEROID_SIPER_GRANZORT.php", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【魔動王グランゾート MODEROID】スーパーグランゾート 素組で完璧！ヲタファの僕の心がああああレビュー", url: "https://www.youtube.com/watch?v=zPgPx7gYP_g", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-super-winzert",
