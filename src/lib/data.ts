@@ -18874,8 +18874,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-ogre-an21-livery-dx.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "オウガ", "OGRE AN-21", "ブリード・カガ", "MegaHouse", "Variable Action", "Livery Edition", "DX Set"],
     description: "《新世紀GPX サイバーフォーミュラ》系列以未來賽車競技為舞台，融合機甲變形與熱血競速元素，是90年代經典賽車動畫代表作。OGRE AN-21為賽車手布利德・卡加所駕駛的5號賽車，隸屬AOI ZIP FORMULA車隊，在《SIN》篇章最終擊敗主角隼人．風見奪得世界冠軍。本商品為紀念2022年凰呀奪冠一戰推出的「-Livery Edition-」特別塗裝版，相較先前發售的標準版，改採更深邃寫實的賽車塗裝與贊助商標誌貼紙，呈現宛如真實賽道用車的高級質感。DX套組同梱豐富替換零件，可完整重現賽道模式、鏡像迴轉模式、空力模式、空力增壓模式、超級空力增壓模式等五種形態，並附未塗裝布利德・卡加人偶與展示台座，全長約180mm，是OGRE AN-21收藏中規格最完整、塗裝最考究的版本。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "2022年の凰呀の優勝を記念し、『サイバーフォーミュラSIN』凰呀AN-21「-Livery Edition-」DXセットが登場！", url: "https://hobby.dengeki.com/reviews/1596979/", lang: "ja" },
+      { title: "ヴァリアブルアクション 凰呀AN-21 -Livery Edition- DXセット【レビュー】", url: "https://daiguji.blog/review/variable-action/ogre-an-21-livery-edition-dx-set", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【模人開箱】凰呀五段變形完全體!! 2022紀念款 VARIABLE ACTION AN-21 Livery Edition-DX套組｜Mr.Joe Hobby.tv", url: "https://www.youtube.com/watch?v=nlbf_hQJJgU", lang: "zh" },
+      { title: "玩具紹介♯78 ヴァリアブルアクション 凰呀AN-21 -Livery Edition- DXセット", url: "https://www.youtube.com/watch?v=-JuzSKkuBto", lang: "ja" },
+    ],
   },
   {
     id: "va-hispec-nu-asurada-akf0g",
@@ -18892,8 +18898,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-hispec-nu-asurada-akf0g.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "νAsurada", "MegaHouse", "Variable Action Hi-SPEC"],
     description: "《新世紀GPX サイバーフォーミュラSIN》中，νアスラーダAKF-0/G是隼人・風見在該篇章重新駕駛的最新阿斯拉達機體，繼承初代阿斯拉達的1號車精神象徵。本商品由機械動畫監督重田智全程監修，加入「Variable Action Hi-SPEC」系列陣容，約1/18比例，可完整變形展現技術賽道模式、空力模式、空力增壓模式、螺旋增壓模式、鏡像迴轉模式等五種形態，其中螺旋增壓模式以驚人的展開機構呈現，鏡像迴轉模式更附專屬鏡面台座重現凌空懸浮的視覺效果，是Hi-SPEC系列陣容中規格與機構最為講究的旗艦代表作。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "完全変形を実現した「νアスラーダ AKF-0/G」がついに完成！4モードの中から...", url: "https://hjweb.jp/article/1595535/", lang: "ja" },
+      { title: "「VA Hi-SPEC 新世紀GPXサイバーフォーミュラSIN」νアスラーダAKF-O/Gが登場！完全変形に刮目せよ", url: "https://hjweb.jp/article/1627512/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "[変形紹介]ヴァリアブルアクション Hi-SPEC νアスラーダAKF-0/G", url: "https://www.youtube.com/watch?v=U_0iTjre-aU", lang: "ja" },
+      { title: "[Completely Transformed] ν Asurada AKF-0/G [Variable Action Hi-SPEC]", url: "https://www.youtube.com/watch?v=E7AjRRPEMtg", lang: "en" },
+    ],
   },
   {
     id: "va-hispec-united-super-asurada01",
@@ -18910,8 +18922,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-hispec-united-super-asurada01.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "スーパーアスラーダ01", "MegaHouse", "threezero", "threeMega", "Hi-SPEC UNITED"],
     description: "《新世紀GPX サイバーフォーミュラ》第一部主角機「アスラーダAKF-0」升級後化身超級阿斯拉達01，是系列最具代表性的初代主戰機體。本商品為MegaHouse與香港模型品牌threezero跨界合作的「Hi-SPEC UNITED」系列作品，由threezero創意總監Kelvin Sau重新演繹車體表面機械細節，加入部分合金零件與厚重金屬塗裝及車身字樣印刷，全長約277mm，呈現極具份量感與寫實質感的造型。不需替換零件即可在賽道模式、空力模式、拉力模式三形態間自由切換，並具備頭燈、座艙儀表、增壓艙的LED發光機能，搭配合金材質磁吸點火鑰匙觸發燈光效果，同梱收錄經典配樂、音效及日籍原聲優重新錄製台詞的音效展示台座，是Hi-SPEC系列中跨界合作規格最高的話題新作。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "VA Hi-SPEC UNITED「スーパーアスラーダ01」続報到着！完全新録のキャラクターボイス...", url: "https://hjweb.jp/article/2005516/", lang: "ja" },
+      { title: "Megahouse X threezero 'VA Hi-SPEC UNITED Super Asurada 01' Features Intricate Details...", url: "https://www.toy-people.com/en/?p=98619", lang: "en" },
+    ],
+    youtube: [
+      { title: "【模人開箱】空前絕後！超級阿斯拉01~VARIABLE ACTION Hi-SPEC UNITED｜Mr.Joe Hobby.tv", url: "https://www.youtube.com/watch?v=TzqfP2Yrt4M", lang: "zh" },
+      { title: "HI-SPEC CYBER FORMULA GPX SUPER ASURADA 01 UNBOXING AND REVEAL", url: "https://www.youtube.com/watch?v=W-pBHtO6ZkU", lang: "en" },
+    ],
   },
   {
     id: "va-alzard-np1",
@@ -18928,8 +18946,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-alzard-np1.jpg",
     tags: ["新世紀GPXサイバーフォーミュラSAGA", "Cyber Formula", "アルザード", "Al-Zard NP-1", "フィル・フリッツ", "MegaHouse", "Variable Action"],
     description: "《新世紀GPX サイバーフォーミュラSAGA》為系列時間線最新篇章。Al-Zard NP-1是賽車手フィル・フリッツ所駕駛的6號賽車，車體設計承襲自OGRE的凶悍流線血統，以深邃紫黑車身搭配紅、金雙色描邊呈現銳利威嚇感，是SAGA篇新登場的勁敵機體之一。本商品為MegaHouse「Variable Action」系列作品，約1/24比例，可透過零件替換於賽道模式與空力模式間切換，賽道模式下前輪可自由轉向重現動感過彎角度，全長約230mm、寬約130mm，是SAGA篇機體收藏中兼具速度感與塗裝質感的代表作。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "ヴァリアブルアクション『新世紀GPXサイバーフォーミュラSAGA アルザードNP-1』深みのある洗練されたリアリティ！", url: "https://www.toy-people.com/jp/?p=91251", lang: "ja" },
+      { title: "サイバーマシン「アルザードNP-1」がついにヴァリアブルアクションに登場！", url: "https://hjweb.jp/article/1605604/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "玩具紹介♯89 ヴァリアブルアクション アルザード NP-1 (Cyber Formula SAGA AL-ZARD NP-1)", url: "https://www.youtube.com/watch?v=I4xVGMynrRA", lang: "ja" },
+      { title: "Cyber Formula Al-Zard NP-1 Variable Action MegaHouse", url: "https://www.youtube.com/watch?v=EgbUnjhD8qM", lang: "en" },
+    ],
   },
   {
     id: "va-vision-asurada",
@@ -19260,8 +19284,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-unicorn-phenex-standard.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "Phenex", "フェネクス", "金メッキ"],
     description: "《機動戰士鋼彈UC》系列中，RX-0[N] 獨角獸鋼彈3號機「鳳凰（Phenex）」是繼獨角獸、Banshee之後登場的第三台獨角獸鋼彈，機體全身以金色電鍍裝甲搭配透明心靈框架呈現，象徵其接近傳說機體的神秘地位，僅於「DOME-G」等特別影像企劃中登場，並未出現在小說原作情節。本商品為2014年發售的MG標準版本，金色電鍍裝甲搭配藍色高感度光學感應鏡片，可從獨角獸模式展開變形為毀滅模式，變形後全高更為增加，標配光束麥格農、大型狙擊步槍等武裝及背部Armed Armor DE，是獨角獸系列MG收藏中金色機體代表作，與後續「Narrative Ver.」金色電鍍版屬不同商品，是辨識度極高的鋼普拉逸品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ユニコーンガンダム3号機 フェネクス レビュー", url: "https://dendero.blog.jp/archives/17998719.html", lang: "ja" },
+      { title: "MG 1/100 Gundam Unicorn 03 / Gundam Phenex Review", url: "https://skeithx.wordpress.com/2015/01/18/mg-1100-gundam-unicorn-03-gundam-phenex-review/", lang: "en" },
+    ],
+    youtube: [
+      { title: "MG 1/100 Unicorn Gundam-03 Phenex Unboxing", url: "https://www.youtube.com/watch?v=x1MGe5982x4", lang: "en" },
+      { title: "MG Unicorn Gundam 03 Phenex RX-0 | Build & Review", url: "https://www.youtube.com/live/0kKo21ebi_0", lang: "en" },
+    ],
   },
   {
     id: "mg-unicorn-phenex-narrative-gold",
