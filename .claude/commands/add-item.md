@@ -33,10 +33,11 @@
 - **搜尋時用中文或日文商品名搜尋**（用英文名往往找不到）——以 `name` 或 `nameJa` 欄位的文字作為搜尋關鍵字
 
 ## 商品圖片（重要！）
-- 新增商品後，**必須立即**從官方網站抓取商品主圖
-- 儲存到 `public/images/[item-id].jpg`（路徑以 repo 根目錄為基準）
-- 使用 curl 下載：`curl -s -A "Mozilla/5.0 ..." -o "public/images/[id].jpg" "[image-url]"`
-- 下載後務必確認檔案大小 > 10KB（太小代表是錯誤頁面，需換來源）
+- 新增商品後，**必須立即**從官方網站抓取商品主圖，**下載到本地**再透過 Vercel 提供
+- 流程：curl 下載 → 存入 `public/images/[item-id].jpg` → git commit + push → Vercel 部署後自動從自己的 CDN 提供（**不外連任何第三方圖床**）
+- `data.ts` 的 `imageUrl` 填相對路徑：`"/images/[item-id].jpg"`
+- 使用 curl 下載：`curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -o "public/images/[id].jpg" "[image-url]"`
+- **下載後務必確認**：`ls -la public/images/[id].jpg`，檔案 > 10KB 才算成功（太小代表是錯誤頁面，需換來源）
 - **不可要求用戶自行上傳圖片**
 - **⚠️ 嚴禁使用 Telegram 傳來的照片作為商品圖片**——用戶傳圖是為了「辨識商品」用，那是用戶自己拍的包裝盒照，絕對不能直接儲存為商品圖。**一定要去官網抓官方商品圖。**
 
