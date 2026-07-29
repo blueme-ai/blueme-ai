@@ -34,8 +34,9 @@
 
 ## 商品圖片（重要！）
 - 新增商品後，**必須立即**從官方網站抓取商品主圖
-- 儲存到 `/Users/chengsiyang/Projects/blueme-ai/public/images/[item-id].jpg`
-- 使用 curl 下載：`curl -L -o "/Users/chengsiyang/Projects/blueme-ai/public/images/[id].jpg" "[image-url]"`
+- 儲存到 `public/images/[item-id].jpg`（路徑以 repo 根目錄為基準）
+- 使用 curl 下載：`curl -s -A "Mozilla/5.0 ..." -o "public/images/[id].jpg" "[image-url]"`
+- 下載後務必確認檔案大小 > 10KB（太小代表是錯誤頁面，需換來源）
 - **不可要求用戶自行上傳圖片**
 - **⚠️ 嚴禁使用 Telegram 傳來的照片作為商品圖片**——用戶傳圖是為了「辨識商品」用，那是用戶自己拍的包裝盒照，絕對不能直接儲存為商品圖。**一定要去官網抓官方商品圖。**
 
@@ -48,6 +49,14 @@
 | threezero DLX | threezerohk.com/shop/... |
 | Arcadia / Yamato | arcadiashop.jp |
 | Mega House | megahouse.co.jp |
+
+## ⚠️ Bandai Gunpla 圖片下載注意事項
+- `bandai-hobby.net` 的商品圖多放在 CloudFront CDN（`d3bk8pkqsprcvh.cloudfront.net`），**直接下載會返回 403 Forbidden**（需要簽名 URL）
+- `bandai-a.akamaihd.net` 上的舊圖可以直接下載（`/bc/img/model/xl/` 路徑）
+- **CloudFront 圖無法下載時的備用方案**（按優先度）：
+  1. `gundamsblog.net` 評測頁（`https://gundamsblog.net/ガンプラ/[商品名]`），取 `hakoe-N.jpg` 型態的圖，通常是 800px 寬的包裝盒正面圖
+  2. `schizophonic9.com` 評測頁，取第一張商品圖
+  3. Amazon 日本 CDN（注意：可能有版權問題，最後備用）
 
 ## 官網連結格式參考（`officialUrl`）
 
@@ -83,17 +92,25 @@
 
 ## 部署
 - 新增完成後 `git add` + `git commit` + `git push`
-- Vercel 會自動部署
+- **Vercel 不一定會從 GitHub push 自動觸發**（視環境而定）——push 後如果 Vercel 沒有自動部署，執行：`npx vercel --prod --yes`
 - **部署完成後，用 Telegram 傳訊息給用戶，內容包含異動說明和網址 https://blueme-ai.vercel.app**
+
+## ⚠️ 系列（`series`）正確性確認
+辨識工具（Gemini Vision）偶爾會辨識錯誤，特別是以下容易混淆的情況：
+- **機動戦士Gundam 系列**：GQuuuuuuX（ジークアクス）、復讐のレクイエム（Requiem for Vengeance）、GalactiXX 是三個不同系列，視覺上相似，務必確認
+- **Vガンダム vs ガンダムUC**：バイアラン・カスタム 出現在 ガンダムUC（不是 Vガンダム）
+- **P-Bandai 商品**：部分僅在 p-bandai.jp 販售，搜尋 bandai-hobby.net 可能找不到，但有時仍有頁面
+- 確認方法：直接看包裝盒的 logo 或系列名文字，或以日文商品名到 bandai-hobby.net 搜尋確認
 
 ## 常用 ID 命名規則
 - 品牌-系列-型號：`dx-chogokin-vf1j-hikaru`、`dlx-iron-man-mark85`、`mg-aile-strike-gundam`
 - 全部小寫 + 連字號，不用底線
 
-## 裝箱編號標籤（`箱號`）
-- 用戶把實體商品裝箱時，會告知要幫某個 item 加上箱號（例：「這個放箱號03」）
-- 直接把 `"箱號03"` 加進該 item 的 `tags` 陣列即可（順序不重要，放第一個較易讀）
-- **不用改資料結構**——`src/lib/tags.ts` 的 `isBoxTag()` 會辨識 `箱號` 開頭的標籤，`ItemModal`/`CollectionCard`/`CollectionGrid` 會自動用橘色底+箱子圖示顯示，並保證卡片預覽不會被截掉
+## 裝箱編號標籤（`BOX` 格式）
+- 用戶把實體商品裝箱時，會告知要幫某個 item 加上箱號（例：「裝箱標籤 BOX0015」）
+- 直接把 `"BOX0015"` 加進該 item 的 `tags` 陣列即可（順序不重要，放最後較易讀）
+- **標籤格式**：`BOX` + 3～4 位數字，例如 `BOX001`、`BOX0015`（`src/lib/tags.ts` 的 `isBoxTag()` 使用 `BOX\d{3,4}` 辨識）
+- **不用改資料結構**——UI 會自動用橘色底+箱子圖示顯示，並保證卡片預覽不會被截掉
 - 標籤本身就可點擊篩選（既有機制），點箱號標籤就能篩出同一箱的所有商品，不需要額外開發
 - 加完記得照上面的部署流程 commit + push + 通知用戶
 
