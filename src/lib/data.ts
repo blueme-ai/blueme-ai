@@ -6181,7 +6181,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年3月23日",
     officialUrl: "https://bandai-hobby.net/item/01_5786/",
     imageUrl: "/images/mg-rezel-typec-defenser-ab.jpg",
-    tags: ["ガンダム", "機動戦士ガンダムUC", "ReZEL", "MG", "1/100", "Bandai", "P-Bandai限定", "ゼネラル・レビル"],
+    tags: ["ガンダム", "機動戦士ガンダムUC", "ReZEL", "MG", "1/100", "Bandai", "P-Bandai限定", "ゼネラル・レビル", "BOX0013"],
     description: "《機動戰士鋼彈UC》是描繪一年戰爭後、宇宙世紀0096年拉普拉斯事件的作品，故事中登場的量產機「ReZEL」承襲Z鋼彈系血統，以修長機身與均衡性能廣受玩家好評。本商品是第六話登場、由地球聯邦軍旗艦「將軍雷比爾號」搭載機的特別配色版本，換上灰橙相間的旗艦護衛塗裝，並追加大型後背包「Defenser Unit」，戰鬥力遠超一般運用機，象徵著旗艦護衛部隊的高規格待遇。套件本體收錄「a Unit」與「b Unit」兩種增裝背包：a Unit配備六連裝大型飛彈莢艙與兩把承襲自ZZ鋼彈的巨型光劍，同時可切換為Beam Cannon使用；b Unit則搭載雙聯裝Mega Beam Launcher與Mega粒子砲，可於中短程與遠程之間靈活切換打擊手段。機體亦可透過換裝零件完整重現MS形態與Wave Rider高速形態的變形機構，是UC系列少數具備完整可變設計的量產機。雖然原版下半身穩定性是知名弱點，加裝大型背包後套件貼心附上支撐架輔助站立，且一次收錄兩種背包CP值極高，至今仍被玩家譽為近十年最具誠意的鋼普拉之一。",
     reviews: [
       {
@@ -19675,30 +19675,6 @@ export const collection: CollectibleItem[] = [
     youtube: [
       { title: "THIS IS MY FAVORITE KIT OF 2025! (so far) | MG F80 Gunraid UNBOXING & REVIEW [4K]", url: "https://www.youtube.com/watch?v=QIaMOODQlto", lang: "en" },
       { title: "えっエフ80だと！誰だオメェ？「MG 1/100 F80 ガンレイド」開封・組立・レビュー・F90と比較", url: "https://www.youtube.com/watch?v=o_HHpRioVag", lang: "ja" },
-    ],
-  },
-  {
-    id: "mg-full-armor-unicorn-verka",
-    addedAt: "2026-07-29",
-    name: "MG 1/100 フルアーマー・ユニコーンガンダム Ver.Ka",
-    nameJa: "MG 1/100 フルアーマー・ユニコーンガンダム Ver.Ka",
-    series: "機動戦士ガンダムUC（Mobile Suit Gundam Unicorn）",
-    character: "ユニコーンガンダム フルアーマー仕様（RX-0）",
-    manufacturer: "BANDAI SPIRITS",
-    scale: "MG 1/100",
-    price: "¥8,800（含稅）",
-    releaseDate: "2011年12月24日",
-    officialUrl: "https://bandai-hobby.net/item/01_5726/",
-    imageUrl: "/images/mg-full-armor-unicorn-verka.jpg",
-    tags: ["ガンプラ", "MG", "BANDAI SPIRITS", "機動戦士ガンダムUC", "RX-0", "フルアーマー", "Ver.Ka", "加藤單", "高達模型", "BOX0013"],
-    description: "《機動戦士ガンダムUC》是宇宙世紀系列承先啟後之作，獨角獸鋼彈藉由「NT-D」系統覺醒後展現壓倒性戰力。本商品為插畫家加藤單親自監修的Ver.Ka系列全裝甲規格，以更具躍動感的線條與細部造形重新詮釋機體。套件沿用MG系列高精度骨架，膝部與腰部採用強化可動的HD規格零件，Psycho-Frame部位由透明紅改為透明綠成形色，NT-D啟動時可呈現獨特的發光效果。武裝配置極為豐富，包含雙持光束麥格農、雙聯裝火箭砲、三連裝飛彈莢艙、擲彈發射器、六連裝光束加特林、三面盾牌、光束軍刀與超級光束標槍等，重現原作最終決戰全副武裝迎戰的震撼畫面，另附大型背部推進器展示座及94式基地噴射機拖車展示台。作為MG系列武裝最為齊全的獨角獸鋼彈套件之一，是收藏家展示機體完整戰力配置時的首選逸品，自2011年底發售後長年熱賣，至今仍是系列人氣經典款。",
-    reviews: [
-      { title: "【ガンプラ素組みレビュー】MG フルアーマーユニコーンガンダム Ver.Ka", url: "https://gunpla-garage.com/rx-0-full-armor-unicorn-gundam-ver-ka-mg/", lang: "ja" },
-      { title: "MG フルアーマーユニコーンガンダム Ver.Ka レビュー", url: "https://www.gunplayakata.com/entry/2022/09/19/MG_フルアーマーユニコーンガンダム_Ver.Ka_レビュー", lang: "ja" },
-    ],
-    youtube: [
-      { title: "Gundam Unicorn Full Armor MG 1/100 Ver.Ka | UNBOXING", url: "https://www.youtube.com/watch?v=R1cRvLE2Ksc", lang: "en" },
-      { title: "Unboxing: MG Full Armor Unicorn Gundam Ver. Ka.", url: "https://www.youtube.com/watch?v=22L7mOOn2oQ", lang: "en" },
     ],
   },
   {
