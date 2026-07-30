@@ -1,0 +1,2113 @@
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+<head>
+<!-- tamashiiweb.com に対する OneTrust Cookie 同意通知の始点 -->
+<script type="text/javascript" src="https://cdn-apac.onetrust.com/consent/f1cfe919-a7ad-4cda-8cf5-7170b7e8f7d1/OtAutoBlock.js" ></script>
+<script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="f1cfe919-a7ad-4cda-8cf5-7170b7e8f7d1" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- tamashiiweb.com に対する OneTrust Cookie 同意通知の終点 -->
+<!--cookie-->
+<link href="/assets/css/tw2022_cookie.css" rel="stylesheet">
+<!--/cookie-->
+
+<!-- Google Tag Manager_tamashiiweb -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XRDQNZ');</script>
+<!-- End Google Tag Manager_tamashiiweb -->
+
+<!-- Google Tag Manager_pbasia -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5V6JQT4');</script>
+<!-- End Google Tag Manager_pbasia -->
+
+<meta charset="UTF-8">
+<title>404 Not Found | 魂ウェブ</title>
+<meta name="viewport" content="width=device-width, maximum-scale=5, minimum-scale=1.0, user-scalable=yes">
+<meta name="keywords" content="魂ウェブ,フィギュア,コレクターズトイ,魂ネイションズ,高級フィギュア,フィギュア情報,フィギュアイベント">
+<meta name="description" content="ご指定のページにアクセスできませんでした。削除されたか、入力したURLが間違っている可能性があります。">
+<link rel="icon" href="/assets/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="https://tamashiiweb.com/img/apple-touch-icon.png">
+
+<!-- ogp -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="404 Not Found | 魂ウェブ">
+<meta property="og:site_name" content="魂ウェブ">
+<meta property="og:description" content="ご指定のページにアクセスできませんでした。削除されたか、入力したURLが間違っている可能性があります。">
+<meta property="og:url" content="https://tamashiiweb.com/404/">
+<meta property="og:image" content="https://tamashiiweb.com/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://tamashiiweb.com/404/">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="/assets/css/vendor.css?ver=04" type="text/css;charset=UTF-8">
+<link rel="stylesheet" href="/assets/css/index.css?ver=04" type="text/css;charset=UTF-8">
+
+<!-- JavaScript -->
+<script src="/assets/js/vendor.js?ver=01"></script>
+<script src="/assets/js/vendor-modules.js?ver=01"></script>
+<script src="/assets/js/init.js?ver=01"></script>
+<script src="https://j.wovn.io/1" data-wovnio="key=mebLn6&amp;defaultLang=ja&amp;currentLang=ja&amp;urlPattern=query&amp;
+backend=true&amp;langParamName=wovn" async=""></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@3.2/dist/vue.global.prod.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios@1.13.5/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios-jsonp/dist/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.19/dayjs.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.19/locale/ja.js"></script>
+<script src="/assets/js/app/locale-settings.js?20260616"></script>
+<script src="/assets/js/app/ctm.js?20260304"></script>
+<script src="/assets/js/app/header-conts.js?20260408"></script>
+
+</head>
+<body id="top" class="">
+<!-- Google Tag Manager (noscript)_tamashiiweb -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XRDQNZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript)_tamashiiweb -->
+
+<!-- Google Tag Manager (noscript)_pbasia -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V6JQT4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager_pbasia -->
+
+<div class="l-wrapper">
+<!-- サイト全体のヘッダー -->
+<header class="globalHeader is-deferred" id="globalNavHeader" v-cloak>
+  <div class="globalHeader__inner">
+    <p class="globalLogo">
+      <a href="/"><img src="/assets/img/logo/logo_tnos.svg" alt="TAMASHII NATIONS OFFICIAL SITE" width="268" height="74"></a>
+	</p>
+
+<div class="globalNavWrapper u-spHide">
+  <div class="utilityNav">
+    <ul class="utilityNav__items">
+      <li class="utilityNav__item">
+        <button class="sns-link" data-modal-target="modalSNS">
+          <span>公式SNS<span class="u-srOnly">（モーダルを開く）</span></span>
+        </button>
+      </li>
+      <li class="utilityNav__item member-link-inactive"><button class="member-link" onclick="location.href='/api/ctm/login.php'">
+          <span>ログイン<span class="u-srOnly">（モーダルを開く）</span></span>
+        </button></li>
+      <li class="utilityNav__item is-login member-link-active"><button class="member-link" data-modal-target="modalCTM2">
+          <span>ログイン中<span class="u-srOnly">（モーダルを開く）</span></span>
+        </button></li>
+      <li class="utilityNav__item lang-switch-navi"><button class="lang-switch" data-modal-target="modalLang">
+          <span class="langSwitchLabel">&nbsp;</span><span class="u-srOnly">（モーダルを開く）</span>
+        </button></li>
+    </ul>
+  </div>
+
+  <nav class="globalNav" aria-label="メインナビゲーション">
+    <ul class="globalNav__items">
+      <li class="globalNav__item is-area-emea-latam">
+        <a href="/shop-service/">ショップ・サービス</a>
+      </li>
+      <li class="globalNav__item has-dropdown not-area-emea-latam">
+        <button id="menu-shop" class="globalNav__trigger" aria-haspopup="true" aria-expanded="false" aria-controls="submenu-shop">
+          ショップ・サービス
+        </button>
+        <div id="submenu-shop" class="globalSubNav" role="region" aria-labelledby="menu-shop" hidden>
+          <div class="globalSubNav__closeSticky">
+            <button class="globalSubNav__close js-subNav__close">
+              <span class="u-srOnly">閉じる</span>
+            </button>
+          </div>
+          <div class="globalSubNav__inner">
+
+            <div class="gnShop__main is-area-ja">
+              <section class="gnShop__section">
+                <h3 class="blockTitle2">ショップ</h3>
+                <section class="gnShop__group">
+                  <h4 class="blockSubtitle2">オンラインショップ</h4>
+                  <div class="gnShop__list">
+                    <ul class="gnShop__items">
+                      <li class="gnShop__item">
+                        <a href="https://p-bandai.jp/tamashiiwebshouten/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_tamashiiwebshouten.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            魂ウェブ商店
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                          <p class="gnShop__txt">
+                            プレミアムバンダイのTAMASHII NATIONS公式ショッピングサイト。スペシャルアイテムの受注販売や抽選販売を期間限定で実施しています。
+                          </p>
+                        </a>
+                      </li>
+                      <li class="gnShop__item">
+                        <a href="https://p-bandai.jp/tns-online/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_tns-online.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            TAMASHII NATIONS STORE ONLINE
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                          <p class="gnShop__txt">
+                            TAMASHII NATIONS STORE
+                            TOKYOに関連する商品を販売しています。
+                          </p>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </section>
+
+                <section class="gnShop__group">
+                  <h4 class="blockSubtitle2">実店舗</h4>
+                  <div class="gnShop__list">
+                    <ul class="gnShop__items">
+                      <li class="gnShop__item">
+                        <a href="https://tamashiiweb.com/store/tokyo/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_tns-tokyo.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            TAMASHII NATIONS STORE TOKYO
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                          <p class="gnShop__txt">
+                            東京秋葉原の直営フラッグシップショップ。魂ストア限定品などを販売しています。
+                          </p>
+                        </a>
+                      </li>
+                      <li class="gnShop__item">
+                        <a href="https://tamashiiweb.com/store/spot/osaka/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_spot-osaka.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            TAMASHII SPOT OSAKA
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                          <p class="gnShop__txt">
+                            大阪梅田のオフィシャルショップ。魂ストア限定品などを販売しています。
+                          </p>
+                        </a>
+                      </li>
+                      <li class="gnShop__item">
+                        <a href="/shop-service/conceptshop/">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_conceptshop.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            TAMASHII NATIONS Concept Shop
+                          </p>
+                          <p class="gnShop__txt">
+                            TAMASHII
+                            NATIONSの価値、フィギュアの魅力を感じられるコンセプトショップ。
+                          </p>
+                        </a>
+                      </li>
+                      <li class="gnShop__item"><a href="https://bandainamco-am.co.jp/official_shop/tamashiinations-crossstore/" target="_blank">
+                        <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_crossstore.webp" alt="" width="520" height="270" loading="lazy"></div>
+                        <p class="gnShop__name">バンダイナムコ Cross Store<span class="u-srOnly"> 外部サイトへ（新しいタブで開きます）</span></p>
+                        <p class="gnShop__txt">バンダイナムコグループ各社が展開する 「キャラクター商品」がそろう、さまざまなオフィシャルショップを多数展開します。</p>
+                      </a></li>
+                    </ul>
+                  </div>
+                </section>
+              </section>
+
+              <section class="gnShop__section">
+                <h3 class="blockTitle2">サービス</h3>
+                <div class="gnShop__list">
+                  <ul class="gnShop__items">
+                    <li class="gnShop__item">
+                      <a href="https://club.tamashii.jp/" target="_blank" rel="noopener">
+                        <div class="gnShop__thumb">
+                          <img src="/assets/img/shop/bnr_ctm.webp" alt="" width="520" height="270" loading="lazy">
+                        </div>
+                        <p class="gnShop__name">
+                          CLUB TAMASHII MEMBERS
+                          <span class="u-srOnly"
+                            >外部サイトへ（新しいタブで開きます）</span
+                          >
+                        </p>
+                      </a>
+                    </li>
+                    <li class="gnShop__item">
+                      <a href="https://tamashiiweb.com/special/digi-fig/" target="_blank" rel="noopener">
+                        <div class="gnShop__thumb">
+                          <img src="/assets/img/shop/bnr_digifig.webp" alt="" width="520" height="270" loading="lazy">
+                        </div>
+                        <p class="gnShop__name">
+                          Digi-Fig（デジフィグ）
+                          <span class="u-srOnly"
+                            >外部サイトへ（新しいタブで開きます）</span
+                          >
+                        </p>
+                      </a>
+                    </li>
+                    <li class="gnShop__item">
+                      <a href="https://tamashiigarage.com/" target="_blank" rel="noopener">
+                        <div class="gnShop__thumb">
+                          <img src="/assets/img/shop/bnr_tamashiigarage.webp" alt="" width="520" height="270" loading="lazy">
+                        </div>
+                        <p class="gnShop__name">
+                          魂ガレージ
+                          <span class="u-srOnly"
+                            >外部サイトへ（新しいタブで開きます）</span
+                          >
+                        </p>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </section>
+
+              <p class="gnShop__link sectionLink"><a href="/shop-service/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ショップ・サービス一覧を見る</a></p>
+            </div>
+
+            <div class="gnShop__main is-area-asia">
+              <section class="gnShop__section">
+                <h3 class="blockTitle2">ショップ</h3>
+                <section class="gnShop__group">
+                  <h4 class="blockSubtitle2">オンラインショップ</h4>
+                  <div class="gnShop__list">
+                    <ul class="gnShop__items">
+                      <li class="gnShop__item"><a href="https://p-bandai.com/hk/shop/tamashiiwebshop" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tws-hk.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">魂ウェブ商店 香港 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">プレミアムバンダイ香港のTAMASHII NATIONS公式ショッピングサイト。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://p-bandai.com/tw/shop/tamashiiwebshop" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tws-tw.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">魂ウェブ商店 台湾 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">プレミアムバンダイ台湾のTAMASHII NATIONS公式ショッピングサイト。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://p-bandai.com/sg/shop/tamashiiwebshop" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tws-sg.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">魂ウェブ商店 シンガポール <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">プレミアムバンダイシンガポールのTAMASHII NATIONS公式ショッピングサイト。</p>
+											</a></li>
+                    </ul>
+                  </div>
+                </section>
+
+                <section class="gnShop__group">
+                  <h4 class="blockSubtitle2">実店舗</h4>
+                  <div class="gnShop__list">
+                    <ul class="gnShop__items">
+                      <li class="gnShop__item"><a href="https://tamashiiweb.com/store/shanghai/" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tns-sh.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">TAMASHII NATIONS STORE SHANGHAI <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">上海南京東路のフラッグシップショップ。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/hong-kong/" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-hk.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">TAMASHII SPOT HONG KONG <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">香港のオフィシャルショップ。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/taipei/" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-tp.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">TAMASHII SPOT TAIPEI <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">台北のオフィシャルショップ。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/guangzhou/" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-gz.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">TAMASHII SPOT GUANGZHOU <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">広州のオフィシャルショップ。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/seoul/" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-sl.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">TAMASHII SPOT SEOUL <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">ソウルのオフィシャルショップ。</p>
+											</a></li>
+											<li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/bangkok-siamcenter/" target="_blank" rel="noopener">
+												<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-bks.webp" alt="" width="520" height="270" loading="lazy"></div>
+												<p class="gnShop__name">TAMASHII SPOT BANGKOK Siam Center <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+												<p class="gnShop__txt">バンコクサイアムセンターのオフィシャルショップ。</p>
+											</a></li>
+                    </ul>
+                  </div>
+                </section>
+              </section>
+
+              <p class="gnShop__link sectionLink"><a href="/shop-service/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ショップ・サービス一覧を見る</a></p>
+            </div>
+
+            <div class="gnShop__main is-area-usa">
+              <section class="gnShop__section">
+                <h3 class="blockTitle2">ショップ</h3>
+                <div class="gnShop__groups">
+									<section class="gnShop__group">
+										<h4 class="blockSubtitle2">オンラインショップ</h4>
+										<div class="gnShop">
+											<ul class="gnShop__items">
+												<li class="gnShop__item"><a href="https://p-bandai.com/us/shop/tamashiinationsonlineshop" target="_blank" rel="noopener">
+													<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tns-online-usa.webp" alt="" width="520" height="270" loading="lazy"></div>
+													<p class="gnShop__name">TAMASHII NATIONS ONLINE SHOP PREMIUM BANDAI USA <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+													<p class="gnShop__txt">プレミアムバンダイUSのTAMASHII NATIONS公式ショッピングサイト。</p>
+												</a></li>
+
+											</ul>
+										</div>
+									</section>
+
+									<section class="gnShop__group">
+										<h4 class="blockSubtitle2">実店舗</h4>
+										<div class="gnShop">
+											<ul class="gnShop__items">
+												<li class="gnShop__item"><a href="https://tamashiiweb.com/store/new-york/" target="_blank" rel="noopener">
+													<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tns-ny.webp" alt="" width="520" height="270" loading="lazy"></div>
+													<p class="gnShop__name">TAMASHII NATIONS STORE NEW YORK <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+													<p class="gnShop__txt">ニューヨークのフラッグシップショップ。</p>
+												</a></li>
+
+                        <li class="gnShop__item"><a href="https://tamashii-storelocator.com/usa.html" target="_blank" rel="noopener">
+													<div class="gnShop__thumb"><img src="/assets/img/shop/bnr_store-locator-s.webp" alt="" width="520" height="270" loading="lazy"></div>
+													<p class="gnShop__name">TAMASHII NATIONS Store Locator <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+													<p class="gnShop__txt">お近くのTAMASHII NATIONS取扱店舗を検索できるサービスです。</p>
+												</a></li>
+
+											</ul>
+										</div>
+									</section>
+								</div>
+
+              </section>
+
+              <p class="gnShop__link sectionLink"><a href="/shop-service/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ショップ・サービス一覧を見る</a></p>
+            </div>
+
+          </div>
+        </div>
+      </li>
+
+      <li class="globalNav__item has-dropdown">
+        <button id="menu-event" class="globalNav__trigger" aria-haspopup="true" aria-expanded="false" aria-controls="submenu-event">
+          イベント
+        </button>
+        <div id="submenu-event" class="globalSubNav" role="region" aria-labelledby="menu-event" hidden>
+          <div class="globalSubNav__closeSticky">
+            <button class="globalSubNav__close js-subNav__close">
+              <span class="u-srOnly">閉じる</span>
+            </button>
+          </div>
+          <div class="globalSubNav__inner">
+            <div class="gnEvent__main">
+              <section class="gnEvent__section">
+                <h3 class="blockTitle2">イベント</h3>
+
+                <section class="gnEvent__group" v-if="event_list_active.length > 0">
+                  <h4 class="blockSubtitle2">開催中のイベント</h4>
+                  <div class="gnEvent__list">
+                    <ul class="gnEvent__items">
+                      <li class="gnEvent__item" v-for="(item, key) in event_list_active">
+                        <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                              <div class="gnEvent__thumb" v-if="item.thumbnailImg">
+                                <img :src="assets_base_url + item.thumbnailImg" alt="" width="1200" height="675" loading="lazy">
+                              </div>
+                              <div class="gnEvent__thumb" v-else>
+                                <img src="/assets/img/noimg/1920_1080.png" alt="" width="1200" height="675" loading="lazy">
+                              </div>
+                              <p class="gnEvent__name">{{ item.title }}
+                                <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span></p>
+                            </a>
+                      </li>
+                    </ul>
+                  </div>
+                </section>
+
+                <section class="gnEvent__group" v-if="event_list_upcoming.length > 0">
+                  <h4 class="blockSubtitle2">開催予定のイベント</h4>
+                  <div class="gnEvent__list">
+                    <ul class="gnEvent__items">
+                      <li class="gnEvent__item" v-for="(item, key) in event_list_upcoming">
+                        <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                          <div class="gnEvent__thumb" v-if="item.thumbnailImg">
+                            <img :src="assets_base_url + item.thumbnailImg" alt="" width="1200" height="675" loading="lazy">
+                          </div>
+                          <div class="gnEvent__thumb" v-else>
+                            <img src="/assets/img/noimg/1920_1080.png" alt="" width="1200" height="675" loading="lazy">
+                          </div>
+                          <p class="gnEvent__name">{{ item.title }}
+                            <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span></p>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </section>
+
+                <p class="gnEvent__link sectionLink">
+                  <a href="/event/" class="m-btnBaseM m-btnSizeL m-btnColor--black">イベント一覧を見る</a>
+                </p>
+              </section>
+
+              <section class="gnEvent__section">
+                <h3 class="blockTitle2">フォトギャラリー</h3>
+                <div class="gnEvent__list" v-if="gallery_list.length > 0">
+                  <ul class="gnEvent__items">
+                    <li class="gnEvent__item" v-for="(item, key) in gallery_list">
+                      <a :href="item.linkDetail">
+                        <div class="gnEvent__thumb" v-if="item.thumbnailImg">
+                          <img :src="assets_base_url + item.thumbnailImg" alt="" width="520" height="270" loading="lazy">
+                        </div>
+                        <div class="gnEvent__thumb" v-else>
+                          <img src="/assets/img/noimg/1920_1080.png" alt="" width="520" height="270" loading="lazy">
+                        </div>
+                        <p class="gnEvent__name">{{ item.title }}
+                          <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span></p>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <p class="gnEvent__link sectionLink">
+                  <a href="/gallery/" class="m-btnBaseM m-btnSizeL m-btnColor--black">フォトイベントギャラリー一覧を見る</a>
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </li>
+
+      <li class="globalNav__item has-dropdown">
+        <button id="menu-news" class="globalNav__trigger" aria-haspopup="true" aria-expanded="false" aria-controls="submenu-news">
+          TOPICS
+        </button>
+        <div id="submenu-news" class="globalSubNav" role="region" aria-labelledby="menu-news" hidden>
+          <div class="globalSubNav__closeSticky">
+            <button class="globalSubNav__close js-subNav__close">
+              <span class="u-srOnly">閉じる</span>
+            </button>
+          </div>
+          <div class="globalSubNav__inner">
+            <div class="gnNews__main">
+              <section class="gnNews__section">
+                <h3 class="blockTitle2">Topics</h3>
+                <div class="gnTopicList" v-if="topic_list.length > 0">
+                  <ul class="gnTopicList__items itemList">
+                    <li class="gnTopicList__item itemList__item" v-for="(item, key) in topic_list">
+                      <article>
+                        <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                          <h4 class="itemList__title">
+                            {{ item.title }}
+                            <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span>
+                          </h4>
+                          <div class="itemList__thumb" v-if="item.thumbnailImg">
+                            <img :src="assets_base_url + item.thumbnailImg" alt="" width="670" height="670" loading="lazy">
+                          </div>
+                          <div class="itemList__thumb" v-else>
+                            <img src="/assets/img/noimg/1920_1080.png" alt="" width="670" height="670" loading="lazy">
+                          </div>
+
+                          <p class="itemList__tag">{{ item.categoryStr }}</p>
+                          <div class="itemList__meta">
+                            <p class="itemList__date">
+                              <time :datetime="item.publishDateData">{{ item.publishDateStr }}</time>
+                            </p>
+                          </div>
+                        </a>
+                      </article>
+                    </li>
+                  </ul>
+                </div>
+                <p class="gnNews__link sectionLink">
+                  <a href="/topics/" class="m-btnBaseM m-btnSizeL m-btnColor--black">TOPICS一覧を見る</a
+                  >
+                </p>
+              </section>
+
+              <section class="gnNews__section">
+                <h3 class="blockTitle2">重要なお知らせ</h3>
+                <div class="gnInfoList" v-if="notice_list.length > 0">
+                  <ul class="gnInfoList__items">
+                    <li class="gnInfoList__item" v-for="(item, key) in notice_list">
+                      <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                        <div class="gnInfoList__article">
+                          <p class="gnInfoList__date">
+                            <time :datetime="item.publishDateData">{{ item.publishDateStr }}</time>
+                          </p>
+                          <p class="gnInfoList__title">
+                            <strong>{{ item.title }}</strong>
+                            <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span>
+                          </p>
+                        </div></a>
+                    </li>
+                  </ul>
+                </div>
+
+                <p class="gnNews__link sectionLink">
+                  <a href="/important/" class="m-btnBaseM m-btnSizeL m-btnColor--black">重要なお知らせ一覧を見る</a
+                  >
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </li>
+
+      <li class="globalNav__item has-dropdown">
+        <button id="menu-support" class="globalNav__trigger" aria-haspopup="true" aria-expanded="false" aria-controls="submenu-support">
+          サポート
+        </button>
+        <div id="submenu-support" class="globalSubNav" role="region" aria-labelledby="menu-support" hidden>
+          <div class="globalSubNav__closeSticky">
+            <button class="globalSubNav__close js-subNav__close">
+              <span class="u-srOnly">閉じる</span>
+            </button>
+          </div>
+          <div class="globalSubNav__inner">
+            <div class="gnSupport__main">
+              <section class="gnSupport__section">
+                <h3 class="blockTitle2">サポート</h3>
+                <div class="gnSupportList">
+                  <ul class="supportList__items">
+                    <li class="supportList__item">
+                      <a href="/support/purchase/"
+                        ><div class="supportList__txtBox">
+                          <p class="supportList__txt">商品購入方法</p>
+                        </div></a
+                      >
+                    </li>
+                    <li class="supportList__item supportList__item02">
+                      <a href="/support/manual/"
+                        ><div class="supportList__txtBox">
+                          <p class="supportList__txt">商品取扱説明書</p>
+                        </div></a
+                      >
+                    </li>
+                    <li class="supportList__item supportList__item03">
+                      <a href="/support/survey/"
+                        ><div class="supportList__txtBox">
+                          <p class="supportList__txt">商品アンケート</p>
+                        </div></a
+                      >
+                    </li>
+                    <li class="supportList__item supportList__item04">
+                      <a href="/support/inquiry/"
+                        ><div class="supportList__txtBox">
+                          <p class="supportList__txt">お問い合わせ先一覧</p>
+                        </div></a
+                      >
+                    </li>
+                    <li class="supportList__item supportList__item05">
+                      <a href="/support/overseas/"
+                        ><div class="supportList__txtBox">
+                          <p class="supportList__txt" lang="en">
+                            For Overseas Customers
+                          </p>
+                        </div></a
+                      >
+                    </li>
+                    <li class="supportList__item supportList__item06">
+                      <a href="/support/business/"
+                        ><div class="supportList__txtBox">
+                          <p class="supportList__txt">
+                            流通・関係者様<br class="u-pcNobreak" />専用サイト
+                          </p>
+                        </div></a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <p class="gnSupport__link sectionLink">
+                  <a href="/support/" class="m-btnBaseM m-btnSizeL m-btnColor--black">サポート一覧を見る</a
+                  >
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class="globalNav__item">
+        <a href="/about/">TAMASHII NATIONSについて</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<!-- 検索ボタン -->
+<div class="globalSearchButton has-dropdown">
+  <button id="menu-search" class="globalNav__trigger" aria-haspopup="true" aria-expanded="false" aria-controls="submenu-search">
+    <span class="globalSearchButton__label-jp">商品を探す</span>
+  </button>
+  <div id="submenu-search" class="globalSubNav _gnSearch" aria-labelledby="menu-search" hidden>
+    <div class="globalSubNav__closeSticky">
+      <button class="globalSubNav__close js-subNav__close">
+        <span class="u-srOnly">閉じる</span>
+      </button>
+    </div>
+    <div class="globalSubNav__inner">
+      <div class="gnSearch__main">
+        <div class="gnSearchLinkBox u-searchBox">
+          <form action="/item/" method="get" class="searchForm">
+            <label for="header-search" class="u-srOnly">キーワードで商品を検索</label>
+            <input type="search" id="header-search" name="wo" placeholder="キーワードで商品を検索">
+            <button type="submit" class="searchButton"><img src="/assets/img/icon/icon_search-wht.svg" alt="検索" width="210" height="210" loading="lazy"></button>
+          </form>
+        </div>
+        <section class="gnSearch__section">
+          <h3 class="blockTitle2">キャラクター（作品）から探す</h3>
+
+          <div class="gnSlide js-swiperSlide" data-column="7" data-group="7" data-column-sp="9" data-group-sp="9" data-loop="false">
+            <div class="gnSlide__prev swiper-button-prev" aria-label="前のスライド"></div>
+            <div class="gnSlide__inner swiper-obj">
+              <ul class="gnSlide__items swiper-wrapper">
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/gundam_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_gundam_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">ガンダムシリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/kamenrider_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_kamenrider_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">仮面ライダーシリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/ultraman_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_ultraman_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">ウルトラマンシリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/dragonball_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_dragonball_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">ドラゴンボールシリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/onepiece/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_onepiece.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">ワンピース</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/naruto_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_naruto_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">NARUTO-ナルト-シリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/saint_seiya_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_saint_seiya_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">聖闘士星矢シリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/godzilla/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_godzilla.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">ゴジラシリーズ</p>
+                  </a>
+                </li>
+
+                <li class="gnSlide__item swiper-slide">
+                  <a href="/item_character/macross_series/">
+                    <div class="gnSlide__img">
+                      <img src="/assets/img/header/item_character/thumb_macross_series.webp" alt="" width="300" height="300" loading="lazy">
+                    </div>
+                    <p class="gnSlide__name">マクロスシリーズ</p>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="gnSlide__next swiper-button-next" aria-label="次のスライド"></div>
+            <ul class="gnSlide__pagination swiper-pagination" role="presentation"></ul>
+          </div>
+          <p class="gnSearch__link sectionLink">
+            <a href="/item_character/" class="m-btnBaseM m-btnSizeL m-btnColor--black">キャラクター（作品）一覧から探す</a
+            >
+          </p>
+        </section>
+
+        <section class="gnSearch__section">
+          <h3 class="blockTitle2">ブランドから探す</h3>
+          <div class="gnLogoBlock">
+            <h4 class="blockSubtitle2">フィギュア</h4>
+            <div class="gnLogoSlide js-swiperSlide" data-column="6" data-group="6" data-column-sp="2" data-group-sp="2" data-loop="false">
+              <div class="gnLogoSlide__prev swiper-button-prev u-spHide" aria-label="前のスライド"></div>
+              <div class="gnLogoSlide__inner swiper-obj">
+                <ul class="gnLogoSlide__items swiper-wrapper">
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/shfiguarts/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_shfiguarts.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">S.H.Figuarts</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/shinkocchou/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_shinkocchou.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">
+                        S.H.Figuarts（真骨彫製法）
+                      </p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/figuarts_zero/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_figuarts_zero.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">フィギュアーツZERO</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/figuarts_mini/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_figuarts_mini.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">Figuarts mini</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/shmonsterarts/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_shmonsterarts.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">S.H.MonsterArts</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/proplica/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_proplica.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">PROPLICA</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/saintclothmyth_ex/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_saintclothmyth_ex.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">聖闘士聖衣神話EX</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/luffys/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_luffys.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">LUFFY's</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/tamashii_effect/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_tamashii_effect.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">魂EFFECTシリーズ</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/tamashii_stage/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_tamashii_stage.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">魂STAGE</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="gnLogoSlide__next swiper-button-next u-spHide" aria-label="次のスライド"></div>
+              <div class="gnLogoSlide__navWrap">
+                <div class="gnLogoSlide__prev swiper-button-prev u-pcHide" aria-label="前のスライド"></div>
+                <div class="gnLogoSlide__pagination swiper-pagination" role="presentation"></div>
+                <div class="gnLogoSlide__next swiper-button-next u-pcHide" aria-label="次のスライド"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="gnLogoBlock">
+            <h4 class="blockSubtitle2">ロボット</h4>
+            <div class="gnLogoSlide js-swiperSlide" data-column="6" data-group="6" data-column-sp="2" data-group-sp="2" data-loop="false">
+              <div class="gnLogoSlide__prev swiper-button-prev u-spHide" aria-label="前のスライド"></div>
+              <div class="gnLogoSlide__inner swiper-obj">
+                <ul class="gnLogoSlide__items swiper-wrapper">
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/metal_build/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_metal_build.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">METAL BUILD</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/metal_robot_tamashii/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_metal_robot_tamashii.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">METAL ROBOT魂</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/robot_tamashii/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_robot_tamashii.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">ROBOT魂</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/ka_signature/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_ka_signature.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">Ka signature</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/chogokin/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_chogokin.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">超合金</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/chogokintamashii/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_chogokintamashii.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">超合金魂</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/hi-metal_r/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_hi-metal_r.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">HI-METAL R</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/nxedge/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_nxedge.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">NXEDGE STYLE</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/dx_chogokin/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_dx_chogokin.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">DX超合金</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/dx_chogokintamashii/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_dx_chogokintamashii.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">DX超合金魂</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/gundam_universe/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_gundam_universe.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">GUNDAM UNIVERSE</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/gundam_fix_figuration_metal/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_gundam_fix_figuration_metal.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">
+                        GUNDAM FIX FIGURATION METAL COMPOSITE
+                      </p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/kaitai_shou_ki/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_kaitai_shou_ki.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">METAL STRUCTURE 解体匠機</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/tiny-session/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_tiny-session.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">TINY SESSION</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/tamashii_effect/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_tamashii_effect.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">魂EFFECTシリーズ</p>
+                    </a>
+                  </li>
+
+                  <li class="gnLogoSlide__item swiper-slide">
+                    <a href="/item_brand/tamashii_stage/">
+                      <div class="gnLogoSlide__img">
+                        <img src="/assets/img/header/logo_tamashii_stage.webp" alt="" width="315" height="123" loading="lazy">
+                      </div>
+                      <p class="gnLogoSlide__name">魂STAGE</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="gnLogoSlide__next swiper-button-next u-spHide" aria-label="次のスライド"></div>
+              <div class="gnLogoSlide__navWrap">
+                <div class="gnLogoSlide__prev swiper-button-prev u-pcHide" aria-label="前のスライド"></div>
+                <div class="gnLogoSlide__pagination swiper-pagination" role="presentation"></div>
+                <div class="gnLogoSlide__next swiper-button-next u-pcHide" aria-label="次のスライド"></div>
+              </div>
+            </div>
+          </div>
+
+          <p class="gnSearch__link sectionLink">
+            <a href="/item_brand/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ブランド一覧から探す</a
+            >
+          </p>
+        </section>
+
+        <section class="gnSearch__section">
+          <h3 class="blockTitle2">月別販売スケジュールから探す</h3>
+          <div class="gnScheLinkBox">
+            <div class="gnScheLinkBox__list" v-if="month_list.length > 0">
+              <h4 class="gnScheLinkBox__title">予約・購入できる商品を見る</h4>
+              <ul>
+                <li v-for="(item, key) in month_list">
+                  <a :href="'/schedule?month=' + item.value">{{ item.label }}</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <p class="gnSearch__link sectionLink">
+            <a href="/schedule/" class="m-btnBaseM m-btnSizeL m-btnColor--black"
+              >月別販売スケジュールから探す</a
+            >
+          </p>
+        </section>
+
+        <section class="gnSearch__section">
+          <h3 class="blockTitle2">すべての商品から探す</h3>
+          <p class="gnSearch__link sectionLink">
+            <a href="/item/" class="m-btnBaseM m-btnSizeL m-btnColor--black"
+              >すべての商品一覧から探す</a
+            >
+          </p>
+        </section>
+      </div>
+    </div>
+    <div class="globalSubNav__closeBtm u-pcHide">
+      <button class="globalSubNav__close2 js-subNav__close">
+        <span>閉じる</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<button class="hamburger js-hamburger" aria-controls="globalNavSp" aria-expanded="false">
+  <span class="hamburger__icon" aria-hidden="true"></span>
+  <span class="hamburger__label hamburger__label--menu" data-wovn-ignore>MENU</span>
+  <span class="hamburger__label hamburger__label--close" data-wovn-ignore>CLOSE</span>
+</button>
+
+<div class="globalNavSpWrapper" id="globalNavSp" hidden>
+  <nav class="globalNavSp" role="navigation" aria-labelledby="globalNavLabel">
+    <ul class="globalNavSp__items">
+      <li class="globalNavSp__item is-area-emea-latam"><a href="/shop-service/"><span class="gnBox__title">ショップ・サービス</span></a></li>
+      <li class="globalNavSp__item not-area-emea-latam">
+        <details class="gnBox js-accordionBox is-hide">
+          <summary class="gnBox__header js-accordionBtn">
+            <span class="gnBox__title">ショップ・サービス</span>
+          </summary>
+          <div class="gnBox__main js-accordionMenu">
+            <div class="gnBox__main__inner">
+              <div class="gnShop__main is-area-ja">
+                <section class="gnShop__section">
+                  <h3 class="blockTitle2">ショップ</h3>
+
+                  <section class="gnShop__group">
+                    <h4 class="blockSubtitle2">オンラインショップ</h4>
+                    <div class="gnShop__list">
+                      <ul class="gnShop__items">
+                        <li class="gnShop__item">
+                          <a href="https://p-bandai.jp/tamashiiwebshouten/" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb">
+                              <img src="/assets/img/shop/bnr_tamashiiwebshouten.webp" alt="" width="520" height="270" loading="lazy">
+                            </div>
+                            <p class="gnShop__name">
+                              魂ウェブ商店
+                              <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                            </p>
+                            <p class="gnShop__txt">
+                              プレミアムバンダイのTAMASHII NATIONS公式ショッピングサイト。スペシャルアイテムの受注販売や抽選販売を期間限定で実施しています。
+                            </p>
+                          </a>
+                        </li>
+                        <li class="gnShop__item">
+                          <a href="https://p-bandai.jp/tns-online/" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb">
+                              <img src="/assets/img/shop/bnr_tns-online.webp" alt="" width="520" height="270" loading="lazy">
+                            </div>
+                            <p class="gnShop__name">
+                              TAMASHII NATIONS STORE ONLINE
+                              <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                            </p>
+                            <p class="gnShop__txt">
+                              TAMASHII NATIONS STORE
+                              TOKYOに関連する商品を販売しています。
+                            </p>
+                          </a>
+                        </li>
+
+                      </ul>
+                    </div>
+                  </section>
+
+                  <section class="gnShop__group">
+                    <h4 class="blockSubtitle2">実店舗</h4>
+                    <div class="gnShop__list">
+                      <ul class="gnShop__items">
+                        <li class="gnShop__item">
+                          <a href="https://tamashiiweb.com/store/tokyo/" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb">
+                              <img src="/assets/img/shop/bnr_tns-tokyo.webp" alt="" width="520" height="270" loading="lazy">
+                            </div>
+                            <p class="gnShop__name">
+                              TAMASHII NATIONS STORE TOKYO
+                              <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                            </p>
+                            <p class="gnShop__txt">
+                              東京秋葉原の直営フラッグシップショップ。魂ストア限定品などを販売しています。
+                            </p>
+                          </a>
+                        </li>
+                        <li class="gnShop__item">
+                          <a href="https://tamashiiweb.com/store/spot/osaka/" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb">
+                              <img src="/assets/img/shop/bnr_spot-osaka.webp" alt="" width="520" height="270" loading="lazy">
+                            </div>
+                            <p class="gnShop__name">
+                              TAMASHII SPOT OSAKA
+                              <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                            </p>
+                            <p class="gnShop__txt">
+                              大阪梅田のオフィシャルショップ。魂ストア限定品などを販売しています。
+                            </p>
+                          </a>
+                        </li>
+                        <li class="gnShop__item">
+                          <a href="/shop-service/conceptshop/">
+                            <div class="gnShop__thumb">
+                              <img src="/assets/img/shop/bnr_conceptshop.webp" alt="" width="520" height="270" loading="lazy">
+                            </div>
+                            <p class="gnShop__name">
+                              TAMASHII NATIONS Concept Shop
+                            </p>
+                            <p class="gnShop__txt">
+                              TAMASHII
+                              NATIONSの価値、フィギュアの魅力を感じられるコンセプトショップ。
+                            </p>
+                          </a>
+                        </li>
+                        <li class="gnShop__item"><a href="https://bandainamco-am.co.jp/official_shop/tamashiinations-crossstore/" target="_blank">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_crossstore.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">バンダイナムコ Cross Store<span class="u-srOnly"> 外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">バンダイナムコグループ各社が展開する 「キャラクター商品」がそろう、さまざまなオフィシャルショップを多数展開します。</p>
+                        </a></li>
+                      </ul>
+                    </div>
+                  </section>
+                </section>
+
+                <section class="gnShop__section">
+                  <h3 class="blockTitle2">サービス</h3>
+                  <div class="gnShop__list">
+                    <ul class="gnShop__items">
+                      <li class="gnShop__item">
+                        <a href="https://club.tamashii.jp/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_ctm.webp" alt="みんなおトクな会員サービス 好きも、おトクも、貯まっていく！" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            CLUB TAMASHII MEMBERS
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                        </a>
+                      </li>
+                      <li class="gnShop__item">
+                        <a href="https://tamashiiweb.com/special/digi-fig/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_digifig.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            Digi-Fig（デジフィグ）
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                        </a>
+                      </li>
+                      <li class="gnShop__item">
+                        <a href="https://tamashiigarage.com/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb">
+                            <img src="/assets/img/shop/bnr_tamashiigarage.webp" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnShop__name">
+                            魂ガレージ
+                            <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span>
+                          </p>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </section>
+
+                <p class="gnShop__link sectionLink"><a href="/shop-service/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ショップ・サービス一覧を見る</a></p>
+              </div>
+
+              <div class="gnShop__main is-area-asia">
+                <section class="gnShop__section">
+                  <h3 class="blockTitle2">ショップ</h3>
+                  <section class="gnShop__group">
+                    <h4 class="blockSubtitle2">オンラインショップ</h4>
+                    <div class="gnShop__list">
+                      <ul class="gnShop__items">
+                        <li class="gnShop__item"><a href="https://p-bandai.com/hk/shop/tamashiiwebshop" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tws-hk.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">魂ウェブ商店 香港 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">プレミアムバンダイ香港のTAMASHII NATIONS公式ショッピングサイト。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://p-bandai.com/tw/shop/tamashiiwebshop" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tws-tw.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">魂ウェブ商店 台湾 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">プレミアムバンダイ台湾のTAMASHII NATIONS公式ショッピングサイト。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://p-bandai.com/sg/shop/tamashiiwebshop" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tws-sg.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">魂ウェブ商店 シンガポール <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">プレミアムバンダイシンガポールのTAMASHII NATIONS公式ショッピングサイト。</p>
+                        </a></li>
+                      </ul>
+                    </div>
+                  </section>
+
+                  <section class="gnShop__group">
+                    <h4 class="blockSubtitle2">実店舗</h4>
+                    <div class="gnShop__list">
+                      <ul class="gnShop__items">
+                        <li class="gnShop__item"><a href="https://tamashiiweb.com/store/shanghai/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tns-sh.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">TAMASHII NATIONS STORE SHANGHAI <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">上海南京東路のフラッグシップショップ。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/hong-kong/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-hk.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">TAMASHII SPOT HONG KONG <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">香港のオフィシャルショップ。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/taipei/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-tp.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">TAMASHII SPOT TAIPEI <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">台北のオフィシャルショップ。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/guangzhou/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-gz.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">TAMASHII SPOT GUANGZHOU <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">広州のオフィシャルショップ。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/seoul/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-sl.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">TAMASHII SPOT SEOUL <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">ソウルのオフィシャルショップ。</p>
+                        </a></li>
+                        <li class="gnShop__item"><a href="https://tamashiiweb.com/store/spot/bangkok-siamcenter/" target="_blank" rel="noopener">
+                          <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_spot-bks.webp" alt="" width="520" height="270" loading="lazy"></div>
+                          <p class="gnShop__name">TAMASHII SPOT BANGKOK Siam Center <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                          <p class="gnShop__txt">バンコクサイアムセンターのオフィシャルショップ。</p>
+                        </a></li>
+                      </ul>
+                    </div>
+                  </section>
+                </section>
+
+                <p class="gnShop__link sectionLink"><a href="/shop-service/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ショップ・サービス一覧を見る</a></p>
+              </div>
+
+              <div class="gnShop__main is-area-usa">
+                <section class="gnShop__section">
+                  <h3 class="blockTitle2">ショップ</h3>
+                  <div class="gnShop__groups">
+                    <section class="gnShop__group">
+                      <h4 class="blockSubtitle2">オンラインショップ</h4>
+                      <div class="gnShop">
+                        <ul class="gnShop__items">
+                          <li class="gnShop__item"><a href="https://p-bandai.com/us/shop/tamashiinationsonlineshop" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tns-online-usa.webp" alt="" width="520" height="270" loading="lazy"></div>
+                            <p class="gnShop__name">TAMASHII NATIONS ONLINE SHOP PREMIUM BANDAI USA <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                            <p class="gnShop__txt">プレミアムバンダイUSのTAMASHII NATIONS公式ショッピングサイト。</p>
+                          </a></li>
+
+                        </ul>
+                      </div>
+                    </section>
+
+                    <section class="gnShop__group">
+                      <h4 class="blockSubtitle2">実店舗</h4>
+                      <div class="gnShop">
+                        <ul class="gnShop__items">
+                          <li class="gnShop__item"><a href="https://tamashiiweb.com/store/new-york/" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_tns-ny.webp" alt="" width="520" height="270" loading="lazy"></div>
+                            <p class="gnShop__name">TAMASHII NATIONS STORE NEW YORK <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                            <p class="gnShop__txt">ニューヨークのフラッグシップショップ。</p>
+                          </a></li>
+
+                          <li class="gnShop__item"><a href="https://tamashii-storelocator.com/usa.html" target="_blank" rel="noopener">
+                            <div class="gnShop__thumb"><img src="/assets/img/shop/bnr_store-locator-s.webp" alt="" width="520" height="270" loading="lazy"></div>
+                            <p class="gnShop__name">TAMASHII NATIONS Store Locator <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+                            <p class="gnShop__txt">お近くのTAMASHII NATIONS取扱店舗を検索できるサービスです。</p>
+                          </a></li>
+
+                        </ul>
+                      </div>
+                    </section>
+                  </div>
+
+                </section>
+
+                <p class="gnShop__link sectionLink"><a href="/shop-service/" class="m-btnBaseM m-btnSizeL m-btnColor--black">ショップ・サービス一覧を見る</a></p>
+              </div>
+
+
+            </div>
+          </div>
+        </details>
+      </li>
+
+      <li class="globalNavSp__item">
+        <details class="gnBox js-accordionBox is-hide">
+          <summary class="gnBox__header js-accordionBtn">
+            <span class="gnBox__title">イベント</span>
+          </summary>
+          <div class="gnBox__main js-accordionMenu">
+            <div class="gnBox__main__inner">
+              <div class="gnEvent__main">
+                <section class="gnEvent__section">
+                  <h3 class="blockTitle2">イベント</h3>
+                  <section class="gnEvent__group" v-if="event_list_active.length > 0">
+                    <h4 class="blockSubtitle2">開催中のイベント</h4>
+                    <div class="gnEvent__list">
+                      <ul class="gnEvent__items">
+                        <li class="gnEvent__item" v-for="(item, key) in event_list_active">
+                          <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                            <div class="gnEvent__thumb" v-if="item.thumbnailImg">
+                              <img :src="assets_base_url + item.thumbnailImg" alt="" width="1200" height="675" loading="lazy">
+                            </div>
+                            <div class="gnEvent__thumb" v-else>
+                              <img src="/assets/img/noimg/1920_1080.png" alt="" width="1200" height="675" loading="lazy">
+                            </div>
+                            <p class="gnEvent__name">{{ item.title }}
+                              <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span></p>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+
+                  <section class="gnEvent__group" v-if="event_list_upcoming.length > 0">
+                    <h4 class="blockSubtitle2">開催予定のイベント</h4>
+                    <div class="gnEvent__list">
+                      <ul class="gnEvent__items">
+                        <li class="gnEvent__item" v-for="(item, key) in event_list_upcoming">
+                          <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                            <div class="gnEvent__thumb" v-if="item.thumbnailImg">
+                              <img :src="assets_base_url + item.thumbnailImg" alt="" width="1200" height="675" loading="lazy">
+                            </div>
+                            <div class="gnEvent__thumb" v-else>
+                              <img src="/assets/img/noimg/1920_1080.png" alt="" width="1200" height="675" loading="lazy">
+                            </div>
+                            <p class="gnEvent__name">{{ item.title }}
+                              <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span></p>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+
+                  <p class="gnEvent__link sectionLink">
+                    <a href="/event/" class="m-btnBaseM m-btnSizeL m-btnColor--black">イベント一覧を見る</a
+                    >
+                  </p>
+                </section>
+
+                <section class="gnEvent__section">
+                  <h3 class="blockTitle2">フォトギャラリー</h3>
+                  <div class="gnEvent__list" v-if="gallery_list.length > 0">
+                    <ul class="gnEvent__items">
+                      <li class="gnEvent__item" v-for="(item, key) in gallery_list">
+                        <a :href="item.linkDetail">
+                          <div class="gnEvent__thumb" v-if="item.thumbnailImg">
+                            <img :src="assets_base_url + item.thumbnailImg" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <div class="gnEvent__thumb" v-else>
+                            <img src="/assets/img/noimg/1920_1080.png" alt="" width="520" height="270" loading="lazy">
+                          </div>
+                          <p class="gnEvent__name">{{ item.title }}
+                            <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span></p>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <p class="gnEvent__link sectionLink">
+                    <a href="/gallery/" class="m-btnBaseM m-btnSizeL m-btnColor--black">フォトギャラリー一覧を見る</a
+                    >
+                  </p>
+                </section>
+              </div>
+            </div>
+          </div>
+        </details>
+      </li>
+
+      <li class="globalNavSp__item">
+        <details class="gnBox js-accordionBox is-hide">
+          <summary class="gnBox__header js-accordionBtn">
+            <span class="gnBox__title">TOPICS</span>
+          </summary>
+          <div class="gnBox__main js-accordionMenu">
+            <div class="gnBox__main__inner">
+              <div class="gnNews__main">
+                <section class="gnNews__section">
+                  <h3 class="blockTitle2">Topics</h3>
+                  <div class="gnTopicList" v-if="topic_list.length > 0">
+                    <ul class="gnTopicList__items itemList">
+                      <li class="gnTopicList__item itemList__item" v-for="(item, key) in topic_list">
+                        <article>
+                          <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                            <h4 class="itemList__title">
+                              {{ item.title }}
+                              <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span>
+                            </h4>
+                            <div class="itemList__thumb" v-if="item.thumbnailImg">
+                              <img :src="assets_base_url + item.thumbnailImg" alt="" width="670" height="670" loading="lazy">
+                            </div>
+                            <div class="itemList__thumb" v-else>
+                              <img src="/assets/img/noimg/1920_1080.png" alt="" width="670" height="670" loading="lazy">
+                            </div>
+
+                            <p class="itemList__tag">{{ item.categoryStr }}</p>
+                            <div class="itemList__meta">
+                              <p class="itemList__date">
+                                <time :datetime="item.publishDateData">{{ item.publishDateStr }}</time>
+                              </p>
+                            </div>
+                          </a>
+                        </article>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <p class="gnNews__link sectionLink">
+                    <a href="/topics/" class="m-btnBaseM m-btnSizeL m-btnColor--black">TOPICS一覧を見る</a
+                    >
+                  </p>
+                </section>
+
+                <section class="gnNews__section">
+                  <h3 class="blockTitle2">重要なお知らせ</h3>
+                  <div class="gnInfoList">
+                    <ul class="gnInfoList__items">
+                      <li class="gnInfoList__item" v-for="(item, key) in notice_list">
+                        <a :href="item.linkDetail" v-bind="{ target: item.isLinkBlank?'_blank':null, rel: item.isLinkBlank?'noopener':null }">
+                          <div class="gnInfoList__article">
+                            <p class="gnInfoList__date">
+                              <time :datetime="item.publishDateData">{{ item.publishDateStr }}</time>
+                            </p>
+                            <p class="gnInfoList__title">
+                              <strong>{{ item.title }}</strong>
+                              <span class="u-srOnly" v-if="item.isLinkBlank">(新しいタブで開きます)</span>
+                            </p>
+                          </div></a>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <p class="gnNews__link sectionLink">
+                    <a href="/important/" class="m-btnBaseM m-btnSizeL m-btnColor--black">重要なお知らせ一覧を見る</a
+                    >
+                  </p>
+                </section>
+              </div>
+            </div>
+          </div>
+        </details>
+      </li>
+
+      <li class="globalNavSp__item">
+        <details class="gnBox js-accordionBox is-hide">
+          <summary class="gnBox__header js-accordionBtn">
+            <span class="gnBox__title">サポート</span>
+          </summary>
+          <div class="gnBox__main js-accordionMenu">
+            <div class="gnBox__main__inner">
+              <div class="gnSupport__main">
+                <section class="gnSupport__section">
+                  <h3 class="blockTitle2">サポート</h3>
+                  <div class="gnSupportList">
+                    <ul class="supportList__items">
+                      <li class="supportList__item">
+                        <a href="/support/purchase/"
+                          ><div class="supportList__txtBox">
+                            <p class="supportList__txt">商品購入方法</p>
+                          </div></a
+                        >
+                      </li>
+                      <li class="supportList__item supportList__item02">
+                        <a href="/support/manual/"
+                          ><div class="supportList__txtBox">
+                            <p class="supportList__txt">商品取扱説明書</p>
+                          </div></a
+                        >
+                      </li>
+                      <li class="supportList__item supportList__item03">
+                        <a href="/support/survey/"
+                          ><div class="supportList__txtBox">
+                            <p class="supportList__txt">商品アンケート</p>
+                          </div></a
+                        >
+                      </li>
+                      <li class="supportList__item supportList__item04">
+                        <a href="/support/inquiry/"
+                          ><div class="supportList__txtBox">
+                            <p class="supportList__txt">お問い合わせ先一覧</p>
+                          </div></a
+                        >
+                      </li>
+                      <li class="supportList__item supportList__item05">
+                        <a href="/support/overseas/"
+                          ><div class="supportList__txtBox">
+                            <p class="supportList__txt" lang="en">
+                              For Overseas Customers
+                            </p>
+                          </div></a
+                        >
+                      </li>
+                      <li class="supportList__item supportList__item06">
+                        <a href="/support/business/"
+                          ><div class="supportList__txtBox">
+                            <p class="supportList__txt">
+                              流通・関係者様<br class="u-pcNobreak" />専用サイト
+                            </p>
+                          </div></a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                  <p class="gnSupport__link sectionLink">
+                    <a href="/support/" class="m-btnBaseM m-btnSizeL m-btnColor--black">サポート一覧を見る</a
+                    >
+                  </p>
+                </section>
+              </div>
+            </div>
+          </div>
+        </details>
+      </li>
+
+      <li class="globalNavSp__item">
+        <a href="/about/"
+          ><span class="gnBox__title">TAMASHII NATIONSについて</span></a
+        >
+      </li>
+    </ul>
+    <div class="utilityNavSp">
+      <ul class="utilityNav__items">
+        <li class="utilityNav__item">
+          <button class="sns-link" data-modal-target="modalSNS">
+            <span>公式SNS<span class="u-srOnly">（モーダルを開く）</span></span>
+          </button>
+        </li>
+        <li class="utilityNav__item member-link-inactive"><button class="member-link" onclick="location.href='/api/ctm/login.php'">
+            <span>ログイン<span class="u-srOnly">（モーダルを開く）</span></span>
+          </button></li>
+        <li class="utilityNav__item member-link-active"><button class="member-link" data-modal-target="modalCTM2">
+            <span>ログイン中<span class="u-srOnly">（モーダルを開く）</span></span>
+          </button></li>
+        <li class="utilityNav__item lang-switch-navi"><button class="lang-switch" data-modal-target="modalLang">
+            <span class="langSwitchLabel">&nbsp;</span><span class="u-srOnly">（モーダルを開く）</span>
+          </button></li>
+      </ul>
+    </div>
+  </nav>
+</div>
+
+
+	</div>
+</header>
+
+
+<nav aria-label="パンくずリスト" class="breadcrumbNav">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="/">
+        <span itemprop="name">TOP</span>
+      </a>
+      <meta itemprop="position" content="1">
+    </li>
+
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">
+      <span itemprop="name">Not Found</span>
+      <meta itemprop="position" content="2">
+    </li>
+  </ol>
+<!--  /.breadcrumbNav --></nav>
+
+<main id="main-content" class="main" tabindex="-1">
+
+<div class="mainContents">
+	<div class="pageHeading">
+		<div class="pageHeading__inner">
+			<h1 class="pageHeading__title">Not Found<br>ページが見つかりません。</h1>
+			<p class="pageHeading__lead">申し訳ございません。<br>
+			ご指定のページにアクセスできませんでした。<br>
+			削除されたか、入力したURLが間違っている可能性があります。</p>
+		</div>
+	</div>
+
+
+
+	<div class="notfoundSection sectionConts">
+		<div class="notfoundSection__inner sectionConts__inner">
+
+			<ul class="notfoundSection__linkList">
+				<li><a href="/" class="m-btnBaseM m-btnSizeL m-btnColor--black">TOPページを見る</a></li>
+				<li><a href="/sitemap/" class="m-btnBaseM m-btnSizeL m-btnColor--black">サイトマップを見る</a></li>
+			</ul>
+
+			<h2 class="notfoundSection__sTitle">サイト内検索で探す</h2>
+			<div class="searchLinkBox u-searchBox">
+				<form action="/search" method="get" class="searchForm">
+					<label for="page-search" class="u-srOnly">キーワードでサイト内を検索</label>
+					<input type="search" name="q" id="page-search" placeholder="キーワードを入力" title="キーワードでサイト内を検索">
+					<button type="submit" class="searchButton"><img src="/assets/img/icon/icon_search-wht.svg" alt="検索" width="210" height="210" loading="lazy"></button>
+				</form>
+			</div>
+
+		<!--/.notfoundSection__inner--></div>
+	<!--  /.notfoundSection --></div>
+
+<!--  /.mainContents --></div>
+
+
+
+
+<p class="footerPageTop js-pageTop"><a href="#top">Page<br>Top</a></p>
+</main>
+
+<!-- フッター -->
+<footer class="globalFooter">
+  <div class="globalFooter__inner">
+    <div class="globalFooter__top">
+      <div class="globalFooter__logo">
+        <a href="/"><img src="/assets/img/logo/logo_tnos.svg" alt="TAMASHII NATIONS OFFICIAL SITE" width="268" height="74" loading="lazy"></a>
+      </div>
+
+      <div class="globalFooter__search">
+        <form action="/search" role="search">
+          <div class="globalFooter__searchBox u-searchBox">
+            <div class="globalFooter__searchBox__inner">
+              <label for="footer-search" class="u-srOnly">キーワードでサイト内を検索</label>
+              <input id="footer-search" type="search" name="q" placeholder="キーワードを入力">
+              <button type="submit">
+                <img src="/assets/img/icon/icon_search.svg" alt="検索" width="210" height="210" loading="lazy">
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="globalFooter__nav">
+      <nav class="footerNav" aria-label="フッターナビゲーション">
+        <div class="footerNav__group">
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading">商品を探す</h2>
+            <ul>
+              <li><a href="/item/">商品一覧</a></li>
+              <li>
+                <a href="/item_character/">キャラクター（作品）から探す</a>
+              </li>
+              <li><a href="/item_brand/">ブランドから探す</a></li>
+              <li><a href="/schedule/">月別販売スケジュールから探す</a></li>
+            </ul>
+          </div>
+
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading">
+              <a href="/shop-service/">ショップ・サービス</a>
+            </h2>
+            <ul>
+              <li>
+                <a href="/shop-service/conceptshop/">TAMASHII NATIONS Concept Shop</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footerNav__group">
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading">イベント</h2>
+            <ul>
+              <li><a href="/event/">イベント一覧</a></li>
+              <li><a href="/gallery/">フォトギャラリー一覧</a></li>
+            </ul>
+          </div>
+
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading"><a href="/topics/">TOPICS</a></h2>
+            <ul>
+              <li><a href="/topics/items/">商品情報</a></li>
+              <li><a href="/topics/event/">イベント</a></li>
+              <li><a href="/topics/campaign/">キャンペーン</a></li>
+              <li><a href="/topics/blog/">公式ブログ</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footerNav__group">
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading"><a href="/support/">サポート</a></h2>
+            <ul>
+              <li><a href="/support/purchase/">商品購入方法</a></li>
+              <li><a href="/support/manual/">商品取扱説明書</a></li>
+              <li><a href="/support/survey/">商品アンケート</a></li>
+              <li><a href="/support/inquiry/">お問い合わせ先一覧</a></li>
+              <li lang="en">
+                <a href="/support/overseas/">For Overseas Customers</a>
+              </li>
+              <li><a href="/support/business/">流通・関係者様専用サイト</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footerNav__group">
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading">
+              <a href="/about/">TAMASHII NATIONSについて</a>
+            </h2>
+            <ul>
+              <li>
+                <a href="/about/sustainability/">TAMASHII NATIONSのサステナビリティ</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footerNav__column">
+            <h2 class="footerNav__heading">
+              <a href="/important/">重要なお知らせ</a>
+            </h2>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+
+  <div class="globalFooter__sns">
+    <ul class="globalFooter__snsList">
+      <li>
+        <a href="https://x.com/t_features" target="_blank" aria-label="X（@t_features） 外部サイトへ（新しいタブで開きます）" rel="noopener"><span class="snsList__icon"><img  src="/assets/img/sns-icon/icon_x-wht.svg" alt="X" width="45" height="45"></span><span class="snsList__txt">@t_features</span></a>
+      </li>
+      <li>
+        <a href="https://x.com/gundam_tamashii" target="_blank" aria-label="X（@gundam_tamashii） 外部サイトへ（新しいタブで開きます）" rel="noopener"><span class="snsList__icon"><img src="/assets/img/sns-icon/icon_x-wht.svg" alt="X" width="45" height="45"></span><span class="snsList__txt">@gundam_tamashii</span></a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/instamashii/" target="_blank" aria-label="Instagram（@instamashii） 外部サイトへ（新しいタブで開きます）" rel="noopener" ><span class="snsList__icon"><img src="/assets/img/sns-icon/icon_insta-wht.svg" alt="Instagram" width="45" height="45"></span><span class="snsList__txt">@instamashii</span></a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/instamashii_robot/" target="_blank" aria-label="Instagram（@instamashii_robot） 外部サイトへ（新しいタブで開きます）" rel="noopener"><span class="snsList__icon"><img src="/assets/img/sns-icon/icon_insta-wht.svg" alt="Instagram" width="45" height="45" /></span><span class="snsList__txt">@instamashii_robot</span></a>
+      </li>
+      <li>
+        <a href="https://www.weibo.com/bandaigz?is_hot=1" target="_blank" aria-label="Weibo 外部サイトへ（新しいタブで開きます）" rel="noopener"><span class="snsList__icon"><img src="/assets/img/sns-icon/icon_weibo-wht.svg" alt="Weibo" width="45" height="45"></span></a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/tamashii.nations.japan/" target="_blank" aria-label="Facebook 外部サイトへ（新しいタブで開きます）" rel="noopener"><span class="snsList__icon"><img src="/assets/img/sns-icon/icon_fb-wht.svg" alt="Facebook" width="45" height="45"></span></a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/playlist?list=PLZxqqBY932ILx0NG-C7-D1JYVOc7R33vN" target="_blank" aria-label="YouTube 外部サイトへ（新しいタブで開きます）" rel="noopener"><span class="snsList__icon"><img src="/assets/img/sns-icon/icon_youtube-wht.svg" alt="YouTube" width="45" height="45"></span></a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="globalFooter__links">
+    <ul>
+      <li>
+        <a href="https://support.bandaispirits.co.jp/s/" target="_blank" rel="noopener">お客様サポート
+          <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></a>
+      </li>
+      <li><a href="/fake/">不正商品に関するご注意</a></li>
+      <li><a href="/mailmagazine/">メールマガジン</a></li>
+      <li><a href="/recruit/">キャリア採用情報</a></li>
+      <li><a href="/sitemap/">サイトマップ</a></li>
+      <li><a href="/notice/">サイトご利用条件</a></li>
+      <li>
+        <a href="https://www.bandaispirits.co.jp/privacy/" target="_blank" rel="noopener">プライバシーポリシー
+          <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></a>
+      </li>
+      <li><a href="/accessibility/">ウェブアクセシビリティポリシー</a></li>
+    </ul>
+  </div>
+
+  <div class="globalFooter__inner2" id="footerCopyrights" v-cloak>
+    <details class="footerCopyright js-accordionBox" :class="{ 'is-show': is_open }" :open="is_open ? false: true">
+      <summary class="footerCopyright__header js-accordionBtn">
+        <span class="footerCopyright__title" @click="toggleCopyrights">コピーライト一覧を表示する</span>
+      </summary>
+      <div class="footerCopyright__main js-accordionMenu" :style="{opacity: is_open ? 1 : 0, height: is_open ? 'auto' : 0}">
+        <div class="footerCopyright__main__inner">
+          <ul class="footerCopyright__list" data-wovn-ignore>
+            <li v-for="(item, key) in copyrights_jp" v-html="item"></li>
+          </ul>
+        </div>
+      </div>
+    </details>
+
+    <div class="footerCaution">
+      <ul class="footerCautionList dotList">
+        <li>画像はイメージです。画像と商品とは多少異なる場合があります。</li>
+        <li>当サイトでは現在、機械翻訳を導入中です。固有名詞や文法などについて、異なる表現となる可能性がある点、予めご了承の上ご利用ください。</li>
+        <li>一部、当ホームページで紹介していない商品もございます。また、「魂ウェブ商店」の商品は2012年7月以降発送のものを収録しております。</li>
+        <li>商品によっては生産・販売が終了している場合がございます。また、記載の情報は変更になる場合もございますのでご了承ください。</li>
+        <li>発売日や価格は基本的に日本エリアを起点にしております。日本以外での発売日は、各所販売サイト・販売店等でご確認ください。「一般店頭販売」商品は「メーカー希望小売価格（税込み）」、「魂ウェブ商店」は「販売価格（税込み）」です。現在の消費税を反映しているため、発売当時の価格とはと異なる場合がございますのでご了承ください。</li>
+        <li>「魂ウェブ商店」で、購入可能な際に表示される「今すぐ購入」ボタンは、ご希望の商品を販売元である「プレミアムバンダイ」のカートに直接入れられるサービスです。アクセスが集中している場合、ボタンが表示されなかったりアクセスできても正常にページが表示されない場合がございます。その場合は大変恐縮ですが、時間をおいてお試しください。また、メンテナンスやお使いのデバイス設定などにより機能しない場合がありますのでご了承ください。iPhoneで、日本以外の「今すぐ購入」ボタンが動作しない時は、ブラウザ設定の「サイトを超えてトラッキングを防ぐ」をオフにすると改善する場合があります。</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="globalFooter__btm">
+    <div class="globalFooter__logoBox1">
+      <p class="globalFooter__logo1_1">
+        <img src="/assets/img/logo/logo_jasrac.webp" alt="Licensed by JASRAC" width="48" height="48" loading="lazy">
+        <span class="globalFooter__logo__txt">JASRAC許諾番号<br />9020636001Y31018</span>
+      </p>
+    </div>
+
+    <div class="globalFooter__logoBox2">
+      <p class="globalFooter__logo2_1">
+        <a href="https://tamashiiweb.com/"><img src="/assets/img/logo/logo_tamashiinations.svg" alt="TAMASHII NATIONS" width="50" height="48" loading="lazy"></a>
+      </p>
+      <p class="globalFooter__logo2_2">
+        <a href="https://www.bandaispirits.co.jp/" target="_blank" aria-label="BANDAI SPIRITS 外部サイトへ（新しいタブで開きます）" rel="noopener"><img src="/assets/img/logo/logo_bs.svg" alt="BANDAI SPIRITS" width="50" height="48" loading="lazy"></a>
+      </p>
+      <p class="globalFooter__logo2_3">
+        <a href="https://www.bandainamco.co.jp/" target="_blank" aria-label="BANDAI NAMCO Group 外部サイトへ（新しいタブで開きます）" rel="noopener"><img src="/assets/img/logo/logo_bn.svg" alt="BANDAI NAMCO Group" width="132" height="48" loading="lazy"></a>
+      </p>
+    </div>
+
+    <div class="globalFooter__copyBox">
+      <p class="globalFooter__siteName">TAMASHII NATIONS OFFICIAL SITE（魂ウェブ）</p>
+      <p class="globalFooter__copyright"><small>&copy; BANDAI SPIRITS</small></p>
+    </div>
+  </div>
+</footer>
+
+
+</div>
+
+<!-- モーダル -->
+<div id="modalLang" aria-modal="true" class="modalBase modalLang" hidden>
+  <div class="modal-content">
+	<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+	</div>
+	<div class="modalLang__inner modal__inner">
+		<h2 id="titleLang" class="modalLang__title modal__title">エリア・言語選択</h2>
+    <p class="modalLang__lead1 firstVisit-text">お住まいのエリアとお使いの言語をお選びください。保存すると次回から表示設定をスキップできます。</p>
+    <p class="modalLang__lead2 firstVisit-text">Please select the area you live in and your language.<br>
+      If you save, you can skip the display settings from the next time.</p>
+
+		<div class="modalLang__selectBox">
+			<div class="modalLang__selectBox__inner">
+				<div class="modalLang__selectBox__item">
+					<h3 class="modalLang__selectBox__title">エリアを選択</h3>
+					<p class="modalLang__selectBox__lead">お住いのエリアを選択ください。<br>選択したエリアの情報が表示されます。</p>
+					<ul class="modalLang__checkList">
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="area" data-category="japan" class="js-areaCheck" autocomplete="off" value="japan"><span lang="en">JAPAN</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="area" data-category="asia" class="js-areaCheck" autocomplete="off" value="asia"><span lang="en">ASIA</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="area" data-category="usa" class="js-areaCheck" autocomplete="off" value="usa"><span lang="en">USA</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="area" data-category="emea" class="js-areaCheck" autocomplete="off" value="emea"><span lang="en">EMEA</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="area" data-category="latam" class="js-areaCheck" autocomplete="off" value="latam"><span lang="en">LATAM</span></label></li>
+					</ul>
+				</div>
+				<div class="modalLang__selectBox__item">
+					<h3 class="modalLang__selectBox__title">言語を選択</h3>
+					<p class="modalLang__selectBox__lead">サイトを閲覧する言語を選択ください。</p>
+					<ul class="modalLang__checkList" data-wovn-ignore>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="lang" data-category="japan" class="js-langCheck" autocomplete="off" value="ja"><span>日本語 </span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="lang" data-category="usa" class="js-langCheck" autocomplete="off" value="en"><span lang="en">English</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="lang" data-category="chs" class="js-langCheck" autocomplete="off" value="zh-CHS"><span lang="zh-cmn-Hans">简体中文</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="lang" data-category="cht" class="js-langCheck" autocomplete="off" value="zh-CHT"><span lang="zh-cmn-Hant">繁體中文</span></label></li>
+						<li class="modalLang__checkList__item u-radio"><label><input type="radio" name="lang" data-category="spanish" class="js-langCheck" autocomplete="off" value="es"><span lang="es">español</span></label></li>
+					</ul>
+				</div>
+			</div>
+			<p class="modalLang__btn"><button type="button" class="m-btnBaseM m-btnSizeL m-btnColor--black js-modal__close" id="langConfirmBtn">保存する</button></p>
+      <p class="modalLang__note firstVisit-text">※エリア・言語はヘッダーのメニューから変更が可能です。</p>
+		</div>
+	</div>
+  </div>
+</div>
+
+
+<div id="modalCTM" aria-modal="true" class="modalBase modalCTM" hidden>
+  <div class="modal-content">
+	<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+	</div>
+	<div class="modalCTM__inner modal__inner" role="document">
+		<div class="modalCTM__header">
+			<h2 class="modalCTM__logo"><img src="/assets/img/logo/logo_ctm.svg" alt="CLUB TAMASHII MEMBERS" width="66" height="22" loading="lazy"></h2>
+			<p class="modalCTM__lead">魂ネイションズ商品をよく買うあなたも、<br>
+			たまーに買うあなたも。 <br>
+			<strong>みんなおトクな会員サービス</strong></p>
+		</div>
+		<p class="modalCTM__txt1">CLUB TAMASHII MEMBERSにログインすることで、マイル数の確認などができるようになります！</p>
+		<div class="modalCTM__block">
+			<p class="modalCTM__link"><a href="/api/ctm/login.php" class="m-btnBaseM m-btnSizeL m-btnColor--blue m-btnIcon--none">ログイン</a></p>
+			<p class="modalCTM__linkTxt"><a href="https://club.tamashii.jp/" class="m-linkTxt" target="_blank" rel="noopener">CLUB TAMASHII MEMBERSとは <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></a></p>
+		</div>
+		<div class="modalCTM__block">
+			<h3 class="modalCTM__blockTitle">アカウントをお持ちでない方</h3>
+			<p class="modalCTM__link2"><a href="https://account.bandainamcoid.com/signup.html?client_id=club_t&customize_id=&redirect_uri=https%3A%2F%2Fwww.bandainamcoid.com%2Fv2%2Foauth2%2Fauth%3Fback%3Dv3%26client_id%3Dclub_t%26scope%3DJpGroupAll%26redirect_uri%3Dhttps%253A%252F%252Fclub.tamashii.jp%252Fmenus%252Fentryok%26text%3D&prompt=" class="m-btnBaseM m-btnSizeL m-btnBdr" target="_blank" rel="noopener">新規登録 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></a></p>
+			<p class="modalCTM__note">※CLUB TAMASHII MEMBERSは日本国内居住者向けサービスです。</p>
+		</div>
+	</div>
+
+  </div>
+</div>
+
+
+<div id="modalCTM2" aria-modal="true" class="modalBase modalCTM" hidden>
+  <div class="modal-content">
+	<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+	</div>
+	<div class="modalCTM__inner modal__inner">
+		<div class="modalCTM__header2">
+			<h2 class="modalCTM__logo"><img src="/assets/img/logo/logo_ctm.svg" alt="CLUB TAMASHII MEMBERS" width="66" height="22" loading="lazy"></h2>
+			<div class="modalCTM__infoBox">
+				<p class="modalCTM__userName">「{{ user_data.name }}」様</p>
+				<dl class="modalCTM__currentMiles">
+					<dt>現在の保有マイル</dt>
+					<dd><em>{{ user_data.umile }}</em>マイル</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="modalCTM__summary">
+			<dl class="modalCTM__summary__items">
+				<div class="modalCTM__summary__item">
+					<dt>現在のステージランク</dt>
+					<dd>{{ user_data.urank_label }}</dd>
+				</div>
+				<div class="modalCTM__summary__item">
+					<dt>次のステージランクまで残り</dt>
+					<dd><em>{{ user_data.umile_to_nextrank }}</em>マイル</dd>
+				</div>
+			</dl>
+			<p  class="modalCTM__summary__note">※上記の情報はログインした時点の情報です。</p>
+		</div>
+		<div class="modalCTM__block">
+			<p class="modalCTM__link"><a :href="user_data.mypage_url" class="m-btnBaseM m-btnSizeL m-btnColor--blue" target="_blank" rel="noopener">本日のスタンプを獲得する <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></a></p>
+		</div>
+		<div class="modalCTM__block">
+			<h3 class="modalCTM__blockTitle">最新のマイル数、ステージランク、その他詳細についてはCLUB TAMASHII MEMBERSマイページをご確認ください。</h3>
+			<ul class="modalCTM__linkList">
+				<li><a :href="user_data.mypage_url" class="m-btnBaseM m-btnBdr" target="_blank" rel="noopener">マイページを確認する <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></a></li>
+				<li><a href="/api/ctm/logout.php" class="m-btnBaseM m-btnColor--black m-btnIcon--none">ログアウト</a></li>
+			</ul>
+			<p class="modalCTM__note">※CLUB TAMASHII MEMBERSは日本国内居住者向けサービスです。</p>
+		</div>
+	</div>
+
+
+  </div>
+</div>
+
+<div id="modalSNS" aria-modal="true" class="modalBase modalSNS" hidden>
+  <div class="modal-content">
+	<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+	</div>
+	<div class="modalSNS__inner modal__inner">
+		<h2 class="modalSNS__title modal__title">公式SNSアカウント一覧</h2>
+		<div class="modalSNS-List">
+			<h3 class="modalSNS-List__title"><span class="_icon"><img src="/assets/img/sns-icon/icon_x-blk.svg" alt="" width="45" height="45"></span>X（旧Twitter）</h3>
+			<ul class="modalSNS-List__items">
+				<li class="modalSNS-List__item"><a href="https://x.com/t_features" target="_blank" rel="noopener">
+					<div class="modalSNS-List__thumb"><img src="/assets/img/sns-icon/icon_x-t_features.webp" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List__txtBox">
+						<p class="modalSNS-List__name1">魂ネイションズ公式 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+						<p class="modalSNS-List__name2">@t_features</p>
+						<p class="modalSNS-List__desc">株式会社BANDAI SPIRITS コレクターズ事業部・魂ネイションズブランドの公式アカウント（旧称：魂フィ）。</p>
+					</div>
+				</a></li>
+
+				<li class="modalSNS-List__item"><a href="https://x.com/gundam_tamashii" target="_blank" rel="noopener">
+					<div class="modalSNS-List__thumb"><img src="/assets/img/sns-icon/icon_x-gundam_tamashii.webp" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List__txtBox">
+						<p class="modalSNS-List__name1">ガンダムフィギュア／魂ネイションズ公式 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+						<p class="modalSNS-List__name2">@gundam_tamashii</p>
+						<p class="modalSNS-List__desc">ガンダムフィギュア/GUNDAM FIGUREに関する情報をお届け！</p>
+					</div>
+				</a></li>
+			</ul>
+		</div>
+
+		<div class="modalSNS-List">
+			<h3 class="modalSNS-List__title"><span class="_icon"><img src="/assets/img/sns-icon/icon_insta.svg" alt="" width="45" height="45"></span>Instagram</h3>
+			<ul class="modalSNS-List__items">
+				<li class="modalSNS-List__item"><a href="https://www.instagram.com/instamashii/" target="_blank" rel="noopener">
+					<div class="modalSNS-List__thumb"><img src="/assets/img/sns-icon/icon_instamashii.webp" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List__txtBox">
+						<p class="modalSNS-List__name1">魂ネイションズ公式 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+						<p class="modalSNS-List__name2">@instamashii</p>
+						<p class="modalSNS-List__desc" lang="en">Official instagram of Tamashii Nations</p>
+					</div>
+				</a></li>
+
+				<li class="modalSNS-List__item"><a href="https://www.instagram.com/instamashii_robot/" target="_blank" rel="noopener">
+					<div class="modalSNS-List__thumb"><img src="/assets/img/sns-icon/icon_instamashii_robot.webp" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List__txtBox">
+						<p class="modalSNS-List__name1">ロボットフィギュア／魂ネイションズ公式 <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+						<p class="modalSNS-List__name2">@instamashii_robot</p>
+						<p class="modalSNS-List__desc" lang="en">Official instagram for the Tamashii Nations Robot lines. Check the Global Index at the bottom of our HP for more info</p>
+					</div>
+				</a></li>
+			</ul>
+		</div>
+
+		<div class="modalSNS-List">
+			<h3 class="modalSNS-List__title">その他 SNS</h3>
+			<ul class="modalSNS-List2__items">
+				<li class="modalSNS-List2__item"><a href="https://www.weibo.com/bandaigz?is_hot=1" target="_blank" rel="noopener">
+					<div class="modalSNS-List2__thumb"><img src="/assets/img/sns-icon/icon_weibo.svg" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List2__txtBox">
+						<p class="modalSNS-List__name1">魂ネイションズ公式<br>Weibo <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+					</div>
+				</a></li>
+
+				<li class="modalSNS-List2__item"><a href="https://www.facebook.com/tamashii.nations.japan/" target="_blank" rel="noopener">
+					<div class="modalSNS-List2__thumb"><img src="/assets/img/sns-icon/icon_fb.svg" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List2__txtBox">
+						<p class="modalSNS-List__name1">魂ネイションズ公式<br>Facebook <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+					</div>
+				</a></li>
+
+				<li class="modalSNS-List2__item"><a href="https://www.youtube.com/playlist?list=PLZxqqBY932ILx0NG-C7-D1JYVOc7R33vN" target="_blank" rel="noopener">
+					<div class="modalSNS-List2__thumb"><img src="/assets/img/sns-icon/icon_youtube.svg" alt="" width="194" height="194" loading="lazy"></div>
+					<div class="modalSNS-List2__txtBox">
+						<p class="modalSNS-List__name1">魂ネイションズ公式<br>YouTube <span class="u-srOnly">外部サイトへ（新しいタブで開きます）</span></p>
+					</div>
+				</a></li>
+			</ul>
+		</div>
+	</div>
+  </div>
+</div>
+
+<div aria-modal="true" class="modalBase modalMov" id="modal-movBox" hidden>
+	<div class="modal-content">
+		<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+		</div>
+		<div class="modalMov__inner modal__inner" id="movBox">
+			<div class="embed_movie" id="embed_movie"></div>
+		</div>
+	</div>
+</div>
+
+<div aria-modal="true" class="modalBase modalMov modalMov--square" id="modal-movBoxSq" hidden>
+	<div class="modal-content">
+		<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+		</div>
+		<div class="modalMov__inner modal__inner" id="movBoxSq">
+			<div class="embed_movie" id="embed_movieSq"></div>
+		</div>
+	</div>
+</div>
+
+<div aria-modal="true" class="modalBase modalMov modalMov--vertical" id="modal-movBoxV" hidden>
+	<div class="modal-content">
+		<div class="modal__closeSticky">
+		<button class="modal__close js-modal__close"><span class="u-srOnly">閉じる</span></button>
+		</div>
+		<div class="modalMov__inner modal__inner" id="movBoxV">
+			<div class="embed_movie" id="embed_movieV"></div>
+		</div>
+	</div>
+</div>
+
+<div class="wovn-custom-switch"><div class="wovn-languages"></div></div>
+
+<a class="ot-sdk-show-settings" title="Cookies" href="#ot-sdk-btn">Cookie Settings</a>
+
+
+
+
+<script src="/assets/js/app.js?ver=24"></script>
+</body>
+</html>
