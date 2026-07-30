@@ -22865,4 +22865,26 @@ export const collection: CollectibleItem[] = [
     ],
     youtube: [],
   },
+  {
+    id: "yamato-vf1-super-strike-parts-stealth",
+    addedAt: "2026-07-31",
+    name: "1/48 VF-1バルキリー スーパー＆ストライクパーツ ステルスタイプ",
+    nameJa: "1/48 VF-1バルキリー Super & Strike parts Stealth type",
+    series: "超時空要塞マクロス 愛・おぼえていますか",
+    character: "VF-1 バルキリー スーパー＆ストライクパーツ（ステルスタイプ塗装）",
+    manufacturer: "ヤマト（Yamato）",
+    scale: "1/48",
+    price: "¥5,800（含稅）",
+    releaseDate: "2006年9月",
+    officialUrl: "https://www.amazon.com/Macross-Stealth-Super-Strike-Parts/dp/B000H8CJ8Q",
+    imageUrl: "/images/yamato-vf1-super-strike-parts-stealth.jpg",
+    tags: ["マクロス", "VF-1", "ステルスタイプ", "スーパーパーツ", "ストライクパーツ", "Super & Strike", "ヤマト", "1/48", "愛・おぼえていますか", "DYRL", "擴充套件"],
+    description: "《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984劇場版）中，VF-1バルキリーは統合軍主力可変戦機，具備戦鬥機・GERWALK・人型三段完全變形機構，是《マクロス》系列最具代表性的機體象徵。本品為Yamato旗下1/48完全變形VF-1系列強化配件組「スーパー＆ストライクパーツ」的特別塗裝版本——「ステルスタイプ」，與先前發售的一般版配件組使用相同機構設計，但改以低視認性的黑灰色調呈現，搭配另售的「VF-1J ステルスタイプ」機體本體使用時可完整重現暗夜特殊作戰塗裝的超全武裝形態。2006年9月發售，定價5,800日圓，套件包含背部主噴射增速器、腿部推進槽、臂部微型導彈艙、背部光束加農炮架及對應武裝配件。由於Yamato停產後Arcadia並未取得1/48 VF-1系列模具的續產授權，本商品僅發售一次即成絕版，是《マクロス》可變玩具收藏中相當稀有搶手的特殊塗裝配件組。",
+    reviews: [
+      { title: "Yamato 1/48 Super/Strike Parts (Standard & Stealth) – Scorched Earth Toys", url: "https://anymoon.com/blog/?p=151", lang: "en" },
+    ],
+    youtube: [
+      { title: "Yamato Macros 1/48 Vf-1J w/ Super Strike parts Stealth Type Review", url: "https://www.youtube.com/watch?v=KHxCAkqsqIo", lang: "en" },
+    ],
+  },
 ]
