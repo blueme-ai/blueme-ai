@@ -37,11 +37,25 @@ then grep the response for `hitTtl` blocks (`href="(/en/product/\d+/)".*?<span>(
 - **ALWAYS** fetch the real official product photo and save to `public/images/<item-id>.jpg`. Never use a Telegram photo the user sent you as the product image — those are personal/box photos for identification only.
 - **Verify every image visually** (`Read` the downloaded jpg) before committing — confirm it actually shows the right character/kit, not a lookalike, not an unrelated "related product" thumbnail scraped from the same page, not a promo banner/logo. This project has had real incidents of both (a Bandai candy-page fetch once grabbed a completely different toy's thumbnail; assume it can happen again).
 - Do not add an entry at all if you can't get a real verified image.
+- Confirm success with `ls -la public/images/<id>.jpg` — a file **under ~10KB is almost always a broken/error-page download**, not a real photo; re-fetch from a different source.
+
+**Bandai Gunpla images specifically:** `bandai-hobby.net` product photos are usually hosted on CloudFront (`d3bk8pkqsprcvh.cloudfront.net`) which requires a signed URL — a plain `curl` on that host returns `403 Forbidden`. Fallback chain, in order:
+1. `bandai-a.akamaihd.net` (older `/bc/img/model/xl/` path) — downloadable directly if the item is old enough to be hosted there.
+2. `gundamsblog.net` review pages (`https://gundamsblog.net/ガンプラ/<product-name>`) — grab the `hakoe-N.jpg`-style image, usually an 800px box-front shot.
+3. `schizophonic9.com` review pages — take the first product photo.
+4. Amazon Japan CDN as a last resort (possible copyright caveat — prefer the above three first).
 
 ## `description` field
 
 - Traditional Chinese only, ~500 characters. Structure: franchise/character background → the specific item's notable features (only ones grounded in what you actually found — don't invent weapon names, part counts, or "historical firsts" you haven't verified) → collectibility/rarity note if it's a limited/P-Bandai/GSC-exclusive release.
 - Don't state unverified superlatives ("the first-ever X in franchise history") unless a source actually says so — a past mistake here (claiming SMP Tetraboy was "history's first 3rd robot") had to be walked back after the user caught it.
+
+## Series identification (`series` field)
+
+Gemini Vision (or your own visual read) misidentifies visually-similar Gundam series more often than you'd expect — confirm before writing the entry, don't just trust the first guess:
+- **機動戦士Gundam GQuuuuuuX（ジークアクス）**, **復讐のレクイエム (Requiem for Vengeance)**, and **GalactiXX** are three distinct, visually-similar series — check the box logo/series text or search the Japanese kit name against `bandai-hobby.net` to confirm which one.
+- **バイアラン・カスタム (Byarlant Custom)** belongs to **機動戦士ガンダムUC (Gundam UC)**, not Vガンダム — a recurring mix-up.
+- If a kit is P-Bandai exclusive, `bandai-hobby.net` search may come up empty even though it's legitimate — try `p-bandai.jp` before assuming misidentification.
 
 ## `manualUrl` field (optional)
 
@@ -61,7 +75,7 @@ Only **Bandai SMP/candy-toy** and **TAMASHII completed-figure lines** (超合金
 Some items get a box-code tag in their `tags` array (e.g. `"GSC0001"`, `"BOX0007"`) when the user is physically packing them and sends a labeled photo. Rules:
 - **Multiple items can own the same physical copy of a tag being applied to an already-existing entry** — if a box-tag batch includes an item that already exists in `data.ts`, add the tag to the existing entry's `tags` array; don't skip it just because it's not a new add. The user explicitly flagged this as a repeated mistake: "已經有的也要標，有可能會重複收藏，所以加裝箱標籤時不能跳過。"
 - If the SAME id shows up physically in a box more than once (the user owns 2+ copies), that's just informational — one `data.ts` entry with one tag is still correct; don't duplicate the entry.
-- **Before trusting your own visual read of a box-grid photo, check `src/lib/tags.ts`'s `isBoxTag()` — it only recognizes a fixed prefix whitelist** (`macross`, `smp`, `etc`, `TF`, `合金`, `BOX`, `GSC` as of 2026-07-24). If the user introduces a new prefix, add it to `BOX_TAG_PREFIXES` in that file or the tag will silently fail to render/filter on the site — this exact bug caused a long back-and-forth where tags were correctly in the data but invisible on the site.
+- **Before trusting your own visual read of a box-grid photo, check `src/lib/tags.ts`'s `isBoxTag()` — it only recognizes a fixed prefix whitelist** (`MACROSS`, `SMP`, `ETC`, `TF`, `合金`, `BOX`, `GSC`, `SAINT` as of 2026-07-30). If the user introduces a new prefix, add it to `BOX_TAG_PREFIXES` in that file or the tag will silently fail to render/filter on the site — this exact bug caused a long back-and-forth where tags were correctly in the data but invisible on the site.
 - When given a box photo, don't assume every visually-similar box belongs to the same batch — confirm counts with the user in plain language rather than guessing ("你說這箱應該有36件，我目前標了24件，還缺12件") and let them correct you rather than silently declaring done.
 - If the user says an item isn't actually in the box you tagged it into, or says they don't own an item you already added, remove the tag (or remove the whole entry, per what they actually said) rather than just leaving stale data.
 
