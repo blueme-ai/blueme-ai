@@ -19988,8 +19988,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-ms-15h-xaviers-gyan-hakui-packs-galactixx",
     addedAt: "2026-07-29",
-    name: "HG 1/144 MS-15/H ザビエルのギャン・ハクイパックス",
-    nameJa: "HG 1/144 MS-15/H ザビエルのギャン・ハクイパックス",
+    name: "HG 1/144 MS-15/H エグザベ専用ギャン（ハクジ装備）",
+    nameJa: "HG 1/144 MS-15/H エグザベ専用ギャン（ハクジ装備）",
     series: "機動戦士Gundam GQuuuuuuX (GQuuuuuuX: Mobile Suit Gundam)",
     character: "エグザベ専用ギャン（ハクジ装備）",
     manufacturer: "Bandai Spirits",
