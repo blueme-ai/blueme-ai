@@ -6079,7 +6079,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年7月初次販售，2026年4月 P-Bandai台灣再販",
     officialUrl: "https://p-bandai.com/tw/item/A2302829011",
     imageUrl: "/images/rg-astray-gold-frame.jpg",
-    tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "P-Bandai限定", "BOX0012"],
+    tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "P-Bandai限定"],
     description: "《機動戰士鋼彈SEED ASTRAY》是《SEED》世界觀下以外傳漫畫形式展開的作品群，聚焦於未被正史提及的多台試作機鬥爭，MBF-P01「阿斯特雷 金色框架」正是其中人氣最高的機體之一，設定為性能凌駕正規量產機的高機動試作鋼彈，曾一度被宿敵隆德・吉娜・薩哈克奪走並用以對抗原駕駛員，是外傳劇情中極具戲劇張力的一段。此次首度以RG系列規格商品化，RG向來以「1/144比例中罕見的細密表現」與「逼真結構」為賣點，本作不僅重現機體精密關節與內部骨架，更以RG規格重新詮釋招牌武裝「350mm軌道砲蓋伯格」，並新增專用右肩護甲零件，重現原作中機體右臂被擊落的經典場面。塗裝表現上，金色框架的閃耀質感透過三色金屬成形色分開表現，搭配細緻面板線與原創標誌貼紙，即使不上色也有相當高的完成度；感應器貼紙提供紅、綠兩色可自由選擇。本套件2016年7月以限定商品身份首度發售，多年未再版而在二手市場行情看漲，此次透過P-Bandai再販，是入手這款經典衍生機體的難得機會。",
     reviews: [
       {
@@ -6087,6 +6087,26 @@ export const collection: CollectibleItem[] = [
         url: "https://dendero.blog.jp/archives/35003138.html",
         lang: "ja",
       },
+    ],
+    youtube: [],
+  },
+  {
+    id: "rg-astray-gold-frame-amatsu-mina",
+    addedAt: "2026-07-30",
+    name: "RG 1/144 ガンダムアストレイ ゴールドフレーム天ミナ",
+    nameJa: "RG 1/144 ガンダムアストレイ ゴールドフレーム天ミナ",
+    series: "機動戦士ガンダムSEED ASTRAY（Mobile Suit Gundam SEED Astray）",
+    character: "隆徳・ミナ・サハク搭乗機 MBF-P01-Re2 ガンダムアストレイ ゴールドフレーム天ミナ",
+    manufacturer: "Bandai Spirits",
+    scale: "1/144",
+    price: "¥3,240（含稅）",
+    releaseDate: "2017年3月25日",
+    officialUrl: "https://bandai-hobby.net/item/01_833/",
+    imageUrl: "/images/rg-astray-gold-frame-amatsu-mina.jpg",
+    tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "天ミナ", "BOX0012"],
+    description: "《機動戰士鋼彈SEED ASTRAY》外傳漫畫中，「ガンダムアストレイ ゴールドフレーム天ミナ」是隆德・米娜・薩哈克在原機體「金色框架」基礎上大幅強化改造而成的座機，換裝新型頭部與大型光束軍刀，並追加特徵鮮明的黑色裝甲與金色鑲邊塗裝，是隆德・米娜個人風格強烈的高機動改造機。本商品以RG系列規格重新詮釋這款人氣改造機體，完整重現原型機的精密關節與內部骨架結構，並針對天ミナ專屬的肩部裝甲、雙持大型光束軍刀等新規開模部位進行細膩雕刻，成形色分色亦精確對應黑金配色的視覺印象。作為ゴールドフレーム系列衍生機體中辨識度極高的一款，套件另附水轉印貼紙供玩家還原原作標誌與細節塗裝，是喜愛SEED ASTRAY外傳劇情與蒐集金色框架系列衍生機體收藏者的重點目標。",
+    reviews: [
+      { title: "RG ガンダムアストレイ ゴールドフレーム 天ミナ レビュー", url: "https://schizophonic9.com/re4/rg_amatsumina.html", lang: "ja" },
     ],
     youtube: [
       { title: "ガンプラ「RG 1/144 ガンダムアストレイ ゴールドフレーム天ミナ」開封・組立・レビュー", url: "https://www.youtube.com/watch?v=7gomjKSl-dw", lang: "ja" },
