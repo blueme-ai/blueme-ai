@@ -20859,7 +20859,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年5月",
     officialUrl: "https://bandai-hobby.net/item/01_4368/",
     imageUrl: "/images/mg-f90-mission-pack-ct.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0013"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
     description: "本商品是Premium Bandai限定推出的F90「C型（寒冷地仕様）」與「T型（追撃戦仕様）」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，兩款配裝皆由知名設計師河口克己重新繪製造型並全數新規開模。C型主打嚴寒地區作戰能力，肩部、腰部與腿部搭載以配線細節相連的加熱裝置，並附有可拆裝、可動的滑雪板單元與不織布材質防寒斗篷，重現極地環境下的機動配置；T型則是追撃戦專用構型，雙肩硬點掛載大型多軸可動盾牌，搭配可動基座的長距離推進背包與側面推進單元，並可拆卸推進燃料槽，展現遠距離追撃與火力支援的戰術面貌。兩型一寒一攻、風格對比鮮明，套件並附水轉印貼紙供玩家還原原創塗裝標識。作為F90「透過任務背包因應不同戰術情境」核心理念的延伸，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是補齊極地與追撃兩種特殊戰術情境不可或缺的一組。",
     reviews: [
       {
@@ -20888,7 +20888,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月",
     officialUrl: "https://bandai-hobby.net/item/01_4868/",
     imageUrl: "/images/mg-f90-mission-pack-p.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0013"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定"],
     description: "本商品是Premium Bandai限定推出的F90「P型（Plunge，再突入仕様）」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是單獨型號販售、全數新規開模的一款。套件重現機體大氣層再突入時可變形為波浪騎士（Wave Rider）形態的特殊配裝，內容包含背部展開式鼻錐整流罩單元、右肩可迴轉感測軸的火神砲、左肩可動砲塔式光束加農砲，以及可彎折展開的臂裝翼型盾牌，武裝與構型皆為因應再突入任務而設計。P型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內關節可動與武裝分件維持MG系列一貫精度，變形機構的卡榫與收納結構亦經仔細調校。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是重現F90大氣層再突入戰術情境不可或缺的一組擴充配件。",
     reviews: [
       {
@@ -20923,7 +20923,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年4月20日",
     officialUrl: "https://bandai-hobby.net/item/3245/",
     imageUrl: "/images/mg-gundam-base-ms-cage.jpg",
-    tags: ["MG", "Master Grade", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "機動戦士ガンダムUC", "情景配件", "BOX0013"],
+    tags: ["MG", "Master Grade", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "機動戦士ガンダムUC", "情景配件"],
     description: "《機動戰士鋼彈UC》改編自福井晴敏原作小說，描寫獨角獸鋼彈與「拉普拉斯之盒」相關的政治鬥爭與軍事衝突，是近年宇宙世紀系列中話題度極高的重製與延伸作品。劇中反覆出現的「MS CAGE」是收納整備機動戰士用的維修支架設施，玩家對這類劇中常見卻鮮少被立體化的場景道具一直深具收藏需求。本商品是The Gundam Base實體店鋪限定推出的原創塑膠模型化商品，以原創設計重現作品中的MS CAGE構造，駕駛艙艙蓋可隨對應手臂形狀開闔，背面附設可收納小型配件與備用零件的置物箱，籠架背部固定架亦可掛載裝備進行收納展示。套件同梱四尊1/100比例人物模型——便服班納傑・林克斯、奧黛麗・伯恩、瑪莉妲・克魯茲與卡帝亞斯・畢斯特，讓玩家得以重現劇中角色與機體維修場景的互動畫面。雖然本品原設定為1/100比例、與MG系列機體搭配相性絕佳，但依店家展示範例，其實也能與HG或SD等不同比例的鋼普拉組合出別具氛圍的情景展示，是拓展鋼普拉場景敘事樂趣的稀有周邊商品。",
     reviews: [],
     youtube: [],
@@ -20941,7 +20941,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月11日",
     officialUrl: "https://bandai-hobby.net/item/5132/",
     imageUrl: "/images/mg-gundam-f90-clear-color.jpg",
-    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー", "BOX0013"],
+    tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，設定於宇宙世紀0120年，機身預留多處硬點可替換多達26種任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點，其設計理念更直接延伸出後續《機動戰士鋼彈F91》的F91機體，在宇宙世紀技術發展史上具有承先啟後的地位。本商品是The Gundam Base實體店鋪限定推出的「クリアカラー（透明色）」特別版F90本體套件，全機以半透明樹脂材質呈現，讓上半身雙軸可動骨架與腰部三軸可動框架等F90招牌的精密機構結構一覽無遺，光束步槍的E-Pack也可拆卸收納於盾牌內側，透明質感讓機體內部工程美學表露無遺。與一般上色版F90相比，透明版更凸顯出F90作為「量產泛用原型機」骨架設計的精密與通透科技美感，套件同樣支援26種任務背包的硬點相容性，方便玩家後續與各式Mission Pack擴充套件搭配組合。作為The Gundam Base限定通路商品，市場流通量相對稀少，對於既鍾情F90系列機體收藏、又偏好透明特別版收藏路線的鋼普拉玩家而言，是相當具話題性與稀缺性的一款。",
     reviews: [
       {
@@ -20965,7 +20965,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年6月",
     officialUrl: "https://p-bandai.jp/item/item-1000125916/",
     imageUrl: "/images/re100-gundam-mk3-unit8.jpg",
-    tags: ["ガンプラ", "RE/100", "Bandai", "機動戦士Zガンダム", "ガンダムMk-III", "アナハイム・ラボラトリー・ログ", "P-Bandai限定", "BOX0013"],
+    tags: ["ガンプラ", "RE/100", "Bandai", "機動戦士Zガンダム", "ガンダムMk-III", "アナハイム・ラボラトリー・ログ", "P-Bandai限定"],
     description: "『アナハイム・ラボラトリー・ログ』是官方機械設定企劃，以《機動戰士Z鋼彈》正史為基礎，深入補完AEUG陣營在Z鋼彈完成之前的複數量產型鋼彈Mk-III開發史，讓劇中未曾正式登場、卻極具話題性的支線機體有機會被完整敘述與立體化。「8號機（MSF-007-8）」是量產的數架Mk-III中，特別為夏亞・阿茲納布爾化名的「克瓦特羅・巴吉納」所準備的專屬座機，基礎性能與武裝雖與原型機相同，但裝甲採用百式所用抗光束塗層的簡化廉價版本；機身塗裝因克瓦特羅在達卡演說中公開身份後，特意改為象徵其新座機的鮮紅色，是Z鋼彈支線設定中辨識度極高的「幻之克瓦特羅專用機」。然而本機原訂交付AEUG科利亞艦隊，卻因與阿克西斯MS部隊遭遇戰而緊急投入實戰並嚴重損毀，戰後送回格拉那達工廠整修，最終並未真正落入克瓦特羅之手，成為Z鋼彈設定史上一段充滿「若當初」想像空間的機體軼話。RE/100系列以簡化內構、降低成本為特色，本商品完整重現8號機的招牌紅色成型色與武裝配置，並同梱安納海姆電子公司與AEUG標誌等水轉印貼紙，武裝包含光束步槍、光束加農砲、光束軍刀與盾牌，對於熟悉Z鋼彈支線設定與MSV體系的鋼普拉收藏者而言，是相當珍稀且富有故事性的一款。",
     reviews: [
       {
@@ -21000,7 +21000,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年2月",
     officialUrl: "https://p-bandai.jp/item/item-1000168447/",
     imageUrl: "/images/hg-efreet-jaeger.jpg",
-    tags: ["ガンプラ", "HG", "Bandai", "ジオン軍", "イフリート", "バトルオペレーション コードフェアリー", "狙撃機", "BOX0013"],
+    tags: ["ガンプラ", "HG", "Bandai", "ジオン軍", "イフリート", "バトルオペレーション コードフェアリー", "狙撃機"],
     description: "《機動戦士ガンダム バトルオペレーション コードフェアリー》是以人氣網路對戰遊戲「機動戦士ガンダム バトルオペレーション」為背景的外傳漫畫作品，描繪一年戰爭中無名士兵們的戰場故事。「イフリート・イェーガー」是吉翁軍量產機「イフリート」的狙擊型衍生機體，由女性軍曹ヘレナ・ヘーゲル駕駛，機體以淡紫色為基調搭配白、深灰塗裝，頭部與肩部裝甲經過重新設計以降低被彈剪影並提升偽裝性。本品為BANDAI SPIRITS「HG」系列商品化，透過HGUCイフリート的骨架延伸開發，新規附屬專用狙擊步槍、熱能小刀與霰彈槍等多樣化武裝，即使不塗裝素組也能重現角色鮮明的配色分區，是一年戰爭MSV機體收藏中兼具個性與稀有度的一款狙擊型機體。",
     reviews: [
       { title: "HG イフリート・イェーガー レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%A4%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%82%A7%E3%83%BC%E3%82%AC%E3%83%BC", lang: "ja" },
@@ -21023,7 +21023,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年2月",
     officialUrl: "https://bandai-hobby.net/item/01_4372/",
     imageUrl: "/images/hg-gundam-rose.jpg",
-    tags: ["ガンプラ", "HG", "Bandai", "機動武闘伝Gガンダム", "ガンダムローズ", "ネオフランス", "BOX0013"],
+    tags: ["ガンプラ", "HG", "Bandai", "機動武闘伝Gガンダム", "ガンダムローズ", "ネオフランス"],
     description: "《機動武闘伝Gガンダム》中，代表ネオフランス出征的貴公子ジョルジュ・ド・サンド以優雅高貴的戰鬥風格著稱，人稱「深紅薔薇的貴公子」，其愛機「ガンダムローズ」（GF13-009NF）以中世紀歐洲騎士為設計原型，左肩巨大的薔薇造型披風盾牌、以及可展開攻擊的「ローゼスビット」是其最大特徵。本品為BANDAI SPIRITS「HG」系列首度商品化的ガンダムローズ，2023年2月發售，五片式披風盾牌可各自朝前後左右獨立展開重現華麗的戰鬥姿態，頭部與腰部具備前後可動機構，雙臂與大腿新增旋轉軸提升動態擺姿能力，核心戰機「コアランダー」亦可分離組合重現跑步形態。套件附屬ローゼスビット效果零件與展示用支架，即使是HG級距也能重現接近RG等級的精細色分區，是G鋼彈系列人氣角色機體的收藏佳作。",
     reviews: [
       { title: "『Gガンダム』真紅のバラの貴公子こと「ガンダムローズ」が初のHG化！作例でキットのポテンシャルを引き出す", url: "https://hjweb.jp/article/909058/", lang: "ja" },
@@ -21047,7 +21047,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年10月",
     officialUrl: "https://bandai-hobby.net/item/01_4209/",
     imageUrl: "/images/hg-nu-gundam-booster-bed.jpg",
-    tags: ["ガンプラ", "HG", "Bandai", "逆襲のシャア", "νガンダム", "拡張パーツ", "ブースターベッド", "BOX0013"],
+    tags: ["ガンプラ", "HG", "Bandai", "逆襲のシャア", "νガンダム", "拡張パーツ", "ブースターベッド"],
     description: "《機動戦士ガンダム 逆襲のシャア》中，アムロ・レイ搭乗的最終決戰機「νガンダム」在劇中曾以搭載大推力推進器的「ブースターベッド」進行高速軌道移動及對地攻擊支援，是強化艦隊機動作戰能力的關鍵運輸兼推進裝備。本品為BANDAI SPIRITS「HG」系列將此設定重新開模商品化，2022年10月發售，忠實重現左右兩具大型推進噴嘴與中央承載平台的細節造形，可供HG 1/144 νガンダム搭乘固定於平台之上重現搭載待機的經典畫面，推進部亦相容HGUC 1/144 89式基地噴射機並可透過MS連結零件搭配展示台自由擺設多種運用姿態。作為單體零件雖無角色機體，卻是νガンダム系列收藏中不可或缺的場景延伸道具，能大幅提升展示櫃的臨場感與可玩性。",
     reviews: [
       { title: "HG νガンダム用 ブースターベッド レビュー | ガンダムブログはじめました", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%CE%BD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E7%94%A8-%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%99%E3%83%83%E3%83%89", lang: "ja" },
@@ -21071,7 +21071,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年7月",
     officialUrl: "https://bandai-hobby.net/item/01_1660/",
     imageUrl: "/images/mg-rx78-2-oyw0079.jpg",
-    tags: ["ガンプラ", "MG", "Bandai", "機動戦士ガンダム", "RX-78-2", "ワンイヤーウォー", "BOX0013"],
+    tags: ["ガンプラ", "MG", "Bandai", "機動戦士ガンダム", "RX-78-2", "ワンイヤーウォー"],
     description: "本品原型取自BANDAI×NAMCO合作開發的PS2遊戲《機動戦士ガンダム ONE YEAR WAR（一年戰爭）》中重新詮釋的RX-78-2ガンダム機體設定，在忠於原作動畫比例的基礎上加入遊戲用嶄新面部與細部線條詮釋，成為當時MG系列別具話題性的「遊戲原創外型・動畫配色」版本。本品為BANDAI SPIRITS「MG」系列商品化，2007年7月發售，採用動畫版標準的白、藍、紅、黃塗裝方案，內構骨架承襲當代MG技術強化腹部、腰部與足部可動範圍，胯部關節新增前後滑動機構使單膝跪地等經典姿勢更為自然。套件附屬光束步槍、高性能巴祖卡砲、雙光束軍刀、鋼彈鎚與盾牌等一年戰爭代表性武裝，是紀念鋼彈系列與遊戲聯名企劃、深受老玩家喜愛的稀有規格版本。",
     reviews: [
       { title: "【ガンプラ】MG 1/100 RX-78-2ガンダム Ver.ONE YEAR WAR 0079 レビュー", url: "https://gunplapocchi.com/mg-gundam-0079/", lang: "ja" },
@@ -21095,7 +21095,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2002年8月",
     officialUrl: "https://bandai-hobby.net/item/01_1968/",
     imageUrl: "/images/mg-rx78-ca-casval-ver15.jpg",
-    tags: ["ガンプラ", "MG", "Bandai", "MSV", "キャスバル専用ガンダム", "シャア・アズナブル", "BOX0013"],
+    tags: ["ガンプラ", "MG", "Bandai", "MSV", "キャスバル専用ガンダム", "シャア・アズナブル"],
     description: "「RX-78/C.A. キャスバル専用ガンダム」是模擬遊戲《機動戦士ガンダム ギレンの野望》系列中的IF設定機體，假設吉翁公國建國元勳之子キャスバル・レム・ダイクン（即後來的紅色彗星シャア・アズナブル）若駕駛聯邦軍RX-78鋼彈的隱藏機體，機身塗裝以象徵夏亞的粉紅、黑為基調，肩部與胸口印有「NEO ZEON」及「RX-78/C.A」專屬標識，充滿MSV世界觀的假設趣味。本品為BANDAI SPIRITS「MG」系列以Ver.1.5鋼彈為基礎開發，2002年8月發售，新增可動式手腕零件與專屬步槍配件強化持槍動作的自然度，套件並附屬光束步槍、光束軍刀、盾牌、高性能巴祖卡砲、光束標槍及鋼彈鎚等豐富武裝。作為結合遊戲IF劇情與經典鋼彈骨架的稀有塗裝版本，是MSV及夏亞相關收藏者不可錯過的特色機體。",
     reviews: [
       { title: "MG 1/100 RX-78/C.A. キャスバル専用ガンダム - バンダイプラモデルWEB取説", url: "https://manual.bandai-hobby.net/menus/detail/871", lang: "ja" },
@@ -21118,7 +21118,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年7月24日",
     officialUrl: "https://bandai-hobby.net/item/01_2228/",
     imageUrl: "/images/rg-rx78-2.jpg",
-    tags: ["ガンプラ", "RG", "Bandai", "機動戦士ガンダム", "RX-78-2", "アムロ・レイ", "BOX0013"],
+    tags: ["ガンプラ", "RG", "Bandai", "機動戦士ガンダム", "RX-78-2", "アムロ・レイ"],
     description: "《機動戦士ガンダム》是1979年開播、開創「寫實機器人」類型的鋼彈系列原點作品，主角阿姆羅・雷伊駕駛聯邦軍試作機「RX-78-2 鋼彈」在一年戰爭中屢建奇功，成為系列史上最具代表性的機動戰士。本品是BANDAI SPIRITS「RG（Real Grade）」系列的紀念第一彈，於2010年7月配合台場1:1鋼彈立像展出企劃發售，首度在1/144比例中導入「Real System」設計理念，內構採半單體殼結構的可動骨架，外裝與骨架分割精密貼合重現MG級的細節密度與可動範圍。套件附屬光束步槍、光束軍刀、盾牌與高性能巴祖卡砲，胸甲可掀開重現駕駛艙內構，並收錄印刷寫實質感的專用貼紙，是奠定RG系列地位、鋼彈35周年紀念意義非凡的初代原點機體版本。",
     reviews: [],
     youtube: [
