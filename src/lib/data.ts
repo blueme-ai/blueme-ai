@@ -22102,7 +22102,7 @@ export const collection: CollectibleItem[] = [
     height: "全高約230mm",
     officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-009814-R",
     imageUrl: "/images/getter-robo-black-getter-ryoma-repaint.jpg",
-    tags: ["SMP0004", "ゲッターロボ", "ブラックゲッター", "EX合金", "FEWTURE MODELS", "アートストーム", "竜馬モード"],
+    tags: ["ゲッターロボ", "ブラックゲッター", "EX合金", "FEWTURE MODELS", "アートストーム", "竜馬モード"],
     description: "《ゲッターロボ》是永井豪與石川賢共同創作、1974年首播的經典機器人動畫始祖作品，首創「三機合體、依戰術需求切換不同形態」的設定，深刻影響後續日本機甲動畫的發展。「ブラックゲッター」原是漫畫版及部分衍生作品中登場的黑化設定機體，造型上承襲主角機ゲッター1的竜馬駕駛模式，但以漆黑塗裝搭配銳利的裝甲細節呈現，散發出與電視版明快色調截然不同的陰暗肅殺氣息，是ゲッターロボ相關商品線中極具個性的異色版本。本商品為アートストーム旗下FEWTURE MODELS「EX合金」系列作品，由造型師「佐藤[ロボ師]拓」操刀重新設計雕刻，2012年7月透過FEWTURE DIRECT限定通路發售。套組收錄全新設計的「ブラックゲッター 竜馬モード」機體本體，並同梱可換裝為「ゲッター1 ブラックバージョン」的替換零件與「ブラックイーグル号」戰機及專屬展示台座，兼具兩種竜馬駕駛形態的收藏樂趣。全高約230mm，採壓鑄合金、ABS、PVC、POM等複合材質構成，兼顧份量感與塗裝精緻度，是ゲッターロボ收藏線中份量十足的異色限定商品。",
     reviews: [
       { title: "アートストーム EX合金 ブラックゲッター 竜馬モード リペイントver. チェンジングセット", url: "https://esmusssein.hatenablog.com/entry/2012/09/18/232508", lang: "ja" },
