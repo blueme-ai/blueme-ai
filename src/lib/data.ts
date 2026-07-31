@@ -19708,7 +19708,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-night-saber-005-livery.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "ナイトセイバー", "Night Saber 005", "ナイト・シューマッハ", "MegaHouse", "Variable Action", "Livery Edition", "メガトレショップ限定"],
     description: "《新世紀GPX サイバーフォーミュラ》中，ナイトセイバー005是賽車手奈特・舒馬克駕駛的賽車，以紅白配色為基底、象徵Union Saber車隊風格。本商品為MegaHouse「Variable Action」系列「Livery Edition」第五彈，重新賦予經典塗裝更具深度與立體感的專屬標誌與塗裝細節，可透過延伸軸距、收納增壓艙、折疊尾翼重現衝刺模式，並可替換前翼零件、延伸後輪呈現拉力模式，座艙罩可開啟展示內裝，全長約180mm，附未塗裝舒馬克人偶與專用台座，是Livery Edition系列中較晚推出的限定商品。",
-    reviews: [],
+    reviews: [
+      { title: "『新世紀GPX サイバーフォーミュラ』ヴァリアブルアクション「ナイトセイバー005」を製品レビュー！", url: "https://hobby.dengeki.com/reviews/188482/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19726,8 +19728,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mk5.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "Iron Man 2", "手提箱戰甲", "可動", "合金"],
     description: "《鋼鐵人2》中東尼・史塔克於蒙那哥賽車場遭襲，緊急從公事包戰甲中喚出Mark V應戰，是系列中最具戲劇張力的名場面之一，紅銀配色搭配多層次金屬烤漆呈現輕量化便攜戰甲的獨特質感。本商品為threezero DLX系列作品，機身高約17.5公分，具備48處可動關節與壓鑄合金結構，胸口方舟反應爐與眼部內建LED發光效果，背部四片飛行推進板可開闔展示，附五款可替換手型、緊急手提箱造型配件及兩款推進特效零件，重現公事包變身的經典場景，是鋼鐵人戰甲收藏中話題性十足的一款。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "Iron Man Suits Up with threezero's DLX Infinity Saga Mark V Armor", url: "https://bleedingcool.com/collectibles/iron-man-suits-up-with-threezeros-dlx-infinity-saga-mark-v-armor/", lang: "en" },
+    ],
+    youtube: [
+      { title: "Threezero DLX Iron Man Mark V Action Figure Unboxing and Review", url: "https://www.youtube.com/watch?v=cCFVaAdwogM", lang: "en" },
+      { title: "Threezero DLX Iron Man Mark V Unboxing and Review", url: "https://www.youtube.com/watch?v=xAkPDWluIpY", lang: "en" },
+    ],
   },
   {
     id: "mg-zz-gundam-verka-anime-limited",
@@ -19743,7 +19750,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-zz-gundam-verka-anime-limited.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ZZガンダム", "Ver.Ka", "透明成型", "活動限定"],
     description: "《機動戰士ZZ鋼彈》主角捷多的座機ZZ鋼彈以合體變形機構與強大火力著稱，是宇宙世紀系列中商品化人氣極高的機體。本品為Ver.Ka骨架的透明成型活動限定版，僅於鋼彈基地相關活動期間販售，透過清澈的藍色系透明零件展現內部骨架結構與分色設計，與一般不透明塗裝版本形成強烈對比，是Ver.Ka系列收藏者追逐的稀有活動限定色版本，發售後即成為二手市場詢問度極高的品項。",
-    reviews: [],
+    reviews: [
+      { title: "MG ダブルゼータガンダム Ver.Ka [クリアカラー]", url: "https://gumpla.jp/mg/2170152", lang: "ja" },
+      { title: "MG ZZガンダムVer.Ka クリアカラー", url: "https://www.gn-app.com/ja/posts/0346f49a-32b5-4acf-a638-7c98a82ff80e", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19760,8 +19770,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-unicorn-luminous-crystal.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "ガンダムベース限定", "透明成型"],
     description: "《機動戰士鋼彈UC》中獨角獸鋼彈解放心理框架後化身「毀滅模式」，是全劇最具震撼力的視覺象徵之一。本品為紀念鋼彈基地5週年推出的限定版本，機體以電影意象為靈感、通體採閃耀水晶般的透明成型設計，僅能組裝呈現光之結晶毀滅模式，無法變形回獨角獸模式或一般毀滅模式。附贈以宇宙為意象、灑落亮粉的專用展示台座及可全關節可動的萬能連接臂，是鋼彈基地限定商品中辨識度極高、極具紀念意義的收藏品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ユニコーンガンダム(光の結晶体)レビュー", url: "https://ganpura-t.com/mg-uc-luminous-crystal-body/", lang: "ja" },
+      { title: "MG ユニコーンガンダム (光の結晶体)", url: "https://ygmhyt.com/mg_unicorn_luminous_crystal/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG 1/100 ユニコーンガンダム(光の結晶体) ガンダムベース限定 開封・組立・レビュー", url: "https://www.youtube.com/watch?v=ZwfT4SsX7a8", lang: "ja" },
+      { title: "8年越しのゲテモノ！MG1/100ユニコーンガンダム（光の結晶体）ついに発売！【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=fARH1VxfDsw", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-base-perfect-strike-grand-slam",
@@ -19777,8 +19793,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-perfect-strike-grand-slam.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "強襲鋼彈", "ガンダムベース限定", "Perfect Strike"],
     description: "《機動戰士鋼彈SEED》中強襲鋼彈透過Striker Pack模組化武裝切換戰術定位，「完全裝備型」Perfect Strike則是集Aile、Sword、Launcher三種背包與Grand Slam巨型加農砲於一身的終極重裝形態，是設定資料中火力配置最誇張的強襲鋼彈版本。本品為鋼彈基地限定套件，同梱兩種Striker Pack、光束步槍、盾牌、兩把裝甲用細劍及Grand Slam加農砲，並附仿投射台造型的專用展示台座，可自由切換翔翼型、劍式型、加農砲型與完全裝備型等多種形態展示，是強襲鋼彈系列收藏中規格最完整的限定版本。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【新商品紹介】MG 1/100 ガンダムベース限定 パーフェクトストライクガンダム グランドスラム装備型 レビュー", url: "https://www.gundam-base.net/staffblog/33404.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG 1/100 パーフェクトストライクガンダム グランドスラム装備型 ガンダムベース限定 開封・レビュー", url: "https://www.youtube.com/watch?v=g4T_ytoQU8o", lang: "ja" },
+      { title: "MGパーフェクトストライクガンダム グランドスラム装備型は色々と困る！【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=3QSFLE6EeCw", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-base-rx-78-2-ver3-base-color",
@@ -19794,7 +19815,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-rx-78-2-ver3-base-color.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "RX-78-2", "Ver.3.0", "ガンダムベース限定"],
     description: "初代鋼彈RX-78-2是整個機動戰士鋼彈系列與模型產業的原點象徵。本品採用目前RX-78系列MG最新世代的Ver.3.0骨架，具備手指各節可動、可動式裝甲連動系統等精密關節構造，肩甲與背包護蓋皆可連動增加手臂活動範圍。此為鋼彈基地限定的清爽藍色系「鋼彈基地色」版本，區別於一般販售的標準配色，並附鋼彈基地原創特別標誌水貼，是Ver.3.0骨架眾多限定色中辨識度高、收藏價值突出的一版。",
-    reviews: [],
+    reviews: [
+      { title: "MG ガンダムベース限定 RX-78-2 ガンダム Ver.3.0［ガンダムベースカラー］ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-rx-78-2-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0ver-3-0%EF%BC%BB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%BD", lang: "ja" },
+      { title: "MG 1/100 RX-78-2 ガンダムVer.3.0 [ガンダムベースカラー] レビュー", url: "https://www.alstakayuki.org/2020/06/12/mg-1-100-rx-78-2-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0ver-3-0-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19811,8 +19835,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-aile-strike-verrm-clear.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "強襲鋼彈", "Ver.RM", "ガンダムベース限定", "透明成型"],
     description: "翔翼型強襲鋼彈是基拉・大和初期最具代表性的座機形態，Ver.RM版本以GAT-X骨架規格全面翻新比例與細節，呈現接近PG等級的立體感。本品為鋼彈基地限定的透明成型版本，白色裝甲部位改以珍珠光澤成形色呈現，並附乳白色展示台座，與一般販售的Ver.RM不透明版屬不同商品，是強襲鋼彈收藏中辨識度極高的限定色版本，長年為鋼普拉玩家追捧的絕版商品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ガンダムベース限定 エールストライクガンダム Ver.RM［クリアカラー］ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%A8%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-ver-rm%EF%BC%BB%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%BD", lang: "ja" },
+    ],
+    youtube: [
+      { title: "このクリアーは最高！MG1/100 エールストライクガンダム Ver.RM[クリアカラー] ガンダムベース限定版のレビュー", url: "https://www.youtube.com/watch?v=ZYYUF4zbX3g", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-base-freedom-ver2-clear",
@@ -19828,8 +19856,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-freedom-ver2-clear.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "自由鋼彈", "Ver.2.0", "ガンダムベース限定", "透明成型"],
     description: "自由鋼彈是基拉・大和在《SEED》後段駕駛的天然者陣營旗艦機，八枚展開式翼型推進器與雙持光束軍刀是其最具標誌性的視覺特徵。本品為鋼彈基地限定的透明成型版本，全身以透明零件搭配珍珠光澤白色裝甲呈現，並附乳白色展示台座，一般通路無法購得，僅透過鋼彈基地及Premium Bandai限量發售，是自由鋼彈眾多版本中收藏熱度居高不下的限定色款式。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ガンダムベース限定 フリーダムガンダムVer.2.0［クリアカラー］ レビュー", url: "https://schizophonic9.com/re6/mg_freedomclear.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【ガンプラMG】思ってたのと違う…MGガンダムベース限定フリーダムガンダム Ver.2.0 [クリアカラー]レビュー", url: "https://www.youtube.com/watch?v=2Mc3qfIxnOU", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-base-zaku-warrior-live-concert",
@@ -19845,8 +19877,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-zaku-warrior-live-concert.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "薩克勇士", "ガンダムベース限定", "Gundam SEED"],
     description: "《機動戰士鋼彈SEED DESTINY》中歌姬米亞・坎貝爾在劇中登場的演唱會場景，搭配以粉紅色為基調的特別塗裝薩克勇士作為舞台裝置。本品沿用MG薩克勇士系列骨架，通體改以粉色系成型色重現演唱會場景配色，並附全新開模的米亞・坎貝爾1/100比例人偶及演唱會限定水貼，是SEED DESTINY周邊中話題性十足、跳脫戰鬥機體框架的趣味限定版本。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ガンダムベース限定 ザクウォーリア（ライブコンサートVer.）レビュー", url: "https://schizophonic9.com/re7/mg_zakulive.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG 1/100 ザクウォーリア(ライブコンサート Ver.) ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=EHLpAtSNG3w", lang: "ja" },
+    ],
   },
   {
     id: "mg-zeta-gundam-iii-p2-red-zeta",
@@ -19862,7 +19898,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-zeta-gundam-iii-p2-red-zeta.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "Zガンダム", "GUNDAM EVOLVE", "P-Bandai限定", "紅蓮"],
     description: "「Red Zeta」出自短篇OVA《GUNDAM EVOLVE../9》，是以Z鋼彈III P2 C型為基礎、搭載「精神中和裝置」的新人類專用強化機，由新駕駛員尤莉・阿吉薩（紅蛇）駕駛，機體外裝約八成經過重新設計，全身佈滿鰭狀散熱片與銳利線條的新造型背包，並可變形為Wave Rider高速飛行形態。本品為此設定首度立體化的P-Bandai限定套件，附Red Zeta專屬光束手槍與盾牌，是Z鋼彈系列支線機體中稀有度極高的收藏品。",
-    reviews: [],
+    reviews: [
+      { title: "MG ゼータガンダム3号機P2型 レッド・ゼータ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%BC%E3%83%BC%E3%82%BF%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A03%E5%8F%B7%E6%A9%9Fp2%E5%9E%8B-%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%BC%E3%83%BC%E3%82%BF", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19879,8 +19917,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-unicorn-banshee-verka.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "Banshee", "Ver.Ka", "UC"],
     description: "《機動戰士鋼彈UC》中Banshee是新吉翁殘黨駕駛員瑪莉妲・克魯茲的座機，全身心理框架解放後爆發出遠超常規MS的機動性與破壞力，是全劇最具震撼力的獨角獸系機體之一。本品由香瀧一監修的Ver.Ka版本重新調整比例與細節，心理框架部位改以透明黃色成型呈現，並附Ver.Ka專屬水貼；可完整重現獨角獸模式與NT-D解放後的破壞模式切換，標配光束麥格農與大型火箭砲等豐富武裝，是UC系列MG收藏中規格與人氣兼具的一款。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG バンシィ レビュー", url: "https://hacchaka.net/archives/51810973.html", lang: "ja" },
+      { title: "バンシィMG・Ver.Kaの素組みレビュー＆感想まとめ！", url: "https://gundam-freak.com/banshee-review/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG 1/100 ユニコーンガンダム2号機 バンシィ Ver.Ka（RX-0 UNICORN GUNDAM02 BANSHEE）開封・組立・レビュー", url: "https://www.youtube.com/watch?v=Mwse2XGi42c", lang: "ja" },
+    ],
   },
   {
     id: "mg-unicorn-phenex-standard",
@@ -19920,7 +19963,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "Phenex", "金メッキ", "P-Bandai限定"],
     description: "《機動戰士鋼彈NT》劇中登場的三號機Phenex，是傳說中「拉普拉斯之盒」關鍵鑰匙之一，其金色機身象徵不死鳥浴火重生的意象，是UC系列近年人氣爆發的話題機體。本品為P-Bandai限定的金屬鍍膜版，全身以光澤金色電鍍塗裝重現劇中最終定裝形象，並附新規開模的Armed Armor DE裝甲組件與尾部可動穩定翼零件，是Phenex眾多版本中最貼近劇中閃耀金色形象的旗艦收藏版本。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ガノタも困惑！MGユニコーンガンダム3号機フェネクス ナラティブ版【ガンプラレビュー】MG GUNDAM PHENEX NTVer. Gunpla review", url: "https://www.youtube.com/watch?v=zHpvqueNzIQ", lang: "ja" },
+      { title: "MG 1/100 ユニコーンガンダム３号機 フェネクス （ナラティブVer.）ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=L8Gl8tBIfwc", lang: "ja" },
+    ],
   },
   {
     id: "mg-nt1-alex-ver2-clear",
@@ -19936,8 +19982,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-nt1-alex-ver2-clear.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "NT-1", "Alex", "Ver.2.0", "0080", "透明成型"],
     description: "《機動戰士鋼彈0080：口袋中的戰爭》以平民少年視角描寫戰爭殘酷面，代號「Alex」的NT-1鋼彈是聯邦軍實驗性強化裝甲鋼彈，複合裝甲下的機體損傷與最終自爆場景是全劇最令人揪心的段落。本套件為紀念0080作品30週年推出的Ver.2.0透明成型版，重新設計可開闔的複合裝甲護盾，透明零件完整展現內部骨架與裝甲夾層結構，標配光束步槍、光束軍刀與大型火箭砲，是NT-1收藏中兼具紀念意義與觀賞性的限定版本。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ガンダムNT-1 Ver.2.0 レビュー", url: "https://schizophonic9.com/re5/mg_nt1ver2.html", lang: "ja" },
+      { title: "MG ガンダムNT-1 Ver.2.0 クリアカラー", url: "https://blog.p-adic.net/entry/2019/08/13/223110", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG 1/100 ガンダムNT-1 Ver.2.0(RX-78NT-1 GUNDAM NT-1 ALEX)アレックス 開封・組立・簡易レビュー", url: "https://www.youtube.com/watch?v=hHuRb3o8udA", lang: "ja" },
+    ],
   },
   {
     id: "mg-deathscythe-ew-rousette",
@@ -19953,8 +20004,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-deathscythe-ew-rousette.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "デスサイズ", "Endless Waltz", "P-Bandai限定"],
     description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》外傳漫畫中，杜歐・馬克士威的死神鋼彈EW配備全新開模的「Roussette」增裝背包，強化空戰機動力，可於收納貼背模式與展開飛行模式間切換。套件沿用2010年發售的一般販售版死神鋼彈EW核心骨架，同梱Roussette增裝背包、光束鐮刀與巴斯特盾，是死神系機體眾多外傳增裝形態中特色鮮明的一款，也是Endless Waltz外傳漫畫商品化較少見的稀有品項。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ガンダムデスサイズ EW（ルーセット装備） レビュー", url: "https://schizophonic9.com/re6/mg_roussette.html", lang: "ja" },
+      { title: "GUNDAM Deathscythe EW Rousette Unit レビュー", url: "https://www.miyutox.com/entry/DeathscytheEW%EF%BC%8DRousetteUnit/Review", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG マスターグレード ガンダムデスサイズ ルーセット装備 レビュー/GUNDAM DEATHSCYTHE EW (ROUSSETTE UNIT)", url: "https://www.youtube.com/watch?v=XNBubhM299M", lang: "ja" },
+    ],
   },
   {
     id: "mg-geara-doga-full-frontal",
@@ -19970,7 +20026,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-geara-doga-full-frontal.jpg",
     tags: ["ガンプラ", "MG", "Bandai", "新吉翁", "吉拉・多加", "P-Bandai限定", "夏亞再臨"],
     description: "《機動戰士鋼彈UC》中，本應報廢拆解作為零件的實驗型吉拉・多加，最終由弗爾・馮拿駕駛投入戰場，重現「紅色彗星再臨」的震撼形象，是新吉翁殘黨量產機譜系中極具戲劇性的一機。本品為P-Bandai限定的紅色機體塗裝版本，以MG-171吉拉・多加為基礎新增「新篭手」造型零件與專屬水貼，重現機體驗證新規零件耐久性的實驗機定位，是新吉翁量產機收藏中辨識度極高的角色專用限定色版本。",
-    reviews: [],
+    reviews: [
+      { title: "MG ギラ・ドーガ（フル・フロンタル専用機） レビュー", url: "https://schizophonic9.com/re3/mg_frontalgeara.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
