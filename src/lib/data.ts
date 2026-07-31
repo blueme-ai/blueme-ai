@@ -21761,7 +21761,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年10月27日",
     officialUrl: "https://tamashiiweb.com/item/1785/",
     imageUrl: "/images/scm-ex-virgo-shaka.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "EX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "沙加是黃金十二宮處女座聖鬥士，被譽為「最接近神的男人」，為了提升小宇宙而終年閉目修行，是系列中最具哲學色彩的黃金聖鬥士之一。本商品為2012年10月BANDAI推出的「聖鬥士聖衣神話EX」乙女座沙加，採用全新開模的EX系列素體與聖衣，比舊版更貼近漫畫原作比例，並附有多款替換表情零件、可動式披風及道具展示框，重現沙加閉目沉思與睜眼爆發小宇宙的姿態。作為EX系列早期作品，是後續神聖衣、復刻版等多種版本的原型基礎，深受聖鬥士聖衣神話收藏者喜愛。",
     reviews: [
       { title: "聖闘士聖衣神話EX バルゴシャカ レビュー", url: "https://ameblo.jp/shining-leo/entry-11392533723.html", lang: "ja" },
@@ -21781,7 +21781,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年8月25日",
     officialUrl: "https://tamashiiweb.com/item/1743/",
     imageUrl: "/images/scm-ex-sagittarius-aiolos.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "EX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "艾奧羅斯是黃金十二宮射手座聖鬥士，也是天馬座星矢的引路人，在聖域政變中犧牲性命守護雅典娜聖子，是系列中極具悲劇色彩與人氣的角色。本商品為2012年BANDAI推出的「聖鬥士聖衣神話EX」射手座艾奧羅斯，以全新EX素體重新詮釋原作比例與可動性，聖衣採用可拆卸式披風與可替換翅膀設計，並附有多款表情零件及射手座星矢頭部零件作為隱藏配件，可將箭袋轉換為聖衣箱型態展示。作為EX系列黃金聖鬥士陣容的重要一員，其細膩的雕刻與豐富的可動範圍深受聖鬥士聖衣神話收藏者好評。",
     reviews: [
       { title: "聖闘士聖衣神話EX サジタリアスアイオロス レビュー", url: "https://ameblo.jp/shining-leo/entry-11350906547.html", lang: "ja" },
@@ -21821,7 +21821,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年4月21日",
     officialUrl: "https://tamashiiweb.com/item/1688/",
     imageUrl: "/images/scm-ex-scorpio-milo.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "EX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "米羅是黃金十二宮天蠍座聖鬥士，以緋紅色的針刺技「猩紅針」聞名，個性豪爽卻對聖域忠誠不二，是系列人氣角色之一。本商品為2012年4月BANDAI推出的「聖鬥士聖衣神話EX」天蠍座米羅，採用全新雕刻的EX系列素體與聖衣模具，較舊版更貼近原作比例與細節，並附有多款替換表情零件、可動披風及道具展示框。初回購入特典附贈「SAINT CLOTH MYTH EX特效貼紙」，內含緋紅針、水晶壁與雷電電漿等技能特效零件，可重現米羅招牌招式的戰鬥場景。作為EX系列黃金聖鬥士陣容的重要作品，是聖鬥士聖衣神話收藏者青睞的經典款式。",
     reviews: [
       { title: "聖闘士聖衣神話EX スコーピオンミロ レビュー", url: "https://ameblo.jp/shining-leo/entry-11259681920.html", lang: "ja" },
@@ -21841,7 +21841,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2011年8月27日",
     officialUrl: "https://tamashiiweb.com/item/1595/",
     imageUrl: "/images/scm-ex-gemini-saga.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "EX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "撒加是黃金十二宮雙子座聖鬥士，因體內善惡人格分裂而成為系列中最具悲劇性與戲劇張力的角色之一，曾一度化身教皇艾雷斯操控聖域。本商品為2011年8月BANDAI推出的「聖鬥士聖衣神話EX」雙子座撒加（一般版，非教皇艾雷斯版），是EX系列的首發作品，採用全新開發的EX素體與可動關節，重現漫畫原作般修長俐落的比例，聖衣配有左右不對稱的天使與惡魔造型翅膀披風，並附多款替換表情與手部零件。初回購入特典附贈「銀河星爆」（ギャラクシアンエクスプロージョン）特效零件，可重現撒加招牌絕招的震撼場面，是EX系列的開創性代表作品。",
     reviews: [
       { title: "聖闘士聖衣神話EX：ジェミニサガ(リバイバル版)[レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/geminisaga-revival-ex/", lang: "ja" },
@@ -21861,7 +21861,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2011年12月29日",
     officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIG-IPN-6066",
     imageUrl: "/images/scm-ex-aries-mu.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "EX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "穆是黃金十二宮牡羊座聖鬥士，同時也是聖域首席聖衣修復師，個性沉穩內斂，總是以水晶般清澈的意志守護正義，並肩負教導星矢等青銅聖鬥士的重責。本商品為2011年12月BANDAI推出的「聖鬥士聖衣神話EX」牡羊座穆（一般版），是EX系列第三彈作品，重現漫畫原作的修長比例與清爽線條，聖衣模具全新開發，可動性較舊版大幅提升，並附有多款替換表情、髮片、手腕零件及聖衣修復道具，同時附贈徒弟「貴鬼」迷你人偶及專屬台座，重現師徒同框的收藏畫面。作為EX系列早期黃金聖鬥士代表作，是聖鬥士聖衣神話收藏者公認雕刻與可動兼具的經典款式。",
     reviews: [
       { title: "聖闘士聖衣神話EX アリエスムウ レビュー", url: "https://hacchaka.net/archives/51794086.html", lang: "ja" },
@@ -21881,7 +21881,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年11月23日",
     officialUrl: "https://tamashiiweb.com/item/792/",
     imageUrl: "/images/scm-appendix-pegasus-seiya-casual.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "APPENDIX"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話APPENDIX"],
     description: "星矢是《聖鬥士星矢》系列主角，身為天馬座青銅聖鬥士，個性熱血直率，是雅典娜身邊最核心的守護者之一。本商品為2007年11月BANDAI推出的「聖鬥士聖衣神話APPENDIX」系列作品，以星矢的日常私服造型呈現，採用當時最新一代素體開發，關節結構更為自然、外觀無外露螺絲孔，重現星矢身穿紅色衝浪風上衣搭配牛仔褲的休閒裝扮，並附有可背負的天馬座聖衣箱配件，展現角色卸下聖衣後的另一面貌。APPENDIX系列以低價位、小尺寸的方式補完角色的日常造型，是聖鬥士聖衣神話正傳人偶之外別具趣味的周邊延伸收藏。",
     reviews: [
       { title: "聖闘士聖衣神話 APPENDIX ペガサス星矢（私服）", url: "https://hayato.cocolog-nifty.com/nikki/2009/07/appendix-2f8e.html", lang: "ja" },
@@ -21901,7 +21901,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年1月31日",
     officialUrl: "https://tamashiiweb.com/item/996/",
     imageUrl: "/images/scm-appendix-scorpio-milo.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "APPENDIX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話APPENDIX", "黄金聖闘士"],
     description: "米羅是黃金十二宮天蠍座聖鬥士，以華麗淩厲的「猩紅針」絕技聞名，個性豪邁不羈。本商品為2009年1月BANDAI推出的「聖鬥士聖衣神話APPENDIX」系列作品，以半身胸像形式呈現，重現米羅施展禁忌絕招「雅典娜之嘆」（アテナエクスクラメーション）時的招牌姿態，並附有兩款替換頭部零件呈現不同表情。APPENDIX系列以小巧精緻的半身像補足角色在特定招式或情境下的經典畫面，價格親民且便於收藏展示，是聖鬥士聖衣神話系列周邊中深受粉絲喜愛的補完商品。",
     reviews: [
       { title: "聖闘士聖衣神話APPENDIX：スコーピオン ミロ [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/appendix-scorpio/", lang: "ja" },
@@ -22061,7 +22061,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年3月",
     officialUrl: "https://tamashiiweb.com/item/703/",
     imageUrl: "/images/scm-appendix-virgo-shaka.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "APPENDIX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話APPENDIX", "黄金聖闘士"],
     description: "沙加（シャカ）是黃金十二宮處女座聖鬥士，人稱「最接近神的男人」，個性超然出世，擅長六感全開的絕技「天舞宝輪」，是系列中人氣極高的黃金聖鬥士之一。「APPENDIX」是聖闘士聖衣神話推出的胸像配件系列，以半身像形式重現角色頭部與聖衣局部細節，體積小巧、價格親民，適合搭配主線可動人偶一同展示或單獨收藏。本尊隨附兩種頭部零件可替換出兩種不同表情，忠實呈現沙加閉目沉思與睜眼發威的反差魅力。作為系列中價格入門、又能兼顧細節質感的周邊商品，深受喜愛沙加角色與追求陳列多樣性的玩家青睞。",
     reviews: [
       { title: "聖闘士聖衣神話：APPENDIX バルゴ シャカ [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/appendix-virgo/", lang: "ja" },
@@ -22139,7 +22139,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年11月23日",
     officialUrl: "https://tamashiiweb.com/item/793/",
     imageUrl: "/images/scm-appendix-dragon-shiryu-casual.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "APPENDIX"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話APPENDIX"],
     description: "紫龍是星矢的青銅聖鬥士夥伴之一，身披龍座聖衣，個性沉穩內斂、重情重義，擅長「廬山昇龍霸」等剛猛招式，是青銅五小強中年紀最長、最為老成持重的一員。本商品為2007年11月BANDAI推出的「聖鬥士聖衣神話APPENDIX」系列作品，以紫龍的日常私服造型呈現，身穿中式立領紫色便服，重現角色背後特徵鮮明的龍形刺青設計，並附有可背負的龍座聖衣箱配件，展現角色卸下聖衣後沉穩內斂的另一面貌。APPENDIX私服系列以小巧精緻、價格親民的方式補完角色日常樣貌，是聖鬥士聖衣神話正傳人偶之外別具趣味的周邊延伸收藏。",
     reviews: [
       { title: "聖闘士聖衣神話APPENDIX：ドラゴン紫龍（私服）[レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/appendix-dragon-clothes/", lang: "ja" },
@@ -22159,7 +22159,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年2月",
     officialUrl: "https://tamashiiweb.com/item/828/",
     imageUrl: "/images/scm-appendix-leo-aiolia.jpg",
-    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "APPENDIX", "黄金聖闘士"],
+    tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話APPENDIX", "黄金聖闘士"],
     description: "阿伊奧利亞是黃金十二宮獅子座聖鬥士，個性豪爽正直，是射手座艾奧羅斯之弟，曾一度背負兄長「叛徒」污名而遭聖域猜忌，最終以行動證明對雅典娜的絕對忠誠，是系列中人氣極高的黃金聖鬥士之一。本商品為2008年2月BANDAI推出的「聖鬥士聖衣神話APPENDIX」系列作品，以半身胸像形式呈現，重現阿伊奧利亞施展絕招「雷霆閃電拳」時齜牙咧嘴的招牌兇猛表情與姿態。APPENDIX系列以小巧精緻的半身像補足角色在特定招式或情境下的經典畫面，價格親民且便於收藏展示，是聖鬥士聖衣神話系列周邊中深受粉絲喜愛的補完商品。",
     reviews: [
       { title: "聖闘士聖衣神話APPENDIX：レオ アイオリア [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/appendix-leo/", lang: "ja" },
