@@ -22847,7 +22847,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "レビュー483 SMP キングブラキオン クリアカラーver.", url: "https://syoku-gun.blog/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC483%E3%80%80smp%E3%80%80%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%82%AD%E3%82%AA%E3%83%B3-%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BCver/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "最新プラモ情報まとめ！SMP 勇者王ガオガイガー クリアカラーVer.やSMP 獣騎神 キングブラキオン クリアカラーVer.発売！！", url: "https://www.youtube.com/watch?v=72ZBaD6NYbY", lang: "ja" },
+    ],
   },
   {
     id: "animester-karas-samurai",
@@ -22864,8 +22866,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/animester-karas-samurai.jpg",
     tags: ["狼犬部隊", "Wolf-Mastiff Force", "渡鴉", "Karas Samurai", "Animester", "核金重構", "機甲少女", "中國品牌", "可動フィギュア"],
     description: "「狼犬部隊」（Wolf-Mastiff Force）是中國廠牌Animester（核金重構）推出的原創機甲少女企劃，融合日式機甲美學與可動人偶工藝，塑造出多名身披重裝甲、風格陰暗銳利的女性戰士角色，是近年中國原創IP在可動玩具市場崛起的代表作之一。「渡鴉」（Karas Samurai）是該系列中隸屬「突撃型」的角色，紅黑配色搭配銳利的肩甲與翼狀裝飾，呈現兼具妖異與戰鬥感的視覺印象。本商品為1/9比例可動人偶，全高約195mm，全身無縫關節設計（無外露卡榫），採PVC、ABS、布料、矽膠、合金等複合材質製作，套組附屬多款替換臉部表情、翼裝配件、武裝掛載零件、腳部配件與手部零件，並附專屬展示台座，讓玩家可自由組合重現角色多種戰鬥姿態與情緒表現。作為近年崛起的中國原創機甲少女品牌代表作，本商品在細節雕刻與關節可動工藝上展現不遜於日系大廠的水準，是喜愛原創機甲少女題材收藏者的話題新選擇。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【核金重构】400多块钱！1/9的包胶可动成品！狼犬部队 突击型·渡鸦！开箱分享！", url: "https://www.bilibili.com/video/BV1MmdUYaEM1/", lang: "zh" },
+      { title: "Reviews of Animester 1/9 Wolf Mastiff Force Karas Samurai", url: "https://gundamit.com/review_p2447/", lang: "en" },
+    ],
+    youtube: [
+      { title: "軟硬兼備！超颯機娘！核金重构 渡鴉【神田玩具組】", url: "https://www.youtube.com/watch?v=BkkP5tyQGyE", lang: "zh" },
+      { title: "Animester x Nuclear Gold Reconstruction 1/9 Wolf-Mastiff Force Karas Samurai Action Figure Review", url: "https://www.youtube.com/watch?v=-R9VzWH1kZA", lang: "en" },
+    ],
   },
   {
     id: "dx-chogokin-vf1-strike-super-parts-movie",
@@ -22885,7 +22893,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】DX超合金 劇場版VF-1対応ストライク／スーパーパーツセット", url: "https://shishioh.info/DX_Chogokin_STRIKE_SUPER_PARTS_SET_1.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【超時空要塞マクロス】これで完全版！DX超合金 劇場版VF-1対応ストライク／スーパーパーツセット ヲタファの 愛・おぼえていますか レビュー", url: "https://www.youtube.com/watch?v=tQs6ZBDiVY0", lang: "ja" },
+      { title: "[これが無いと未完成!?!?!?]DX超合金vf-1専用ストライク/スーパーパーツセット レビュー", url: "https://www.youtube.com/watch?v=eg3HtWB8AkY", lang: "ja" },
+    ],
   },
   {
     id: "smp-saint-kaiser",
@@ -22905,7 +22916,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【SMP・セイントカイザー】彩色済み最終仕様の製品サンプル写真多数公開！", url: "https://nodokalife.com/seintkaiser-final", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【SMP】セイントカイザーレビュー‼️セイントウルカイザーファイヤー（仮）がカッコよすぎるんだ！！", url: "https://www.youtube.com/watch?v=vZEhzQV6DUc", lang: "ja" },
+      { title: "今回も傑作！【SMP 魔法戦隊マジレンジャー 天空合体 セイントカイザー】ヲタファのミニプラレビュー", url: "https://www.youtube.com/watch?v=gx_NKwe8Xas", lang: "ja" },
+    ],
   },
   {
     id: "smp-goldran-leon-kaiser",
@@ -22925,7 +22939,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "レビュー481 SMPゴルドラン レオンカイザー 【前編】", url: "https://syoku-gun.blog/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC481%E3%80%80smp-%E3%83%AC%E3%82%AA%E3%83%B3%E3%82%AB%E3%82%A4%E3%82%B6%E3%83%BC%E3%80%80%E5%89%8D%E7%B7%A8/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "傑作！黄金獣合体 グレートゴルドラン【SMP レオンカイザー】合体アレンジが秀逸！ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=ZBN4WM1qcsI", lang: "ja" },
+      { title: "【餓模人開箱】SMP 黃金勇者 雷昂凱薩 ゴルドラン レオンカイザー 終極黃金德蘭", url: "https://www.youtube.com/watch?v=yKKPkV9E3pA", lang: "zh" },
+    ],
   },
   {
     id: "yamato-vf1-super-strike-parts-stealth",
