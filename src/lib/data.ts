@@ -16575,8 +16575,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-hatsune-miku-15th-anniversary.jpg",
     tags: ["初音ミク", "Hatsune Miku", "Good Smile Company", "ねんどろいど", "15周年", "GSC0001"],
     description: "初音ミク是Crypton Future Media推出的VOCALOID聲庫代表角色，自2007年問世以來持續帶動同人創作與音樂產業的蓬勃發展，是全球辨識度最高的虛擬歌手代表符號之一。本商品「15th Anniversary Ver.」是為紀念角色誕生15週年推出的紀念版本，以草莓甜點為主題重新詮釋初音ミク的招牌雙馬尾造型，白色蕾絲滾邊洋裝搭配草莓造型髮飾與紅白格紋緞帶，呈現既華麗又充滿慶典氛圍的視覺印象，是眾多週年紀念商品中製作規格最高的一款。標配草莓造型權杖、叉子與馬卡龍配件，並附一款以草莓蛋糕為造型的專屬展示台座，讓角色彷彿置身於精緻甜點派對之中。多款表情零件細膩呈現角色歡欣雀躍的神情，服裝蕾絲層次與髮飾的塗裝細節皆屬同系列中上乘水準。作為初音ミク15週年紀念的代表性周邊商品，本作因應詢問度極高而於2026年初再度復刻販售，兼具紀念意義與收藏價值，是VOCALOID周邊收藏中極具份量的一件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【心得】1939 黏土人『初音未來 15th Anniversary Ver.』開箱", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=63906", lang: "zh" },
+    ],
+    youtube: [
+      { title: "【初音ミク15周年記念！】ねんどろいど 初音ミク 15th Anniversary Ver. レビュー！", url: "https://www.youtube.com/watch?v=XGdAV-vfBsM", lang: "ja" },
+      { title: "[Unbox] Nendoroid 1939 ~ Hatsune Miku: 15th Anniversary Ver.", url: "https://www.youtube.com/watch?v=uQfywS34uP8", lang: "en" },
+    ],
   },
   {
     id: "mg-f90-mission-pack-h",
@@ -16593,8 +16598,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-h.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「H型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是單獨型號販售、非雙拼組合的一款。套件外觀可見大型綠色系四連裝飛彈莢艙武裝，左右肩各掛載一組，火力配置偏向大範圍面制壓與遠距轟炸取向，展現F90在特殊任務情境下的另一種重火力面貌，與標準形態的簡潔線條形成強烈對比。H型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內的關節可動與武裝分件皆維持MG系列一貫精度，飛彈莢艙的分件細節與塗裝分色處理亦相當講究。由於是單獨型號、價格與內容量相對精簡，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是補齊收藏拼圖中重要的一塊。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ガンダムF90用 ミッションパック Hタイプ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0f90%E7%94%A8-%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF-h%E3%82%BF%E3%82%A4%E3%83%97", lang: "ja" },
+      { title: "MG「ガンダムF90用ミッションパック Hタイプ」レビュー", url: "http://myhobby.moo.jp/mg-f90h/review.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MGガンダムF90のミッションパック９個一気に作ってみたｗ【フルプラ工場】", url: "https://www.youtube.com/watch?v=OPv13Vd7MbM", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-f90-n-type",
@@ -16611,8 +16621,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-f90-n-type.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90 N-Type", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點，長年透過P-Bandai限定通路陸續推出各式衍生塗裝與任務背包套件，構成龐大的機體收藏體系。「N-TYPE」是F90本體搭配「N型」任務背包預先組合完成的完整套件，相較於需另購本體再自行組裝擴充零件的Mission Pack形式，本商品開箱即可直接組裝出N型配備的完整F90形態，省去額外拼湊本體與零件的麻煩。套件延續F90系列精密的骨架可動結構與硬點模組化設計，N型裝備的武裝與追加裝甲細節皆完整收錄，塗裝分色與細節密度維持MG系列一貫水準。作為近年才推出的新規格完整套件商品，對於持續追蹤F90企劃各式衍生機體構型、且傾向直接入手完整成品的鋼普拉玩家而言，本商品是收藏系列拼圖中相對晚近才補齊的一塊。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG「ガンダムF90 Nタイプ」レビュー", url: "https://myhobby.moo.jp/mg-f90n/review.html", lang: "ja" },
+      { title: "MG ガンダムF90 Nタイプ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0f90-n%E3%82%BF%E3%82%A4%E3%83%97", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MGガンダムF90 Nタイプ レビュー！戦闘機が変形＆合体！【機動戦士ガンダムF90FF】", url: "https://www.youtube.com/watch?v=L5BadHC_MzE", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-sakura-miko",
@@ -18349,8 +18364,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-super-winzert.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "GSC0002"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年分別駕駛石、木、金屬三屬性機體，其中「ウインザート」為金屬屬性機體，操縦者擅長機動與飛行戰術。劇情後段機體強化進化為「スーパーウインザート」，裝甲換上更鋭利的線條與強化配色，機動性與火力較原型大幅提升，是三人組中負責遠程支援與速攻突破的關鍵戰力。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約135mm，關節可動性佳，能重現機體俐落的戰鬥姿態，與其餘グランゾート夥伴機體並列收藏別具意義。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "クールなフェイスがステキな MODEROID スーパーウインザートもレビューです！", url: "https://monodas.com/moderoid/1428/", lang: "ja" },
+      { title: "【心得】MODEROID 魔動王 超級風王", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=65462", lang: "zh" },
+    ],
+    youtube: [
+      { title: "【魔動王グランゾート MODEROID】スーパーウインザート 素組で完璧！レビュー", url: "https://www.youtube.com/watch?v=NgDcIxtggoU", lang: "ja" },
+      { title: "【餓模人開箱】MODEROID 超級火王、超級水王、超級風王", url: "https://www.youtube.com/watch?v=AZCS6gsyV8I", lang: "zh" },
+    ],
   },
   {
     id: "moderoid-super-aquabeat",
@@ -18368,8 +18389,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-super-aquabeat.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "GSC0002"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年分別駕駛石、木、金屬三屬性機體，其中「アクアビート」為木屬性機體，機動靈活擅長輔助與牽制戰術。劇情後段機體強化進化為「スーパーアクアビート」，換裝更為銳利的裝甲細節與強化配色，戰鬥力較原型顯著提升，與スーパーグランゾート、スーパーウインザート並列為三人組進化後的最終陣容。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約135mm，可動關節完整重現機體俐落的戰鬥站姿，是完整收齊三人組進化形態的重要一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MODEROID スーパーアクアビート レビュー。スーパーシリーズも3体揃ってカッコいい！", url: "https://monodas.com/moderoid/1433/", lang: "ja" },
+      { title: "【心得】MODEROID 魔動王 超級水王", url: "https://forum.gamer.com.tw/C.php?bsn=430&snA=45717", lang: "zh" },
+    ],
+    youtube: [
+      { title: "【魔動王グランゾート MODEROID】スーパーアクアビート 3体そろった！レビュー", url: "https://www.youtube.com/watch?v=XIjy1vO-o4U", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-hydoram",
@@ -18387,8 +18413,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/moderoid-hydoram.jpg",
     tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "GSC0002"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年駕駛石、木、金屬三屬性機體合體為主角機「グランゾート」，對抗入侵地球的邪惡魔獣軍團的熱血冒險故事，是80年代末期兼具奇幻與機甲對戰色彩的經典系列。「ヒドラム」是魔獣軍團旗下另一員戰鬥機體，外型融合鳥獸特徵與尖銳裝甲，散發陰森詭譎的敵方氣息，是劇中主角陣營遭遇的強敵之一。本品為Good Smile Company旗下MODEROID系列模型套件，非塗裝即可組裝完成，全高約140mm，關節可動性佳，能重現機體張揚的戰鬥姿態，與其他魔獣機體並列收藏可完整呈現反派陣容魅力。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【レビュー】MODEROID ヒドラム", url: "https://shishioh.info/MODEROID_HYDORAM.php", lang: "ja" },
+    ],
+    youtube: [
+      { title: "闇の三邪動王そろった！【魔動王グランゾート MODEROID】ヒドラム レビュー", url: "https://www.youtube.com/watch?v=rbIpaNFBp5w", lang: "ja" },
+    ],
   },
   {
     id: "aquarius-camus-revival",
@@ -18405,8 +18435,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/aquarius-camus-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "《聖闘士星矢》是車田正美創作的經典少年漫畫，描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。水瓶座カミュ是黃金十二宮聖鬥士之一，性格冷酷理性，擅長絕對零度冰結技，是冰河的師父，於黃金聖鬥士中以師徒羈絆與悲劇宿命廣受人氣。本商品為聖闘士聖衣神話EX系列的「リバイバル版」重製版，針對可動關節結構與塗裝細節進行優化，讓經典黃金聖衣以更精緻的規格重新問世，是長期收藏黃金十二宮聖衣的玩家不可或缺的一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "聖闘士聖衣神話EX：アクエリアスカミュ (リバイバル版) [レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/aquarius-camus-revival-ex/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "「開箱」黃金聖鬥士再添一位~水瓶座卡妙！原色版～聖衣神話ex", url: "https://www.youtube.com/watch?v=Nyq957eg_u4", lang: "zh" },
+    ],
   },
   {
     id: "cancer-deathmask-revival",
@@ -18423,7 +18457,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/cancer-deathmask-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。蟹座デスマスク是黃金十二宮聖鬥士之一，性格殘忍嗜殺，擅長將對手靈魂封入面具作為戰利品，是黃金聖鬥士中形象最為陰暗兇殘的一員，在冥界篇中率先復活與主角一行交手。本商品為聖闘士聖衣神話EX系列「リバイバル版」重製版，重新調校可動結構與塗裝，重現角色兇悍不羈的聖衣造型，是黃金十二宮蒐藏中極具個性魅力的一件。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話EX：キャンサーデスマスク (リバイバル版) [レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/cancer-deathmask-revival-ex/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18441,8 +18477,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/capricorn-shura-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。山羊座シュラ是黃金十二宮聖鬥士之一，個性剛正不阿、忠誠正直，擅長「エクスカリバー」絕技，卻因教皇之命誤傷摯友天馬星矢，是黃金聖鬥士中兼具悲劇色彩與武士精神的代表角色。本商品為聖闘士聖衣神話EX系列「リバイバル版」重製版，重新優化關節可動性與聖衣細節塗裝，是完整收齊黃金十二宮不可或缺的一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "聖闘士聖衣神話EX：カプリコーンシュラ (リバイバル版) [レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/capricornshura-revival-ex/", lang: "ja" },
+      { title: "【心得】聖衣神話EX 聖鬥士星矢 魔羯座 修羅 REVIVAL 25/01 再版開箱", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=73907", lang: "zh" },
+    ],
+    youtube: [
+      { title: "聖闘士聖衣神話EX 山羊座 カプリコーン シュラ リバイバル版 saint cloth myth ex Capricorn shura revival ver", url: "https://www.youtube.com/watch?v=NVgEHar3Qh8", lang: "ja" },
+    ],
   },
   {
     id: "scorpio-milo-revival",
@@ -18459,8 +18500,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/scorpio-milo-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。蠍座ミロ是黃金十二宮聖鬥士之一，擅長「スカーレットニードル」等速度型毒針攻擊，性格熱血且重情義，與冰河等青銅聖鬥士有著深厚羈絆，是黃金聖鬥士中人氣極高的角色之一。本商品為聖闘士聖衣神話EX系列「リバイバル版」重製版，重新調校聖衣關節結構與配色細節，讓角色俐落矯健的戰鬥姿態得以更完整重現。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "聖闘士聖衣神話EX：スコーピオンミロ（リバイバル版） [レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/scorpionmilo-revival/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【濤光玩具箱】萬代聖鬥士聖衣神話EX2023年9月通販新品公布！天蠍座EX米羅重生版要來了", url: "https://www.youtube.com/watch?v=8Gc-v0QZJzg", lang: "zh" },
+    ],
   },
   {
     id: "gemini-kanon-revival",
@@ -18477,8 +18522,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gemini-kanon-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。カノン是雙子座サガ的雙胞胎弟弟，早年因野心遭囚禁於海底監獄，冥王神話篇中覺醒為冥界三巨頭之一「ポセイドン」的容器，後在正邪之間掙扎抉擇，是系列中設定最為複雜多面的角色之一。本商品為聖闘士聖衣神話EX系列「リバイバル版」重製版，重現雙子座聖衣的雙重身分意象，塗裝與可動結構皆經過優化調整。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "聖闘士聖衣神話EX ジェミニカノン ＜リバイバル版＞ レビュー", url: "https://hacchaka.net/archives/52082332.html", lang: "ja" },
+      { title: "再現銀河星爆！聖闘士聖衣神話EX《聖鬪士星矢》雙子座卡諾 REVIVAL 版", url: "https://www.toy-people.com/?p=66822", lang: "zh" },
+    ],
+    youtube: [
+      { title: "[聖闘士聖衣神話系列] 聖闘士星矢 雙子座 加隆 魂限重生版 Saint Cloth Myth EX Gemini Kanon Revival Ver. Unbox", url: "https://www.youtube.com/watch?v=bqNt9Ap53KY", lang: "zh" },
+      { title: "玩具紹介♯67 聖闘士聖衣神話EX ジェミニカノン（リバイバル版）", url: "https://www.youtube.com/watch?v=6FMvxWvB2To", lang: "ja" },
+    ],
   },
   {
     id: "gemini-saga-pope-ares",
@@ -18495,7 +18546,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gemini-saga-pope-ares.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "黄金聖闘士", "初版"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。双子座サガ因體內邪惡人格覺醒而弒殺教皇、篡位偽裝為「教皇アレス」，暗中操控聖域十三年，是黃金聖鬥士中人格分裂與救贖主題最深刻的悲劇角色。本商品重現サガ假扮教皇時的華麗法袍造型，與雙子座聖衣形成強烈對比，是刻劃角色雙重身分的重點蒐藏品。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：ジェミニ サガ [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/gemini-saga/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18513,8 +18566,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/pisces-aphrodite-ex-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。魚座アフロディーテ是黃金十二宮聖鬥士之一，以絕美外貌與劇毒玫瑰花瓣攻擊著稱，性格自戀且危險，是黃金聖鬥士中極具魅惑氣質的角色。本商品為聖闘士聖衣神話EX系列重製版，重現魚座聖衣華麗尖銳的花瓣造型與細膩塗裝，是黃金十二宮蒐藏中辨識度極高的一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "特徴的なバラをくわえた姿も！『聖闘士星矢』聖闘士聖衣神話EX ピスケスアフロディーテ＜リバイバル版＞が発売決定！", url: "https://hobby.dengeki.com/news/969339/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【模門教-阿盜夫】BANDAI/聖衣神話EX/黃金魂/雙魚座-阿波羅迪，萬代的再販總算讓我有機會入手你了", url: "https://www.youtube.com/watch?v=mwF_ziwrF0Q", lang: "zh" },
+    ],
   },
   {
     id: "pisces-aphrodite-original",
@@ -18549,7 +18606,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/bear-geki.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "青銅聖闘士", "初版"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。熊座ゲキ是星矢等主角一行的青銅聖鬥士夥伴之一，個性豪爽剛猛，力量型戰鬥風格著稱，雖非主角組核心成員卻在銀河戰爭篇等劇情中留下深刻印象。本商品重現熊座聖衣厚重雄壯的造型設計，是補齊青銅聖鬥士陣容的重點單品。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話： ベアー檄 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/beargeki/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
