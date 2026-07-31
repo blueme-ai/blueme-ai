@@ -20882,7 +20882,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/scm-pegasus-seiya-god-cloth.jpg",
     tags: ["SAINT0002", "聖闘士星矢", "聖闘士聖衣神話", "神聖衣", "冥王神話"],
     description: "《聖闘士星矢》冥王ハーデス エリシオン篇尾聲，主角天馬星矢承接雅典娜之血覺醒，身披超越青銅、白銀、黃金聖衣的究極聖衣「神聖衣」，展現凌駕過往一切戰力的最終形態，是星矢角色歷程中最具象徵意義的巔峰造型。本商品以純白搭配金色紋飾呈現神聖衣的神聖莊嚴質感，背部展開巨大羽翼大幅改變整體輪廓，是全身裝備中最具視覺張力的部位；標配替換面罩與武裝配件，並可展開變形為聖衣箱物件形態展示。作為星矢角色收藏中規格最高的一款，完整呼應「天馬流星拳」貫穿全劇的不屈意志主題，是喜愛星矢最終戰力形態、收齊各階段聖衣造型玩家的必藏單品。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：ペガサス星矢（神聖衣）[レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/pegasusseiya-godcloth/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -20900,7 +20902,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/scm-andromeda-shun-god-cloth.jpg",
     tags: ["SAINT0002", "聖闘士星矢", "聖闘士聖衣神話", "神聖衣", "冥王神話"],
     description: "《聖闘士星矢》冥王ハーデス エリシオン篇中，仙女座瞬個性溫柔卻在戰鬥中展現驚人韌性，承接雅典娜之血覺醒後身披究極聖衣「神聖衣」，力量與意志同步昇華至巔峰，是青銅五小強中人氣居高不下的代表角色。本商品重現神聖衣標誌性的星雲鎖鏈與大型羽翼造型，粉銀色系搭配金色鎖鏈細節塗裝華麗細膩，鎖鏈可自由彎折延展重現「星雲網」等經典絕技場面；並可展開變形為聖衣箱物件形態便於展示收納。作為瞬角色歷程蒐藏中規格最高的一款，完整呈現角色由溫柔轉為堅毅的成長弧線，是喜愛仙女座鎖鏈系統、收齊各階段聖衣造型玩家的重點收藏。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話 アンドロメダ瞬(神聖衣) レビュー", url: "https://ameblo.jp/shining-leo/entry-10305017444.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -21399,8 +21403,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-base-ms-cage.jpg",
     tags: ["MG", "Master Grade", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "機動戦士ガンダムUC", "情景配件", "BOX0014"],
     description: "《機動戰士鋼彈UC》改編自福井晴敏原作小說，描寫獨角獸鋼彈與「拉普拉斯之盒」相關的政治鬥爭與軍事衝突，是近年宇宙世紀系列中話題度極高的重製與延伸作品。劇中反覆出現的「MS CAGE」是收納整備機動戰士用的維修支架設施，玩家對這類劇中常見卻鮮少被立體化的場景道具一直深具收藏需求。本商品是The Gundam Base實體店鋪限定推出的原創塑膠模型化商品，以原創設計重現作品中的MS CAGE構造，駕駛艙艙蓋可隨對應手臂形狀開闔，背面附設可收納小型配件與備用零件的置物箱，籠架背部固定架亦可掛載裝備進行收納展示。套件同梱四尊1/100比例人物模型——便服班納傑・林克斯、奧黛麗・伯恩、瑪莉妲・克魯茲與卡帝亞斯・畢斯特，讓玩家得以重現劇中角色與機體維修場景的互動畫面。雖然本品原設定為1/100比例、與MG系列機體搭配相性絕佳，但依店家展示範例，其實也能與HG或SD等不同比例的鋼普拉組合出別具氛圍的情景展示，是拓展鋼普拉場景敘事樂趣的稀有周邊商品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MG ユニコーンガンダム HDカラー＋MS CAGE レビュー", url: "https://www.gunplayakata.com/entry/2025/12/21/MG_%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_HD%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%8BMS_CAGE_%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC", lang: "ja" },
+    ],
+    youtube: [
+      { title: "ガンダムベース限定の展示アイテム！MG専用のMSケージが使える！！", url: "https://www.youtube.com/watch?v=HUlUJU2uetU", lang: "ja" },
+      { title: "教えて！ガンプラコンシェルジュ！！#54（MG 1/100 ガンダムベース限定 MS CAGE他）", url: "https://www.youtube.com/watch?v=mGAM9mQoQK8", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-f90-clear-color",
@@ -21834,7 +21843,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/scm-ex-gemini-saga.jpg",
     tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話", "EX", "黄金聖闘士"],
     description: "撒加是黃金十二宮雙子座聖鬥士，因體內善惡人格分裂而成為系列中最具悲劇性與戲劇張力的角色之一，曾一度化身教皇艾雷斯操控聖域。本商品為2011年8月BANDAI推出的「聖鬥士聖衣神話EX」雙子座撒加（一般版，非教皇艾雷斯版），是EX系列的首發作品，採用全新開發的EX素體與可動關節，重現漫畫原作般修長俐落的比例，聖衣配有左右不對稱的天使與惡魔造型翅膀披風，並附多款替換表情與手部零件。初回購入特典附贈「銀河星爆」（ギャラクシアンエクスプロージョン）特效零件，可重現撒加招牌絕招的震撼場面，是EX系列的開創性代表作品。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話EX：ジェミニサガ(リバイバル版)[レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/geminisaga-revival-ex/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
