@@ -22429,7 +22429,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gogo-mixer.jpg",
     tags: ["轟轟戦隊ボウケンジャー", "ダイボウケン", "ゴーゴービークル", "ゴーゴーミキサー", "東映", "スーパー戦隊", "BANDAI"],
     description: "《轟轟戦隊ボウケンジャー》中，探險隊成員駕駛各式工程車輛化為合體機甲「ダイボウケン」執行探索任務。「ゴーゴーミキサー」是支援載具「ゴーゴービークル」系列之一，本體為深綠色的水泥攪拌車，車身筒狀攪拌槽可展開分離為三段式的攻擊型態零件，是系列中變形機構較為特殊的一台。本商品為轟轟合体シリーズ03單售商品，可與另售的DXダイボウケン合體成為手臂武裝，在進化形態「スーパーダイボウケン」時則轉為腿部零件，展現一機多用的組裝設計巧思。非比例整備寫實風格，車輛細節與機械變形結構兼具，是收藏轟轟戦隊ボウケンジャー載具軍團系列不可或缺的一員。",
-    reviews: [],
+    reviews: [
+      { title: "轟轟合体シリーズ03 ゴーゴーミキサー | 正義に仕える気高き魂!!", url: "https://ameblo.jp/akbandmomoclo/entry-11753846955.html", lang: "ja" },
+      { title: "ボクトイ：スーパーフォーメーション", url: "https://ameblo.jp/bokunotoy/entry-11262770102.html", lang: "ja" },
+    ],
     youtube: [
       { title: "レビュー [轟轟戦隊 DXダイボウケン ゴーゴービークル1～5]", url: "https://www.youtube.com/watch?v=w8vT-W3x2ko", lang: "ja" },
     ],
@@ -22449,7 +22452,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gogo-crane.jpg",
     tags: ["轟轟戦隊ボウケンジャー", "ダイボウケン", "ゴーゴービークル", "ゴーゴークレーン", "東映", "スーパー戦隊", "BANDAI"],
     description: "《轟轟戦隊ボウケンジャー》講述探險隊駕駛各式工程車輛合體對抗邪惡勢力、探索遠古遺跡究極之力的故事。「ゴーゴークレーン」是支援載具「ゴーゴービークル」系列之一，本體為深藍紫色的大型吊車，配備可伸縮的吊臂與捲揚吊鉤機構，是系列中車體最為巨大厚重的一台。本商品為轟轟合体シリーズ04單售商品，可與另售的DXダイボウケン合體，安裝於機體左臂成為吊鉤武裝，其吊鉤零件於進化形態「スーパーダイボウケン」合體時更可轉換為全新頭盔零件，是系列中相當受玩家稱道的巧妙變形設計之一。非比例整備寫實風格，兼具寫實工程車輛細節與機甲武裝的雙重魅力。",
-    reviews: [],
+    reviews: [
+      { title: "轟轟合体シリーズ04 ゴーゴークレーン | 正義に仕える気高き魂!!", url: "https://ameblo.jp/akbandmomoclo/entry-11753852244.html", lang: "ja" },
+    ],
     youtube: [
       { title: "レビュー [轟轟戦隊 DXダイボウケン ゴーゴービークル1～5]", url: "https://www.youtube.com/watch?v=w8vT-W3x2ko", lang: "ja" },
     ],
@@ -22469,7 +22474,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/engine-tripter.jpg",
     tags: ["炎神戦隊ゴーオンジャー", "炎神合体シリーズ", "エンジントリプター", "エンジンオー", "東映", "スーパー戦隊", "BANDAI"],
     description: "《炎神戦隊ゴーオンジャー》是東映2008年推出的超級戰隊作品，設定戰士們與擁有生命的載具型精靈「炎神」結為夥伴並肩作戰，其中三台主力炎神可合體為巨大機器人「炎神合体エンジンオー」。「エンジントリプター」是紅金配色的直升機型炎神，機體具備旋轉螺旋槳與銳利機首造型，可作為追加武裝與エンジンオー、ガンバルオー等主力機體合體強化。本商品為炎神合体シリーズ07單售商品，附屬專用「炎神ソウル」音效發聲配件，安裝後可完成合體造型「エンジンオージェットリブター」，強化飛行與空戰能力。作為2008年当時商品的後續生產批次（本件外箱印製2010年泰國製造），是收藏炎神戦隊ゴーオンジャー機體陣容中補強空戰形態的重要一員。",
-    reviews: [],
+    reviews: [
+      { title: "炎神合体シリーズ07 エンジントリプター | 厚切りドライブ", url: "https://ameblo.jp/ryosubaru/entry-11845131815.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -22487,7 +22494,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/engine-jetras.jpg",
     tags: ["炎神戦隊ゴーオンジャー", "炎神合体シリーズ", "エンジンジェットラス", "エンジンオー", "東映", "スーパー戦隊", "BANDAI"],
     description: "《炎神戦隊ゴーオンジャー》中登場的銀灰色戰鬥機型炎神「エンジンジェットラス」，隸屬「炎神合体シリーズ」08彈，機首銳利、雙翼展開幅度大，是系列中速度感造型最強烈的一台。玩具附屬「炎神ソウル」音效發聲配件，按下後可讓機體發出燈光與聲音效果，並可說出角色專屬台詞。可與另售的エンジントリプター（07）合體，共同組成強化形態「エンジンオージェットリブター」，展現雙機聯手的空戰火力，亦能進一步與主力機エンジンオー系列跨商品合體擴充。造型俐落銳利、配色以銀黑為主搭配紅色細節點綴，是炎神戦隊系列玩具陣容中強化空戰形態不可或缺的重要成員，亦是收藏完整炎神合体シリーズ的關鍵一塊拼圖。",
-    reviews: [],
+    reviews: [
+      { title: "炎神合体シリーズ08 エンジンジェットラス | 厚切りドライブ", url: "https://ameblo.jp/ryosubaru/entry-11896127071.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -22505,7 +22514,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/engine-ganpard.jpg",
     tags: ["炎神戦隊ゴーオンジャー", "炎神合体シリーズ", "エンジンガンパード", "エンジンオー", "東映", "スーパー戦隊", "BANDAI"],
     description: "《炎神戦隊ゴーオンジャー》劇中登場的黑色跑車型炎神「エンジンガンパード」，隸屬「炎神合体シリーズ」05彈，是ゴーオンブラック的搭檔夥伴，車身以黑、白、紅為主色，車頭裝有銳利獠牙造型裝甲，展現豹屬猛獸般的速度與衝擊力。玩具附屬「炎神ソウル」音效發聲配件，安裝後可發光發聲並播放角色台詞。可與另售的エンジンオー（別売り）合體組成強化形態「エンジンオーガンパード」，亦能與エンジンバルカ、エンジンキャリゲーター合體組成炎神合体「ガンバルオー」。全身造型銳利具速度感，是炎神戦隊系列合體玩具中人氣頗高、可跨商品多重合體的代表性支援機體之一，深受收藏炎神戦隊完整陣容的玩家喜愛。",
-    reviews: [],
+    reviews: [
+      { title: "炎～神～ソォ～～ル - Gear-Gear", url: "http://koshihara.air-nifty.com/blog/2008/05/post_308e.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -22565,8 +22576,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/engine-jumbo-ale.jpg",
     tags: ["炎神戦隊ゴーオンジャー", "炎神合体シリーズ", "エンジンジャンボエール", "エンジンオー", "東映", "スーパー戦隊", "BANDAI"],
     description: "《炎神戦隊ゴーオンジャー》劇中登場的深藍色大型運輸機炎神「エンジンジャンボエール」，隸屬「炎神合体シリーズ」09彈，全長約320毫米，是系列中機體規模數一數二龐大的一台。玩具附屬「炎神ソウル」音效發聲配件，安裝後可讓機體發出燈光與聲音效果並播放角色專屬台詞。可與另售的エンジントリプター（07）、エンジンジェットラス（08）三台炎神合體，組成強化形態「セイクウオー」，展現制空作戰的壓倒性火力。機身塗裝以深藍、白、黑為主色，機首與機翼線條流暢俐落，兼具運輸機的厚重感與戰鬥機的銳利造型。作為炎神戦隊ゴーオンジャー空戰系列炎神合体的核心拼圖之一，是收藏完整エンジンオー系列陣容不可或缺的重要成員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "炎神合体シリーズ09 エンジンジャンボエール part2", url: "https://ameblo.jp/ryosubaru/entry-11931595867.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【炎神戦隊 ゴーオンジャー】エンジン全開！炎神合体 07～09 セイクウオー ヲタファの歴代戦隊ロボレビュー", url: "https://www.youtube.com/watch?v=ySsrXu7jstY", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-rayearth",
@@ -22586,7 +22601,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】MODEROID 炎神レイアース", url: "https://shishioh.info/MODEROID_Rayearth.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "MODEROID 炎神レイアース レビュー（大迫力のエフェクト！一部彩色済みパーツを使用！）", url: "https://www.youtube.com/watch?v=ofMAfG5xBIQ", lang: "ja" },
+      { title: "【魔法騎士レイアース】魔神3体そろった！MODEROID 炎神レイアース ヲタファの止まらない〜が止まらないレビュー", url: "https://www.youtube.com/watch?v=DPgZv2wANwM", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-ceres",
@@ -22606,7 +22624,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】MODEROID 海神セレス", url: "https://shishioh.info/MODEROID_Ceres.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【魔法騎士レイアース MODEROID】海神セレス キラキラメタリック塗装で仕上げる！ヲタファのレビュー", url: "https://www.youtube.com/watch?v=X0LneKlBplY", lang: "ja" },
+      { title: "MODEROID 海神セレス レビュー（水の魔神がMODEROIDに！大ボリュームの翼に尻尾！）", url: "https://www.youtube.com/watch?v=rjFxTOW5FW0", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-windom",
