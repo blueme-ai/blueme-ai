@@ -18626,8 +18626,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/centaurus-babel.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "青銅聖闘士"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。ケンタウルス座バベル是銀河戰爭篇中登場的青銅聖鬥士之一，代表半人馬座出戰，是眾多外傳性青銅聖鬥士角色中具代表性的一員，豐富了聖域青銅聖鬥士的陣容設定。本商品重現半人馬座聖衣的獨特造型與配色，是喜愛蒐羅稀有青銅聖衣角色玩家的收藏對象。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：ケンタウルスバベル レビュー", url: "https://toroplus.blog/saintclothmyth-saint/centaurusbabel/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話 ケンタウルス【サントール星座】バベルの紹介です！", url: "https://www.youtube.com/watch?v=NqfNaalo8h0", lang: "ja" },
+    ],
   },
   {
     id: "steel-saint-landcloth-daichi-revival",
@@ -18644,7 +18648,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/steel-saint-landcloth-daichi-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "鋼鉄聖闘士"],
     description: "《聖闘士星矢》外傳系列中，「鋼鉄聖闘士」是繼承聖鬥士精神的新世代年輕戰士群體，各自身披以自然元素命名的「鎧」而非傳統聖衣。「大地」身著「陸鎧」，象徵大地的堅實與穩固力量，是鋼鉄聖闘士陣容中代表陸地屬性的角色。本商品為リバイバル版重製，重新調校可動關節與塗裝細節，是鋼鉄聖闘士系列蒐藏中不可或缺的一員。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：鋼鉄聖闘士ランドクロス大地 [リバイバル版] [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/steel-landcloth-revival/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18662,7 +18668,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/steel-saint-marinecloth-ushio-revival.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話EX", "鋼鉄聖闘士"],
     description: "《聖闘士星矢》外傳系列中，「鋼鉄聖闘士」是繼承聖鬥士精神的新世代年輕戰士群體，各自身披以自然元素命名的「鎧」。「潮」身著「海鎧」，象徵海洋的奔流與包容力量，是鋼鉄聖闘士陣容中代表海洋屬性的角色。本商品為リバイバル版重製，重新優化可動結構與配色細節，與陸鎧、大地等夥伴角色並列收藏完整呈現鋼鉄聖闘士陣容。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：鋼鉄聖闘士マリンクロス潮 [リバイバル版] [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/steel-marinecloth-revival/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18680,7 +18688,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/appendix-aquarius-camus.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話APPENDIX"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。水瓶座カミュ性格冷酷理性，擅長絕對零度冰結技，是冰河的師父。「APPENDIX」系列是聖闘士聖衣神話中附加特殊配件、面部表情或特典造型的補完商品線，本品透過額外零件豐富カミュ角色的可玩性與收藏面向，適合已擁有基本版本、想進一步補完角色細節的資深玩家。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話 アクエリアスカミュ(冥衣) レビュー", url: "https://ameblo.jp/shining-leo/entry-10218648774.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18718,7 +18728,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/appendix-pegasus-seiya-final-holy-war.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話APPENDIX"],
     description: "《聖闘士星矢》主角天馬星矢是青銅聖鬥士的核心人物，擅長「天馬流星拳」，以不屈意志屢次逆轉戰局，是系列最具代表性的角色。本品重現「最終青銅聖衣」造型，是青銅聖衣進化到最終強化階段的版本，呼應劇情尾聲的最終決戰場面，是星矢角色歷程蒐藏中的重點單品，適合收齊星矢各階段聖衣造型的玩家。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話：ペガサス星矢 最終青銅聖衣 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/pegasusseiya-finalbronze/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18933,8 +18945,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-jdecker-gunmax.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "勇者警察ジェイデッカー", "ガンマックス", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者警察ジェイデッカー》為東映與SUNRISE共同推出的1994年勇者系列作品，描寫警察機構「特車二課」與擁有人工智慧的機器人警官並肩打擊犯罪的故事。ガンマックス是劇中登場的白色重機警用機器人，平時可搭乘專屬重機執行任務，關鍵時刻能與愛車合體強化為「ガンマックスアーマー」形態，是主角機ジェイデッカー重要的戰鬥支援夥伴。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，完整重現角色騎乘重機與變形合體機構，兼顧可動性與原作比例還原，是勇者系列SMP收藏中的重要一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SMP「勇者警察ジェイデッカー ガンマックス」レビュー", url: "http://myhobby.moo.jp/smp-jdecker3/review.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "チェンジ ガンマックスアーマー！【SMP ガンマックス】変形合体を徹底解説 ヲタファの食玩レビュー / SMP J-DECKER GUNMAX", url: "https://www.youtube.com/watch?v=xfaVSuPlzWU", lang: "ja" },
+    ],
   },
   {
     id: "smp-jdecker-buildtiger",
@@ -18951,8 +18967,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-jdecker-buildtiger.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "勇者警察ジェイデッカー", "ビルドタイガー", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者警察ジェイデッカー》中的「ビルドタイガー」由建設隊三名成員麥克蓮、パワージョー、ダンプソン所駕駛的起重機、怪手、傾卸卡車三台工程車合體而成，展現該作「工作車輛也能變身合體」的獨特魅力，與另售的「SMP ドリルボーイ」組合後更可重現「スーパービルドタイガー」形態。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，2025年4月出貨，忠實重現三車合體機構與可動關節設計，兼顧變形玩趣與展示姿態穩定性，是勇者警察ジェイデッカー系列SMP收藏中不可或缺的支援機體。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SMP 勇者警察ジェイデッカー ビルドタイガー", url: "https://unoyo.hatenablog.com/entry/2025/05/01/111229", lang: "ja" },
+    ],
+    youtube: [
+      { title: "傑作 ビルドチームが建設合体【SMP ビルドタイガー / 勇者警察ジェイデッカー 】ヲタファの食玩レビュー / Brave Police J-Decker SMP Build Tiger", url: "https://www.youtube.com/watch?v=8srmyibn280", lang: "ja" },
+    ],
   },
   {
     id: "smp-magiking",
@@ -18969,8 +18989,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-magiking.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "魔法戦隊マジレンジャー", "マジキング", "スーパー戦隊", "バンダイキャンディ", "食玩"],
     description: "《魔法戦隊マジレンジャー》為東映超級戰隊系列2005年作品，第29作，以魔法家族對抗地底魔界為主題。マジキング是劇中戰隊成員操縱五台魔法機獣「マジマジン」變形合體而成的主力機器人，兩段式合體先組成マジドラゴン、再進一步變形為マジキング人型形態。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，2025年6月23日發售，適逢作品播出20週年紀念，展開雙翼寬度約36公分，關節結構可重現拍打振翅等細緻動作，並附有重現必殺技「キングキャリバー・マジックスラッシュ」的專用武裝零件，是勇者機甲以外少見以魔法戰隊為題材的SMP合體機甲力作。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "SMP「魔神合体 マジキング」レビュー", url: "https://myhobby.moo.jp/smp-magiking/review.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "最高傑作を更新！【SMP 魔法戦隊マジレンジャー マジキング】ヲタファのミニプラレビュー / Magiranger Magi King Mystic Force TITAN MEGAZORD", url: "https://www.youtube.com/watch?v=T6b85x0IbX4", lang: "ja" },
+    ],
   },
   {
     id: "smp-magiking-shadow",
@@ -18987,7 +19011,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-magiking-shadow.jpg",
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "魔法戦隊マジレンジャー", "マジキング", "シャドウバージョン", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "本商品為「SMP 魔神合体マジキング」的限定異色版本，重現劇中「シャドウバージョン」的神秘紫黑配色形象，並同梱可重現特殊場面的魔法陣可動支援零件套組。作為Premium Bandai限定販售商品，本品沿用與一般版マジキング相同的五機合體與雙段變形機構，僅在配色與附屬零件上做出差異化，是提供給已收藏標準版玩家的加購型稀有異色收藏品，對於追求系列完整度的マジレンジャー與SMP合體機甲玩家而言別具意義。",
-    reviews: [],
+    reviews: [
+      { title: "『番外記事』SMP 魔神合体 マジキング【シャドウバージョン】開封レビュー", url: "https://syoku-gun.blog/%E3%80%8E%E7%95%AA%E5%A4%96%E8%A8%98%E4%BA%8B%E3%80%8Fsmp%E3%80%80%E9%AD%94%E7%A5%9E%E5%90%88%E4%BD%93-%E3%83%9E%E3%82%B8%E3%82%AD%E3%83%B3%E3%82%B0%E3%80%90%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19005,8 +19031,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-daimos-battleturn.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "闘将ダイモス", "ダイモス", "勇者シリーズ", "永光ロマンロボシリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《闘将ダイモス》是永光映像1978年推出的超級機器人動畫，講述主角駕駛巨型拖車「トランザー」變形為人型機器人ダイモス，與外星侵略者戰鬥的故事，與《コンバトラーV》《ボルテスV》並列「永光浪漫機器人系列」代表作。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的Premium Bandai限定豪華版「バトルターンセット」，除ダイモス本體變形機構外，另附雙龍剣、三龍棍等多款武裝零件、強化用背部零件，以及支援戰機ガルバーFX2，可重現「必殺烈風正拳突き」「必殺烈風大夢キック」等經典必殺技姿勢，是集結永光浪漫機器人系列魅力於一身的SMP豪華收藏品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【好評発売中！】SMP 闘将ダイモス 製品版レビュー！！", url: "https://bandaicandy.hateblo.jp/entry/20241203_smp", lang: "ja" },
+    ],
+    youtube: [
+      { title: "傑作！見事な完全変形を徹底解説【SMP 闘将ダイモス バトルターンセット】ヲタファのプラモデルレビュー / SMP Tosho Daimos Battle Turn Set", url: "https://www.youtube.com/watch?v=mYmIsqqgGDo", lang: "ja" },
+    ],
   },
   {
     id: "smp-grendizeru-spazer",
