@@ -23344,4 +23344,27 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [],
   },
+  {
+    id: "moshow-lancelot-gold-limited",
+    addedAt: "2026-07-31",
+    name: "至臻級・湖中騎士 WF2024上海會場限定 金色版",
+    nameJa: "湖中騎士 WF2024会場限定 ゴールドVer.",
+    series: "先祖效應 PROGENITOR EFFECT",
+    character: "湖中騎士 Lancelot of the Lake",
+    manufacturer: "MOSHOW TOYS（模壽）",
+    scale: "NOBLE CLASS X 非比例完成品（1/72）",
+    price: "¥830 CNY",
+    releaseDate: "2024年（WF2024上海會場限定，預計11月前完成發貨）",
+    height: "約27-30cm",
+    officialUrl: "https://www.mogandou.com/view/item/000000000434?category_page_id=ct116",
+    imageUrl: "/images/moshow-lancelot-gold-limited.jpg",
+    tags: ["MOSHOW TOYS", "模壽", "Noble Class X", "湖中騎士", "Lancelot of the Lake", "先祖效應", "WF2024", "會場限定", "合金", "中國品牌"],
+    description: "MOSHOW TOYS（模壽）「先祖效應 PROGENITOR EFFECT」是中國原創機甲收藏模型企劃，設定各機體核心為承載古今英靈精神粒子的「靈能兵裝」，融合西方騎士傳說與機甲美學。「湖中騎士」（MCT-E02）為系列中隸屬歐洲戰區的近戰型靈裝機體，取材自亞瑟王傳說中的湖中騎士蘭斯洛特（Lancelot），肩甲取材獅形紋章，配裝「湖中仙女之庇佑」盾牌與隱藏武裝「懲罰之劍阿隆戴特」，是「先祖效應」漫畫原作中最早登場的靈能機體之一。本商品為2024年WonderFestival上海會場限定的金色版本，機身塗裝改為華麗的金色系並追加會場限定配件（含發光長槍與第二面盾牌），是相對於同系列後續推出的「灰燼騎士形態」特別版更早問世的原始標準造型金色限定款，全樹脂級合金烤漆完成品，內建高度可動合金骨架、頭部與肩部LED發光組件，標配多組替換手型與武裝配件，是「先祖效應」湖中騎士收藏線中會場限定稀有度較高的一件。",
+    reviews: [
+      { title: "模寿至臻级·湖中骑士特别限定版，MOSHOWTOYS 2024WF上海 情報公布", url: "https://www.bilibili.com/video/BV1wHxLeNEKU/", lang: "zh" },
+    ],
+    youtube: [
+      { title: "【型模玩賞】模寿MOSHOW 先祖效应Progenitor Effect 湖中骑士Knight of the lake（METAL FRAME）", url: "https://www.youtube.com/watch?v=MvM58Ai2afk", lang: "zh" },
+    ],
+  },
 ]
