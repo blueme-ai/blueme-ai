@@ -22497,7 +22497,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "炎神合体シリーズ08 エンジンジェットラス | 厚切りドライブ", url: "https://ameblo.jp/ryosubaru/entry-11896127071.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "炎神戦隊ゴーオンジャー エンジンジェットラス 音声", url: "https://www.youtube.com/watch?v=nllc3XHSu2Q", lang: "ja" },
+    ],
   },
   {
     id: "engine-ganpard",
@@ -22647,7 +22649,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】MODEROID 空神ウィンダム", url: "https://shishioh.info/MODEROID_Windom.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【魔法騎士レイアース MODEROID】空神 ウインダム 色分け完璧の傑作！ヲタファの止まらない〜が止まらないレビュー / MODEROID WINDOM", url: "https://www.youtube.com/watch?v=tFV9GmPJw-c", lang: "ja" },
+      { title: "MODEROID 空神ウインダムの素組紹介", url: "https://www.youtube.com/watch?v=y8BdKm4io7Y", lang: "ja" },
+    ],
   },
   {
     id: "hg-amplified-imgn-ryujinmaru",
@@ -22667,7 +22672,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【徹底レビュー】HG Amplified IMGN 龍王丸", url: "https://shishioh.info/HG_Amplified_IMGN_RYUOUMARU.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "バンダイの技術が光る！HG Amplified IMGN 龍神丸がかっこいい話【生放送】", url: "https://www.youtube.com/watch?v=lIaVy_Ecz3w", lang: "ja" },
+      { title: "【帰ってきたソードマスター!?リアル等身がめっちゃかっこいい！】HG Amplified IMGN 龍神丸 ヲタファのプラモレビュー / HG Amplified IMGN RYUJINMARU", url: "https://www.youtube.com/watch?v=bkraPmFzkMU", lang: "ja" },
+    ],
   },
   {
     id: "fraulein-revoltech-asuka-langley",
@@ -22684,7 +22692,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/fraulein-revoltech-asuka-langley.jpg",
     tags: ["新世紀エヴァンゲリオン", "フロイラインリボルテック", "惣流・アスカ・ラングレー", "海洋堂", "リボルテック"],
     description: "《新世紀エヴァンゲリオン》是1995年播出、由庵野秀明執導的劃時代科幻動畫作品，描寫少年少女駕駛人形決戰兵器「EVA」對抗名為「使徒」的謎樣敵人，並深入探討角色內心創傷與人際關係的複雜命題，是動畫史上影響力最深遠的作品之一。惣流・アスカ・ラングレー是劇中重要女主角之一，個性好強自信卻內心脆弱，駕駛專屬機體「第參號機」，是該作人氣角色前列的代表性存在。本商品為海洋堂「フロイラインリボルテック」（Fraulein Revoltech）系列第003號作品，是該廠牌著名的リボルテック可動關節技術首度應用於女性角色的美少女動作人偶系列，全高約150mm，約1/10比例。套組收錄5種可替換手部零件、專屬パレットガン配件，並附贈迷你人偶「まめっち」增添趣味性，駕駛服的緊身剪裁與角色招牌雙馬尾髮型皆完整重現，是《エヴァンゲリオン》可動人偶收藏線中兼具早期海洋堂技術代表性與角色人氣的經典商品。",
-    reviews: [],
+    reviews: [
+      { title: "海洋堂 リボルテックフロイライン No.003 新世紀エヴァンゲリオン 惣流・アスカ・ラングレー 価格比較", url: "https://kakaku.com/item/K0000438285/", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -22725,8 +22735,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/yamato-sv51gamma-ivanov.jpg",
     tags: ["マクロスゼロ", "SV-51", "SV-51γ", "D.D.イワノフ", "ヤマト", "1/60", "完全変形"],
     description: "《マクロスゼロ》是2002年播出的OVA作品，時間點設定於《超時空要塞マクロス》正史之前，描繪統合軍與反統合同盟在南島群島爆發的地區戰爭，是《マクロス》系列中少見聚焦初代可變戦機原型機的外傳故事。「SV-51」是反統合同盟所使用的俄羅斯系可變戦機，造型剛硬銳利，與統合軍的VF-1系譜截然不同，「γ」為其中一種塗裝配置。本商品為劇中反派角色D.D.イワノフ的搭乘機，以「最終決戦仕様」規格重現角色在OVA最終回的專屬塗裝與武裝配置，戦鬥機形態全長約390mm，具備戦鬥機・GERWALK・人型三段變形機構，並可開闔座艙罩、收放起落架、搭載駕駛員模型、開闔升力風扇蓋、可動式前翼，配件包含D.D.イワノフ飛行員模型、Gsh-371 55mm槍托、備用彈匣、微型導彈發射器兼副油箱、Aimos Plus中程空對空飛彈、噴射推進器等豐富武裝。作為《マクロスゼロ》玩具化商品中份量與細節皆屬頂級的一款，是可變戦機收藏中極具話題性的逸品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "マクロスゼロ 完全変形 SV-51γ D.D.イワノフ搭乗機 最終決戦仕様のレビュー", url: "https://www.yodobashi.com/community/product/review/P20000gzolF0P00AxuFm0/detail.html", lang: "ja" },
+      { title: "Cynical Panda is Cynical: Yamato SV-51 Ivanov (1/60) Review", url: "http://gtrain81.blogspot.com/2008/09/yamato-sv-51-ivanov-160-review.html", lang: "en" },
+    ],
+    youtube: [
+      { title: "【マクロス玩具レビュー】アルカディア 1/60 完全変形 SV-51γ D.D.イワノフ機 Part 2", url: "https://www.youtube.com/watch?v=nhwJM-WFi2A", lang: "ja" },
+      { title: "Macross Zero SV-51 Ivanov 1/60 Yamato", url: "https://www.youtube.com/watch?v=klJRR_Yyzf4", lang: "en" },
+    ],
   },
   {
     id: "cms-brave01-gaogaigar",
@@ -22746,7 +22762,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "BRAVE合金01 ガオガイガー CM'sコーポレーション", url: "https://omochagura.sakura.ne.jp/sonota/final/cmggg/cmggg.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【比較】BRAVE合金 ガオガイガー ver.1&ver.2【CM's】", url: "https://www.youtube.com/watch?v=z1WWZZcsYm4", lang: "ja" },
+    ],
   },
   {
     id: "cms-brave02-star-gaogaigar-power-up-set",
@@ -22786,7 +22804,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "BRAVE合金03 ジェネシックガオガイガー 通常版", url: "https://www.amiami.jp/top/detail/detail?gcode=GDS-3371", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【Aパート】BRAVE合金 03 ジェネシックガオガイガー 合体前の各マシン 前期型と後期型の違いも【CM's】", url: "https://www.youtube.com/watch?v=0Yb62wUnqP8", lang: "ja" },
+      { title: "【Bパート】BRAVE合金 03 ジェネシックガオガイガー 変形合体 武器 交換手首【買っちゃいけない大いなる遺産】", url: "https://www.youtube.com/watch?v=K_Vkom_CiKI", lang: "ja" },
+    ],
   },
   {
     id: "saint-cloth-myth-bronze-five-warriors",
