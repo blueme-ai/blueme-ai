@@ -14083,7 +14083,18 @@ export const collection: CollectibleItem[] = [
     tags: ["原創角色", "尤娜醬", "Present Bunny", "兔女郎", "1/4", "AniMester", "SIINY", "中國品牌"],
     description: "「尤娜醬（Yuna-chan）」是由繪師BIYA所繪製的原創角色，並非既有動漫作品衍生角色，而是AniMester與SIINY兩品牌聯名企劃下誕生的原創立體化角色，主打兔女郎主題的性感手辦路線，近年在中國模型手辦市場逐漸嶄露頭角，以精緻雕工與大膽姿態設計吸引收藏者關注。本作以1/4大比例呈現，全高約48公分,在同類兔女郎主題商品中屬於較大規格，能充分展現角色身形曲線與細節雕琢。姿態上採用高難度的倒立劈腿造型，藉由誇張卻優雅的肢體語言展現角色的柔軟身段與運動感，同時保留角色招牌雙馬尾髮型作為識別特徵，兔耳與兔尾等主題元素亦一併呈現。首批特典版本附贈「追視眼」替換臉部零件，可更換為眼神略帶上揚的追視表情,增添角色情緒層次；另附原畫旋轉立牌,方便收藏者搭配展示或作為周邊擺飾，是喜愛原創角色與精緻塗裝手辦玩家值得留意的中國品牌代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Unboxing & Reviewing Bear Panda's Yuna 1/4 Figure - Illustration by Biya",
+        url: "https://www.youtube.com/watch?v=tpIIvvK0sZs",
+        lang: "en",
+      },
+      {
+        title: "Unboxing Figura Yuna Bunny Girl 1/4 | Bear Panda",
+        url: "https://www.youtube.com/watch?v=pw2naflANGg",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "smp-dagarn",
@@ -14471,7 +14482,18 @@ export const collection: CollectibleItem[] = [
     tags: ["科学忍者隊ガッチャマン", "ゴッドフェニックス", "Academy", "タツノコプロ", "プラモデル", "韓國品牌"],
     description: "《科学忍者隊ガッチャマン》是龍之子製作於1972年播出的特攝風格科幻動畫，講述地球防衛組織科學忍者隊駕駛巨大母艦「ゴッドフェニックス」，對抗國際犯罪組織「ギャラクター」侵略地球的故事，其熱血的合體變形場面與硬派世界觀塑造，奠定了日後日本巨大機械人動畫多機合體的敘事公式，是特攝機械動畫史上具開創地位的經典之作。「ゴッドフェニックス」是科學忍者隊的主力母艦，設定上可由G-1至G-5五架戰機合體變形而成，招牌必殺技「科學忍法・火の鳥」讓機體周身噴發熊熊烈焰突破敵陣，是全系列最具代表性的視覺名場面。本商品由韓國模型大廠Academy推出，屬免上色即可完成的多色成形（MCP）拼裝套件，一般形態全長約33公分，展開「火の鳥」模式後全長超過40公分，是相當具份量感的大型商品。套件並附有重現火焰噴發效果的透明特效零件，機首飛彈可選擇收納或發射兩種狀態呈現，展示台座更內建飛彈發射按鈕機構，方便玩家重現原作經典場面。作為橫跨半世紀的特攝動畫周邊，本品不僅是懷舊玩具收藏者重溫兒時記憶的代表作品，也反映出Academy近年積極投入日本經典動畫IP授權模型開發、延續昭和特攝美學給新一代玩家的產業趨勢。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【科学忍者隊ガッチャマン】 ゴッドフェニックス プラモデル〈素組み篇〉 GATCHAMAN GOD PHOENIX Plastic Models",
+        url: "https://www.youtube.com/watch?v=gQFYimVJ2co",
+        lang: "ja",
+      },
+      {
+        title: "〈塗装＆LED発光篇〉【科学忍者隊ガッチャマン】 ゴッドフェニックス プラモデル GATCHAMAN GOD PHOENIX Plastic Models",
+        url: "https://www.youtube.com/watch?v=LdVnko1QDIE",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "academy-gatchaman-g1-g4-set",
@@ -14489,7 +14511,18 @@ export const collection: CollectibleItem[] = [
     tags: ["科学忍者隊ガッチャマン", "Gメカ", "G-1", "G-2", "G-3", "G-4", "Academy", "タツノコプロ", "プラモデル", "韓國品牌"],
     description: "《科学忍者隊ガッチャマン》中的科學忍者隊五名成員各自駕駛專屬的「Gメカ」單機作戰，戰機們平時收納於母艦「ゴッドフェニックス」內部，遇敵時個別出擊、視情況再合體支援，是原作中除母艦合體場面外另一大看點，也是奠定該作機械設計多樣性的重要設定。本商品為Academy推出的Gメカ四機套組，收錄隊長大鷲的鷲一號「G-1」（火箭戰機型態）、G-2「特殊賽車」、G-3「雪橇車」，以及G-4「水陸兩用裝甲車」四架個人座機，讓玩家能一次集齊科學忍者隊各成員的專屬座駕，補齊母艦商品之外的隊伍陣容拼圖。四架Gメカ造型各異，分別對應忍者隊員的個人特色與戰術定位，從飛行戰機到地面/水陸載具一應俱全，展現原作在載具設計上兼顧視覺辨識度與戰術分工的巧思。套件同樣採用免上色多色成形技術，組裝門檻親民，適合搭配同廠牌的ゴッドフェニックス母艦套件合併展示，重現原作「母艦收納、個別出擊」的經典場景。作為半世紀前特攝動畫的周邊延伸商品，本套組讓收藏者得以用現代規格模型技術，完整重現科學忍者隊五人小隊的座機陣容，是龍之子經典IP周邊收藏中補完隊伍全貌的重要一環。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "【プラモデル】科学忍者隊 ガッチャマン 『Gメカセット（アカデミー製）』未完成😅だけど組んでみた",
+        url: "https://www.youtube.com/watch?v=fwUF8yXa0J0",
+        lang: "ja",
+      },
+      {
+        title: "【科学忍者隊 ガッチャマン】 Gメカセット〈G4号〉プラモデル[アカデミー]GATCHAMAN G-4 Plastic Models",
+        url: "https://www.youtube.com/watch?v=8ZlAJ2sIHJs",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "academy-gatchaman2-new-god-phoenix",
@@ -14506,8 +14539,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/academy-gatchaman2-new-god-phoenix.jpg",
     tags: ["科学忍者隊ガッチャマンII", "ニューゴッドフェニックス", "Academy", "童友社", "タツノコプロ", "プラモデル", "韓國品牌"],
     description: "《科学忍者隊ガッチャマンII》是1978年播出的《科学忍者隊ガッチャマン》續作，延續科學忍者隊對抗新一代反派組織「ギャラクター」殘黨的故事，主力母艦也隨之升級為性能更強大的「ニューゴッドフェニックス」，是系列世界觀進化與機體設計精緻化的重要象徵。本商品由韓國Academy原廠開發製造，日本版則由童友社代理發行，是紀念Academy創立50週年的重點企劃商品之一，零件數超過200個，可選擇「著陸形態」或「飛行形態」組裝呈現，完成尺寸含展示台座約全長395mm×全幅310mm×高160mm，屬相當具存在感的大型模型商品。套件同樣採用免上色多色成形技術即可完成漂亮的機體配色，並隨附身高15mm的科學忍者隊五人小型公仔與各架Gメカ配件（無上色），機首與機翼部位可開闔，方便重現Gメカ出擊發進的經典場面，並附可選式水貼紙與貼紙，以及重現「火の鳥」模式的火焰特效零件。作為橫跨韓日兩地發行、致敬經典特攝動畫的紀念性商品，本作不僅延續了初代ゴッドフェニックス的收藏話題性，也讓《ガッチャマンII》這部相對進階的續作世界觀得以透過現代規格模型技術重新被更多收藏者認識與收藏。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "童友社 科学忍者隊 ガッチャマンII ニューゴッドフェニックス レビュー評価・評判",
+        url: "https://review.kakaku.com/review/K0001150739/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "科学忍者隊ガッチャマンII ニューゴッドフェニックス プラモデル GATCHAMAN II NEW GOD PHOENIX Plastic Models",
+        url: "https://www.youtube.com/watch?v=id1dWFLV5QI",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "nendoroid-snow-miku-serene-winter",
@@ -15507,7 +15552,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Fate", "プリズマ☆イリヤ", "美遊・エーデルフェルト", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "《Fate/kaleid liner プリズマ☆イリヤ》是Fate系列的魔法少女派生作品，以輕鬆歡樂的日常喜劇基調描寫遠坂凜與間桐桜的異界分身、以及主角伊莉雅斯菲爾等角色化身魔法少女、收集Class卡的冒險故事，是Fate系列中少見走向低齡向、療癒系表現的支線作品，長年推出動畫與大量周邊維持穩定人氣。美遊・エーデルフェルト是遠坂凜於異界的分身露維婭之妹，同樣繼承愛德菲爾特家血統，覺醒魔力後化身魔法少女「サファイア（Sapphire）」，其沉靜內斂又帶點神秘的個性，與活潑外向的伊莉雅、可憐（クロエ）等角色形成鮮明對比。本商品取材自她化身魔法少女後的造型，重現角色深色系長髮與藍紫色調魔法裝束，標配萬華鏡魔法杖與展開的魔法陣特效配件，並可裝配傳說寶具「ゲイ・ボルグ」重現戰鬥場景。整體造型典雅中帶著神秘感，是「プリズマ☆イリヤ」系列周邊收藏中辨識度較高的一件角色代表作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Nendoroid Fate/kaleid liner Prisma Illya: Licht - The Nameless Girl Miyu Edelfelt",
+        url: "https://www.youtube.com/watch?v=PjO9QG9Exhw",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-chloe-von-einzbern",
@@ -15525,7 +15576,13 @@ export const collection: CollectibleItem[] = [
     tags: ["Fate", "プリズマ☆イリヤ", "クロエ・フォン・アインツベルン", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "クロエ・フォン・アインツベルン是《Fate/kaleid liner プリズマ☆イリヤ》系列中因願望機「聖杯」而誕生的特殊存在，外貌與主角伊莉雅斯菲爾幾乎一模一樣，卻擁有截然不同的率直好強性格，其「另一個伊莉雅」的特殊身世設定與雙生對照關係，是該系列劇情張力的重要來源之一，也讓她成為粉絲票選中人氣居高不下的角色。本商品重現她標誌性的淡粉色系長髮與伊莉雅相仿卻略有差異的五官特徵，招牌配件為雙持的黑色短劍，忠實還原她戰鬥時俐落敏捷的雙刀流風格，姿態設計充滿躍動感，展現角色好勝直率的性格魅力。服裝細節與髮色的粉嫩漸層處理細緻，讓她與伊莉雅本體在陳列時能清楚區別卻又相互呼應，是「プリズマ☆イリヤ」系列雙生角色收藏中不可或缺的一件，尤其對喜愛角色間細膩差異設計的收藏者而言別具意義。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Nendoroid: Chloe von Einzbern (Fate/kaleid liner Prisma☆Illya)",
+        url: "https://www.youtube.com/watch?v=4Gsk-shqBjw",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-tsunomaki-watame",
@@ -15542,8 +15599,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-tsunomaki-watame.jpg",
     tags: ["hololive", "角巻わため", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "角巻わため（Tsunomaki Watame）是VTuber事務所hololive production 4期生成員，設定為擁有羊角特徵的天然系偶像，招牌是她治癒系的嗓音與略帶脫線的直播風格，出道以來以獨特的個人魅力累積廣大粉絲群，是hololive 4期生成員中辨識度極高的一位。本商品重現她招牌的金色捲髮與螺旋羊角造型，白色系荷葉邊洋裝搭配粉紅色披肩與蝴蝶結細節，將原作插畫中甜美可愛的天使偶像形象轉化為Q版比例後依然保有鮮明辨識度。標配豎琴與麥克風等配件，呼應她直播中的歌唱與才藝表演企劃，表情零件設計圍繞她招牌的燦笑與害羞神情展開，充分展現角色天然呆又惹人憐愛的性格魅力。整體服裝蕾絲與披肩的塗裝處理細緻，羊角光澤質感表現到位，是hololive 4期生成員周邊收藏中人氣與詢問度都相當高的代表作品之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "グッドスマイルカンパニー ホロライブプロダクション ねんどろいど 角巻わため レビュー評価・評判",
+        url: "https://review.kakaku.com/review/K0001519920/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "Is it Worth it? Tsunomaki Watame (角巻わため) Nendoroid Unboxing & Review",
+        url: "https://www.youtube.com/watch?v=ql2tnj2T3t4",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-hatsune-miku-maneki-miku",
@@ -15561,7 +15630,13 @@ export const collection: CollectibleItem[] = [
     tags: ["初音ミク", "Hatsune Miku", "Good Smile Company", "ねんどろいど", "招き猫", "GSC0001"],
     description: "初音ミク是Crypton Future Media推出的VOCALOID聲庫代表角色，自2007年問世以來持續帶動同人創作與音樂產業的蓬勃發展，是全球辨識度最高的虛擬歌手代表符號之一，長年推出各式主題與聯名周邊，深受粉絲喜愛。本商品「福を呼ぶねこミクVer.（招福貓咪Ver.）」以日本傳統招財貓文化為靈感發想，將初音ミク招牌的雙馬尾造型與貓耳、貓爪元素巧妙結合，服裝以紅白喜氣配色搭配「福」字圖樣的和風圍裙，標配招財貓招牌動作的舉手造型與寫著「千客萬來」的金色百寶箱配件，充分呼應日本新春吉祥文化的視覺語彙。整體造型俏皮喜氣，貓耳與雙馬尾的動態呈現生動可愛，是初音ミク和風主題周邊中辨識度極高、話題性十足的一款，發售當時因應景的招財喜慶造型深受粉絲喜愛，兼具節慶收藏與日常擺飾兩種樂趣，對VOCALOID周邊收藏者而言是別具趣味的代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "ねんどろいど 初音ミク 招きミクVer. レビュー",
+        url: "https://www.youtube.com/watch?v=6rQ9tWSvAWY",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "nendoroid-nakiri-ayame",
@@ -15579,7 +15654,18 @@ export const collection: CollectibleItem[] = [
     tags: ["hololive", "百鬼あやめ", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "百鬼あやめ（Nakiri Ayame）是VTuber事務所hololive production 2期生成員，設定為妖豔優雅的鬼族少女，招牌是她獨具特色的沙啞嗓音與略帶隨性慵懶的直播風格，出道以來以獨樹一格的個人魅力累積大量死忠粉絲，是hololive 2期生成員中辨識度極高的一位。本商品重現她招牌的白髮與鬼族犄角造型，搭配招牌般若面具與和風武士裝束，標配「羅剎」與「阿修羅」雙劍武裝配件，以及吉祥物「ぽよよ」迷你公仔等豐富選配小物，充分呼應她直播中充滿妖異美學的角色設定。整體造型融合和風與奇幻元素，紅黑配色的武裝細節與犄角光澤處理講究，將原作插畫中妖豔又充滿力量感的鬼族形象轉化為Q版比例後依然保留獨特氣場。作為hololive 2期生成員周邊收藏中規格較高的一款，本商品配件豐富度與塗裝工藝均屬同期Nendoroid中上乘水準，深受VTuber周邊收藏者青睞。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Nendoroid: Nakiri Ayame Unboxing & Review (Hololive)",
+        url: "https://www.youtube.com/watch?v=4WvvtRSQXn4",
+        lang: "en",
+      },
+      {
+        title: "Nendoroid Hololive Production Nakiri Ayame (Good Smile Company)",
+        url: "https://www.youtube.com/watch?v=3PhNhqRz8iY",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-chisato-nishikigi",
@@ -15597,7 +15683,18 @@ export const collection: CollectibleItem[] = [
     tags: ["リコリス・リコイル", "錦木千束", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "《リコリス・リコイル》是2022年播出的原創動畫，描寫表面經營咖啡廳、實則暗中執行維安任務的少女特務組織「リコリス」成員，錦木千束與井ノ上たきな聯手化解各種危機的故事，其精緻的動作場面與細膩的兩人組情誼刻畫在播出當時引發廣大迴響，是近年原創動畫中人氣與話題性都名列前茅的代表作。錦木千束是本作女主角，表面總是開朗樂天、笑容燦爛，實則身懷絕佳戰鬥實力與複雜身世，這種反差正是她廣受歡迎的核心魅力所在。本商品取材自她招牌的深紅色系制服造型，標配三種表情零件、可拆卸的挎包與智慧型手機配件，並附特殊手臂零件可重現她招牌的持槍射擊姿態，充分展現角色行動派的俐落身手。金髮與紅色蝴蝶結的髮飾細節處理精緻，是《リコリス・リコイル》系列周邊收藏中人氣最高、詢問度也最強的代表作品之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Nendoroid: Chisato Nishikigi Unboxing / Review (Lycoris Recoil)",
+        url: "https://www.youtube.com/watch?v=AChXiP39Noo",
+        lang: "en",
+      },
+      {
+        title: "Unboxing & Review Nendoroid Chisato Nishikigi | Lycoris Recoil Anime Figure (ENG SUB)",
+        url: "https://www.youtube.com/watch?v=YqYFVvBpUr8",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-takina-inoue",
@@ -15615,7 +15712,18 @@ export const collection: CollectibleItem[] = [
     tags: ["リコリス・リコイル", "井ノ上たきな", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "井ノ上たきな是《リコリス・リコイル》的女主角之一，原為維安組織「DA」的精銳特務，因執行任務時的判斷失誤而被下放至咖啡廳「LycoReco」，與錦木千束搭檔後逐漸從冷靜寡言、一絲不苟的性格中敞開心房，兩人之間從摩擦到信任的情誼變化是全劇最動人的核心主線之一。本商品取材自她招牌的深藍色系制服造型，忠實重現角色俐落幹練的黑色長髮與銳利雙眼，標配手槍配件與可拆卸手臂零件，可重現她持槍瞄準的招牌戰鬥姿態，充分展現角色身為精銳特務的專業與冷靜。表情零件設計兼顧面無表情的職業感與偶爾流露真情的溫柔神情，呼應她在劇中角色成長的細膩轉變。作為《リコリス・リコイル》系列周邊收藏中與千束成對的重要角色代表作，本商品服裝細節與塗裝品質均屬上乘，兩者並列收藏更能完整呈現原作雙主角的搭檔情誼。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Nendoroid: Takina Inoue Unboxing / Review (Lycoris Recoil)",
+        url: "https://www.youtube.com/watch?v=9tNZdZ2ky0M",
+        lang: "en",
+      },
+      {
+        title: "Unboxing & Review Nendoroid Takina Inoue | Lycoris Recoil Anime Figure (ENG SUB)",
+        url: "https://www.youtube.com/watch?v=nJr0uOVImc8",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-hoshimachi-suisei",
@@ -15668,7 +15776,13 @@ export const collection: CollectibleItem[] = [
     tags: ["しぐれうい", "Good Smile Company", "ねんどろいど", "VTuber", "イラストレーター", "GSC0001"],
     description: "しぐれうい（Shigure Ui）是活躍於日本的人氣插畫家兼VTuber，以其獨具個人風格的柔美畫風廣受歡迎，長年負責大量遊戲、輕小說封面與角色設計，同時也以VTuber身分展開直播活動，是少數能橫跨插畫創作與VTuber雙重身分並在兩個領域都獲得高度肯定的代表人物。本商品即是以她自身作為原型製作的Nendoroid，重現其招牌的褐金色系長髮與甜美學生制服造型，標配書桌、鋼筆與素描本等配件，直接呼應她插畫家的職業身分，是本商品在配件設計上最貼近角色本質的巧思所在。整體造型清新可愛，制服毛衣與百褶裙的塗裝細節處理用心，充分展現她作品中一貫的柔美畫風特色。由於原版推出後詢問度極高，隔年隨即推出復刻再販，反映出角色跨足插畫與VTuber雙棲身分所累積的高人氣，對粉絲而言是兼具創作者情懷與收藏價值的一件代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "イラストレーター兼バーチャルYouTuber『しぐれうい』がねんどろいどになって登場！",
+        url: "https://www.youtube.com/watch?v=SRYmusblKmo",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "nendoroid-mahiru-shiina",
