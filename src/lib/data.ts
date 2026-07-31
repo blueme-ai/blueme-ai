@@ -21797,7 +21797,9 @@ export const collection: CollectibleItem[] = [
       { title: "【レビュー】SMP 創聖のアクエリオン 無限拳＆オプションパーツセット", url: "https://shishioh.info/SMP_AQUARION_OPTION_PARTS.php", lang: "ja" },
       { title: "【SMP・創聖のアクエリオン 無限拳&オプションパーツセット】素組みレビュー！！ | のどかな日常", url: "https://nodokalife.com/aquerionpartsset-sugumi", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "♪1万円と800円でもポチってるぅ5,940円でも気にしなくなった【ポチリ日誌】SMP [SHOKUGAN MODELING PROJECT] 創聖のアクエリオン＆無限拳&オプションパーツセット", url: "https://www.youtube.com/watch?v=-Lu0b89yZcw", lang: "ja" },
+    ],
   },
   {
     id: "smp-fire-dagwon",
@@ -21889,7 +21891,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "SMP『勇者特急マイトガイン』PB「ガイン＆ブラックガイン」 | げきみそパーンチッ!!", url: "https://ameblo.jp/gekimiso/entry-12854414499.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガイン 勇者特急マイトガイン ガン＆ブラックガイン【プレミアムバンダイ限定】 SMP [SHOKUGAN MODELING PROJECT] サクッと紹介", url: "https://www.youtube.com/watch?v=G8ephzsPa1I", lang: "ja" },
+    ],
   },
   {
     id: "smp-might-gaine-hiryu",
@@ -21907,7 +21911,9 @@ export const collection: CollectibleItem[] = [
     manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2023/1000184438.pdf",
     tags: ["SMP0004", "SMP", "SHOKUGAN MODELING PROJECT", "勇者特急マイトガイン", "飛龍", "バンダイキャンディ", "食玩", "プレミアムバンダイ限定"],
     description: "「飛龍」是《勇者特急マイトガイン》劇中王牌駕駛員ジョー所駕駛的專用機體，以流線俐落的紅色機身與高速飛行能力著稱，是主角陣營中僅次於マイトガイン的重要戰力，劇中多次與敵方王牌機體展開一對一空戰對決，是系列中人氣極高的最強配角機體之一。本商品「SMP 勇者特急マイトガイン 飛龍」為プレミアムバンダイ限定商品，2023年3月出貨，延續SMP系列一貫的餘剩零件極少化設計理念，重現機體從列車形態、飛行形態到人形形態間的三段式完全變形機構，變形過程流暢且無需拆卸零件即可完成型態轉換。機身塗裝忠實還原原作紅白配色與流線造型，可動關節設計充分考量飛行姿態與格鬥動作的擺放需求。對於收藏《勇者特急マイトガイン》系列SMP商品、追求補齊王牌角色陣容的玩家而言，本作是展現該系列變形工藝精髓的代表性收藏品之一。",
-    reviews: [],
+    reviews: [
+      { title: "閲覧注意。愚痴注意！素晴らしい完成度だけど値段とは全く釣り合わないことがいっぱい。プレミアムバンダイ限定 勇者特急マイトガイン SMP 飛龍 レビュー", url: "https://irukausagi-heart-yuusha.hatenablog.com/entry/2023/03/28/233717", lang: "ja" },
+    ],
     youtube: [
       { title: "なるほど…コイツは一級品だ。SMP飛龍(HIRYU)/勇者特急マイトガイン(MIGHTGAINE)", url: "https://www.youtube.com/watch?v=IDFkBy_U_ME", lang: "ja" },
       { title: "【勇者特急マイトガイン 】エースのジョーの愛機！SMP 飛龍 余剰なし変形が見事！ ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=dcGw0--2UG0", lang: "ja" },
@@ -21932,7 +21938,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "SMP『勇者特急マイトガイン』PB「ブラックマイトガイン」", url: "https://ameblo.jp/gekimiso/entry-12826826620.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "灯せ悪への赤信号！【SMP ブラックマイトガイン】ヲタファの食玩レビュー / SMP Black Might Gaine", url: "https://www.youtube.com/watch?v=S0e2mVuMF1I", lang: "ja" },
+      { title: "定刻破って只今到着！【SMP】ブラックマイトガイン/勇者特急マイトガイン(MIGHTGAINE) [SHOKUGAN MODELING PROJECT]", url: "https://www.youtube.com/watch?v=adOPv8YEIBk", lang: "ja" },
+    ],
   },
   {
     id: "smp-mightgaine-kaiser-carrier-set",
@@ -21973,7 +21982,10 @@ export const collection: CollectibleItem[] = [
     manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2023/1000193851.pdf",
     tags: ["SMP0004", "SMP", "SHOKUGAN MODELING PROJECT", "勇者特急マイトガイン", "轟龍", "勇者シリーズ", "バンダイキャンディ", "食玩", "プレミアムバンダイ限定"],
     description: "「轟龍」是《勇者特急マイトガイン》劇情中段登場的最強敵方機體，設定上是反派陣營在前一代機體「飛龍」被擊毀後，賦予駕駛員雷讓・ジョー的強化後繼機，威力凌駕先前的マイトカイザー，多次將主角一行逼入絕境，是系列中人氣極高的勁敵機體代表。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列Premium Bandai限定商品，2023年10月出貨，重現機體強悍銳利的獨特外型與招牌武裝造型。商品採三段式變形設計，可在戰鬥機形態、基地形態與人形機器人形態間自由切換，並可收納同系列另售的「大鷲」戰機於機身內部，重現原作中母子機聯動的設定。全高與另售主角機「グレートマイトガイン」相仿，適合並列展示呈現正邪對峙場景。組裝過程色分精細、關節可動範圍豐富，變形機構被評為勇者系列SMP商品線中相當具代表性的設計，是喜愛反派機體收藏玩家的重點目標。",
-    reviews: [],
+    reviews: [
+      { title: "勇者シリーズのSMP史上最高傑作！ 明らかな進化をみた！ 衝撃的なペラペラキャノン！ プレミアムバンダイ限定 SMP 轟龍 忖度なしレビュー", url: "https://irukausagi-heart-yuusha.hatenablog.com/entry/2023/10/28/235207", lang: "ja" },
+      { title: "【SMP・轟龍】素組みレビュー＆改修箇所洗い出し！！ | のどかな日常", url: "https://nodokalife.com/goryu-sugumi", lang: "ja" },
+    ],
     youtube: [
       { title: "デカい！見事な3段変形【SMP 轟龍 / 勇者特急マイトガイン】ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=YlLitV8GfnY", lang: "ja" },
     ],
@@ -21994,7 +22006,10 @@ export const collection: CollectibleItem[] = [
     manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2023/1000193762.pdf",
     tags: ["SMP0004", "SMP", "SHOKUGAN MODELING PROJECT", "勇者特急マイトガイン", "マイトガンナー", "勇者シリーズ", "バンダイキャンディ", "食玩", "プレミアムバンダイ限定"],
     description: "「マイトガンナー」是《勇者特急マイトガイン》劇情後期登場的最終決戰列車，設定上是主角陣營為對抗最強敵人而追加的最終武裝機體，融合蒸氣火車與左輪槍械的造型意象，是系列中相當具個性的設計代表。與另售的「SMP 勇者特急マイトガイン」及「マイトカイザー」搭配組裝後，可合體重現主角機最終強化形態「グレートマイトガイン パーフェクトモード」，完整重現原作完結篇的最強決戰姿態。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列Premium Bandai限定商品，2023年10月出貨，除可單獨組裝呈現マイトガンナー本體造型外，並附屬完成前形態「超電導キャノン」的替換零件，以及裝備マイトガンナー後的「パーフェクトキャノン」武裝形態零件，讓玩家能重現原作劇情中招牌必殺技發射瞬間的震撼畫面。商品色分精細、變形合體結構扎實，是勇者系列SMP收藏線中完結系列拼圖的重要一員。",
-    reviews: [],
+    reviews: [
+      { title: "【SMP・マイトガンナー】素組みレビュー＆改修箇所洗い出し！！", url: "https://nodokalife.com/mightgunner-sugumi", lang: "ja" },
+      { title: "SMP 「マイトガンナー」 レビュー", url: "http://myhobby.moo.jp/smp-mightgun/review.html", lang: "ja" },
+    ],
     youtube: [
       { title: "パーフェクトキャノン発射！【SMP マイトガンナー/ 勇者特急マイトガイン】ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=qRaXztaRKYc", lang: "ja" },
     ],
@@ -22083,7 +22098,10 @@ export const collection: CollectibleItem[] = [
     manualUrl: "https://www.bandai.co.jp/candy/pdf/2107smp/4549660551270000.pdf",
     tags: ["SMP0004", "SMP", "SHOKUGAN MODELING PROJECT", "百獣戦隊ガオレンジャー", "ガオキング", "スーパー戦隊", "東映", "バンダイキャンディ", "食玩"],
     description: "《百獣戦隊ガオレンジャー》是東映超級戰隊系列2001年作品，以「動物力量」為核心設定，戰隊成員借助百獸之力戰鬥，是系列中風格明快、動物機體設計深受歡迎的一部代表作。「ガオキング」是劇中主角方的核心合體機體，由獅型的ガオライオン、鷹型的ガオイーグル、鯊魚型的ガオシャーク、野牛型的ガオバイソン、虎型的ガオタイガー共五隻「百獸」合體組成，設定上為五獸各自獨當一面、依戰況彈性合體的百變陣容，是系列中「動物合體」美學的代表機體。本商品「SMP 百獣合体ガオキング」為BANDAI食玩事業部全新推出「SHOKUGAN MODELING PROJECT」品牌的首發第一彈商品，2021年7月26日發售，忠實重現五隻力量動物各自的獨立變形與最終合體流程，並收錄如ガオバイソン戰車形態、頭部旋轉展現ガオキング咆哮面容等原版DX玩具招牌機構。商品色分精細、無需額外上色即具高完成度，是SMP品牌開創之作，也是系列收藏中承先啟後的重要起點商品。",
-    reviews: [],
+    reviews: [
+      { title: "SMP 「百獣合体 ガオキング」 レビュー", url: "http://myhobby.moo.jp/smp-gaoking/review.html", lang: "ja" },
+      { title: "【SMP】百獣合体ガオキング 紹介", url: "https://alince9605.hatenablog.com/entry/2021/07/28/212558", lang: "ja" },
+    ],
     youtube: [
       { title: "牙吠！プラなのにこの重厚感！SMP百獣合体 ガオキング/百獣戦隊ガオレンジャー【SHOKUGAN MODELING PROJECT】レビュー", url: "https://www.youtube.com/watch?v=aXmw_VLbkgs", lang: "ja" },
     ],
@@ -22264,7 +22282,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "炎神合体シリーズ06 エンジンキャリゲーター", url: "https://ameblo.jp/ryosubaru/entry-11812874494.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンバルオー、そしてエンジンオーG6に合体！炎神合体シリーズ06エンジンキャリゲーターをレビュー！【炎神戦隊ゴーオンジャー】", url: "https://www.youtube.com/watch?v=VEmswQ97s8U", lang: "ja" },
+    ],
   },
   {
     id: "gekitoja",
