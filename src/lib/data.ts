@@ -15834,8 +15834,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-hachiman-hikigaya.jpg",
     tags: ["俺ガイル", "比企谷八幡", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "《やはり俺の青春ラブコメはまちがっている。》（通稱「俺ガイル」）是渡航創作的青春校園輕小說，描繪個性彆扭、對青春抱持扭曲哲學的主角比企谷八幡加入「侍奉部」，與雪ノ下雪乃、由比ヶ浜結衣等角色透過解決他人煩惱逐漸建立起真摯情感連結的故事，以毒舌吐槽與細膩的青春群像刻劃深受讀者喜愛，是近年校園戀愛喜劇作品中的長銷經典。比企谷八幡是本作主角，招牌是他半瞇的死魚眼神與憤世嫉俗卻意外體貼的性格反差，其獨特的處世哲學「青春是謊言」貫穿全系列，是角色人氣經久不衰的核心魅力。本商品重現他招牌的凌亂黑髮與慵懶站姿，黑色學生外套搭配雙手插口袋的招牌姿勢，將原作插畫中頹廢又帶點孤高氣質的角色形象精準捕捉，即使轉化為Q版比例依然一眼可辨。表情零件精準呈現他標誌性的死魚眼神韻味，是「俺ガイル」系列官方Nendoroid周邊中辨識度最高的代表作品，對系列粉絲而言是收藏主角形象不可或缺的一件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "Good Smile Company Hachiman Hikigaya nendoroid REVIEW",
+        url: "https://myfigurecollection.net/blogpost/59336",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Hachiman Hikigaya Nendoroid Unboxing | Oregairu (My Youth Romantic Comedy Is Wrong, As I Expected)",
+        url: "https://www.youtube.com/watch?v=hGPusMGIBZU",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90-mission-pack-dg",
@@ -15882,8 +15894,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-es.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「E型」與「S型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，延續F90企劃透過替換任務背包因應不同戰術情境的核心設計理念。E型與S型分別對應不同的裝備構型，機身可見大型碟形天線／感測裝置與多管火器組合，強化偵蒐與遠距支援能力，搭配F90簡潔俐落的骨架結構，呈現與標準形態截然不同的戰術面貌。作為F90眾多Mission Pack家族中發售較早的一組，其套件內容延續系列一貫的高組裝細節與分件精度，武裝配件的可動關節與收納結構皆經過仔細設計，方便與其他型號的裝備零件交互組合把玩。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是重現F90多樣化戰術構型不可或缺的一組擴充配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MG Mission Pack E-type & S-type for F-90",
+        url: "https://mshanplamo.com/blog/post/mgf90-es",
+        lang: "zh",
+      },
+    ],
+    youtube: [
+      {
+        title: "I WAS WRONG ABOUT THIS MOBILE SUIT! MG F90 Unit 2 + Mission Pack E/S Type UNBOXING and REVIEW [4K]",
+        url: "https://www.youtube.com/watch?v=kXNvQsYjYa8",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90-mission-pack-fm",
@@ -15900,8 +15924,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-fm.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「F型」與「M型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型肩部裝甲與加農砲等重武裝配置，搭配招牌黃色系塗裝的特徵零件，強化火力支援與特殊戰術任務的執行能力，與標準型F90相比呈現更具重裝甲的視覺份量感。作為F90「量產泛用原型機」構想的具體實踐之一，F型與M型的裝備構型延續系列一貫透過模組化武裝因應不同戰場需求的設計哲學，套件內的關節與武裝分件皆維持MG系列一貫的組裝精度與可動範圍。對於熱衷收集F90系列各式Mission Pack型號的玩家而言，本商品的重裝甲風格與其他偏向輕裝或偵察取向的型號形成鮮明對比，是展現F90多樣化戰術面貌不可或缺的一組擴充配件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MG Mission Pack F-type & M-type for F-90",
+        url: "https://mshanplamo.com/blog/post/mgf90-fm",
+        lang: "zh",
+      },
+    ],
+    youtube: [
+      {
+        title: "F & M Type Review (MG Gundam F90)",
+        url: "https://www.youtube.com/watch?v=o-cjbv6Tmb0",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90-mission-pack-jq",
@@ -15919,7 +15955,13 @@ export const collection: CollectibleItem[] = [
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「J型」與「Q型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是2023年底推出、相對較新的一組F90擴充配件。套組以藍色系裝甲為主色調，肩部搭載大型連裝機砲與大型格鬥用拳套，武裝配置偏向中近距離的火力壓制與格鬥戰能力，展現與F90標準型截然不同的重裝甲戰鬥姿態。作為F90企劃「透過任務背包因應不同戰術情境」核心理念持續擴編的最新成員，J型與Q型延續系列一貫的高組裝密度與精細分件設計，武裝零件的可動關節與收納結構皆維持MG系列水準。由於發售時間較晚、相較於D、E、F等早期型號流通量更為稀少，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是近年較難入手的補完拼圖之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "MG 1/100 MISSION PACK J-TYPE & Q-TYPE for GUNDAM F90 / The Gundam F90 A-Z Project",
+        url: "https://www.youtube.com/watch?v=Cncn4SKcOWo",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90-mission-pack-rv",
@@ -15936,8 +15978,25 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-rv.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「R型」與「V型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型翼狀展開裝甲與長柄光束兵裝，搭配藍白配色的機身塗裝，呈現高機動與遠距交戰兼具的戰術取向，與F90標準型相比展現更為華麗、存在感十足的視覺輪廓。R型與V型延續F90「任務背包」模組化設計的核心理念，武裝配件的關節可動與分件精度皆維持MG系列一貫水準，展開狀態下的翼型裝甲細節刻畫講究，兼具擺放展示與武裝把玩的雙重樂趣。作為F90系列眾多Mission Pack型號中價格較高、配件份量也較為豐富的一組，對於致力收集齊全F90企劃所有機體構型的鋼普拉玩家而言，本商品是展現該系列設計多樣性的重要代表作之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MG ガンダムF90用 ミッションパック Rタイプ＆Vタイプ レビュー",
+        url: "https://schizophonic9.com/re7/mg_f90rv.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "NOOB'S PERSPECTIVE: MG Gundam F90 Mission Pack R-Type and V-Type Review",
+        url: "https://www.youtube.com/watch?v=hXoRfAJqIlI",
+        lang: "en",
+      },
+      {
+        title: "V & R Type Review (MG Gundam F90)",
+        url: "https://www.youtube.com/watch?v=OPhqPA-AxFE",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90-mission-pack-bk",
@@ -16007,8 +16066,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-w.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「W型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。與其他多以雙型號合售的Mission Pack不同，W型是單獨販售的型號，套件以醒目的紅白配色大型翼狀裝甲為最大特徵，展開後的視覺份量感與存在感在F90眾多擴充配件中相當突出，展現高機動戰術情境下的武裝構型。W型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內的關節可動與武裝分件維持MG系列一貫精度，大型翼裝甲的分件細節與塗裝分色處理亦相當講究，兼顧展示與把玩樂趣。由於是單獨型號、非雙拼販售，價格與內容量相對精簡，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品也是不容錯過的一組。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "[ Review ] - MG 1/100 - Gundam F90 Mission Pack W Type",
+        url: "https://suprememecha.blogspot.com/2021/11/review-mg-1100-gundam-f90-mission-pack.html",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Mission Pack W Unboxing (MG F90 Mission Pack)",
+        url: "https://www.youtube.com/watch?v=55RKIPNa0xA",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90-mission-pack-al",
@@ -16025,8 +16096,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-al.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "酒紅色盒裝", "BOX0014"],
     description: "本商品是Premium Bandai限定推出的F90「A型」與「L型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是2024年推出、F90系列擴充配件中相對較新的一組，以酒紅色為包裝主色調。套件外觀可見大型背部推進裝置與長柄格鬥兵裝，搭配藍色系裝甲構型，武裝配置兼具高機動突擊與近距離格鬥戰能力，展現F90在快速突擊任務情境下的戰術面貌。A型與L型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內關節可動與武裝分件皆維持MG系列一貫的組裝精度與細節密度。由於是近年才推出的補完型號，相較於D、E、F等2019年前後的早期型號更為新穎，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是近期補齊收藏拼圖的重要一塊。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "MG ガンダムF90用ミッションパック Aタイプ＆Lタイプ レビュー",
+        url: "https://schizophonic9.com/re8/mg_f90-al.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "MG 1/100 MISSION PACK A-TYPE & L-TYPE for GUNDAM F90",
+        url: "https://www.youtube.com/watch?v=Bk6H-9Q5eKk",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "hg-gundam-calibarn-clear",
@@ -16043,8 +16126,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/hg-gundam-calibarn-clear.jpg",
     tags: ["ガンダム", "水星の魔女", "ガンダム・キャリバーン", "HG", "1/144", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー", "BOX0007"],
     description: "《機動戰士鋼彈 水星的魔女》是近年鋼彈系列中話題度極高的作品，故事描寫轉學至技術高中就讀的少女蘇萊塔・墨丘利，因駕駛神秘機體而捲入校園權力鬥爭與企業陰謀，劇中充滿對前作《鋼彈AGE》世界觀的呼應與伏筆，也大膽採用校園背景與商業競爭作為主要敘事舞台，一改過往鋼彈系列的戰爭敘事套路。Gundam Calibarn是蘇萊塔在最終決戰中駕駛的機體，由艾亞魯・墨丘利遺留的關鍵技術構成，是全劇謎團的核心象徵，也是視覺衝擊力最強、設計最為華麗的機體之一。本商品為The Gundam Base實體店鋪限定推出的「クリアカラー（透明色）」特別版，全機身以半透明樹脂材質呈現，讓內部骨架結構與分件卡榫一覽無遺，搭配巨型光劍與推進翼的透明質感，展現出與一般上色版截然不同的通透科技美感。透明版套件在色分件配置上刻意保留部分不透明零件強化立體層次，讓機體輪廓在透明外殼下依然清晰可辨，是鋼普拉「透明特別版」商品線中兼具展示美感與話題性的一款，也因The Gundam Base限定通路屬性使其在市場上具備一定稀缺性。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "Bandai HG 1/144 THE GUNDAM BASE LIMITED GUNDAM CALIBARN [CLEAR COLOR]",
+        url: "https://www.mech9.com/2026/05/bandai-hg-1144-gundam-base-limited.html",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "Unboxing - HG 1/144 Gundam Calibarn Clear Color Gundam Base - Bandai",
+        url: "https://www.youtube.com/watch?v=zZd7mga0_IE",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-gundam-f90-unit2",
@@ -16062,7 +16157,13 @@ export const collection: CollectibleItem[] = [
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90 Unit 2", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）中的核心機體，設定於宇宙世紀0120年，由獨立兵工廠薩納璃為對抗日益巨大化的量產機所研發的次世代主力MS原型機，透過替換多種任務背包（Mission Pack）因應不同戰術情境，是高達系列「量產泛用原型機」構想的原點。「ユニット2（Unit 2）」是F90計畫中的第二號測試機，塗裝配色改為紫黑色系搭配黃色警示標誌，與初號機的白色基調形成鮮明對比，設定上代表另一組測試駕駛員所使用的量產前規格機體，是F90企劃「多機並行測試」概念下的具體呈現。本商品為Premium Bandai限定推出的MG 1/100版本，機身骨架與可動結構與標準版F90一致，延續系列精密的關節可動與硬點模組化設計，方便日後與各式Mission Pack擴充套件交互組合搭配。獨特的紫黑配色塗裝在同系列眾多F90機體中辨識度極高，對於收藏Formula91企劃各式F90測試機體塗裝差異的玩家而言，是不可或缺的一件P-Bandai限定商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "I WAS WRONG ABOUT THIS MOBILE SUIT! MG F90 Unit 2 + Mission Pack E/S Type UNBOXING and REVIEW [4K]",
+        url: "https://www.youtube.com/watch?v=kXNvQsYjYa8",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-gundam-f90-mars-zeon",
@@ -16079,7 +16180,18 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-f90-mars-zeon.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "火星独立ジオン軍", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，設定於宇宙世紀0120年，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點。本商品「OMS-90R［火星独立ジオン軍仕様］」是設定中被殘存吉翁殘黨勢力「火星獨立吉翁軍」所鹵獲、並改造塗裝後投入使用的F90機體，將原本代表聯邦軍測試機的白色基調改為紅白搭配深藍腿部裝甲的吉翁系配色，肩部與盾牌造型也因應吉翁軍的機體審美略有調整，呈現出與聯邦制式F90截然不同的陣營風格與敘事想像，是F90企劃衍生設定中相當具話題性的一款「非正史」機體活用構想。本商品為Premium Bandai限定推出的MG 1/100版本，機身骨架延續系列精密可動結構，塗裝分色針對吉翁軍配色重新設計，展現出同一機體平台在不同陣營手中呈現的視覺反差。對於熱衷收集F90系列各式衍生塗裝與「if」設定機體的鋼普拉玩家而言，本商品是展現該企劃世界觀延伸想像力的代表作之一。",
-    reviews: [],
+    reviews: [
+      {
+        title: "MG ガンダムF90（火星独立ジオン軍仕様） レビュー",
+        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0f90%EF%BC%88%E7%81%AB%E6%98%9F%E7%8B%AC%E7%AB%8B%E3%82%B8%E3%82%AA%E3%83%B3%E8%BB%8D%E4%BB%95%E6%A7%98%EF%BC%89",
+        lang: "ja",
+      },
+      {
+        title: "MG ガンダムF90（火星独立ジオン軍仕様) レビュー",
+        url: "https://schizophonic9.com/re7/mg_f90zeon.html",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -16300,7 +16412,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/rg-nu-gundam-hws-expansion.jpg",
     tags: ["ガンダム", "RG", "1/144", "νガンダム", "BANDAI SPIRITS", "逆襲のシャア", "P-Bandai限定", "HWS"],
     description: "《機動戰士鋼彈：逆襲的夏亞》是阿姆羅・雷與夏亞・阿茲納布爾長年宿怨的最終總結篇，νGundam是阿姆羅在片中的最終座機，設定中除了電影標準配備外，另有「HWS（Heavy Weapons System，重武裝系統）」規格——透過追加大型背包與增裝武裝大幅強化火力與續戰能力，是MSV設定資料集中知名度極高的衍生規格，長年是模型廠商推出擴充周邊的熱門題材。本商品是Premium Bandai限定推出的RG 1/144 HWS擴充零件套件（不含νGundam本體），需另購RG 1/144 νGundam基礎套件搭配組裝，內容物包含大型背包武裝與追加裝甲零件，可將標準版νGundam升級改裝為HWS規格。RG系列一貫的內構骨架與精密關節設計，讓大型追加武裝依然能維持良好的可動範圍與展示穩定性，零件分色與細節刻畫延續RG系列高水準。對於已收藏標準版RG νGundam、想進一步重現HWS強化規格的鋼普拉玩家而言，本商品是不可或缺的擴充配件。",
-    reviews: [],
+    reviews: [
+      {
+        title: "RG νガンダム用 HWS拡張セット レビュー",
+        url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/rg-%CE%BD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0hws",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -16318,7 +16436,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/rg-nu-gundam-double-fin-funnel-expansion-parts.jpg",
     tags: ["ガンダム", "RG", "1/144", "νガンダム", "BANDAI SPIRITS", "逆襲のシャア", "P-Bandai限定", "フィンファンネル", "擴充零件"],
     description: "νGundam搭載的浮游砲「Fin Funnel」是《機動戰士鋼彈：逆襲的夏亞》全系列最具代表性的武裝設定之一，設定畫集中亦有拿掉右肩光束軍刀掛架、改為雙掛架搭載共12枚Fin Funnel的「雙翼」強化構型，象徵阿姆羅專用機火力配置的極致型態。本商品是Premium Bandai於2019年較早推出的RG擴充零件套組（不含νGundam本體），需另購RG 1/144 νGundam基礎套件搭配組裝，內容為將標準版右肩光束軍刀掛架替換為第二組Fin Funnel掛架的追加零件，讓玩家能以較低成本將手邊已有的RG νGundam升級改裝為雙浮游砲構型。相較於後續2024年以「GUNDAM SIDE-F」福岡復刻展示企劃為名、重新設計頭部與多處零件推出的完整強化版本（RX-93ff），本擴充零件組規模較為精簡，單純聚焦於Fin Funnel掛架的雙裝化，是兩款雙翼νGundam商品中價格較親民、性質偏向「輕量升級」的一款，對於已擁有標準版RG νGundam的玩家而言是划算的擴充選擇。",
-    reviews: [],
+    reviews: [
+      {
+        title: "【ガンプラ】RG νガンダム用ダブル・フィン・ファンネル拡張ユニット レビュー【プレバン】",
+        url: "https://gunplapocchi.com/rg-nu-gundam-double-fin-funnel/",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -16337,8 +16461,20 @@ export const collection: CollectibleItem[] = [
     manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/1000202709.pdf",
     tags: ["鳥人戦隊ジェットマン", "テトラボーイ", "SMP", "食玩", "BANDAI", "スーパー戦隊", "P-Bandai限定"],
     description: "《鳥人戦隊ジェットマン》（1991）是超級戰隊系列第15作，也是該系列首度嘗試以濃厚戀愛喜劇元素貫穿主線敘事的作品，五位主角因意外獲得鳥類特徵超能力而組成戰隊，劇中錯綜複雜的多角戀情節在當年掀起話題，長年被粉絲譽為戰隊系列敘事層面的高峰之作。テトラボーイ是劇中登場的巨大機器人，藍白配色搭配頭部醒目的紅色羽冠造型，可變形為「テトラバスター」形態，並能與另外販售的「ジェットイカロス」、「ジェットガルーダ」等機體合體，構成劇中更龐大的合體機構，是《ジェットマン》機體體系中重要的組成部分。本商品是「SMP（食玩模型計畫）」系列推出的食玩塑膠組裝模型，屬於Premium Bandai限定通路商品，忠實重現テトラボーイ藍白為主調的機甲造型與複雜的變形機構，下半身可動關節設計講究，兼顧食玩商品線的親民定位與模型愛好者對於細節、組裝及變形樂趣的要求。作為SMP系列少見聚焦特攝戰隊機體題材的商品之一，對《ジェットマン》系列粉絲與特攝機體收藏者而言，是能與其他機體合體擴充玩法的重要周邊。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "【SMP・テトラボーイ】改修＆塗装済み完成版レビュー！！",
+        url: "https://nodokalife.com/tetraboy",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "変形！テトラバスター！【鳥人戦隊ジェットマン SMPテトラボーイ】ヲタファのミニプラレビュー / SMP Jetman TETRA BOY",
+        url: "https://www.youtube.com/watch?v=jlOr03_i9pg",
+        lang: "ja",
+      },
+    ],
   },
   {
     id: "gx32sp-gold-lightan-50th",
@@ -16380,8 +16516,20 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-f90ii-i-type.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90II", "I-Type", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點。「F90II」是F90二號機的衍生規格，本商品即是以F90II機身搭配「I型」任務背包（木星戰仕様／近距離格鬥取向配置）預先組合完成的完整套件——相較於另售的「Mission Pack I-Type」擴充零件組需要玩家自備F90II本體才能組裝，本商品是包含機體本體與I型裝備的一體化完整商品，開箱即可直接組裝出I型配備的完整F90II形態，不需額外購買本體套件。套件延續F90系列精密的骨架可動結構與硬點模組化設計，I型裝備標誌性的大型爪型格鬥武裝與追加推進裝置皆完整收錄，塗裝分色與細節密度維持MG系列一貫水準。對於不想額外拼湊本體與擴充零件、傾向直接入手完整成品的玩家而言，本商品是收藏F90II I型構型最直接便利的選擇。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "[ Review ] - MG 1/100 - F90II Gundam / F90II I-Type",
+        url: "https://suprememecha.blogspot.com/2020/07/review-mg-1100-f90ii-gundam-f90ii-i-type.html",
+        lang: "en",
+      },
+    ],
+    youtube: [
+      {
+        title: "MG 1/100 Gundam F90II I-Type Review",
+        url: "https://www.youtube.com/watch?v=oLSGYtdk5hA",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "mg-f90iiiy-cluster-gundam",
@@ -16399,7 +16547,18 @@ export const collection: CollectibleItem[] = [
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "シルエットフォーミュラ91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "クラスターガンダム", "BOX0007"],
     description: "《シルエットフォーミュラ91》是《機動戰士高達F90》Formula91企劃延伸的漫畫/設定集企劃，進一步擴充F90系列機體在小說與漫畫媒體中的世界觀，「クラスターガンダム（集束鋼彈）」正是此企劃衍生出的特殊機體之一。本商品「F90ⅢY」設定上是以尚未完工的F90三號機為基礎、搭配「Y型（YOUNG STAR）」任務背包強行整合而成的應急構型，機體核心搭載可獨立分離的核心戰機「Core Fighter F90III」，能與背部推進裝置合體組成「Core Booster F90III」，呈現F90系列一貫的模組化與分離合體設計巧思。套件骨架延續F90系列精密可動結構，核心戰機的分離、對接機構是本商品在組裝與把玩層面的最大亮點，機身塗裝與細節分色亦維持MG系列一貫高水準。作為F90企劃衍生設定中話題度較高、也是近年才推出的新規格商品，本商品對於熱衷收集Formula91與其衍生企劃各式機體構型的鋼普拉玩家而言，是相當具代表性的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Shelf Space Unboxing: MG F90IIIY Cluster Gundam",
+        url: "https://www.youtube.com/watch?v=WsIsfiobk4w",
+        lang: "en",
+      },
+      {
+        title: "P-BANDAI DOES IT AGAIN! MG F90IIIY Unboxing and Review [4K]",
+        url: "https://www.youtube.com/watch?v=1xqhcbX9xtA",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "nendoroid-hatsune-miku-15th-anniversary",
