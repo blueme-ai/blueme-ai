@@ -19053,8 +19053,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-grendizeru-spazer.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "グレンダイザーU", "グレンダイザー", "スペイザー", "永井豪", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《グレンダイザーU》是永井豪原作經典機器人動畫《UFOロボ グレンダイザー》睽違約50年推出的重製新作動畫。スペイザー為主角機グレンダイザー的飛行支援載具，造型呈圓盤狀，可透過替換頭部與肩部零件與另售的「SMP グレンダイザーU グレンダイザー」本體合體，重現飛行待機狀態的原作經典畫面。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的Premium Bandai限定商品，2025年2月出貨，以模具原色搭配細節塗裝重現配色，並附專用展示台座，是重現新版動畫視覺魅力的合體支援機收藏品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "プレミアムバンダイ 食玩 SMP グレンダイザーU スペイザー", url: "https://msz006ysa.com/45645/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "SMP グレンダイザーU スぺイザー【プレミアムバンダイ限定】組み立て＆合体レビュー 食玩 GRENDIZER U SPAZER", url: "https://www.youtube.com/watch?v=M0oUAPDYdAs", lang: "ja" },
+    ],
   },
   {
     id: "smp-ideon-hatsudouset-renewal",
@@ -19289,8 +19293,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-goldran.jpg",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "黄金勇者ゴルドラン", "ゴルドラン", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《黄金勇者ゴルドラン》是SUNRISE勇者系列1995年作品，第6作，描寫三名少年與黃金龍族夥伴冒險的故事，風格較系列其他作品更加輕鬆明快。ゴルドラン由少年駕駛的超級跑車「ドラン」變形為人型機器人，再與黃金龍夥伴「ゴルゴン」合體而成，眼部採用透明紅色零件呈現生命感，並可重現張口、利爪等細節造型。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的Premium Bandai限定商品，2025年7月28日發售，具備寬廣可動域，能重現原作充滿躍動感的戰鬥姿勢，是勇者系列SMP陣容持續擴充的重要一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "【徹底レビュー】SMP [SHOKUGAN MODELING PROJECT] 黄金勇者ゴルドラン", url: "https://shishioh.info/SMP_GOLDRAN_1.php", lang: "ja" },
+      { title: "【黄金の力守りし勇者よ】7月28日(月)発売！SMP 黄金勇者ゴルドラン 製品版レビュー", url: "https://bandaicandy.hateblo.jp/entry/20250725_smp2", lang: "ja" },
+    ],
+    youtube: [
+      { title: "『組立』SMP 黄金勇者ゴルドラン 開封 BRAVE OF GOLD GOLDRAN transformation assembly", url: "https://www.youtube.com/watch?v=Wv2j8lAltIw", lang: "ja" },
+      { title: "変形合体ギミックをじっくり解説！【SMP 黄金勇者ゴルドラン】ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=EC0JAV_894U", lang: "ja" },
+    ],
   },
   {
     id: "mg-providence-gundam-standard",
@@ -19331,8 +19341,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-providence-gundam-premium-edition.jpg",
     tags: ["機動戦士ガンダムSEED", "プロビデンスガンダム", "MG", "マスターグレード", "ガンプラ", "Premium Edition", "Rau Le Creuset"],
     description: "《機動戰士鋼彈SEED》為2002年播出的新世紀鋼彈系列作品，以Coordinator與Natural的衝突為主軸。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色Rau Le Creuset駕駛，背部搭載大型DRAGOON System無線遙控射擊兵器群，是ZAFT陣營技術結晶的最強試驗型MS之一。本商品為MG系列的G.U.N.D.A.M. Premium Edition，採用特別設計的鋼彈系列紀念底座與水轉印貼紙，箱蓋設計特殊、側面印有劇中台詞，為初回限量的高規格包裝版本，是SEED系列鋼普拉收藏中的稀少版本。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MGプロヴィデンスガンダムプレミアムエディション レビュー", url: "https://schizophonic9.com/re4/mg_providence.html", lang: "ja" },
+      { title: "MG プロヴィデンスガンダム G.U.N.D.A.M. プレミアムエディション レビュー", url: "https://schizophonic9-2.com/blog-entry-3078.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "プロヴィデンスガンダム【MG】製作01開封！プレミアムエディション！G団のガンプラ製作動画", url: "https://www.youtube.com/watch?v=Awk9bYtG7Ac", lang: "ja" },
+    ],
   },
   {
     id: "furyu-fnex-alicereise-lou-nebulis-ix",
@@ -19349,7 +19364,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/furyu-fnex-alicereise-lou-nebulis-ix.jpg",
     tags: ["キミと僕の最後の戦場、あるいは世界が始まる聖戦", "アリスリーゼ・ルゥ・ネビュリス9世", "FuRyu", "F:NEX", "1/7", "冰禍魔女"],
     description: "《你與我最後的戰場，或是世界重生的聖戰》描繪帝國最強劍士伊斯卡與涅比里斯皇廳皇女阿麗絲莉婕之間亦敵亦友的複雜關係，是近年輕小說改編動畫的人氣作品。阿麗絲莉婕・盧・涅比里斯九世身為涅比里斯皇廳第二皇女，同時是令帝國聞風喪膽的最強星靈使「冰禍魔女」。本商品為FuRyu旗下高階美少女品牌「F:NEX」推出的1/7比例塗裝完成品，全高約235mm，以小說第一卷封面插畫為藍本，飄逸金髮與華麗禮服的動態捕捉細膩，呈現角色高貴又充滿力量感的一面，是本作粉絲值得收藏的代表性商品之一。",
-    reviews: [],
+    reviews: [
+      { title: "F:NEXから『キミ戦』アリスリーゼ・ルゥ・ネビュリス9世が圧倒的美麗造形でフィギュア化！", url: "https://fanblogs.jp/figno1/archive/791/0", lang: "ja" },
+      { title: "風になびく髪と衣装の造形美！「キミ戦」より「アリスリーゼ・ルゥ・ネビュリス9世」のフィギュアが予約受付中", url: "https://hobby.watch.impress.co.jp/docs/news/1311131.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19367,8 +19385,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/kotobukiya-azur-lane-centaur.jpg",
     tags: ["アズールレーン", "Azur Lane", "セントー", "Centaur", "コトブキヤ", "KOTOBUKIYA", "1/7"],
     description: "《碧藍航線》是以擬人化艦船為主題的人氣手機遊戲，各角色以歷史軍艦為原型，結合華麗美術風格深受玩家喜愛。セントー（Centaur）為英國輕型航空母艦擬人角色，以Tony負責的角色設計為基礎。本商品為KOTOBUKIYA推出的1/7比例塗裝完成品，全高約290mm，以透明素材與珍珠塗裝表現飄逸金髮與角色空靈氣質，船艦弓部細節參考真實船纜索具製作，底座設計呈現海浪飛濺造型，是碧藍航線系列雕像中頗具代表性的一款。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "コトブキヤ アズールレーン セントー レビュー", url: "https://freetime.mixh.jp/2019/09/23/post-14785/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "[おっぱい]アズールレーン セントー コトブキヤ [フィギュア 開封 ]", url: "https://www.youtube.com/watch?v=p03UiPfNOik", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-heavyarms-custom-ew",
@@ -19385,8 +19407,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-heavyarms-custom-ew.jpg",
     tags: ["新機動戦記ガンダムW", "Endless Waltz", "ガンダムヘビーアームズ改", "MG", "マスターグレード", "ガンプラ", "トロワ・バートン"],
     description: "《新機動戰記鋼彈W Endless Waltz》為《鋼彈W》電影版續篇，重新設計五飛翼機體造型，強化戰甲質感與武裝細節。XXXG-01H2 Gundam Heavyarms Custom EW是駕駛員特羅瓦·巴頓的座機，以雙臂裝備的加特林機炮與胸部四門加農炮（原作為兩門）著稱，全身武裝密度極高，是鋼彈W系列中火力最強悍的機體之一。本商品為MG系列重新開模版本，新造型武裝零件完整重現機體重裝甲的視覺魅力，並附有象徵特羅瓦身份的小丑面具零件，是鋼彈W粉絲喜愛的經典kit之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "MGガンダムヘビーアームズ改EW", url: "https://schizophonic9.com/re4/mg_heavyarmscustom.html", lang: "ja" },
+      { title: "MGガンプラのガンダムヘビーアームズ改EW版レビュー", url: "https://xbuild.site/reviews/mg-heavyarmskai-ew/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "もはや動く武器庫！MGガンダムヘビーアームズEWが最高ｗ【フルプラ工場】", url: "https://www.youtube.com/watch?v=noqa-M2zsgI", lang: "ja" },
+    ],
   },
   {
     id: "kdcolle-alpha-dress-ver",
@@ -19403,8 +19430,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/kdcolle-alpha-dress-ver.jpg",
     tags: ["陰の実力者になりたくて！", "The Eminence in Shadow", "アルファ", "KDcolle", "KADOKAWA", "1/7", "シャドウガーデン"],
     description: "《陰の実力者になりたくて！》講述自認「暗影貴族」的主角席德暗中培養的組織「影之庭園」，其成員各自懷抱對席德的絕對信仰，以中二幻想與熱血冒險交織的獨特風格廣受歡迎。阿爾法為影之庭園七陰之首席，實質統籌組織運作，性格冷靜幹練又對席德抱持狂熱忠誠。本商品為KADOKAWA旗下KDcolle推出的1/7比例塗裝完成品，以新繪禮服插畫為藍本，深開衩剪裁展現角色俐落身形與優雅氣場，全高約240mm，是本作立體化商品中人氣極高的一款。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "ドレスからのぞく美脚に釘付け！「陰の実力者になりたくて！」アルファのフィギュアが登場", url: "https://animeanime.jp/article/2023/01/08/74687.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【Kdcolle】「陰の実力者になりたくて！」アルファ ドレスver.", url: "https://www.youtube.com/watch?v=d85PUYUyYCo", lang: "ja" },
+    ],
   },
   {
     id: "va-aoi-ogre-an21-2022",
@@ -19422,7 +19453,10 @@ export const collection: CollectibleItem[] = [
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "オウガ", "OGRE AN-21", "ブリード・カガ", "MegaHouse", "Variable Action", "AOI ZIP FORMULA", "5号車"],
     description: "《新世紀GPX サイバーフォーミュラ》系列以未來賽車競技為舞台，融合機甲變形與熱血競速元素，是90年代經典賽車動畫代表作。OGRE AN-21為賽車手布利德・卡加所駕駛的5號賽車，隸屬AOI ZIP FORMULA車隊，在《SIN》篇章最終擊敗主角隼人．風見奪得世界冠軍。本商品為MegaHouse「Variable Action Hi-SPEC」系列作品，1/18比例，可完整變形展現賽道模式、鏡像迴轉模式、空力模式等五種形態，並附透明可動零件與展示台座，本次為紀念2022年第17屆世界冠軍紀念版包裝。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【沒喬老師開箱】變形就爆！閃電霹靂車 AN-21 凰呀 MEGAHOUSE HI-SPEC ｜Mr.Joe Hobby.tv", url: "https://www.youtube.com/watch?v=L25N2oFlgtU", lang: "zh" },
+      { title: "[Variable Action Hi-Spec] Aoi Ogre AN-21: Review", url: "https://www.youtube.com/watch?v=uq73rGTiKG0", lang: "en" },
+    ],
   },
   {
     id: "va-ogre-an21-livery-dx",
@@ -19536,7 +19570,9 @@ export const collection: CollectibleItem[] = [
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada", "VISION ASURADA", "MegaHouse", "Variable Action", "30周年"],
     description: "《新世紀GPX サイバーフォーミュラ》为SUNRISE代表性的未來賽車動畫，機械設計出自川元正治之手，阿斯拉達（Asurada）系列賽車為系列核心象徵。VISION ASURADA為紀念系列30周年推出的全新繪製構想版本，並非既有劇情機體，而是以「假若未來阿斯拉達會如何進化」為概念重新設計。本商品為MegaHouse「Variable Action Variations」系列作品，具備升降增壓艙、賽道模式與空力模式零件替換、效果扇葉展開等豐富機構玩法，是收藏家眼中極具話題性的周年紀念商品之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "新マシン・ヴィジョンアスラー見参！【メガハウス ヴァリアブルアクションバリエーションズ【MEGAHOUSE VARIABLE ACTION VARIATIONS VISION ASURADA】", url: "https://www.youtube.com/watch?v=izrlcSTC3Ng", lang: "ja" },
+    ],
   },
   {
     id: "va-super-asurada-01-ver2",
@@ -19589,8 +19625,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-super-asurada-akf11-livery.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ11", "Cyber Formula", "アスラーダ", "スーパーアスラーダAKF-11", "隼人・風見", "Hayato Kazami", "MegaHouse", "Variable Action", "Livery Edition", "Sugo"],
     description: "《新世紀GPX サイバーフォーミュラ11》中，隼人・風見駕駛SUPER ASURADA AKF-11成為史上最年輕的二連霸世界冠軍，是阿斯拉達系列中戰績最輝煌的機體之一，隸屬Sugo Asurada車隊、車號1，以俐落造型搭配醒目黃色塗裝著稱。本商品為MegaHouse「Variable Action」系列陣容中第四彈「Livery Edition」限定塗裝版，忠實呈現SUPER ASURADA AKF-11俐落造型與醒目黃色塗裝，搭配獨特賽車標誌與精緻塗裝呈現「雙冠王」之名的實至名歸，可透過零件替換於賽道模式與空力模式間切換，並具備升降增壓艙、效果扇葉等機構，是雙冠王座機的紀念版收藏。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "「栄光のダブルワン」へと導いた名機が生まれ変わる！『サイバーフォーミュラ』ヴァリアブルアクション スーパーアスラーダAKF-11が「-Livery Edition-」でフィギュア化！", url: "https://hobby.dengeki.com/news/2291072/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【#サイバーフォーミュラ】「スーパーアスラーダAKF-11」が「-Livery Edition-」の第四弾として登場！", url: "https://www.youtube.com/watch?v=WPwIZXLnpV4", lang: "ja" },
+    ],
   },
   {
     id: "threezero-asurada-gsx-30th",
@@ -19608,7 +19648,10 @@ export const collection: CollectibleItem[] = [
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada G.S.X", "threezero", "MegaHouse", "threeMega", "Variable Action", "30周年", "30th Anniversary"],
     description: "《新世紀GPX サイバーフォーミュラ》系列首部作主戰機体阿斯拉達G.S.X，是整個系列的原點與人氣象徵。為紀念動畫30週年，threezero與MegaHouse組成合作品牌「threeMega」，由threezero創意總監Kelvin Sau操刀重新設計，保留原版阿斯拉達G.S.X經典輪廓，同時加入更精密的機械表面細節與結構層次，是Hi-SPEC「UNITED」系列首發作品。本商品比例更大、細節密度更高，兼具懷舊情懷與現代玩具工藝，是阿斯拉達系列收藏中規格最高的版本之一，深受長年粉絲喜愛。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[魔玩模型] 史上最精緻!! 閃電霹靂車 阿斯拉GSX 初代阿斯拉｜Megahouse x threezero Asurada G.S.X Hi-SPEC 新世紀GPXサイバーフォーミュラ", url: "https://www.youtube.com/watch?v=v07dUk5h6L0", lang: "zh" },
+      { title: "【玩具開箱】高智能方程式 threezero megahouse 兩大品牌攜手呈獻 cyber formula asurada g.s.x 阿斯拉達 今天的我沒有極限 閃電霹靂車 三人眾TV", url: "https://www.youtube.com/watch?v=XLLM8mqdMJY", lang: "zh" },
+    ],
   },
   {
     id: "mega-chogokin-scudregard-livery",
@@ -19643,8 +19686,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dlx-iron-man-mk22-hotrod.jpg",
     tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "Iron Man 3", "Hot Rod", "可動", "合金"],
     description: "《鋼鐵人3》中東尼・史塔克啟動「別墅派對協議」召喚出大量鋼鐵人戰甲齊聚應戰，其中Mark XXII「Hot Rod」以美式肌肉車塗裝為設計靈感，紅黑金屬烤漆搭配火焰紋飾，是眾多House Party戰甲中辨識度極高的一款，象徵東尼武裝庫存的多樣性與玩心。本商品為threezero DLX系列作品，機身高約17.5公分，採DLX壓鑄合金骨架系統並具備48處可動關節，眼部與胸口方舟反應爐內建LED發光功能，附多款可替換手型與特效配件及展示台座，是Iron Man 3戰甲收藏中極具個性的一員。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "Marvel DLX Iron Man Hot Rod Armor Figure by ThreeZero", url: "https://www.toyark.com/2025/03/28/marvel-dlx-iron-man-hot-rod-armor-figure-by-threezero-559944", lang: "en" },
+    ],
+    youtube: [
+      { title: "DLX Iron Man Mark 22 \"Hot Rod\" / Marvel Studios: The Infinity Saga / ThreeZero", url: "https://www.youtube.com/watch?v=Iqa7jbc98sg", lang: "en" },
+    ],
   },
   {
     id: "va-night-saber-005-livery",
