@@ -5273,8 +5273,12 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/zoids-az06ex-phoenix-republic.jpg",
     tags: ["ゾイド", "ライガーゼロフェニックス", "AZ-06EX", "タカラトミー", "1/72", "タカラトミーモール限定", "オプションパーツ"],
     description: "フェニックスユニット是ライガーゼロ系列中以火鳥（不死鳥）為造型意象的強化武裝套件，安裝後可將ライガーゼロ升格為「ライガーゼロフェニックス」形態，是ZOIDS世界觀中新生共和國陣營運用的高階強化裝備之一，象徵浴火重生、飛翔戰場的威猛意象，也是系列中人氣長期居高不下的強化形態之一。\n\n本品為「AZ-06 ライガーゼロフェニックス」火鳥型武裝「フェニックスユニット」的共和国仕様色替單售版，需搭配另售的AZ系列ライガーゼロ素體（AZ-02或AZ-06）組合使用，方能完整重現ライガーゼロフェニックス共和国仕様形態。合體時翼部可隨步行動作連動上下擺動，重現振翅欲飛的動態效果，惟搭配AZ-02素體時翼部連動機構不會作動，僅能靜態展示。本品另附屬1/72比例未塗裝駕駛人偶，供玩家自行組裝上色，是AZ系列強化擴充商品中還原度頗高的一款，對熱衷收集不同強化形態的玩家極具吸引力。整體而言，本商品讓玩家得以在既有ライガーゼロ素體基礎上，體驗火鳥型強化武裝帶來的造型與機構變化，是豐富AZ系列收藏層次的重要擴充選項之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "ゾイド AZ-06EX フェニックス 共和国仕様 Review | Toy People", url: "https://www.toy-people.com/en/?p=96035", lang: "en" },
+    ],
+    youtube: [
+      { title: "ゾイド AZ-06EX フェニックス 共和国仕様 開封動画", url: "https://www.youtube.com/watch?v=2iauYvI06_o", lang: "ja" },
+    ],
   },
   {
     id: "zoids-az10ex-sea-panther-dark-army",
@@ -5291,7 +5295,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/zoids-az10ex-sea-panther-dark-army.jpg",
     tags: ["ゾイド", "シーパンツァー", "AZ-10EX", "タカラトミー", "1/72", "T-SPARK ZONE限定"],
     description: "シーパンツァー是ZOIDS系列中以寄居蟹（ヤドカリ）為原型的水陸両用機體，在系列眾多陸戰、飛行機體中獨具甲殻類的特殊辨識度。暗黒軍為《ゾイドバトルストーリー》世界觀中曾一度威脅共和國與帝国雙方勢力的神秘軍事組織，其麾下機體多以深沉色調呈現陰謀與威脅感，在故事中扮演攪亂戰局的第三方勢力角色。\n\n本品為「AZ-10 シーパンツァー」的T-SPARK ZONE流通限定色替版，以暗黒軍設定為靈感採用黑色為基底塗裝，腳部及感應眼部零件另使用蓄光素材，闇夜中會發出微光，強化陰暗詭譎的氛圍。機構上延續電動馬達步行機構，重現寄居蟹特有的橫向爬行步態；套組並附屬未塗裝一般兵士人偶，供玩家自行組裝上色重現暗黒軍士兵形象。作為系列中少見的甲殻類型機體限定色替版，本品在ZOIDS收藏圈中具備一定的話題性與稀有度，也是暗黒軍設定愛好者的重點收藏對象。整體而言，本商品以少見的暗黒軍設定角度重新詮釋シーパンツァー，為系列色替商品增添陰暗神秘的另一種收藏樂趣，也讓玩家得以一窺《ゾイドバトルストーリー》中第三方勢力的機體美學。",
-    reviews: [],
+    reviews: [
+      { title: "ゾイド AZ-10EX シーパンツァー 暗黒軍仕様 開箱評測 | 玩具人", url: "https://child.gasemedaka.com/t-spark-zone-zoids-az-10ex-sea-panzer/", lang: "zh" },
+    ],
     youtube: [],
   },
   {
@@ -8991,7 +8997,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/dx-chogokin-vf171-nightmare-plus-general-armored-parts.jpg",
     tags: ["MACROSS0005@中壢收多易", "マクロス", "マクロスF", "VF-171", "ナイトメアプラス", "一般機", "アーマードパーツ", "オプションパーツ", "DX超合金", "Bandai"],
     description: "《マクロスF》中量產型VF-171夢魘型是新統合宇宙軍過渡期主力戰機，在正式主角機VF-25服役前擔負艦隊護衛與前線戰鬥任務，性能雖不及主角專屬機顯眼，卻是支撐艦隊防衛體系的中堅力量。本品為DX超合金VF-171ナイトメアプラス（一般機）本體的追加裝甲擴充套件，屬純選配零件包，不含機體本身，須另行購入對應本體方能組裝使用。裝備後可在戰機、GERWALK、機甲人形三種形態下同步重現機體加裝重裝甲後的強化戰鬥外觀，呼應原作中戰機因應激烈戰況追加武裝的設定，讓一般機色版本也能享有接近專用機的份量感與武裝密度，視覺張力大幅提升。此類擴充零件組多透過魂ウェブ商店等官方通路限定販售，未隨本體常態鋪貨，需把握官方開放購入的期間才能入手，對於希望收藏完整形態的玩家而言屬於必要組件，也因限定性而在二手市場流通有限，具備一定稀有度與收藏門檻，是量產機色系列中相對少見的擴充商品。",
-    reviews: [],
+    reviews: [
+      { title: "DX超合金 VF-171 ナイトメアプラス（一般機）用アーマードパーツ レビュー | アメブロ", url: "https://ameblo.jp/minamikata-higashikata/entry-11522125058.html", lang: "ja" },
+      { title: "DX超合金 VF-171 ナイトメアプラス（一般機）用アーマードパーツ レビュー | ラムネ模型記", url: "http://lamune-msj.seesaa.net/article/318625385.html", lang: "ja" },
+    ],
     youtube: [
       { title: "【マクロス玩具レビュー】DX超合金 VF-171 ナイトメアプラス（一般機）／ VF-171 Nightmare Plus", url: "https://www.youtube.com/watch?v=hbaKkp7iZdM", lang: "ja" },
     ],
@@ -11955,7 +11964,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/heatpanda-asuka-1-4.jpg",
     tags: ["新世紀エヴァンゲリオン", "式波・アスカ・ラングレー", "美少女フィギュア", "1/4", "中國品牌"],
     description: "《新世紀エヴァンゲリオン》是1995年播出、由庵野秀明執導的劃時代科幻動畫作品，描寫少年少女駕駛人形決戰兵器「EVA」對抗名為「使徒」的謎樣敵人，並深入探討角色內心創傷與人際關係的複雜命題，是動畫史上影響力最深遠的作品之一。式波・明日香・蘭格雷（Asuka Langley Shikinami）是劇中重要女主角之一，個性好強自信卻內心脆弱，駕駛專屬機體「第參號機（310號機）」，其鮮明的角色魅力使她長年位居該作人氣角色前列，也是周邊商品化最頻繁的角色之一。本商品為中國廠牌BearPanda旗下「HeatPanda」品牌推出的1/4大比例手辦，全高約410mm，採用PVC＋ABS材質製作，並附金屬銘牌提升收藏質感。造型忠實重現經典310號機駕駛服造型，紅色緊身服凸顯角色鮮明的視覺識別度，搭配招牌雙馬尾髮型完整重現角色標誌性外觀，是明日香周邊收藏中份量感十足、適合作為展示焦點的大型商品化作品。近年中國廠牌積極投入《EVA》等經典日系IP的大比例手辦開發，本商品即以扎實的比例與細節工藝，展現該品牌在授權角色商品化上的用心程度。",
-    reviews: [],
+    reviews: [
+      { title: "新世紀福音戰士 式波・明日香・蘭格雷 1/4比例手辦 開箱評測 | 搜狐", url: "https://www.sohu.com/a/911472276_695590", lang: "zh" },
+    ],
     youtube: [],
   },
   {
@@ -13243,8 +13254,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gx26-doublas-m2.jpg",
     tags: ["合金0002", "マジンガーZ", "ダブラスM2", "機械獣", "超合金魂", "Bandai", "TAMASHII NATIONS"],
     description: "《マジンガーZ》是永井豪原作的初代巨大機器人動畫經典，劇中反派赫爾博士率領機械獸軍團向主角機マジンガーZ發起一波波挑戰，構成系列早期最主要的戰鬥張力來源。「ダブラスM2」正是劇中登場的代表性機械獸之一，以尖銳誇張的裝甲造型與強烈反派存在感，成為粉絲心中初代機械獸圖鑑中辨識度極高的一員。本商品收錄於「超合金魂」機械獸系列商品線，頸部設計可動，能重現原作中機械獸特有的挑釁與攻擊姿態，賦予靜態模型更多戲劇張力。塗裝方面採用粉紅與黑色相間的醒目撞色配置，忠實呈現原作設定中略帶詭異又不失視覺衝擊力的獨特配色美學，與マジンガーZ本體正義凜然的形象形成強烈對比。作為「超合金魂」機械獣系列延伸商品之一，本作品讓玩家得以收藏正義主角機以外、同樣具備高辨識度的經典反派機體，補齊初代機器人動畫世界觀的重要一角。本商品體現「超合金魂」系列近年持續深耕マジンガーZ機械獸圖鑑的企劃方向，透過反派機體的立體化補完初代作品的完整世界觀陣容，對於致力收齊整套機械獸系列的資深藏家而言，是不可或缺的一件收藏品。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "超合金魂 GX-26 機獣ダブラスM2 レビュー | toroplus", url: "https://toroplus.blog/tyougoukinn-spirit/gx25r-garda_k7-gx26r-dabras_m2/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "超合金魂 GX-26 機獣ダブラスM2 開封動画", url: "https://www.youtube.com/watch?v=nRmLGtKGDa0", lang: "ja" },
+      { title: "超合金魂 GX-26 機獣ダブラスM2 開封動画", url: "https://www.youtube.com/watch?v=T9JGIo_so-0", lang: "ja" },
+    ],
   },
   {
     id: "gx25-garada-k7",
@@ -13261,8 +13277,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gx25-garada-k7.jpg",
     tags: ["合金0002", "マジンガーZ", "ガラダK7", "機械獣", "超合金魂", "Bandai", "TAMASHII NATIONS"],
     description: "《マジンガーZ》劇中登場的機械獸軍團是赫爾博士對抗主角機的主要戰力來源，「ガラダK7」是其中初期登場的代表性機械獸之一，也是「超合金魂」系列「機械獣」立體化企劃的第一彈作品，具備一定的系列開創意義。作為マジンガーZ初期劇情中令主角吃盡苦頭的強敵之一，ガラダK7以頭部鐮刀狀武裝與銀色機身搭配醒目的紅色火焰彩繪紋樣著稱，塑造出兼具野獸感與機械感的獨特反派形象。本商品完整重現原作設定，頭部招牌鐮刀武裝可自由拆卸，方便玩家重現機體展開攻擊與收納待機兩種不同姿態。銀色機身塗裝搭配手繪質感的紅色火焰紋樣，忠實還原原作賽璐璐畫面中略帶粗獷筆觸的視覺效果，展現「超合金魂」系列一貫講究的塗裝與造型考證功力。作為系列機械獸商品線的開創之作，對喜愛蒐集マジンガーZ世界觀完整反派陣容的資深收藏者而言，具備相當重要的補完意義。本商品作為「機械獣」系列第一彈作品，開啟了後續一系列マジンガーZ反派機體立體化企劃的先河，對於關注超合金魂系列發展脈絡與初代機器人動畫反派陣容的資深收藏者而言，具備重要的系列起點意義。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "超合金魂 GX-25 機獣ガラダK7 レビュー | toroplus", url: "https://toroplus.blog/tyougoukinn-spirit/gx25r-garda_k7-gx26r-dabras_m2/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "超合金魂 GX-25 機獣ガラダK7 開封動画", url: "https://www.youtube.com/watch?v=nRmLGtKGDa0", lang: "ja" },
+      { title: "超合金魂 GX-25 機獣ガラダK7 開封動画", url: "https://www.youtube.com/watch?v=UmPpTfmOe9Q", lang: "ja" },
+    ],
   },
   {
     id: "gx32-gold-lightan",
@@ -13342,7 +13363,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "超合金魂：GX-39 バイカンフー [レビュー]", url: "https://toroplus.blog/tyougoukinn-spirit/gx39-baikanfu/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "超合金魂 GX-39 バイカンフー 開封動画", url: "https://www.youtube.com/watch?v=y8kRDbGSfh8", lang: "ja" },
+      { title: "超合金魂 GX-39 バイカンフー 開封動画", url: "https://www.youtube.com/watch?v=0WBJcMUAeAA", lang: "ja" },
+    ],
   },
   {
     id: "bf37-franky",
@@ -13359,7 +13383,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/bf37-franky.jpg",
     tags: ["合金0003", "ワンピース", "フランキー", "超合金", "Bandai"],
     description: "《ワンピース (One Piece)》是尾田榮一郎自1997年連載至今的國民級海賊冒險漫畫，描述主角魯夫一行草帽海賊團尋找傳說中「ONE PIECE」寶藏的旅程，是日本漫畫史上發行量最高的作品之一。「フランキー」是草帽海賊團的船匠，本身為改造人身軀，平時可透過切換武裝模式強化戰鬥力，其中「BF-37（バトル・フランキー37号）」即是他在魚人島篇章前後展現的強化戰鬥形態，肩部與雙臂大幅擴張為巨型機械義體，火力與防禦力大幅提升。本商品收錄於「超合金」系列，全高約190mm，肩部與雙臂大型改造義體大量採用壓鑄件成型，呈現扎實厚重的機械觸感，與角色本身「半機械改造人」的設定不謀而合。套件並可重現角色招牌必殺技「フランキー・ラジカルビーム」等經典戰鬥姿勢，讓玩家得以完整重現原作漫畫與動畫中令人熱血沸騰的戰鬥畫面，是《ONE PIECE》周邊立體商品線中兼具份量與細節的代表作之一。本商品延續「超合金」系列一貫講究的壓鑄質感與角色姿態重現精神，讓喜愛《ONE PIECE》世界觀與フランキー改造人設定的玩家，得以透過立體模型完整感受角色戰鬥形態的機械魄力與份量感。",
-    reviews: [],
+    reviews: [
+      { title: "超合金 BF-37 フランキー レビュー | AmiAmi", url: "https://www.amiami.jp/top/detail/review?gcode=FIG-IPN-2493-R", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -13377,7 +13403,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gx47-energer-z.jpg",
     tags: ["合金0003", "真マジンガー 衝撃！Z編", "エネルガーZ", "マジンガーZ", "超合金魂", "Bandai", "TAMASHII NATIONS"],
     description: "《真マジンガー 衝撃！Z編》是2009年推出的マジンガーZ重製系列作品，在忠於原作精神的基礎上，重新詮釋並補完初代マジンガーZ世界觀中未曾詳述的設定細節，「エネルガーZ」便是本作獨創、以「光子力」理論為核心打造的マジンガーZ原型機，其存在補完了マジンガーZ誕生前的技術演進脈絡。本商品以「超合金魂」系列重現這款原型機，塗裝上特別重現原作設定中「光子力熔毀」時機體灼熱通紅、瀕臨失控的視覺震撼場面，紅色調層次分明，展現超合金魂系列一貫講究的細節塗裝工藝。套件標準配備招牌交通工具「パイルダー」，重現駕駛員空中對接搭乘機體的經典設定，並附贈兩款替換駕駛員人偶——剣鉄也與兜甲児，讓玩家可依劇情場景自由替換駕駛角色，完整重現《真マジンガー》系列補完初代世界觀的獨特敘事魅力。本商品體現「超合金魂」系列近年持續深耕マジンガーZ相關重製與衍生企劃的方向，透過原型機的立體化補完系列世界觀的技術演進脈絡，對於熟悉《真マジンガー》補完設定的資深藏家而言別具意義。",
-    reviews: [],
+    reviews: [
+      { title: "超合金魂 GX-47 エネルガーZ レビュー | 鬼ニイちゃんのフィギュアブログ", url: "https://oniityan.blog.ss-blog.jp/2010-10-03-1", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -14082,7 +14110,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/animester-yuna-present-bunny.jpg",
     tags: ["原創角色", "尤娜醬", "Present Bunny", "兔女郎", "1/4", "AniMester", "SIINY", "中國品牌"],
     description: "「尤娜醬（Yuna-chan）」是由繪師BIYA所繪製的原創角色，並非既有動漫作品衍生角色，而是AniMester與SIINY兩品牌聯名企劃下誕生的原創立體化角色，主打兔女郎主題的性感手辦路線，近年在中國模型手辦市場逐漸嶄露頭角，以精緻雕工與大膽姿態設計吸引收藏者關注。本作以1/4大比例呈現，全高約48公分,在同類兔女郎主題商品中屬於較大規格，能充分展現角色身形曲線與細節雕琢。姿態上採用高難度的倒立劈腿造型，藉由誇張卻優雅的肢體語言展現角色的柔軟身段與運動感，同時保留角色招牌雙馬尾髮型作為識別特徵，兔耳與兔尾等主題元素亦一併呈現。首批特典版本附贈「追視眼」替換臉部零件，可更換為眼神略帶上揚的追視表情,增添角色情緒層次；另附原畫旋轉立牌,方便收藏者搭配展示或作為周邊擺飾，是喜愛原創角色與精緻塗裝手辦玩家值得留意的中國品牌代表作品。",
-    reviews: [],
+    reviews: [
+      { title: "甜心小兔 尤娜醬 Present Bunny Yuna-chan 開箱評測 | 巴哈姆特", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=77418", lang: "zh" },
+      { title: "甜心小兔 尤娜醬 Present Bunny Yuna-chan 開箱評測 | 巴哈姆特", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=77146", lang: "zh" },
+    ],
     youtube: [
       {
         title: "Unboxing & Reviewing Bear Panda's Yuna 1/4 Figure - Illustration by Biya",
@@ -14481,7 +14512,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/academy-gatchaman-god-phenix.jpg",
     tags: ["科学忍者隊ガッチャマン", "ゴッドフェニックス", "Academy", "タツノコプロ", "プラモデル", "韓國品牌"],
     description: "《科学忍者隊ガッチャマン》是龍之子製作於1972年播出的特攝風格科幻動畫，講述地球防衛組織科學忍者隊駕駛巨大母艦「ゴッドフェニックス」，對抗國際犯罪組織「ギャラクター」侵略地球的故事，其熱血的合體變形場面與硬派世界觀塑造，奠定了日後日本巨大機械人動畫多機合體的敘事公式，是特攝機械動畫史上具開創地位的經典之作。「ゴッドフェニックス」是科學忍者隊的主力母艦，設定上可由G-1至G-5五架戰機合體變形而成，招牌必殺技「科學忍法・火の鳥」讓機體周身噴發熊熊烈焰突破敵陣，是全系列最具代表性的視覺名場面。本商品由韓國模型大廠Academy推出，屬免上色即可完成的多色成形（MCP）拼裝套件，一般形態全長約33公分，展開「火の鳥」模式後全長超過40公分，是相當具份量感的大型商品。套件並附有重現火焰噴發效果的透明特效零件，機首飛彈可選擇收納或發射兩種狀態呈現，展示台座更內建飛彈發射按鈕機構，方便玩家重現原作經典場面。作為橫跨半世紀的特攝動畫周邊，本品不僅是懷舊玩具收藏者重溫兒時記憶的代表作品，也反映出Academy近年積極投入日本經典動畫IP授權模型開發、延續昭和特攝美學給新一代玩家的產業趨勢。",
-    reviews: [],
+    reviews: [
+      { title: "科学忍者隊ガッチャマン ゴッドフェニックス レビュー | ホビコム", url: "https://hobbycom.jp/my/5b9370e141/photo/products/110423", lang: "ja" },
+    ],
     youtube: [
       {
         title: "【科学忍者隊ガッチャマン】 ゴッドフェニックス プラモデル〈素組み篇〉 GATCHAMAN GOD PHOENIX Plastic Models",
@@ -15440,7 +15473,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-shiranui-flare.jpg",
     tags: ["hololive", "不知火フレア", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "不知火フレア（Shiranui Flare）是VTuber事務所hololive production 3期生成員，設定為擁有精靈耳朵特徵的隱居森林少女，個性溫柔療癒又不失搞怪幽默，其充滿治癒感的嗓音與直播風格使她擁有廣大粉絲群，是hololive 3期生成員中極具代表性的一位。本商品重現她招牌的橙金色系長髮與精靈尖耳造型，白色系連身洋裝搭配藍色蝴蝶結與披肩的清新配色，將原作插畫中充滿自然氣息的角色形象轉化為Q版比例後依然保有鮮明辨識度。造型姿態雙手張開展現角色開朗親和的性格特質，表情零件設計兼顧溫柔療癒與活潑俏皮兩種面向，讓收藏者能重現她直播中不同情境下的多變魅力。作為hololive 3期生成員周邊收藏中發售時間較晚、規格與塗裝工藝都相對成熟的一款，本商品服裝細節與髮絲光澤處理皆屬同期Nendoroid中上乘水準，對精靈系角色愛好者而言是不可錯過的收藏品。",
-    reviews: [],
+    reviews: [
+      { title: "ねんどろいど 不知火フレア レビュー | AmiAmi", url: "https://www.amiami.jp/top/detail/review?gcode=FIGURE-148124", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -15653,7 +15688,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-nakiri-ayame.jpg",
     tags: ["hololive", "百鬼あやめ", "Good Smile Company", "ねんどろいど", "VTuber", "GSC0001"],
     description: "百鬼あやめ（Nakiri Ayame）是VTuber事務所hololive production 2期生成員，設定為妖豔優雅的鬼族少女，招牌是她獨具特色的沙啞嗓音與略帶隨性慵懶的直播風格，出道以來以獨樹一格的個人魅力累積大量死忠粉絲，是hololive 2期生成員中辨識度極高的一位。本商品重現她招牌的白髮與鬼族犄角造型，搭配招牌般若面具與和風武士裝束，標配「羅剎」與「阿修羅」雙劍武裝配件，以及吉祥物「ぽよよ」迷你公仔等豐富選配小物，充分呼應她直播中充滿妖異美學的角色設定。整體造型融合和風與奇幻元素，紅黑配色的武裝細節與犄角光澤處理講究，將原作插畫中妖豔又充滿力量感的鬼族形象轉化為Q版比例後依然保留獨特氣場。作為hololive 2期生成員周邊收藏中規格較高的一款，本商品配件豐富度與塗裝工藝均屬同期Nendoroid中上乘水準，深受VTuber周邊收藏者青睞。",
-    reviews: [],
+    reviews: [
+      { title: "ねんどろいど 百鬼あやめ レビュー | Impress Watch", url: "https://hobby.watch.impress.co.jp/docs/news/1483368.html", lang: "ja" },
+      { title: "ねんどろいど 百鬼あやめ レビュー | 電撃ホビーウェブ", url: "https://hobby.dengeki.com/news/1676833/", lang: "ja" },
+    ],
     youtube: [
       {
         title: "Nendoroid: Nakiri Ayame Unboxing & Review (Hololive)",
@@ -15682,7 +15720,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/nendoroid-chisato-nishikigi.jpg",
     tags: ["リコリス・リコイル", "錦木千束", "Good Smile Company", "ねんどろいど", "GSC0001"],
     description: "《リコリス・リコイル》是2022年播出的原創動畫，描寫表面經營咖啡廳、實則暗中執行維安任務的少女特務組織「リコリス」成員，錦木千束與井ノ上たきな聯手化解各種危機的故事，其精緻的動作場面與細膩的兩人組情誼刻畫在播出當時引發廣大迴響，是近年原創動畫中人氣與話題性都名列前茅的代表作。錦木千束是本作女主角，表面總是開朗樂天、笑容燦爛，實則身懷絕佳戰鬥實力與複雜身世，這種反差正是她廣受歡迎的核心魅力所在。本商品取材自她招牌的深紅色系制服造型，標配三種表情零件、可拆卸的挎包與智慧型手機配件，並附特殊手臂零件可重現她招牌的持槍射擊姿態，充分展現角色行動派的俐落身手。金髮與紅色蝴蝶結的髮飾細節處理精緻，是《リコリス・リコイル》系列周邊收藏中人氣最高、詢問度也最強的代表作品之一。",
-    reviews: [],
+    reviews: [
+      { title: "ねんどろいど 錦木千束 レビュー | はっちゃか", url: "https://hacchaka.net/archives/52093792.html", lang: "ja" },
+    ],
     youtube: [
       {
         title: "Nendoroid: Chisato Nishikigi Unboxing / Review (Lycoris Recoil)",
@@ -15954,7 +15994,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90-mission-pack-jq.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「J型」與「Q型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是2023年底推出、相對較新的一組F90擴充配件。套組以藍色系裝甲為主色調，肩部搭載大型連裝機砲與大型格鬥用拳套，武裝配置偏向中近距離的火力壓制與格鬥戰能力，展現與F90標準型截然不同的重裝甲戰鬥姿態。作為F90企劃「透過任務背包因應不同戰術情境」核心理念持續擴編的最新成員，J型與Q型延續系列一貫的高組裝密度與精細分件設計，武裝零件的可動關節與收納結構皆維持MG系列水準。由於發售時間較晚、相較於D、E、F等早期型號流通量更為稀少，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是近年較難入手的補完拼圖之一。",
-    reviews: [],
+    reviews: [
+      { title: "MG 1/100 MISSION PACK J-TYPE & Q-TYPE for GUNDAM F90 レビュー | gundamsblog", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0f90%E7%94%A8-%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%83%83%E3%82%AF-j%E3%82%BF%E3%82%A4%E3%83%97q%E3%82%BF%E3%82%A4%E3%83%97", lang: "ja" },
+      { title: "MG 1/100 MISSION PACK J-TYPE & Q-TYPE for GUNDAM F90 レビュー | schizophonic9", url: "https://schizophonic9-2.com/blog-entry-5132.html", lang: "ja" },
+    ],
     youtube: [
       {
         title: "MG 1/100 MISSION PACK J-TYPE & Q-TYPE for GUNDAM F90 / The Gundam F90 A-Z Project",
@@ -16156,7 +16199,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-gundam-f90-unit2.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90 Unit 2", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）中的核心機體，設定於宇宙世紀0120年，由獨立兵工廠薩納璃為對抗日益巨大化的量產機所研發的次世代主力MS原型機，透過替換多種任務背包（Mission Pack）因應不同戰術情境，是高達系列「量產泛用原型機」構想的原點。「ユニット2（Unit 2）」是F90計畫中的第二號測試機，塗裝配色改為紫黑色系搭配黃色警示標誌，與初號機的白色基調形成鮮明對比，設定上代表另一組測試駕駛員所使用的量產前規格機體，是F90企劃「多機並行測試」概念下的具體呈現。本商品為Premium Bandai限定推出的MG 1/100版本，機身骨架與可動結構與標準版F90一致，延續系列精密的關節可動與硬點模組化設計，方便日後與各式Mission Pack擴充套件交互組合搭配。獨特的紫黑配色塗裝在同系列眾多F90機體中辨識度極高，對於收藏Formula91企劃各式F90測試機體塗裝差異的玩家而言，是不可或缺的一件P-Bandai限定商品。",
-    reviews: [],
+    reviews: [
+      { title: "MG 1/100 ガンダムF90 ユニット2 レビュー | schizophonic9", url: "https://schizophonic9.com/re7/mg_f90unit2.html", lang: "ja" },
+      { title: "MG 1/100 ガンダムF90 ユニット2 レビュー | gundamsblog", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0f90-2%E5%8F%B7%E6%A9%9F", lang: "ja" },
+    ],
     youtube: [
       {
         title: "I WAS WRONG ABOUT THIS MOBILE SUIT! MG F90 Unit 2 + Mission Pack E/S Type UNBOXING and REVIEW [4K]",
@@ -16192,7 +16238,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "MG 1/100 ガンダムF90［火星独立ジオン軍仕様］ 開封動画", url: "https://www.youtube.com/watch?v=h2BNJS-pr_w", lang: "ja" },
+      { title: "MG 1/100 ガンダムF90［火星独立ジオン軍仕様］ 開封動画", url: "https://www.youtube.com/watch?v=H0AV_S-BUmQ", lang: "ja" },
+    ],
   },
   {
     id: "figma-kos-mos-ver4",
@@ -16419,7 +16468,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "RG 1/144 HWS EXPANSION SET for νガンダム 開封動画", url: "https://www.youtube.com/watch?v=WDfh9IPUDkU", lang: "ja" },
+      { title: "RG 1/144 HWS EXPANSION SET for νガンダム 開封動画", url: "https://www.youtube.com/watch?v=RApoubf7qY4", lang: "ja" },
+    ],
   },
   {
     id: "rg-nu-gundam-double-fin-funnel-expansion-parts",
@@ -16546,7 +16598,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/mg-f90iiiy-cluster-gundam.jpg",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "シルエットフォーミュラ91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "クラスターガンダム", "BOX0007"],
     description: "《シルエットフォーミュラ91》是《機動戰士高達F90》Formula91企劃延伸的漫畫/設定集企劃，進一步擴充F90系列機體在小說與漫畫媒體中的世界觀，「クラスターガンダム（集束鋼彈）」正是此企劃衍生出的特殊機體之一。本商品「F90ⅢY」設定上是以尚未完工的F90三號機為基礎、搭配「Y型（YOUNG STAR）」任務背包強行整合而成的應急構型，機體核心搭載可獨立分離的核心戰機「Core Fighter F90III」，能與背部推進裝置合體組成「Core Booster F90III」，呈現F90系列一貫的模組化與分離合體設計巧思。套件骨架延續F90系列精密可動結構，核心戰機的分離、對接機構是本商品在組裝與把玩層面的最大亮點，機身塗裝與細節分色亦維持MG系列一貫高水準。作為F90企劃衍生設定中話題度較高、也是近年才推出的新規格商品，本商品對於熱衷收集Formula91與其衍生企劃各式機體構型的鋼普拉玩家而言，是相當具代表性的一款。",
-    reviews: [],
+    reviews: [
+      { title: "MG 1/100 F90ⅢY CLUSTER GUNDAM レビュー | gundamsblog", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-f90iiiy-%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0", lang: "ja" },
+      { title: "MG 1/100 F90ⅢY CLUSTER GUNDAM レビュー | schizophonic9", url: "https://schizophonic9.com/re9/mg_cluster.html", lang: "ja" },
+    ],
     youtube: [
       {
         title: "Shelf Space Unboxing: MG F90IIIY Cluster Gundam",
@@ -18549,7 +18604,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：ジェミニ サガ [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/gemini-saga/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 ジェミニサガ〈教皇アーレス〉 開封動画", url: "https://www.youtube.com/watch?v=uvOgSYRiF6A", lang: "ja" },
+    ],
   },
   {
     id: "pisces-aphrodite-ex-revival",
@@ -18651,7 +18708,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：鋼鉄聖闘士ランドクロス大地 [リバイバル版] [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/steel-landcloth-revival/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 鋼鉄聖闘士ランドクロス大地〈リバイバル版〉 開封動画", url: "https://www.youtube.com/watch?v=7vXVyKIAPCA", lang: "ja" },
+    ],
   },
   {
     id: "steel-saint-marinecloth-ushio-revival",
@@ -18802,7 +18861,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/tamashii-nation-2009-zodiac-coin-set.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "TAMASHII NATION", "限定"],
     description: "「TAMASHII NATION」是BANDAI SPIRITS魂ブランド每年舉辦的大型商品展示活動，會場限定推出各系列的特別紀念商品。本品為2009年「TAMASHII NATION 2009」會場限定販售的「エンブレムセット」，內容為專用展示台座（另售）所使用的十二宮星座紋章共24枚，分別施以金、銀兩種電鍍處理，相較另售展示台座標配的白／黑素色紋章更添華麗質感；金色紋章可搭配黃金聖衣用白色展示台使用，銀色紋章則適合搭配黃金冥衣用黑色展示台B，亦可單獨作為徽章收藏把玩。由於僅限會場現場販售且未透過一般通路流通，是聖闘士聖衣神話系列蒐藏中極具紀念價值與稀有性的活動限定周邊商品。",
-    reviews: [],
+    reviews: [
+      { title: "聖闘士聖衣神話 エンブレムセット レビュー | TAMASHII NATION", url: "https://tamashii-nation.tamashiiweb.com/2009/pickup/06.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -18841,8 +18902,14 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/saint-alpha-dubhe-siegfried-original.jpg",
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "北欧アスガルド編", "神闘士", "初版"],
     description: "《聖闘士星矢》北歐アスガルド篇中，奧丁大神麾下集結了守護北歐諸神境地的「神闘士」戰士群，各自身披對應星座的神衣對抗聖鬥士一行。「ドゥベのジークフリート」是其中實力數一數二的強者，個性狂傲不羈、崇尚絕對武力至上，座下神衣的象徵物為雙頭龍造型的巨大背部裝置，是篇章中極具壓迫感的強敵之一。本商品為2006年發售的「聖闘士聖衣神話」系列初版商品，尚未冠上後續「EX」子系列名稱，以當時規格重現角色黑紫色系神衣與雙肩尖角、雙頭龍背部裝置等標誌性造型。作為系列草創期跨足アスガルド篇神闘士陣容的早期商品，與後續2019年推出、經全新設計比例與可動規格的EX版形成世代對照，是喜愛收藏系列初版舊模具、比較新舊規格演進的資深玩家珍視的一件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "聖闘士聖衣神話 アルファ星ドゥベジークフリート レビュー | はっちゃか", url: "https://hacchaka.net/archives/52051258.html", lang: "ja" },
+      { title: "聖闘士聖衣神話 アルファ星ドゥベジークフリート レビュー | toroplus", url: "https://toroplus.blog/saintclothmyth-ex/dubhesiegfried-ex/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "聖闘士聖衣神話 アルファ星ドゥベジークフリート 開封動画", url: "https://www.youtube.com/watch?v=R_3t_QYy0h8", lang: "ja" },
+      { title: "聖闘士聖衣神話 アルファ星ドゥベジークフリート 開封動画", url: "https://www.youtube.com/watch?v=AR9CcD-pO_w", lang: "ja" },
+    ],
   },
   {
     id: "saint-polaris-hilda",
@@ -19368,7 +19435,9 @@ export const collection: CollectibleItem[] = [
       { title: "F:NEXから『キミ戦』アリスリーゼ・ルゥ・ネビュリス9世が圧倒的美麗造形でフィギュア化！", url: "https://fanblogs.jp/figno1/archive/791/0", lang: "ja" },
       { title: "風になびく髪と衣装の造形美！「キミ戦」より「アリスリーゼ・ルゥ・ネビュリス9世」のフィギュアが予約受付中", url: "https://hobby.watch.impress.co.jp/docs/news/1311131.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "F:NEX アリスリーゼ・ルゥ・ネビュリス9世 1/7スケールフィギュア 開封動画", url: "https://www.youtube.com/watch?v=hSbocIx0NPI", lang: "ja" },
+    ],
   },
   {
     id: "kotobukiya-azur-lane-centaur",
@@ -19569,7 +19638,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-vision-asurada.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada", "VISION ASURADA", "MegaHouse", "Variable Action", "30周年"],
     description: "《新世紀GPX サイバーフォーミュラ》为SUNRISE代表性的未來賽車動畫，機械設計出自川元正治之手，阿斯拉達（Asurada）系列賽車為系列核心象徵。VISION ASURADA為紀念系列30周年推出的全新繪製構想版本，並非既有劇情機體，而是以「假若未來阿斯拉達會如何進化」為概念重新設計。本商品為MegaHouse「Variable Action Variations」系列作品，具備升降增壓艙、賽道模式與空力模式零件替換、效果扇葉展開等豐富機構玩法，是收藏家眼中極具話題性的周年紀念商品之一。",
-    reviews: [],
+    reviews: [
+      { title: "Variable Action Variations 1/24 Future GPX Cyber Formula VISION Asurada レビュー | 電撃ホビーウェブ", url: "https://hobby.dengeki.com/reviews/1347009/", lang: "ja" },
+    ],
     youtube: [
       { title: "新マシン・ヴィジョンアスラー見参！【メガハウス ヴァリアブルアクションバリエーションズ【MEGAHOUSE VARIABLE ACTION VARIATIONS VISION ASURADA】", url: "https://www.youtube.com/watch?v=izrlcSTC3Ng", lang: "ja" },
     ],
@@ -19589,7 +19660,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/va-super-asurada-01-ver2.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada", "スーパーアスラーダ01", "MegaHouse", "Variable Action", "2nd LAP"],
     description: "《新世紀GPX サイバーフォーミュラ》第一部主角機「アスラーダAKF-0」升級後化身超級阿斯拉達01，是系列最具代表性的初代主戰機體。本商品為MegaHouse「Variable Action 2nd LAP」系列全新開模的Ver.2版本，從尺寸到造型完全重新設計，力求貼近1/24比例真實感，新增前輪轉向機構，並保留升降增壓艙、賽道／空力模式零件替換、空氣煞車展開等經典可動機構，全長約200mm，是阿斯拉達系列收藏中不可或缺的基本款代表作。",
-    reviews: [],
+    reviews: [
+      { title: "Variable Action 2ndLAP: Future GPX Cyber Formula - Super Asurada 01 Ver.2 レビュー | メガホビー", url: "https://www.megahobby.jp/blog/?p=6165", lang: "ja" },
+    ],
     youtube: [],
   },
   {
@@ -19647,7 +19720,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/threezero-asurada-gsx-30th.jpg",
     tags: ["新世紀GPXサイバーフォーミュラ", "Cyber Formula", "アスラーダ", "Asurada G.S.X", "threezero", "MegaHouse", "threeMega", "Variable Action", "30周年", "30th Anniversary"],
     description: "《新世紀GPX サイバーフォーミュラ》系列首部作主戰機体阿斯拉達G.S.X，是整個系列的原點與人氣象徵。為紀念動畫30週年，threezero與MegaHouse組成合作品牌「threeMega」，由threezero創意總監Kelvin Sau操刀重新設計，保留原版阿斯拉達G.S.X經典輪廓，同時加入更精密的機械表面細節與結構層次，是Hi-SPEC「UNITED」系列首發作品。本商品比例更大、細節密度更高，兼具懷舊情懷與現代玩具工藝，是阿斯拉達系列收藏中規格最高的版本之一，深受長年粉絲喜愛。",
-    reviews: [],
+    reviews: [
+      { title: "VARIABLE ACTION Hi-SPEC UNITED FUTURE GPX CYBER FORMULA ASURADA G.S.X レビュー | Impress Watch", url: "https://hobby.watch.impress.co.jp/docs/review/1489128.html", lang: "ja" },
+      { title: "VARIABLE ACTION Hi-SPEC UNITED FUTURE GPX CYBER FORMULA ASURADA G.S.X レビュー | モノダス", url: "https://monodas.com/cyberformula/1486/", lang: "ja" },
+    ],
     youtube: [
       { title: "[魔玩模型] 史上最精緻!! 閃電霹靂車 阿斯拉GSX 初代阿斯拉｜Megahouse x threezero Asurada G.S.X Hi-SPEC 新世紀GPXサイバーフォーミュラ", url: "https://www.youtube.com/watch?v=v07dUk5h6L0", lang: "zh" },
       { title: "【玩具開箱】高智能方程式 threezero megahouse 兩大品牌攜手呈獻 cyber formula asurada g.s.x 阿斯拉達 今天的我沒有極限 閃電霹靂車 三人眾TV", url: "https://www.youtube.com/watch?v=XLLM8mqdMJY", lang: "zh" },
@@ -19819,7 +19895,9 @@ export const collection: CollectibleItem[] = [
       { title: "MG ガンダムベース限定 RX-78-2 ガンダム Ver.3.0［ガンダムベースカラー］ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-rx-78-2-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0ver-3-0%EF%BC%BB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%BD", lang: "ja" },
       { title: "MG 1/100 RX-78-2 ガンダムVer.3.0 [ガンダムベースカラー] レビュー", url: "https://www.alstakayuki.org/2020/06/12/mg-1-100-rx-78-2-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0ver-3-0-%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC-%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "MG 1/100 THE GUNDAM BASE LIMITED RX-78-2 Gundam Ver.3.0 [The Gundam Base Color] 開封動画", url: "https://www.youtube.com/watch?v=OpchNQzlhmA", lang: "ja" },
+    ],
   },
   {
     id: "mg-gundam-base-aile-strike-verrm-clear",
@@ -20885,7 +20963,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：ペガサス星矢（神聖衣）[レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/pegasusseiya-godcloth/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 ペガサス星矢(神聖衣) 開封動画", url: "https://www.youtube.com/watch?v=MCCF0tRi46s", lang: "ja" },
+      { title: "聖闘士聖衣神話 ペガサス星矢(神聖衣) 開封動画", url: "https://www.youtube.com/watch?v=tWiCV_fOhA0", lang: "ja" },
+    ],
   },
   {
     id: "scm-andromeda-shun-god-cloth",
@@ -23841,7 +23922,9 @@ export const collection: CollectibleItem[] = [
     tags: ["野想", "PLEYERID", "Disney", "Donald Duck", "唐老鴨", "3IN1", "機械風", "拼裝模型", "中國品牌"],
     description: "「野想 PLEYERID」延續其「機械化／賽博化」經典IP角色的一貫風格，本作為迪士尼正版授權「唐老鴨 400%」拼裝模型，與同系列米奇造型呼應，將唐老鴨招牌水手帽與藍色水手服重新以機械義肢與透明裝甲詮釋，頭部與軀幹可見仿生機關與線路結構，雙腳採半透明橘黃色外殼展現關節齒輪細節。同樣採用「3 IN 1」可替換頭部設計，提供都市現代版、復古經典版與賽博龐克版三種頭部造型可自由更換，讓玩家一次收藏唐老鴨跨時代的多種形象。全高約30公分（400%比例），零件全數預塗裝完成，組裝門檻低，關節具備一定可動性方便擺拍，是「野想」機械化迪士尼系列繼米奇後的人氣延伸作品，深受潮玩與迪士尼周邊收藏者關注。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "唐老鴨 400% 拼裝機械模型（3種可替換頭部） 開封動画", url: "https://www.youtube.com/watch?v=TzW3GM76_yE", lang: "ja" },
+    ],
   },
   {
     id: "moshow-lancelot-knight-of-ash",
