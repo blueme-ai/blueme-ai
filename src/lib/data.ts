@@ -23580,7 +23580,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2006年3月",
     officialUrl: "https://tamashiiweb.com/item/550/",
     imageUrl: "/images/saint-cloth-myth-cygnus-hyoga-final-bronze.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "キグナス氷河", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "キグナス氷河", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》為車田正美原作的經典漫畫，描繪身披「聖衣」、以「小宇宙」之力奮戰的聖鬥士們守護女神雅典娜的熱血故事，自1986年動畫化後影響橫跨數個世代。天鵝座聖鬥士「キグナス氷河」自幼在西伯利亞極地修行，個性冷靜寡言卻對亡母懷抱深切思念，是主角星矢最親密的夥伴之一，以「鑽石星塵拳」「極光執行」等冰系絕技聞名。所謂「最終青銅聖衣」，是指氷河在原作劇情中經歷聖衣多次破損、覺醒後所穿著的強化型青銅聖衣，翅膀造型更為華麗銳利，象徵角色歷經苦戰後力量的昇華，與早期版本的青銅聖衣有明顯區隔，是聖鬥士聖衣體系中角色成長弧線的具體呈現。本商品為「冥王ハーデス冥界編」動畫化企劃推出的可動人偶，2006年3月發售，重現氷河最終青銅聖衣華麗的羽翼與冰藍色塗裝，是聖闘士聖衣神話系列中人氣角色氷河進化版聖衣的代表商品之一。",
     reviews: [
       { title: "聖闘士聖衣神話： キグナス氷河 最終青銅聖衣 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/cygnushyoga-finalbronze/", lang: "ja" },
@@ -23600,7 +23600,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年（応募受付：2010年8月27日～10月18日）",
     officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIG-IPN-04983-R",
     imageUrl: "/images/saint-cloth-myth-pope-shion-2010-campaign.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "教皇シオン", "GOLD SAINT CAMPAIGN", "特別限定品", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "教皇シオン", "GOLD SAINT CAMPAIGN", "特別限定品", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》冥王神話篇中，「シオン」是白羊座聖鬥士ムウ的師父，於原作故事開始前242年的聖域大戰中殞落，其靈魂多年後在冥界復活並展開行動；劇中亦透過回想描繪シオン生前擔任「教皇」、代雅典娜統領聖域十二宮聖鬥士的莊嚴形象，形成同一角色橫跨生死的雙重身分。本商品「教皇シオン」為聖闘士聖衣神話系列「GOLD SAINT CAMPAIGN」購入活動於2010年推出的特別限定品，需集滿當期黃金聖衣商品所附之應募券方可郵購取得，屬於非一般零售通路商品。本版本附贈白色布製法衣、可替換的教皇面具與素顏頭部零件，並附有雙子座撒卡商品曾發售之寶座配件，可呈現シオン端坐教皇寶座的莊嚴姿態；相較於2005年首次推出、法衣為黑色的原始版本，本作法衣改為白色並調整配件內容，是同一角色因不同購入活動而產生的獨立版本，深受聖鬥士聖衣神話資深藏家重視。",
     reviews: [
       { title: "聖闘士聖衣神話 教皇シオン（教皇シオン購入キャンペーン 特別限定品）", url: "https://www.amiami.jp/top/detail/detail?gcode=FIG-IPN-04983-R", lang: "ja" },
@@ -23642,7 +23642,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年3月",
     officialUrl: "https://tamashiiweb.com/item/276/",
     imageUrl: "/images/saint-cloth-myth-phoenix-ikki-2004.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "フェニックス一輝", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "フェニックス一輝", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》原作漫畫由車田正美創作，描繪身披聖衣的青銅聖鬥士們守護女神雅典娜、對抗黃金聖鬥士與冥界勢力的熱血故事。鳳凰座聖鬥士「フェニックス一輝」是主角星矢名義上的兄長，個性桀驁不馴、獨來獨往，擁有「不死鳥幻魔拳」絕技與聖衣自行重組復活的特殊能力，是青銅五小強中實力與人氣皆名列前茅的角色。本商品為聖闘士聖衣神話系列2004年3月推出的一輝標準版本，重現原作與動畫中經典的紫黑色鳳凰座聖衣，翅膀部位可展開呈現威嚇姿態，是聖衣神話系列草創初期、確立青銅聖鬥士可動人偶規格的代表商品之一，與後續推出的「暗黒フェニックス一輝」黑化限定色版本屬於不同商品線——本作為未經黑化處理的原始標準塗裝版，兩者雖同為一輝角色，但分屬故事不同階段與商品企劃，收藏意義各異。",
     reviews: [
       { title: "聖闘士聖衣神話 フェニックス一輝 初期青銅聖衣 リバイバル版 レビュー", url: "https://gekirobogun.sakura.ne.jp/SAINT/phoenix_ikki.html", lang: "ja" },
@@ -23682,7 +23682,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年6月20日",
     officialUrl: "https://tamashiiweb.com/item/1102/",
     imageUrl: "/images/saint-cloth-myth-delta-megrez-alberich.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "デルタ星メグレスアルベリッヒ", "アスガルド編", "神闘士", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "デルタ星メグレスアルベリッヒ", "アスガルド編", "神闘士", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》冥王神話篇後的原創動畫企劃「アスガルド編」，描繪雅典娜一行人前往北歐迎戰奧丁座下希爾达麾下「神闘士（ゴッドウォーリアー）」的支線劇情，七位神闘士皆以北斗七星命名神衣，是聖鬥士系列少數以北歐神話為背景的原創故事篇章。「デルタ星メグレスアルベリッヒ」是七位神闘士之一，個性狡詐陰險、擅長運用「紫水晶盾」吸取對手生命力，行事不擇手段，與正義凜然的聖鬥士陣營形成強烈對比，是アスガルド編中極具存在感的反派角色。本商品為聖闘士聖衣神話系列2009年6月20日發售商品，重現神闘士深邃的靛藍色鎧甲與尖銳犄角造型，胸前紫水晶盾配件透明感十足，充分展現角色陰鷙不祥的氣質，是聖闘士聖衣神話系列補完アスガルド編北斗七星神闘士陣容、稀有度較高的一件收藏商品。",
     reviews: [],
     youtube: [
@@ -23702,7 +23702,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年6月19日",
     officialUrl: "https://tamashiiweb.com/item/1288/",
     imageUrl: "/images/saint-cloth-myth-pegasus-seiya-initial.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペガサス星矢", "初期青銅聖衣", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペガサス星矢", "初期青銅聖衣", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》是車田正美創作的國民級少年漫畫，描繪主角星矢等青銅聖鬥士以「小宇宙」之力對抗黃金聖鬥士與冥王軍團、守護女神雅典娜的熱血故事，自1986年動畫化後影響力橫跨數個世代讀者與觀眾。天馬座聖鬥士「ペガサス星矢」正是系列絕對主角，個性正直不屈、屢戰屢敗屢敗屢戰，「天馬流星拳」是全系列知名度最高的必殺技之一。所謂「初期青銅聖衣」，是指星矢在故事最初期、尚未經歷聖衣多次破損重鑄前所穿著的原始版本天馬聖衣，銀白色搭配紅色關節配件的配色與後期經過修復、強化的版本存在細節差異，代表角色故事早期階段的形象定裝。本商品為聖闘士聖衣神話系列2010年6月19日發售，重現初代天馬聖衣造型並附展開翅膀的天馬星座物件（オブジェ），是系列中經典角色初期聖衣形態的代表商品，與稍後問世的「最終青銅聖衣」版本屬於同一角色不同故事階段的獨立收藏品。",
     reviews: [
       { title: "聖闘士聖衣神話 ペガサス星矢 初期青銅聖衣 レビュー", url: "https://hacchaka.net/archives/51545298.html", lang: "ja" },
@@ -23722,7 +23722,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2006年4月",
     officialUrl: "https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112399342000",
     imageUrl: "/images/saint-cloth-myth-lionet-ban.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ライオネット蛮", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ライオネット蛮", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》是車田正美創作的經典少年漫畫，描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。子獅子座青銅聖鬥士蛮（Ban）在原作與動畫中戲份不算多，卻以厚實的近身格鬥風格與招牌絕技「獅子閃光彈」（ライオネットボンバー）在核心書迷間頗具人氣，是青銅十二宮外圍聖鬥士中辨識度極高的一員。本商品是「聖闘士聖衣神話」（セイントクロスマイス）系列首度將蛮立體化的可動人偶，2006年4月發售，重現其厚重堅實的青銅聖衣造型、獠牙頭盔與獅爪護手等細節，並可拆解重組聖衣為展示用的物件形態。對於希望補齊青銅聖鬥士外圍成員陣容的資深收藏家而言，是相對稀少、極具紀念意義的一件。",
     reviews: [
       { title: "聖闘士聖衣神話：ライオネット蛮 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/lionetteban/", lang: "ja" },
@@ -23744,7 +23744,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2005年3月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=413&grp_id=5312",
     imageUrl: "/images/saint-cloth-myth-pegasus-seiya-final.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペガサス星矢", "最終青銅聖衣", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペガサス星矢", "最終青銅聖衣", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》主角天馬星矢是整部作品的靈魂人物，貫穿黃道十二宮、アスガルド編、冥王十二宮等各大篇章。「最終青銅聖衣」是星矢在原作漫畫十二宮篇末段所穿著、經歷多次損毀重鑄後的天馬座青銅聖衣最終型態，肩甲與翼形設計較初代更為銳利華麗，是原作粉絲心中代表星矢成長與覺醒的象徵造型。本商品為「聖闘士聖衣神話」系列2005年3月發售的青銅聖衣，是該系列早期奠定品牌基礎的代表作之一，也是後續「聖闘士聖衣神話EX」多次重新詮釋、再版（含金色限定版）的原型商品，對於系列收藏史而言深具起點意義。與2010年發售的「初期青銅聖衣」版本屬於同一角色不同故事階段的獨立收藏品，兩者可並存收藏。",
     reviews: [
       { title: "聖闘士聖衣神話：ペガサス星矢 最終青銅聖衣 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/pegasusseiya-finalbronze/", lang: "ja" },
@@ -23764,7 +23764,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2006年11月",
     officialUrl: "https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112418111000",
     imageUrl: "/images/saint-cloth-myth-griffon-minos.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "グリフォンミーノス", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "グリフォンミーノス", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》「冥王ハーデス冥界編」承接漫畫原作最終章，描述雅典娜一行人攻入冥界、與冥王軍團死鬥的故事。米諾斯（ミーノス）是冥界三巨頭之一，身披天貴星グリフォン（獅鷲）冥衣，性格陰沉且擅長操縱人偶進行遠程攻擊，與艾亞哥斯、拉達曼迪斯並列冥界十二宮最兇惡的三名冥鬥士。本商品為「聖闘士聖衣神話」（セイントクロスマイス）原始系列於2006年11月發售的版本，忠實重現漫畫中誇張的獅鷲造型羽翼與尖爪，冥衣亦可拆解重組為展示用物件形態。需特別注意：此商品為原始「セイントクロスマイス」線的舊版產品，與後續2017年後推出、規格與塗裝皆不同的「聖闘士聖衣神話EX グリフォンミーノス」為兩條不同商品線，並非重複收藏。",
     reviews: [
       { title: "冥闘士グリフォン ミーノス バンダイ 聖闘士聖衣神話", url: "https://omochagura.sakura.ne.jp/bandai/maisu/minosu/minosu.html", lang: "ja" },
@@ -23784,7 +23784,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年11月29日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=967&grp_id=5312",
     imageUrl: "/images/saint-cloth-myth-alioth-fenrir.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "アリオトフェンリル", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "アリオトフェンリル", "BANDAI", "SAINT0004"],
     description: "「アスガルド編」是動畫原創篇章，描寫雅典娜一行人前往北歐，與統治阿斯卡特的希爾达麾下七位神闘士交手的故事，七人皆以北斗七星命名神衣，是該篇最大看點。芬里爾（フェンリル）身披伊普西龍星（Epsilon）神衣，年少時因熊害失去雙親，僅信任救下自己的狼群，個性孤僻悲情，招式「北斗群狼拳」為其代表技。本商品為「聖闘士聖衣神話」（セイントクロスマイス）系列2008年11月發售，是七位阿斯卡特神闘士立體化陣容中發售較晚的一員，重現其藍銀色調神衣與狼爪造型護手，並附狼型配件呼應角色設定。對於收齊北斗七星神闘士全員的玩家而言是關鍵拼圖之一。",
     reviews: [
       { title: "聖闘士聖衣神話：イプシロン星 アリオト フェンリル [レビュー]", url: "https://toroplus.blog/saintclothmyth-godwarrior/aliothfenrir/", lang: "ja" },
@@ -23805,7 +23805,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年11月",
     officialUrl: "https://tamashiiweb.com/item/12826/",
     imageUrl: "/images/saint-cloth-myth-dragon-shiryu-initial.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ドラゴン紫龍", "リバイバル版", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ドラゴン紫龍", "リバイバル版", "BANDAI", "SAINT0004"],
     description: "紫龍（Shiryu）是天龍座青銅聖鬥士，五位主角之一，個性沉穩內斂、修行於中國廬山瀑布之下，以「廬山昇龍霸」等招式聞名，是《聖闘士星矢》主角團中人氣與話題度皆極高的角色。「初期青銅聖衣」指其故事最初登場時所穿的天龍座青銅聖衣，盾牌與龍首護肩造型古樸厚重。本商品為「聖闘士聖衣神話」系列繼鳳凰一輝、天鵝座瞬、天馬座星矢之後第四款「初期青銅聖衣」重製復刻版（リバイバル版），2010年11月發售，頭部（含髮型）為雕型師南田香名重新雕塑，並新增閉眼、怒吼兩種替換表情面部零件，重現原作漫畫初期樸實而具重量感的聖衣質感，是系列早期復刻風潮中的代表作之一。",
     reviews: [
       { title: "聖闘士聖衣神話：ドラゴン紫龍（初期青銅聖衣）20th Anniversary Ver. [レビュー]（含リバイバル版比較）", url: "https://toroplus.blog/saintclothmyth-saint/dragon-siryuu-fastbronze-20th/", lang: "ja" },
@@ -23825,7 +23825,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年9月",
     officialUrl: "https://tamashiiweb.com/item/771/?wovn=en",
     imageUrl: "/images/saint-cloth-myth-mizar-sid.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "ミザールシド", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "ミザールシド", "BANDAI", "SAINT0004"],
     description: "「アスガルド編」為動畫原創篇章，希爾达麾下七位以北斗七星命名神衣的神闘士，是該篇最具人氣的反派陣容。希德（シド）身披泽塔星（Zeta）神衣，是希尔达最信任的心腹之一，實力僅次於首領齊格飛，個性冷靜自持，招式「維京虎爪」（バイキング・タイガークロウ）以凍氣撕裂大地聞名，神衣可重組為劍齒虎造型物件。本商品為「聖闘士聖衣神話」系列2007年9月發售，是阿斯卡特神闘士陣容中較早推出的一員，重現其黑綠色調神衣與虎爪護手細節，是收齊北斗七星神闘士全員不可或缺的一件。",
     reviews: [
       { title: "ゼータ星ミザール シド バンダイ 聖闘士聖衣神話", url: "https://omochagura.sakura.ne.jp/bandai/maisu/sido/sido.html", lang: "ja" },
@@ -23846,7 +23846,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年4月下旬",
     officialUrl: "https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112501165000",
     imageUrl: "/images/saint-cloth-myth-benetnasch-mime.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "ベネトナーシュミーメ", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "ベネトナーシュミーメ", "BANDAI", "SAINT0004"],
     description: "「アスガルド編」中希尔达麾下七位以北斗七星命名神衣的神闘士各具特色，米梅（ミーメ）身披瑤光星（Eta／Benetnasch）神衣，是外貌中性、彈奏豎琴的神秘角色，其琴聲「死之誘曲」能操控敵人心神，是七神闘士中戰鬥風格最特殊的一位。本商品為「聖闘士聖衣神話」系列2008年4月下旬發售，隨附可拆裝的豎琴配件重現其彈奏場景，神衣主要部件採用金屬材質增加質感與重量，並可拆解重組為豎琴造型的展示物件，紅金配色鮮明華麗，是七位神闘士中辨識度最高的一員，深受角色人氣影響，收藏市場詢問度亦高。",
     reviews: [
       { title: "聖闘士聖衣神話：エータ星 ベネトナーシュ ミーメ [レビュー]", url: "https://toroplus.blog/saintclothmyth-godwarrior/benetnaschmime/", lang: "ja" },
@@ -23866,7 +23866,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年12月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=805&grp_id=5312",
     imageUrl: "/images/saint-cloth-myth-merak-hagen.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "メラクハーゲン", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アスガルド編", "メラクハーゲン", "BANDAI", "SAINT0004"],
     description: "「アスガルド編」希尔达七位神闘士中，哈根（ハーゲン）身披北斗第二星・貝塔星（Beta／Merak）神衣，是其中戰力名列前茅、個性剛烈的一員，因深愛主君希尔达而戰意堅定，招式融合冰與火兩種極端元素，「熾熱之拳」對抗天馬座的冰結技能，形成強烈的戲劇張力，是該篇人氣角色之一。本商品為「聖闘士聖衣神話」系列2007年12月發售，神衣設計取材自北歐神話中奧丁座騎八腳神駒斯萊普尼爾（Sleipnir），可拆解重組為八腳神駒造型的展示物件，紅銀配色搭配銳利肩甲，是七位神闘士陣容中份量感最重的一員。",
     reviews: [
       { title: "聖闘士聖衣神話 ベータ星 メラク ハーゲン 個人的レビュー", url: "https://ameblo.jp/jinckletan/entry-11994841807.html", lang: "ja" },
@@ -23887,7 +23887,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年6月下旬",
     officialUrl: "https://www.bandai.co.jp/catalog/item.php?jan_cd=4543112329288000",
     imageUrl: "/images/saint-cloth-myth-aries-shion-surplice.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "アリエスシオン", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "アリエスシオン", "BANDAI", "SAINT0004"],
     description: "「冥王ハーデス冥界編」是《聖闘士星矢》原作最終章，描述雅典娜一行人攻入冥界十二宮的死鬥。牡羊座前教皇希翁（シオン）在漫畫中早已於黃金聖鬥士世代戰死，卻在冥王篇中被冥王哈迪斯的力量復活，化身為身披紫黑色「冥衣」（サープリス）的偽反逆者，實則暗中協助雅典娜一方，是全篇最具悲劇色彩與反轉張力的角色之一。本商品為「聖闘士聖衣神話」系列2007年6月下旬發售的單體商品，重現其偽裝冥鬥士時的紫色系冥衣與犄角頭盔造型，冥衣可拆解重組為展示用物件形態。需特別留意：此為單一人偶的標準版本，與資料庫中另一筆包含教皇シオン頭雕組合的「アリエスシオン（冥衣）／教皇シオン ～ASIA EDITION～」雙人組合限定版並非同一商品，兩者可並存收藏。",
     reviews: [
       { title: "牡羊座 アリエス シオン（冥衣） バンダイ 聖闘士聖衣神話", url: "https://omochagura.sakura.ne.jp/bandai/maisu/sapusion/sapusion.html", lang: "ja" },
@@ -24341,7 +24341,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年12月",
     officialUrl: "https://tamashiiweb.com/item/237/",
     imageUrl: "/images/saint-cloth-myth-pegasus-seiya-initial-2003.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペガサス星矢", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペガサス星矢", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》是車田正美創作的國民級少年漫畫，描繪身披聖衣的青銅聖鬥士們以「小宇宙」之力對抗黃金聖鬥士與冥王軍團、守護女神雅典娜的熱血故事。天馬座聖鬥士「ペガサス星矢」是系列絕對主角，「天馬流星拳」是全系列知名度最高的必殺技之一。本商品是「聖闘士聖衣神話」（セイントクロスマイス）整條可動人偶產品線的開山始祖，2003年12月發售，將懷舊的「聖闘士聖鬥士シリーズ」重新以壓鑄合金聖衣搭配全新關節可動結構詮釋，確立了日後系列沿用多年的商品規格與造型基礎，是收藏該系列不可或缺的起點商品。",
     reviews: [],
     youtube: [],
@@ -24359,7 +24359,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年12月",
     officialUrl: "https://tamashiiweb.com/item/246/",
     imageUrl: "/images/saint-cloth-myth-dragon-shiryu-initial-2003.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ドラゴン紫龍", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ドラゴン紫龍", "BANDAI", "SAINT0004"],
     description: "紫龍（Shiryu）是天龍座青銅聖鬥士，五位主角之一，個性沉穩內斂、修行於中國廬山瀑布之下，以「廬山昇龍霸」聞名。本商品為「聖闘士聖衣神話」系列草創初期作品，2003年12月與天馬座星矢同期發售，是天龍座聖衣首度以壓鑄合金搭配全關節可動結構立體化的商品，重現原作漫畫初期樸實厚重的龍形護肩與盾牌造型，是聖衣神話系列早期收藏中確立品牌規格的重要一員。",
     reviews: [],
     youtube: [],
@@ -24377,7 +24377,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年1月",
     officialUrl: "https://tamashiiweb.com/item/261/",
     imageUrl: "/images/saint-cloth-myth-cygnus-hyoga-initial-2004.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "キグナス氷河", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "キグナス氷河", "BANDAI", "SAINT0004"],
     description: "天鵝座聖鬥士「キグナス氷河」自幼在西伯利亞極地修行，個性冷靜寡言，以「鑽石星塵拳」「極光執行」等冰系絕技聞名，是主角星矢最親密的夥伴之一。本商品為「聖闘士聖衣神話」系列早期作品，2004年1月發售，是天鵝座聖衣首度以壓鑄合金搭配全關節可動結構立體化的商品，重現原作漫畫初期樸實的翼形護肩造型，與後續強化版本的「最終青銅聖衣」形成鮮明對比，是系列早期青銅五小強陣容收藏中不可或缺的一員。",
     reviews: [],
     youtube: [],
@@ -24395,7 +24395,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年2月",
     officialUrl: "https://tamashiiweb.com/item/269/",
     imageUrl: "/images/saint-cloth-myth-andromeda-shun-initial-2004.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アンドロメダ瞬", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "アンドロメダ瞬", "BANDAI", "SAINT0004"],
     description: "仙女座聖鬥士「アンドロメダ瞬」個性溫柔卻擁有「星雲鎖」這種攻防兼具的特殊武裝，是青銅五小強中人氣極高的角色。本商品為「聖闘士聖衣神話」系列早期作品，2004年2月發售，是仙女座聖衣首度以壓鑄合金搭配全關節可動結構立體化的商品，附金屬鏈條重現「星雲鎖」與「滾動防禦」等經典招式演出，重現原作漫畫初期造型，與後續「最終青銅聖衣」強化版本屬於同一角色不同故事階段的獨立收藏品。",
     reviews: [],
     youtube: [],
@@ -24413,7 +24413,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年3月",
     officialUrl: "https://tamashiiweb.com/item/701/",
     imageUrl: "/images/saint-cloth-myth-phoenix-ikki-final-bronze.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "フェニックス一輝", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "フェニックス一輝", "BANDAI", "SAINT0004"],
     description: "鳳凰座聖鬥士「フェニックス一輝」是主角星矢名義上的兄長，擁有「不死鳥幻魔拳」絕技與聖衣自行重組復活的特殊能力。「最終青銅聖衣」是一輝在原作劇情尾聲所穿著、經歷多次破損重鑄後的強化型鳳凰座聖衣，翼形護肩造型較初代更為銳利華麗。本商品配合「冥王ハーデス冥界編」動畫化企劃於2007年3月發售，重現一輝威嚇姿態的展開羽翼與最終聖衣的深邃紫黑色塗裝，是一輝角色歷程蒐藏中的重點單品。",
     reviews: [
       { title: "聖闘士聖衣神話：フェニックス一輝 最終青銅聖衣 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/phoenixikki-finalbronze/", lang: "ja" },
@@ -24433,7 +24433,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2006年8月",
     officialUrl: "https://tamashiiweb.com/item/608/",
     imageUrl: "/images/saint-cloth-myth-andromeda-shun-final-bronze-2006.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "アンドロメダ瞬", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "アンドロメダ瞬", "BANDAI", "SAINT0004"],
     description: "仙女座聖鬥士「アンドロメダ瞬」個性溫柔堅毅，擁有「星雲鎖」這種攻防兼具的特殊武裝，內心深處潛藏覺醒後兇暴的另一人格。「最終青銅聖衣」是瞬在原作劇情尾聲所穿著的強化型仙女座聖衣，護肩與鎖鏈造型更為華麗精密。本商品配合「冥王ハーデス冥界編」動畫化企劃於2006年8月發售，附金屬鏈條重現「星雲鎖」等經典招式演出，是瞬角色歷程蒐藏中的重點單品，亦是聖衣神話系列補完冥界篇故事线的重要一員。",
     reviews: [],
     youtube: [],
@@ -24451,7 +24451,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2006年4月",
     officialUrl: "https://tamashiiweb.com/item/566/",
     imageUrl: "/images/saint-cloth-myth-wolf-nachi.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ウルフ那智", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ウルフ那智", "BANDAI", "SAINT0004"],
     description: "《聖闘士星矢》原作漫畫中，青銅聖鬥士「ウルフ那智」是星矢等主角團在拳擊場相識的宿敵兼夥伴，個性豪爽好戰，擅長格鬥技巧與招牌絕技，是青銅聖鬥士外圍成員中辨識度極高的一員。本商品為「聖闘士聖衣神話」系列2006年4月發售的可動人偶，重現其厚重的狼型頭盔與尖爪護手細節，聖衣可拆解重組為展示用物件形態，對於希望補齊青銅聖鬥士外圍陣容的資深收藏家而言，是稀少且具紀念意義的一件。",
     reviews: [
       { title: "聖闘士聖衣神話：ウルフ那智 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/wolfnachi/", lang: "ja" },
@@ -24471,7 +24471,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2006年6月",
     officialUrl: "https://tamashiiweb.com/item/585/",
     imageUrl: "/images/saint-cloth-myth-lyra-orphee.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "ライラオルフェ", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "冥王ハーデス冥界編", "ライラオルフェ", "BANDAI", "SAINT0004"],
     description: "「ライラオルフェ」是雅典娜座下白銀聖鬥士，個性優雅溫和、擅長彈奏豎琴，是聖鬥士系列中少數以音樂與魅惑之力戰鬥的角色，因俊美容貌而配戴面具隱藏面容，是白銀十二人眾中形象獨樹一格的一員。本商品配合「冥王ハーデス冥界編」動畫化企劃於2006年6月發售，重現其銀白色系聖衣與豎琴造型武裝配件，是白銀聖鬥士收藏線中人氣頗高的一件。",
     reviews: [
       { title: "聖闘士聖衣神話：ライラ オルフェ [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/lyraorphee/", lang: "ja" },
@@ -24491,7 +24491,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2005年11月",
     officialUrl: "https://tamashiiweb.com/item/503/",
     imageUrl: "/images/saint-cloth-myth-unicorn-jabu.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ユニコーン邪武", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ユニコーン邪武", "BANDAI", "SAINT0004"],
     description: "「ユニコーン邪武」是星矢等主角在聖鬥士訓練所時期的同期夥伴，個性豪邁直率、以獨角獸座青銅聖衣戰鬥，是最初五小強以外首批獲得立體化的青銅聖鬥士之一。本商品為「聖闘士聖衣神話」系列2005年11月發售的初版商品，重現其頭頂尖角頭盔與厚重護肩造型，與2020年推出的「リバイバル版」重製版本屬於不同世代的獨立收藏品。",
     reviews: [
       { title: "聖闘士聖衣神話：ユニコーン邪武 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/unicornjabu/", lang: "ja" },
@@ -24511,7 +24511,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2005年11月",
     officialUrl: "https://tamashiiweb.com/item/504/",
     imageUrl: "/images/saint-cloth-myth-hydra-ichi.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ヒドラ市", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ヒドラ市", "BANDAI", "SAINT0004"],
     description: "「ヒドラ市」是青銅聖鬥士訓練所時期星矢等人的同期夥伴，因容貌俊秀反遭同伴嘲弄而終日戴著面具示人，擅長使用毒牙般的連續攻擊，「勝敗は常に顔で決まる」（勝負永遠取決於臉）是其原作中令人印象深刻的台詞。本商品為「聖闘士聖衣神話」系列2005年11月發售的可動人偶，重現海帝座青銅聖衣的面具頭盔與尖爪造型，是系列早期青銅聖鬥士外圍陣容中相對稀少的一件。",
     reviews: [
       { title: "聖闘士聖衣神話：ヒドラ市 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/hydraichi/", lang: "ja" },
@@ -24531,7 +24531,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年2月27日",
     officialUrl: "https://tamashiiweb.com/item/1233/",
     imageUrl: "/images/saint-cloth-myth-perseus-algol.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペルセウスアルゴル", "BANDAI"],
+    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "ペルセウスアルゴル", "BANDAI", "SAINT0004"],
     description: "「ペルセウスアルゴル」是雅典娜座下白銀聖鬥士，擁有能將對手瞬間石化的「美杜莎之盾」，招牌絕技「一擊必殺！ゴルゴンの悪魔」曾令主角一行人陷入苦戰，是白銀聖鬥士中人氣與話題度兼具的角色。本商品為「聖闘士聖衣神話」系列2010年2月27日發售的白銀聖鬥士版本，重現其尖銳羽翼護肩與盾牌造型，與後續推出的「冥衣」限定版本屬於不同商品線的獨立收藏品。",
     reviews: [
       { title: "聖闘士聖衣神話 ぺルセウスアルゴル レビュー", url: "https://hacchaka.net/archives/51481002.html", lang: "ja" },
