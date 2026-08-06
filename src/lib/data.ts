@@ -24794,7 +24794,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年1月14日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2019/4549660290988000.html",
     imageUrl: "/images/smp-galaxymega-deltamega.jpg",
-    tags: ["電磁戦隊メガレンジャー", "スーパー戦隊", "SUPER MINIPLA", "ギャラクシーメガ", "デルタメガ", "BANDAI", "食玩", "東映"],
+    tags: ["電磁戦隊メガレンジャー", "スーパー戦隊", "SUPER MINIPLA", "SMP", "ギャラクシーメガ", "デルタメガ", "Galaxy Mega", "Delta Mega", "BANDAI", "食玩", "東映"],
     description: "《電磁戦隊メガレンジャー》劇中，正義的兩大巨型機器人「ギャラクシーメガ」與「デルタメガ」可各自從飛船／戰車形態變形為人形機甲，並進一步超電磁合體組成最強形態「スーパーギャラクシーメガ」，是90年代後期超級戰隊系列機械設計的代表作之一。本商品為「SUPER MINIPLA」食玩模型系列，2019年1月14日發售，兩款機體皆可完整重現劇中變形機構與合體演出，是喜愛重現戰隊機械人合體場面的資深玩具收藏者不可錯過的一組。",
     reviews: [
       { title: "『電磁戦隊メガレンジャー』のギャラクシーメガ＆デルタメガが食玩「スーパーミニプラ」に！", url: "https://hobby.dengeki.com/reviews/692097/", lang: "ja" },
