@@ -59,7 +59,7 @@ Gemini Vision (or your own visual read) misidentifies visually-similar Gundam se
 
 ## `manualUrl` field (optional)
 
-Only **Bandai SMP/candy-toy** and **TAMASHII completed-figure lines** (超合金/CHOGOKIN, DX超合金, Figuarts, SOUL OF CHOGOKIN) have online instruction manuals. **Gunpla plastic kits do not** — don't bother searching. See `feedback_blueme_manual_field` in the user's Claude memory for background; full lookup procedure below (last verified 2026-08-07).
+**Bandai SMP/candy-toy**, **TAMASHII completed-figure lines** (超合金/CHOGOKIN, DX超合金, Figuarts, SOUL OF CHOGOKIN, METAL BUILD, PROPLICA, HI-METAL R), and **Gunpla plastic kits** all have online instruction manuals. (Correction 2026-08-07: an earlier note here said Gunpla kits have none — that was wrong. `manual.bandai-hobby.net` hosts a full searchable Gunpla manual database; see its own section below.) See `feedback_blueme_manual_field` in the user's Claude memory for background; full lookup procedure below (last verified 2026-08-07).
 
 ### SMP / candy-toy line
 
@@ -73,7 +73,21 @@ If that 404s, the real file may live under a different folder/id than the produc
 
 Pattern: `https://tamashiiweb.com/storage/images/products/imported/item_{10-digit-item-id}_{random-string}_300.pdf`. The `{item-id}` is the numeric id from the item's `tamashiiweb.com/item/{id}/` page (zero-padded to 10 digits); the `{random-string}` segment is not guessable and must be found per-item — WebSearch `"<product name> 取扱説明書"` or `"<product name> PDF"` and look for a matching `tamashiiweb.com/storage/.../*.pdf` link, or WebFetch/`curl` the item page directly and grep for `/storage/images/products/imported/item_{item-id}` in the HTML (og:image and manual links usually share the same random string per item, so the product photo URL can hint at it, but always verify the manual URL itself separately — don't assume they're identical). Verify with `curl -sI` for `content-type: application/pdf`.
 
-### Pre-2022/4 items — support.bandaispirits.co.jp archive (fallback)
+### METAL BUILD / PROPLICA / HI-METAL R — use the tamashiiweb manual index instead of WebSearch
+
+For these lines, tamashiiweb.com has an actual browsable index of every manual, filterable by brand: `https://tamashiiweb.com/support/manual/?br={brand_slug}` (e.g. `metal_build,proplica` — comma-joined for multiple brands). This is **much more reliable than WebSearch guessing** because it gives you the canonical product name next to each PDF link directly, so matching is a straight name comparison instead of inferring from search snippets.
+
+Fetch it with `browser-act stealth-extract <url> --content-type markdown` (no proxy needed, this site isn't geo-blocked). Caveat: the page's pagination (`&p=2`, `&p=3`, ...) is JS/client-state driven, not server-side — repeated `stealth-extract` calls with different `p=` values tend to all return page 1's content again (confirmed empirically: 6 "different" page fetches yielded only 98 unique entries out of a claimed 118, i.e. duplicate scraping, not full coverage). Treat this route as good-but-partial coverage, not exhaustive — items you can't find in a few scraped pages may still exist further in, but chasing full pagination coverage via repeated stealth-extract isn't worth the effort; falling back to per-item WebSearch for the stragglers is fine.
+
+Also note: the site alternates between rendering product names in Japanese and English/Chinese across calls (locale isn't sticky) — match on keywords (e.g. "PROVIDENCE" / "プロヴィデンス") rather than assuming a consistent script.
+
+### Gunpla plastic kits — manual.bandai-hobby.net
+
+**Correction (2026-08-07): earlier guidance here said Gunpla kits have no online manuals — that was wrong and cost real search time before being caught.** `https://manual.bandai-hobby.net/` is a dedicated, searchable Gunpla manual database (product name / 品番 / JAN code search, plus release-date/brand/series filters). Each result links to `manual.bandai-hobby.net/menus/detail/{id}`, which hosts both the main `取扱説明書` and any `補足説明書` (supplementary instructions) for that kit. A link to the detail page itself is an acceptable `manualUrl` value — it doesn't have to be a direct PDF link, per the user's explicit call on this (2026-08-07).
+
+This line hasn't had a full backfill pass yet as of 2026-08-07 — scope is large (Gunpla is the biggest category in the catalog) and hasn't been swept.
+
+### Pre-2022/4 TAMASHII items — support.bandaispirits.co.jp archive (fallback)
 
 tamashiiweb explicitly hands off pre-2022/4 manuals to an external site: **support.bandaispirits.co.jp**. This site is **geo-blocked to Japan IPs** — plain `curl`/`WebFetch` return a bare `403 Forbidden` (102-byte nginx error page) even for the homepage. Access it via `browser-act stealth-extract <url> --dynamic-proxy JP` instead (a Japan-region dynamic proxy is enough; no persistent browser needs to be created for this — `stealth-extract` alone bypasses the geo-block per call).
 
