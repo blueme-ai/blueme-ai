@@ -395,8 +395,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-turn-a-gundam-moonlight-butterfly",
     addedAt: "2026-06-20",
-    name: "MG 1/100 WD-M01 ∀ガンダム ムーンライトバタフライver.",
-    nameJa: "MG 1/100 WD-M01 ∀ガンダム ムーンライトバタフライver.",
+    name: "MG 1/100 WD-M01 ターンエーガンダム(月光蝶Ver.)",
+    nameJa: "MG 1/100 WD-M01 ターンエーガンダム(月光蝶Ver.)",
     series: "∀ Gundam（∀ガンダム）",
     character: "WD-M01 ∀ Gundam / Turn A Gundam",
     manufacturer: "BANDAI SPIRITS",
@@ -666,8 +666,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "metal-build-burning-gundam-second",
     addedAt: "2026-06-20",
-    name: "バーニングガンダム＆バーニングガンダム弐式",
-    nameJa: "バーニングガンダム＆バーニングガンダム弐式",
+    name: "ゴッドガンダム＆ゴッドガンダム弐（セカンド）",
+    nameJa: "ゴッドガンダム＆ゴッドガンダム弐（セカンド）",
     series: "機動武闘伝Gガンダム（Mobile Fighter G Gundam）",
     character: "GF13-017NJ God Gundam / 神鋼彈",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
@@ -677,7 +677,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15365/",
     imageUrl: "/images/metal-build-burning-gundam-second.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015365_Lnjetcl0_300.pdf",
-    tags: ["Gガンダム", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
+    tags: ["Gガンダム", "ゴッドガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
     description: "《機動武鬥傳G鋼彈》於1994年播出，是鋼彈系列首度脫離戰爭寫實路線、改以「格鬥錦標賽」為主軸的作品，各國代表機師駕駛象徵國家特色的Gundam互相比武，風格熱血誇張，開創了系列全新的娛樂方向。主角機GF13-017NJ神鋼彈（英文版稱Burning Gundam）由主角東方不敗駕駛，以格鬥流「東方不敗流」拳法搭配招牌絕招「God Finger」與最終奧義聞名，是整部作品精神象徵的核心機體。METAL BUILD是TAMASHII NATIONS的頂級完成品品牌，以精密可動關節與合金壓鑄骨架著稱，此版本附帶劇中後期強化形態「弐式（Second）」的替換零件，讓收藏者可重現神鋼彈初期與強化後兩種姿態。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現最終決戰形態，合金骨架賦予紮實的重量感與可動性，屬P-Bandai限定通路商品，一般店鋪無法購得，是G鋼彈系列完成品中還原度與收藏價值兼具的代表作。",
     reviews: [
       {
@@ -12438,7 +12438,7 @@ export const collection: CollectibleItem[] = [
     character: "ペイルライダー（陸戦重装備仕様）",
     manufacturer: "BANDAI SPIRITS",
     scale: "HG 1/144",
-    price: "¥2,200（含稅）",
+    price: "¥2,420（含稅）",
     releaseDate: "2020年9月11日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102607133000&grp_id=5325",
     imageUrl: "/images/hg-pale-rider-ground-clear.jpg",
@@ -18360,7 +18360,7 @@ export const collection: CollectibleItem[] = [
     character: "ゲシュペンスト（Gespenst）",
     manufacturer: "BANDAI SPIRITS",
     scale: "HG 1/144",
-    price: "¥4,000",
+    price: "¥4,400",
     releaseDate: "2022年5月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102633507000&grp_id=5325",
     imageUrl: "/images/hg-gespenst.jpg",
