@@ -4869,8 +4869,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-v2-assault-buster-expansion",
     addedAt: "2026-06-29",
-    name: "MG 1/100 勝利二式突擊殲滅鋼彈 Ver.Ka 擴充套件",
-    nameJa: "MG 1/100 勝利二式突擊殲滅鋼彈 Ver.Ka 擴充套件",
+    name: "MG 1/100 V2ガンダム Ver.Ka用 アサルトバスター拡張パーツ",
+    nameJa: "MG 1/100 V2ガンダム Ver.Ka用 アサルトバスター拡張パーツ",
     series: "機動戦士Vガンダム",
     character: "LM314V23/24 Victory Two Assault-Buster Gundam",
     manufacturer: "バンダイ（BANDAI）",
