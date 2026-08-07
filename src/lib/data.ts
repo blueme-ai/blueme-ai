@@ -7854,6 +7854,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年7月（P-Bandai限定）",
     officialUrl: "https://bandai-hobby.net/item/01_4970/",
     imageUrl: "/images/mg-johnny-ridden-gelgoog.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2447",
     tags: ["ガンプラ", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "ゲルググ", "ジョニー・ライデン", "P-Bandai限定"],
     description: "MS-14B 高機動型蓋爾古格〔喬尼·萊登專用機〕出自《機動戰士鋼彈》一年戰爭世界觀，喬尼·萊登因座機塗裝而有「緋紅閃電（真紅の稲妻）」異名，是吉翁公國精銳王牌駕駛員，曾駕駛薩克II高機動型、蓋爾古格等多款機體轉戰各大戰役，其鮮明的紅黑塗裝與王牌事蹟使其成為一年戰爭MSV體系中人氣最高的角色之一，也讓蓋爾古格這款機體的多種塗裝版本長年成為玩家收藏焦點。\\n\\n本商品以MG 夏亞專用蓋爾古格 Ver.2.0骨架為基礎，重新開發B型背包與火箭發射器等新規零件。B型背包可透過專用接頭同時掛載火箭發射器、巨型突擊砲或光束步槍等三種武裝，推進器可獨立可動；新造型火箭發射器握把可撓曲，能重現雙手持槍的迫力姿勢。全身以「真紅の稲妻」招牌紅黑配色成形色重現，另附喬尼·萊登少校專屬個人徽章與編號的全新設計水貼。本商品為Premium Bandai限定販售，未於一般模型店鋪流通，是MSV高人氣王牌機體收藏系列中的重點目標。",
     reviews: [
@@ -7913,6 +7914,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年2月23日",
     officialUrl: "https://bandai-hobby.net/item/01_5779/",
     imageUrl: "/images/mg-sinanju-stein-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/606",
     tags: ["ガンプラ", "MG", "Ver.Ka", "Bandai", "シナンジュ・スタイン", "MSN-06S", "獨角獸鋼彈"],
     description: "MSN-06S 沙南珠·斯坦因（シナンジュ・スタイン）Ver.Ka，出自《機動戰士鋼彈UC》MSV企劃，是U.C.0094年由阿納海姆電子開發的精神框架（Psycho-Frame）試驗機。原為地球聯邦相關計畫測試機體，其後遭覆面公司（The Sleeves）奪取，先由強化人瑪莉妲·克魯茲駕駛，其後交由夏亞的複製人全法蘭托進行改修塗裝，成為紅色的「沙南珠」；本商品重現的正是尚未改修前、以純白成形色表現的原始「斯坦因」狀態，補完了新安州機體誕生前的原型階段。\\n\\n延續MG系列出色比例與全身高可動性設計，手部零件採用『MG ν鋼彈 Ver.Ka』首度導入、表現力極高的「情感操作器SP（エモーションマニュピレーターSP）」，可確實握持各式武裝；並附有Katoki Hajime親自監修設計的標記水貼。武裝方面除盾牌、光束步槍外，更附有僅登場於小說版《機動戰士鋼彈UC》的「沙南珠專用火箭砲」，是UC世界觀中極具代表性的Katoki Ver.Ka作品之一，也是瑪莉妲・克魯茲這位悲劇角色最具代表性的座機立體化商品。",
     reviews: [
@@ -8234,6 +8236,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年2月（Premium Bandai限定）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3907/",
     imageUrl: "/images/mg-destiny-impulse-gundam-r.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2246",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED DESTINY", "ASTRAY R", "P-Bandai限定", "命運脈衝"],
     description: "《機動戰士鋼彈SEED DESTINY ASTRAY R》官方外傳漫畫中登場的原創機體「命運脈衝鋼彈R（リジェネス）」MG化，是命運鋼彈與力天使脈衝鋼彈兩大人氣機體技術結晶的延伸產物，設定上匯集了兩機體各自的核心裝備優勢，是ASTRAY外傳體系中相當受矚目的原創機種，補完了SEED DESTINY正史之外的另一條技術發展支線。\\n\\n本商品以既有MG命運鋼彈與MG力天使脈衝鋼彈的骨架與零件為基礎，追加大量新造形零件重新設計而成，是Premium Bandai限定販售商品。背部搭載全新造形的大型背包「命運R Silhouette」，中央保留單眼（Mono Eye）駕駛艙設計，呼應吉翁系機體的血統元素，頭部可替換為鋼彈型或單眼「DI Adaga」兩種形態，變化性十足。左右一對的「Wolf Bane 長射程光束砲塔」除可掛載於肩部外，亦能拆下由雙手持握射擊，重現漫畫中命運脈衝鋼彈R最強火力形態，是SEED系列外傳機體收藏中兼具話題性與武裝豐富度的重點作品。",
     reviews: [
@@ -8256,6 +8259,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2002年2月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1585/",
     imageUrl: "/images/mg-zplus-c1.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/513",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダム・センチネル", "Z Plus", "可變形", "E.F.S.F."],
     description: "「鋼彈センチネル（Gundam Sentinel）」是設定於《機動戰士Z鋼彈》與《ZZ鋼彈》之間空白期的原創外傳企劃，由多位資深模型師與設定家聯手打造，補完地球聯邦軍在此過渡時期的兵器發展脈絡，也讓官方正史之外的量產機譜系得以完整呈現。「Ζ Plus」正是在Z鋼彈技術基礎上發展、供實戰部隊測試評估的量產型可變MS原型系列，其中03號機由駕駛員希古曼・謝德所駕駛，捨棄常見的量產配色，改採罕見的海空迷彩塗裝，是系列中辨識度極高的一機，也常被視為Sentinel企劃中最具個性的支線機體代表。\n\n作為2002年發售的MG舊金型套件，本作關節結構在當年已屬優秀水準，主要武裝大型Beam Smart Gun光束步槍握持穩固，機體可完整變形為Wave Rider高速飛行形態，背部推進背包與增裝燃料槽皆可動，呼應設定中高速偵察與火力支援兼具的定位。即便金型年代較早，其分色精度與變形機構完成度至今仍受玩家肯定，是收藏Z鋼彈支線機體系譜不可或缺的一件。",
     reviews: [
