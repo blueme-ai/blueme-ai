@@ -22075,6 +22075,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2007年7月",
     officialUrl: "https://bandai-hobby.net/item/01_1660/",
     imageUrl: "/images/mg-rx78-2-oyw0079.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/533",
     tags: ["ガンプラ", "MG", "Bandai", "機動戦士ガンダム", "RX-78-2", "ワンイヤーウォー", "BOX0014"],
     description: "本品原型取自BANDAI×NAMCO合作開發的PS2遊戲《機動戦士ガンダム ONE YEAR WAR（一年戰爭）》中重新詮釋的RX-78-2ガンダム機體設定，在忠於原作動畫比例的基礎上加入遊戲用嶄新面部與細部線條詮釋，成為當時MG系列別具話題性的「遊戲原創外型・動畫配色」版本。本品為BANDAI SPIRITS「MG」系列商品化，2007年7月發售，採用動畫版標準的白、藍、紅、黃塗裝方案，內構骨架承襲當代MG技術強化腹部、腰部與足部可動範圍，胯部關節新增前後滑動機構使單膝跪地等經典姿勢更為自然。套件附屬光束步槍、高性能巴祖卡砲、雙光束軍刀、鋼彈鎚與盾牌等一年戰爭代表性武裝，是紀念鋼彈系列與遊戲聯名企劃、深受老玩家喜愛的稀有規格版本。",
     reviews: [
