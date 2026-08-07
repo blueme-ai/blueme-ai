@@ -24697,8 +24697,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "dx-chogokin-macross-quarter-ge48",
     addedAt: "2026-08-04",
-    name: "GE-48 マクロス・クォーター",
-    nameJa: "GE-48 マクロス・クォーター",
+    name: "マクロス・クォーター",
+    nameJa: "マクロス・クォーター",
     series: "マクロスF（Macross Frontier）",
     character: "マクロス・クォーター（S.M.S可変攻撃宇宙空母）",
     manufacturer: "BANDAI SPIRITS",
@@ -24735,8 +24735,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "dx-chogokin-vf25f-armored-parts-alto-color",
     addedAt: "2026-08-04",
-    name: "アーマードメサイアバルキリー用アーマードパーツ（早乙女アルト機）",
-    nameJa: "アーマードメサイアバルキリー用アーマードパーツ（早乙女アルト機）",
+    name: "アーマードメサイアバルキリー（早乙女アルト機）",
+    nameJa: "アーマードメサイアバルキリー（早乙女アルト機）",
     series: "マクロスF（Macross Frontier）",
     character: "VF-25F Messiah Valkyrie 用 Armored Parts（早乙女アルト機カラー・初版）",
     manufacturer: "BANDAI SPIRITS",
