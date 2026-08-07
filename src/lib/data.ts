@@ -549,6 +549,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年4月",
     officialUrl: "https://tamashiiweb.com/item/15660/",
     imageUrl: "/images/gff-mc-wing-gundam-zero-cloaked.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/manuals/products/item_0000015660_Z63S5GvO_300.pdf",
     tags: ["Gundam Wing", "飛翼零式", "GFF", "METAL COMPOSITE", "Bandai", "合金"],
     description: "《新機動戰記鋼彈W》是1995年播出的電視動畫，其後續劇場版《Endless Waltz》（1997）以五名Gundam駕駛員在戰爭終結後重新面對和平意義為主題，風格唯美且充滿悲劇色彩，深受粉絲喜愛。主角機 XXXG-00W0 Wing Gundam Zero（飛翼零式）於劇場版中登場，配備象徵性的雙翼展開形態與「零系統」（駕駛員可預知未來但伴隨精神負荷的輔助系統），是W系列中人氣與話題度最高的機體之一。GUNDAM FIX FIGURATION METAL COMPOSITE（GFF MC）是Bandai Namco旗下頂級完成品品牌，主體以ABS、PVC搭配壓鑄合金（ダイキャスト）混合構成，賦予一般塑膠模型少見的金屬分量感與光澤質感。此為特別追加「Cloaked Custom（換裝外裝版）」零件套組的版本，最大特色是附有真實布料製作的白色大型斗篷，可披掛於機體肩上完全遮蓋展開的翅翼，與標準展翼形態形成強烈的視覺落差，讓收藏者能一次呈現飛翼零式截然不同的兩種氣質，是該角色玩具化作品中極具話題性的特別規格。",
     reviews: [
@@ -632,6 +633,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15385/",
     imageUrl: "/images/gff-mc-wing-gundam-zero-rebellion.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015385_oOY6oeak_300.pdf",
     tags: ["Gundam Wing", "飛翼零式", "GFF", "METAL COMPOSITE", "Bandai", "合金"],
     description: "飛翼零式（XXXG-00W0 Wing Gundam Zero Custom）出自《新機動戰記鋼彈W》劇場版《Endless Waltz》，是五名主角機師之一Heero Yuy的最終座機，配備象徵性的展翼形態與「零系統」精神輔助裝置，多年來一直是Gundam W系列人氣最高的機體象徵。GUNDAM FIX FIGURATION METAL COMPOSITE（GFF MC）是Bandai Namco旗下頂級完成品線，以ABS、PVC搭配壓鑄合金構成機體骨架，呈現有別於一般塑膠模型的沉穩金屬質感。「REBELLION」是該系列繼Cloaked Custom換裝版之後推出的全新規格版本，採用截然不同的配色方案與強化外裝造型，翅翼形狀經過重新設計，稜角更為銳利、姿態更具攻擊性，展現出與標準版截然不同的壓迫氣場，彷彿呈現飛翼零式「暴走」或「更具戰意」的另一種詮釋。整體以高品質合金骨架搭配精密分件塗裝完成，細節與光澤處理均達到完成品等級的陳設水準，是飛翼零式玩具化系列中持續擴充的重量級作品，也是GFF MC系列展現該機體多元面貌的代表版本之一。",
     reviews: [
