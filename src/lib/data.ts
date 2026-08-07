@@ -2796,6 +2796,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年10月（2022年10月再販）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1211/",
     imageUrl: "/images/mg-enhanced-zz-gundam-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2679",
     tags: ["Bandai", "MG", "マスターグレード", "ZZガンダム", "Ver.Ka", "Katoki", "UC", "P-Bandai", "強化型"],
     description: "《機動戰士ZZ鋼彈》描寫宇宙世紀0088年前後，地球聯邦與新吉翁殘存勢力之間的戰爭，強化型ZZ鋼彈是劇中設定的機體強化構想之一，象徵ZZ鋼彈系列在故事後期為因應最終決戰而持續強化武裝的發展脈絡，全身加裝強化裝甲與追加武裝，火力與防禦力較標準型大幅提升，過去長年僅見於設定資料而少有商品化機會。本品為P-Bandai限定商品，由加藤真監修設計，以Ver.Ka系列一貫的精緻線條重新詮釋這部較少商品化的強化形態，讓玩家得以透過模型重現UC 0088最終決戰時期的機體樣貌，補完長年空白的收藏缺口。套件並可望透過加強裝備套件切換不同武裝形態，完整還原設定中的強化配置。作為僅透過premium bandai通路限量販售的商品，發售後補貨機會低，對於深度收藏ZZ鋼彈系列冷門強化形態的玩家而言，具有相當高的補完價值，也是與全裝甲型ZZ鋼彈並列比較UC0088最終決戰各式強化構想的珍貴品項，讓玩家一次網羅ZZ鋼彈系列所有主要武裝變化。",
     reviews: [
@@ -20244,6 +20245,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月",
     officialUrl: "https://bandai-hobby.net/item/01_4272/",
     imageUrl: "/images/mg-gundam-base-perfect-strike-grand-slam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4490",
     tags: ["ガンプラ", "MG", "Bandai", "強襲鋼彈", "ガンダムベース限定", "Perfect Strike"],
     description: "《機動戰士鋼彈SEED》中強襲鋼彈透過Striker Pack模組化武裝切換戰術定位，「完全裝備型」Perfect Strike則是集Aile、Sword、Launcher三種背包與Grand Slam巨型加農砲於一身的終極重裝形態，是設定資料中火力配置最誇張的強襲鋼彈版本。本品為鋼彈基地限定套件，同梱兩種Striker Pack、光束步槍、盾牌、兩把裝甲用細劍及Grand Slam加農砲，並附仿投射台造型的專用展示台座，可自由切換翔翼型、劍式型、加農砲型與完全裝備型等多種形態展示，是強襲鋼彈系列收藏中規格最完整的限定版本。",
     reviews: [
@@ -25096,6 +25098,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年11月",
     officialUrl: "https://bandai-hobby.net/item/01_2044/",
     imageUrl: "/images/mg-f91-ver2-back-cannon-vsbr.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2651",
     tags: ["機動戦士ガンダムF91", "MG", "ガンダムF91", "バックキャノン", "ツインヴェスバー", "BANDAI SPIRITS", "ガンプラ", "プレミアムバンダイ限定"],
     description: "電影《機動戦士ガンダムF91》中，主角機「ガンダムF91」在MSV設定資料中留有多種未及在劇中登場的重武裝形態，其中背部搭載大型加農砲的「バックキャノン装着型」與腰部、背部同時裝設四門ヴェスバー的「ツイン・ヴェスバー装着型」，是粉絲間長年討論、極具人氣的紙上設定機體。本商品為Premium Bandai限定販售的MG專用武裝擴充配件組，需搭配另售的「MG 1/100 ガンダムF91 Ver.2.0」本體使用，2018年11月發售，兩種武裝配置皆為全新開模，可完整重現設定資料中誇張且富重裝甲美感的火力強化形態，是深度收藏ガンダムF91系列不可或缺的重點擴充配件。",
     reviews: [
