@@ -4804,8 +4804,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-v2-gundam-ver-ka",
     addedAt: "2026-06-29",
-    name: "MG 1/100 LM314V21 勝利二式鋼彈 Ver.Ka",
-    nameJa: "MG 1/100 LM314V21 勝利二式鋼彈 Ver.Ka",
+    name: "MG 1/100 V2ガンダム Ver.Ka",
+    nameJa: "MG 1/100 V2ガンダム Ver.Ka",
     series: "機動戦士Vガンダム",
     character: "LM314V21 Victory Two Gundam",
     manufacturer: "バンダイ（BANDAI）",
@@ -21947,6 +21947,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月11日",
     officialUrl: "https://bandai-hobby.net/item/5132/",
     imageUrl: "/images/mg-gundam-f90-clear-color.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4645",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー", "BOX0014"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，設定於宇宙世紀0120年，機身預留多處硬點可替換多達26種任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點，其設計理念更直接延伸出後續《機動戰士鋼彈F91》的F91機體，在宇宙世紀技術發展史上具有承先啟後的地位。本商品是The Gundam Base實體店鋪限定推出的「クリアカラー（透明色）」特別版F90本體套件，全機以半透明樹脂材質呈現，讓上半身雙軸可動骨架與腰部三軸可動框架等F90招牌的精密機構結構一覽無遺，光束步槍的E-Pack也可拆卸收納於盾牌內側，透明質感讓機體內部工程美學表露無遺。與一般上色版F90相比，透明版更凸顯出F90作為「量產泛用原型機」骨架設計的精密與通透科技美感，套件同樣支援26種任務背包的硬點相容性，方便玩家後續與各式Mission Pack擴充套件搭配組合。作為The Gundam Base限定通路商品，市場流通量相對稀少，對於既鍾情F90系列機體收藏、又偏好透明特別版收藏路線的鋼普拉玩家而言，是相當具話題性與稀缺性的一款。",
     reviews: [
