@@ -13230,8 +13230,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-ras96-anksha",
     addedAt: "2026-07-17",
-    name: "HGUC 1/144 RAS-96 アンクシャ",
-    nameJa: "HGUC 1/144 RAS-96 アンクシャ",
+    name: "HGUC 1/144 アンクシャ",
+    nameJa: "HGUC 1/144 アンクシャ",
     series: "機動戦士ガンダムUC",
     character: "RAS-96 アンクシャ",
     manufacturer: "BANDAI SPIRITS",
@@ -13688,8 +13688,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "gx26-doublas-m2",
     addedAt: "2026-07-17",
-    name: "GX-26 機獣ダブラスM2",
-    nameJa: "GX-26 機獣ダブラスM2",
+    name: "GX-26 ダブラスM2",
+    nameJa: "GX-26 ダブラスM2",
     series: "マジンガーZ",
     character: "ダブラスM2",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
@@ -13711,8 +13711,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "gx25-garada-k7",
     addedAt: "2026-07-17",
-    name: "GX-25 機獣ガラダK7",
-    nameJa: "GX-25 機獣ガラダK7",
+    name: "GX-25 ガラダK7",
+    nameJa: "GX-25 ガラダK7",
     series: "マジンガーZ",
     character: "ガラダK7",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
@@ -13734,8 +13734,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "gx32-gold-lightan",
     addedAt: "2026-07-17",
-    name: "GX-32 黄金戦士ゴールドライタン",
-    nameJa: "GX-32 黄金戦士ゴールドライタン",
+    name: "GX-32 ゴールドライタン",
+    nameJa: "GX-32 ゴールドライタン",
     series: "黄金戦士ゴールドライタン",
     character: "ゴールドライタン",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
