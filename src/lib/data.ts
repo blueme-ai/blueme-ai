@@ -980,6 +980,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年9月",
     officialUrl: "https://tamashiiweb.com/item/13603/",
     imageUrl: "/images/dx-chogokin-vf1j-armored-hikaru.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102614513.pdf",
     tags: ["MACROSS001@中壢收多易", "マクロス", "VF-1J", "アーマード", "裝甲型", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《超時空要塞Macross》主角一条輝（Hikaru Ichijo）是系列中最早確立的可變戰機駕駛員之一，其座機VF-1J女武神也成為初代Macross的標誌性形象，多年來持續以各種塗裝與強化形態被反覆商品化，足見其在系列中的核心地位。「ARMORED（裝甲型）」是VF-1系列的強化配置之一，透過在標準機體外部加裝大量重裝甲模組，大幅提升防禦力與火力輸出，使原本以機動性見長的女武神轉變為重裝突擊姿態，外觀也因此更具份量感與壓迫力，是VF-1系列中視覺衝擊最強烈的形態之一。此為DX CHOGOKIN版本，延續系列一貫的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，並搭配全套裝甲零件重現一条輝機加裝ARMORED後的完整戰鬥姿態，甲片開闔與武裝掛載機構皆以精密塑膠與合金零件構成，是DX CHOGOKIN VF-1系列陣容中份量感與收藏話題度兼具的重量級版本。",
     reviews: [
@@ -1608,6 +1609,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月",
     officialUrl: "https://tamashiiweb.com/item/13624/",
     imageUrl: "/images/dx-chogokin-vf31j-movie-fold-unit.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102610904.pdf",
     tags: ["MACROSS001@中壢收多易", "マクロス", "マクロスΔ", "VF-31J", "ジークフリード", "ハヤテ", "フォールドプロジェクション", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版Macross Δ：Passionate Walküre》是電視動畫《Macross Δ》劇情的重新編排強化版，補完了電視版未能詳述的部分設定與戰鬥場面，其中「摺疊（Fold）」科技作為Macross宇宙中星際航行與空間跳躍的核心設定，在劇場版中首度以實體裝備形式具象化。主角Hayate Immelmann是《Δ》世代新生代王牌飛行員，其座機VF-31J齊格弗里德是Δ系列標準主力機體，設計上延續Macross一貫的三型態變形美學，同時導入更具未來感的流線造型與新一代火控系統。此為附帶劇場版特有「摺疊投影裝置（Fold Projection Unit）」配件的特別版本，此裝置能大幅改變機體外觀輪廓，是劇場版與電視版機體設定上最明顯的差異之一，也讓收藏者得以透過實體模型呈現只在劇場版中登場的獨家配置。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Δ劇場版周邊中辨識度極高的限定規格作品。",
     reviews: [
@@ -1643,6 +1645,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13691/",
     imageUrl: "/images/dx-chogokin-vf31ax-first-limited-hayate.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102621085.pdf",
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版Macross Δ：Passionate Walküre》延續電視動畫《Macross Δ》的世界觀，講述新生代王牌飛行員與偶像團體「Walküre」共同對抗「Var症候群」與敵對勢力的故事，是Macross系列近年最具代表性的一部作品。VF-31AX Kairos-Plus是主角Hayate Immelmann在劇場版中駕駛的強化型機體，相較電視版標準機型VF-31，此機採用全新骨架設計，大幅強化了整體可動性與戰鬥性能，是Δ系列機體中技術層次最高的機型之一，象徵劇情推進下主角戰力的全面升級。此為初回限定版本，除標準配件外另附更多特別零件與規格配置，展現初回限定商品一貫的高規格待遇。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，變形流暢度與細節精度均達現行DX CHOGOKIN頂尖水準，是Macross Δ劇場版機體收藏中規格最完整的初期版本之一，深受系列玩家青睞。",
     reviews: [
@@ -1688,6 +1691,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://tamashiiweb.com/item/13759/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102629753.pdf",
     tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版Macross Δ：Passionate Walküre》中，Mirage Farina Jenius是新生代王牌飛行員之一，同時也是初代Macross傳奇王牌Maximilian Jenius（Max）的孫女，血統傳承的設定讓這名角色在系列世代交替的敘事中別具意義，也讓其座機VF-31AX Kairos-Plus承載著跨世代呼應的象徵性。此機與同隊主角Hayate Immelmann所駕駛的VF-31AX共用機體平台，但採用獨特的翠綠色塗裝方案，色調清新明亮，有別於隊上其他成員機體慣用的配色，是Δ小隊中辨識度最高、也最具個人風格的機體塗裝之一。VF-31AX相較電視版標準機型VF-31採用全新骨架設計，大幅強化了整體可動性與戰鬥性能，是Δ系列中技術規格最高的機型之一。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Δ劇場版周邊中兼具世代傳承意義與獨特視覺辨識度的收藏作品。",
     reviews: [
@@ -8690,6 +8694,7 @@ export const collection: CollectibleItem[] = [
     height: "約135mm（リル・ドラケン本体）",
     officialUrl: "https://tamashiiweb.com/item/12636/",
     imageUrl: "/images/dx-chogokin-vf31f-siegfried-lilldraken-set.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102550521.pdf",
     tags: ["MACROSS001@中壢收多易", "マクロス", "マクロスΔ", "VF-31F", "リルドラケン", "ジークフリード", "擴充套件", "DX超合金", "Bandai"],
     description: "《マクロスΔ》延續系列一貫的「以歌對抗Vár症候群」核心設定，偶像戰鬥組合ワルキューレ與新統合軍第117戰術宇宙艦隊搭檔作戰，主角隊長ハヤテ・インメルマン所駕駛的VF-31F ジークフリード是新統合軍最新銳的第五世代可變戰機，本套組即為其專屬支援無人機「リル・ドラケン」的擴充配件，於魂ウェブ商店限定販售，是補完隊長機戰術陣容的重要周邊。\n\n無人機支援作戰是《マクロスΔ》一大特色設定，リル・ドラケン可在劇中隨VF戰機出擊、提供額外火力支援與偵察能力，強化編隊作戰的立體感。本套組內含リル・ドラケン本體×2、對應Fighter/Gerwalk形態與Battroid形態的連接零件，以及專用展示台×2，可讓DX超合金VF-31Fジークフリード本體重現劇中搭載無人僚機作戰的場面，是喜愛Δ隊戰術細節的收藏者不可或缺的擴充組件。",
     reviews: [],
@@ -8780,6 +8785,7 @@ export const collection: CollectibleItem[] = [
     height: "約250mm（バトロイド形態）",
     officialUrl: "https://tamashiiweb.com/item/12553/",
     imageUrl: "/images/dx-chogokin-yf19-full-set.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102550613.pdf",
     tags: ["MACROSS001@中壢收多易", "マクロス", "マクロスプラス", "YF-19", "イサム・ダイソン", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "OVA《マクロスプラス》（1994）以近未來新統合軍次世代主力戰機競標為主軸，天才卻性格衝動的試驗飛行員イサム・ダイソン與昔日摯友グルド・ゴア・ボーマン因各自駕駛的YF-19與YF-21競爭而重燃夙怨，兩人之間的糾葛與作品中渡邊信一郎執導的高張力空戰場面，加上菅野よう子的配樂，使本作至今仍被視為Macross系列的經典之作。イサム駕駛的YF-19延續傳統VF可變戰機設計脈絡，操控性與格鬥性能凌駕於AI輔助的YF-21之上，兩機的設計對比也隱喻著人類直覺與機器理性之間的較量。\n\n本商品為DX超合金YF-19 Full Set Pack版本，首度將劇中未實體化的武裝完整立體化——反艦反應飛彈、高機動飛彈、FAST Pack增裝甲、摺疊推進器及對甲武裝莢艙均一應俱全，並支援Fighter/Gerwalk/Battroid三型態完全變形，是Macross Plus系列最重要的立體化商品之一。",
     reviews: [
@@ -8816,6 +8822,7 @@ export const collection: CollectibleItem[] = [
     height: "約220mm（バトロイド形態）",
     officialUrl: "https://tamashiiweb.com/item/13293/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-alto-full-set.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102603517.pdf",
     tags: ["MACROSS001@中壢收多易", "マクロス", "マクロスF", "YF-29", "デュランダル", "早乙女アルト", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版マクロスF～サヨナラノツバサ～》承接電視版故事，描繪主角早乙女アルト在異星生命體Vajra侵略危機下的成長與抉擇，同時交織偶像シェリル・ノーム與ランカ・リー的歌聲對峙，是Macross F系列劇情的最終總結篇，也為アルト與兩位女主角之間的三角關係畫下句點。アルト在劇中駕駛新統合軍高度機密試驗機YF-29 デュランダル迎戰Vajra女王與敵對勢力，展現壓倒性的次世代戰力，是全系列中設定最為強悍的機體之一。\n\n本商品Full Set Pack將2011年發售的本體與原先魂ウェブ限定販售的Super Parts合併為一套，讓玩家無須額外收集配件即可完整重現劇中強化形態。頭部、腰部關節、雙翼引擎基座採用新規造型並加入卡扣式可動關節，兼顧美觀與耐用度，是《マクロスF》系列性能最頂尖的可變機立體化代表作，也是アルト機系列收藏中最具份量的一件。",
     reviews: [
@@ -9085,6 +9092,7 @@ export const collection: CollectibleItem[] = [
     height: "約160mm",
     officialUrl: "https://tamashiiweb.com/item/13555/",
     imageUrl: "/images/saint-cloth-myth-sky-cross-sho-revival.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102613561.pdf",
     tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "スカイクロス翔", "鋼鉄聖闘士", "リバイバル版", "Bandai", "可動フィギュア"],
     description: "《聖闘士星矢》是車田正美原作的經典漫畫，描繪身披聖衣、以宇宙力量作戰的聖鬥士們守護雅典娜的故事，系列自1980年代動畫化後持續衍生出眾多支線企劃並影響深遠。「鋼鉄聖闘士」是動畫原創設定的支援角色群，並非原作漫畫登場人物，其中「スカイクロス翔」以輕巧靈活的空戰型聖衣著稱，是動畫原創陣容中人氣較高的一員，也是不少老玩家童年回憶中印象深刻的配角。\n\n本商品為聖闘士聖衣神話系列時隔約10年再度復刻推出的リバイバル版，新雕刻頭部一種、換裝笑臉表情零件，並修正部分聖衣塗裝使其更貼近動畫中的原始配色，讓收藏者能以更新的規格重溫這款動畫原創角色。全高約160mm，材質為ABS、PVC、壓鑄合金，兼具細節密度與可動性，是聖衣神話系列中補完動畫原創聖鬥士陣容的重要一件。",
     reviews: [
@@ -9301,6 +9309,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年2月",
     officialUrl: "https://tamashiiweb.com/item/13771/",
     imageUrl: "/images/soc-gx96x-armriser.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102630032.pdf",
     tags: ["合金0001@中壢收多易", "ゲッターロボ號", "Gアームライザー", "超合金魂", "Bandai", "合金"],
     description: "《ゲッターロボ號》是1991年播出的合體機器人動畫，為永井豪「ゲッターロボ」系列作品之一，故事講述主角們駕駛可自由變換組合形態的三台戰機「ゲッター號」對抗邪惡勢力，延續系列一貫的熱血對決與招牌武器演出風格。系列一貫特色為多機合體、必殺武器與熱血對決演出，本作在此基礎上加入強化配件的設定，讓機體能進一步升級變身成更強大的形態應戰，是系列中強化玩法的重要延伸設計。「Gアームライザー」即是劇中登場的強化戰機配件，作為超合金魂GX-96ゲッターロボ號的專用擴充零件商品化，本身不含金屬骨架也無法單獨作為完整機體使用，須搭配GX-96本體才能發揮功能，屬輕量化的選配零件包。裝備後可讓ゲッターロボ號拆換裝甲、進一步變形為劇中強化形態「超ゲッターロボ號」，並附帶原作標誌性的磁力鋼劍武裝，重現角色在關鍵戰鬥時刻覺醒或升級的名場面，是超合金魂系列中專為擴充可玩性而推出的重要商品，對已收藏GX-96本體的玩家而言是提升可玩深度與收藏完整度的延伸選項。",
     reviews: [
@@ -9331,6 +9340,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年1月",
     officialUrl: "https://tamashiiweb.com/item/13354/",
     imageUrl: "/images/soc-gx94-dancouga-blackwing.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102608703.pdf",
     tags: ["合金0001@中壢收多易", "超獣機神ダンクーガ", "ブラックウイング", "超合金魂", "Bandai", "合金", "可變形"],
     description: "《超獣機神ダンクーガ》是1985年播出的合體機器人動畫，講述四名擁有超能力的駕駛員各自操縱獸型機體，合體組成人形巨大機器人ダンクーガ對抗侵略地球的異星種族，是80年代合體機器人代表作之一。劇場版《Godbless the Machine》為系列後續補完劇情之作，深化角色情感與世界觀設定，劇中登場的強化形態「ダンクーガ ブラックウイング」在原版基礎上追加了漆黑羽翼裝甲，象徵角色力量的進一步昇華與世界觀的延伸發展，視覺上更添肅殺與神秘感，是劇場版限定的特殊形態。本品為超合金魂GX-94規格完成品，延續系列一貫講究的金屬質感與變形機構，可由戰機形態流暢變形為人形態，並精細重現劇場版中黑色羽翼裝甲的獨特造型與塗裝細節，展現不同於本篇電視版的另一種視覺風格與戲劇張力。作為超合金魂ダンクーガ系列的其中一項規格，本體亦考量與其他系列相關零件的相容擴充性，方便玩家依既有收藏搭配組裝，呈現更完整的角色形態收藏體系，是喜愛劇場版限定造型玩家的重點收藏對象。",
     reviews: [
@@ -9393,6 +9403,7 @@ export const collection: CollectibleItem[] = [
     height: "約180mm",
     officialUrl: "https://tamashiiweb.com/item/13574/",
     imageUrl: "/images/soc-gx96-getter-robo-go.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102587534.pdf",
     tags: ["合金0001@中壢收多易", "ゲッターロボ號", "超合金魂", "Bandai", "合金", "可變形", "合體"],
     description: "《ゲッターロボ號》為1991年播出的永井豪「ゲッターロボ」系列動畫，延續系列一貫的三機合體變形設定，講述主角們駕駛可自由組合切換的三台戰機對抗邪惡勢力，強調熱血對決與招牌武器的爽快演出，是系列作品中變形合體設計較為精巧的一部。本品為超合金魂GX-96完成品，可組合出地上戰用形態「ゲッター號」、高速空戰用形態「ゲッター翔」，以及第三種形態「ゲッター凱」，忠實重現原作中依戰況切換合體形態的經典設定，機身約180mm高，展現超合金魂系列一貫講究的金屬質感與機構強度。套組附屬配件相當豐富，包含ゲッター斧、可高速旋轉的ブーメランソーサー旋轉刃、腿部刃、鑽頭形態的トルネードアタック、電磁線形態ストリングアタック，以及飛彈武裝ブレストボンバー等多種原作招牌武器零件，重現各形態間的招牌絕技。並特別附上以劇中秘密基地「ビッグナイザー」為原型設計的專屬展示台座，讓玩家能重現機體從基地出擊的經典畫面，兼顧可玩性與世界觀還原度，是系列收藏中份量與配件皆屬豐富的一件商品。",
     reviews: [
