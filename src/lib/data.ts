@@ -10526,6 +10526,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年1月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/1000162717.html",
     imageUrl: "/images/smp-gaoknight.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2022/1000162717.pdf",
     tags: ["SMP0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "百獣戦隊ガオレンジャー", "ガオナイト", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《百獣戦隊ガオレンジャー》是東映超級戰隊系列2001年作品，以「動物力量」為核心設定，戰隊成員借助百獸之力戰鬥，風格明快熱血。ガオナイト（精靈騎士）為該系列電影版限定登場的神秘機體，設定上並非電視本傳固定戰力，而是關鍵時刻現身相助的西洋騎士風格夥伴，造型上與電視版百獸機體風格略有差異，別具特色。本商品「SMP 百獣合体ガオナイト」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定商品，2022年1月出貨，採全新造形重現騎士風格頭部設計，配備可武器化變形的百獸ガオエレファント，並同梱與另一款SMP ガオキング相同的百獸夥伴ガオコンドル、ガオシャーク、ガオタイガー及其異色版ガオバイソン，方便玩家跨商品組裝擴充。需特別留意，本品名稱雖與《勇者王GaoGaiGar》相似，實為《百獣戦隊ガオレンジャー》特攝戰隊作品，並非同一franchise。商品組裝過程色分精細，關節結構穩固耐玩，兼顧變形機構的順暢度與展示姿態的穩定性。頭部騎士造型與其他百獸機體相比別具異國風情，展現原作電影版嘗試突破電視版既有美術風格的巧思。對於同時收藏SMP百獣戦隊ガオレンジャー系列多款商品的玩家而言，本作補齊了電影版限定機體的重要拼圖，也讓百獸機體陣容更加完整多元，具備一定的系列收藏意義。",
     reviews: [
@@ -10550,6 +10551,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年1月24日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/4549660627968000.html",
     imageUrl: "/images/smp-gaohunter.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2022/4549660627968000.pdf",
     tags: ["SMP0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "百獣戦隊ガオレンジャー", "ガオハンター", "ガオウルフ", "ガオハンマーヘッド", "ガオアリゲイター", "スーパー戦隊", "バンダイキャンディ", "食玩"],
     description: "《百獣戦隊ガオレンジャー》延續東映超級戰隊系列以動物力量為主題的傳統，除了主角合體機甲外，反派陣營同樣擁有能與正義百獸機體抗衡的合體兵器，ガオハンター即為劇中極具張力的正邪對抗象徵之一，設定上可依附體歸屬而呈現善惡兩種樣貌。本商品「SMP 百獣合体ガオハンター」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列出品，2022年1月24日發售，由ガオウルフ、ガオハンマーヘッド、ガオアリゲイター三隻百獸機體合體而成，可重現「ガオハンターEvil」與「ガオハンターJustice」兩種形態切換，重現原作中依善惡立場轉化的劇情張力。合體本體上下半身可分離變形為巨劍與盾牌兩種武裝型態，並可與其他另售百獸零件相容擴充組裝，色分塗裝精緻、無需額外上色即具備高完成度。與GaoKnight同屬《百獣戦隊ガオレンジャー》系列作品，並非勇者王GaoGaiGar相關商品。商品組裝步驟明確，三隻百獸機體各自結構獨立又能緊密合體咬合，展現食玩商品少見的高精度工程設計。武裝形態轉換過程流暢，巨劍與盾牌造型棱角分明，充分傳達反派兵器應有的攻擊性與防禦感。對於收藏《百獣戦隊ガオレンジャー》系列SMP商品的玩家而言，本作與ガオナイト形成正邪對照，補齊了該系列反派機體陣容，具有相當的系列收藏完整度意義。",
     reviews: [],
@@ -10710,6 +10712,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年2月21日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/4549660700326000.html",
     imageUrl: "/images/super-minipla-fighbird2.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2022/4549660700326000.pdf",
     tags: ["SMP0001@中壢收多易", "SMP", "SHOKUGAN MODELING PROJECT", "太陽の勇者ファイバード", "Fighbird2", "ジェット合体グランバード", "グレートファイバード", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ"],
     description: "「SMP 太陽の勇者ファイバード2」為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的第二彈商品，2022年2月21日發售，延續第一彈「武装合体ファイバード」的產品脈絡，進一步擴充《太陽の勇者ファイバード》系列的合體收藏陣容。商品全套共3種零件，其中ファイアーシャトル可獨立變形為「グランバード」型態，並能與ブレスタージェット合體重現「ジェット合体グランバード」，呈現原作中角色升級強化的橋段。若再與第一彈「武装合体ファイバード」組合，即可重現作品中最強形態「グレートファイバード」，完整呈現原作故事後期主角機不斷強化進化的敘事主軸。此商品的推出使收藏者得以將前後兩彈作品串聯展示，重現勇者系列一貫強調「夥伴合體、力量提升」的核心精神，是喜愛《太陽の勇者ファイバード》系列玩家不可錯過的延伸收藏。商品組裝過程各組件結構獨立又能緊密合體咬合，變形轉換機構設計流暢，兼顧食玩商品應有的組裝親和度。塗裝配色延續系列一貫風格，金屬光澤處理提升整體質感。對於收藏《太陽の勇者ファイバード》系列SMP商品的玩家而言，本作串聯前後兩彈形成完整的最強形態展示，是系列收藏中承先啟後、串聯劇情發展的重要延伸商品，深受勇者系列老玩家珍視。",
     reviews: [
@@ -12974,6 +12977,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年4月18日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/4549660551232000.html",
     imageUrl: "/images/smp-daitarn3.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2022/4549660551232000.pdf",
     tags: ["無敵鋼人ダイターン3", "BANDAI", "SMP", "食玩", "サンライズ"],
     description: "《無敵鋼人ダイターン3》是1978年播出、由富野由悠季執導的巨大機器人動畫作品，講述地球守護聯盟對抗侵略地球的邪魔一族「メガノイド」的故事，主角機ダイターン3以誇張華麗的變形機構與豪邁的戰鬥風格著稱，是機器人動畫黃金時期的代表作之一，也是富野作品序列中承先啟後的重要一環。原作設定中ダイターン3全高達120公尺，屬於超巨大級機體，象徵當年機器人動畫追求氣勢磅礡視覺效果的黃金年代美學。本商品以SMP（SHOKUGAN MODELING PROJECT，食玩模型計畫）系列形式立體化，將原設定的龐大機體壓縮重現為約183mm的可動模型，兼顧懷舊份量感與現代可動關節的把玩樂趣。套件可重現變形為戰機形態「ダイファイター」與戰車形態「ダイタンク」的三段變形機構，完整呈現原作標誌性的合體變形場面，並附招牌必殺技「サン・アタック」重現用替換手部零件與各式武器配件，是老牌機器人動畫粉絲重溫經典的絕佳選擇。SMP系列近年持續以食玩規格重新詮釋昭和機器人動畫的經典機體，本作正是延續此一脈絡、向富野由悠季早期作品致敬的代表商品之一。",
     reviews: [],
@@ -14446,6 +14450,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年7月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/1000224048.html",
     imageUrl: "/images/smp-voltesv-legacy-voltin-set.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/1000224048.pdf",
     tags: ["ボルテスV", "ボルテスVレガシー", "SMP", "SHOKUGAN MODELING PROJECT", "食玩", "バンダイ", "プレミアムバンダイ限定"],
     description: "《超電磁マシーン ボルテスV》是1977年播出的長浜忠夫「超電磁三部曲」代表作，描繪五兄弟駕駛五台「ボルトマシン」合體為巨大機器人「ボルテスV」，對抗外星侵略者波羅斯王朝的故事，其熱血的合體變身橋段與「V字斬」必殺技深植亞洲觀眾心中，尤其在菲律賓擁有超高人氣與國民級地位。《ボルテスV レガシー》則是2023年由菲律賓製作的真人實寫版影集，以現代特效技術重新演繹這部經典動畫，讓ボルテスV以嶄新姿態重返螢幕。本商品「SMP ボルテスV レガシー レッツ・ボルトイン！セット」為プレミアムバンダイ限定販售的豪華版本，收錄「ボルトクルーザー」「ボルトボンバー」「ボルトパンザー」「ボルトフリゲート」「ボルトランダー」五台ボルトマシン，可完整變形合體為ボルテスV，並可換裝重現「重戦車モード」；套組另附細節提升零件、劇中各式武裝（天空剣、超電磁ストリングス、超電磁コマ、ボルテスバズーカ、チェーンナックル等）及可組合成兩種造型的「V字スタンド」，兼顧實寫版寫實質感與動畫版原始配色的雙重魅力，是勇者系列食玩收藏線中規格最為豪華的重點商品之一。",
     reviews: [
@@ -14476,6 +14481,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2022/1000166798.html",
     imageUrl: "/images/smp-final-gaogaigar.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2022/1000166798.pdf",
     tags: ["勇者王ガオガイガー", "ファイナル・ガオガイガー", "SMP", "SHOKUGAN MODELING PROJECT", "食玩", "バンダイ", "プレミアムバンダイ限定"],
     description: "《勇者王ガオガイガー》為Sunrise「勇者系列」最終長篇代表作，描繪地球防衛組織GGG運用主角機「ガオガイガー」對抗機械生命體「ゾンダー」的故事；「ファイナル・ガオガイガー」則是源自小說《破界的勇者王 ガオガイガー VS ベターマン》的最強設定形態，後於《超級機器人大戦30》中首度動畫化演出，象徵主角機戰力進化的終極形態，是系列粉絲長年期盼立體化的夢幻機體。本商品為「SHOKUGAN MODELING PROJECT」（SMP）食玩系列首次將「ファイナル・ガオガイガー」立體化的紀念性商品，プレミアムバンダイ限定販售，全高含展示台座約350mm、寬度約500mm，是SMP系列史上規格數一數二龐大的商品，內附巨大化右腕「マーグアーム」與展開後極具震撼力的背部羽翼「プラズマウイング」，並附專用展示台座重現必殺技「ゴルディオンフィンガー」發動瞬間的經典場面。套件色分精良、可動範圍豐富，組裝過程雖具一定難度，但完成後展現出的壓倒性存在感與細節密度，充分展現SMP系列近年挑戰大型合體機體立體化的技術實力，是勇者系列忠實粉絲與大型合金/食玩收藏者不容錯過的夢幻逸品。",
     reviews: [
@@ -14762,6 +14768,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年4月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/1000200713.html",
     imageUrl: "/images/smp-srx-altered-banpreeoth.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/1000200713.pdf",
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "スーパーロボット大戦", "SRX", "バンプレイオス", "バンダイ", "プレミアムバンダイ限定", "OG"],
     description: "「バンプレイオス」是《スーパーロボット大戦》OG世界觀中SRX的強化形態「SRXアルタード」，最初登場於《第3次スーパーロボット大戦α》，設定上是SRX吸收敵方技術後進化而成的最終決戰用機體，繼承了SRX由三機合體的核心精神，同時擁有更強大的火力配置與飛行能力，是OG系列粉絲長年期盼立體化的夢幻機體之一。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」（SMP）系列首次將「バンプレイオス」立體化的紀念性商品，プレミアムバンダイ限定販售，頭頂高約350mm、含背部展開結構全高約450mm，比原本的SMP SRX本體規格更為龐大，是SMP系列中數一數二具存在感的大型商品。套件標配全長約47.5公分的巨大双刃剣「S・Z・O」與「エクスガンナー」等武裝配件，可重現角色招牌的展翼與持劍架勢，色分與塗裝相當精細，關節可動範圍豐富，兼顧大型合體機體應有的展示魄力與把玩樂趣。作為食玩模型少見規格突破常規尺寸的挑戰性商品，本作在玩具評論界也以「破格」規格與價位聞名，展現SMP系列近年持續挑戰大型人氣機體立體化的技術野心，是OG系列與勇者/機戰周邊收藏者極具指標性的收藏逸品。",
     reviews: [
@@ -19286,6 +19293,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年12月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/1000213734.html",
     imageUrl: "/images/smp-jdecker-gunmax.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/1000213734.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "勇者警察ジェイデッカー", "ガンマックス", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者警察ジェイデッカー》為東映與SUNRISE共同推出的1994年勇者系列作品，描寫警察機構「特車二課」與擁有人工智慧的機器人警官並肩打擊犯罪的故事。ガンマックス是劇中登場的白色重機警用機器人，平時可搭乘專屬重機執行任務，關鍵時刻能與愛車合體強化為「ガンマックスアーマー」形態，是主角機ジェイデッカー重要的戰鬥支援夥伴。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，完整重現角色騎乘重機與變形合體機構，兼顧可動性與原作比例還原，是勇者系列SMP收藏中的重要一員。",
     reviews: [
@@ -19308,6 +19316,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年4月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/1000218067.html",
     imageUrl: "/images/smp-jdecker-buildtiger.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/1000218067.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "勇者警察ジェイデッカー", "ビルドタイガー", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者警察ジェイデッカー》中的「ビルドタイガー」由建設隊三名成員麥克蓮、パワージョー、ダンプソン所駕駛的起重機、怪手、傾卸卡車三台工程車合體而成，展現該作「工作車輛也能變身合體」的獨特魅力，與另售的「SMP ドリルボーイ」組合後更可重現「スーパービルドタイガー」形態。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，2025年4月出貨，忠實重現三車合體機構與可動關節設計，兼顧變形玩趣與展示姿態穩定性，是勇者警察ジェイデッカー系列SMP收藏中不可或缺的支援機體。",
     reviews: [
@@ -19330,6 +19339,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年6月23日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/4570117919923000.html",
     imageUrl: "/images/smp-magiking.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/4570117919923000.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "魔法戦隊マジレンジャー", "マジキング", "スーパー戦隊", "バンダイキャンディ", "食玩"],
     description: "《魔法戦隊マジレンジャー》為東映超級戰隊系列2005年作品，第29作，以魔法家族對抗地底魔界為主題。マジキング是劇中戰隊成員操縱五台魔法機獣「マジマジン」變形合體而成的主力機器人，兩段式合體先組成マジドラゴン、再進一步變形為マジキング人型形態。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，2025年6月23日發售，適逢作品播出20週年紀念，展開雙翼寬度約36公分，關節結構可重現拍打振翅等細緻動作，並附有重現必殺技「キングキャリバー・マジックスラッシュ」的專用武裝零件，是勇者機甲以外少見以魔法戰隊為題材的SMP合體機甲力作。",
     reviews: [
@@ -19352,6 +19362,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年4月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2026/1000237072.html",
     imageUrl: "/images/smp-magiking-shadow.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2026/1000237072.pdf",
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "魔法戦隊マジレンジャー", "マジキング", "シャドウバージョン", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "本商品為「SMP 魔神合体マジキング」的限定異色版本，重現劇中「シャドウバージョン」的神秘紫黑配色形象，並同梱可重現特殊場面的魔法陣可動支援零件套組。作為Premium Bandai限定販售商品，本品沿用與一般版マジキング相同的五機合體與雙段變形機構，僅在配色與附屬零件上做出差異化，是提供給已收藏標準版玩家的加購型稀有異色收藏品，對於追求系列完整度的マジレンジャー與SMP合體機甲玩家而言別具意義。",
     reviews: [
@@ -19372,6 +19383,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年11月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/1000214259.html",
     imageUrl: "/images/smp-daimos-battleturn.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/1000214259.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "闘将ダイモス", "ダイモス", "勇者シリーズ", "永光ロマンロボシリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《闘将ダイモス》是永光映像1978年推出的超級機器人動畫，講述主角駕駛巨型拖車「トランザー」變形為人型機器人ダイモス，與外星侵略者戰鬥的故事，與《コンバトラーV》《ボルテスV》並列「永光浪漫機器人系列」代表作。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的Premium Bandai限定豪華版「バトルターンセット」，除ダイモス本體變形機構外，另附雙龍剣、三龍棍等多款武裝零件、強化用背部零件，以及支援戰機ガルバーFX2，可重現「必殺烈風正拳突き」「必殺烈風大夢キック」等經典必殺技姿勢，是集結永光浪漫機器人系列魅力於一身的SMP豪華收藏品。",
     reviews: [
@@ -19394,6 +19406,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年2月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/1000215815.html",
     imageUrl: "/images/smp-grendizeru-spazer.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/1000215815.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "グレンダイザーU", "グレンダイザー", "スペイザー", "永井豪", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《グレンダイザーU》是永井豪原作經典機器人動畫《UFOロボ グレンダイザー》睽違約50年推出的重製新作動畫。スペイザー為主角機グレンダイザー的飛行支援載具，造型呈圓盤狀，可透過替換頭部與肩部零件與另售的「SMP グレンダイザーU グレンダイザー」本體合體，重現飛行待機狀態的原作經典畫面。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的Premium Bandai限定商品，2025年2月出貨，以模具原色搭配細節塗裝重現配色，並附專用展示台座，是重現新版動畫視覺魅力的合體支援機收藏品。",
     reviews: [
@@ -19438,6 +19451,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年4月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/1000217774.html",
     imageUrl: "/images/smp-jdecker-drillboy.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/1000217774.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "勇者警察ジェイデッカー", "ドリルボーイ", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者警察ジェイデッカー》為東映與SUNRISE共同推出的1994年勇者系列作品，描寫警察機構「特車二課」與擁有人工智慧的機器人警官並肩打擊犯罪的故事。ドリルボーイ是劇中登場的少年型機器人警官，車輛形態為鑽頭戰車「ドリルタンク」，個性活潑好動、熱愛足球，是全劇氣氛擔當的角色之一；單獨行動之餘，亦可與另售的「SMP ビルドタイガー」合體強化為「スーパービルドタイガー」，展現勇者系列一貫的多機合體魅力。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，2025年4月出貨，完整重現角色車體變形機構與關節可動範圍，並附專屬足球配件與支撐零件，可重現角色招牌的踢球動作姿勢，是勇者警察ジェイデッカー系列SMP陣容中兼具玩趣與角色魅力的重要一員。",
     reviews: [
@@ -19460,6 +19474,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年12月23日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/4570117918476000.html",
     imageUrl: "/images/smp-jdecker-dukefire.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/4570117918476000.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "勇者警察ジェイデッカー", "デュークファイヤー", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者警察ジェイデッカー》劇情後半登場的救護車型機器人警官デューク，平時以救護車形態執行救援任務，變身為人型後可與支援機「ファイヤーローダー」合體強化為「デュークファイヤー」形態，象徵劇中「警察與消防救援」跨職能合作的設定巧思；若再與另售的「SMP 勇者警察ジェイデッカー」合體，更可重現終極形態「ファイヤージェイデッカー」。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列第二彈作品，一般通路販售，2024年12月23日發售，胸口大型十字紋章與消防金屬色澤塗裝重現角色救援英雄形象，完整重現救護車變形機構與大型光劍武裝配件，可動關節設計兼顧變形穩定性與展示姿態的豐富度，是勇者警察ジェイデッカー系列SMP陣容中人氣度極高的支援機體收藏品。",
     reviews: [
@@ -19524,6 +19539,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年10月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/1000212987.html",
     imageUrl: "/images/smp-victory-mars.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/1000212987.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "救急戦隊ゴーゴーファイブ", "ビクトリーマーズ", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《救急戦隊ゴーゴーファイブ》為東映超級戰隊系列1999年作品，第23作，以「人命重於一切」為核心主題，講述五名兄弟姊妹駕駛救援機甲對抗災害怪獸的故事，風格上更貼近消防救難題材而非傳統戰鬥敘事。「ビクトリーマーズ」由五台救援載具「マーズマシン」合體而成的主力機器人，手持「ブレイバーソード」大劍與「マーズキャノン」加農砲兩大主要武裝，是劇中兄弟姊妹齊心協力的象徵機體。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，2024年10月出貨，完整重現五機合體機構與武裝配件，並可與同系列「超装光」發光效果零件互通適用，是救急戦隊ゴーゴーファイブ與SMP合體機甲收藏陣容中規格完整、人氣度高的一款。",
     reviews: [
@@ -19567,6 +19583,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年6月24日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/4570117913570000.html",
     imageUrl: "/images/smp-gingaioh.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/4570117913570000.pdf",
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "星獣戦隊ギンガマン", "ギンガイオー", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《星獣戦隊ギンガマン》是東映超級戰隊系列1998年作品，第22作，講述傳承自星獸一族的五名戰士對抗宇宙海賊團的故事，以奇幻風格與星獸夥伴的羈絆為系列一大特色。「ギンガイオー」是由三隻星獸「ギンガリオン」「ギンガゴリラ」「ギンガコンドル」合體而成的主力機器人，手持光之聖劍「ギンガの剣」戰鬥，是劇中極具人氣的合體機甲之一。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列標準色版本，一般通路販售，2024年6月24日發售，完整重現三獣合體變形機構，四隻星獸夥伴皆施以塗裝並可開闔嘴部，其中ギンガゴリラ更重現太鼓演奏機關、手腕收納設計等原作巧思，忠實再現初代「DX超合金 星獣合体ギンガイオー」的經典造型與細節，是星獣戦隊ギンガマン與SMP合體機甲收藏陣容中的核心必備一件，亦是後續黑色限定版本「ブラックバージョン」的標準對照組。",
     reviews: [
@@ -19589,6 +19606,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年11月25日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2024/4570117916755000.html",
     imageUrl: "/images/smp-grendizeru-grendizer.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2024/4570117916755000.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "グレンダイザーU", "グレンダイザー", "永井豪", "バンダイキャンディ", "食玩"],
     description: "《グレンダイザーU》是永井豪原作經典機器人動畫《UFOロボ グレンダイザー》睽違約50年推出的重製新作動畫，主角デューク・フリード駕駛主角機「グレンダイザー」對抗弗蘭達星侵略軍的故事再度以全新演出呈現。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，重現グレンダイザー本體造型，即使不塗裝也具備高精度色分割與銳利雕刻細節，並附雙持迴力鏢「ダブルハーケン」武裝，可分離展示或手持連結兩種形態，同梱四種替換手掌零件（握拳、平手、持械、螺旋鑽衝拳）豐富展示表現。透過替換頸部與肩部零件，可與另售的「SMP グレンダイザーU スペイザー」合體，重現原作經典的飛行合體場面，是重現新版動畫視覺魅力的核心主體收藏品，一般通路即可購得。",
     reviews: [
@@ -19611,6 +19629,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年7月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/1000224052.html",
     imageUrl: "/images/smp-goldran-kuuei.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/1000224052.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "黄金勇者ゴルドラン", "空影", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《黄金勇者ゴルドラン》是SUNRISE勇者系列1995年作品，第6作，描寫三名少年與黃金龍族夥伴冒險的故事。「空影」是劇中登場的黃金忍者型機器人，以赤金雙色搭配大型金色羽翼造型為特徵，個性沉穩神祕、擅長忍術般的隱密戰法，與主角機「ゴルドラン」的活潑形象形成鮮明對比；兩者可合體升級為「スカイゴルドラン」形態，展現勇者系列一貫的多機合體魅力。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列作品，Premium Bandai限定販售，2025年7月出貨，完整重現角色忍者般的關節可動設計與大型羽翼展開機構，並可與另售「SMP 黄金勇者ゴルドラン」本體合體重現原作經典大空合體場面，是勇者系列SMP陣容持續擴充中人氣度極高的重要一員。",
     reviews: [
@@ -19634,6 +19653,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年7月28日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2025/4570117920660000.html",
     imageUrl: "/images/smp-goldran.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2025/4570117920660000.pdf",
     tags: ["SMP0003", "SMP", "SHOKUGAN MODELING PROJECT", "黄金勇者ゴルドラン", "ゴルドラン", "勇者シリーズ", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《黄金勇者ゴルドラン》是SUNRISE勇者系列1995年作品，第6作，描寫三名少年與黃金龍族夥伴冒險的故事，風格較系列其他作品更加輕鬆明快。ゴルドラン由少年駕駛的超級跑車「ドラン」變形為人型機器人，再與黃金龍夥伴「ゴルゴン」合體而成，眼部採用透明紅色零件呈現生命感，並可重現張口、利爪等細節造型。本商品為BANDAI食玩事業部「SHOKUGAN MODELING PROJECT」系列的Premium Bandai限定商品，2025年7月28日發售，具備寬廣可動域，能重現原作充滿躍動感的戰鬥姿勢，是勇者系列SMP陣容持續擴充的重要一員。",
     reviews: [
@@ -25104,6 +25124,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月23日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2023/4549660582991000.html",
     imageUrl: "/images/smp-r1-rgun.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2023/4549660582991000.pdf",
     tags: ["スーパーロボット大戦", "スーパーロボット大戦OG", "SMP", "R-1", "R-GUN", "BANDAI", "食玩"],
     description: "《スーパーロボット大戦OG》系列原創機體「R-1」與其支援武裝「R-GUN」，是主角機「R-1」戰鬥系統中極具代表性的組合，R-1可變形為高速飛行型態「R-ウイング」，R-GUN則能變形為巨型砲擊武器「メタルジェノサイダーモード」，兩者亦可合體強化火力。本商品為「SMP」食玩模型系列，2023年1月23日發售，忠實重現原畫中鮮明的機體配色與多段變形機構，是スパロボ原創機體收藏線中人氣經久不衰的代表作。",
     reviews: [
@@ -25250,6 +25271,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年8月21日",
     officialUrl: "https://www.bandai.co.jp/candy/products/2023/4549660836322000.html",
     imageUrl: "/images/smp-dairenoh.jpg",
+    manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2023/4549660836322000.pdf",
     tags: ["五星戦隊ダイレンジャー", "スーパー戦隊", "SMP", "大連王", "BANDAI", "食玩", "東映"],
     description: "《五星戦隊ダイレンジャー》劇中，五位氣伝獣「龍星王」「星獅子」「星天馬」「星麒麟」「星鳳凰」五星合體組成巨大機器人「大連王」，是90年代初期超級戰隊系列氣勢磅礡的合體機械代表作，其中龍星王亦可獨立變化為人形「気伝武人」。本商品為「SMP」食玩模型系列，共3個入，2023年8月21日發售，完整重現五星合體機構與龍星王武人變化，另可將星獅子、星天馬、星麒麟、星鳳凰四星合體組成「天空気殿」，是戰隊機械人收藏線中評價極高的代表作。",
     reviews: [],
