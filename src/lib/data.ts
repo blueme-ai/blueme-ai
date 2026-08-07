@@ -25177,6 +25177,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年9月",
     officialUrl: "https://bandai-hobby.net/item/01_6854/",
     imageUrl: "/images/rg-g3-gundam-ver2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3900",
     tags: ["機動戦士ガンダム", "MSV", "RG", "G-3ガンダム", "RX-78-3", "BANDAI SPIRITS", "ガンプラ", "プレミアムバンダイ限定"],
     description: "「G-3ガンダム」是《機動戦士ガンダム》MSV企劃中登場的RX-78系列第三號試作機，塗裝以低視度灰綠色為特徵，用於實戰數據測試機的設定，是鋼彈可變裝甲設計譜系中極具代表性的塗裝變體之一。本商品為「RG（リアルグレード）Ver.2.0」規格重新開發的版本，2025年9月以Premium Bandai限定形式發售，象徵機體特色的肘部、膝部、腳踝護甲磁力塗層圓形細節部位皆為新規造形，並沿用RG Ver.2.0系列纖細擬真的關節結構與寬廣可動範圍，是喜愛收藏鋼彈色彩變體、比較同一素體不同塗裝規格的資深玩家重點收藏對象。",
     reviews: [
