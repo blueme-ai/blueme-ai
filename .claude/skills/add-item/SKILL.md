@@ -83,9 +83,17 @@ Also note: the site alternates between rendering product names in Japanese and E
 
 ### Gunpla plastic kits — manual.bandai-hobby.net
 
-**Correction (2026-08-07): earlier guidance here said Gunpla kits have no online manuals — that was wrong and cost real search time before being caught.** `https://manual.bandai-hobby.net/` is a dedicated, searchable Gunpla manual database (product name / 品番 / JAN code search, plus release-date/brand/series filters). Each result links to `manual.bandai-hobby.net/menus/detail/{id}`, which hosts both the main `取扱説明書` and any `補足説明書` (supplementary instructions) for that kit. A link to the detail page itself is an acceptable `manualUrl` value — it doesn't have to be a direct PDF link, per the user's explicit call on this (2026-08-07).
+**Correction (2026-08-07): earlier guidance here said Gunpla kits have no online manuals — that was wrong and cost real search time before being caught.** `https://manual.bandai-hobby.net/` is a dedicated, searchable Gunpla manual database (product name / 品番 / JAN code search, plus release-date/brand/series filters). Each result links to `manual.bandai-hobby.net/menus/detail/{id}`.
 
-This line hasn't had a full backfill pass yet as of 2026-08-07 — scope is large (Gunpla is the biggest category in the catalog) and hasn't been swept.
+**Use the `menus/detail/{id}` page as `manualUrl`, not a direct PDF link.** A direct PDF (`manual.bandai-hobby.net/pdf/{id}.pdf`) does exist and works, but the detail page is the correct target: special/limited editions often ship a `取扱説明書` (main manual) *and* a separate `補足説明書` (supplement covering just what differs from the standard release) — linking straight to one PDF silently drops the other. User confirmed this preference explicitly (2026-08-07) after noticing a limited-edition kit (detail id 4325) has exactly this two-document setup.
+
+Search mechanics (reverse-engineered 2026-08-07, no browser session needed once known):
+- The site's search form is plain GET despite looking JS-driven: `https://manual.bandai-hobby.net/?sort=new&freeword={query}&sy=&sm=&ey=&em=` — `curl` it directly, no JS rendering required for results.
+- **Keep the query short — a single core CJK term only.** Long queries (full product name plus English/version suffixes, e.g. `"RX-78-3 G-3ガンダム Ver.3.0 THE GUNDAM BASE LIMITED"`) return **zero** results; the search appears to be doing a strict multi-token AND match that breaks easily. Strip to just the katakana/kanji mecha or character name (e.g. `G-3ガンダム`) and re-filter candidates yourself.
+- Results are server-rendered HTML list items: `<a href="/menus/detail/{id}">` containing `<div class="bl_result_name">{Japanese name}<span class="bl_result_name_en">{English name}</span></div>` and a `<dd>{release date}</dd>`. Match candidates against the target by exact normalized name (strip whitespace/fullwidth-halfwidth differences) — **do not** loosely substring-match, this line has the same version-confusion risk as everything else here (Ver.Ka vs Ver.2.0 vs base, standard vs Gundam Base限定 vs color variants of the same kit number all coexist as separate results for a shared base name).
+- Roughly a third of MG-line catalog entries have no usable Japanese name (`nameJa` missing or Latin-only) to search with at all — those need a different approach (derive the Japanese kit name from the official page, or skip).
+
+Only a partial MG-grade pass has been done as of 2026-08-07 (11 of 115 MG items confirmed) — scope is large (Gunpla is the biggest category in the catalog) and the rest of MG plus all other grades (HG/RG/PG/etc.) haven't been swept.
 
 ### Pre-2022/4 TAMASHII items — support.bandaispirits.co.jp archive (fallback)
 
