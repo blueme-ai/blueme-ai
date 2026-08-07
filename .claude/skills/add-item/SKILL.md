@@ -59,10 +59,39 @@ Gemini Vision (or your own visual read) misidentifies visually-similar Gundam se
 
 ## `manualUrl` field (optional)
 
-Only **Bandai SMP/candy-toy** and **TAMASHII completed-figure lines** (超合金/CHOGOKIN, DX超合金, Figuarts, SOUL OF CHOGOKIN) have online instruction manuals. **Gunpla plastic kits do not** — don't bother searching. See `feedback_blueme_manual_field` in the user's Claude memory for the full URL-pattern writeup; short version:
-- SMP/candy: `https://www.bandai.co.jp/candy/pdf/guide{year}/{10-digit-product-id}.pdf` (same id as the item's `bandai.co.jp/candy/products/{year}/{id}.html` page).
-- TAMASHII: search-engine lookup only (`"<product name> 取扱説明書"` via `browser-act stealth-extract` on Google), filter for `tamashiiweb.com/storage/.../*.pdf`. Only items released 2022/4 or later have one — don't search for older ones.
-- Leave the field undefined (don't add the key at all) if genuinely not found, don't guess a URL.
+Only **Bandai SMP/candy-toy** and **TAMASHII completed-figure lines** (超合金/CHOGOKIN, DX超合金, Figuarts, SOUL OF CHOGOKIN) have online instruction manuals. **Gunpla plastic kits do not** — don't bother searching. See `feedback_blueme_manual_field` in the user's Claude memory for background; full lookup procedure below (last verified 2026-08-07).
+
+### SMP / candy-toy line
+
+Primary pattern: `https://www.bandai.co.jp/candy/pdf/guide{year}/{product-id}.pdf`, where `{product-id}` is the same id segment as the item's `bandai.co.jp/candy/products/{year}/{id}.html` official page (works whether that id is a plain 10-digit number or a longer JAN-derived string). `curl -sI` and confirm `content-type: application/pdf` (may render as `Application/pdf`, still valid) before trusting it.
+
+If that 404s, the real file may live under a different folder/id than the product page uses — WebFetch the product page itself and look for the "WEB取り扱い説明書はこちら" button's actual href. Seen variants in the wild: `pdf/2107smp/{id}.pdf` (2021-era SMP items), or a manual id that doesn't match the product-page id at all (e.g. one SMP item's page used id `1000162722` but its real manual was filed under `1000165077`). Always verify with `curl -sI` — never guess-and-ship a folder/id combo that hasn't returned `200 application/pdf`.
+
+### TAMASHII completed-figure line (超合金魂/DX超合金/Figuarts/etc.)
+
+**Only items released 2022/4 or later** have a manual on tamashiiweb.com — this is a hard cutoff confirmed by the site's own manual-search page. Don't spend time searching pre-2022/4 items against tamashiiweb.
+
+Pattern: `https://tamashiiweb.com/storage/images/products/imported/item_{10-digit-item-id}_{random-string}_300.pdf`. The `{item-id}` is the numeric id from the item's `tamashiiweb.com/item/{id}/` page (zero-padded to 10 digits); the `{random-string}` segment is not guessable and must be found per-item — WebSearch `"<product name> 取扱説明書"` or `"<product name> PDF"` and look for a matching `tamashiiweb.com/storage/.../*.pdf` link, or WebFetch/`curl` the item page directly and grep for `/storage/images/products/imported/item_{item-id}` in the HTML (og:image and manual links usually share the same random string per item, so the product photo URL can hint at it, but always verify the manual URL itself separately — don't assume they're identical). Verify with `curl -sI` for `content-type: application/pdf`.
+
+### Pre-2022/4 items — support.bandaispirits.co.jp archive (fallback)
+
+tamashiiweb explicitly hands off pre-2022/4 manuals to an external site: **support.bandaispirits.co.jp**. This site is **geo-blocked to Japan IPs** — plain `curl`/`WebFetch` return a bare `403 Forbidden` (102-byte nginx error page) even for the homepage. Access it via `browser-act stealth-extract <url> --dynamic-proxy JP` instead (a Japan-region dynamic proxy is enough; no persistent browser needs to be created for this — `stealth-extract` alone bypasses the geo-block per call).
+
+Procedure:
+1. WebSearch `site:support.bandaispirits.co.jp {product name}` — results are titled `【取扱説明書】{product name}` at `https://support.bandaispirits.co.jp/s/article/{article_id}` (article_id is either a 13-digit JAN-like number or a short internal id like `000000943`).
+2. The actual PDF is hosted **unblocked, no proxy needed** at a fixed S3 path derived from that article_id: `https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/{article_id}.pdf`. `curl -sI` it directly — some article_ids 403 here too (manual genuinely not digitized), most legacy `000000xxx`-style ids do.
+3. **Before trusting a match, fetch the article page itself** (`browser-act stealth-extract "https://support.bandaispirits.co.jp/s/article/{id}" --content-type html --dynamic-proxy JP`, then grep for `【取扱説明書】[^<"]+`) and compare the *exact* title against the target product's *exact* variant name.
+
+**This last step is not optional.** Real-world hit rate on a from-scratch sweep of ~220 old items was ~7% after filtering — and roughly a third of the search-suggested "matches" before filtering were wrong-variant mismatches, not genuine misses. Confirmed failure modes, all for the *same* character/model code:
+- `リニューアルバージョン` (renewal) vs `(Tokyo Limited)` vs plain `R` suffix — different releases, different manuals (e.g. GX-01R, GX-02R, GX-40 all tripped this).
+- Base `聖闘士聖衣神話` line vs `聖闘士聖衣神話EX` (Exceed Model) reissue — same character, different physical product, almost never share a manual. If the target name has no "EX" and the only article found does, that's a mismatch, not a hit.
+- `初期青銅聖衣`/`最終青銅聖衣` (initial/final bronze cloth) and plain vs `＜リバイバル版＞` (revival reissue) — same character, different release year, different product. A catalog entry's `releaseDate` is a useful tell: if it says e.g. 2003/2004 and the matched article title says `＜リバイバル版＞`, that revival came out years later — wrong product, drop it.
+
+When delegating this search to a sub-agent, tell it explicitly to under-report ("not found") rather than guess on any of the above ambiguities, and to verify the exact article title — then re-verify its "found" results yourself before writing them to `data.ts`, since even careful agents will occasionally hand back a title-mismatched URL.
+
+### General rule
+
+Leave the field undefined (don't add the key at all) if genuinely not found — don't guess a URL, and don't apply a URL whose fetched title doesn't exactly match the target item's variant.
 
 ## Reviews & YouTube
 
