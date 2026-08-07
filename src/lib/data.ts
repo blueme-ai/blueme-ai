@@ -7481,8 +7481,9 @@ export const collection: CollectibleItem[] = [
     price: "¥4,620（税込）",
     releaseDate: "2019年10月",
     height: "約152mm（設定全高15.2mより換算）",
-    officialUrl: "https://manual.bandai-hobby.net/menus/detail/2742",
+    officialUrl: "https://bandai-hobby.net/item/01_5629/",
     imageUrl: "/images/mg-gundam-f91-ver2-harrison.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2742",
     tags: ["ガンダムF91", "機動戦士クロスボーン・ガンダム", "MG", "1/100", "BANDAI SPIRITS", "ガンプラ", "ハリソン・マディン", "P-Bandai"],
     description: "《機動戦士クロスボーン・ガンダム》是《機動戦士ガンダムF91》的漫畫續篇，故事發生在宇宙世紀0133年，講述木星帝國殘黨組織「クロスボーン・バンガード」與地球圈的鬥爭。ハリソン・マディン是劇中登場的舊地球聯邦軍王牌駕駛員，戰後轉投木星方陣營，其座機正是當年F91計畫試作機之一，塗裝以深藍配黃色為主，是與主角機白色F91形成強烈對比的宿敵機體，象徵著同源機體因立場不同而走向不同命運的戲劇張力。\\n\\n本商品為MG Ver.2.0套件的專用配色版本，以成形色與水轉印水貼紙重現ハリソン機特有的深藍、黃色塗裝，右下臂並追加專用造型零件以區隔於標準版，細節考究。套件結構與一般彩色版、残像イメージカラー版完全相同，僅更換配色與部分零件，機構層面同樣具備MG Ver.2.0的散熱口特效相容性、V.S.B.R.展開機構與可開闔頭部裝甲。透過Premium Bandai限定販售，屬限量流通商品，是喜愛F91宿敵機體與漫畫外傳世界觀收藏者的重點目標之一。",
     reviews: [
