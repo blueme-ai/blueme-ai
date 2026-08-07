@@ -6261,7 +6261,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年2月（P-Bandai限定）",
     officialUrl: "https://p-bandai.com/us/item/F2805109001",
     imageUrl: "/images/mg-barbatos-lupus-expansion-parts.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/4559.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4559",
     tags: ["ガンダム", "バルバトスルプス", "MG", "1/100", "Bandai", "P-Bandai限定", "鉄血のオルフェンズ"],
     description: "『機動戰士鋼彈 鐵血的孤兒』是講述火星獨立勢力少年兵團「鐵華團」在資源與政治鬥爭中求生的作品，主角三日月・奧古斯所駕駛的「鋼彈巴巴托斯」系列機體貫穿全劇，隨劇情發展不斷改裝強化。「巴巴托斯露普斯」正是第二期後半登場的強化形態，於劇中對戰巨型MA哈修瑪爾時解放阿賴耶識系統限制器，展現外裝嚴重損毀仍持續戰鬥的悲壯畫面，是全系列最具衝擊力的場景之一。本套件為Premium Bandai限定擴充零件組，需另購MG本體方能使用，內容包括對哈修瑪爾戰使用的大型武裝「瓦爾基莉亞戰斧劍」、雙聯裝臂部火箭砲、右肩與頭部破損重現零件、眼部與左肩能量效果零件、專用握把手部零件、輔助展示台座，以及新設計水轉印水貼紙。戰斧劍可重現伸長縮短兩種狀態並可分離展示，因全長逼近40公分，特別附上輔助台座與專用手部零件分散重量。本商品2025年11月開放預購，2026年2月出貨，售價2,970日圓，購買前需確認已持有可拆解重組的MG本體。",
     reviews: [
@@ -8507,7 +8507,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2011年2月26日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1775/",
     imageUrl: "/images/mg-deathscythe-hell-ew.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/579.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/579",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "デスサイズヘル", "Endless Waltz"],
     description: "《新機動戰記鋼彈W Endless Waltz》中杜歐・馬克士威自稱死神、性格開朗詼諧卻背負孤兒院慘劇的沉重過去，習慣以玩笑掩飾內心傷痛，是五位鋼彈少年中反差感最強烈的角色之一。其座駕鋼彈死神地獄EW是劇場版中經強化改裝的死神系機體，以隱匿與奇襲戰術見長，招牌的雙持光束鐮刀與大型斗篷正是其角色性格與戰鬥風格的具象化，也讓「死神」形象在系列中留下深刻印記。\n\n套件採用可動性優異的XXX-Gフレーム新規骨架，全身以黑色為基調、搭配深紅裝甲細節重現劇場版限定的死神形象。最大特徵為背部大型斗篷アクティブクローク，搭載新規開閉機構，可自然重現振翅般展開與收攏合身兩種狀態，呈現原作中招牌的隱匿與奇襲姿態；武裝配置雙持光束鐮刀，標誌設計由加藤單操刀。內容物包含成形零件19枚、貼紙（鋁箔／marking）各一組、鋼彈專用水轉印貼紙一組及組裝說明書。2011年2月26日發售，定價5,390日圓（含稅），是EW系列中人氣長銷的一款。",
     reviews: [
@@ -8554,7 +8554,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年03月28日",
     officialUrl: "https://bandai-hobby.net/item/01_298/",
     imageUrl: "/images/mg-gundam-double-x.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/622.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/622",
     tags: ["ガンダム", "機動新世紀ガンダムX", "MG", "1/100", "Bandai", "ガンダムダブルエックス", "衛星系統搭載機"],
     description: "《機動新世紀鋼彈X》後段劇情中，加洛德・朗駕駛鋼彈X的後繼機GX-9901-DX鋼彈雙X迎戰更強大的威脅，雙衛星系統的搭載使其光束火力較前作大幅提升，同乘的少女蒂法・亞蒂爾亦在劇中扮演連結新人類感應與衛星系統操控的關鍵角色，兩人的羈絆是後段劇情的重要主軸，也讓這台後繼機承載著超越單純火力提升的情感意義。\n\n本套件內部骨架與反射鏡零件構成沿用MG鋼彈X的設計，強化了作為後繼機的說服力。最大特色雙衛星加農砲可完整重現展開時的反射鏡機關，內部採用與MG鋼彈X相同的鏡面貼紙表現集光狀態；前臂與小腿的散熱器亦可展開，打開外側護蓋時內部葉片會連動開闔；加農砲可滑動展開，並可鎖定於肩部相機邊框以確保姿勢固定，發射角度亦可調整。附屬配件包含盾牌、巴斯特步槍、雙衛星加農砲、雙HYPER光束軍刀，以及加洛德・朗與蒂法・亞蒂爾的比例人偶，收藏與把玩兼具的完成度頗高。",
     reviews: [
@@ -8578,7 +8578,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年05月25日",
     officialUrl: "https://bandai-hobby.net/item/01_5808/",
     imageUrl: "/images/mg-aile-strike-verrm.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/849.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/849",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "主角機", "ストライク", "Ver.RM"],
     description: "《機動戰士鋼彈SEED》中基拉・大和駕駛的攻擊鋼彈是天然者陣營中罕見擁有頂尖戰鬥能力的機體，翔翼型（Aile）為其標準搭配形態，配備光束步槍與裝甲用細劍執行多樣任務，是SEED系列最具代表性的主角機之一，也是奠定基拉「非情願的英雄」形象的關鍵座機。本套件為配合HD Remaster十週年企劃推出的全新設計版本，代號「Ver.RM」，與收藏中另一件2003年發售的GAT-X105+AQM/E-X01擴充套件版本為不同商品——本套件為單體基礎機身，不含AQM/E-X01加農/劍式攻擊背包擴充零件（該擴充背包為另售商品）。\n\n本次以GAT-X骨架規格為基礎，比例、輪廓與細節配置全面翻新，呈現接近PG等級的肌肉感與立體感，飛行用背包Aile Striker造型也大幅進化；標準配備光束步槍與裝甲用細劍。背部背包接點與舊版相容，可另外裝備透過P-Bandai販售的LAUNCHER STRIKER／SWORD STRIKER PACK擴充組件，重現完全裝備型態Perfect Strike Gundam。日版建議售價4,200日圓（未稅）。",
     reviews: [
@@ -12905,7 +12905,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年6月",
     officialUrl: "https://bandai-hobby.net/item/01_1705/",
     imageUrl: "/images/mg-garmor-realtype.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/559.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/559",
     tags: ["機動戦士ガンダム", "MSV", "RX-78-2", "Gアーマー", "BANDAI SPIRITS", "MG", "ガンプラ", "リアルタイプカラー"],
     description: "「Gアーマー」是《機動戦士ガンダム》系列中MSV（Mobile Suit Variation）企劃所衍生的經典支援兵器設定，由主角機RX-78-2鋼彈與大型支援戰機「Gファイター」合體而成，象徵一年戰爭初期聯邦軍在缺乏成熟MS運用體系下，摸索出的過渡性複合戰術方案，兼具運輸、支援與變形多重機能，是MSV世界觀中極具代表性的存在。本商品以電影海報等當年宣傳美術為藍本重現「リアルタイプカラー」配色，相較一般鮮豔玩具色更貼近寫實軍武質感，呈現MSV考證派玩家偏好的美術路線。套件可重現RX-78-2鋼彈與Gファイター合體變形為Gアーマー、Gスカイ、Gブル等多種形態的機構，完整呈現該套裝備豐富的戰術運用彈性。武裝方面極為豐富，標配光束步槍、超級凝固汽油彈、超級火箭筒、光束軍刀×2、鋼彈鎚、盾牌×2等多樣配件，充分滿足重現各種經典場面與大量武裝陳列的收藏需求，是MG系列中份量感與變形樂趣兼具的代表作。以寫實配色重現這台承載聯邦初期複合戰術構想的支援兵器，也讓玩家得以從美術考證的角度重新認識MSV企劃背後豐富的設定深度。",
     reviews: [
@@ -13921,7 +13921,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年5月",
     officialUrl: "https://bandai-hobby.net/item/01_1753/",
     imageUrl: "/images/mg-musha-gundam-mk2.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/577.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/577",
     tags: ["BOX0006", "ガンプラ", "MG", "1/100", "Bandai", "ガンダム無双", "武者ガンダム", "Mk-II"],
     description: "《ガンダム無双 Special》是萬代南夢宮推出、以「無雙」動作系統為基礎的高達題材遊戲作品，系列中特別企劃了融合日本戰國武將與高達機體的「武者ガンダム」系列原創機種，「武者ガンダムMk-II」正是這條企劃線中的人氣機體之一，將傳統高達設計與日式甲冑美學巧妙結合。本商品以「MG ガンダムMk-II Ver.2.0」的既有骨架與比例為基礎，重新設計外裝呈現武士造型，兼顧原機動戰士系列的合理機構與武者系列特有的和風裝飾細節。塗裝方面採用金銀雙色電鍍工藝，呈現宛如日本傳統甲冑鎧甲般豪華絢爛的貴族武將質感，與一般高達機體的軍事風格塗裝形成強烈反差，極具視覺衝擊力。標準配備武裝齊全，包含雙刀、步槍、薙刀等多款和風冷兵器與熱兵器組合，充分展現武者系列一貫融合傳統武術與科幻機甲的設計理念，是喜愛跨界企劃與武者高達系列的收藏者值得入手的一款進階組裝模型。此類跨界企劃商品是萬代將既有骨架系統延伸應用於不同主題造型的常見手法，透過保留合理機構、置換外裝設計的方式創造嶄新視覺風貌，對於同時喜愛高達系列與武者頑駄無和風題材的玩家而言別具吸引力。",
     reviews: [
@@ -13952,7 +13952,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年11月22日",
     officialUrl: "https://bandai-hobby.net/item/01_6764/",
     imageUrl: "/images/mg-gundam-barbatos-lupus.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/3994.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3994",
     tags: ["BOX0006", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダム 鉄血のオルフェンズ", "ガンダムバルバトス", "バルバトスルプス"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》是2015年播出的高達系列作品，講述火星地區少年傭兵集團「タービンズ」與主角三日月・オーガス駕駛鋼彈搏鬥求生的殘酷成長故事，作品以寫實粗獷的機體設計與角色描寫著稱。「ガンダムバルバトス」是本作主角機，隨劇情推進歷經多次強化改裝，「ルプス」形態是其第四階段的進化型態，以狼型剪影著稱，象徵機體愈趨兇猛的戰鬥姿態，也是劇中戰鬥表現最為激烈的形態之一。本商品睽違六年終於推出MG比例立體化，採用萬代近年開發的最新版「ガンダム・フレーム」骨架系統，相較舊版關節結構大幅提升可動範圍與穩定性，能重現原作中角色近身肉搏、翻滾迴避等高強度動態戰鬥姿勢。整體造型延續劇中粗獷寫實的設計語彙，狼型輪廓經過細膩考證重現，對喜愛鉄血のオルフェンズ世界觀與MG系列進階組裝樂趣的玩家而言，是引頸期盼已久的重點商品。本商品作為《鉄血のオルフェンズ》主角機系列MG化的重要延伸，補齊了系列玩家長年期盼的進化形態立體化商品，對於致力收齊バルバトス各階段強化形態的資深鋼普拉收藏者而言，是不可或缺的一款重點商品。",
     reviews: [],
@@ -14031,7 +14031,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年3月",
     officialUrl: "https://bandai-hobby.net/item/01_1695/",
     imageUrl: "/images/mg-shinmusha-sengoku-no-jin.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/567.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/567",
     tags: ["BOX0006", "ガンプラ", "MG", "1/100", "Bandai", "武者頑駄無", "真武者頑駄無", "戦国の陣"],
     description: "「武者頑駄無」是萬代SD鋼彈系列中融合日本戰國武將與高達造型的長壽企劃，將傳統武士甲冑美學與機動戰士設計巧妙結合，深受喜愛和風題材與SD比例模型的玩家支持。「真武者頑駄無 戦国の陣」是該系列中的重量級代表機體，本商品為其金色標準版本，以MG比例呈現，尺寸與細節密度遠勝一般SD規格商品，展現該企劃線少見的高規格立體化嘗試。塗裝方面，機體各部位大量施以金色電鍍處理，搭配光澤成型色點綴細部裝飾紋樣，呈現出宛如日本傳統蒔繪工藝般華麗絢爛的質感，充分呼應「真武者」之名所象徵的至尊地位。標準配備武裝陣容豐富，包含種子島（火砲）、日輪丸（刀）、散光丸（槍）、電光丸（薙刀）等多款戰國風格冷熱兵器，一應俱全對應各種姿勢展示需求。商品並附贈裝飾台座、屏風及專用銘牌等豪華展示配件，整體規格宛如工藝擺件，是武者頑駄無系列收藏者眼中不可多得的頂級逸品。此類跨界融合戰國元素與高機動戰士設計的和風企劃，是萬代SD鋼彈系列長年經營的獨立品牌路線，本次以MG高規格呈現更凸顯其工藝考究程度，對於喜愛和風題材與精緻收藏級模型的玩家而言極具吸引力。",
     reviews: [
@@ -19713,7 +19713,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年3月18日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_829/",
     imageUrl: "/images/mg-providence-gundam-standard.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/626.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/626",
     tags: ["機動戦士ガンダムSEED", "プロビデンスガンダム", "MG", "マスターグレード", "ガンプラ", "Rau Le Creuset"],
     description: "《機動戰士鋼彈SEED》為2002年播出的新世紀鋼彈系列作品，以Coordinator與Natural的衝突為主軸，人氣角色與機體設計深受粉絲喜愛。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色勞・魯・克魯賽駕駛，背部搭載大型DRAGOON System（多拉貢系統）——一套可分離飛行的全方位無線遙控射擊兵器群，能對敵方展開立體式全向射擊，是ZAFT陣營技術結晶的最強試驗型MS之一，也是勞這名亦正亦邪角色最具代表性的座機。本商品為MG系列標準版商品，2017年3月18日發售，完整重現DRAGOON分離展開機構與飽含機械感的關節結構，標配光束步槍、電漿盾等武裝及駕駛員人偶，是SEED系列MG收藏中份量感十足的代表作。",
     reviews: [
@@ -21990,7 +21990,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2002年8月",
     officialUrl: "https://bandai-hobby.net/item/01_1968/",
     imageUrl: "/images/mg-rx78-ca-casval-ver15.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/871.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/871",
     tags: ["ガンプラ", "MG", "Bandai", "MSV", "キャスバル専用ガンダム", "シャア・アズナブル", "BOX0014"],
     description: "「RX-78/C.A. キャスバル専用ガンダム」是模擬遊戲《機動戦士ガンダム ギレンの野望》系列中的IF設定機體，假設吉翁公國建國元勳之子キャスバル・レム・ダイクン（即後來的紅色彗星シャア・アズナブル）若駕駛聯邦軍RX-78鋼彈的隱藏機體，機身塗裝以象徵夏亞的粉紅、黑為基調，肩部與胸口印有「NEO ZEON」及「RX-78/C.A」專屬標識，充滿MSV世界觀的假設趣味。本品為BANDAI SPIRITS「MG」系列以Ver.1.5鋼彈為基礎開發，2002年8月發售，新增可動式手腕零件與專屬步槍配件強化持槍動作的自然度，套件並附屬光束步槍、光束軍刀、盾牌、高性能巴祖卡砲、光束標槍及鋼彈鎚等豐富武裝。作為結合遊戲IF劇情與經典鋼彈骨架的稀有塗裝版本，是MSV及夏亞相關收藏者不可錯過的特色機體。",
     reviews: [
@@ -24964,7 +24964,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年11月",
     officialUrl: "https://bandai-hobby.net/item/01_6958/",
     imageUrl: "/images/mg-astray-mirage-frame-second-issue.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/4003.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4003",
     tags: ["機動戦士ガンダムSEED", "ガンダムアストレイ", "ミラージュフレーム", "セカンドイシュー", "MG", "BANDAI SPIRITS", "ガンプラ", "プレミアムバンダイ限定"],
     description: "外傳遊戲《機動戦士ガンダムSEED VS ASTRAY》中登場的「ガンダムアストレイ ミラージュフレーム セカンドイシュー」是圖書館員（Librarian）操控的神秘試作機體，擁有從「タイラントモード」不需更換零件即可直接變形為「ブルートモード」的特殊機構，造型狂野猙獰、宛如異形生物，與一般人形鋼彈機體形成強烈反差。本商品為MG系列2025年11月發售商品，機體骨架沿用MG紅色機架系列規格，四肢與頭部大量新規開模重現細長猙獰的異形化外觀，主武裝可變形對應布魯特模式的曲射光束步槍，並附ロンド・ギナ・サハク駕駛員人偶，是ASTRAY系列中造型最為特異、話題性十足的收藏話題作。",
     reviews: [
