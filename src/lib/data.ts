@@ -26451,8 +26451,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "chogokin-rx78f00-yokohama-2020",
     addedAt: "2026-08-06",
-    name: "超合金×GUNDAM FACTORY YOKOHAMA RX-78F00 GUNDAM",
-    nameJa: "超合金×GUNDAM FACTORY YOKOHAMA RX-78F00 GUNDAM",
+    name: "RX-78F00 GUNDAM",
+    nameJa: "RX-78F00 GUNDAM",
     series: "GUNDAM FACTORY YOKOHAMA",
     character: "RX-78F00 ガンダム",
     manufacturer: "BANDAI SPIRITS",
