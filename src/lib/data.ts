@@ -25550,6 +25550,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年2月22日",
     officialUrl: "https://tamashiiweb.com/item/15091/",
     imageUrl: "/images/gx114-yanus-venus-a.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015091_5jX0jjpS_300.pdf",
     tags: ["グレートマジンガー", "超合金魂", "ヤヌス侯爵", "ビューナスA", "Bandai Spirits", "TAMASHII NATIONS"],
     description: "《グレートマジンガー》是永井豪原作的經典機器人動畫，講述兜甲兒駕駛強化版主角機對抗米開涅帝國侵略的故事。「ビューナスA」是女性型支援機體的重新設計版本，「ヤヌス侯爵」則是米開涅帝國旗下的女性型幹部機體，此次首度以超合金魂規格立體化。本商品為兩機一套組合，2025年2月22日發售，ヤヌス侯爵左胸搭載透明零件呈現原畫師落合克浩繪製的人形插畫，右胸重現原作設定的飛彈發射機關；套組並附奎恩星、維納斯轉輪機等原作配件與可替換手部零件及展示台座。作為《グレートマジンガー》系列中人氣女性角色機體的重量級組合，是永井豪機甲收藏線中話題性十足的一款。",
     reviews: [],
