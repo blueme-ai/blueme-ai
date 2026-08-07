@@ -21995,6 +21995,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年4月20日",
     officialUrl: "https://bandai-hobby.net/item/3245/",
     imageUrl: "/images/mg-gundam-base-ms-cage.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4406",
     tags: ["MG", "Master Grade", "1/100", "BANDAI SPIRITS", "The Gundam Base限定", "機動戦士ガンダムUC", "情景配件", "BOX0014"],
     description: "《機動戰士鋼彈UC》改編自福井晴敏原作小說，描寫獨角獸鋼彈與「拉普拉斯之盒」相關的政治鬥爭與軍事衝突，是近年宇宙世紀系列中話題度極高的重製與延伸作品。劇中反覆出現的「MS CAGE」是收納整備機動戰士用的維修支架設施，玩家對這類劇中常見卻鮮少被立體化的場景道具一直深具收藏需求。本商品是The Gundam Base實體店鋪限定推出的原創塑膠模型化商品，以原創設計重現作品中的MS CAGE構造，駕駛艙艙蓋可隨對應手臂形狀開闔，背面附設可收納小型配件與備用零件的置物箱，籠架背部固定架亦可掛載裝備進行收納展示。套件同梱四尊1/100比例人物模型——便服班納傑・林克斯、奧黛麗・伯恩、瑪莉妲・克魯茲與卡帝亞斯・畢斯特，讓玩家得以重現劇中角色與機體維修場景的互動畫面。雖然本品原設定為1/100比例、與MG系列機體搭配相性絕佳，但依店家展示範例，其實也能與HG或SD等不同比例的鋼普拉組合出別具氛圍的情景展示，是拓展鋼普拉場景敘事樂趣的稀有周邊商品。",
     reviews: [
