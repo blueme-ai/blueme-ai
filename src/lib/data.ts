@@ -405,6 +405,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "P-Bandai 限定",
     officialUrl: "https://p-bandai.com/tw/item/A2302840001",
     imageUrl: "/images/mg-turn-a-gundam-moonlight-butterfly.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2271",
     tags: ["ガンダム", "∀ガンダム", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "《∀ Gundam》是富野由悠季監督於1999年執導的電視動畫，作為紀念鋼彈系列20週年的獨立作品，故事設定在遙遠未來、地球文明幾近消亡的「黑歷史」時代之後，風格帶有濃厚的田園牧歌氣息，與過往UC系列大相逕庭。主角機 WD-M01 Turn A Gundam（∀鋼彈）造型融合月球型頭盔與鬍鬚裝飾，設計出自席德・米德之手，別具一格。月光蝶（Moonlight Butterfly）是機體潛藏的最終兵器：透過釋放大量奈米機器人形成絢麗蝶翼光場，能夠侵蝕分解一切工業科技文明，堪稱鋼彈系列中設定最恐怖、殺傷範圍最廣的武裝之一，劇中僅在關鍵時刻展開，極具戲劇張力。此MG 1/100版本為P-Bandai限定特別版，主打大量透明效果零件精細重現月光蝶展開瞬間的光翼形態，令完成品陳設價值大幅提升；骨架延續MG Turn A的精密可動結構,除效果零件外亦附一般展示用備用手型與武裝配件，屬Premium Bandai通路限定商品，一般店鋪無法購得。",
     reviews: [
@@ -2428,6 +2429,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1796/",
     imageUrl: "/images/mg-aegis-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/948",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "可變形", "ZAFT"],
     description: "《機動戰士鋼彈SEED》劇情中，ZAFT秘密開發的五部G兵器原型機一度遭地球聯合軍突襲奪取並投入實戰，神盾鋼彈即為其中之一，其最大特色是可變形為機動裝甲（MA）形態並使出針山狀近接攻擊裝置，是系列中少數具備完整變形機構的G兵器，也讓機體在偵察與突襲任務中極具戰術彈性。神盾鋼彈後續由ZAFT奪回，並由亞斯蘭・薩拉駕駛參與後續戰役，是描寫ZAFT與地球聯合軍之間武裝爭奪戲碼的重要象徵機體，也承載了亞斯蘭角色成長的重要劇情脈絡。本品為MG系列商品，完整重現人形態與MA形態間的變形機構，並依原作設定呈現ZAFT制式配色與細節分色。MG系列一貫講求高精度內構關節與外裝分色成型技術，本品也延續此傳統，兼顧組裝樂趣與展示完成度，是收藏SEED系列五部G兵器組合中不可或缺的一員，也是少數能同時展示人形態與MA形態的變形機體代表作，適合喜愛比較各機變形機構設計差異的鋼普拉玩家細細研究。",
     reviews: [
@@ -2491,6 +2493,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3869/",
     imageUrl: "/images/mg-zaku2-j-ridden-custom.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2180",
     tags: ["ガンプラ", "MG", "Bandai", "機動戰士鋼彈", "吉翁公國", "ザク"],
     description: "《機動戰士鋼彈》描寫一年戰爭時期地球聯邦與吉翁公國之間的宇宙戰爭，薩克II是吉翁軍隊的主力量產機體，也是整個鋼彈系列中最具代表性的反派量產兵器象徵，其單眼式頭部與寬肩造型深植玩家印象，衍生出數量龐大的個人客製與隊長機版本商品。J.リッデン為吉翁軍精銳部隊隊長，其座機薩克II採用個人識別塗裝與強化配備，區別於一般部隊的量產塗裝，呼應吉翁軍中王牌駕駛員普遍偏好客製化座機、以識別身分與戰功的傳統。本品為MG系列薩克II J.リッデン特製版，套件附有豐富武器配件供玩家依喜好自由搭配展示，並以獨特塗裝呈現隊長機的精銳身分識別。MG系列薩克II歷來以扎實的內構關節與精細分色著稱，本品作為系列眾多薩克客製版本之一，適合喜愛吉翁軍量產機體變化脈絡與隊長機收藏系譜的玩家，也是深入研究薩克II歷代客製化商品發展史不可忽略的一件經典款式，與其他薩克客製版本並列展示更能呈現吉翁軍多元的機體塗裝文化。",
     reviews: [
@@ -2616,6 +2619,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2003年1月1日（多次再版）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=162&grp_id=5312",
     imageUrl: "/images/mg-aile-strike-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/881",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "主角機", "ストライク"],
     description: "《機動戰士鋼彈SEED》為2002年首播的鋼彈系列作品，描寫地球聯合與ZAFT之間因基因改造人「Coordinator」議題所引發的戰爭，主角煌・大和意外操縱地球聯合軍秘密開發的強襲鋼彈投入戰場，是系列後續SEED世界觀的起點作品，也是奠定Striker Pack模組化武裝設計傳統的原型機體，在鋼彈系列發展史上具有承先啟後的重要地位。本品為2003年發售的MG系列強襲鋼彈初版商品，搭載Aile Striker空戰用飛翼背包套件，是煌初期最主要的座機形態，也是無數玩家接觸MG系列的入門經典。此版本與2013年後續推出的Ver.RM為完全不同開模的商品，初版在關節結構、內構設計與細節密度上保有當時代的設計特徵與時代印記，對於收藏鋼普拉發展歷程、比較新舊版本工藝差異的玩家而言，具有相當重要的歷史指標意義，作為SEED系列最初代主角機的原始開模版本，也承載著許多玩家的青春回憶，是研究鋼普拉模具技術二十年演進歷程時常被提及的重要參照商品。",
     reviews: [
@@ -4622,6 +4626,7 @@ export const collection: CollectibleItem[] = [
     height: "約175mm",
     officialUrl: "https://p-bandai.com/tw/item/N2242119001006",
     imageUrl: "/images/mg-astray-noir.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2243",
     tags: ["機動戦士ガンダムSEED DESTINY ASTRAY B", "MBF-P0X", "ガンダムアストレイ ノワール", "MG", "Master Grade", "P-Bandai", "限定品", "高達模型", "BANDAI SPIRITS"],
     description: "《機動戰士鋼彈SEED DESTINY ASTRAY B》是 SEED 系列衍生漫畫作品，聚焦於主線劇情之外、由各方勢力私下運用的「亞斯特雷」系列機體，這些機體並非官方制式量產型，而是經由不同陣營改造流用而成，「鋼彈亞斯特雷 諾瓦爾」便是其中一例，由駕駛員但丁・戈爾迪贊尼所駕駛。本作 MG 1/100 比例套件以經典機體「亞斯特雷 紅色機身」為改造基礎重新設計，搭載專屬強化裝備「諾瓦爾型武裝背包」，武裝方面配備可自由組合為近戰劍擊與遠程槍擊兩用形態的複合武器，呼應亞斯特雷系列一貫靈活多變的戰術運用風格。套件並附駕駛員但丁人形塑像及水貼式貼紙，細節配置完整。作為 P-Bandai 限定商品，本作滿足了系列衍生機體愛好者對「非主線但設定紮實」機體的收藏需求，在 MG 等級的精密度下呈現這台鮮少被立體化的特色機體。作為亞斯特雷系列眾多改造機體之一，本作也呼應了 SEED 系列一貫「機體流用、各方勢力各自魔改」的設定特色，深受偏好冷門機體的模型玩家青睞。",
     reviews: [
@@ -4809,6 +4814,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年12月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_464/",
     imageUrl: "/images/mg-v2-gundam-ver-ka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/854",
     tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "バンダイ", "1/100", "変形", "勝利二式"],
     description: "《機動戰士V鋼彈》（1993）是宇宙世紀系列中風格最為冷冽殘酷的一部，少年主角烏索・埃溫在戰爭中被迫快速成長，最終座機「勝利二式鋼彈」正是他歷經多次機體損毀與強化後所駕駛的終極形態，象徵著這段慘烈成長歷程的終點。本作 MG 1/100 比例套件由長年負責鋼彈機體設計監修的角色設計師香瀧一（カトキハジメ）親自操刀 Ver.Ka 版本，將原作中比例略顯特殊的機體造型重新調整,更貼近他手繪設定稿中英挺俐落的體態比例。V2 鋼彈是宇宙世紀機體中構造最為複雜的可變形機種之一，由 Top Fighter、Core Fighter、Bottom Fighter 三機分離合體構成,MG 等級的骨架完整重現此一分離合體機構,並可個別展示各分離形態,把玩樂趣與觀賞層次遠超一般套件。套件並附 Ver.Ka 專屬水轉印貼紙及烏索・埃溫、瑪貝特・芬格哈特、夏克蒂・卡林等複數駕駛員人偶,展現多視角敘事細節。最終武裝「光之翼」特效零件完成後極具視覺震撼,是《V鋼彈》系列中規格最高的旗艦套件,組裝難度堪比 MG νガンダム Ver.Ka,深受高階模型玩家推崇。",
     reviews: [
@@ -4870,6 +4876,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年12月",
     officialUrl: "https://p-bandai.com/tw/item/N2458858001003",
     imageUrl: "/images/mg-v2-assault-buster-expansion.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2665",
     tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "P-Bandai", "バンダイ", "1/100", "擴充套件", "Assault Buster"],
     description: "「勝利二式突擊殲滅型鋼彈」是《機動戰士V鋼彈》劇情尾聲，烏索・埃溫為迎戰扎那斯庫帝國最終決戰而動用的滿載武裝形態，結合「突擊型」與「殲滅型」兩套強化裝甲系統於一身，象徵主角在故事終章傾盡全力一戰的關鍵時刻。本套件為 P-Bandai 限定的擴充配件組，需搭配基礎版「MG V2 鋼彈 Ver.Ka」主體套件（另售）使用，內含 Assault 型裝甲、Buster 型裝甲、主體骨架更新零件以及 Ver.Ka 專屬水轉印貼紙，可依喜好組裝出三種形態：突擊型、殲滅型，或雙系統同時搭載的全武裝突擊殲滅型，充分還原原作中機體因應戰局變化而升級改裝的設定巧思。金色零件採用精緻成形色呈現，搭配大型光束加農砲與殲滅型發射器等大口徑武裝，完整重現決戰時最強武裝配置的壓迫感，整組完成後氣勢遠超基礎版本。對已收藏 MG V2 鋼彈 Ver.Ka 主體的玩家而言，本擴充套件是提升機體完整度與視覺震撼力不可或缺的追加收藏。",
     reviews: [
@@ -4971,6 +4978,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年11月",
     officialUrl: "https://p-bandai.com/tw/item/N2454053001005",
     imageUrl: "/images/mg-qubeley-damned.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2664",
     tags: ["Gunpla", "MG", "キュベレイ", "Qubeley Damned", "Build Divers", "GBWC", "P-Bandai", "バンダイスピリッツ", "1/100"],
     description: "キュベレイ（Qubeley）原型出自《機動戦士Ζガンダム》，是新人類強者哈曼・卡恩（Haman Karn）的專屬機體，以巨大手掌與浮游砲（ファンネル）著稱，象徵敵對陣營頂尖強化人駕駛員的力量。在《ガンダムビルドダイバーズ GBWC》中，キュベレイダムド為角色Nozh所駕駛的黑暗系改造機體，「Damned（被詛咒者）」之名呼應其強化人般偏執好戰的設定，是GBWC世界觀中令人印象深刻的反派機體之一。\n\nMG 1/100版本以2001年發售的MG キュベレイ為骨架基礎，大量追加新規零件重新雕琢輪廓，包括誇張放大、五指皆具球形關節可完整開合的巨型手掌，纖細化的腰腹曲線，靴型足踝以及扇形浮游砲座造型的新規肩部バインダー，整體剪影遠比原型更具壓迫感與魄力。塗裝以黑白雙色為主調，隨附10枚浮游砲與粉紅色透明光束軍刀刀身，並含水轉印貼紙供細節強化。作為Premium Bandai限定商品，僅透過官方通路販售，未於店頭一般流通，收藏稀有度較高。整體而言，本作在GBWC眾多キュベレイ衍生機中屬於黑暗系改造的代表，與キュベレイ・アンベリール的華美路線形成鮮明對照，凸顯Build Divers世界觀中同一原型機可衍生出截然不同性格塗裝的收藏樂趣。",
     reviews: [
@@ -6141,6 +6149,7 @@ export const collection: CollectibleItem[] = [
     height: "全高約187mm",
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_6742",
     imageUrl: "/images/mg-hyaku-shiki-ver2-mechanical-core.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4526",
     tags: ["ガンプラ", "百式", "MG", "1/100", "ガンダムベース限定", "メカニカルコアメッキ", "Zガンダム", "BANDAI SPIRITS"],
     description: "「百式」是《機動戰士Z鋼彈》中夏亞・阿茲納布（化名クワトロ・バジーナ）駕駛的專用機，以其耀眼的金色塗裝聞名，象徵夏亞一貫的王牌駕駛員身分與美學堅持，是高達系列中最具代表性的金色機體之一。「MG 1/100 ガンダムベース限定 百式 Ver.2.0 [メカニカルコアメッキ]」是THE GUNDAM BASE限定販售的高級鍍層變體版本，以2006年發售的經典傑作「MG百式Ver.2.0」為基礎重新開發塗裝規格。本作首度採用「メカニカルコアメッキ」全新表面處理技術：裝甲外殼改為透明素材成型，僅在零件內側核心面施以真空鍍膜，讓光線穿透外殼映照出內部鍍層的金屬光澤，呈現比傳統香檳金電鍍更具透明感與深邃層次的獨特金色光輝。套件沿用原有高精度可動骨架，肩部可伸縮、關節可動範圍廣，能重現原作交戰的多種招牌姿勢；武裝包含光束步槍、可掛載於背包的粘土火箭砲、光束軍刀，並附飛行基座相容接口與1/100比例夏予人偶。本商品僅於THE GUNDAM BASE各據點販售，未透過線上通路流通，屬典型店鋪限定高階鍍層商品。",
     reviews: [
@@ -6496,6 +6505,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年8月（P-Bandai限定）",
     officialUrl: "https://p-bandai.com/tw/item/A2440865001",
     imageUrl: "/images/mg-gundam-x-unit3.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2726",
     tags: ["ガンダム", "MG", "1/100", "Bandai", "ガンダムX", "P-Bandai限定"],
     description: "《機動新世紀鋼彈X》是描繪第七次新吉翁戰爭後、地球荒廢重建時代的作品，主角加洛德・朗駕駛鋼彈X在僅存的新舊人類之間穿梭求生，最終武裝「衛星加農砲」是全系列印象最深刻的招牌招式之一。藍光紀念BOX特別收錄的全新繪製漫畫《與你同在，一直都是》中登場的「3號機」，是加洛德原本座機在戰鬥中嚴重損毀後，蒐集舊地球聯邦各地研究設施殘存零件重新組裝而成的機體，象徵著主角在故事落幕後仍未停止的旅程，也為長年期盼續篇的粉絲帶來一絲慰藉。本套件沿用2013年評價極高的MG鋼彈X骨架架構，並未更動內構或可動範圍，僅針對3號機專屬配色重新設計——原本深藍色部位改為紫色系，肩甲同樣換上紫色成形色，並附上專為新篇漫畫設計的全新水轉印貼紙。武裝配件齊全，包含護盾巴斯特步槍、光束軍刀、衛星加農砲及肩部火神砲單元，足以重現機體的滿裝火力姿態。本商品2018年7月開放預購、同年8月出貨，為限定販售商品，此次於P-Bandai台灣站上架，方便台灣玩家收藏這款劇情延伸限定色版本。",
     reviews: [
@@ -6531,6 +6541,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年3月23日",
     officialUrl: "https://bandai-hobby.net/item/01_5786/",
     imageUrl: "/images/mg-rezel-typec-defenser-ab.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/607",
     tags: ["ガンダム", "機動戦士ガンダムUC", "ReZEL", "MG", "1/100", "Bandai", "P-Bandai限定", "ゼネラル・レビル", "BOX0013"],
     description: "《機動戰士鋼彈UC》是描繪一年戰爭後、宇宙世紀0096年拉普拉斯事件的作品，故事中登場的量產機「ReZEL」承襲Z鋼彈系血統，以修長機身與均衡性能廣受玩家好評。本商品是第六話登場、由地球聯邦軍旗艦「將軍雷比爾號」搭載機的特別配色版本，換上灰橙相間的旗艦護衛塗裝，並追加大型後背包「Defenser Unit」，戰鬥力遠超一般運用機，象徵著旗艦護衛部隊的高規格待遇。套件本體收錄「a Unit」與「b Unit」兩種增裝背包：a Unit配備六連裝大型飛彈莢艙與兩把承襲自ZZ鋼彈的巨型光劍，同時可切換為Beam Cannon使用；b Unit則搭載雙聯裝Mega Beam Launcher與Mega粒子砲，可於中短程與遠程之間靈活切換打擊手段。機體亦可透過換裝零件完整重現MS形態與Wave Rider高速形態的變形機構，是UC系列少數具備完整可變設計的量產機。雖然原版下半身穩定性是知名弱點，加裝大型背包後套件貼心附上支撐架輔助站立，且一次收錄兩種背包CP值極高，至今仍被玩家譽為近十年最具誠意的鋼普拉之一。",
     reviews: [
@@ -7394,6 +7405,7 @@ export const collection: CollectibleItem[] = [
     height: "約152mm（設定全高15.2mより換算）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1349/",
     imageUrl: "/images/mg-gundam-f91-ver2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/857",
     tags: ["ガンダムF91", "MG", "1/100", "BANDAI SPIRITS", "ガンプラ", "シーブック・アノー"],
     description: "F91為1991年劇場版《機動戦士ガンダムF91》主角機體，由主角シーブック・アノー駕駛，隸屬F91計畫試作機，在對抗クロスボーン・バンガード的戰鬥中展現壓倒性的高機動性能。機體搭載大量微粒子兵器MEPE，戰鬥時可見腹部與背包散熱口大量噴發光粒子，甚至能產生帶有質量感的殘像效果，是宇宙世紀作品中極具代表性、造型俐落洗鍊的傑作機，至今仍是眾多鋼彈迷心目中最具魅力的試作型MS之一。\\n\\n本商品為MG Ver.2.0一般彩色版本，相較初版比例與可動大幅進化，腹部散熱口採多層次結構並附有透光零件，可搭配另售發光基座重現MEPE特效，臨場感十足；雙腳推進器連動機構、V.S.B.R.展開機構、可開閉臉部裝甲頭部等機構一應俱全，充分還原原作設定中的多項機能演出。同時附開放式與非變形頭部、光束步槍、光束軍刀、光束發射器與光束盾牌等豐富武裝，是F91收藏中必備的基準版本。",
     reviews: [
@@ -8160,6 +8172,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年7月",
     officialUrl: "https://bandai-hobby.net/item/01_1462/",
     imageUrl: "/images/mg-core-booster-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/582",
     tags: ["ガンプラ", "MG", "Bandai", "Vガンダム", "コアブースター", "Ver.Ka", "リーグ・ミリティア", "変形"],
     description: "《機動戰士V鋼彈》可變・分離戰鬥機LM312V04(B-parts)+SD-VB03A コア・ブースター Ver.Ka，隸屬U.C.0153年League Militaire軍。核心戰機在V鋼彈的世界觀中扮演著重要的緊急脫出與變形合體核心角色，反映出當時李亞・米利提亞軍面對薩比亞王國龐大戰力，被迫發展出高度模組化、機體可拆分重組作戰體系的時代背景。\\n\\n套件同梱兩種頭部規格的核心戰機（V鋼彈用／Hexa鋼彈用），可組成單獨的Core Fighter，亦可與MG Vガンダム Ver.Ka／MG Vダッシュガンダム Ver.Ka等機體合體變形為V核心戰機、V-Dash鋼彈等形態，充分展現V鋼彈系列合體變形的機構魅力。同梱兵裝包含火神砲、飛彈莢艙、拋棄式火箭筒、格林機砲、光束標槍、可摺疊光束槍等多種武裝，各自具備專屬把持機構。本商品為鋼普拉30週年紀念企劃「Ver.Ka」系列之一，是V鋼彈系列玩家組建完整合體形態不可或缺的關鍵套件。",
     reviews: [
@@ -8232,6 +8245,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年6月",
     officialUrl: "https://p-bandai.com/tw/item/A2464717001",
     imageUrl: "/images/mg-re-gz-91b-custom.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2540",
     tags: ["ガンプラ", "MG", "Bandai", "逆襲のシャア", "MSV", "可變形", "P-Bandai"],
     description: "《機動戰士鋼彈 逆襲的夏亞》MSV RGZ-91B 靈格斯·特裝型（Re-GZ Custom），P-Bandai限定商品。Re-GZ是聯邦軍在ν鋼彈開發計畫中平行推進的另一系脈試作機，繼承了初代Z鋼彈的可變形設計理念並強化裝甲與武裝配置，特裝型則是MSV體系中針對局部戰場需求進行的改修版本，補完了逆襲的夏亞時代聯邦軍多線並進的MS開發脈絡。\\n\\n以既有MG Re-GZ為基礎全新造形設計，強化肩部與大腿內構關節可動性，讓機體在人形與波動騎士（MA）形態切換時展現更流暢的動態表現。武裝換裝為突擊步槍（AK-47型）與雙持光束軍刀，武裝風格更貼近地面戰與近距離格鬥需求，並可不更換零件直接變形為波動騎士形態，變形機構設計相當俐落。作為MSV體系中話題性十足的隱藏機種，本商品是深度逆襲的夏亞世界觀與可變形MS收藏者值得關注的一款限定套件。",
     reviews: [
@@ -8574,6 +8588,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年01月11日（多次再版）",
     officialUrl: "https://bandai-hobby.net/item/01_33/",
     imageUrl: "/images/mg-gundam-x.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/619",
     tags: ["ガンダム", "MG", "1/100", "Bandai", "ガンダムX", "主役機"],
     description: "《機動新世紀鋼彈X》舞台設定於第七次月面戰爭後、地球文明幾近毀滅的荒廢近未來，主角加洛德・朗駕駛的GX-9900鋼彈X搭載自殖民地衛星殘骸回收再利用的「衛星系統」，能將反射鏡收集的太陽能轉化為強大光束砲火力，是廢土背景下人類重建希望的重要象徵，也是後戰爭世界觀中少見兼具寫實與希望寓意的主角機設定。本商品為標準／原色版本的MG化，與收藏中另一件P-Bandai限定的鋼彈X3號機（紫色特別配色版）為完全不同的獨立商品，並非重複收藏。\n\n本套件追求最佳比例與機關再現：最大特色衛星加農砲可完整展開背部反射鏡機關；身體各處藍色裝甲採用獨特光澤材質呈現異材質感；相機眼與胸部中央使用透明零件；肩部火神砲可展開；並附有可變形為盾牌／步槍雙模式的護盾巴斯特步槍，大型光束軍刀刀身則以透明效果零件表現。本商品為長銷再版商品，日版建議售價4,950日圓（含稅）。",
     reviews: [
@@ -8670,6 +8685,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年2月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2914/",
     imageUrl: "/images/mg-zeta-gundam-3-gray.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2269",
     tags: ["ガンプラ", "MG", "Bandai", "ゼータ", "EVOLVE", "MSV", "可變形", "プレミアムバンダイ限定"],
     description: "OVA『GUNDAM EVOLVE../9』屬於《機動戰士Z鋼彈》系列以MSV形式延伸出的外傳短篇，進一步補完Z鋼彈量產與改良機的設定脈絡，讓官方正史之外的支線機體有機會被完整敘述與立體化。「ゼータガンダム3号機B型」是以3號機為基礎、朝火力強化方向發展的改良型，駕駛員「灰狼（Gray Wolf）」的機體因追加武裝而重量增加，故新增雙腿輔助推進器與大型尾翼安定翼以維持機動性，全機施加抗光束塗層而呈現獨特的黃色塗裝，因而俗稱「灰色薩克」，是Z鋼彈支線設定中辨識度極高的一款。\n\n本套件是鋼普拉首次將此機體立體化的作品，同梱專屬武裝全長210mm大型光束加農砲Beam Cannon，與內建光束機槍的盾牌一體式Mega Gatling，並支援變形為波動騎士形態，附有可展示兩種形態的專用彈射座台。本商品為2015年2月發售的Premium Bandai限定商品，定價7,150日圓（含稅），其後多次再販，是Z鋼彈支線機體收藏中辨識度極高的一件。",
     reviews: [
