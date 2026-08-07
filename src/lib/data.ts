@@ -20785,7 +20785,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/100",
     price: "¥5,280（税込）",
     releaseDate: "2025年6月",
-    officialUrl: "https://p-bandai.com/tw/item/F2762135002",
+    officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102686084000&grp_id=5325",
     imageUrl: "/images/mg-f80-gunraid.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/3209",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "BOX0013"],
