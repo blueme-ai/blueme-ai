@@ -32,6 +32,22 @@ then grep the response for `hitTtl` blocks (`href="(/en/product/\d+/)".*?<span>(
 
 **WebSearch budget:** the built-in `WebSearch` tool has a small per-session cap (default 200, raised to 600 in this user's `~/.zshrc` starting next session) shared across the whole session including subagents — once it's exhausted, WebSearch calls fail outright (not gracefully) for the rest of the session, and subagents given a research task with no other tool will just report failure. When you suspect the budget is tight or already blown, don't dispatch more `Agent` calls that rely on WebSearch — switch entirely to `browser-act stealth-extract` on Google search URLs (see above), which does not draw from that budget.
 
+## `officialUrl` — avoid the `global.bandai-hobby.net/en-us/` geo-block
+
+`https://global.bandai-hobby.net/en-us/item/01_XXXX/` returns `403 Forbidden` for automated fetches (and for many real users outside allowed regions) — this pattern was found across **61 existing catalog entries** during a 2026-08-07 review, all broken the same way. The fix is dropping the locale prefix entirely: `https://bandai-hobby.net/item/01_XXXX/` (same item id, no `global.`/`en-us/`) resolves fine. When adding or fixing a Gunpla `officialUrl`, always use the bare `bandai-hobby.net/item/` form, never `global.bandai-hobby.net/en-us/item/`.
+
+Same idea applies to `p-bandai.jp` (Japan-locked, redirects to a `global_newpc.html` landing page for outside visitors) — use `p-bandai.com/tw/item/` instead, per the existing convention below.
+
+## Non-Gunpla Bandai manuals — `toy.bandai.co.jp`
+
+For toy lines outside Gunpla/TAMASHII (e.g. Kamen Rider CSM belts), manuals live on a third host: `https://toy.bandai.co.jp/manuals/files/{id}.pdf?ver={hash}` — found by locating the product's own page at `toy.bandai.co.jp/ja/item/01_XXXX/` (not `/item/detail/NNNNN/`, which sometimes 301-redirects to a generic listing instead of the specific item — prefer the `01_XXXX` id form) and pulling the manual link from there. Different id numbering than `bandai-hobby.net` — don't assume the two share IDs even for closely related products (e.g. a "ver.1.5" reissue and its "dark" color variant had adjacent-looking but distinct ids on this host, `01_3631` vs `01_4706`).
+
+## Naming convention — brand/line name goes in `tags`, not `name` (2026-08-07 decision)
+
+`name`/`nameJa` should hold only the character/mecha-specific product name. Series/brand-line labels — `METAL BUILD`, `GUNDAM FIX FIGURATION METAL COMPOSITE`, `超合金魂`, `DX超合金`, `PROPLICA`, `HI-METAL R`, etc. — go in the `tags` array instead, not prefixed onto `name`. This was a deliberate correction: the official tamashiiweb product pages render the brand as a separate logo/badge element above the title, visually and structurally distinct from the product name text — concatenating it into `name` doesn't match how Bandai itself presents the product. (Gunpla grade prefixes — `MG`/`HG`/`RG`/etc. — are exempt from this: they function as a genuine size/complexity classification core to how Gunpla collectors browse, not a marketing brand line, and stay in `name` as before.)
+
+This is a retroactive fix applied opportunistically during the 2026-08-07 full-catalog review — not yet completed for every existing entry. When you touch an entry for any reason, bring its name in line with this rule if it isn't already.
+
 ## Image rules
 
 - **ALWAYS** fetch the real official product photo and save to `public/images/<item-id>.jpg`. Never use a Telegram photo the user sent you as the product image — those are personal/box photos for identification only.
