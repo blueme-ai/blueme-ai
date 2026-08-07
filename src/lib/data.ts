@@ -7579,6 +7579,7 @@ export const collection: CollectibleItem[] = [
     height: "全高 約148mm",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2335/",
     imageUrl: "/images/mg-gundam-f90.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2541",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "宇宙世紀", "Premium Bandai"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）中的核心機體，設定於宇宙世紀0120年，由獨立兵工廠薩納璃為對抗日益巨大化的量產機所研發的次世代主力MS原型機。機體標準裝備精簡，機身預留多處硬點，可透過替換26種任務背包（Mission Pack）因應偵查、強襲、格鬥等不同戰術需求，是高達系列「量產泛用原型機」構想的原點，其設計理念後來更直接延伸出《機動戰士鋼彈F91》的F91機體，在宇宙世紀技術發展史上具有承先啟後的地位，劇中由測試駕駛員迪夫·斯塔利安駕駛進行實戰測試，驗證各種任務背包在實戰中的表現。\\n\\n作為MG系列重現的F90本體套件，其標準形態強調精簡俐落的線條與均衡比例，關節可動性依循MG系列規格設計，能重現多種站姿與格鬥動作；機身各硬點結構清晰可見，方便日後與各式Mission Pack擴充套件組合搭配，展現高度模組化的收藏樂趣，是喜愛Formula91企劃機體設定、講究原型機純粹造型的玩家值得入手的基礎機體。",
     reviews: [
@@ -16282,6 +16283,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年4月",
     officialUrl: "https://p-bandai.com/tw/item/A2518433002",
     imageUrl: "/images/mg-f90-mission-pack-dg.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2754",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "F90「Mission Pack」是《機動戰士高達F90》企劃的核心設定：機體本身裝備精簡，透過替換多達26種不同任務背包與武裝套件，即可因應偵察、強襲、警備、砲撃等各式戰術情境，是高達系列「量產泛用原型機」構想的具體實踐，也讓F90成為玩家可高度自訂武裝配置的模組化平台。本商品是Premium Bandai限定推出的「D型」與「G型」擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。D型（Destroy/近接壓制型）主打中近距離火力壓制，標配四連裝榴彈發射器、五連裝火箭莢艙與腰部MS破壞用炸藥，搭配前伸的巨型加特林機砲，展現近距離殲滅戰的火力密度；G型（Guard/警備護衛型）則配備大型盾牌與可切換光束劍／光束加農砲雙模式的「Multiple Beam Weapon」，主打護衛與警備任務下的靈活應對。兩款設計風格差異鮮明，一攻一守恰好呈現F90模組化設計的多元戰術可能性，是收集F90系列擴充配件不可或缺的一組。",
     reviews: [
@@ -16312,6 +16314,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年9月",
     officialUrl: "https://p-bandai.com/tw/item/A2478696001",
     imageUrl: "/images/mg-f90-mission-pack-es.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2740",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「E型」與「S型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，延續F90企劃透過替換任務背包因應不同戰術情境的核心設計理念。E型與S型分別對應不同的裝備構型，機身可見大型碟形天線／感測裝置與多管火器組合，強化偵蒐與遠距支援能力，搭配F90簡潔俐落的骨架結構，呈現與標準形態截然不同的戰術面貌。作為F90眾多Mission Pack家族中發售較早的一組，其套件內容延續系列一貫的高組裝細節與分件精度，武裝配件的可動關節與收納結構皆經過仔細設計，方便與其他型號的裝備零件交互組合把玩。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是重現F90多樣化戰術構型不可或缺的一組擴充配件。",
     reviews: [
@@ -16342,6 +16345,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年12月",
     officialUrl: "https://p-bandai.com/tw/item/A2478697001",
     imageUrl: "/images/mg-f90-mission-pack-fm.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2741",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「F型」與「M型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型肩部裝甲與加農砲等重武裝配置，搭配招牌黃色系塗裝的特徵零件，強化火力支援與特殊戰術任務的執行能力，與標準型F90相比呈現更具重裝甲的視覺份量感。作為F90「量產泛用原型機」構想的具體實踐之一，F型與M型的裝備構型延續系列一貫透過模組化武裝因應不同戰場需求的設計哲學，套件內的關節與武裝分件皆維持MG系列一貫的組裝精度與可動範圍。對於熱衷收集F90系列各式Mission Pack型號的玩家而言，本商品的重裝甲風格與其他偏向輕裝或偵察取向的型號形成鮮明對比，是展現F90多樣化戰術面貌不可或缺的一組擴充配件。",
     reviews: [
@@ -16372,6 +16376,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年12月",
     officialUrl: "https://p-bandai.com/tw/item/A2654099001",
     imageUrl: "/images/mg-f90-mission-pack-jq.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2492",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「J型」與「Q型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是2023年底推出、相對較新的一組F90擴充配件。套組以藍色系裝甲為主色調，肩部搭載大型連裝機砲與大型格鬥用拳套，武裝配置偏向中近距離的火力壓制與格鬥戰能力，展現與F90標準型截然不同的重裝甲戰鬥姿態。作為F90企劃「透過任務背包因應不同戰術情境」核心理念持續擴編的最新成員，J型與Q型延續系列一貫的高組裝密度與精細分件設計，武裝零件的可動關節與收納結構皆維持MG系列水準。由於發售時間較晚、相較於D、E、F等早期型號流通量更為稀少，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是近年較難入手的補完拼圖之一。",
     reviews: [
@@ -16399,6 +16404,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年9月",
     officialUrl: "https://p-bandai.com/tw/item/A2563768002",
     imageUrl: "/images/mg-f90-mission-pack-rv.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2401",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「R型」與「V型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型翼狀展開裝甲與長柄光束兵裝，搭配藍白配色的機身塗裝，呈現高機動與遠距交戰兼具的戰術取向，與F90標準型相比展現更為華麗、存在感十足的視覺輪廓。R型與V型延續F90「任務背包」模組化設計的核心理念，武裝配件的關節可動與分件精度皆維持MG系列一貫水準，展開狀態下的翼型裝甲細節刻畫講究，兼具擺放展示與武裝把玩的雙重樂趣。作為F90系列眾多Mission Pack型號中價格較高、配件份量也較為豐富的一組，對於致力收集齊全F90企劃所有機體構型的鋼普拉玩家而言，本商品是展現該系列設計多樣性的重要代表作之一。",
     reviews: [
@@ -16434,6 +16440,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年4月",
     officialUrl: "https://p-bandai.com/tw/item/A2510310001",
     imageUrl: "/images/mg-f90-mission-pack-bk.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2750",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「B型」與「K型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。從套件外觀可見大型半透明粉紅色擴散光束兵裝與多連裝浮游砲莢艙，武裝配置偏向大範圍制壓與遠距火力支援，展現F90在特殊戰術情境下的另一種武裝面貌，與標準形態的簡潔線條形成強烈對比。B型與K型延續F90「透過任務背包因應戰術需求」的核心設計理念，套件內的關節可動與武裝分件皆維持MG系列一貫精度，展開型態的效果零件透明感表現亦是收藏與陳列時的一大亮點。作為海外玩家詢問度與評價都相當不錯的一組F90擴充配件（YouTube上有多支英語開箱評測），對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品也是相當受歡迎的一款。",
     reviews: [],
@@ -16463,6 +16470,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年10月",
     officialUrl: "https://p-bandai.com/tw/item/A2518432001",
     imageUrl: "/images/mg-f90-mission-pack-ou.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2753",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「O型」與「U型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。相較於其他份量較大的Mission Pack型號，O型與U型是配件結構較為輕巧精簡的一組，主打貼合機身的武裝與裝甲設計，展現F90在輕裝任務情境下的靈活戰術面貌。作為部落客評測中提及「O型之後另一個小份量裝備」的參照型號之一，O型與U型延續F90「透過任務背包因應戰術需求」的核心設計理念，套件內的關節可動與武裝分件依然維持MG系列一貫的組裝精度，即使配件數量較少，細節密度與塗裝分色仍不馬虎。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是展現該企劃「輕裝亦能兼顧戰術多樣性」設計思路的代表作之一。",
     reviews: [
@@ -16487,6 +16495,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://p-bandai.com/tw/item/A2563769002",
     imageUrl: "/images/mg-f90-mission-pack-w.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2402",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「W型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝。與其他多以雙型號合售的Mission Pack不同，W型是單獨販售的型號，套件以醒目的紅白配色大型翼狀裝甲為最大特徵，展開後的視覺份量感與存在感在F90眾多擴充配件中相當突出，展現高機動戰術情境下的武裝構型。W型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內的關節可動與武裝分件維持MG系列一貫精度，大型翼裝甲的分件細節與塗裝分色處理亦相當講究，兼顧展示與把玩樂趣。由於是單獨型號、非雙拼販售，價格與內容量相對精簡，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品也是不容錯過的一組。",
     reviews: [
@@ -16604,6 +16613,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月",
     officialUrl: "https://p-bandai.com/tw/item/A2563790002",
     imageUrl: "/images/mg-gundam-f90-mars-zeon.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2351",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "火星独立ジオン軍", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，設定於宇宙世紀0120年，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點。本商品「OMS-90R［火星独立ジオン軍仕様］」是設定中被殘存吉翁殘黨勢力「火星獨立吉翁軍」所鹵獲、並改造塗裝後投入使用的F90機體，將原本代表聯邦軍測試機的白色基調改為紅白搭配深藍腿部裝甲的吉翁系配色，肩部與盾牌造型也因應吉翁軍的機體審美略有調整，呈現出與聯邦制式F90截然不同的陣營風格與敘事想像，是F90企劃衍生設定中相當具話題性的一款「非正史」機體活用構想。本商品為Premium Bandai限定推出的MG 1/100版本，機身骨架延續系列精密可動結構，塗裝分色針對吉翁軍配色重新設計，展現出同一機體平台在不同陣營手中呈現的視覺反差。對於熱衷收集F90系列各式衍生塗裝與「if」設定機體的鋼普拉玩家而言，本商品是展現該企劃世界觀延伸想像力的代表作之一。",
     reviews: [
@@ -16946,6 +16956,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年8月",
     officialUrl: "https://p-bandai.com/tw/item/A2518431001",
     imageUrl: "/images/mg-gundam-f90ii-i-type.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2592",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90II", "I-Type", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點。「F90II」是F90二號機的衍生規格，本商品即是以F90II機身搭配「I型」任務背包（木星戰仕様／近距離格鬥取向配置）預先組合完成的完整套件——相較於另售的「Mission Pack I-Type」擴充零件組需要玩家自備F90II本體才能組裝，本商品是包含機體本體與I型裝備的一體化完整商品，開箱即可直接組裝出I型配備的完整F90II形態，不需額外購買本體套件。套件延續F90系列精密的骨架可動結構與硬點模組化設計，I型裝備標誌性的大型爪型格鬥武裝與追加推進裝置皆完整收錄，塗裝分色與細節密度維持MG系列一貫水準。對於不想額外拼湊本體與擴充零件、傾向直接入手完整成品的玩家而言，本商品是收藏F90II I型構型最直接便利的選擇。",
     reviews: [
@@ -16976,6 +16987,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年10月（後於2026年3月再販）",
     officialUrl: "https://p-bandai.com/tw/item/A2690473005",
     imageUrl: "/images/mg-f90iiiy-cluster-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2506",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "シルエットフォーミュラ91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "クラスターガンダム", "BOX0007"],
     description: "《シルエットフォーミュラ91》是《機動戰士高達F90》Formula91企劃延伸的漫畫/設定集企劃，進一步擴充F90系列機體在小說與漫畫媒體中的世界觀，「クラスターガンダム（集束鋼彈）」正是此企劃衍生出的特殊機體之一。本商品「F90ⅢY」設定上是以尚未完工的F90三號機為基礎、搭配「Y型（YOUNG STAR）」任務背包強行整合而成的應急構型，機體核心搭載可獨立分離的核心戰機「Core Fighter F90III」，能與背部推進裝置合體組成「Core Booster F90III」，呈現F90系列一貫的模組化與分離合體設計巧思。套件骨架延續F90系列精密可動結構，核心戰機的分離、對接機構是本商品在組裝與把玩層面的最大亮點，機身塗裝與細節分色亦維持MG系列一貫高水準。作為F90企劃衍生設定中話題度較高、也是近年才推出的新規格商品，本商品對於熱衷收集Formula91與其衍生企劃各式機體構型的鋼普拉玩家而言，是相當具代表性的一款。",
     reviews: [
@@ -17031,6 +17043,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年1月",
     officialUrl: "https://p-bandai.com/tw/item/A2563791002",
     imageUrl: "/images/mg-f90-mission-pack-h.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2403",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0007"],
     description: "本商品是Premium Bandai限定推出的F90「H型」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是單獨型號販售、非雙拼組合的一款。套件外觀可見大型綠色系四連裝飛彈莢艙武裝，左右肩各掛載一組，火力配置偏向大範圍面制壓與遠距轟炸取向，展現F90在特殊任務情境下的另一種重火力面貌，與標準形態的簡潔線條形成強烈對比。H型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內的關節可動與武裝分件皆維持MG系列一貫精度，飛彈莢艙的分件細節與塗裝分色處理亦相當講究。由於是單獨型號、價格與內容量相對精簡，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是補齊收藏拼圖中重要的一塊。",
     reviews: [
@@ -17054,6 +17067,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年12月",
     officialUrl: "https://p-bandai.com/tw/item/A2690472002",
     imageUrl: "/images/mg-gundam-f90-n-type.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2505",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "F90 N-Type", "BOX0007"],
     description: "F90是《機動戰士高達F90》（Formula91企劃）核心機體，機身預留多處硬點可替換各式任務背包因應不同戰術需求，是高達系列「量產泛用原型機」構想的原點，長年透過P-Bandai限定通路陸續推出各式衍生塗裝與任務背包套件，構成龐大的機體收藏體系。「N-TYPE」是F90本體搭配「N型」任務背包預先組合完成的完整套件，相較於需另購本體再自行組裝擴充零件的Mission Pack形式，本商品開箱即可直接組裝出N型配備的完整F90形態，省去額外拼湊本體與零件的麻煩。套件延續F90系列精密的骨架可動結構與硬點模組化設計，N型裝備的武裝與追加裝甲細節皆完整收錄，塗裝分色與細節密度維持MG系列一貫水準。作為近年才推出的新規格完整套件商品，對於持續追蹤F90企劃各式衍生機體構型、且傾向直接入手完整成品的鋼普拉玩家而言，本商品是收藏系列拼圖中相對晚近才補齊的一塊。",
     reviews: [
@@ -20566,6 +20580,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年3月",
     officialUrl: "https://p-bandai.com/tw/item/A2794151001",
     imageUrl: "/images/mg-f90iiiy-mission-pack-x.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4920",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0013"],
     description: "「Mission Pack」是《機動戰士高達F90》企劃的核心設定，F90系列機體透過替換不同任務背包與武裝套件因應各式戰術情境，是「量產泛用原型機」構想的具體實踐。本商品是Premium Bandai限定推出、對應衍生機體「F90ⅢY クラスターガンダム」的「Xタイプ」擴充套件（不含機體本體，需另購MG F90ⅢY クラスターガンダム本體套件搭配組裝）。X型由戰略海軍研究所開發，設計概念為集P型高推力與F型高機動性於一身、同時搭載高火力的特化裝備，肩部武裝掛架搭載複合兵裝單元「ゼノビア」，整合雙聯裝光束加農砲與光束盾牌發生器於一體，背部則配備收納大型推進燃料槽與推進器的四聯裝偏向式推進裝置，套件同時具備起落架零件與PET材質光束盾牌效果零件。本商品最大亮點在於可與クラスターガンダム合體組成「F90Xタイプ」MS形態，並可透過重新組構部件變形為獨立展示用的「Xフォートレス」要塞形態，一鏡到底呈現F90系列一貫的模組化與變形合體巧思，是「F90 A to Z PROJECT」全字母任務背包收藏計畫中話題度極高的一款。",
     reviews: [
@@ -20893,6 +20908,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年4月（Gundam Side-F限定）",
     officialUrl: "https://bandai-hobby.net/item/01_5333/",
     imageUrl: "/images/mg-rgz-91-re-gz-chars-counterattack.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4306",
     tags: ["ガンプラ", "MG", "1/100", "Bandai", "逆襲のシャア", "リ・ガズィ", "RGZ-91", "Gundam Side-F", "BOX0015"],
     description: "《機動戦士ガンダム 逆襲のシャア》（1988年劇場版）是宇宙世紀最重要的終結篇章之一，描繪阿姆羅・雷與夏亞・阿茲納布爾長達十年宿命對決的最終章。RGZ-91 リ・ガズィ（Re-GZ，Re-Gunnery Zeta之略）是作中阿姆羅在取得νガンダム前所搭乘的過渡機體，由地球聯邦軍以ゼータガンダム技術為基礎開發，理論上具備可變型態（WR型態）切換能力，但因搭載了一次性使用的BWS（背部換裝系統）而非傳統可動骨架，量產適性雖高卻無法自主反覆變形，是「以妥協換取成本」的典型量產可變機設定，也令阿姆羅感嘆不如νガンダム好用。MG 1/100 逆襲のシャア Ver. 由 Bandai Spirits 於2024年推出，此版本以正確的劇場版設定色重現機體白藍配色，BWS展開機構與可動結構均精細收錄，是逆シャア機體收藏中不可或缺的聯邦軍主力機。",
     reviews: [
@@ -21838,6 +21854,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年5月",
     officialUrl: "https://bandai-hobby.net/item/01_4368/",
     imageUrl: "/images/mg-f90-mission-pack-ct.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2475",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0014"],
     description: "本商品是Premium Bandai限定推出的F90「C型（寒冷地仕様）」與「T型（追撃戦仕様）」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，兩款配裝皆由知名設計師河口克己重新繪製造型並全數新規開模。C型主打嚴寒地區作戰能力，肩部、腰部與腿部搭載以配線細節相連的加熱裝置，並附有可拆裝、可動的滑雪板單元與不織布材質防寒斗篷，重現極地環境下的機動配置；T型則是追撃戦專用構型，雙肩硬點掛載大型多軸可動盾牌，搭配可動基座的長距離推進背包與側面推進單元，並可拆卸推進燃料槽，展現遠距離追撃與火力支援的戰術面貌。兩型一寒一攻、風格對比鮮明，套件並附水轉印貼紙供玩家還原原創塗裝標識。作為F90「透過任務背包因應不同戰術情境」核心理念的延伸，對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是補齊極地與追撃兩種特殊戰術情境不可或缺的一組。",
     reviews: [
@@ -21867,6 +21884,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月",
     officialUrl: "https://bandai-hobby.net/item/01_4868/",
     imageUrl: "/images/mg-f90-mission-pack-p.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2444",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "Mission Pack", "P-Bandai限定", "BOX0014"],
     description: "本商品是Premium Bandai限定推出的F90「P型（Plunge，再突入仕様）」Mission Pack擴充套件（不含F90本體），需另購MG 1/100 F90本體套件搭配組裝，是單獨型號販售、全數新規開模的一款。套件重現機體大氣層再突入時可變形為波浪騎士（Wave Rider）形態的特殊配裝，內容包含背部展開式鼻錐整流罩單元、右肩可迴轉感測軸的火神砲、左肩可動砲塔式光束加農砲，以及可彎折展開的臂裝翼型盾牌，武裝與構型皆為因應再突入任務而設計。P型延續F90「透過任務背包因應不同戰術需求」的核心設計理念，套件內關節可動與武裝分件維持MG系列一貫精度，變形機構的卡榫與收納結構亦經仔細調校。對於致力收集齊全F90系列所有Mission Pack型號的鋼普拉玩家而言，本商品是重現F90大氣層再突入戰術情境不可或缺的一組擴充配件。",
     reviews: [
