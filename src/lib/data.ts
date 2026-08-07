@@ -514,6 +514,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_5509",
     imageUrl: "/images/rx783-g3-gundam-ver30-base-limited.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4358",
     tags: ["ガンダム", "RX-78-3", "G-3", "MG", "1/100", "Bandai", "ガンダムベース限定", "聯邦軍"],
     description: "《機動戰士鋼彈》是1979年由富野由悠季執導的初代電視動畫，開創了「寫實系機器人」類型，奠定整個宇宙世紀（UC）系列的世界觀基礎，主角機RX-78-2鋼彈更成為整個模型產業的象徵符號。RX-78-3「G-3 Gundam」是地球聯邦軍當年試作的三架RX-78中的第三號機，以「耐磁塗裝（磁力無效化塗裝）」為特徵設計，外裝採低調灰白色調，區別於一號機與二號機的紅白藍標準配色，因此在眾多鋼彈版本中格外具辨識度，也是資深鋼彈迷心中的隱藏經典塗裝。此版本採用MG Ver.3.0骨架——這是目前RX-78系列MG最新世代規格，具備手指各節可動、腳踝自由傾斜等精密全身關節構造，內部骨架即使不裝甲板也能完整呈現機體輪廓，展現有別於舊版MG的擬真結構。外裝甲板採帶金屬光澤的珍珠灰塗裝，並搭配THE GUNDAM BASE（鋼彈基地旗艦店）限定專屬水貼，屬正統鋼彈MG模型中規格最高、限量發售的珍藏版本，一般通路無法購得。",
     reviews: [
