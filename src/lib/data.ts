@@ -20362,6 +20362,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年2月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3960/",
     imageUrl: "/images/mg-zeta-gundam-iii-p2-red-zeta.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2267",
     tags: ["ガンプラ", "MG", "Bandai", "Zガンダム", "GUNDAM EVOLVE", "P-Bandai限定", "紅蓮"],
     description: "「Red Zeta」出自短篇OVA《GUNDAM EVOLVE../9》，是以Z鋼彈III P2 C型為基礎、搭載「精神中和裝置」的新人類專用強化機，由新駕駛員尤莉・阿吉薩（紅蛇）駕駛，機體外裝約八成經過重新設計，全身佈滿鰭狀散熱片與銳利線條的新造型背包，並可變形為Wave Rider高速飛行形態。本品為此設定首度立體化的P-Bandai限定套件，附Red Zeta專屬光束手槍與盾牌，是Z鋼彈系列支線機體中稀有度極高的收藏品。",
     reviews: [
