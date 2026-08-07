@@ -13875,8 +13875,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "gx60-god-sigma",
     addedAt: "2026-07-17",
-    name: "GX-60 宇宙大帝ゴッドシグマ",
-    nameJa: "GX-60 宇宙大帝ゴッドシグマ",
+    name: "GX-60 ゴッドシグマ",
+    nameJa: "GX-60 ゴッドシグマ",
     series: "宇宙大帝ゴッドシグマ",
     character: "ゴッドシグマ（空雷王＋海鳴王＋陸震王）",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
