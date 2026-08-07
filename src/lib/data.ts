@@ -5012,6 +5012,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年8月",
     officialUrl: "https://p-bandai.com/tw/item/N2519695001001",
     imageUrl: "/images/mg-qubeley-embellir.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2597",
     tags: ["Gunpla", "MG", "キュベレイ", "Qubeley Embellir", "Build Divers", "GBWC", "P-Bandai", "バンダイスピリッツ", "1/100", "光沢"],
     description: "キュベレイ原型出自《機動戦士Ζガンダム》哈曼・卡恩的專屬機體，以巨大手掌與浮游砲聞名，長年為ガンダム系列中最具辨識度的女性駕駛員專屬機之一。《ガンダムビルドダイバーズ GBWC》世界大會篇章中，玩家常將經典機體大膽拆解重塑衍生出諸多原創改造機，其中登場的キュベレイ・アンベリール為角色QA所駕駛的機體，「Embellir」取自法語「美化、裝飾」之意，呼應其華麗奢侈的造型定位，與キュベレイダムド、百式クラッシュ等黑暗系改造機形成鮮明對比。\n\nMG 1/100版本以MG キュベレイダムド為骨架基礎，導入全新光澤（光沢）成形技術，白色外裝全面採用光沢射出成形，在光線照射下呈現如瓷器般的溫潤光澤質感；バインダー及部分零件另加入金屬感成形件強化高級感。隨附水轉印貼紙中包含具鏡面反射效果的特殊印刷貼紙，令完成後展示效果在三款Build Divers キュベレイ系列衍生機中最為奢華精緻。武裝方面配有黃色透明光束軍刀刀刃，與另二款機體的粉紅、紅色刀身形成系列區隔。本品屬Premium Bandai限定商品，僅透過官方通路販售，市面流通量有限，收藏難度較高。",
     reviews: [
@@ -7971,6 +7972,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年4月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102618634000&grp_id=5325",
     imageUrl: "/images/mg-avalanche-astraea-typef.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2397",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam 00", "アストレア", "P-Bandai限定", "アヴァランチ"],
     description: "《機動戰士鋼彈00F》正義女神鋼彈（GNY-001F Gundam Astraea TYPE-F）專用的高機動擴充裝備「阿瓦蘭契衝刺單元（Avalanche Dash Unit）」，是MG 1/100 P-Bandai限定單售商品，作為00F外傳漫畫中賦予正義女神鋼彈高速突擊能力的關鍵擴充裝備，補完了本機在漫畫、小說劇情中對抗強敵時展現的高機動戰鬥面貌。\\n\\n本商品僅為裝備套件，不含機體本體，需搭配另售的「MG 1/100 ガンダムアストレア TYPE-F（フルウェポンセット）」組裝完成後方可裝著重現包裝彩圖中的高速衝刺形態。成形色以與TYPE-F相同的深紅色呈現，整體色調高度統一；肩部與背部大型推進裝甲可展開變形至高速移動模式，衝刺單元前端的GN爪（GNクロー）可開闔，重現攻擊時的張合演出，並附有意象GN粒子的透明綠色專用展示台座與水轉印式貼紙。作為00系列玩家與正義女神鋼彈粉絲的收藏話題商品，本品讓TYPE-F的收藏組合更加完整。",
     reviews: [
@@ -8031,6 +8033,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年4月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102618627000&grp_id=5325",
     imageUrl: "/images/mg-astraea-typef-full-weapon.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2331",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam 00", "アストレア", "P-Bandai限定", "フルウェポンセット"],
     description: "官方外傳《機動戰士鋼彈00F》主角機GNY-001F正義女神鋼彈TYPE-F（フルウェポンセット・全武裝套組）MG 1/100版本，P-Bandai限定商品。TYPE-F是00F漫畫中登場、與電視版能天使鋼彈（Exia）系出同源卻大幅差異化的獨立機體，設定上肩負應對外星生命體侵略的重任，是00系列外傳中人氣頗高的原創機體之一。\\n\\nTYPE-F頭部、衣領、胸部、肩部、腹部、前後裙甲、手臂與膝側裝甲全數採用新規造形零件重現，頭部並可選擇露出或隱藏鋼彈臉（ガンダムフェイス）；GN驅動及胸背裝甲以新設計零件呈現，並可另外加裝別售LED發光單元，強化展示效果。本套件依MG規格新設計了大量武裝：Proto GN劍、Proto GN發射器、GN光束步槍、GN大鎚、GN盾牌、GN光束手槍、NGN火箭筒、GN光束軍刀、GN劍、GN長短刀等一應俱全，手臂與腿部新增武裝掛架可懸掛各式裝備；並可透過更換頭部、腰部、手臂、腿部零件重現TYPE-F2形態，是00F外傳唯一的MG化正義女神鋼彈全武裝套組，重點收藏價值極高。",
     reviews: [
@@ -8067,6 +8070,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年4月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2164/",
     imageUrl: "/images/mg-jegan-typef-d.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2534",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam UC", "ジェガン", "P-Bandai限定", "連邦軍"],
     description: "《機動戰士鋼彈UC》地球聯邦軍量產傑鋼的特殊塗裝衍生機型RGM-89D傑鋼D型（Jegan D-Type）MG 1/100版本，P-Bandai限定商品。D型是傑鋼系列多種塗裝／機能衍生型之一，出現於UC世界觀外傳設定，標誌性的淺綠塗裝在系列眾多傑鋼衍生型中辨識度極高，補完了聯邦軍在傑鋼量產體系下多樣化任務編成的細節設定。\\n\\n以MG傑鋼骨架為基礎，針對D型特徵進行大量新規造形：頭部及火神砲莢艙（バルカン・ポッド・システム）、背包、稜角分明的肩部裝甲、前腕側面細節、腰部與前裙甲、腿部推進器護蓋等部位皆重新設計。機體色以淺綠色成形色徹底重現D型的獨特塗裝辨識度，並附新設計圖案的水轉印式貼紙。標準配備包含光束步槍、光束軍刀、盾牌、手榴彈等武裝。可動範圍依循近年MG標準大幅提升，髖關節與腿部具備靈活可動性，並可與另售的「89式基地噴射機（ベース・ジャバー）」組合重現劇中場景，是傑鋼系列收藏者眼中的重要拼圖。",
     reviews: [
@@ -8103,6 +8107,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年1月",
     officialUrl: "https://bandai-hobby.net/item/01_3948/",
     imageUrl: "/images/mg-tallgeese-3.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2270",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "トールギスIII", "ゼクス・マーキス", "エンドレスワルツ", "プレミアムバンダイ限定"],
     description: "《新機動戰記鋼彈W Endless Waltz》OZ-00MS2B トールギスIII，由「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）於劇場版最終決戰駕駛的托爾吉斯最終強化型。作為初代トールギス的發展型，主武裝由多佛槍（Dover Gun）換裝為兆能加農砲（メガキャノン），戰鬥力大幅提升，直逼鋼彈等級，是ゼクス這位悲劇英雄角色在系列尾聲展現的最終戰力象徵。\\n\\n套件頭部、肩甲、兆能加農砲、盾牌等大量新開模，兆能加農砲重現伸縮收納機構，熱能鞭長度可透過付屬零件調整，靈活重現原作中鞭擊敵機的演出畫面。並附有ゼクス人形（站姿、坐姿各一）與全新設計轉印水貼，方便情境展示與角色塑造。本商品為Premium Bandai限定販售，作為MG規格立體化的トールギスIII，可動性與細節密度皆優於同機體的其他規格版本，是鋼彈W系列玩家心目中夢寐以求的收藏機種之一。",
     reviews: [
@@ -8150,6 +8155,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年5月",
     officialUrl: "https://bandai-hobby.net/item/01_2262/",
     imageUrl: "/images/mg-shenlong-liaoya.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2737",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "シェンロンガンダム", "獠牙", "敗者たちの栄光", "プレミアムバンダイ限定"],
     description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》XXXG-01S シェンロンガンダムEW（獠牙／タウヤー裝備），沿用一般販售版シェンロンガンダムEW本體素體，追加漫畫「敗者們的榮光」中登場的原創巨大兵裝「獠牙」——一把透過鋼索與盾牌相連、可投擲後回收的大型彎刀，是張五飛這位重情重義的角色在外傳劇情中展現獨門近戰美學的代表兵裝，也呼應了神龍鋼彈一貫以格鬥戰術見長的機體設定。\\n\\n鋼索部分以金屬線材重現，兼顧強度與可動的柔軟彎折表現，能自由擺出投擲與回收的動態姿勢；另附加藤單（カトキハジメ）設計轉印水貼與展示台，強化整體收藏質感。同梱兵裝包含光束三叉戟、シェンロン盾、獠牙、龍爪（Dragon Hang）等一應俱全，武裝陣容豐富。本商品為Premium Bandai限定販售，作為鋼彈W外傳漫畫中原創兵裝立體化的稀有商品，是深度鋼彈W系列與神龍鋼彈收藏者相當重視的一件。",
     reviews: [
@@ -8323,6 +8329,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年4月（P-Bandai限定）",
     officialUrl: "https://bandai-hobby.net/item/01_4060/",
     imageUrl: "/images/mg-slash-zaku-phantom-yzak.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2577",
     tags: ["ガンダムSEED DESTINY", "ザクファントム", "イザーク・ジュール", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "《機動戰士鋼彈SEED DESTINY》承接前作血腥情人節事件後的新一輪衝突，札夫特王牌伊薩克・喬爾在故事中期換裝近戰特化的斬擊魔杖，駕駛薩克幽靈系列衍生機「斬擊型薩克幽靈」投入戰場，展現這位好勝心強的王牌駕駛員不服輸的性格與精湛的近戰身手。本套件首度以MG 1/100規格商品化，機體以薩克勇士為基礎骨架，全新造形重現斬擊魔杖的厚重量感與精密機構，讓玩家得以近距離欣賞這款人氣配角機的細節設計。\n\n新規造形武裝包括MMI-M826九頭蛇連裝光束加特林砲，砲身可旋轉、可動範圍廣泛；以及大型近戰武裝法爾克斯G7光束斧，收納與展開形態皆以換裝方式重現，更可將左右刀刃合體成MG原創的雙刃形態，收納時亦可掛載於腰部。機體以象徵伊薩克專用機的水藍色為成型色，各部位分色細緻，附有含札夫特標誌的水轉印水貼。此為Premium Bandai限定商品，2020年4月發售，非一般通路販售，稀有度較高。",
     reviews: [
@@ -8363,6 +8370,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年6月（P-Bandai限定）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3474/",
     imageUrl: "/images/mg-blaze-zaku-phantom-rey.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2346",
     tags: ["ガンダムSEED DESTINY", "ザクファントム", "レイ・ザ・バレル", "MG", "1/100", "Bandai", "P-Bandai限定"],
     description: "《機動戰士鋼彈SEED DESTINY》中雷伊・薩・巴雷爾是身世成謎、與Rau Le Creuset有著隱密關聯的關鍵角色，性格冷靜疏離卻在故事後段揭露驚人真相，其駕駛的烈火型薩克幽靈以重火力見長，是薩克幽靈系列中偏向支援攻擊的量產衍生機型，也常被視為呼應雷伊角色深沉城府的火力擔當機體。本套件以MG 1/100規格商品化，是繼綠色標準機之後推出的角色專屬配色版本，讓收藏者能對照兩種塗裝欣賞同一機體的不同面貌。\n\n機體延續薩克幽靈系列高可動內構，肩部追加尖刺造型裝甲，展現雷伊機的凌厲氣勢。隨附全新造形的凱特斯500mm無後座力砲，砲口與彈匣採分件處理以重現細緻分色；此外亦附上光束突擊步槍、高性能炸裂彈、光束戰斧、盾牌等豐富武裝。機身以雷伊專用機特徵性的白色搭配淺紫色成型色重現，並附含札夫特標誌的水轉印水貼。此為Premium Bandai限定商品，2021年6月發售，屬於稀少度較高的角色專用配色機體。",
     reviews: [
@@ -8387,6 +8395,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年12月（P-Bandai限定）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3991/",
     imageUrl: "/images/mg-hyakushiki-kai.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2286",
     tags: ["機動戦士Zガンダム", "百式改", "MG", "1/100", "Bandai", "P-Bandai限定", "量産機"],
     description: "百式是《機動戰士Z鋼彈》中夏亞・阿茲納布爾（化名夸特羅・巴吉納）駕駛的AEUG指揮官用MS，因全身鍍以金色塗裝而成為系列中極具話題性的機體，也是夏亞座機系譜裡最廣為人知的一款。「量産型百式改」則取材自MSV設定，是以百式為基礎發展、供AEUG部隊實戰運用的主力量產攻擊型改良機，補完了官方動畫之外聯邦與AEUG兵器發展的合理化脈絡。本套件首度將此機體以MG系列商品化，也是鋼普拉史上首次立體化此設定機體，對長期關注MSV支線的玩家而言意義重大。\n\n套件以未電鍍消光金成型色重現機體色，並新規造形頭部、肩甲、光束加特林槍及背包等特徵部位：向後突出的獨特頭部造形、可掛載光束加特林槍的肩部掛架、雙色分件呈現的光束加特林砲（附兩挺，可左右肩掛載並可調整角度）、以及線條簡潔的新型背包。透過零件替換，同一套件亦可組裝出電鍍金色的標準版百式，並相容於Mega Bazooka Launcher等外掛擴充零件。此為Premium Bandai限定商品，原版於2015年12月發售。",
     reviews: [
@@ -8436,6 +8445,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年10月",
     officialUrl: "https://bandai-hobby.net/item/01_1147/",
     imageUrl: "/images/mg-sandrock-custom-ew.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2690",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "サンドロック", "Endless Waltz", "プレミアムバンダイ限定"],
     description: "《新機動戰記鋼彈W Endless Waltz》為電視版完結後的劇場版總集篇兼後日談，描繪殖民地衝突落幕後和平主義者奇渣爾・拉巴巴・維拿的座駕鋼彈沙德洛克改EW。奇渣爾出身軍火財閥家族卻堅持非戰理念，一心期盼終結戰爭卻始終背負著理想與現實的矛盾，其座機在劇場版中換裝了全身披覆的大型斗篷，象徵角色低調行事、避免正面殺傷的作戰哲學，也呼應他在五位鋼彈少年中最為柔軟細膩的性格描寫。\n\n本套件沿用既有MG沙德洛克EW本體素體，以全新成形色與追加零件重現劇場版限定塗裝，最大特徵為披覆全身、可自由展開造型的大型抗光束塗層斗篷，斗篷採三段式構造搭配軟質素材，可呈現隨風飄動的動態姿勢。同梱兵裝包含雙持熱能彎刀、光束機槍與盾牌，另附換裝手部零件及奇渣爾同比例人形一體，並附加藤單設計轉印水貼。本商品為Premium Bandai限定販售，2017年10月發售，定價5,280日圓（含稅），屬限量流通商品。",
     reviews: [
@@ -8460,6 +8470,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年10月",
     officialUrl: "https://bandai-hobby.net/item/01_3984/",
     imageUrl: "/images/mg-altron-gundam-ew.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2265",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "アルトロンガンダム", "Endless Waltz", "プレミアムバンダイ限定"],
     description: "《新機動戰記鋼彈W Endless Waltz》中張五飛是恪守武人信念、講求一對一決鬥美學的殖民地戰士，性格孤傲卻對戰鬥抱持近乎信仰般的執著，其座駕阿爾托隆鋼彈是沈龍鋼彈的強化發展型，因雙臂裝備的龍牙鉤而被稱為雙首龍＝阿爾托隆，是張五飛貫徹戰鬥哲學的具體化身，也是鋼彈W系列中造型辨識度最高的機體之一。\n\n本套件以既有MG沈龍鋼彈EW為基礎，透過全新造形重現本機特徵性的雙大型武裝。龍牙鉤重現從收納到展開攻擊的連動機構，前端爪部為二軸可動抽拉式設計，可展開開闔，並附延長用臂節與兩支專用輔助支架供動態展示；雙頭光束三叉戟握柄部位為細節豐富的新規零件，兩端出力口可裝上透明成形光束刃，拆下光束刃後可將握柄收納掛載於背包攜行。另附身著瑪莉梅亞軍制服的張五飛同比例人形（立姿／坐姿）及全新設計水轉印式貼紙。本商品為Premium Bandai限定販售，2015年10月發售，定價5,390日圓（含稅），是系列中相當受玩家推崇的一款。",
     reviews: [
@@ -8484,6 +8495,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年10月",
     officialUrl: "https://bandai-hobby.net/item/01_3057/",
     imageUrl: "/images/mg-sandrock-ew-armadillo.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2591",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "サンドロック", "アーマディロ", "敗者たちの栄光", "プレミアムバンダイ限定"],
     description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》是脫離電視版與劇場版正史、以漫畫形式展開的平行外傳，描繪Endless Waltz事件之外的另一段可能性，讓奇渣爾等角色的命運走向與觀眾熟知的劇場版產生分歧，其中登場的原創增裝武裝「アーマディロ（犰狳）」即是為奇渣爾座駕沙德洛克EW量身打造、強化防禦與突擊能力的重裝形態，呼應此外傳中沙漠地帶決戰的獨特戰術需求。\n\n本套件以新規造形重現增加裝甲的展開與著脫機構，各部位細節與色分皆以成形品呈現：雙肩與正面增裝甲可透過新規肩部連接零件自由著脫，背包大型化並搭配新規零件重現，兩肩增裝甲上另附盾牌型輔助推進器，具備前後展開機構，重現角色在防禦戰中包覆全身、強化生存性的戰術構想。本體沿用一般販售版沙德洛克EW核心素體，同梱兵裝包含熱能彎刀、光束機槍、盾牌及全套犰狳增裝甲組件，並附加藤單設計轉印水貼。本商品為Premium Bandai限定販售，2020年10月發售，定價6,380日圓（含稅），屬漫畫外傳限定衍生機體。",
     reviews: [
@@ -12116,6 +12128,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年2月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102558534000&grp_id=5325",
     imageUrl: "/images/mg-astray-red-dragon.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2527",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "ガンダムSEED ASTRAY", "アストレイ"],
     description: "《機動戦士ガンダムSEED DESTINY ASTRAY R》是ガンダムSEED系列外傳漫畫作品，描寫junk屋出身的駕駛員ロウ・ギュール（Lowe Guele）駕駛紅色機體アストレイ在戰場與廢鐵回收工作間輾轉求生的故事，機體歷經多次改裝強化，「レッドドラゴン」即為其中火力與裝甲皆大幅升級的最強形態，象徵ロウ從junk屋技師蛻變為熟練駕駛員的成長軌跡。該形態頭部換裝為龍首造型的「ドラグヘッド」，背部搭載三具巨大爪狀武裝「カレトヴルッフ」，可重組變化為Sモード、Gモード或雙手持大戟等多種形態，展現豐富的武裝組合玩法。本商品為MG規格全新造形立體化商品，1/100比例更能完整重現機體重裝厚重的迫力感，標準配件包含格伯拉直式劍、光束步槍，以及可拆卸光束效果零件的Bauk偵察頭部等配件，讓玩家能重現原作漫畫中多種招牌武裝組合姿勢，是ASTRAY系列衍生機體收藏中份量感與可玩性兼具的代表作品。ASTRAY系列一貫強調「junk屋改裝機」的設定魅力，機體造型隨劇情推進不斷升級強化，本商品即為呈現該系列最具視覺衝擊力形態的立體化代表。",
     reviews: [
@@ -19805,6 +19818,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年10月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1788/",
     imageUrl: "/images/mg-heavyarms-custom-ew.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2810",
     tags: ["新機動戦記ガンダムW", "Endless Waltz", "ガンダムヘビーアームズ改", "MG", "マスターグレード", "ガンプラ", "トロワ・バートン"],
     description: "《新機動戰記鋼彈W Endless Waltz》為《鋼彈W》電影版續篇，重新設計五飛翼機體造型，強化戰甲質感與武裝細節。XXXG-01H2 Gundam Heavyarms Custom EW是駕駛員特羅瓦·巴頓的座機，以雙臂裝備的加特林機炮與胸部四門加農炮（原作為兩門）著稱，全身武裝密度極高，是鋼彈W系列中火力最強悍的機體之一。本商品為MG系列重新開模版本，新造型武裝零件完整重現機體重裝甲的視覺魅力，並附有象徵特羅瓦身份的小丑面具零件，是鋼彈W粉絲喜愛的經典kit之一。",
     reviews: [
@@ -25273,6 +25287,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年4月29日",
     officialUrl: "https://bandai-hobby.net/item/01_4311/",
     imageUrl: "/images/mg-zeta-gundam-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/647",
     tags: ["機動戦士Ζガンダム", "MG", "Ver.Ka", "ゼータガンダム", "BANDAI SPIRITS", "ガンプラ", "プレミアムバンダイ限定"],
     description: "《機動戦士Ζガンダム》主角機「ゼータガンダム」是鋼彈系列首度確立「可變機動戰士」設計概念的代表機體，可從MS形態變形為高速巡航的「ウェイブライダー」形態，是系列可變機體設計譜系的原點與經典。本商品由角色設計加藤誠親自監修，Premium Bandai限定販售，2023年4月29日發售，作為Ver.Ka系列時隔多年重返ゼータガンダム的原點回歸之作，變形機構經全面洗鍊優化，兼顧MS與WR兩種型態的完美比例，並附多款金屬質感電鍍加工零件，是深度收藏Ζガンダム系列的頂級精品。",
     reviews: [],
