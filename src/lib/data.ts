@@ -2228,6 +2228,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年8月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5418/",
     imageUrl: "/images/mg-gundam-stormbringer-pf.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2516",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "P-Bandai", "Genius"],
     description: "《鋼彈破壞者 Battlogue》是Bandai Namco電子遊戲《GUNDAM BREAKER》系列的關聯企劃，故事描述在虛構的鋼彈模型（鋼普拉）對戰競技世界中，各方玩家操縱各自打造的鋼普拉進行對戰較勁的設定，其中「Genius」為劇中特殊角色陣營所使用的原創機體系列，設計上大量融合多款經典鋼彈的既有元素，並賦予全新塗裝配色與武裝概念，呈現有別於正史鋼彈作品的自由再創作氛圍。本品為MG系列風暴使者鋼彈P.F.（Phantom Fang），屬於Genius陣營機體之一，機體命名與造型呼應遊戲世界觀中虛構角色的設定與戰鬥風格。作為P-Bandai限定商品，僅透過premium bandai通路少量販售一定期間，未在一般模型通路上架流通，發售後補貨機會低，具備一定收藏稀缺性。MG系列一貫要求高精度分色成型與可動框架設計，本品也延續此系列傳統水準，適合喜愛Gundam Breaker世界觀衍生機體、追求收藏稀有P-Bandai限定商品的玩家。",
     reviews: [
@@ -2304,6 +2305,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://p-bandai.com/tw/item/N2620395001002",
     imageUrl: "/images/mg-raijin-striker.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2449",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED Freedom", "追加裝備", "ECLIPSE"],
     description: "《機動戰士鋼彈SEED FREEDOM》是2024年上映、承接《機動戰士鋼彈SEED DESTINY》後續劇情的劇場版動畫，描寫自由鋼彈駕駛員煌・大和等角色在新興威脅下再度挺身而戰的故事，是SEED系列時隔近二十年重返大銀幕的重要作品。Eclipse鋼彈是該作登場的原創機體之一，可依戰況搭載不同的追加武裝套件（Striker Pack）以強化特定作戰性能，此為SEED系列自初代Strike鋼彈以來一貫的模組化武裝設計傳統，也是系列機體設計最具代表性的特色。本品為MG系列MG Eclipse鋼彈專用的「雷神Striker」擴充套件，命名與造型暗示其著重於高輸出、雷擊系概念的火力強化取向，須搭配另售的MG Eclipse鋼彈本體才能完整組裝展示。此類追加裝備套件讓玩家能依喜好切換機體形態與武裝配置，重現劇場版中因應不同戰鬥情境變換裝備的橋段，是深化收藏SEED FREEDOM系列機體、豐富展示樣貌的重要選配商品。",
     reviews: [
@@ -2330,6 +2332,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://p-bandai.com/tw/item/N2572820001003",
     imageUrl: "/images/mg-lightning-striker.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2406",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "追加裝備", "ストライク"],
     description: "《機動戰士鋼彈SEED》系列自初代電視動畫起即確立了「Striker Pack」模組化追加武裝的設計傳統，讓主角機強襲鋼彈能依戰場需求更換空戰、砲擊、近戰等不同型態的裝備組件，藉此以單一機體平台衍生出多種戰術樣貌，是SEED系列機體設計最具代表性的特徵之一，也深深影響後續鋼彈作品的機體開發思路。「Lightning Striker」為系列擴展媒體中登場的追加武裝構想，強調高速游擊與雷擊系火力的作戰取向，呼應SEED世界觀中G兵器不斷因應戰局演化裝備的設定脈絡。本品為MG系列強襲鋼彈專用的Lightning Striker擴充套件，須搭配另售的MG強襲鋼彈本體使用方能完整組裝展示，並非獨立機體商品。透過替換套件即可重現該武裝形態的獨特側輪廓與武器配置，對於希望收全強襲鋼彈各式Striker Pack形態、完整重現機體多樣戰術樣貌的玩家而言，是補完機體收藏陣容不可或缺的重要選項，也讓展示櫃中的強襲鋼彈得以呈現更豐富的武裝變化面貌。",
     reviews: [
@@ -2391,6 +2394,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1731/",
     imageUrl: "/images/mg-victory-gundam-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/554",
     tags: ["ガンプラ", "MG", "Bandai", "V鋼彈", "Ver.Ka", "分離合體"],
     description: "《機動戰士V鋼彈》是宇宙世紀時間線後期作品，描寫地球聯邦殘存勢力「地球圈統一之會」與薩比家族餘孽政權「薩克・比恩」之間的殘酷戰爭，主角為年僅十三歲的少年鬥士優西恩，其座機V鋼彈以「合體變形」與「三機分離」機構為最大特色，可分離為核心戰機（Core Fighter）與上下半身組件，重組後亦能與V Dash等追加裝備合體強化，展現該作機體設計上獨樹一格的模組化理念。本品為MG系列由知名機械設計師加藤真設計監修的Ver.Ka版本，Ver.Ka系列一貫以精密銳利的線條重新詮釋經典機體造型並強化細節密度著稱，深受資深鋼普拉玩家推崇。本商品完整重現V鋼彈的Top、Bottom分離形態與V Dash合體機構，讓玩家能重現原作中機體因應戰況分離、合體、換裝的多樣形態變化，對於喜愛加藤監修美學與機體合體變形玩法的玩家而言，是相當具代表性的收藏品項，也是宇宙世紀後期作品中兼具劇情厚度與模型可玩性的重量級商品。",
     reviews: [
@@ -2454,6 +2458,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年2月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_6875/",
     imageUrl: "/images/mg-full-armor-zz-gundam-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4556",
     tags: ["ガンプラ", "MG", "Bandai", "ZZ鋼彈", "Ver.Ka", "全裝甲"],
     description: "《機動戰士ZZ鋼彈》承接《機動戰士Z鋼彈》劇情，描寫地球聯邦與新吉翁殘存勢力卡拉巴之間的戰爭，主角捷多的座機ZZ鋼彈以強大的火力配置與百式般的合體變形機構著稱，是宇宙世紀系列中火力設定最為誇張、玩具與模型商品化潛力極高的一部主角機。全裝甲型（Full Armor ZZ）則是劇中後段為強化決戰火力而追加大量外掛裝甲與武裝的強化形態，象徵ZZ鋼彈系列武裝發展的極致，也是該作壓軸戰役中令人印象深刻的機體樣貌。本品為2026年由加藤真重新監修設計、全新開模推出的MG Ver.Ka版本，相較舊版商品在關節結構、可動範圍與細節分色上均有大幅提升。套件並可透過拆裝外掛裝甲，於標準ZZ鋼彈形態與全裝甲強化形態間自由切換展示，讓玩家一次收藏兩種經典形態。Ver.Ka系列一貫以精緻線條詮釋機體美學，本品也延續此系列一貫高規格水準，是ZZ鋼彈收藏者引頸期盼多年的重製版本，發售後預期將成為取代舊版商品的新標準之作。",
     reviews: [
@@ -2546,6 +2551,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年（2024年再版）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4036/",
     imageUrl: "/images/mg-impulse-gundam-blanche.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2811",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED ASTRAY", "P-Bandai", "ZAFT", "デスティニーシルエット"],
     description: "《機動戰士鋼彈SEED ASTRAY》是SEED系列的漫畫外傳作品，描寫在正史之外、由不同駕駛員操作的機體與支線劇情，透過旁支視角補完SEED世界觀的細節與時間軸空白，長年受到系列硬核粉絲喜愛。命運脈衝鋼彈白色版即為此系列登場的機體之一，其命名與塗裝呼應SEED DESTINY正史中登場的命運鋼彈相關武裝概念，並搭載Destiny R Silhouette與大型遠程狙擊炮Wolfsbane等強化裝備，火力配置偏向遠程壓制與精準狙殺，展現與正史命運鋼彈不同的戰術取向。本品為P-Bandai限定商品，僅透過premium bandai通路限量販售，未在一般模型通路鋪貨，補貨機會低。MG系列一貫要求高精度可動框架與細節分色，本品也延續此傳統，並完整重現搭載Silhouette強化組件後的機體輪廓，是收藏SEED ASTRAY外傳機體與稀有限定商品的重點目標，對於偏好遠程狙擊型武裝設定、喜愛比較各式命運鋼彈衍生形態的玩家而言別具魅力。",
     reviews: [
@@ -2577,6 +2583,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2004年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1789/",
     imageUrl: "/images/mg-duel-gundam-assault-shroud.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/600",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam SEED", "地球聯合"],
     description: "《機動戰士鋼彈SEED》劇情中，ZAFT於突襲行動中奪取地球聯合軍秘密開發的五部G兵器原型機，決鬥鋼彈即為其中之一，後由ZAFT精銳駕駛員伊薩克・喬魯駕駛參戰，是系列中代表ZAFT陣營戰力的重要機體之一，其銳利的頭部造型與白灰配色也是系列人氣機體之一。決鬥鋼彈可依戰場需求換裝不同追加甲冑，Assault Shroud即為其中強化近接與突擊性能的追加武裝形態，換裝後機體整體輪廓更顯厚重，武裝密度大幅提升，展現與標準型截然不同的壓迫感。本品為MG系列商品，完整重現決鬥鋼彈換裝突擊甲冑後的機體樣貌，並延續MG系列一貫的精密內構與分色成型工藝，兼顧組裝手感與展示完成度。對於希望收藏SEED系列五部G兵器完整換裝形態、或專注於伊薩克座機收藏脈絡的玩家而言，本品是不可或缺的一件重要商品，也是呈現ZAFT陣營王牌駕駛員個人特色的代表機體之一，與其他四部G兵器並列展示更能重現當年五機齊發的震撼場面。",
     reviews: [
@@ -2639,6 +2646,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4212/",
     imageUrl: "/images/mg-gundam-ex-impulse-manfred.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2367",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Breaker Battlogue", "P-Bandai", "Genius"],
     description: "《鋼彈破壞者 Battlogue》承接電子遊戲《GUNDAM BREAKER》系列世界觀，描寫虛構的鋼普拉對戰競技場景，各方角色駕駛自製或改裝鋼普拉相互較勁，劇中角色曼弗雷德・馮・薩卡薩基即駕駛原創機體EX-Impulse鋼彈參與對戰。EX-Impulse鋼彈在造型與命名上呼應SEED DESTINY系列命運脈衝鋼彈的元素，並依劇中角色設定賦予獨特武裝與塗裝方案，屬於Gundam Breaker系列基於既有鋼彈重新再創作的原創衍生機體之一，展現該企劃融合經典與新意的設計取向。本品為MG系列商品，作為P-Bandai限定僅透過premium bandai通路限量販售，未在一般模型通路上架，補貨可能性低，具一定收藏稀缺性。MG系列一貫講求高精度可動框架與細節分色工藝，本品也延續此標準，適合喜愛Gundam Breaker世界觀角色機體、追求限定商品收藏的玩家，也是與同系列風暴使者鋼彈P.F.並列展示、呈現Genius陣營機體群像的理想組合。",
     reviews: [
@@ -2665,6 +2673,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年12月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2541/",
     imageUrl: "/images/mg-re-gz-unicorn-ver.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2546",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Unicorn", "逆夏", "可變形", "P-Bandai"],
     description: "Re-GZ最初設定登場於福井晴敏原作小說《機動戰士鋼彈UC》的補完設定中，作為《逆襲的夏亞》時期傑鋼系列的後續發展構想機體，承襲傑鋼一貫的高機動可變形設計理念，長年僅存在於小說插畫與設定資料中，較少實際商品化。《機動戰士鋼彈UC》OVA描寫宇宙世紀0096年獨角獸鋼彈與拉普拉斯之盒相關的政治鬥爭，並將部分周邊小說設定的冷門機體重新以獨角獸世界觀塗裝呈現，讓這些長年埋沒的機體重見天日。本品為P-Bandai限定的MG系列Re-GZ獨角獸版，以UC新設定重新詮釋這部原本僅見於小說插畫的機體，完整重現其可變形機構與Back Weapon System大型背部武裝系統，讓玩家能重現機體在戰鬥形態下的完整武裝樣貌。作為僅透過premium bandai通路限量販售的商品，補貨機會低，對於深度收藏UC系列冷門機體或傑鋼系列發展脈絡的玩家而言，具有相當高的補完價值，也讓玩家得以一窺宇宙世紀後期可變形機體技術演進的另一種可能。",
     reviews: [
@@ -2696,6 +2705,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3867/",
     imageUrl: "/images/mg-tallgeese-2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2140",
     tags: ["ガンプラ", "MG", "Bandai", "Gundam Wing", "OZ", "Treize"],
     description: "《新機動戰記鋼彈W》描寫地球圈統一國家與殖民地反抗軍五位少年鬥士之間的戰爭，泰坦機二號是OZ組織於戰爭初期投入實戰的高性能機動戰士。其原型泰坦機是在鋼彈系列尚未量產之前，由OZ科學家所打造的初代試作機，因缺乏後期機體具備的輸出限制器，駕駛員需具備極高的操縱技術才能完全發揮其性能，也因此成為衡量王牌駕駛實力的重要象徵。特雷斯・克休里納達是OZ組織的核心指揮官，以貴族氣質與騎士精神著稱，重視公平對決勝過單純的軍事勝利，親自駕駛泰坦機二號投入戰場，是系列中最具人格魅力的反派角色之一。本品為MG系列商品，以白底搭配金色鑲邊的貴族風格塗裝重現特雷斯座機的獨特識別，並維持MG系列一貫的可動框架與細節分色水準，是收藏W鋼彈系列角色座機不可或缺的代表作品，也是體現特雷斯這位反派角色獨特美學品味的重要收藏品項，與五位少年鬥士的鋼彈並列展示更能呈現該作正反陣營機體美學的鮮明對比。",
     reviews: [
@@ -20209,6 +20219,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年（鋼彈基地5週年紀念）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4271/",
     imageUrl: "/images/mg-gundam-base-unicorn-luminous-crystal.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4491",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "ガンダムベース限定", "透明成型"],
     description: "《機動戰士鋼彈UC》中獨角獸鋼彈解放心理框架後化身「毀滅模式」，是全劇最具震撼力的視覺象徵之一。本品為紀念鋼彈基地5週年推出的限定版本，機體以電影意象為靈感、通體採閃耀水晶般的透明成型設計，僅能組裝呈現光之結晶毀滅模式，無法變形回獨角獸模式或一般毀滅模式。附贈以宇宙為意象、灑落亮粉的專用展示台座及可全關節可動的萬能連接臂，是鋼彈基地限定商品中辨識度極高、極具紀念意義的收藏品。",
     reviews: [
@@ -20256,6 +20267,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年9月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2649/",
     imageUrl: "/images/mg-gundam-base-rx-78-2-ver3-base-color.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4431",
     tags: ["ガンプラ", "MG", "Bandai", "RX-78-2", "Ver.3.0", "ガンダムベース限定"],
     description: "初代鋼彈RX-78-2是整個機動戰士鋼彈系列與模型產業的原點象徵。本品採用目前RX-78系列MG最新世代的Ver.3.0骨架，具備手指各節可動、可動式裝甲連動系統等精密關節構造，肩甲與背包護蓋皆可連動增加手臂活動範圍。此為鋼彈基地限定的清爽藍色系「鋼彈基地色」版本，區別於一般販售的標準配色，並附鋼彈基地原創特別標誌水貼，是Ver.3.0骨架眾多限定色中辨識度高、收藏價值突出的一版。",
     reviews: [
@@ -20279,6 +20291,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年8月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1078/",
     imageUrl: "/images/mg-gundam-base-aile-strike-verrm-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4415",
     tags: ["ガンプラ", "MG", "Bandai", "強襲鋼彈", "Ver.RM", "ガンダムベース限定", "透明成型"],
     description: "翔翼型強襲鋼彈是基拉・大和初期最具代表性的座機形態，Ver.RM版本以GAT-X骨架規格全面翻新比例與細節，呈現接近PG等級的立體感。本品為鋼彈基地限定的透明成型版本，白色裝甲部位改以珍珠光澤成形色呈現，並附乳白色展示台座，與一般販售的Ver.RM不透明版屬不同商品，是強襲鋼彈收藏中辨識度極高的限定色版本，長年為鋼普拉玩家追捧的絕版商品。",
     reviews: [
@@ -20301,6 +20314,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年（鋼彈基地限定，多次再販）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1911/",
     imageUrl: "/images/mg-gundam-base-freedom-ver2-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4621",
     tags: ["ガンプラ", "MG", "Bandai", "自由鋼彈", "Ver.2.0", "ガンダムベース限定", "透明成型"],
     description: "自由鋼彈是基拉・大和在《SEED》後段駕駛的天然者陣營旗艦機，八枚展開式翼型推進器與雙持光束軍刀是其最具標誌性的視覺特徵。本品為鋼彈基地限定的透明成型版本，全身以透明零件搭配珍珠光澤白色裝甲呈現，並附乳白色展示台座，一般通路無法購得，僅透過鋼彈基地及Premium Bandai限量發售，是自由鋼彈眾多版本中收藏熱度居高不下的限定色款式。",
     reviews: [
@@ -20323,6 +20337,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3454/",
     imageUrl: "/images/mg-gundam-base-zaku-warrior-live-concert.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4483",
     tags: ["ガンプラ", "MG", "Bandai", "薩克勇士", "ガンダムベース限定", "Gundam SEED"],
     description: "《機動戰士鋼彈SEED DESTINY》中歌姬米亞・坎貝爾在劇中登場的演唱會場景，搭配以粉紅色為基調的特別塗裝薩克勇士作為舞台裝置。本品沿用MG薩克勇士系列骨架，通體改以粉色系成型色重現演唱會場景配色，並附全新開模的米亞・坎貝爾1/100比例人偶及演唱會限定水貼，是SEED DESTINY周邊中話題性十足、跳脫戰鬥機體框架的趣味限定版本。",
     reviews: [
@@ -20365,6 +20380,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_1292/",
     imageUrl: "/images/mg-unicorn-banshee-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/631",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "Banshee", "Ver.Ka", "UC"],
     description: "《機動戰士鋼彈UC》中Banshee是新吉翁殘黨駕駛員瑪莉妲・克魯茲的座機，全身心理框架解放後爆發出遠超常規MS的機動性與破壞力，是全劇最具震撼力的獨角獸系機體之一。本品由香瀧一監修的Ver.Ka版本重新調整比例與細節，心理框架部位改以透明黃色成型呈現，並附Ver.Ka專屬水貼；可完整重現獨角獸模式與NT-D解放後的破壞模式切換，標配光束麥格農與大型火箭砲等豐富武裝，是UC系列MG收藏中規格與人氣兼具的一款。",
     reviews: [
@@ -20388,6 +20404,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年2月15日",
     officialUrl: "https://bandai-hobby.net/item/01_50/",
     imageUrl: "/images/mg-unicorn-phenex-standard.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/618",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "Phenex", "フェネクス", "金メッキ"],
     description: "《機動戰士鋼彈UC》系列中，RX-0[N] 獨角獸鋼彈3號機「鳳凰（Phenex）」是繼獨角獸、Banshee之後登場的第三台獨角獸鋼彈，機體全身以金色電鍍裝甲搭配透明心靈框架呈現，象徵其接近傳說機體的神秘地位，僅於「DOME-G」等特別影像企劃中登場，並未出現在小說原作情節。本商品為2014年發售的MG標準版本，金色電鍍裝甲搭配藍色高感度光學感應鏡片，可從獨角獸模式展開變形為毀滅模式，變形後全高更為增加，標配光束麥格農、大型狙擊步槍等武裝及背部Armed Armor DE，是獨角獸系列MG收藏中金色機體代表作，與後續「Narrative Ver.」金色電鍍版屬不同商品，是辨識度極高的鋼普拉逸品。",
     reviews: [
@@ -20412,6 +20429,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年12月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2015/",
     imageUrl: "/images/mg-unicorn-phenex-narrative-gold.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2660",
     tags: ["ガンプラ", "MG", "Bandai", "獨角獸鋼彈", "Phenex", "金メッキ", "P-Bandai限定"],
     description: "《機動戰士鋼彈NT》劇中登場的三號機Phenex，是傳說中「拉普拉斯之盒」關鍵鑰匙之一，其金色機身象徵不死鳥浴火重生的意象，是UC系列近年人氣爆發的話題機體。本品為P-Bandai限定的金屬鍍膜版，全身以光澤金色電鍍塗裝重現劇中最終定裝形象，並附新規開模的Armed Armor DE裝甲組件與尾部可動穩定翼零件，是Phenex眾多版本中最貼近劇中閃耀金色形象的旗艦收藏版本。",
     reviews: [],
@@ -20433,6 +20451,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年（0080 30週年紀念）",
     officialUrl: "https://gundam-base.net/products/details.php?detail=3389",
     imageUrl: "/images/mg-nt1-alex-ver2-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/634",
     tags: ["ガンプラ", "MG", "Bandai", "NT-1", "Alex", "Ver.2.0", "0080", "透明成型"],
     description: "《機動戰士鋼彈0080：口袋中的戰爭》以平民少年視角描寫戰爭殘酷面，代號「Alex」的NT-1鋼彈是聯邦軍實驗性強化裝甲鋼彈，複合裝甲下的機體損傷與最終自爆場景是全劇最令人揪心的段落。本套件為紀念0080作品30週年推出的Ver.2.0透明成型版，重新設計可開闔的複合裝甲護盾，透明零件完整展現內部骨架與裝甲夾層結構，標配光束步槍、光束軍刀與大型火箭砲，是NT-1收藏中兼具紀念意義與觀賞性的限定版本。",
     reviews: [
@@ -20456,6 +20475,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年11月",
     officialUrl: "https://bandai-hobby.net/item/01_4063/",
     imageUrl: "/images/mg-deathscythe-ew-rousette.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2749",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "デスサイズ", "Endless Waltz", "P-Bandai限定"],
     description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》外傳漫畫中，杜歐・馬克士威的死神鋼彈EW配備全新開模的「Roussette」增裝背包，強化空戰機動力，可於收納貼背模式與展開飛行模式間切換。套件沿用2010年發售的一般販售版死神鋼彈EW核心骨架，同梱Roussette增裝背包、光束鐮刀與巴斯特盾，是死神系機體眾多外傳增裝形態中特色鮮明的一款，也是Endless Waltz外傳漫畫商品化較少見的稀有品項。",
     reviews: [
@@ -20479,6 +20499,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年",
     officialUrl: "https://bandai-hobby.net/item/01_2911/",
     imageUrl: "/images/mg-geara-doga-full-frontal.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2254",
     tags: ["ガンプラ", "MG", "Bandai", "新吉翁", "吉拉・多加", "P-Bandai限定", "夏亞再臨"],
     description: "《機動戰士鋼彈UC》中，本應報廢拆解作為零件的實驗型吉拉・多加，最終由弗爾・馮拿駕駛投入戰場，重現「紅色彗星再臨」的震撼形象，是新吉翁殘黨量產機譜系中極具戲劇性的一機。本品為P-Bandai限定的紅色機體塗裝版本，以MG-171吉拉・多加為基礎新增「新篭手」造型零件與專屬水貼，重現機體驗證新規零件耐久性的實驗機定位，是新吉翁量產機收藏中辨識度極高的角色專用限定色版本。",
     reviews: [
