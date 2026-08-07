@@ -22172,6 +22172,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年8月25日",
     officialUrl: "https://tamashiiweb.com/item/1743/",
     imageUrl: "/images/scm-ex-sagittarius-aiolos.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102608369.pdf",
     tags: ["SAINT0003", "聖闘士星矢", "聖闘士聖衣神話EX", "黄金聖闘士"],
     description: "艾奧羅斯是黃金十二宮射手座聖鬥士，也是天馬座星矢的引路人，在聖域政變中犧牲性命守護雅典娜聖子，是系列中極具悲劇色彩與人氣的角色。本商品為2012年BANDAI推出的「聖鬥士聖衣神話EX」射手座艾奧羅斯，以全新EX素體重新詮釋原作比例與可動性，聖衣採用可拆卸式披風與可替換翅膀設計，並附有多款表情零件及射手座星矢頭部零件作為隱藏配件，可將箭袋轉換為聖衣箱型態展示。作為EX系列黃金聖鬥士陣容的重要一員，其細膩的雕刻與豐富的可動範圍深受聖鬥士聖衣神話收藏者好評。",
     reviews: [
@@ -23787,6 +23788,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年12月16日",
     officialUrl: "https://tamashiiweb.com/item/12988/",
     imageUrl: "/images/dx-chogokin-vf1-strike-super-parts-movie.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102580603.pdf",
     tags: ["マクロス", "VF-1", "DX超合金", "ストライクパーツ", "スーパーパーツ", "愛・おぼえていますか", "DYRL", "TAMASHII NATIONS", "魂ウェブ商店限定"],
     description: "《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984劇場版）是原作電視版故事的劇場重製版本，以更精緻的作畫與嶄新的機體設計重新演繹一条輝、早瀬未沙、林明美之間的三角關係及對抗ゼントラーディ軍的戰爭，VF-1バルキリー是劇中統合軍主力可變戦機，具備戦鬥機・GERWALK・人型三段變形機構，是《マクロス》系列最具代表性的機體象徵。本商品為TAMASHII NATIONS「DX超合金 劇場版VF-1」系列專用的強化擴充配件組，魂ウェブ商店限定販售，2019年12月16日發售，收錄可安裝於劇場版VF-1本體的「ストライクパーツ」與「スーパーパーツ」兩種強化裝備，包含背部主噴射增速器、腿部推進槽、臂部微型導彈艙及對應武裝配件，安裝後可將標準版VF-1升格為劇場版中最廣為人知的超全武裝形態。作為DX超合金劇場版VF-1系列的重要周邊配件，本商品是完整重現DYRL劇場版標誌性視覺印象、補完該系列收藏層次不可或缺的擴充商品。",
     reviews: [
@@ -26173,6 +26175,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年12月19日",
     officialUrl: "https://tamashiiweb.com/item/13445/",
     imageUrl: "/images/chogokin-rx78f00-yokohama-2020.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102604903.pdf",
     tags: ["GUNDAM FACTORY YOKOHAMA", "RX-78F00", "超合金", "BANDAI SPIRITS", "橫濱高達", "開幕紀念", "限定"],
     description: "「GUNDAM FACTORY YOKOHAMA」是橫濱山下碼頭曾展出全高18公尺「動く実物大ガンダム」的紀念設施，「RX-78F00 ガンダム」正是以該立像為原型立體化的原創機體。本商品是設施2020年12月19日開幕當時同步推出的「超合金」規格立體化商品，全身大量採用金屬壓鑄件重現機體厚重的金屬質感，頭部攝影機與胸部導管內建LED發光機構，標配ハイパー・バズーカ、ビームライフル、ビームサーベル等多款武裝配件，是橫濱高達開幕紀念周邊中規格最高的超合金版本。與後續2022年追加裝備「高機動型（HMT）」的Gunpla塑膠套件版本、以及2025年萬博限定的「RX-78F00/E」超合金抽選版屬於不同時期、不同機體的商品，本作是橫濱高達設施開幕當時最早推出的超合金本尊機體，兼具開幕紀念意義與金屬壓鑄的高質感收藏價值。",
     reviews: [
@@ -26481,6 +26484,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年3月26日",
     officialUrl: "https://tamashiiweb.com/item/13791/",
     imageUrl: "/images/soc-gx101-daitetsujin-17.jpg",
+    manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102629739.pdf",
     tags: ["大鉄人17", "超合金魂", "BANDAI SPIRITS", "TAMASHII NATIONS"],
     description: "1977年石森章太郎原作特攝作品《大鉄人17》主角機體超合金魂立體化，號稱是超合金魂系列史上編號最大的作品之一。本商品最大賣點是「無需替換零件即可完全變形」為要塞形態與飛行形態，並可將專用配件「グラビトンユニット」插入腹部凹槽觸發眼部發光與機械音效。頭部雙眼以透明零件搭配黑色網格紋路重現如彩繪玻璃般的質感效果，軀幹與腿部大量使用壓鑄合金零件帶來紮實的份量感，全高約180mm。附贈可替換左右手部零件、兩架サブマシン子機、シグコンジェット、シグコンタンク等豐富配件，重現作品中經典的變形機構與特攝質感。",
     reviews: [
