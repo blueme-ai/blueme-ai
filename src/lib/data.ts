@@ -8050,6 +8050,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年10月26日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5882/",
     imageUrl: "/images/mg-wing-gundam-proto-zero.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/608",
     tags: ["ガンプラ", "MG", "Bandai", "Endless Waltz", "ウイングガンダム", "プロトゼロ", "カトキハジメ"],
     description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》漫畫中登場的XXXG-00W0飛翼鋼彈原型零式（Wing Gundam Proto Zero）MG 1/100版本，是飛翼零式正式量產前的原型機，補完了漫畫外傳中「Neo Bird」變形形態尚未成熟前的過渡設定，對深度鋼彈W世界觀而言別具意義。\\n\\n本套件採用完全新開模具並搭載變形機構，可動骨架使用新素材製作、支援後續塗裝。頭部與下半身可180度旋轉，配合各部位機構重現MS形態與Neo Bird（新生鳥翼形態）之間的完全變形；特徵性的翼部具備連動開闔與可動設計，腰部側甲翼片亦可動。肩部火神砲艙蓋可開闔，四連火神砲細節精緻；肩甲為雙重構造可展開收納光束軍刀，內部維修管線也忠實重現。雙聯結巨型狙擊步槍（Twin Buster Rifle）以壓倒性比例呈現，並可左右分割。機體標誌採用機械設計師香貫花人（カトキハジメ）繪製之原創標識，並附專用可雙形態展示的飛行台座，是深度鋼彈W粉絲不可錯過的一款隱藏名機。",
     reviews: [
@@ -20652,6 +20653,7 @@ export const collection: CollectibleItem[] = [
     height: "全高 約205mm",
     officialUrl: "https://bandai-hobby.net/item/01_120/",
     imageUrl: "/images/mg-turn-x.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/620",
     tags: ["MG", "Master Grade", "∀ガンダム", "ターンX", "1/100", "BANDAI SPIRITS", "可分離", "BOX0013"],
     description: "《∀ Gundam》系列中，Concept-X 6-1-2 ターンX（Turn X）是與主角機∀鋼彈（Turn A Gundam）同源、卻立場敵對的「黑歷史」科技結晶，由吉姆・金根漢（Gym Ghingnham）駕駛，象徵月光蝶科技的另一種毀滅性應用。機體造型融合圓潤流線與詭異的X型胸口傷痕圖騰，與∀鋼彈的溫和田園氣息形成強烈對比，是系列公認設定最為神秘、戰力深不可測的最終兵器級存在，劇中亦具備可分離為九個部位、實現全方位攻擊的驚人機構。此MG 1/100版本完整重現機身分離變形機構，可拆解為九大區塊個別展開攻擊姿態；右手「Shining Finger」光束切割裝置可展開演出，胸口X型傷痕細節與骨架分色皆高度還原原作設定；套組並附專用可動展示台架，方便重現機體浮空分離的全方位攻擊經典畫面，是∀鋼彈系列收藏中不可或缺的最強對手機體。",
     reviews: [
