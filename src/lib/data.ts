@@ -830,6 +830,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "P-Bandai 限定",
     officialUrl: "https://p-bandai.com/tw/item/AZ005366002",
     imageUrl: "/images/mgex-strike-freedom-mechanical-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4196",
     tags: ["Gundam SEED", "ストライクフリーダム", "MGEX", "1/100", "ガンプラ", "透明色", "P-Bandai限定"],
     description: "強攻自由鋼彈（ZGMF-X20A Strike Freedom Gundam）出自《機動戰士鋼彈SEED DESTINY》，是主角基拉・大和的最終座機，以展開巨大光翼、發動全方位光束射擊的Super Dragoon系統聞名，是SEED宇宙世界觀中公認最強的機體之一，長年穩坐鋼彈人氣機體排行前列。MGEX（Master Grade Extreme）是Bandai近年推出的新世代高階模型規格，較傳統MG骨架更為精密複雜，並首度導入內建LED燈效與機構連動設計，讓機體變形展開時的機械運作一覽無遺。此為P-Bandai限定推出的「MECHANICAL CLEAR」透明配色版，外裝甲板採全透明或半透明材質並施以特殊染色處理，讓內部精密的LED骨架結構與Super Dragoon收納機構在燈光下清晰可視，呈現與一般不透明塗裝版本截然不同的工業機械美感。此透明版本著重展示機體內構之美而非戰鬥氛圍的還原，是模型玩家欣賞MGEX骨架工藝的絕佳選擇，也因限定通路而具有一定的收藏稀缺性。",
     reviews: [
@@ -2281,6 +2282,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2165/",
     imageUrl: "/images/re100-base-jabber-unicorn.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2460",
     tags: ["ガンプラ", "RE/100", "Bandai", "Gundam Unicorn", "飛行台"],
     description: "TYPE-89基地噴射機（Base Jabber）最初設定登場於《機動戰士Z鋼彈》系列作品，是宇宙世紀時間線中常見的軌道彈射載具，功能上類似太空母艦艦載的彈射平台，用於將機動戰士自母艦內部高速射出至戰場，是宇宙世紀作品中描寫太空戰術不可或缺的後勤裝備設定。《機動戰士鋼彈UC》為福井晴敏原作小說改編的OVA作品，承接《逆襲的夏亞》之後的宇宙世紀0096年，描寫獨角獸鋼彈與拉普拉斯之盒相關的政治與軍事鬥爭，是近年UC系列最具話題性的重製與延伸作品。本品為RE/100系列以獨角獸版全新塗裝重新詮釋的TYPE-89基地噴射機，可供玩家搭載1/100比例的機動戰士模型一同展示，重現作品中MS自母艦彈射出擊的經典戰鬥畫面。RE/100系列以簡化內構、降低售價為特色，同時仍保有一定的細節分色水準，此類載具類商品雖非機動戰士本體，卻是豐富展示情境、還原劇中戰術場面不可或缺的重要周邊選項，對於偏好情境式展示、講究場景敘事的鋼普拉收藏者而言相當實用。",
     reviews: [
@@ -3350,6 +3352,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2117/",
     imageUrl: "/images/rg-unicorn-banshee-norn-final-battle.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2461",
     tags: ["ガンプラ", "RG", "Bandai", "Gundam UC", "バンシィ", "最終決戦", "サイコフレーム"],
     description: "《機動戰士鋼彈UC》改編自福井晴敏原作小說，故事圍繞獨角獸鋼彈與新吉翁殘黨爭奪傳說中的「拉普拉斯之盒」展開，劇中登場的RX-0[N]獨角獸二號機Banshee Norn，最初由新吉翁駕駛員瑪莉妲・克魯茲操縱，其獸化模式在解放心理框架後爆發出遠超常規MS的機動性與火力輸出，是全劇最具震撼力與象徵性的戰鬥場面之一，也讓Banshee在鋼彈周邊市場中人氣居高不下。此為Bandai Spirits推出的RG 1/144最終決戰版，附金色サイコフレーム（心理框架）專用替換零件，可重現劇中Banshee獸化破壞模式時全身框架外露發光的視覺效果。RG系列以1/144小比例呈現接近MG等級的內部骨架與精密可動結構，兼顧細節密度與組裝親和性，是該系列一貫的技術亮點所在，最終決戰Ver.特有的金色框架配色更增添了紀念收藏意義，是UC系列鋼普拉當中極具人氣、也頗受玩家追捧的特別版本之一，金色框架與白色機體的對比在展示櫃中格外顯眼，是UC系列收藏中辨識度數一數二的版本。",
     reviews: [
@@ -4535,6 +4538,7 @@ export const collection: CollectibleItem[] = [
     height: "約140mm",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2028/",
     imageUrl: "/images/rg-full-armor-unicorn.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/861",
     tags: ["機動戦士ガンダムUC", "RX-0", "フルアーマー", "RG", "Real Grade", "BANDAI SPIRITS", "高達模型"],
     description: "《機動戰士鋼彈UC》是宇宙世紀系列時間線上承先啟後的重要作品，獨角獸鋼彈憑藉能量元帥「NT-D」系統在覺醒後展現壓倒性戰力，而「全裝甲獨角獸鋼彈」正是劇情終盤最終決戰中登場的滿載武裝規格，象徵主角機在系列尾聲投入全部戰力的關鍵時刻。本作作為 RG 系列中武裝配置最為豐富的一款套件，附有光束火神槍、光束加特林砲、超級光束標槍以及推進劑貯存槽等大量外掛裝備，充分重現獨角獸鋼彈全副武裝迎戰的震撼視覺。RG 系列一貫以接近實機比例模型等級的內構骨架與精密可動機構著稱，本作延續此一特色，最大賣點在於支援獨角獸形態與毀滅形態之間的直接切換，無需拆裝替換零件即可完成兩種模式轉換，充分還原原作中機體變形的戲劇性瞬間，是 RG 系列中收藏與把玩樂趣兼具的重量級作品。作為系列中武裝最為齊全的一款套件，本作也是玩家展示獨角獸鋼彈完整戰力配置時的首選收藏對象。武裝掛載密度極高卻不失整體協調感，展現 RG 骨架系統在承重與可動兼顧上的工程實力，完工後的展示存在感遠超一般 1/144 比例套件。",
     reviews: [
@@ -4566,6 +4570,7 @@ export const collection: CollectibleItem[] = [
     height: "—（配件組）",
     officialUrl: "https://p-bandai.com/tw/item/N2700764001001",
     imageUrl: "/images/rg-shiranui-akatsuki.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2454",
     tags: ["機動戦士ガンダムSEED FREEDOM", "アカツキ", "シラヌイ", "ゼウスシルエット", "RG", "Real Grade", "P-Bandai", "限定品", "高達模型", "BANDAI SPIRITS"],
     description: "《機動戰士鋼彈SEED FREEDOM》是 SEED 系列時隔多年推出的劇場版新作，延續了系列一貫的政治糾葛與機甲對決主軸，「朱色」作為極具人氣的自由同盟軍機體，在片中依任務環境切換不同裝備配置，展現系列一貫「同一機體、多套裝備」的設計哲學。本套件為 P-Bandai 限定的裝備轉換組件，可將另售的 RG 朱色鋼彈由適用地球大氣層的「大鷲」裝備，替換為專為宇宙戰設計的「不知火」裝備，重現機體因應戰場環境切換戰術配置的設定巧思。套件同時附有可與另售 HGCE 宙斯輪廓連接的專用零件，方便玩家重現電影劇中的名場面對戰組合。「不知火」裝備最大特色在於內建光束砲塔展開射出機構，可呈現武裝從收納到展開攻擊的動態過程，另附動作展示底座轉接零件輔助擺出更具張力的姿勢，是 SEED FREEDOM 系列周邊中兼具劇情還原度與把玩機構的精緻配件商品。此類「一機多裝備」的擴充套件設計，也呼應了 SEED 系列一貫強調機體因應戰場環境靈活換裝的世界觀邏輯，深受重視劇情還原度的玩家喜愛。",
     reviews: [
@@ -5273,6 +5278,7 @@ export const collection: CollectibleItem[] = [
     height: "約220mm",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3010/",
     imageUrl: "/images/mgex-unicorn-gundam-ver-ka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/639",
     tags: ["Gunpla", "MGEX", "ユニコーンガンダム", "Ver.Ka", "バンダイスピリッツ", "1/100", "LED", "発光", "変形", "RX-0"],
     description: "RX-0 ユニコーンガンダム出自《機動戦士ガンダムUC》，是U.C.0096年拉普拉斯事變核心的傳說機體，內建可感應駕駛員精神狀態的サイコフレーム（Psycho Frame），平時以純白「Unicorn Mode」待機，戰鬥激化時角部展開、機體發光轉為赤紅色「Destroy Mode」，象徵全機性能全開的爆發狀態，是新世紀高達作品中人氣最高的機體之一。\n\n本品為BANDAI SPIRITS全新「MGEX」（Master Grade Extreme）品牌首彈，以「極限發光機構」為主題，全新採用可彎折的フレキシブルLEDシート，組裝簡便且大幅節省內部空間，同時實現變形、發光、變色、可動四大功能兼備。按鈕操作下眼部與頭頂主攝像頭點亮，サイコフレーム以赤、綠雙色脈動式發光，完整重現Unicorn Mode與Destroy Mode的機構切換。全身比例由高達設計師カトキハジメ全程監修，附機庫造型展示底座及三塊護盾零件可重現最終決戰場景，是慶祝GUNPLA 40週年的里程碑作品，也是史上規格最高的1/100比例獨角獸鋼彈模型。",
     reviews: [
@@ -6423,6 +6429,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年7月初次販售，2026年4月 P-Bandai台灣再販",
     officialUrl: "https://p-bandai.com/tw/item/A2302829011",
     imageUrl: "/images/rg-astray-gold-frame.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2285",
     tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "P-Bandai限定"],
     description: "《機動戰士鋼彈SEED ASTRAY》是《SEED》世界觀下以外傳漫畫形式展開的作品群，聚焦於未被正史提及的多台試作機鬥爭，MBF-P01「阿斯特雷 金色框架」正是其中人氣最高的機體之一，設定為性能凌駕正規量產機的高機動試作鋼彈，曾一度被宿敵隆德・吉娜・薩哈克奪走並用以對抗原駕駛員，是外傳劇情中極具戲劇張力的一段。此次首度以RG系列規格商品化，RG向來以「1/144比例中罕見的細密表現」與「逼真結構」為賣點，本作不僅重現機體精密關節與內部骨架，更以RG規格重新詮釋招牌武裝「350mm軌道砲蓋伯格」，並新增專用右肩護甲零件，重現原作中機體右臂被擊落的經典場面。塗裝表現上，金色框架的閃耀質感透過三色金屬成形色分開表現，搭配細緻面板線與原創標誌貼紙，即使不上色也有相當高的完成度；感應器貼紙提供紅、綠兩色可自由選擇。本套件2016年7月以限定商品身份首度發售，多年未再版而在二手市場行情看漲，此次透過P-Bandai再販，是入手這款經典衍生機體的難得機會。",
     reviews: [
@@ -6447,6 +6454,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年3月25日",
     officialUrl: "https://bandai-hobby.net/item/01_833/",
     imageUrl: "/images/rg-astray-gold-frame-amatsu-mina.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/673",
     tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "天ミナ", "BOX0012"],
     description: "《機動戰士鋼彈SEED ASTRAY》外傳漫畫中，「ガンダムアストレイ ゴールドフレーム天ミナ」是隆德・米娜・薩哈克在原機體「金色框架」基礎上大幅強化改造而成的座機，換裝新型頭部與大型光束軍刀，並追加特徵鮮明的黑色裝甲與金色鑲邊塗裝，是隆德・米娜個人風格強烈的高機動改造機。本商品以RG系列規格重新詮釋這款人氣改造機體，完整重現原型機的精密關節與內部骨架結構，並針對天ミナ專屬的肩部裝甲、雙持大型光束軍刀等新規開模部位進行細膩雕刻，成形色分色亦精確對應黑金配色的視覺印象。作為ゴールドフレーム系列衍生機體中辨識度極高的一款，套件另附水轉印貼紙供玩家還原原作標誌與細節塗裝，是喜愛SEED ASTRAY外傳劇情與蒐集金色框架系列衍生機體收藏者的重點目標。",
     reviews: [
@@ -6663,6 +6671,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年12月21日（GUNDAM SIDE-F限定）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5532/",
     imageUrl: "/images/rg-nu-gundam-double-fin-funnel.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4314",
     tags: ["ガンプラ", "RG", "Bandai", "逆襲のシャア", "νガンダム", "GUNDAM SIDE-F", "フィンファンネル"],
     description: "《機動戰士鋼彈 逆襲的夏亞》是宇宙世紀系列的重要轉捩點，講述阿姆羅・雷與夏亞・阿茲納布多年恩怨的最終決戰，阿姆羅專用機νGUNDAM搭載的浮游砲「Fin Funnel」是全系列最具代表性的武裝設定之一。本商品是為紀念「GUNDAM SIDE-F」福岡復刻展示企劃、以逆襲的夏亞MSV設定為藍本推出的強化版νGUNDAM，相較於標準版RG νGUNDAM，本商品拿掉右肩原本收納光束軍刀的掛架，改為安裝第二組Fin Funnel掛架，使機體最多可同時搭載12枚Fin Funnel，重現設定畫集中「雙翼」形象的最強阿姆羅專用機。套件依福地仁的MSV設定畫重新設計頭部、胸甲、肩甲、腰部前裙甲、光束步槍與盾牌等多處零件，新版Fin Funnel可個別拆卸並切換「發射待機」與「收納」兩種姿態，展示自由度大幅提升。RG系列一貫的內構骨架與可動範圍，讓本作得以擺出比舊有MG、HG版更誇張的浮游砲攻擊姿勢。本商品2024年12月21日限定在GUNDAM BASE TOKYO與線上通路以會員限定方式販售，是鋼彈45週年紀念活動中話題度最高的RG商品之一。",
     reviews: [
@@ -7331,6 +7340,7 @@ export const collection: CollectibleItem[] = [
     height: "約130mm",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_2363/",
     imageUrl: "/images/rg-tallgeese3-endless-waltz.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2563",
     tags: ["ガンプラ", "RG", "Bandai", "ガンダムW", "トールギスIII", "ゼクス・マーキス", "エンドレスワルツ", "プレミアムバンダイ"],
     description: "「トールギスIII」（OZ-00MS2B）是劇場版《新機動戰記鋼彈W Endless Waltz》中登場的機體，由昔日「白色獠牙」ゼクス・マーキス（米利亞爾特・匹斯克拉福特）駕駛。作為初代トールギス的強化發展型，機體換裝三角犄角狀新頭部與大型化肩甲，並配備高輸出兆能加農砲與熱能鞭，戰鬥力遠超前作，是OZ系列中極具人氣的最終決戰機體，象徵著這位悲劇性角色為結束戰爭所背負的最後使命。\\n\\n本商品為RG系列重新原創設計版本，頭部三犄角、肩甲、兆能加農砲與熱能鞭皆為全新開模，兆能加農砲重現收納與展開雙形態的伸縮機構，熱能鞭則以金屬線材呈現可自由彎折的柔軟質感，充分展現RG系列一貫追求的內構造與細節重現水準。另附1/144比例ゼクス人形供情境展示，強化整體演出氛圍。本商品為Premium Bandai限定販售，屬於限量流通商品，是鋼彈W系列玩家間長年搶手的收藏機種之一。",
     reviews: [
@@ -7372,6 +7382,7 @@ export const collection: CollectibleItem[] = [
     height: "約139mm",
     officialUrl: "https://p-bandai.com/tw/item/A2783960001",
     imageUrl: "/images/re100-denan-gei-xm02.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3931",
     tags: ["ガンプラ", "RE/100", "Bandai", "ガンダムF91", "デナン・ゲー", "クロスボーン・バンガード", "XM-02", "プレミアムバンダイ"],
     description: "「XM-02 デナン・ゲー」是劇場版《機動戰士鋼彈F91》中登場的機體，由宇宙海盜組織「クロスボーン・バンガード」獨自研發，以主力機「デナン・ゾン」為基礎進行輕量化與高性能化改良。全高13.9公尺，屬於小型機種，採取一擊脫離的高機動打帶跑戰術，在發電機輸出與推進力等綜合戰鬥力上凌駕原型機，是電影中壓制地球聯邦軍MS部隊的主力量產機，也體現了F91世界觀中機體小型化、高輸出化的技術演進方向。\\n\\n本商品是「デナン・ゲー」睽違約20年首次立體化的塑膠模型，屬於RE/100系列新作，採用最新規格關節結構帶來寬廣可動範圍，肩部可作橫向大幅擺動，能重現原作中靈活的機動姿態。套件收錄設定稿與電影版兩種座艙艙蓋，並附遊行演武用腳底蓋，考量情境展示的多樣需求；武裝則有光束步槍、光束軍刀、光束盾牌及手臂光束槍，配置齊全。本商品為Premium Bandai限定販售，屬於限量流通商品，深受F91世界觀收藏者關注。",
     reviews: [
@@ -7754,6 +7765,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年04月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4189/",
     imageUrl: "/images/rg-rx93ff-nu-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4307",
     tags: ["ガンダム", "νガンダム", "RG", "1/144", "Bandai", "逆襲のシャア", "GUNDAM SIDE-F", "聯邦軍"],
     description: "《機動戰士鋼彈：逆襲的夏亞》(1988) 主角機νGundam的實物大立像常設展示於「GUNDAM SIDE-F」（福岡LaLaport商業設施），本商品即是以該立像的獨特配色與細節為藍本推出的RG（Real Grade）1/144版「RX-93ff νGundam」——「ff」即代表以福岡立像重新詮釋的特別規格，讓玩家能將實地朝聖體驗的視覺印象帶回家中收藏。\\n\\n機身塗裝與水轉印水貼皆忠實重現立像的塗裝細節，並附有依立像姿態設計的原創手型零件，貼近實物大立像展示時的經典姿勢。最大特徵是全新開模的大型「Long Range Fin Funnel（長距離鰭狀凡納機）」，具備展開收納機構，可掛載於肩部新規零件或手臂上；肩部與腹部內建關節，可做出捻轉與肩部推出動作，搭配腰部逐塊可動的關節設計，即使身處1/144小比例也能重現極具魄力的動態姿勢。此商品原為GUNDAM SIDE-F限定販售，後續亦透過線上通路及海外市場開放購買，是νGundam迷不可錯過的紀念版本。",
     reviews: [
@@ -7794,6 +7806,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年09月11日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3524/",
     imageUrl: "/images/rg-hi-nu-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/683",
     tags: ["ガンダム", "Hi-νガンダム", "RG", "1/144", "Bandai", "逆襲のシャア", "ベルトーチカ・チルドレン", "聯邦軍", "倫敦貝爾"],
     description: "富野由悠季原作小說《機動戰士鋼彈 逆襲的夏亞 貝爾托奇卡之子（ベルトーチカ・チルドレン）》中，阿姆羅雷所駕駛的νGundam後繼強化機——RX-93-ν2 Hi-νGUNDAM，以RG（Real Grade）1/144規格重新詮釋。身為地球聯邦軍宇宙艦隊「倫敦貝爾（Londo Bell）」部隊阿姆羅專屬座機，機體延續νGundam的精神框架技術並在推進力、感應兵裝性能上進一步強化，是小說世界觀中阿姆羅晚年駕駛的最終決戰機體，本商品追求嶄新的細節詮釋與寫實感。\\n\\n搭載「多連結機構（マルチリンク・ギミック）」，各部裝甲能隨關節可動同步滑動，讓內部機械骨架若隱若現；腰部上基座可上下擺動，實現大膽的姿勢演出，腰部裝甲的連接關節設計亦不妨礙腿部動作。腿部可動範圍廣，能確實貼地站立；臂部光束槍具備隨手腕下壓連動伸長的機構，背包鰭狀凡納機收納容器可大幅展開如同雙翼，並透過「Advanced MS Joint」固定凡納機射擊形態，是RG系列公認的技術結晶之作，也是νGundam系列進化史上不可忽視的重要一員。",
     reviews: [
@@ -7865,6 +7878,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年02月（プレミアムバンダイ限定／2025年7月再販）",
     officialUrl: "https://p-bandai.com/tw/item/A2346795005",
     imageUrl: "/images/re100-rebawoo.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3142",
     tags: ["ガンダム", "リバウ", "RE/100", "1/100", "Bandai", "プレミアムバンダイ限定", "新吉翁", "機動戦士ガンダムUC"],
     description: "AMX-107R 里巴烏（リバウ／Rebawoo）是《機動戰士鋼彈UC》外傳設定（MSV）中登場的新吉翁殘黨勢力所開發的新人類專用可變形試作機，設定為弗爾·福朗托的預備座機之一，機體設計混合了同時期新吉翁機體新安州與巴武的特徵，兼具兩者的高機動性能與變形能力，是宇宙世紀MSV體系中頗具話題性的隱藏機種，補完了新吉翁殘黨勢力在正史之外的技術發展脈絡。\\n\\n本商品「RE/100 1/100 リバウ」為Premium Bandai限定販售商品，採用與機體塗裝相呼應的紅色系包裝盒（赤箱），未在一般通路上架。套件以既有RE/100巴武為基礎，新規開模頭部、胸部、腰部、前臂、腿部、背包及盾牌等部位，武裝則沿用MG新安州的光束步槍與光束斧刃效果零件；機體以紅色為主色調，搭配黑白配色的軀幹、背包與盾牌，並可如原設定般在MS形態與飛行形態「Rebawoo Attacker／Rebawoo Nutter」之間變形，是熟悉宇宙世紀MSV體系鋼彈迷的珍稀收藏品。",
     reviews: [
@@ -7993,6 +8007,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年8月10日",
     officialUrl: "https://bandai-hobby.net/item/01_1999/",
     imageUrl: "/images/rg-unicorn-gold-coating.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4427",
     tags: ["ガンプラ", "RG", "ユニコーンガンダム", "ガンダムベース限定", "ゴールドコーティング", "バンダイスピリッツ", "1/144", "RX-0"],
     description: "「RG 1/144 ガンダムベース限定 獨角獸鋼彈 [金色鍍層]」是全球官方鋼普拉綜合設施「THE GUNDAM BASE」為慶祝東京旗艦店開幕一週年推出的限定紀念版本。以人氣的RG獨角獸鋼彈為基礎，機身各部位施以電鍍加工並搭配珍珠光澤成形色，呈現金碧輝煌的高級塗裝規格，隨觀看角度與光線呈現微妙色澤變化，與原版樸素的獨角獸白截然不同，展現出RX-0機體另一種奢華視覺印象。\\n\\n套件延續RG系列標誌性的「Advanced MS Joint」精密骨架與內構造重現設計，可完整重現獨角獸模式與毀滅模式的變形機構，並附有多面透明護盾與武裝配件，機構層面與一般版本完全一致，差異僅在於塗裝與電鍍規格。由於僅限THE GUNDAM BASE各據點（東京、福岡及新千歲機場店等）與GUNDAM BASE會員通路販售，並未在一般模型店鋪或P-Bandai線上通路流通，發售後迅速售罄，是鋼普拉收藏者間長年熱門的高達基地巡禮紀念代表作之一。",
     reviews: [
@@ -8234,6 +8249,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年11月",
     officialUrl: "https://bandai-hobby.net/item/01_4230/",
     imageUrl: "/images/mgex-strike-freedom.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/646",
     tags: ["ガンプラ", "MGEX", "Bandai", "ガンダムSEED", "ストライクフリーダム", "1/100", "通常版"],
     description: "Bandai Spirits頂規MGEX（Master Grade Extreme）1/100 ストライクフリーダムガンダム 通常配色版，為MGEX系列第二彈作品，重現《機動戰士鋼彈SEED DESTINY》基拉・大和座駕強攻自由鋼彈。強攻自由鋼彈是基拉在故事後期為對抗命運鋼彈等強敵所駕駛的最終決戰機體，搭載可展開為翼狀的Super Dragoon武裝系統，是SEED系列中人氣最高、辨識度最強的主角機之一。\\n\\n機體內部搭載全新設計骨架，並以電鍍、金屬成型等多種表面處理重現機體內部色彩，展現MGEX系列作為頂級規格產品線的工藝水準；翼型Super Dragoon武裝系統與PS裝甲細節皆以MGEX規格全新開模，力求還原動畫中展翼待機、多方位射擊的華麗演出。本品與P-Bandai限定「MECHANICAL CLEAR」版採用相同素體開模，但為一般配色的標準販售版本，兩者為獨立商品編號、獨立定價、不同發售時程，是SEED系列收藏者建立完整強攻自由鋼彈收藏的基礎版本。",
     reviews: [
@@ -12948,6 +12964,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年8月23日",
     officialUrl: "https://bandai-hobby.net/item/01_5962/",
     imageUrl: "/images/mgsd-gundam-aerial.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3004",
     tags: ["機動戦士ガンダム 水星の魔女", "ガンダムエアリアル", "BANDAI SPIRITS", "MGSD", "ガンプラ"],
     description: "《機動戦士ガンダム 水星の魔女》是鋼彈系列近年備受矚目的原創電視動畫，以商業競技「決鬥」制度與莫比爾套裝（MS）產業為背景，描繪女主角蘇萊塔與神秘鋼彈機體「エアリアル」之間深厚的羈絆，該機更以搭載黑歷史級「鋼彈比特」系統與神秘的貝壳骨架著稱，是全劇最具話題性的存在。本商品以MGSD系列規格立體化，內構骨架採用高精度設計並搭配金屬銀色件與多色成型技術，兼顧細膩塗裝分色與扎實的關節結構，呈現接近完成品等級的視覺效果。套件可重現貝壳骨架（シェルユニット）的換裝變化，並支援展開至「パーメットスコア6」狀態的鋼彈比特（ガンビット）完全變形機構，完整重現劇中最高潮的覺醒場面，是掌握該機神秘設定的關鍵版本。標配光束步槍、光束軍刀×2、盾牌等基本武裝，滿足日常戰鬥姿態的展示需求，整體而言是喜愛「水星の魔女」世界觀與MGSD系列精密結構玩家的重點收藏。作為系列最具人氣的主角機，「エアリアル」的立體化不僅滿足外觀還原需求，也讓玩家得以親手體驗劇中神秘系統覺醒瞬間所帶來的震撼張力，重溫蘇萊塔與機體之間逐漸建立信任的成長歷程。",
     reviews: [
@@ -12972,6 +12989,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年2月21日",
     officialUrl: "https://bandai-hobby.net/item/01_6881/",
     imageUrl: "/images/mgsd-destiny-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3532",
     tags: ["機動戦士ガンダムSEED DESTINY", "デスティニーガンダム", "BANDAI SPIRITS", "MGSD", "ガンプラ"],
     description: "《機動戦士ガンダムSEED DESTINY》是SEED系列的直接續作，描繪二次寇迪亞尼戰役中新一代主角機的活躍，其中「デスティニーガンダム」由紅色彗星希恩・アスカ駕駛，機體展開光之翼時所展現的壓倒性戰鬥姿態，是該作最具代表性的名場面之一，深植人心。本商品作為MGSD系列第五彈商品，內構骨架以SD比例重現接近MG級套件的高密度關節可動性，讓小比例商品也能擺出豐富多變的戰鬥姿勢。招牌武裝「アロンダイトビームソード」與「高エネルギー長射程ビーム砲」皆搭載MGSD系列原創開發的機構設計，劍身可自由伸縮、砲口部位亦可展開變形，重現機體火力全開時的震撼視覺效果。套件並附光之翼特效零件，完整重現機體覺醒狀態下光翼展開的經典場面，完成後整體展開全幅可達400mm以上，展示存在感十足，是喜愛SEED系列與MGSD精密結構設計玩家不容錯過的重點商品。作為SEED DESTINY最具代表性的主角機立體化，本商品也讓玩家得以在小巧的SD比例下，親手重現原作光之翼展開時萬眾矚目的高潮場面，感受希恩・アスカ這名角色從迷惘走向覺悟的心境轉折。",
     reviews: [
@@ -13211,6 +13229,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年5月",
     officialUrl: "https://bandai-hobby.net/item/01_5754/",
     imageUrl: "/images/hg-ras96-anksha.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/365",
     tags: ["BOX0005", "ガンプラ", "HGUC", "1/144", "Bandai", "機動戦士ガンダムUC", "アンクシャ", "可變形"],
     description: "《機動戦士ガンダムUC》是描繪拉普拉斯事變後宇宙世紀局勢動盪的長篇外傳作品，其獨立衍生篇章《episode 5》進一步補完後續勢力鬥爭的細節，「アンクシャ」正是該篇章中登場的可變式莫比爾套裝，作為早期可變機体アッシマー的後繼機種，繼承了MS與MA形態自由切換的戰術優勢，同時針對操控性與運用彈性進行世代性改良。本商品頭部造形採用類似「リゼル」的臉部設計語彙，呼應宇宙世紀後期地球聯邦系機體逐漸統一的量產美學路線。套件標配一部零件替換即可完成從MS形態變形為飛行形態的機構，操作簡便且變形後外觀完整度高，充分體現該機作為可變兵器的實用性設計。另附屬MA形態專用展示底座，並透過專用連接桿支援搭載其他MS機體，重現原作中「サブ・フライト・システム」的經典運用方式，讓玩家得以還原宇宙世紀後期MS與運輸載具協同作戰的戰術場面，是HGUC系列可變機體收藏的重點對象。作為《機動戦士ガンダムUC》世界觀持續擴充下誕生的支線機體，「アンクシャ」也讓玩家得以進一步認識拉普拉斯事變後聯邦軍技術演進的細節脈絡，感受可變機體世代交替下逐漸統一的量產美學走向。",
     reviews: [
@@ -15079,6 +15098,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年11月",
     officialUrl: "https://bandai-hobby.net/item/01_5377/",
     imageUrl: "/images/mgsd-wing-gundam-zero-ew.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1816",
     tags: ["新機動戦記ガンダムW", "ウイングガンダムゼロ", "MGSD", "BANDAI SPIRITS", "ガンプラ"],
     description: "《新機動戰記鋼彈W》劇場版《Endless Waltz》以五名Gundam駕駛員在戰爭終結後重新面對和平意義為主題，唯美悲劇色彩深受粉絲喜愛。主角機XXXG-00W0 Wing Gundam Zero於劇場版中登場，配備象徵性的雙翼展開形態與「零系統」（駕駛員可預知未來但伴隨精神負荷的輔助系統），是W系列中人氣與話題度最高的機體之一。MGSD（Master Grade SD）是BANDAI SPIRITS近年推出的全新企劃系列，以Q版比例搭載媲美MG等級的精密內構骨架與可動機構，兼顧小巧收藏尺寸與豐富把玩樂趣。本商品完整重現飛翼零式標誌性的展翼形態，翅膀羽毛狀零件經細膩分件與塗裝處理，光束步槍與雙劍等武裝配件一應俱全，關節可動範圍在SD比例商品中相當出色，能擺出貼近原作劇場版的多種戰鬥姿態。作為MGSD系列持續拓展人氣機體陣容的重點商品，本作讓玩家得以用更親民的尺寸與價位，重溫飛翼零式這款W系列代表機體的華麗英姿，也展現BANDAI近年以Q版精密骨架技術詮釋經典鋼彈機體的開發方向。",
     reviews: [
@@ -15425,6 +15445,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年5月",
     officialUrl: "https://www.gundam-base.net/products/details.php?detail=6184",
     imageUrl: "/images/mgsd-freedom-gundam-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4650",
     tags: ["機動戦士ガンダムSEED", "フリーダムガンダム", "MGSD", "クリアカラー", "ガンダムベース限定", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダムSEED》是2002年播出的鋼彈系列重要續作，開啟「宇宙世紀」外的「COSMIC ERA」世界觀，講述主角キラ・ヤマト在自然人與強化人衝突戰爭中的成長故事。「フリーダムガンダム（自由鋼彈）」是主角座機之一，配備象徵性的巨大光翼與M1系列光束武器全開展開的戰鬥姿態，是SEED系列中人氣與辨識度最高的機體之一。MGSD（Master Grade SD）是BANDAI SPIRITS推出的全新Q版精密骨架系列，本商品為「THE GUNDAM BASE」直營店限定的「クリアカラー」透明配色版本，外裝全面採用透明或半透明材質重新詮釋，讓玩家得以透過光線穿透效果欣賞MGSD系列精密的內構骨架設計，與一般不透明塗裝版本形成截然不同的展示氛圍。套件標配光束步槍與大型盾牌等武裝配件，關節可動範圍在SD比例商品中相當出色，能重現原作光翼展開的經典姿態。作為鋼彈基地直營店限定流通商品，本作兼具MGSD系列精密骨架工藝的欣賞價值與限定通路帶來的收藏稀缺性，是喜愛「フリーダムガンダム」與透明配色商品玩家的重點收藏之一。",
     reviews: [
@@ -16892,6 +16913,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年8月",
     officialUrl: "https://p-bandai.com/tw/item/A2521852004",
     imageUrl: "/images/rg-nu-gundam-hws-expansion.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2778",
     tags: ["ガンダム", "RG", "1/144", "νガンダム", "BANDAI SPIRITS", "逆襲のシャア", "P-Bandai限定", "HWS"],
     description: "《機動戰士鋼彈：逆襲的夏亞》是阿姆羅・雷與夏亞・阿茲納布爾長年宿怨的最終總結篇，νGundam是阿姆羅在片中的最終座機，設定中除了電影標準配備外，另有「HWS（Heavy Weapons System，重武裝系統）」規格——透過追加大型背包與增裝武裝大幅強化火力與續戰能力，是MSV設定資料集中知名度極高的衍生規格，長年是模型廠商推出擴充周邊的熱門題材。本商品是Premium Bandai限定推出的RG 1/144 HWS擴充零件套件（不含νGundam本體），需另購RG 1/144 νGundam基礎套件搭配組裝，內容物包含大型背包武裝與追加裝甲零件，可將標準版νGundam升級改裝為HWS規格。RG系列一貫的內構骨架與精密關節設計，讓大型追加武裝依然能維持良好的可動範圍與展示穩定性，零件分色與細節刻畫延續RG系列高水準。對於已收藏標準版RG νGundam、想進一步重現HWS強化規格的鋼普拉玩家而言，本商品是不可或缺的擴充配件。",
     reviews: [
@@ -17533,6 +17555,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年3月9日",
     officialUrl: "https://bandai-hobby.net/item/01_2157/",
     imageUrl: "/images/hguc-narrative-gundam-c-packs.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/487",
     tags: ["BOX0010", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムNT", "ナラティブガンダム"],
     description: "《機動戦士ガンダムNT》為2018年上映的鋼彈系列劇場版動畫，故事銜接《機動戦士ガンダムUC》後續時間線。主角機「ナラティブガンダム」可依任務需求換裝A、B、C三種不同背包裝備，C裝備是劇中三種形態裡首次搭載光束步槍與內建精神框架（psycho-frame）護盾的版本，象徵機體性能更貼近獨角獸鋼彈的最終形態。本商品以全新開模零件重現C裝備造型，腹部核心戰機與腿部皆有色分表現，全身設計融入獨角獸鋼彈的風格語彙，配件包含光束步槍、精神框架護盾、雙持握把手與專用武裝右手、兩把光束軍刀，並附有可重現殖民地內戰NT-D覺醒模式紅色雙眼的水貼紙。作為HGUC系列中價格親民、細節與可動性均衡的一款，是收藏ナラティブガンダム三種裝備套組不可或缺的一件。",
     reviews: [
@@ -17556,6 +17579,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年11月30日",
     officialUrl: "https://bandai-hobby.net/item/01_2048/",
     imageUrl: "/images/hguc-narrative-gundam-a-packs.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/484",
     tags: ["BOX0010", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムNT", "ナラティブガンダム"],
     description: "《機動戦士ガンダムNT》劇場版中，主角ヨナ・バシュタ駕駛的「ナラティブガンダム」可依任務需求換裝A、B、C三種不同背包裝備。A裝備是三者中規格最為龐大誇張的形態，搭載巨型推進背包、多具推進筒與飛彈艙蓋等大型武裝，展現全劇中最具壓迫感的視覺造型，A裝備亦可拆卸單獨展示鋼彈本體。本商品重現胸部展開機構以擺出動態姿勢、腰部搖擺機構擴大雙腿可動範圍、大型推進槽與內藏飛彈的艙蓋細節，並附有支撐大型裝備用的展示台座、兩把光束軍刀與兩把大型光束軍刀。作為系列中份量與魄力兼具的一款高規格背包套件，是重現ナラティブガンダム最強配置不可或缺的收藏。",
     reviews: [
@@ -17602,6 +17626,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年（ガンダムベース限定）",
     officialUrl: "https://bandai-hobby.net/item/01_1926/",
     imageUrl: "/images/rg-unicorn-gundam-ver-twc.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4419",
     tags: ["BOX0010", "ガンプラ", "RG", "1/144", "Bandai", "機動戦士ガンダムUC", "ユニコーンガンダム", "ガンダムベース限定"],
     description: "《機動戦士ガンダムUC》是鋼彈UC系列的核心作品，描述主角バナージ・リンクス駕駛「ユニコーンガンダム」揭開新吉翁殘黨與地球聯邦間爭奪「拉普拉斯之盒」秘密的故事。「Ver.TWC」是為紀念設置於東京台場（現東京海濱城TOKYO WATER CITY）的真人尺寸獨角獸鋼彈立像而推出的ガンダムベース限定版本，由機械設計師加藤單監修追加專屬水貼紙，並更改背包造型與雙手零件規格以貼近該尊立像的實際外觀。本商品為RG規格製品，具備獨角獸模式與毀滅模式雙形態切換機構、精細內部骨架結構與角面板的色分表現，另附白色專用展示台座。作為僅限鋼彈基地販售、呼應東京地標人氣立像的紀念商品，兼具高完成度與紀念收藏意義。",
     reviews: [
@@ -17625,6 +17650,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年8月7日（ガンダムベース限定）",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3060/",
     imageUrl: "/images/rg-unicorn-gundam-perfectibility.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4475",
     tags: ["BOX0010", "ガンプラ", "RG", "1/144", "Bandai", "機動戦士ガンダムUC", "ユニコーンガンダム", "ガンダムベース限定"],
     description: "「ユニコーンガンダム ペルフェクティビリティ」原為《機動戦士ガンダムUC》Blu-ray BOX完全版所附贈的特典鋼彈，描繪獨角獸鋼彈開發過程中被設想過、但最終未曾實際配備的完全體形態構想稿。本商品是該特典造形以RG規格重新商品化、於ガンダムベース限定販售的版本，具備RG等級的細膩內構表現與色分精度，肩部與背包裝甲可展開收納，武裝配置豐富，以「超級光束標槍」（ハイパー・ビーム・ジャベリン）為首並具備優異可動性能，能重現設定畫稿中華麗且充滿機動要素的姿態。作為僅隨頂級特典版藍光問世、後續才轉為鋼彈基地限定商品化的稀有機體，對UC系列與獨角獸鋼彈收藏者而言具有相當高的收藏與話題價值。",
     reviews: [
@@ -17669,6 +17695,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年11月3日",
     officialUrl: "https://bandai-hobby.net/item/01_4366/",
     imageUrl: "/images/re100-jagd-doga-gyunei-special-coating.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4317",
     tags: ["BOX0010", "ガンプラ", "RE/100", "1/100", "Bandai", "逆襲のシャア", "ヤクト・ドーガ", "スペシャルコーティング"],
     description: "《機動戦士ガンダム 逆襲のシャア》為1988年上映的鋼彈系列劇場版，描繪夏亞・アズナブル率領新吉翁與地球聯邦軍在小行星「アクシズ」墜落危機下的最終決戰。「ヤクト・ドーガ」是新吉翁的主力量產機，本商品重現夏亞親信部下ギュネイ・ガス所駕駛的座機，機體特徵為肩部搖擺機構與可拆卸展示待機、展開兩種狀態的背部「ファンネル」浮游砲。「スペシャルコーティング」版本以電鍍加工搭配金屬質感成形色，重現原作設定中帶有奢華厚重感的配色，開箱即具備高完成度的金屬光澤效果。套件所有六具ファンネル浮游砲皆可個別拆裝並重現展開演出姿態，並附有透明展示支架可同時展示全數浮游砲的展開狀態，可相容背包直接安裝或另售的Action Base 4使用，並附水貼紙。作為RE/100系列電鍍限定版本，是逆襲のシャア機體收藏者矚目的高質感商品。",
     reviews: [
@@ -18265,6 +18292,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年",
     officialUrl: "https://bandai-hobby.net/item/01_3296/",
     imageUrl: "/images/30mm-eexm-21-rabiot-navy.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3708",
     tags: ["30MM", "30 MINUTES MISSIONS", "ガンプラ", "Bandai", "ラビオット", "BOX0011"],
     description: "「30 MINUTES MISSIONS」（30MM）是萬代自2019年展開的原創機甲模型企劃，主打組裝快速、關節可動性高，並可自由混搭改裝的模組化設計理念，深受喜愛自由創作的玩家青睞。「eEXM-21 ラビオット」是系列中的支援型機體，設計定位為手持大型步槍的狙擊/後勤支援單位，纖細俐落的機身輪廓與其他30MM機體共通的關節架構相容，方便玩家混合搭配組成獨創機隊。此「ネイビー」（海軍藍）版本以深藍色為主色調，搭配灰色裝甲細節，呈現與白色、墨綠等既有配色版本不同的沉穩軍武氣息。套件延續30MM一貫免膠水、分色成形的組裝便利性，全身多處採用球型關節，可做出大幅度的射擊姿勢與動作展示，是30MM機體收藏中人氣度頗高的色彩限定版本之一。",
     reviews: [
@@ -20623,6 +20651,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年11月",
     officialUrl: "https://p-bandai.com/tw/item/N2464723001001",
     imageUrl: "/images/re100-vigna-zirah.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2543",
     tags: ["ガンプラ", "RE/100", "Bandai", "高達F91", "クロスボーン・バンガード", "シルエットフォーミュラ91", "1/100", "プレミアムバンダイ限定", "BOX0013"],
     description: "《機動戰士鋼彈F91》Formula91企劃衍生的《鋼彈 影子方程式91》世界觀中，「クロスボーン・バンガード（十字骨傭兵團）」為對抗地球聯邦而秘密開發的原型量產機系列，「ビギナ・ゼラ（比基納・婕拉）」即為此系列的高機動試作機，由巴哈・空氣力學工房在XM-06達哥・伊利斯的基礎上進一步發展而成，標誌性武裝為背部大型可變速度光束步槍「VSBR」，兼具高射程壓制與近距離火力輸出能力。本商品是RE/100系列重現該機體的立體化套件，頭部、裝甲外殼與VSBR、光束步槍等主要部位皆為新規開模，VSBR護蓋更具備可展開露出握把的機構巧思，光束步槍前握把亦可動，方便重現雙手持槍的多種姿勢。套件並附兩種頭部零件供玩家自由替換造型，搭配水轉印貼紙重現機體特有標識塗裝。作為Premium Bandai限定販售商品，且原始生產批次有限、須透過抽選或預購管道取得，對於熱衷收集F91／影子方程式91系列衍生機體的鋼普拉玩家而言，是相當具代表性且不易入手的一款收藏。",
     reviews: [
@@ -20671,6 +20700,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年4月",
     officialUrl: "https://p-bandai.com/tw/item/A2466962004",
     imageUrl: "/images/rg-unicorn-armed-armor-vnbs.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2733",
     tags: ["ガンプラ", "RG", "Bandai", "Gundam UC", "バンシィ", "アームド・アーマー", "サイコフレーム", "1/144", "プレミアムバンダイ限定", "BOX0013"],
     description: "《機動戰士鋼彈UC》劇中，新吉翁駕駛員瑪莉妲・克魯茲操縱獨角獸二號機「Banshee」時，機體會裝備追加武裝「アームド・アーマーVN／BS」，強化近戰與火力壓制能力。本商品是Premium Bandai限定推出的RG擴充套件，需另購「RG 1/144 ユニコーンガンダム２号機 バンシィ・ノルン」機體本體搭配裝著，並非機體本身。套件重現アームド・アーマーVN四指獨立可動、可大幅展開的爪型結構，以及アームド・アーマーBS可伸縮切換的砲管機構，兩者皆對應機體「デストロイモード」與「ユニコーンモード」間的展開／收納變形連動巧思。內部サイコフレーム（心理框架）部位以透明黃色成形，呼應獸化解放時框架發光外露的名場面，並附寫實感貼紙重現RG系列特有的金屬質感分色，套組同時附贈瑪莉妲・克魯茲1/144比例站姿人偶。作為僅透過Premium Bandai限定販售、且已多次再販搶購一空的人氣擴充配件，對於收集Banshee與UC系列各式機體構型的鋼普拉玩家而言，是相當具紀念意義的一款。",
     reviews: [
@@ -20694,6 +20724,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年8月11日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4906/",
     imageUrl: "/images/fm-forbidden-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1096",
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "Gundam SEED", "可變形", "BOX0013"],
     description: "《機動戰士鋼彈SEED》中，GAT-X252禁斷鋼彈（フォビドゥンガンダム）為ZAFT開發的量產型試作機之一，由飛行員シャニ・アンドラス駕駛，是SEED系列後期登場、與正義、自由鋼彈同期活躍的第二世代GAT-X系列機體。其最大特色是搭載可自主控制的「Geschmeidig Panzer（撓性裝甲）」——具備偏向光束彈道能力的大型防禦裝甲兼推進背包，並可展開為高速強襲形態，配合大型戰鎌「Nidhoggr」進行近距離斬擊，兼具防禦與突擊機能於一身，是GAT-X系列中攻防一體的獨特存在。FULL MECHANICS系列以較高組裝密度與細膩分色見長，本商品是該系列近年重新詮釋禁斷鋼彈的最新版本，相較舊有HG版本大幅強化機械細節與可動範圍，Geschmeidig Panzer裝甲可動軸增加、能演示裝甲展開與磁力場運作等新機構，戰鎌刃面亦以雙重表面處理呈現材質差異，背包能源電纜以隨附軟管線重現，是喜愛SEED系列GAT-X機體、講究機械密度與武裝演出效果玩家的優質選擇。",
     reviews: [
@@ -20794,6 +20825,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年1月",
     officialUrl: "https://bandai-hobby.net/item/01_2072/",
     imageUrl: "/images/re100-jagd-doga-quess-air.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2727",
     tags: ["ガンプラ", "RE/100", "1/100", "Bandai", "逆襲のシャア", "ヤクト・ドーガ", "クェス・エア", "プレミアムバンダイ限定", "BOX0013"],
     description: "《機動戦士ガンダム 逆襲のシャア》描繪夏亞・阿茲納布爾率領新吉翁與地球聯邦軍在小行星阿克西斯墜落危機下的最終決戰。「ヤクト・ドーガ」是新吉翁主力量產機，本商品重現女主角克蕾亞・艾亞（クェス・エア）駕駛的座機，在原版夏亞親信古內・加斯機的基礎上進行部分改造，換裝全新雕刻的頭部零件與新規開模的メガ・ガトリング・ガン重機槍，並以紅、淺灰的鮮明配色成形，展現與古內機截然不同的視覺印象。套件延續RE/100系列的高完成度骨架與可動設計，六具浮游砲皆可個別拆裝並收納於肩部聯裝掛架，另附透明支架可重現全浮游砲展開的「全方位攻擊」演出姿態，同梱光束軍刀、熱能小刀與盾牌。本商品原為2019年1月發售的Premium Bandai限定商品，因人氣長銷於2025年再版販售，是逆襲のシャア機體收藏者矚目的稀有衍生機體之一。",
     reviews: [
@@ -21168,6 +21200,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年3月（P-Bandai）",
     officialUrl: "https://bandai-hobby.net/item/01_5991/",
     imageUrl: "/images/rg-zgmf-56e2b-sword-impulse-gundam-spec-ii.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3203",
     tags: ["ガンプラ", "RG", "1/144", "Bandai", "SEED FREEDOM", "ソードインパルス", "ZGMF", "BOX0015"],
     description: "《機動戦士ガンダムSEED FREEDOM》是2024年1月公開的劇場版，延續SEED系列，描繪奇拉・大和（Kira Yamato）在新的宇宙紛爭中以 STRIKE FREEDOM GUNDAM Ⅱ 迎戰的故事。劇場版引入了多架新型 Spec II 系列機體，「ソードインパルスガンダム Spec II」（ZGMF-56E2/β）是インパルスガンダムの換裝近戰特化形態，搭載被稱為「パルマフィオキーナ」的掌部能量武器與大型ビームソード，主打近戰斬擊而非傳統火器，作戰風格截然不同於射擊系換裝形態。RG（Real Grade）版本以1/144的小尺寸重現MG等級的內部骨架精密感，預組式内部框架配合精密色分，無需塗裝即可呈現高度寫實的完成品質感，是2025年推出的 SEED FREEDOM 劇場版 RG 系列重點商品之一。",
     reviews: [
@@ -21718,6 +21751,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年8月13日",
     officialUrl: "https://bandai-hobby.net/item/01_4104/",
     imageUrl: "/images/rg-god-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/685",
     tags: ["ガンダム", "機動武闘伝Gガンダム", "ゴッドガンダム", "RG", "1/144", "Bandai", "ドモン・カッシュ", "BOX0012"],
     description: "《機動武闘伝Gガンダム》是1994年播出的鋼彈系列動畫，首度捨棄「戰爭」主軸，改以各國代表機動戰士互相格鬥、爭奪地球統治權的「機動武鬥傳」為賣點，主角多蒙・卡ッシュ與其愛機「ゴッドガンダム」（GF13-017NJII）以熱血格鬥風格開創鋼彈系列全新方向，「石破天驚拳」「爆熱ゴッドフィンガー」等必殺技至今仍是系列經典場面。本品為BANDAI SPIRITS「RG（Real Grade）」系列商品化，2022年8月發售，以實機考證方式導入人體結構概念，追求RG系列史上最大可動域：肩部與手腕採用「アドヴァンスドMSジョイント」重現特徵性的抱臂動作，胴體具備前後左右多段可動並在肩部搭載伸縮機構確保腋下可動範圍，頸部則採三軸可動結構可低頭仰面；膝部凹陷處理重現屈膝時的肌肉伸縮質感，腳掌新機構可近乎水平開腳並確實貼地。套件附兩把ゴッドスラッシュ、專用手部零件與原創日輪特效件，即使不塗裝也能呈現高完成度的角色色分。",
     reviews: [
@@ -21788,6 +21822,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年09月30日",
     officialUrl: "https://bandai-hobby.net/item/01_4923/",
     imageUrl: "/images/rg-gundam-epyon.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1097",
     tags: ["ガンプラ", "RG", "Bandai", "ガンダムW", "エピオン", "ゼクス・マーキス", "BOX0012"],
     description: "《新機動戦記鋼彈W》是1995年播出的鋼彈系列作品，描繪五名少年駕駛各自「鋼彈系列機體」介入地球圈與殖民地間武力衝突的故事，反派角色ゼクス・マーキス所駕駛的OZ-13MS艾比翁鋼彈，是全劇後期最具壓迫感的機體之一。艾比翁以龍為設計主題，最大特色是背部展開的巨大翼型光束軍刀「龍牙」與可自由揮動的鞭狀「熱鞭」，外型兼具優雅與凶猛雙重氣質，長年高居W系列人氣機體榜前列。此為Bandai Spirits在RG line第38號推出的全新開模套件，作為近年RG系列技術結晶之作，針對持握光束軍刀時的揮舞動作重新設計肩部與腰部關節，搭配全新可動骨架大幅提升動作幅度與穩定度，熱鞭以進化型MS關節構成，兼顧組裝便利性與蜿蜒生動的擺動效果。深紅與藏青的配色分件精密，是艾比翁玩具化作品中細節密度最高的版本之一，深受W系列與RG玩家關注的重量級新作。",
     reviews: [
@@ -21812,6 +21847,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年11月",
     officialUrl: "https://bandai-hobby.net/item/01_3071/",
     imageUrl: "/images/rg-sword-impulse-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2601",
     tags: ["ガンプラ", "RG", "Bandai", "機動戦士ガンダムSEED DESTINY", "ソードインパルス", "シン・アスカ", "プレミアムバンダイ限定", "BOX0012"],
     description: "《機動戰士鋼彈SEED DESTINY》講述繼承基拉・大和意志的新世代駕駛員真・飛鳥，在戰局中不斷更換座機、逐步邁向命運鋼彈的成長軌跡。命運鋼彈的前身衝擊鋼彈（ZGMF-X56S）採模組化「Silhouette System」設計，可透過更換背包套件切換近戰、遠程等不同作戰型態，劍衝擊鋼彈正是搭載劍型西魯艾特套件、主打近距離肉搏戰的重裝型態，配備光束回力鏢與大型光束劍等武裝，是真飛鳥座機系列中攻擊性最強悍的形態之一。此為Bandai Spirits推出的Premium Bandai限定RG 1/144套件，以RG衝擊鋼彈本體為基礎，新開模劍型西魯艾特背包與武裝配件，紅白配色搭配細緻分件塗裝，重現角色近戰型態的銳利外型。RG系列特有的內構骨架與精密可動設計，讓劍衝擊鋼彈得以完整重現變形展開的西魯艾特機構，是SEED DESTINY系列鋼普拉收藏中份量十足、限定通路稀有度高的人氣機體之一。",
     reviews: [
@@ -21836,6 +21872,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年04月",
     officialUrl: "https://bandai-hobby.net/item/01_4371/",
     imageUrl: "/images/rg-destiny-impulse-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2467",
     tags: ["ガンプラ", "RG", "Bandai", "機動戦士ガンダムSEED DESTINY", "デスティニーインパルス", "MSV", "プレミアムバンダイ限定", "BOX0012"],
     description: "《機動戰士鋼彈SEED DESTINY》中，衝擊鋼彈（ZGMF-X56S）採用可自由更換背包套件的「Silhouette System」，讓真・飛鳥能依戰況切換不同武裝型態。命運衝擊鋼彈是後續企劃「SEED DESTINY MSV」衍生設定中，搭載仿命運鋼彈翼型西魯艾特套件的特別強化型態，融合命運鋼彈的光翼機構與衝擊鋼彈的可換裝彈性，是MSV系列中人氣居高不下的紙上機體之一。此為Bandai Spirits推出的Premium Bandai限定RG 1/144套件，以RG衝擊鋼彈本體為基礎，全新開模命運西魯艾特背包、光束回力鏢及可伸縮砲身的光束砲等配件，粉紫與白色的成型色精準對應設定配色。RG系列一貫的精密內構與分件工藝，讓套件得以完整重現雙劍持握、光束砲展開等命運鋼彈式的必殺架勢，武裝配件豐富度為衝擊鋼彈系列套件之最，是深受SEED DESTINY MSV支持者青睞的限定收藏逸品。",
     reviews: [
@@ -21860,6 +21897,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年03月",
     officialUrl: "https://bandai-hobby.net/item/01_842/",
     imageUrl: "/images/rg-gundam-exia-repair2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2612",
     tags: ["ガンプラ", "RG", "Bandai", "Gundam 00", "エクシア", "リペアII", "プレミアムバンダイ限定", "BOX0012"],
     description: "《機動戰士鋼彈00》描繪武裝組織「天人」以實力介入戰爭、企圖終結紛爭的故事，主角刹那・F・清英所駕駛的GN-001能源鋼彈在劇情中歷經多次損傷與修復，衍生出「リペア（Repair）」系列的多種戰損強化型態。GN-001REII能源鋼彈Repair II是第一季後期登場的過渡形態，相較初代機體修改了肩部、上臂、腰部與大腿的設計，線條更為簡潔俐落，鋼索與軍刀數量也有所削減，呈現出比初代更洗練的視覺效果，是刹那座機演進歷程中承先啟後的重要一環。此為Bandai Spirits推出的Premium Bandai限定RG 1/144套件，以RG能源鋼彈為基礎進行改修配件開發，隨附GN Sword Kai、GN盾、GN光束軍刀等武裝，GN Sword並施以電鍍處理提升質感層次。RG系列細膩的分件與內構設計，讓Repair II得以精準重現角色進化過程中的細節變化，是00系列鋼普拉收藏中兼具故事脈絡與稀有度的限定精品。",
     reviews: [
@@ -21884,6 +21922,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2011年11月19日",
     officialUrl: "https://bandai-hobby.net/item/01_3721/",
     imageUrl: "/images/rg-freedom-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/945",
     tags: ["ガンプラ", "RG", "Bandai", "機動戦士ガンダムSEED", "フリーダムガンダム", "キラ・ヤマト", "BOX0012"],
     description: "《機動戰士鋼彈SEED》是2002年開播、開創鋼彈系列全新世界觀「Cosmic Era」的代表作品，主角基拉・大和駕駛的自由鋼彈（ZGMF-X10A）是全系列公認的經典機體之一，其背部展開的大型羽翼與高機動姿態，象徵著身為協調者卻選擇守護和平的複雜心境，長年穩坐鋼彈人氣機體排行榜前列。自由鋼彈配備雙光束步槍、光束軍刀等多樣武裝，並可展開招牌的高能量羽翼形態進行高機動戰鬥。此為Bandai Spirits在RG line第05號推出的套件，是RG系列早期的重量級代表作之一，依據機體設定重新設計羽翼形狀與新骨架結構，大幅提升可動範圍，精密分件工藝讓纖細的機身比例得以完整呈現，色分表現與細節密度遠超同比例套件。展開的14片羽翼機構視覺效果震撼，是自由鋼彈玩具化作品中兼具細膩塗裝與高可動性的經典入門級RG逸品，深受SEED系列與RG玩家長年喜愛。",
     reviews: [
@@ -22044,6 +22083,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年6月",
     officialUrl: "https://p-bandai.jp/item/item-1000125916/",
     imageUrl: "/images/re100-gundam-mk3-unit8.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2711",
     tags: ["ガンプラ", "RE/100", "Bandai", "機動戦士Zガンダム", "ガンダムMk-III", "アナハイム・ラボラトリー・ログ", "P-Bandai限定", "BOX0014"],
     description: "『アナハイム・ラボラトリー・ログ』是官方機械設定企劃，以《機動戰士Z鋼彈》正史為基礎，深入補完AEUG陣營在Z鋼彈完成之前的複數量產型鋼彈Mk-III開發史，讓劇中未曾正式登場、卻極具話題性的支線機體有機會被完整敘述與立體化。「8號機（MSF-007-8）」是量產的數架Mk-III中，特別為夏亞・阿茲納布爾化名的「克瓦特羅・巴吉納」所準備的專屬座機，基礎性能與武裝雖與原型機相同，但裝甲採用百式所用抗光束塗層的簡化廉價版本；機身塗裝因克瓦特羅在達卡演說中公開身份後，特意改為象徵其新座機的鮮紅色，是Z鋼彈支線設定中辨識度極高的「幻之克瓦特羅專用機」。然而本機原訂交付AEUG科利亞艦隊，卻因與阿克西斯MS部隊遭遇戰而緊急投入實戰並嚴重損毀，戰後送回格拉那達工廠整修，最終並未真正落入克瓦特羅之手，成為Z鋼彈設定史上一段充滿「若當初」想像空間的機體軼話。RE/100系列以簡化內構、降低成本為特色，本商品完整重現8號機的招牌紅色成型色與武裝配置，並同梱安納海姆電子公司與AEUG標誌等水轉印貼紙，武裝包含光束步槍、光束加農砲、光束軍刀與盾牌，對於熟悉Z鋼彈支線設定與MSV體系的鋼普拉收藏者而言，是相當珍稀且富有故事性的一款。",
     reviews: [
@@ -22202,6 +22242,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年7月24日",
     officialUrl: "https://bandai-hobby.net/item/01_2228/",
     imageUrl: "/images/rg-rx78-2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/656",
     tags: ["ガンプラ", "RG", "Bandai", "機動戦士ガンダム", "RX-78-2", "アムロ・レイ", "BOX0014"],
     description: "《機動戦士ガンダム》是1979年開播、開創「寫實機器人」類型的鋼彈系列原點作品，主角阿姆羅・雷伊駕駛聯邦軍試作機「RX-78-2 鋼彈」在一年戰爭中屢建奇功，成為系列史上最具代表性的機動戰士。本品是BANDAI SPIRITS「RG（Real Grade）」系列的紀念第一彈，於2010年7月配合台場1:1鋼彈立像展出企劃發售，首度在1/144比例中導入「Real System」設計理念，內構採半單體殼結構的可動骨架，外裝與骨架分割精密貼合重現MG級的細節密度與可動範圍。套件附屬光束步槍、光束軍刀、盾牌與高性能巴祖卡砲，胸甲可掀開重現駕駛艙內構，並收錄印刷寫實質感的專用貼紙，是奠定RG系列地位、鋼彈35周年紀念意義非凡的初代原點機體版本。",
     reviews: [],
@@ -22284,6 +22325,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年4月27日",
     officialUrl: "https://bandai-hobby.net/item/01_5802/",
     imageUrl: "/images/rg-destiny-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/663",
     tags: ["ガンプラ", "RG", "Bandai", "ガンダムSEED DESTINY", "デスティニーガンダム", "シン・アスカ", "BOX0014"],
     description: "《機動戰士鋼彈SEED DESTINY》中，ZGMF-X42S命運鋼彈是ZAFT陣營駕駛員シン・アスカ（真飛鳥）的座機，作為劇中與主角強攻自由鋼彈分庭抗禮的最強機體之一，搭載展開後化為巨大光翼的高輸出裝置「Wings of Light」，是全劇最具視覺震撼力的招牌武裝演出。本商品以RG系列規格重新詮釋這款SEED DESTINY代表機體，採用「Advanced MS Joint」精密內構骨架，外裝與骨架分割精密貼合重現高完成度的細節密度與可動範圍，並收錄豐富的水轉印貼紙供玩家還原機體細節塗裝。套件標配光束步槍、光束劍「アロンダイト」、光束盾等多樣化武裝，紅、藍、白、黃的鮮明配色搭配招牌紅黑雙色光翼，是RG系列中重現SEED DESTINY機體震撼演出的代表作，深受該系列與命運鋼彈粉絲喜愛。",
     reviews: [
@@ -25109,6 +25151,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年11月",
     officialUrl: "https://bandai-hobby.net/item/01_6994/",
     imageUrl: "/images/rg-hi-nu-hmbl-fin-funnel-display-set.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4004",
     tags: ["機動戦士ガンダム", "逆襲のシャア", "ベルトーチカ・チルドレン", "RG", "Hi-νガンダム", "ハイパーメガバズーカランチャー", "フィンファンネル", "BANDAI SPIRITS", "ガンプラ", "プレミアムバンダイ限定"],
     description: "小說版《機動戦士ガンダム 逆襲のシャア ベルトーチカ・チルドレン》中，アムロ・レイ駕駛的「Hi-νガンダム」在最終決戰時動用了比電影版更為誇張巨大化的「ハイパー・メガ・バズーカ・ランチャー」，搭配散發鋼彈標誌性攻擊「フィン・ファンネル」形成壓倒性的火力展現，是小說世界觀中極具視覺震撼力的名場面裝備。本商品為Premium Bandai限定販售的RG系列專用武裝擴充配件組，2025年11月發售，全長超過300mm、以RG規格精密再現槍身細節，並附3種、共2組透明粉紅色フィン・ファンネルエフェクト零件與專用展示台座，需另行購買RG Hi-νガンダム本體方可完整搭配展示，是深度重現小說名場面、擴充Hi-νガンダム收藏規模的重點配件。",
     reviews: [
@@ -25778,6 +25821,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年10月6日",
     officialUrl: "https://bandai-hobby.net/item/01_2042/",
     imageUrl: "/images/sdcs-rx78-2-clear-color.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4790",
     tags: ["SDガンダム", "クロスシルエット", "SDCS", "Bandai", "The Gundam Base限定", "RX-78-2", "クリアカラー", "限定"],
     description: "《機動戰士鋼彈》主角機「RX-78-2 ガンダム」是鋼彈系列的原點與象徵，白色機身搭配紅藍黃三色點綴，是機器人動畫史上最具代表性的機體造型之一。本商品為「SDガンダム クロスシルエット（SDCS）」系列作品，是THE GUNDAM BASE TOKYO實體店鋪限定推出的「クリアカラー（透明色）」特別版，將原本白、紅、藍、黃四色的外裝零件改以透明素材成型，讓玩家得以透視內部精密的可動骨架結構，展現與一般塗裝版截然不同的通透科技美感。套件另附「SDフレーム（灰色）」可調整比例還原低頭身造型，並可與其他另售的SDCS骨架零件自由組合改造。作為鋼彈基地限定通路商品，市場流通量相對稀少，是SDCS系列透明特別版收藏中辨識度極高的入門經典款。",
     reviews: [
@@ -25798,6 +25842,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年11月30日",
     officialUrl: "https://bandai-hobby.net/item/01_5895/",
     imageUrl: "/images/rg-strike-freedom-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/950",
     tags: ["ガンプラ", "RG", "Real Grade", "1/144", "Bandai Spirits", "機動戦士ガンダムSEED DESTINY", "ストライクフリーダム", "通常版"],
     description: "《機動戰士鋼彈SEED DESTINY》中，基拉・大和在對抗命運鋼彈等最終強敵時駕駛的「ストライクフリーダムガンダム」，配備可展開為翼狀的「Full Burst Mode」全方位光束武裝系統，是SEED系列人氣最高、辨識度最強的主角機之一。本商品為「RG（Real Grade）」系列第14彈作品，2013年11月30日發售，標配「Advanced MS Joint」內構骨架帶來極廣可動範圍與精緻寫實比例，機翼可動裝甲與腳部推進器等細節透過精細色分件重現，金色機翼與框體以成形色呈現燙金質感，並附有寫實貼紙提升細節密度。作為RG系列長銷經典商品，本作長年穩坐SEED系列鋼普拉人氣榜前列，是喜愛強攻自由鋼彈與RG系列規格玩家的必收藏款。",
     reviews: [
@@ -25859,6 +25904,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年2月10日",
     officialUrl: "https://bandai-hobby.net/item/01_5085/",
     imageUrl: "/images/rg-force-impulse-specii.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1356",
     tags: ["ガンプラ", "RG", "Real Grade", "1/144", "Bandai Spirits", "機動戦士ガンダムSEED FREEDOM", "フォースインパルス", "COMPASS"],
     description: "劇場版《機動戰士鋼彈SEED FREEDOM》中登場的「フォースインパルスガンダム SpecII」，是脈衝鋼彈系列因應新一輪戰局強化改修的形態，由核心機體「コア・スプレンダー」搭配「チェスト・フライヤー」「レッグ・フライヤー」與「フォース・シルエット」組合變形而成，是強化人分離變形系機體收藏中話題度極高的一款。本商品為「RG（Real Grade）」系列第39彈作品，2024年2月10日發售，完整重現三段分離組裝與變形合體機構，精細色分件搭配內構骨架呈現高精密度的比例與細節，是SEED FREEDOM系列鋼普拉中規格與話題性兼具的代表作。",
     reviews: [
@@ -25900,6 +25946,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年6月19日",
     officialUrl: "https://bandai-hobby.net/item/01_3425/",
     imageUrl: "/images/rg-wing-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/684",
     tags: ["ガンプラ", "RG", "Real Grade", "1/144", "Bandai Spirits", "新機動戦記ガンダムW", "ウイングガンダム", "通常版"],
     description: "《新機動戦記ガンダムW》主角ヒイロ・ユイ（Heero Yuy）駕駛的「ウイングガンダム」是五飛鋼彈中的主角代表機，機翼展開造型與可變形為鳥型「バードモード」的設計是其最大特色，象徵主角執行任務時展現的高速機動與精準打擊能力，是ガンダムW系列標誌性最強的視覺符號之一。本商品為「RG（Real Grade）」系列作品，2021年6月19日發售，重現RG系列獨有的展翼機構，內構骨架帶來精細寫實比例與寬廣可動範圍，標配巴斯特步槍與雙持光束軍刀等經典武裝，並可完整變形為鳥型形態重現原作高速飛行追擊的經典畫面。作為TV版原始配色的通常版本，與RG系列後續推出的EW、Zero等強化版本可並列收藏，是ガンダムW系列RG規格收藏線的起點代表作。",
     reviews: [
@@ -25920,6 +25967,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年1月",
     officialUrl: "https://bandai-hobby.net/item/01_5112/",
     imageUrl: "/images/rg-00-xn-raiser.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2472",
     tags: ["ガンプラ", "RG", "Real Grade", "1/144", "Bandai Spirits", "機動戦士ガンダム00", "00Vガンダム", "ダブルオーザンライザー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム00V》是刊載於漫畫的《機動戦士ガンダム00》外傳設定集，描繪本傳劇情之外「幻の強化機体」等未曾正式登場的機體詳細設定。「ダブルオーザンライザー（00 Xnライザー）」是刹那・F・セイエイ座機「ダブルオーガンダム」搭載強化用「Xnユニット」與全新開發「GNバスターソードIII」的強化形態，展現比本傳ダブルオーライザー更為兇猛的火力配置。本商品為「RG（Real Grade）」系列作品，Premium Bandai限定販售，2024年1月出貨，Xnユニット與GNバスターソードIII皆採全新造形開發，並具備變形機構，可將Xnライザー直接掛載於ダブルオーガンダム重現「ザンダブルオーガンダム」形態，標配專屬展示台座，是00V設定集立體化商品中話題度極高的一款。",
     reviews: [
@@ -26286,6 +26334,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年6月14日",
     officialUrl: "https://p-bandai.jp/item/item-1000170156/",
     imageUrl: "/images/rg-astray-gold-frame-amatsu-hana.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2571",
     tags: ["ガンダム", "ガンダムSEED ASTRAY", "アストレイ", "RG", "1/144", "Bandai", "ゴールドフレーム", "天ハナ", "P-Bandai限定"],
     description: "《機動戰士鋼彈SEED ASTRAY 天空的皇女》外傳漫畫中，「ガンダムアストレイ ゴールドフレーム天ハナ」是風花アジャ在原機體「金色框架」基礎上、繼承前代天ミナ機改造理念後再度大幅強化改造而成的座機（MBF-P01-Re3），與同系機體「天ミナ」（Re2）採用截然不同的純白搭配金色鑲邊配色，象徵其身為皇女座機的高貴氣質。本商品以RG系列規格重新詮釋這款人氣改造機體，完整重現原型機的精密關節與內部骨架結構，並針對天ハナ專屬武裝、裝甲細節進行全新開模雕刻，作為Premium Bandai限定販售商品，是與天ミナ（Re2）成對收藏、喜愛SEED ASTRAY外傳劇情與蒐集金色框架系列衍生機體收藏者的重點目標。",
     reviews: [
