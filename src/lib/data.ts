@@ -625,8 +625,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "gff-mc-wing-gundam-zero-rebellion",
     addedAt: "2026-06-20",
-    name: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ [EW] REBELLION",
-    nameJa: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロ [EW] REBELLION",
+    name: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロリベリオン",
+    nameJa: "GUNDAM FIX FIGURATION METAL COMPOSITE ウイングガンダムゼロリベリオン",
     series: "新機動戦記ガンダムW Endless Waltz（Gundam Wing: Endless Waltz）",
     character: "XXXG-00W0 Wing Gundam Zero Custom / 飛翼零式",
     manufacturer: "Bandai Namco / TAMASHII NATIONS",
