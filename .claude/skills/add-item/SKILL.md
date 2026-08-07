@@ -38,6 +38,42 @@ then grep the response for `hitTtl` blocks (`href="(/en/product/\d+/)".*?<span>(
 
 Same idea applies to `p-bandai.jp` (Japan-locked, redirects to a `global_newpc.html` landing page for outside visitors) — use `p-bandai.com/tw/item/` instead, per the existing convention below.
 
+## Full-catalog audit pattern (name/price/officialUrl verification, 2026-08-07/08)
+
+When asked to sweep the whole catalog (or a large slice of it) for name accuracy, stale prices, or non-Japanese `officialUrl`s, this is the workflow that actually worked at scale that day:
+
+**Finding the real JP official page instead of `p-bandai.com/tw`/`p-bandai.jp`:** the user explicitly said never use p-bandai links (`"官網不要再使用pb 他會鎖區"` — geo-locks). `bandaispirits.co.jp`'s own product search is the reliable alternative and doesn't need a browser session:
+```bash
+curl -s -A "Mozilla/5.0" "https://www.bandaispirits.co.jp/products/search/result.php?freeword=<url-encoded keyword>&category=1" -o /tmp/s.html
+python3 -c "
+import re
+html = open('/tmp/s.html').read()
+cards = re.split(r'(?=detail\.php\?prd_id=)', html)
+for c in cards[1:]:
+    idm = re.search(r'prd_id=(\d+)&grp_id=(\d+)', c)
+    pricem = re.search(r'([\d,]+円\(税込\))', c)
+    if idm: print(idm.group(1), idm.group(2), pricem.group(1) if pricem else '?')
+"
+```
+This is a static server-rendered results page — plain `curl` works, no `browser-act` needed for the *search* step. Use a **short, specific Japanese keyword** (product name minus grade prefix works best — generic terms like "ガンダムX" alone return dozens of unrelated hits). Once you have candidate `prd_id`s, disambiguate with `curl -s ".../detail.php?prd_id={id}&grp_id={grp}" | grep -oE '<title>[^<]*</title>'` (the `<title>` tag loads fine via plain curl even though the rest of the detail page's price/date table is JS-rendered and needs `browser-act stealth-extract` to actually read).
+
+**Verifying price/release-date on a detail page:** `bandaispirits.co.jp/products/search/detail.php?prd_id=...` and `bandai-hobby.net/item/01_XXXX/` both need `browser-act stealth-extract <url>` to read the price table (plain `curl` returns a JS-shell with no price text) — grep the output for `^価格` and take the next non-empty line, and `^発売日` for the release date. The resulting officialUrl for the bandaispirits.co.jp form should be written back with the query params in `prd_id=...&grp_id=...` order to match this project's existing convention.
+
+**Common failure mode found repeatedly this session:** an item's `name`/`nameJa` was in English (sourced from an English wiki/fansite at add-time) while `character` or a `reviews[].title` already had the correct Japanese name sitting right there unused — always check sibling fields before doing a fresh search. Also watch for currency mismatches (`NT$` written into `price` when the officialUrl was a Taiwan p-bandai page) — once you replace the URL with a JP one, the price must also switch to `¥...（含稅）`, not just get left in NT$.
+
+**Bulk find-and-fix via Python regex on `data.ts` directly:** for a confirmed list of `id → old value → new value` pairs (e.g. after mapping a whole product line via one bandaispirits.co.jp search), it's faster and less error-prone than many individual `Edit` calls to do a scoped regex substitution per id:
+```python
+pattern = re.compile(r'(id: "' + re.escape(id_) + r'",.*?releaseDate: ")' + re.escape(old) + r'(",)', re.DOTALL)
+content = pattern.sub(r'\g<1>' + new + r'\g<2>', content, count=1)
+```
+Always scope the regex to start at `id: "{id}",` and match `.*?` non-greedily up to the target field — matching the field name alone (e.g. bare `price: "..."`) will hit the wrong entry if the same price string happens to repeat elsewhere in the file.
+
+**Generating a gap report** (which items still lack a JP officialUrl, or lack a manualUrl) — a quick Node one-liner over the split-on-`id:` blocks pattern is enough; see the "sd-legend-bb-victory-daishogun"-style entries above for the block-splitting regex (`src.split(/\n  \{\n/).slice(1)`). When filtering "missing manualUrl" down to something actually actionable, exclude completed-figure lines (CHOGOKIN/METAL BUILD/Figuarts) — they mostly never had public manuals — and keep only kit/food-toy lines (name starts with a grade prefix, or tags include `ガンプラ`/`SMP`/`スーパーミニプラ`).
+
+**WebSearch budget runs out fast on this kind of sweep** (600/session cap, shared with subagents) — once exhausted, switch straight to the bandaispirits.co.jp curl-search method above, which doesn't touch that budget at all.
+
+**Some items are genuine dead ends** — no non-p-bandai officialUrl exists at all: true P-Bandai-Japan exclusives that never had a general retail catalog page (confirmed by an empty bandaispirits.co.jp search across multiple keyword variants), and pre-2010s discontinued items whose official page has been taken down (only third-party review/retailer pages survive). Don't keep burning search budget chasing these — a few varied keyword attempts is enough before reporting "not found" back to the user; they may have a link you don't (the user found several this way by pasting bandai-hobby.net/bandaispirits.co.jp URLs directly mid-session that a keyword search alone hadn't surfaced).
+
 ## Non-Gunpla Bandai manuals — `toy.bandai.co.jp`
 
 For toy lines outside Gunpla/TAMASHII (e.g. Kamen Rider CSM belts), manuals live on a third host: `https://toy.bandai.co.jp/manuals/files/{id}.pdf?ver={hash}` — found by locating the product's own page at `toy.bandai.co.jp/ja/item/01_XXXX/` (not `/item/detail/NNNNN/`, which sometimes 301-redirects to a generic listing instead of the specific item — prefer the `01_XXXX` id form) and pulling the manual link from there. Different id numbering than `bandai-hobby.net` — don't assume the two share IDs even for closely related products (e.g. a "ver.1.5" reissue and its "dark" color variant had adjacent-looking but distinct ids on this host, `01_3631` vs `01_4706`).
