@@ -20678,6 +20678,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年6月",
     officialUrl: "https://p-bandai.com/tw/item/F2762135002",
     imageUrl: "/images/mg-f80-gunraid.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3209",
     tags: ["MG", "Master Grade", "高達F90", "Formula91", "1/100", "BANDAI SPIRITS", "P-Bandai限定", "BOX0013"],
     description: "《機動戰士鋼彈F90》（Formula91企劃）衍生漫畫作品《機動戰士鋼彈F90 Cluster》中登場的F80「ガンレイド」（Gunraid），是獨立兵工廠薩納璃（S.N.R.I）為地球聯合軍RGM-X計畫所開發、以F90為藍本的量產型原型機。為降低成本並利於大量生產，機體省略F90部分實驗性尖端裝置（如微蜂巢裝甲與全息運算核心），但仍保留F90引以為傲的11處硬點介面，因此能相容絕大多數F90用Mission Pack擴充套件，延續「量產泛用原型機」的設計理念。本商品為MG系列以全新造型重現的F80本體，頭部雙刃天線採可動軸設計避免姿態干涉，胸前線條與導風口造型皆與F90本體有所區別，標配短程光束步槍、光束軍刀、光束火箭砲、盾牌與三連裝機砲等豐富武裝。作為Premium Bandai通路限定商品，僅透過線上預購販售，未在一般模型通路鋪貨，是收藏F90系列量產機體、講究稀有限定商品的玩家值得留意的選擇。",
     reviews: [
@@ -20702,6 +20703,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年3月",
     officialUrl: "https://p-bandai.jp/item/item-1000221095/",
     imageUrl: "/images/mg-sandrock-ew-armadillo-lizard.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4919",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "サンドロック", "アーマディロリザード", "敗者たちの栄光", "プレミアムバンダイ限定", "BOX0013"],
     description: "《新機動戰記鋼彈W Endless Waltz 敗者たちの栄光》是脫離電視版與劇場版正史的漫畫外傳，描繪奇渣爾・拉巴伯・維拿座駕沙德洛克EW在敗者陣營視角下的另一段戰記。「アーマディロリザード裝備」是為此外傳新設計的增裝重裝形態，相較於2020年發售的初代「アーマディロ裝備」，本作採用全新開模的肩部與正面裝甲，改為搭載可開闔艙蓋與莢艙式飛彈發射器的盾牌型裝備，收納近百枚成形色飛彈頭，呈現遠比初版更具攻擊性的犰狳造型輪廓，是全新獨立SKU而非復刻商品。套件本體沿用一般販售版沙德洛克EW核心素體，同梱熱能彎刀、光束機槍、盾牌及全套新規犰狳裝甲組件，並附加藤單設計轉印水貼。本商品為Premium Bandai限定販售，2025年底開放預購、2026年3月發售，是漫畫外傳限定衍生機體中稀有度極高的最新衍生商品，也是沙德洛克EW收藏者不可錯過的重裝新選擇。",
     reviews: [
