@@ -12184,7 +12184,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-mk5-clear-color",
     addedAt: "2026-07-09",
-    name: "MG 1/100 ORX-013 ガンダムMk-V [クリアカラー]",
+    name: "MG 1/100 ガンダムMk-V [クリアカラー]",
     nameJa: "MG 1/100 ガンダムMk-V [クリアカラー]",
     series: "機動戦士ガンダム センチネル (Mobile Suit Gundam Sentinel)",
     character: "ガンダムMk-V（New Desides量産機）",
@@ -12545,8 +12545,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-amx018-todesritter",
     addedAt: "2026-07-15",
-    name: "HG 1/144 AMX-018[HADES]トーリスリッター",
-    nameJa: "HG 1/144 AMX-018[HADES]トーリスリッター",
+    name: "HG 1/144 トーリスリッター",
+    nameJa: "HG 1/144 トーリスリッター",
     series: "機動戦士ガンダム外伝 ミッシングリンク",
     character: "AMX-018 トーリスリッター（Todesritter）",
     manufacturer: "BANDAI SPIRITS",
