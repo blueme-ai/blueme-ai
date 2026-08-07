@@ -8645,6 +8645,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_3694/",
     imageUrl: "/images/mg-tallgeese-fluegel-ew.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2360",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムW", "トールギスF", "ゼクス・マーキス", "敗者たちの栄光", "プレミアムバンダイ限定"],
     description: "托爾吉斯是《新機動戰記鋼彈W》系列中OZ組織開發的初代MS原型機，性能凌駕後續量產機，也是白色獠牙首領ゼクス・マーキス（本名米利亞爾特・匹斯克拉福特，賽克絲公主之兄）的代表座駕，象徵其身為戰士與貴族之間的矛盾宿命，同時也是他刻意隱藏身分、以假面騎士姿態遊走於戰爭邊緣的重要標誌。「トールギスF（フリューゲル，德語意為羽翼）」是漫畫外傳《敗者たちの栄光》中登場的托爾吉斯強化型，追加大型空間戰用翼型推進裝甲，呈現更為華麗且具壓迫感的形態。\n\n本套件以既有MG托爾吉斯EW／MG零式鋼彈EW Ver.Ka骨架為基礎，追加大量新開模的四片式羽翼型翼型推進裝甲，呈現華麗且巨大的空間戰用形態。原創兵裝熱能長槍（テンペスト裝備）與熱能戰斧皆為全新開模，並附加藤單設計轉印水貼重現ゼクス專屬機體塗裝。本商品為Premium Bandai限定販售，2021年10月發售，定價7,040日圓（含稅），屬外傳限定機體收藏。",
     reviews: [
