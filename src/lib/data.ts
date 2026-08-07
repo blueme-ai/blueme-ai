@@ -8691,6 +8691,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年6月",
     officialUrl: "https://bandai-hobby.net/item/01_4017/",
     imageUrl: "/images/mg-zeta-plus-unicorn-ver.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2287",
     tags: ["ガンプラ", "MG", "Bandai", "ガンダムUC", "ゼータプラス", "E.F.S.F.", "可變形", "プレミアムバンダイ限定"],
     description: "「Ζ プラス」原是《鋼彈センチネル》外傳企劃中設定的地球聯邦軍量產型可變式MS，本套件是《機動戰士鋼彈UC（獨角獸）》RE:0096世界觀對此經典設計的重新詮釋版本，取材自動畫第7話中登場的配色，將這款舊設定機體重新編入獨角獸鋼彈所處的新吉翁殘黨與聯邦軍衝突時代背景，延續其偵察與支援兼具的量產機定位，也讓兩個世代的鋼彈支線設定產生了有趣的連結。\n\n套件採用劇中登場時的成形色重現塗裝，同梱與力捷爾（ReZEL，同樣是UC世界觀量產機代表）同型的長身管光束步槍，並附加可重現A2型的頭部零件（與A1型頭部組裝方式二選一），讓玩家可依喜好選擇不同機體型號。機體維持一貫的MS形態與波動騎士飛行形態變形機構，延續自2006年MG ゼータプラス骨架，變形機構成熟穩定。2016年6月發售，定價4,180日圓（含稅），是UC系列中連結舊設定與新作的橋樑機體。",
     reviews: [
