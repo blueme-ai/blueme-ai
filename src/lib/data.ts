@@ -3319,6 +3319,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4633/",
     imageUrl: "/images/hg-gundam-calibarn.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1092",
     tags: ["ガンプラ", "HG", "Bandai", "水星の魔女", "キャリバーン"],
     description: "《機動戰士鋼彈 水星的魔女》是近年鋼彈系列中話題度極高的作品，故事描寫轉學至技術高中就讀的少女蘇萊塔・墨丘利，因駕駛神秘機體而捲入校園權力鬥爭與企業陰謀，劇中充滿對前作《鋼彈AGE》世界觀的呼應與伏筆，也大膽採用校園背景與商業競爭作為主要敘事舞台，一改過往鋼彈系列的戰爭敘事套路。Gundam Calibarn是蘇萊塔在最終決戰中駕駛的機體，由艾亞魯・墨丘利遺留的關鍵技術構成，是全劇謎團的核心象徵，也是視覺衝擊力最強、設計最為華麗的機體之一，其登場也象徵整部作品世界觀真相的揭曉時刻。此為Bandai Spirits推出的HG 1/144套件，以白銀色調搭配流線型設計呈現Calibarn的獨特造型，機背搭載巨型推進翼，展現其超越常規MS的壓倒性存在感與神聖感。HG規格套件在可動性與色分件配置上均對應劇情需求進行優化，可組裝重現多種關鍵劇情姿態與招牌動作，是水星魔女系列鋼普拉中人氣與收藏度兼具的一款作品，即使HG等級價格親民，仍在色分件與比例掌握上兼顧了角色首次亮相時帶給觀眾的震撼觀感。",
     reviews: [
@@ -3409,6 +3410,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_390/",
     imageUrl: "/images/hg-gself-perfect-pack.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/41",
     tags: ["ガンプラ", "HG", "Bandai", "Gレコ", "Gセルフ", "パーフェクトパック", "富野"],
     description: "《鋼彈 G之復國記》是鋼彈之父富野由悠季睽違多年重返執導的原創作品，故事設定於遙遠未來、科技高度倒退退化的世界，描繪少年貝爾利・傑納姆與各方勢力圍繞著神秘機體G-Self所展開的冒險與成長歷程，作品風格保留富野一貫獨特的敘事節奏、政治隱喻與世界觀構築手法，是老牌鋼彈粉絲高度關注的作品之一。G-Self（YG-111）是貝爾利的座機，機體本身可透過裝備不同背包模組因應戰局變化，隨任務需求切換不同作戰型態，展現出高度的形態彈性與泛用性，是富野作品中兼具設計巧思與敘事象徵意義的代表機體之一。此為Bandai Spirits推出的HG 1/144套件，裝備全套「完美背包（Perfect Pack）」形態，附完整的突擊、高機動、重轟炸等模組配件供玩家自由替換組裝。G-Self外型圓潤親和、線條柔和討喜，展開Perfect Pack後整體形象大幅改變、火力大增，前後反差強烈，是Gレコ系列鋼普拉中變化最豐富、把玩樂趣最高的一款，也讓玩家能同時體驗G-Self輕巧靈活與重裝火力兩種截然不同的鑑賞樂趣。",
     reviews: [
@@ -4595,6 +4597,7 @@ export const collection: CollectibleItem[] = [
     height: "約130mm",
     officialUrl: "https://p-bandai.com/tw/item/A2753039001",
     imageUrl: "/images/hg-gundam-zirius.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3269",
     tags: ["機動戦士ガンダムエイト", "EES-001", "ガンダムジリウス", "HG", "High Grade", "P-Bandai", "限定品", "高達模型", "BANDAI SPIRITS"],
     description: "《機動戰士鋼彈EIGHT》是在漫畫雜誌 Gundam Ace 連載的原創企劃作品，以嶄新世界觀與原創機體設計拓展鋼彈系列版圖，「鋼彈吉里烏斯」便是該作登場的新型主角機之一，由劇中虛構企業 East End Corporation 所開發，象徵民間勢力自主研製鋼彈系機體的設定新意。本作 HG 1/144 比例套件搭載該企業自製的高性能光束步槍，支援中近程與遠程兩種持槍模式切換，呼應機體靈活應對不同戰鬥距離的設定。機體背部裝備「羽翼延伸裝置」由多片散熱板構成，套件特別採用透明藍色珠光素材成型，隨觀賞角度變化能呈現細膩的彩虹光澤效果，是本作最具視覺亮點的細節設計，也充分展現 HG 系列近年在特殊成形色運用上的技術進步。作為 P-Bandai 限定商品，發售通路較為稀缺，加上原創機體本身話題性，使其成為新世代鋼彈周邊收藏者關注的對象。作為近年鋼彈原創企劃線的新作，本套件也延續 HG 系列一貫親民的組裝難度與價格帶，是入門玩家接觸新世代原創機體的合適選擇。",
     reviews: [
@@ -6338,6 +6341,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年4月9日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660041788000&grp_id=5325",
     imageUrl: "/images/hg-graze-ein.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/776",
     tags: ["ガンダム", "グレイズアイン", "HG", "1/144", "Bandai", "鉄血のオルフェンズ", "IBO018"],
     description: "『機動戰士鋼彈 鐵血的孤兒』HG系列No.018，是賈爾魯岡阿賴耶識系統實驗機構所遺棄的原型機「格雷茲艾因」，後成為安因・多爾頓維生裝置兼專用座機，劇中屬於壓迫感十足的大型MS，商品編號2314551，2016年4月9日發售，售價1,870日圓（含稅）。套件延續標準版格雷茲骨架結構，同時新增大量專屬零件呈現大型機體氣勢：附有一般持械手型，以及重現「螺旋衝拳」瞬間握拳造型的專用手部零件，還有可重現「鑽頭衝踢」動作的腳尖零件，充分還原安因擅長的近戰肉搏戰鬥風格。左右肩部內藏式機槍採用差換式零件重現收納與展開兩種狀態；可動式背包結構讓角色能反手抓握專屬大型戰斧，擺出極具魄力的戰鬥姿勢。本作是《鐵血的孤兒》動畫播出期間最快立體化的大型客製機體之一，深受骨架流用效率與新規零件比例的討論；後續官方亦於多年後推出對應的FULL MECHANICS 1/100版本延續人氣，可見其在鋼普拉玩家間的口碑與收藏價值。",
     reviews: [
@@ -6378,6 +6382,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年3月12日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660041795000&grp_id=5325",
     imageUrl: "/images/hg-graze-ritter-carta.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2459",
     tags: ["ガンダム", "グレイズリッター", "カルタ機", "HG", "1/144", "Bandai", "鉄血のオルフェンズ", "IBO017"],
     description: "『機動戰士鋼彈 鐵血的孤兒』HG系列No.017，重現地球外緣軌道統制統合艦隊「卡爾塔隊」指揮官卡爾塔・伊修座機「格雷茲騎士」，商品編號2314552，2016年3月12日發售，售價1,540日圓（含稅）。卡爾塔身為統合艦隊指揮官，作風強硬且極具威嚴，其專用機自然也被賦予了有別於一般量產機的貴族騎士風格外觀。本機沿用標準版格雷茲骨架與內構，但頭部天線、肩部裝甲與大腿裝甲皆為新規開模，刻意設計出帶有西洋騎士風範的外型輪廓；成型色以青綠、深灰、淺灰三色搭配重現原作配色。武裝方面附有步槍、戰斧，以及外形有別於標準版的騎士劍等新規武裝零件；透過更換背包與大腿零件，可自由組裝出「宇宙用」與「地上用」兩種形態，展現比標準格雷茲更高的機動性設定。作為系列中知名指揮官專用機之一，卡爾塔機不僅是《鐵血的孤兒》前期劇情的重要戰力象徵，其新規騎士風裝甲零件也常被玩家借用於改造與塗裝素體，是鐵血系列HG中評價穩定、CP值高的人氣單品。",
     reviews: [
@@ -6690,6 +6695,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年9月20日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5986/",
     imageUrl: "/images/hg-rick-dom-gaia-ortega-gq.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3896",
     tags: ["ガンプラ", "HG", "Bandai", "GQuuuuuuX", "リック・ドム", "黒い三連星", "ジークアクス"],
     description: "《機動戰士Gundam GQuuuuuuX》是2025年推出、以獨立世界線重新詮釋一年戰爭時代的話題企劃作品，「黑色三連星」是原作《機動戰士鋼彈》中著名的吉翁軍王牌駕駛小隊，由加亞、奧爾提加與馬・克貝三人組成，以團隊默契與豐富實戰經驗聞名。本作將黑色三連星成員加亞與奧爾提加駕駛的專用機「リック・ドム」正式收錄進HG系列，以獨立世界線「ジークアクス」版基連姆軍設計為基礎，在保留初代リック・ドム傳統剪影的前提下大幅強化細節，背部加裝的巨大腿部推進單元讓機體看起來宛如三腳機動兵器，充分展現該世界線的架空科技感。套件可動範圍遠超以往同型號製品，頭部採用球形關節式單眼，能自由指向各種角度；機身內建高機動形態變形機構，無需替換零件即可重現作品中的高速突擊姿態。配件包含巨大火箭筒、熱能軍刀兩把、以及使用鉛線重現的電磁鎬，並附貼紙供加亞、奧爾提加雙塗裝方案自由選擇組裝。本商品2025年9月20日發售，是《GQuuuuuuX》系列中人氣與話題度均相當高的角色機體之一。",
     reviews: [
@@ -7215,6 +7221,7 @@ export const collection: CollectibleItem[] = [
     height: "",
     officialUrl: "https://bandai-hobby.net/item/01_4408/",
     imageUrl: "/images/hg-msn032-psycho-doga.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4500",
     tags: ["機動戦士ガンダム逆襲のシャア", "ベルトーチカ・チルドレン", "サイコ・ドーガ", "MSN-03-2", "GUNDAM SIDE-F", "HG", "1/144", "BANDAI SPIRITS"],
     description: "「MSN-03-2 サイコ・ドーガ」出自《機動戦士ガンダム 逆襲のシャア》衍生小說《ベルトーチカ・チルドレン》，是新吉翁為強化新人類駕駛員戰鬥力而開發的特殊試作機。機體以量產機「ギラ・ドーガ」為基礎，植入精神感應框體（サイコフレーム）駕駛艙，雙肩各搭載三具浮游炮，並在背部裝有三片獨立可動的推進浮游翼，大幅提升加速性與追蹤能力，是精神感應兵器譜系中造型相當獨特、充滿新人類機體神秘氣息的存在，也體現了新吉翁殘黨勢力對舊時代技術的執著追求。\\n\\n本商品為該機體首次以HG比例立體化，特徵性的頭部造型與背部三片浮游翼皆採用全新開模，單眼感應器可動，雙肩浮游炮可透過零件替換呈現展開待機狀態；腹部關節設計可大幅度上下左右擺動，能重現原作插畫中大膽奔放的姿態演出，是HG系列少見兼顧細膩造型與高度動態表現的宇宙世紀機體。以「GUNDAM SIDE-F」限定形式販售，發售管道有限，對熱愛小說設定機體的玩家而言是不可多得的收藏品。",
     reviews: [
@@ -7282,6 +7289,7 @@ export const collection: CollectibleItem[] = [
     height: "約125mm",
     officialUrl: "https://p-bandai.com/tw/item/A2805106001",
     imageUrl: "/images/hg-saylas-light-guncannon.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3930",
     tags: ["BOX0005", "ガンプラ", "HG", "Bandai", "GQuuuuuuX", "軽キャノン", "セイラ・マス", "ジークアクス", "プレミアムバンダイ"],
     description: "《機動戦士Gundam GQuuuuuuX（鋼彈 GQuuuuuuX）》登場的「セイラ専用軽キャノン」，是以連邦軍制式量產機「軽キャノン（ライトタイプ・ガンキャノン）」為基礎的專屬機。劇中セイラ・マス隱藏身分駕駛此機，在索羅門攻防戰中擊墜多茲爾・薩比中將，其後更對夏亞座機「紅色鋼彈」發動奇襲，是全劇話題度極高的關鍵機體之一，也讓觀眾重新認識這位一年戰爭經典角色在新作中的全新形象。\\n\\n本商品為HG系列新規色替版，以成形色重現角色標誌性的紅、白、藍三色塗裝，無需大量塗裝即可還原劇中配色，對追求效率組裝的玩家相當友善。武裝配件齊全，包含光束步槍、光束軍刀、光束加農砲，以及最具代表性的「鋼彈鎚」，其鎖鏈部分採用可動軟骨關節，能自由擺動重現揮擊姿態，動作演出感十足。本商品為Premium Bandai限定販售，屬於限量流通商品，隨新作話題延燒，市場詢問度持續升溫，是GQuuuuuuX系列收藏者的重點目標。",
     reviews: [
@@ -7621,6 +7629,7 @@ export const collection: CollectibleItem[] = [
     height: "",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5961/",
     imageUrl: "/images/hg-gquuuuuux-gfred.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2574",
     tags: ["BOX0005", "HG", "1/144", "GQuuuuuuX", "ジーフレッド", "高達", "BANDAI SPIRITS", "Newtype專用機"],
     description: "GFreD（ジーフレッド）是《機動戰士Gundam GQuuuuuuX（機動戰士高達GQuuuuuuX）》中登場的Newtype專用機，是搭載精神感應通訊裝置的高達機體系列第二號機，由格拉納達研發，劇中由少女尼安駕駛。機體頭部可展開變形，展現出與初號機GQuuuuuuX截然不同的詭譎機能美，造型設計融合了新人類感應兵器一貫的神秘感與本作特有的美術風格，是該系列後半劇情中的關鍵機體之一，隨著劇情推進逐步揭露其開發背景與尼安身世之間的關聯。\\n\\n本商品為HG 1/144系列立體化作品，作為系列中話題性極高的新規機體，套件著重呈現頭部變形機構與獨特的外裝輪廓，力求在標準比例規格下重現原作設定稿中略帶不安氣息的機能美學。作為近年鋼彈新作中討論度居高不下的角色機體，本品對關注GQuuuuuuX劇情發展與新人類感應機體收藏系譜的玩家而言，是掌握最新劇情動向不可或缺的一件立體化商品。",
     reviews: [
@@ -7662,6 +7671,7 @@ export const collection: CollectibleItem[] = [
     height: "",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5057/",
     imageUrl: "/images/hg-build-strike-galaxy-cosmos.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4649",
     tags: ["BOX0005", "HG", "1/144", "高達創鬥者", "Build Strike", "Galaxy Cosmos", "高達基地限定", "BANDAI SPIRITS", "普拉夫斯基粒子"],
     description: "Build Strike Galaxy Cosmos（星系高達 銀河宇宙）是《高達創鬥者 對戰記（ガンダムビルドファイターズ バトローグ）》中登場的機體，由主角編出流之子編出星操縱，以「Build Strike Cosmos」為基礎進一步強化而成，在與三代川口名人辰巳龍也的決戰中登場。作為Build Strike系列一路發展至此的最終強化形態，機體延續系列「透過模型比賽對戰、機體不斷升級進化」的核心世界觀，展現高達創鬥者作品一貫天馬行空的機體設計魅力。\\n\\n本商品為HG 1/144規格，機體背包配置12枚可動翼片，能自由展開變形為「Galaxy Booster」等造型，重現如銀河、星芒般的華麗外觀，是視覺效果相當華麗搶眼的一款套件。特別採用普拉夫斯基粒子透明成形色呈現，讓翼片與特效零件在光線下呈現晶瑩剔透的質感，強化整體演出張力。本商品為GUNDAM BASE限定販售，屬於限量流通商品，是Build Fighters系列收藏者間人氣居高不下的代表作之一。",
     reviews: [
@@ -12005,6 +12015,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年4月27日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_5340",
     imageUrl: "/images/hg-shenlong-clear-color.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/507",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "シェンロンガンダム", "クリアパーツ", "THE GUNDAM BASE限定"],
     description: "「新機動戦記ガンダムW」是1995年播出的鋼彈系列外傳作品，描寫五名少年駕駛員各自搭乘由Gundanium合金打造的高性能鋼彈機體，潛入地球圈對抗殖民地軍事組織OZ的故事，其中張五飛（Chang Wufei）所駕駛的「シェンロンガンダム」以中國武術與龍形意象為設計主題，機體造型融合東方美學元素，是五飛角色堅毅武人形象的具體投射。本商品為THE GUNDAM BASE限定販售的透明成形色版本，關節與手部零件維持金屬色成形，紅、藍、黃、白各面板則改為透明素材，呈現晶瑩剔透的視覺效果，是常規塗裝版之外別具特色的收藏選項。可動機構方面，胸部內建可動軸心，可做出左右及前後彎曲動作；肩關節新增滑動機構，強化整體動態姿勢演出的自由度。標誌武裝「龍牙（ドラゴンハング）」可重現展開與收納兩種狀態，並附延伸零件重現武器伸長效果，讓玩家能完整重現原作中五飛以龍牙近身格鬥的招牌畫面，是ガンダムW系列透明色商品中辨識度極高的一款。THE GUNDAM BASE限定的透明成形色系列近年成為鋼彈模型收藏中頗受歡迎的品項，透過素體本身呈現的色彩效果，讓玩家無需額外塗裝即可享受與常規版截然不同的展示樂趣。",
     reviews: [
@@ -12029,6 +12040,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年11月13日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.gundam-base.net/products/details.php?detail=4790",
     imageUrl: "/images/hg-deathscythe-clear-color.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2466",
     tags: ["BOX0002", "ガンプラ", "HG", "1/144", "Bandai", "ガンダムW", "デスサイズ", "クリアパーツ", "THE GUNDAM BASE限定"],
     description: "「新機動戦記ガンダムW」故事中，デュオ・マックスウェル（Duo Maxwell）駕駛的「ガンダムデスサイズ」以死神鐮刀為武裝主題，機體具備高度隱密作戰能力，擅長潛入敵陣展開奇襲，其造型與武裝設計皆呼應デュオ豁達不羈卻背負沉重過去的角色性格，是五名鋼彈駕駛員中形象最為鮮明的一位。本商品為THE GUNDAM BASE限定販售的透明成形色版本，延續HGガンダムW透明系列一貫的晶透質感呈現，讓玩家能以不同視角欣賞機體內部結構與零件分件細節。可動機構方面，肩甲與膝甲部位搭載滑動機構，可做出更為自然流暢的姿勢演出；標準配件包含收納與展開兩種型態的光束大鎌效果零件，重現デスサイズ標誌性的死神鐮刀武裝變化。巴斯特盾牌刀刃部位可左右連動展開，並附透明效果零件重現光束發射狀態，讓玩家得以擺出格鬥與遠程攻擊等多種戰鬥姿勢，是ガンダムW系列透明色收藏中辨識度極高的一款商品。搭配同系列陸續推出的其他四台透明色鋼彈並列展示，可完整重現五名主角駕駛員各自座機集結出擊的經典陣容畫面。",
     reviews: [
@@ -12204,6 +12216,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年8月5日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102654069000&grp_id=5325",
     imageUrl: "/images/hg-tolro800-torohachi.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4495",
     tags: ["BOX0002", "ガンプラ", "HG", "Bandai", "機動戦士ガンダムUC", "THE GUNDAM BASE限定", "全新造形"],
     description: "「機動戦士ガンダムUC」是鋼彈系列於2010年代推出的重要OVA企劃，改編自福井晴敏原作小說，講述主角バナージ・リンクス與獨角獣鋼彈捲入拉普拉斯之盒爭奪戰的故事，劇中除主力戰鬥用MS外，也穿插不少作業用、工程用機體豐富世界觀細節，「TOLRO-800 -トロハチ-」即為其中登場的小型工作用MS，負責港灣或設施內的搬運、維修等作業任務，是宇宙世紀日常後勤場景中常見的機體類型。本商品為THE GUNDAM BASE限定推出的全新造形HG商品，此類原創或補完設定機體向來是ガンダムベース限定商品線的特色主打之一。駕駛艙罩採用透明零件並可實際開闔，內部細節精密重現，貼近工程用機體的寫實質感；肩部軌道可動、手臂伸縮機構及爪部可動一應俱全，重現作業機特有的多關節靈活動作。另附專用零件可連接另售的「Action Base 5」重現各種工作姿勢，是喜愛宇宙世紀後勤、作業用機體收藏者不可錯過的特色商品。此類非戰鬥用MS的立體化，也讓收藏者得以透過模型呈現宇宙世紀世界觀中鮮少被聚焦的日常勞動場景，豐富整體收藏的敘事層次。",
     reviews: [],
@@ -12228,6 +12241,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年8月24日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102671967000&grp_id=5325",
     imageUrl: "/images/hg-draken-e.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4511",
     tags: ["BOX0002", "ガンプラ", "HG", "Bandai", "機動戦士ガンダム0080", "THE GUNDAM BASE限定", "全新造形"],
     description: "《機動戦士ガンダム0080 ポケットの中の戦争》是1989年推出的OVA作品，以少年視角描寫一年戰爭末期殖民地內平凡日常與戰爭殘酷面的對比，是鋼彈系列中評價極高的戰爭寫實作品之一。「ドラケンE」為劇中登場的工程用起重機型MS，主要負責港灣或建設工地的重物吊掛與搬運作業，並非正規戰鬥用機體，呼應本作著重描繪戰場周邊日常勞動與後勤場景的敘事基調。本商品為THE GUNDAM BASE限定推出的全新造形HG商品，是ガンダムベース原創造形系列第2彈作品，延續前作TOLRO-800所開創的作業用機體立體化路線。駕駛艙內部形狀經過精密重現，並可透過零件選擇組裝出吉翁軍所屬機的塗裝方案，讓玩家能自行決定機體所屬陣營配色。起重臂各部位皆可滑動可動，充分重現作業機特有的機構感與工作姿態，是喜愛《0080》世界觀細節與後勤支援類機體收藏者值得關注的特色商品。《0080》以少年視角描繪戰爭殘酷面向的敘事手法向來受到高度評價，此類非戰鬥用機體的商品化，也呼應該作著重呈現戰場周邊日常樣貌的獨特敘事基調。",
     reviews: [
@@ -12408,6 +12422,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年9月11日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102607133000&grp_id=5325",
     imageUrl: "/images/hg-pale-rider-ground-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4636",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー", "クリアパーツ", "THE GUNDAM BASE限定"],
     description: "《機動戦士ガンダム外伝 ミッシングリンク》是以「一年戰爭中鮮少被提及的機體」為題材展開的外傳企劃，強調貼近THE ORIGIN世界觀的寫實考證與細膩機構設計，書中登場的謎樣白色機體「ペイルライダー」身世不明，其存在被視為連結各方勢力秘辛的關鍵。陸戰重裝備仕樣著重強化地面戰鬥能力，相較空間戰仕樣換裝了更為厚重的裝甲與火力配置，展現截然不同的重裝風格。本商品為THE GUNDAM BASE限定販售，採用透明成形色呈現，能清楚窺見套件內部關節與零件層次堆疊之美，是鑑賞該機體結構設計的絕佳版本。標配可摺疊收納的180mm加農炮、90mm短型機槍、腿部飛彈艙等陸戰裝備，スパイク・シールド前端更配備伸縮式打樁機，可重現近距離貼身戰鬥場面。整體武裝豐富、可動性佳，延續「ミッシングリンク」系列一貫的高完成度取向，是掌握該企劃世界觀不可或缺的收藏版本。透明成形色的呈現方式讓玩家得以由結構角度重新審視這台身世成謎機體的骨架設計，若與一般塗裝版並列陳列，更能突顯THE GUNDAM BASE限定商品特有的稀有質感與蒐藏樂趣。",
     reviews: [
@@ -12438,6 +12453,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年10月（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102639295000&grp_id=5325",
     imageUrl: "/images/hg-rx80rr-red-rider.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2364",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "レッドライダー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム アグレッサー》是聚焦於教官部隊與假想敵戰術訓練的外傳作品，其中登場之「ペイルライダー計画」延伸出多台試作機，各自被賦予不同的實驗性用途與塗裝識別色。「レッドライダー」作為其中之一，以鮮明紅色塗裝彰顯其攻擊型定位，性格強悍、戰鬥風格更為直接凶猛，於原作中常擔任高壓演習的假想敵角色。本商品以HGペイルライダー既有素體為基礎，重新進行造形與配色調整，呈現該機獨有的視覺印象。標配專屬武裝「ツヴァイハンダー」，可自由切換為盾牌與長劍兩種形態，體現該機靈活多變的戰術風格；另附機槍與光束軍刀等配件，並可重現原作中大幅度揮劍的動態姿勢，展現角色張揚的戰鬥美學。作為「ペイルライダー計画」系列衍生機體之一，本作以Premium Bandai限定形式販售，是喜好衍生機體設定與塗裝差異玩家的重點收藏對象。由於各試作機皆共用相近骨架卻各具塗裝與武裝特色，玩家可透過並列收集感受同一計畫下不同性格試作機所呈現的差異化戰術美學，也讓整個系列的收藏脈絡更加完整，是理解假想敵部隊訓練體系不可或缺的一環。",
     reviews: [
@@ -12462,6 +12478,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年2月（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621948000&grp_id=5325",
     imageUrl: "/images/hg-rx80br-black-rider.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2338",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "ブラックライダー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム バトルオペレーション Code Fairy》為線上對戰遊戲系列衍生的外傳故事，延續「ペイルライダー計画」的世界觀設定，描繪多台試作機在秘密任務中的活躍。「ブラックライダー」定位偏向偵察與電子戰用途，一身低調的黑色塗裝暗示其潛行滲透的任務性質，與強調正面火力的其他試作機形成鮮明對比。本商品以HGペイルライダー為造形基礎，新規開模頭部零件，重現該機特徵性的鱗片狀雷達罩，象徵其強化偵測與電子干擾能力；背部亦搭載專為電子戰用途設計的大型背包，外型充滿科幻感。另附特殊戰術裝備「ステイヤード」，暗示該機在戰場上扮演支援與情報蒐集的關鍵角色。整體造形延續ペイルライダー系列的骨架設計，同時透過新規部位塑造出獨立的個性化外觀。本商品為Premium Bandai限定販售，適合喜愛蒐集同系列衍生機同時展示比較的玩家。與同計畫的レッドライダー、ホワイトライダー等試作機相比，「ブラックライダー」的偵察電子戰定位提供了截然不同的展示切入點，並列收藏可完整呈現「ペイルライダー計画」多元化的任務分工構想。",
     reviews: [
@@ -12486,6 +12503,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621931000&grp_id=5325",
     imageUrl: "/images/hg-rx80wr-white-rider.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2385",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "ホワイトライダー", "Premium Bandai限定"],
     description: "《機動戦士ガンダム バトルオペレーション Code Fairy》中，「ホワイトライダー」被設定為「ペイルライダー計画」最初的試作1號機，象徴整個計畫的原點，白色塗裝呼應其作為基準機的地位，也暗示著日後衍生出紅、黑等各式試作機的起點。本商品以HGペイルライダー為基礎重現其造形與配色，忠實再現初號機略帶素樸卻不失存在感的視覺印象。標配特殊武裝「試作型シェキーナ」與近戰用「ヒートレイピア」，展現該機兼具遠近戰能力的多樣戰術性，翼部並可展開，重現機體發動「ZEUS」系統時的高輸出狀態，是掌握該計畫核心設定的重要細節。整體造形延續系列共通的骨架結構，同時透過翼部展開機構與武裝配置塑造出獨特存在感。作為Premium Bandai限定商品，適合與同系列的レッド、ブラック等試作機並列展示，完整呈現「ペイルライダー計画」的機體發展脈絡。作為計畫最初的原型機，「ホワイトライダー」的收藏意義不僅在於其自身武裝表現，更在於它作為後續衍生機體參照基準的歷史地位，是理解整個系列演變過程的起點之作，也是掌握「ZEUS」系統設定緣起的重要參照版本。",
     reviews: [
@@ -12510,6 +12528,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年12月31日（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102610386000&grp_id=5325",
     imageUrl: "/images/hg-amx018-todesritter.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2598",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "ペイルライダー計画", "トーリスリッター", "Premium Bandai限定"],
     description: "「終焉の騎士」トーリスリッター是《機動戦士ガンダム外伝 ミッシングリンク》中份量厚重的支線劇情機體，原型為聯邦所屬的ペイルライダー，遭吉翁軍捕獲後經過長達十年的秘密改造，脫胎換骨成為性能凌駕原型的異形機體，其德語代號「Todesritter」意為死亡騎士，暗示該機在戰場上帶來的壓倒性威脅感。本商品採全新造形，重現肩部展開式副臂與背包彈射式インコム等複雜機構，呈現吉翁改造技術特有的機械美學與威嚇感。武裝方面經大幅升級，配備強化型「ハイパーナックルバスター」，並繼承自「Bau」系機體的盾牌，以及可收納於前臂內部的光束軍刀，充分展現十年改造歷程所累積的技術結晶。套件並附透明面罩（綠／紅雙色），可自由替換重現一般狀態與代號「HADES」發動時的覺醒狀態兩種樣貌，是掌握該機隱藏設定與視覺張力的關鍵配件，為Premium Bandai限定商品。作為ペイルライダー系列中身世最為坎坷的一員，其吉翁改造背景與雙面罩機構讓本商品在整個計畫收藏中格外具備劇情深度與蒐藏話題性，也是理解該計畫如何被敵方勢力奪取並轉化為己用的關鍵一環。",
     reviews: [],
@@ -12534,6 +12553,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102649119000&grp_id=5325",
     imageUrl: "/images/hg-arz124-tr6-woundwort-psychoblade.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2480",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ガンダムTR-6", "ウーンドウォート", "Premium Bandai限定"],
     description: "「A.O.Z Re-Boot」是官方認證的《機動戦士Zガンダム》外傳系列，重新詮釋TR系列試作計畫，深入描寫グリプス戰役背後鮮為人知的機體開發史。「ガンダムTR-6［ウーンドウォート］サイコブレードカスタム」為該系列中強化型的特裝機體，以招牌武裝「サイコブレード」為象徵，展現TR-6試作機系譜在近戰性能上的極致追求，其銳利的機體輪廓與塗裝亦傳達出試作兵器獨有的實驗性氣息。本商品完整重現該機特徵性塗裝與造型，並新規開模頭部零件以強化神情表現，招牌武裝「サイコブレード」亦經過重新設計，提升細節密度與存在感。同時本作大幅強化可動性能，並特別考量與「バーザム」等其他A.O.Z RE-BOOT系機體之間的兼容性，方便玩家進行武裝與配件互換，重現原作中多機體協同作戰的場面。作為Premium Bandai限定商品，是深入蒐集TR系列試作機譜系的重點單品。透過本商品，玩家得以一窺A.O.Z Re-Boot系列如何延伸拓展TR-6這條支線機體的可能性，也讓グリプス戰役背後隱而未顯的兵器開發史更添立體血肉。",
     reviews: [
@@ -12564,6 +12584,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102649102000&grp_id=5325",
     imageUrl: "/images/hg-rx78-ms00z-engage-zero.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2485",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム U.C. ENGAGE", "エンゲージゼロ", "Premium Bandai限定"],
     description: "手機遊戲《機動戦士ガンダム U.C. ENGAGE》是以宇宙世紀為舞台展開的原創戰略企劃，透過重新編排的劇情與虛構機體，補完歷代鋼彈作品之間的空白篇章。「ガンダム開発試験0番機（エンゲージゼロ）」由阿納海姆電子公司開發，被定位為地球聯邦鋼彈開發計畫的追加驗證方案，象徵在RX-78鋼彈成功之後，聯邦持續摸索次世代機體可能性的實驗精神，機體代號中的「0番機」也暗示其作為原點驗證機的特殊地位。本商品全新造形，重現該機獨有的機身輪廓與線條比例，肩部設計可拉出關節以擴大動作範圍，腰部亦具備寬廣可動幅度，能夠重現多樣化的戰鬥姿勢。標配光束步槍、盾牌、光束軍刀，並附追加推進背包，強化機動與火力展示的豐富度，充分體現作為試驗機體所具備的多用途潛力，是《U.C. ENGAGE》原創機體立體化的代表作之一，為Premium Bandai限定商品。作為手機遊戲原創企劃衍生的立體化商品，本作也讓玩家得以透過實體模型重新體會遊戲劇情中鋼彈開發計畫延續不絕的世界觀魅力，感受阿納海姆電子在不同時代持續參與鋼彈開發史的一貫定位。",
     reviews: [],
@@ -12588,6 +12609,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102652928000&grp_id=5325",
     imageUrl: "/images/hg-arz124hb2m-aqua-hambrabi2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2448",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "アクア・ハンブラビ", "ティターンズ", "Premium Bandai限定"],
     description: "《A.O.Z RE-BOOT ガンダム・インレ－くろうさぎのみた夢－》承接A.O.Z系列一貫的外傳世界觀，聚焦於格里普斯戰役中鮮少描繪的水中戰場，補完MS/MA複合運用的作戰型態。「アクア・ハンブラビII」為水陸兩用可變機體，承襲原型機ハンブラビ結合MA高速機動與MS格鬥能力於一身的設計理念，並針對水中戰鬥環境進行大幅強化，可自由於MS與MA形態間切換，兼顧潛航速度與近接戰鬥的靈活性。本商品重現該機於劇中登場的獨特ティターンズ塗裝仕様，以深沉色調呼應迪坦斯部隊一貫低調而具壓迫感的視覺風格，與一般水色系版本形成鮮明對比。套件延續HG系列扎實的關節結構與變形機構設計，讓玩家能夠實際體驗MS與MA之間的形態轉換樂趣，並感受水中戰用機體特有的流線造型美學。作為A.O.Z RE-BOOT系列的塗裝別注版本，是喜好蒐集同機體多重配色的玩家不可錯過的一款。透過ティターンズ塗裝與原始版本的對照收藏，玩家也能進一步體會格里普斯戰役中不同陣營對同一機體平台各自詮釋的美術巧思，感受水陸兩用兵器在不同勢力手中所展現的多元運用面貌。",
     reviews: [
@@ -12641,6 +12663,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年1月12日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555724000&grp_id=5325",
     imageUrl: "/images/hg-blue-destiny1-exam-metallic.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4429",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "THE BLUE DESTINY", "ブルーディスティニー", "THE GUNDAM BASE限定"],
     description: "《機動戦士ガンダム外伝 THE BLUE DESTINY》以一年戰爭末期為舞台，描繪搭載神秘「EXAM系統」的試作鋼彈遭AI暴走支配、化身殺戮兵器的驚悚故事，是鋼彈系列中少見帶有恐怖色彩的外傳作品。主角機「ブルーディスティニー1号機」平時外觀與一般試作鋼彈無異，然而一旦EXAM系統發動，機體便會切換為猩紅雙眼的異常狀態，戰鬥性能大幅提升卻也逐漸失去理性控制，是該系列最具標誌性的設定。本商品以金屬光澤成形色呈現，透過亮麗塗裝質感強調機體英雄機般的視覺印象，為THE GUNDAM BASE限定販售版本，深具收藏價值。標配100mm機槍、盾牌，並附可替換頭部重現漫畫版特有配色，另附EXAM系統發動用專屬零件，可重現角色雙眼發光的異變狀態；開放式左手掌與雙光束軍刀刀身亦一併同梱，方便重現徒手格鬥與雙刀交叉等經典場面，完整呈現角色理性與失控間的雙重魅力。金屬光澤成形色的加持讓機體平時外觀更顯英雄機質感，也讓EXAM系統發動瞬間的反差張力更加鮮明，是THE BLUE DESTINY系列收藏中造形與劇情兼具的重點版本。",
     reviews: [
@@ -12671,6 +12694,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月10日（THE GUNDAM BASE限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102653871000&grp_id=5325",
     imageUrl: "/images/hg-moon-gundam-longrifle.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4507",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士MOONガンダム", "ムーンガンダム", "THE GUNDAM BASE限定"],
     description: "《機動戦士MOONガンダム》是以月球都市為舞台展開的鋼彈外傳漫畫作品，描繪與地球圈截然不同的月面勢力鬥爭與機體技術演進，世界觀獨立而別具特色。主角機「ムーンガンダム」造形融合月面科技的洗鍊線條與鋼彈系列一貫的英雄機格局，象徵月面居民追求自主與尊嚴的意志。本商品為THE GUNDAM BASE限定追加武裝版本，在既有套件基礎上新增大型狙擊武裝「ロング・ライフル」，大幅提升機體的遠距離火力表現，滿足玩家對於重武裝形態的收藏需求。槍托部位搭載伸縮機構，可依展示需求調整長度與姿態，並附專用轉接零件供可動握把裝設，強化持槍時手部與槍身的連動穩定性，讓狙擊姿態的擺放更加自然流暢。整體而言，本商品透過追加武裝擴充了「ムーンガンダム」的展示可能性，是喜愛狙擊型武裝與月面世界觀設定玩家的重點收藏對象，也讓月球都市這個獨特舞台的世界觀更添說服力。若與基本裝備版本一同收藏，更能完整呈現「ムーンガンダム」因應不同戰術需求所發展出的多樣化武裝配置構想，也讓月面獨立勢力自主研發的兵器美學更加立體鮮明，是掌握該作世界觀武裝擴充脈絡的重要一環。",
     reviews: [],
@@ -12749,6 +12773,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年2月（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102663757000&grp_id=5325",
     imageUrl: "/images/hg-orx005-gaplant-tr5-hrairoo-titans.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2499",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ギャプラン", "フライルー", "ティターンズ", "Premium Bandai限定"],
     description: "「A.O.Z Re-Boot」系列以官方認證的形式重新詮釋《機動戦士Zガンダム》背後鮮少描繪的TR試作機開發史，「ギャプランTR-5［フライルー］」承襲原型機ギャプラン兼具高速可變與格鬥性能的設計理念，並在TR系列試作計畫中進一步強化其戰術泛用性。本商品重現該機於ティターンズ部隊麾下運用時的專屬塗裝仕様，深沉冷硬的迪坦斯配色相較一般版本更添軍事壓迫感，呼應迪坦斯部隊一貫強調威懾與鎮壓的組織性格。套件特徴為可動式盾牌經大型化處理，不僅提升防禦面積的視覺存在感，也強化了整體機體的量感與剛硬氣息，讓「フライルー」在同系列衍生機體中呈現更為銳利強悍的軍武氛圍。整體造形延續A.O.Z RE-BOOT系列扎實的關節設計與變形機構，玩家可透過與同系列其他機體如基本形態ギャプランTR-5並列比較，感受迪坦斯塗裝所帶來的氛圍轉變，為Premium Bandai限定商品，是塗裝別注版本蒐集的重點對象。搭配同系列後續推出的大型武裝裝備版本一併收藏，更能完整感受「フライルー」作為TR試作機平台在武裝擴充上的多樣可能性。",
     reviews: [
@@ -12779,6 +12804,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年2月（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102663764000&grp_id=5325",
     imageUrl: "/images/hg-orx005-gaplant-tr5-hrairoo-gigantic-arm.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2498",
     tags: ["BOX0004", "ガンプラ", "HG", "1/144", "Bandai", "A.O.Z RE-BOOT", "ギャプラン", "フライルー", "ギガンティック・アーム・ユニット", "Premium Bandai限定"],
     description: "「ギャプランTR-5［フライルー］」在《機動戦士Zガンダム》官方外傳「A.O.Z Re-Boot」系列中，被設定為可搭配大型追加武裝進行重裝化改造的試作機體，展現TR系列一貫講求模組化擴充運用的開發理念。本商品重現該機搭載大型追加武裝「ギガンティック・アーム・ユニット」的重裝形態，龐大的臂部單元大幅擴充機體原有的攻擊與防禦範疇，是同系列陣容中份量感最為厚重的一款商品，光是展示時的存在感便極具震撼力。套件設計上考量到與基本形態ギャプランTR-5套件之間的組合展示可能，玩家可依個人收藏情況選擇單獨展示重裝形態，或是與基本形態並列比較，充分感受追加武裝前後在量感與戰術定位上的巨大差異。整體而言，本商品延續A.O.Z RE-BOOT系列扎實的可動與變形機構，並透過大型武裝的加持，讓「フライルー」呈現出更具壓迫感的重武裝樣貌，為Premium Bandai限定商品，是喜好大型追加裝備套件玩家的必收之作。搭配ティターンズ塗裝仕様版本一同收藏，更能完整呈現「フライルー」這一機體平台從基本形態到重裝形態、從一般配色到特殊塗裝的多元變化脈絡。",
     reviews: [],
@@ -13159,6 +13185,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年6月29日",
     officialUrl: "https://bandai-hobby.net/item/01_5208/",
     imageUrl: "/images/hg-infinite-justice2.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1623",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "インフィニットジャスティス", "アスラン・ザラ"],
     description: "《機動戦士ガンダムSEED FREEDOM》是SEED系列電影續作，接續電視動畫劇情描繪柯內利亞斯事件後的新一輪衝突，阿斯蘭・薩拉再度駕駛強化後的正義系鋼彈投入戰場，其座機「インフィニットジャスティスガンダム弐式」承襲初代インフィニットジャスティス的十刀流華麗戰鬥風格，並經過大幅性能提升，象徵角色在歷經多次戰役洗禮後更為成熟老練的戰鬥姿態。本商品採全新造形，重現強化後機體更具銳利感的整體輪廓與細節線條。套件搭載「SEEDアクションシステム」，大幅提升關節可動範圍，讓角色招牌的高速格鬥動作得以更自然流暢地重現。背包「フォランテス」與隨附武裝皆可展開變形，重現原作中華麗多變的十刀流戰鬥姿態，充分展現該機作為近戰型鋼彈的華麗美學。整體而言，本商品完整呈現阿斯蘭座機一貫的高機動格鬥風格，是SEED FREEDOM系列玩家收藏戰鬥姿態展示的重點商品。作為劇場版新設計機體，「弐式」的推出也讓長年支持阿斯蘭這名角色的玩家得以見證其座機隨劇情推進不斷進化的軌跡，也再次呼應了角色與正義系鋼彈之間長年不離不棄的深厚淵源。",
     reviews: [],
@@ -13213,6 +13240,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年9月21日",
     officialUrl: "https://bandai-hobby.net/item/01_5274/",
     imageUrl: "/images/hg-lightning-buster-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1783",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ライトニングバスターガンダム", "ディアッカ・エルスマン"],
     description: "《機動戦士ガンダムSEED FREEDOM》劇情中，昔日隊友迪亞卡・艾爾斯曼再度披甲上陣，駕駛支援火力型鋼彈「ライトニングバスターガンダム」投入戰場，延續其在SEED系列一貫的狙擊與重火力支援定位，象徵角色從輔助戰力成長為足以獨當一面的關鍵戰力。本商品同樣搭載「SEEDアクションシステム」，透過雙腿股關節連接軸採左右獨立設計並可上下滑動的創新機構，實現遠超一般HG套件的大膽動態姿勢展現，讓射擊姿勢的重現更加自然逼真。套件標誌性的大型加農炮可從摺疊收納狀態自由展開至射擊姿態，充分展現該機作為重火力支援機的戰術定位；武裝並可透過臂部零件切換架設於肩部或腰部兩種攜行方式，貼合原作中依戰況調整武裝配置的細節設定。整體而言，本商品在保有SEED系列一貫美型機體輪廓的同時，透過創新可動機構大幅提升展示樂趣，是喜愛狙擊型鋼彈與新一代HG可動科技玩家的重點收藏。作為迪亞卡在劇場版中的全新座機，本商品也讓玩家得以見證這位一路以來擔任隊伍支援角色的成長軌跡，感受其從輔助定位邁向獨當一面王牌駕駛員的蛻變過程。",
     reviews: [],
@@ -13237,6 +13265,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年5月3日",
     officialUrl: "https://bandai-hobby.net/item/01_5932/",
     imageUrl: "/images/hg-gelgoog-sugai-gq.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3071",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "ゲルググ"],
     description: "《機動戦士Gundam GQuuuuuuX》是以「假如夏亞成功奪取阿克西斯」為前提展開的平行世界作品，重新編織一年戰爭後的架空歷史，劇中登場多台融合聯邦與吉翁設計語彙的架空機體，展現有別於正史的獨特美學。「ゲルググ スガイ機(GQ)」正是這個世界線下的產物，其配色設計融合聯邦GM與吉翁量產機的視覺元素，象徵在這個扭曲歷史中敵我陣營界線逐漸模糊的世界觀特色。本商品以劇中登場的獨特配色進行立體化，白色為整體基底，軀幹與腳底點綴紅色，胸腹與腿部則搭配黃色細節，塗裝配置大膽卻協調，充分呈現架空世界觀特有的違和美感。套件雙手皆可裝備光束噴槍，展現駕駛員スガイ的個人戰鬥風格，另附光束軍刀作為近戰輔助武裝，以及以鉛線材質重現可自由彎折的電磁ハーケン線纜錨爪，讓鋼索钩爪的動態姿勢呈現更加自由多變，是GQuuuuuuX世界觀收藏中極具話題性的一款。作為平行世界企劃下重新詮釋的量產機型，本商品也讓玩家得以感受GQuuuuuuX如何在既有機體設定基礎上發展出全新的視覺語彙與世界觀想像，重新思考鋼彈系列平行歷史所蘊含的無限可能性。",
     reviews: [],
@@ -13261,6 +13290,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年3月7日",
     officialUrl: "https://bandai-hobby.net/item/01_2681/",
     imageUrl: "/images/hg-gundam-marchosias.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/805",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム 鉄血のオルフェンズ", "ガンダムマルコシアス"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》以火星為舞台，描繪少年兵團「鉄華団」在殘酷戰場上求生存的熱血故事，其中「厄災戦」時期的鋼彈骨架機體大多下落不明或遭到封印，「ガンダムマルコシアス」正是這段失落歷史中意外重見天日的幻之機體，其存在補完了厄災戦時代鋼彈骨架多樣化開發的空白篇章，深受核心粉絲關注。本商品最大特徵是背部與腰部合計搭載4枚「バインダー」機構，這些裝甲單元全數皆可作為副手臂靈活運作，展現厄災戦時期鋼彈骨架技術特有的異形化與多臂戰術構想，呈現與一般人型MS截然不同的戰鬥美學。標配巨型狼牙棒「バスタードメイス」展現壓倒性近戰破壞力，另附短劍×4供多手臂同時揮舞使用，充分發揮多臂機體的戰術優勢；盾牌與指虎護具×2則進一步強化防禦與貼身格鬥能力，整體武裝配置豐富且具高度延展性，是鉄血のオルフェンズ系列中造形設計最具衝擊力的機體之一。作為厄災戦時期失落機體重見天日的代表作，「マルコシアス」也讓玩家得以透過立體造形一窺鉄華団故事背後更為龐大而神秘的鋼彈骨架開發史，感受鉄血のオルフェンズ世界觀考證細膩的一面。",
     reviews: [],
@@ -13285,6 +13315,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年1月10日",
     officialUrl: "https://bandai-hobby.net/item/01_6865/",
     imageUrl: "/images/hg-gquuuuuux-endymion-awakened.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4093",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "エンディミオン"],
     description: "《機動戦士Gundam GQuuuuuuX》在最終決戰篇章中，主角機覺醒為「エンディミオン・ユニット覚醒」形態，展現超越常理的異界般存在感，象徵劇情推向高潮時角色與機體共同跨越極限的關鍵轉折，是全劇視覺與敘事張力的最高點。本商品聚焦重現此一覺醒形態，頭部採用無需替換零件即可直接開闔的「口部」開閉機構，讓角色覺醒時特有的猙獰表情得以透過機構直接呈現，展現細膩的機構設計巧思。套件搭配PET材質與透明零件組合而成的光輪特效零件，環繞機體周身重現覺醒瞬間異界般的壓迫氛圍與神秘光效，大幅提升整體陳列的戲劇張力與視覺震撼力。此外，套件亦貼心附屬未覺醒狀態專用零件，讓玩家可依個人喜好自由選擇組裝一般形態或覺醒形態，兼顧兩種樣貌的收藏彈性，完整呈現GQuuuuuuX世界觀中角色蛻變前後的強烈對比，是該系列粉絲不可錯過的話題重點商品。作為全劇最高潮的視覺象徵，本商品也讓玩家得以親手重現這個顛覆常規機體設計、充滿異界壓迫感的最終決戰形態，體會GQuuuuuuX顛覆傳統鋼彈美學所帶來的強烈衝擊，感受劇情推向終局時那股難以言喻的神秘氛圍。",
     reviews: [],
@@ -13309,6 +13340,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年5月20日",
     officialUrl: "https://bandai-hobby.net/item/01_4402/",
     imageUrl: "/images/hg-heindree-sturm.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1387",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダム 水星の魔女", "ハインドリーシュトルム"],
     description: "《機動戦士ガンダム 水星の魔女》以商業競技「決鬥」制度與莫比爾套裝相關企業間的角力為背景，劇中登場多家民間企業所開發的機體各具特色，「グラスレー社」作為劇中重要企業勢力之一，其開發的「ハインドリー」系機體便以泛用性與量產適性著稱。「ハインドリーシュトルム」為該公司實戰配備規格版本，相較一般版ハインドリー進一步強化戰場實用性，反映グラスレー社因應激烈市場競爭所推出的升級方案。本商品在既有基礎上追加背部可動式專用武裝，大幅提升機體火力與戰術彈性，並新增左臂專用盾牌，強化近戰防禦能力，呈現企業機體因應實戰需求而演進的設計脈絡。套件頭部與上半身可動範圍設計極廣，能夠完整重現側身姿勢與流暢的跪姿動作，充分展現HG系列近年在可動關節上的技術進步。標配光束步槍、光束軍刀、盾牌等基本配件，滿足日常戰鬥姿態的多樣化展示需求，是「水星の魔女」世界觀中企業機體收藏的重點對象。作為グラスレー社量產機系譜的實戰強化版本，本商品也讓玩家得以感受「水星の魔女」世界觀中企業間軍備競賽的具體樣貌，體會商業競技制度下各家莫比爾套裝廠商角力較勁的縮影。",
     reviews: [
@@ -13339,6 +13371,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年8月",
     officialUrl: "https://bandai-hobby.net/item/01_5354/",
     imageUrl: "/images/hg-gyanstrom-hilda-haken.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2508",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ギャンシュトローム", "ヒルダ・ハーケン", "Premium Bandai限定"],
     description: "《機動戦士ガンダムSEED FREEDOM》為2024年上映的高達SEED系列最新劇場版，承接《SEED DESTINY》故事線後日談。「ギャン」是Cosmic Era世界觀中吉翁系傑內森教聯合的代表機種，以厚重裝甲與獨特頭部造型著稱，「ギャンシュトローム」則承襲此設計譜系推出的新型量產機。本商品重現隸屬量產機規格的希爾妲・哈肯專用機，以姊妹機「アグネス機」為基礎設計，但因應大氣圈内作戰需求換裝專用背包「ボレロA」，有別於原版宇宙用「ボレロS」，成型色也對應量產機統一塗裝規格，與専用機鮮豔配色形成對比。套件標配武裝豐富，包含光束步槍、可收展的光束斧、鞭状武裝スレイヤーウィップ、自航式防盾及三連裝旋轉光束機槍兩挺，武裝密度高，能重現機體多變戰鬥姿態。作為Premium Bandai限定販售商品，僅透過官方通路提供，未於一般零售鋪貨，具收藏稀有性，適合SEED系列與量產機收藏愛好者入手。作為HG系列一貫主打親民售價與簡易組裝的定位，本套件同樣採用高精度色分成型技術，玩家即使不額外塗裝也能重現量產機規格配色，兼顧入門玩家與資深藏家的組裝需求，適合搭配専用機版本併列展示比較。",
     reviews: [
@@ -13374,6 +13407,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年4月27日",
     officialUrl: "https://bandai-hobby.net/item/01_5206/",
     imageUrl: "/images/hg-gyanstrom-agnes-giebenrath.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1486",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ギャンシュトローム", "アグネス・ギーベンラート"],
     description: "《機動戦士ガンダムSEED FREEDOM》為高達SEED系列時空最新劇場版，描述滅亡之戰後各國情勢與新威脅崛起。「ギャンシュトローム」承繼初代高達系列吉翁系「ギャン」設計血統，本商品重現由亞格妮絲・吉本拉特駕駛的專用機版本，塗裝與武裝規格皆針對其個人戰鬥風格調整，是劇中活躍主力機體之一。套件搭載「SEEDアクションシステム」關節結構，可動範圍廣泛，能重現大幅度迴旋與突擊等動態姿勢，展現SEED系列一貫的華麗空戰演出。標配武裝相當豐富，包含光束斧、熱能鞭、光束軍刀、光束步槍及光束加特林等近戰與遠程兵裝一應俱全，充分對應「ギャン」系列多元武裝的設計傳統。本機外型延續初代「ギャン」獨特頭部與肩甲輪廓，經現代考證重新設計後煥然一新，因此在玩家間亦被暱稱為「令和版ギャン」，是喜愛經典機體重生詮釋的收藏者不可錯過的一款。作為HG系列商品，本套件同樣兼顧組裝便利性與色彩分色精度，玩家可省去繁複塗裝工序，並適合與量產機規格的姊妹版本並列比較展示，完整呈現「ギャン」譜系於SEED FREEDOM世界觀中的多元衍生面貌。",
     reviews: [],
@@ -13476,6 +13510,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年4月12日",
     officialUrl: "https://bandai-hobby.net/item/01_5931/",
     imageUrl: "/images/hg-ms06ssp-police-zaku.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2971",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "ザク", "軍警ザク"],
     description: "《機動戦士Gundam GQuuuuuuX》是以高達平行世界觀為背景的最新企劃，劇中舞台設定在薩比家族依然統治著薩比恩共和國的另一世界線，社會結構與經典高達系列大相逕庭。「軍警ザク」即是這個特殊世界線下、負責維持社會治安的薩克改型機體，脫離傳統薩克作為戰爭兵器的定位，轉型為執法用途的特殊塗裝機。本商品以HG比例重現這款饒富趣味的支線機體，肩部警示燈具採用透明零件成型，模擬燈光閃爍效果，為機體增添街頭執勤臨場感。肩部組件並設計為可獨立可動，方便擺出巡邏、戒備等生動執勤姿態；經典單眼護目鏡部位同樣保留可動機構，能微調視線角度增添表情變化。套件標準配備警棍等治安維持用裝備，並附有重現劇中畫面的標誌貼紙，讓玩家可依喜好於機體表面點綴警徽等細節，完整呈現這個平行世界獨有的薩克形象。此類跳脫戰爭兵器框架、賦予薩克嶄新社會角色的企劃設計，是GQuuuuuuX世界觀相當受討論的一項嘗試，也讓長年作為反派兵器象徵的薩克，得以呈現守護治安的正面形象，成為系列衍生商品中話題性十足的一款。",
     reviews: [
@@ -13506,6 +13541,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年1月17日",
     officialUrl: "https://bandai-hobby.net/item/01_5582/",
     imageUrl: "/images/hg-gquuuuuux-gms-omega.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2081",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス"],
     description: "《機動戦士Gundam GQuuuuuuX》為薩比家族統治世界線下的最新高達企劃，「GQuuuuuuX（ジークアクス）」正是本作真正主角機，其名稱與造型皆刻意打破傳統高達既定印象，在系列粉絲間引發高度討論。本商品重現機體標準形態「gMS-Ω」，透過HG比例精密還原獨特且充滿個性的整體輪廓與細部線條分割，力求忠實呈現原作前衛的造型概念。可動機構方面，主要活動範圍集中於背包部位，透過背包內建關節搭配伸縮結構，能重現角色特有的動態姿勢與招牌演出動作。套件工程上一大特色是全套僅由7張成型件構成，數量精簡卻兼顧高度色彩分色，並採用不使用連接骨架（ポリキャップレス）的組裝方式，關節活動全數仰賴零件本身結構設計，展現Bandai近年HG系列在工程精簡化上的技術積累。整體色分完成度高，幾乎不需額外塗裝即可重現劇中鮮明視覺形象，是入門新系列的絕佳首選。由於本作機體造型顛覆了系列一貫既定印象，發售後在玩家間引發正反兩極的熱烈討論，但也正因如此獨特的視覺衝擊力，使其成為近年鋼普拉話題度最高的新機體之一，值得關注系列最新動向的玩家收藏比較。",
     reviews: [],
@@ -13530,6 +13566,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年3月23日",
     officialUrl: "https://bandai-hobby.net/item/01_5100/",
     imageUrl: "/images/hg-gelgoog-menace-lunamaria.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1422",
     tags: ["BOX0005", "ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED FREEDOM", "ゲルググメナース", "ルナマリア・ホーク"],
     description: "《機動戦士ガンダムSEED FREEDOM》承接《SEED DESTINY》故事線的劇場版最新作，劇中登場多款經典機體的強化改良版本，「ゲルググメナース」便是吉翁系高性能機「ゲルググ」譜系的最新型號。本商品重現由露娜瑪利亞・霍克駕駛的專用機，她是《SEED DESTINY》系列中戲份吃重的女性駕駛員之一，本作中持續活躍於戰場前線。套件同樣搭載「SEEDアクションシステム」關節可動結構，翼部並具備可動機構，能重現角色駕駛此機於開戰之初便展現凌厲身手、大顯身手的動態場面。標準配備武裝十分齊全，包含光束薙刀、光束步槍、軌道炮以及偏光光束盾等遠近兼備的裝備陣容，充分體現「ゲルググ」系列一貫重視全方位武裝配置的設計理念。整體機身線條延續系列流線造型，同時針對SEED FREEDOM世界觀進行細節調整，是喜愛SEED系列吉翁後繼機譜系與女性駕駛員專用機收藏者值得收入的一款。作為HG系列商品，本套件亦兼顧組裝便利性與色彩分色精度，玩家可省去繁複塗裝工序即完成高完成度成品，適合與同系列其他駕駛員專用機並列展示，完整呈現SEED FREEDOM世界觀中「ゲルググ」譜系的多樣衍生面貌。",
     reviews: [],
@@ -15135,6 +15172,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月",
     officialUrl: "https://gundam-official.com/witch-from-mercury/product/99/",
     imageUrl: "/images/hg-gundvolva.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1388",
     tags: ["機動戦士ガンダム 水星の魔女", "ガンヴォルヴァ", "HG", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダム 水星の魔女》以商業競技「決鬥」制度與莫比爾套裝（MS）產業為背景，描繪女主角蘇萊塔與神秘鋼彈機體之間深厚羈絆的原創動畫，劇中登場的各家企業與勢力量產機體，共同構成豐富多元的機體設計生態圈，是該作世界觀塑造上的一大亮點。「ガンヴォルヴァ」是劇中登場的量產型莫比爾套裝之一，造型簡潔俐落，配備標準光束卡賓槍與盾牌等基礎武裝配置，是校園決鬥與日常任務中常見的機體，象徵故事世界觀中普及型MS產業的真實樣貌。本商品為HG系列的親民規格立體化商品，色分精細、免額外塗裝即具備良好完成度，套件組裝門檻低、關節可動性佳，官方評價中更以「屈指の作り易さと可動を両立」著稱，是新手玩家入門鋼彈模型的友善選擇之一。作為劇中量產機體陣容的重要一員，本作補齊了「水星の魔女」世界觀中非主角機體的收藏拼圖，讓玩家得以重現校園決鬥場景中配角機體交鋒的多元樣貌，也展現該系列在主角機之外持續充實量產機商品線的開發方向。",
     reviews: [
@@ -15170,6 +15208,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月",
     officialUrl: "https://gundam-official.com/witch-from-mercury/product/97/",
     imageUrl: "/images/hg-demi-barding.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1389",
     tags: ["機動戦士ガンダム 水星の魔女", "デミバーディング", "HG", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダム 水星の魔女》以商業競技「決鬥」制度與莫比爾套裝（MS）產業為背景，劇中各企業陣營旗下量產機體構成豐富多元的機體設計生態圈，是該作世界觀塑造的一大亮點。「デミバーディング」是劇中登場的量產型莫比爾套裝之一，最大特色是配備專屬背部飛行裝備「バオリパック」，內建可動式雙門光束砲，並支援肩上、腋下等多種射擊姿勢切換，特別的是「バオリパック」還具備與機體本體分離、單獨運用的機構設計，戰術彈性在同類量產機中相當突出。本商品為HG系列的親民規格立體化商品，套件色分精細、免額外塗裝即具備良好完成度，「バオリパック」的分離變化機構與雙砲可動關節皆完整重現，並可搭配「水星の魔女 武裝展示台座」（另售）進行武裝分離狀態的展示。作為劇中量產機體陣容中戰術設計較具巧思的一員，本作補齊了「水星の魔女」世界觀機體收藏的重要拼圖，也讓玩家得以透過武裝分離機構，重現原作中「バオリパック」獨立運用的戰術場面。",
     reviews: [
@@ -15205,6 +15244,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年11月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102674289000&grp_id=5325",
     imageUrl: "/images/hg-destiny-gundam-specii-zeus-silhouette.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1948",
     tags: ["機動戦士ガンダムSEED FREEDOM", "デスティニーガンダム", "ゼウスシルエット", "HG", "COSMIC ERA", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダムSEED FREEDOM》是SEED系列時隔多年推出的劇場版最新作，延續希恩・アスカ與キラ・ヤマト等經典角色的故事線，描繪新一輪衝突下各方勢力的機體大幅強化與改裝，是SEED系列老牌粉絲期待已久的續作。「デスティニーガンダムSpecII」是希恩座機デスティニーガンダム經過強化調整的規格版本，而「ゼウスシルエット」則是COMPASS勢力開發的專用強化外裝套件，兩者搭配合體後能大幅提升機體整體戰鬥力與武裝配置，是劇場版中極具視覺震撼力的強化組合演出。本商品為HG COSMIC ERA系列作品，一次收錄デスティニーガンダムSpecII本體與ゼウスシルエット強化外裝兩大套件，可重現合體裝備狀態下手持巨型光束劍與展開強化推進器的壓迫氣勢，色分精細、關節可動性佳，武裝配件豐富多樣。作為劇場版最新機體設計的立體化代表作，本商品讓玩家得以親手重現SEED FREEDOM中デスティニーガンダム強化再登場的震撼名場面，也是COSMIC ERA系列近年持續擴充SEED系列經典機體強化版本陣容的重點商品。",
     reviews: [
@@ -16557,6 +16597,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "The Gundam Base限定",
     officialUrl: "https://p-bandai.com/us/item/F2715395005",
     imageUrl: "/images/hg-gundam-calibarn-clear.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4521",
     tags: ["ガンダム", "水星の魔女", "ガンダム・キャリバーン", "HG", "1/144", "BANDAI SPIRITS", "The Gundam Base限定", "クリアカラー", "BOX0007"],
     description: "《機動戰士鋼彈 水星的魔女》是近年鋼彈系列中話題度極高的作品，故事描寫轉學至技術高中就讀的少女蘇萊塔・墨丘利，因駕駛神秘機體而捲入校園權力鬥爭與企業陰謀，劇中充滿對前作《鋼彈AGE》世界觀的呼應與伏筆，也大膽採用校園背景與商業競爭作為主要敘事舞台，一改過往鋼彈系列的戰爭敘事套路。Gundam Calibarn是蘇萊塔在最終決戰中駕駛的機體，由艾亞魯・墨丘利遺留的關鍵技術構成，是全劇謎團的核心象徵，也是視覺衝擊力最強、設計最為華麗的機體之一。本商品為The Gundam Base實體店鋪限定推出的「クリアカラー（透明色）」特別版，全機身以半透明樹脂材質呈現，讓內部骨架結構與分件卡榫一覽無遺，搭配巨型光劍與推進翼的透明質感，展現出與一般上色版截然不同的通透科技美感。透明版套件在色分件配置上刻意保留部分不透明零件強化立體層次，讓機體輪廓在透明外殼下依然清晰可辨，是鋼普拉「透明特別版」商品線中兼具展示美感與話題性的一款，也因The Gundam Base限定通路屬性使其在市場上具備一定稀缺性。",
     reviews: [
@@ -17274,6 +17315,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年5月25日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5207/",
     imageUrl: "/images/hg-mighty-strike-freedom-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1552",
     tags: ["ガンプラ", "HG", "Cosmic Era", "SEED FREEDOM", "BANDAI SPIRITS", "BOX0008"],
     description: "《機動戰士鋼彈SEED FREEDOM》是2024年上映的劇場版新作，作為2004年《SEED DESTINY》完結後時隔約20年的正統續篇，講述基拉・大和與拉克絲等人在新的宇宙局勢下再度挺身而戰的故事，是Cosmic Era世界觀近年最受矚目的重量級企劃。「瑪伊蒂突擊自由鋼彈」是基拉在本片中駕駛的全面強化新機體，承襲強攻自由鋼彈的雙翼展開形態，並進一步強化裝甲與武裝配置，是本片最終決戰的象徵性座機。本商品為HG 1/144比例套件，內建「SEED Action System」內構骨架，專為重現SEED系列標誌性的躍動英姿而設計。腰胯與大腿連接處採用可個別上下擺動的機構，搭配腳尖伸展設計，能重現雙腿併攏的細膩站姿；金色部位使用高質感金屬電鍍射出成型，展現華麗光澤。雙翼分為八段可獨立滑動的白色羽翼，能重現完全展開的華麗形態；背部普勞德防禦者可單獨拆下展示，額頭主炮亦可透過換裝零件呈現開啟狀態，武裝齊全，是SEED FREEDOM系列人氣最高的機體立體化作品之一。",
     reviews: [
@@ -17301,6 +17343,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年1月26日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5072/",
     imageUrl: "/images/hg-rising-freedom-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1290",
     tags: ["ガンプラ", "HG", "Cosmic Era", "SEED FREEDOM", "BANDAI SPIRITS", "BOX0008"],
     description: "《機動戰士鋼彈SEED FREEDOM》中，基拉・大和在劇場版前半段駕駛的座機正是「振揚自由鋼彈」（STTS-909），這款深藍配色的新機體是自由鋼彈系譜的最新發展型，在劇情初期展現凌厲身手，為後續劇情鋪墊重要伏筆，是SEED FREEDOM上映初期話題度極高的機體之一。本商品為HG 1/144比例套件，同樣搭載「SEED Action System」內構骨架，可透過換裝零件重現變形為MA（機動裝甲）形態的雙形態設定。新開發的盾牌兼具攻防機能，展開後可裝設透明效果零件重現劇場版中的必殺演出畫面；雙光束軍刀可相互連結使用，光束盾牌採用偏光成型技術，從不同角度觀看會呈現色澤變化的視覺效果。背部可展開雙翼與阿格尼加農炮，腰部軌道炮亦可伸縮延伸，重現劇中震撼的「HiMAT全力爆發」姿態；雙腿髖關節另具備上下滑動機構，強化下半身可動範圍，成形色分色精細，組裝完成即具備良好視覺效果。",
     reviews: [
@@ -17648,6 +17691,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年8月23日（ガンダムベース限定）",
     officialUrl: "https://bandai-hobby.net/item/01_6740/",
     imageUrl: "/images/hg-medd-gundam-base.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4515",
     tags: ["BOX0010", "ガンプラ", "HG", "Bandai", "逆襲のシャア", "ガンダムベース限定"],
     description: "《機動戦士ガンダム 逆襲のシャア》劇場版中，「メッド」是登場於片頭工業殖民地內、用於太空作業與貨物搬運的工作用モビルポッド，並非戰鬥機動兵器，而是描繪一年戰爭後宇宙世紀日常生活場景中的作業機械，黃色塗裝與圓潤外型使其在劇中留下深刻印象。本商品為ガンダムベース限定販售的HG規格新作，以全新開模呈現，具備可替換的伸長腿部零件、駕駛艙艙蓋開闔機構、以鉛線重現雙臂纜線細節，以及手臂旋轉伸縮機構等演出重現要素。作為劇中背景機械少見被商品化的品項，價格親民且造型獨特討喜，是鋼彈基地限定商品中兼具趣味性與收藏話題性的一款小型作品。",
     reviews: [
@@ -17671,6 +17715,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年11月1日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_6763/",
     imageUrl: "/images/hg-monkey-rodi.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3961",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ウルズハント", "モンキーロディ"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》描繪少年傭兵集團「鐵華團」在火星與地球間求生存的故事，而《ウルズハント》則是承接動畫世界觀展開的手機遊戲外傳，持續補完劇中未詳述的機體與角色。Monkey Rodi是量產機「Rodi」系列中常見的多用途機體，本次登場的「598機」為經過現場改裝的客製化版本，可透過換裝零件重現變形形態「Monkey Crab Rodi」，展現此系列機體因應戰場環境靈活調整裝備的特色。套件配有撬棍、衝鋒槍、盾牌與手榴彈等武裝，手榴彈可掛載於側裙甲背面，並附有專用持械手部零件。作為非鋼彈骨架（Gundam Frame）構造的量產型套件，零件數精簡、組裝門檻低，適合作為鐵血系列量產機收藏的入門款，也是Urdr-Hunt世界觀中極具現場感的一款外傳機體。",
     reviews: [
@@ -17694,6 +17739,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年12月6日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_6773/",
     imageUrl: "/images/hg-gundam-zagan.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4027",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ウルズハント", "ザガン"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》系列機體大多源自「災厄戦争」時代遺留的鋼彈骨架（Gundam Frame）技術，經過三百年後被各方勢力挖掘重新運用，是全系列世界觀的技術核心。Gundam Zagan在外傳遊戲《Urdr-Hunt》中登場，最大特徵是裝備於雙肩、兼具攻防機能的巨大「盾鉗（Shield Pliers）」單元，透過機構上多處可動軸設計，使笨重的鉗狀盾牌仍能靈活擺動與變換角度。本商品為全新開模套件，肩部前側裝甲可獨立動作以確保手臂活動範圍，肩、臂各配置雙球型關節提升可動角度，並附握持與張開兩種手部零件，重現鋼彈骨架系機體厚重卻不失靈巧的戰鬥姿態，是Urdr-Hunt系列中造型辨識度極高的一款重裝機體。",
     reviews: [
@@ -17717,6 +17763,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年4月16日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4081/",
     imageUrl: "/images/hg-gundam-asmodeus.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/115",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ウルズハント", "アスモデウス"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》世界觀中，「災厄戦争」末期遺留的鋼彈骨架機體因性能強悍而被各方勢力視為戰略資源。Gundam Asmodeus是《Urdr-Hunt》外傳中首度立體化的機體，設定上是災厄戦争時代原始樣貌保存極為完整的一架鋼彈骨架機，因此套件在新造外裝之餘，也局部重新構築了骨架本體以貼合其獨特輪廓。可動機構上，雙腳腳底的爪部展開透過零件換裝重現，手臂搭載的「Gran Tonfer」可伸縮，「Gigant Javelin」的錨爪機構則以鉛線繩索表現其甩擲效果，後裙甲可掛載步槍、背部推進器亦可動，戰鬥姿態重現度高。灰白搭配螢光黃的配色在鐵血系列中相當醒目，是Urdr-Hunt系列中兼具骨架考據與武裝可玩性的代表機體之一。",
     reviews: [
@@ -17739,6 +17786,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年11月14日",
     officialUrl: "https://bandai-hobby.net/item/01_433/",
     imageUrl: "/images/hg-hyakuren.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/768",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "百錬", "テイワズ"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》故事描寫少年傭兵集團「鐵華團」為求生存，捲入火星與地球間錯綜複雜的權力鬥爭。「百錬」是宇宙運輸企業聯盟「テイワズ（Teiwaz）」旗下部隊所配備的主力MS，以厚重堅實的裝甲比例呈現壓迫感十足的近戰形象，是鐵華團在劇中的重要盟友兵器之一。本商品為2015年隨動畫首播推出的HG套件，側面裝甲可拆下裝備於手部作為拳套（ナックルガード）強化近戰打擊力，並附有可收納入鞘的單刃劍與手持步槍砲「ライフルカノン」等武裝配件。套件採部位色分件為主、貼紙點綴為輔，組裝後不需額外塗裝即可呈現角色配色，是鐵血系列初期作品中造型與可動兼具、深受玩家喜愛的一款量產機體套件。",
     reviews: [
@@ -17759,6 +17807,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年12月12日",
     officialUrl: "https://bandai-hobby.net/item/01_450/",
     imageUrl: "/images/hg-gundam-gusion.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/762",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "グシオン", "ガンダムフレーム"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》的世界觀核心，是三百年前「災厄戦争」時代遺留下來、性能凌駕現代機體的「鋼彈骨架（Gundam Frame）」技術。Gundam Gusion是動畫中率先登場的鋼彈骨架機之一，由宇宙海盜集團「ブリューワーズ（Brewers）」的成員クーダリア・カデル所駕駛，雖冠有「鋼彈」之名，外型卻與常見的鋼彈類型大相逕庭，以渾圓厚重的輪廓與野獸般的猙獰面容著稱，展現鐵血系列打破傳統鋼彈美學框架的設計企圖。套件全新開模重現其膨大厚實的軀體比例，標誌性武裝「グシオンハンマー」可雙手持握擺出揮擊姿態，另附衝鋒槍與武器掛載關節，並附無握持武器用的張開手掌零件，是鐵血系列初期展現「鋼彈骨架」概念魄力與異色美感的代表作之一。",
     reviews: [
@@ -17782,6 +17831,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年11月14日",
     officialUrl: "https://bandai-hobby.net/item/01_432/",
     imageUrl: "/images/hg-hyakuri.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/764",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "百里", "テイワズ", "可変MS"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》中，「百里」是「テイワズ（Teiwaz）」旗下用於偵查與快速突襲任務的高機動可變MS，由拉夫塔・弗蘭克蘭德等角色駕駛執行游擊戰術，以敏捷靈活的戰鬥風格區別於厚重系的鐵血機體。套件透過零件差替重現MS形態與飛行形態間的變形機構，並附專用展示台座供飛行形態展示；可拆卸的雙臂能收納進背包內，收納後背包艙蓋亦可作為盾牌裝備，展現其精簡卻富機能性的變形設計巧思，另附兩把劇中登場的步槍供替換持握。以淺褐、深棕與灰白為基調的塗裝經色分件精細重現，是鐵血系列初期作品中少見的可變機體，也是跳脫「グレイズ」量產機既定印象、廣受玩家好評的一款新鮮設計。",
     reviews: [
@@ -17804,6 +17854,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年12月16日",
     officialUrl: "https://bandai-hobby.net/item/01_771/",
     imageUrl: "/images/hg-mobile-armor-hashmal.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/789",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ハシュマル", "モビルアーマー"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「ハシュマル」是三百年前「災厄戦争」時代遺留、以殲滅人類為目的所開發的無人巨型機動兵器，突然甦醒現身於劇情後半，為鐵華團帶來前所未有的絕望級威脅。其猛禽般的異形輪廓一改鐵血系列以人形MS為主的既有印象，機身搭載光束兵裝與可收折成翼狀的「腕部」、以超硬合金刃構成的「尾部」，以及能展開發射光束效果的「口部」，充分展現其作為兵器而非兵人的獵殺本能設計。套件全新開模呈現此壓倒性尺寸與造型，附贈專用大型展示台座，並隨附一隻量產隨行小型機「プルーマ（Pluma）」以重現群體作戰場景，另附一把可供HG鋼彈巴巴托斯使用的新武裝配件，是鐵血系列中規模與話題性兼具的代表性大型套件。",
     reviews: [
@@ -17827,6 +17878,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年10月29日",
     officialUrl: "https://bandai-hobby.net/item/01_721/",
     imageUrl: "/images/hg-reginlaze-julieta.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/782",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "レギンレイズ", "ギャラルホルン", "ジュリエッタ"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，治安維持組織「ギャラルホルン（Gjallarhorn）」為汰換老舊的グレイズ系列，投入最新改良型量產機「レギンレイズ（Reginlaze）」，較前代擁有更寬闊厚實的上半身與強化裝甲。本商品重現劇中指揮官角色ジュリエッタ・ジュリス所駕駛的專屬機，配色由制式灰改為深綠與白色雙色塗裝，凸顯其身為精銳指揮官機的識別度。套件標誌性武裝為附帶錨爪的雙劍「ツインパイル」、步槍與強化拳套「ガントレット」，並附替換用指揮官專用頭部零件；手腕部位採用可旋轉調整角度的關節設計，握持武器姿態更為靈活多變。作為鐵血系列後期量產機的代表作，兼具經濟實惠的價位與紮實可動性，是重現ギャラルホルン精銳部隊戰鬥場景不可或缺的一款套件。",
     reviews: [
@@ -17851,6 +17903,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年1月14日",
     officialUrl: "https://bandai-hobby.net/item/01_781/",
     imageUrl: "/images/hg-hekija.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/793",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "辟邪", "タービンズ"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「辟邪（ヘキジャ）」是宇宙運輸集團「タービンズ（Turbines）」旗下配備的新型MS，由巾幗女傑ラフタ・フランクランド（Lafter Frankland）等成員駕駛，擅長近距離突擊與游擊戰術，是與鐵華團並肩作戰的重要盟軍兵力之一。其名取自中國傳說中鎮邪辟兇的靈獸「辟邪」，造型融合猛獸般的獠牙輪廓與流線裝甲，在鐵血MS設計中獨具異色的東方意象。套件配備可掛載於腰部的刺刀步槍，以及形似獠牙的近戰武器「飛口ブレード（Tobi-Guchi Blade）」，透過零件差替可重現突擊形態的姿態變化。金屬灰搭配墨綠的塗裝經色分件呈現，價格親民且組裝門檻低，是鐵血系列第2期陣容中兼具角色魅力與造型辨識度的一款人氣套件。",
     reviews: [
@@ -17874,6 +17927,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年11月12日",
     officialUrl: "https://bandai-hobby.net/item/01_731/",
     imageUrl: "/images/hg-io-frame-shiden.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/787",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "獅電", "鉄華団"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，隨著鐵華團規模擴大，團內新配備了以巴巴托斯所使用的「イオ・フレーム」技術部分再現的新型量產機「獅電」，作為團員們的標準戰鬥機體投入前線。套件局部重現鋼彈骨架系「イオ・フレーム」的機構意匠，並搭載開闔式面罩，可展現感應器外露的特寫演出效果，是鐵血系列中少見將骨架美學延伸至量產機體的設計嘗試。武裝方面附有巨大暴動盾「ライオットシールド」、可伸縮的長柄戟「パルチザン」、步槍與強化拳套等豐富配件，暗紅與灰色的塗裝組合展現鐵華團機體樸實剛硬的一貫風格。作為鐵血系列後期陣容的主力戰力代表，是重現鐵華團團員集體作戰場面不可或缺的一款套件。",
     reviews: [
@@ -17897,6 +17951,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年9月",
     officialUrl: "https://bandai-hobby.net/item/01_4991/",
     imageUrl: "/images/hg-ortlinde.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2496",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "月鋼", "オルトリンデ", "ヴァルキュリアフレーム", "プレミアムバンダイ"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》是描寫本傳背景下另一段插曲的外傳漫畫，聚焦於管理鐵華團所在地周邊治安的「ナディラ家」及其麾下部隊。「オルトリンデ」是ナディラ家內部統制部隊隊長ジジル・ジジン所駕駛的「ヴァルキュリア・フレーム」機體，與HG グリムゲルデ共享同源骨架技術，卻透過全新造形外裝呈現截然不同的騎士風格輪廓，頭部羽飾與左肩十字紋章皆以成形色精細重現。標誌性武裝「ヴァルキュリアダブルブレード」可自由切換合體長槍與雙劍分持兩種形態，左肩的盾牌護甲「シールドバインダー」具備多關節可動設計，能靈活隨機體動作角度變化。作為プレミアムバンダイ限定販售商品，是月鋼外傳粉絲與鐵血系列骨架機體收藏者不容錯過的一款進階套件。",
     reviews: [
@@ -17921,6 +17976,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年11月",
     officialUrl: "https://bandai-hobby.net/item/01_5043/",
     imageUrl: "/images/hg-gundam-hajiroboshi-2nd-form.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2483",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ウルズハント", "端白星", "プレミアムバンダイ"],
     description: "《Urdr-Hunt》外傳中，主角ウィスタリオ・アファム所駕駛的「ガンダム端白星」在與無人兵器部隊的激戰中身負重創，其後於金星基地接受大規模改修，以嶄新姿態「第2形態」重返戰場，本商品即為此形態首次立體化的HG套件。套件針對胸部、肩部與腰部背包等關鍵部位進行全新開模，配色改變的胸甲以色分件精準重現；大型化的腰部推進背包搭載可多軸活動的推進單元，尾翼部分亦可個別展開，充分展現改修後機動性能躍升的設定。武裝方面新增專屬的十字骨錘「クロスメイス」與輕巧的「スマートクローシールド」，兩者皆可透過3mm軸掛載於手臂關節；下部裝甲可滑動配合鉛線零件重現劇中登場的鋼索錨「ワイヤーアンカー」發射狀態，是Urdr-Hunt系列中演出重現度極高的話題新作。",
     reviews: [
@@ -17945,6 +18001,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年4月8日",
     officialUrl: "https://bandai-hobby.net/item/01_861/",
     imageUrl: "/images/hg-gundam-vual.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/801",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "月鋼", "ウヴァル", "ガンダムフレーム"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》外傳中，「ガンダムウヴァル」是與「ガンダムアスタロト」相對立的鋼彈骨架敵方機體，通體以漆黑塗裝呈現壓迫感十足的異色形象，部分裝甲設計亦與「ガンダムアスタロトオリジン」相互呼應，暗示兩者同源於災厄戦争時代的技術脈絡。套件搭載原創的背包展開機構，將裸露的鋼彈骨架手臂造型首度以HG系列規格具體重現，是骨架系機體愛好者矚目的一款作品。武裝方面附有礦業用大鎚「マイニングハンマー」、長柄戰斧「グレイブ」與圓形重盾「スパルタンシールド」等多種武裝配件，並可透過腰部與背部關節與其他「HG 鉄血のオルフェンズ系列」機體進行零件互換與混搭改裝，延伸更多元的自訂玩法，是月鋼外傳系列中造型與可玩性兼具的代表機體。",
     reviews: [
@@ -17969,6 +18026,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月16日",
     officialUrl: "https://bandai-hobby.net/item/01_3642/",
     imageUrl: "/images/hg-gundam-gremory.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/114",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "月鋼", "グレモリー", "ガンダムフレーム"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》外傳世界觀中，「ガンダムグレモリー」以充滿神秘威嚇感的造型設計著稱，其最大特徵是形似外袍兜帽的頭部裝甲「ナノラミネートコート」，展開後可見內部真正的鋼彈顏面，是鋼彈骨架機體中辨識度極高的演出巧思。套件完整重現此兜帽開闔機構，兜帽部位並採雙軸可動設計以擴展表情呈現的幅度。標誌性武裝為造型獨特的巨大鎌刀「バトルアンカー」，其中一側刀刃刻意呈現破損毀壞的細節加工，強化了此機體歷經激戰的滄桑感與寫實度；小手護甲同樣採雙軸可動設計，確保持握バトルアンカー擺出攻擊姿態時不受裝甲干涉。整體造型陰鬱華麗、氣勢十足，是月鋼系列中人氣與話題性兼具的一款鋼彈骨架機體套件。",
     reviews: [
@@ -17991,6 +18049,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年5月21日",
     officialUrl: "https://bandai-hobby.net/item/01_4094/",
     imageUrl: "/images/hg-cyclase-schwalbe-custom.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/126",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ウルズハント", "シュヴァルベ", "ギャラルホルン"],
     description: "《Urdr-Hunt》外傳中，「シュヴァルベカスタム」是殺手角色シクラーゼ脫離ギャラルホルン（Gjallarhorn）時奪取的「シュヴァルベ・グレイズ（マクギリス機）」為基礎，經其個人喜好大幅改裝而成的專屬座機，展現叛逃者不再受組織制式規格束縛的異色美學。套件以2015年發售的HG シュヴァルベ・グレイズ為基礎架構，各部位造型、後裙甲新增的推進器組件「バーニアブロック」，以及機體專用的手槍等皆採全新開模呈現，其中バーニアブロック可於兩處旋轉並能自由拆裝，展現改裝機體特有的機動彈性。酒紅與棕褐為基調的塗裝搭配淺灰色的胸部動力管與背部エイハブ・リアクター，色分件精細、幾乎不需額外塗裝即可完成。標配的兩把口徑130mm短管專用手槍「ハンドガン」與圓盾，是重現劇中狙殺任務緊張氛圍不可或缺的武裝配置，深受鐵血系列改裝機愛好者喜愛。",
     reviews: [
@@ -18013,6 +18072,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年8月22日",
     officialUrl: "https://bandai-hobby.net/item/01_2840/",
     imageUrl: "/images/hg-gundam-hajiroboshi.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/806",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ウルズハント", "端白星"],
     description: "《Urdr-Hunt》外傳中，「ガンダム端白星」是主角ウィスタリオ・アファム所駕駛的主力機體，是本作世界觀的核心象徵機。套件以鋼彈骨架4號機（ガンダムフレーム4）為基礎，前臂部位局部採新規造形，全新開模重現機體標誌性的三根天線與可動後部推進器組件，淡紫白為主色調搭配紅、黑點綴的塗裝經色分件與貼紙點綴精細呈現。標誌性裝備為可左右展開變形爪部並具備發射針刺演出的可變盾牌「クラブシールド」、大型戰鎚「スマートメイス」，以及110mm短程步槍，武裝組合充分展現此機於劇中近戰為主的戰鬥風格。作為Urdr-Hunt系列的門面機體，是本商品線中辨識度最高、也最具人氣的入門代表作，後續更推出經改修的「第2形態」延續其劇情發展脈絡。",
     reviews: [
@@ -18037,6 +18097,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年11月12日",
     officialUrl: "https://bandai-hobby.net/item/01_730/",
     imageUrl: "/images/hg-geirail.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/786",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ゲイレール", "グレイズフレーム"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「ゲイレール」是補完「グレイズ・フレーム」發展歷程的新型量產機，由傭兵ガラン・モッサ等角色駕駛登場，其結構承襲了初代グレイズ的內構骨架，外裝與機械造型則以全新零件重新設計，呈現承先啟後的過渡機體形象。套件在保留グレイズ既有可動基礎之上，賦予其獨立的外觀識別度，兼具開發脈絡上的考據意義與嶄新的視覺個性。武裝方面附有可變形的「盾斧（シールドアックス）」、110mm步槍，以及可掛載於背部、能拆卸的懸浮推進裝置「ホバーユニット」，展現此機體兼顧空中機動與近戰打擊的多樣戰術運用。作為鐵血系列中價格親民、組裝門檻低的一款套件，是補完グレイズ系機體收藏脈絡不可或缺的一員。",
     reviews: [
@@ -18061,6 +18122,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年10月8日",
     officialUrl: "https://bandai-hobby.net/item/01_710/",
     imageUrl: "/images/hg-hugo.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/785",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ユーゴー", "暁の地平団"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》第2期中，「ユーゴー」是新興勢力「暁の地平団（Horizon of the Dawn）」旗下配備的新型MS，採用全新設計的骨架結構，兜帽狀的頭部與利爪般的足部造型使其在鐵血眾多機體中獨具個性，與同陣營或鐵華團機體皆呈現鮮明的差異化風格。套件標誌性武裝為造型優雅的新月形彎刀，可收納掛載於背部，另附機槍與內建鋼索的錨爪武器「ワイヤークロー」，供玩家重現纏繞牽制與突襲戰術的多樣戰鬥姿態。整體零件分割精簡、組裝容易，肩甲上緣等少數部位需搭配貼紙點綴即可完成塗裝級的色彩呈現，是鐵血系列第2期陣容中兼具特色與親民價位的一款人氣套件，後續更推出雙子兄弟駕駛的「ツインセット」限定版本延伸收藏話題。",
     reviews: [
@@ -18085,6 +18147,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年6月18日",
     officialUrl: "https://bandai-hobby.net/item/01_4103/",
     imageUrl: "/images/hg-sigrun.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/139",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "ジークルーネ", "ヴァルキュリアフレーム", "プレミアムバンダイ"],
     description: "「ジークルーネ」是手機遊戲《機動戦士ガンダム 鉄血のオルフェンズG》原創登場的機體，與HG グリムゲルデ同樣採用三百年前災厄戦争末期開發的「ヴァルキュリア・フレーム」骨架技術，設計概念強調高機動、高輸出功率，是能左右戰局的高性能機種。套件外裝大部分為ジークルーネ專屬全新開模，僅小部分沿用グリムゲルデ既有零件，深藍搭配銀白的騎士風配色與背部、腰部搭載的多組推進單元，展現其高速游擊戰型機體的俐落輪廓。標誌性武裝為「ヴァルキュリアレイピア」細劍與「ヴァルキュリアラウンドシールド」圓盾，並附斜握與平手等多款手部零件供替換持握，搭配鉛線細節重現武器接續處的精緻質感。作為プレミアムバンダイ限定販售商品，是ヴァルキュリア・フレーム系機體收藏中不可或缺的一員。",
     reviews: [
@@ -18107,6 +18170,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年8月27日",
     officialUrl: "https://bandai-hobby.net/item/01_679/",
     imageUrl: "/images/hg-gundam-astaroth-origin.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/780",
     tags: ["BOX0009", "ガンプラ", "HG", "Bandai", "鉄血のオルフェンズ", "月鋼", "アスタロト", "ガンダムフレーム"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ 月鋼》外傳中，「ガンダムアスタロトオリジン」是後續「ガンダムアスタロト」的原始樣貌，同樣採用鋼彈骨架4號機（ガンダムフレーム4）為基底，除骨架外幾乎所有外裝零件皆為全新開模，以鮮明的紅色塗裝呈現截然不同於後繼機的凌厲氣勢。武裝方面配備多型態組合武器，包含伽瑪奈米積層劍「ガンマナノラミネートソード」、鏈鎚「スレッジハンマー」與霰彈槍「ショットガン」，三者可自由組合變換型態並掛載於腰部武裝架，重現連結收納狀態；肩部與背部裝甲亦可展開變形，切換為滑翔飛行形態，充分展現此機體多樣化的戰術運用彈性。作為月鋼外傳系列中極具人氣的鋼彈骨架機體之一，其原型與後續機「アスタロト」「アスタロトリナシメント」共同構成一脈相承的機體發展系譜，深受骨架機收藏者青睞。",
     reviews: [
@@ -18176,6 +18240,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年1月15日",
     officialUrl: "https://bandai-hobby.net/item/01_3623/",
     imageUrl: "/images/hg-gundam-barbataurus.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/118",
     tags: ["GUNDAM BREAKER BATTLOGUE", "ガンプラ", "HG", "Bandai", "バルバトス", "BOX0011"],
     description: "「GUNDAM BREAKER BATTLOGUE」是萬代2021年展開的原創鋼普拉企劃，以組裝對戰遊戲《ガンダムブレイカー》為背景，推出多款融合既有機體特徵的自由改裝機型。「ガンダムバルバタウロス」以《機動戦士ガンダム 鉄血のオルフェンズ》人氣機體「ガンダムバルバトス」為設計基礎，大膽採用雙鋼彈骨架構成人馬合體般的獨特輪廓，是MS中罕見的「人馬一体」造型。套件武裝豐富，雙持刀刃可切換為手槍模式，亦能合體組成大型弓具，展現高度的戰術變化性；下半身馬型軀幹則保留大量鉄血機體特有的機械紋理與関節可動設計。作為BATTLOGUE系列中話題度極高的原創機體，其新穎的造型與豐富玩法使其成為鉄血系鋼普拉收藏中別具一格的存在。",
     reviews: [
@@ -20832,6 +20897,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年10月19日",
     officialUrl: "https://bandai-hobby.net/item/01_5360/",
     imageUrl: "/images/hg-ms-06f-zaku-ii-f-type-solari-rfv.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1882",
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "復讐のレクイエム", "ザクII", "MS-06F", "ジオン", "BOX0015"],
     description: "MS-06F ザクII是吉翁公國最具代表性的量產型機動戰士，從UC0079年一年戰爭開戰起就是吉翁軍的骨幹主力，以性能均衡、生產簡便著稱，即便在地球聯邦軍的優勢鋼彈出現後仍持續活躍於各戰線，是整個宇宙世紀「雜兵機」的原型象徵。在《機動戦士ガンダム 復讐のレクイエム》中，吉翁軍的東歐作戰部隊亦以ザクII F型為主力部署，本商品重現作中人物克羅依・索拉里（Chloe Solari）的座機，在標準F型配色基礎上加入個人識別標記與作品設定細節。HG 1/144 套件由 Bandai Spirits 於2024年推出，是配合復讐のレクイエム作品發售的角色機體系列之一，附屬ザク・マシンガン及熱能斧，是吉翁方收藏的入手首選。",
     reviews: [
@@ -20872,6 +20938,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年11月（P-Bandai）",
     officialUrl: "https://p-bandai.jp/item/item-1000238272/",
     imageUrl: "/images/hg-gf13-044nnp-mandor-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4002",
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "Gガンダム", "マンダラガンダム", "BOX0015"],
     description: "《機動武闘伝Gガンダム》（未来世紀世界観）以各殖民地的「鋼彈戰鬥」取代戰爭決定政治霸權，每隔四年舉行的鋼彈鬥魂會（Gundam Fight）中，各殖民地推派造型各異、融入本地文化元素的代表機參賽，成就了鋼彈系列中最奇特且包羅萬象的機體設計群。GF13-044NNP マンダラガンダム代表的殖民地以南亞次大陸為文化基底，機體設計大量融入曼陀羅（Mandala）幾何圖形、佛教法器與印度神明形象，渾圓的軀幹造型與放射狀武裝配置極為搶眼，在眾多G鋼彈機體中屬風格最為獨特的類型之一。此 HG 套件由 Bandai Spirits 於2025年推出，是近年G鋼彈系列全面 HG 立體化計畫的一環，軍綠色調和法器武裝細節均以現代精度重現。",
     reviews: [
@@ -20953,6 +21020,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年10月19日",
     officialUrl: "https://bandai-hobby.net/item/01_5361/",
     imageUrl: "/images/hg-rx-78ge-gundam-ex-rfv.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1883",
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "復讐のレクイエム", "ガンダムEX", "RX-78", "BOX0015"],
     description: "《機動戦士ガンダム 復讐のレクイエム》的主角機 RX-78(G)E ガンダムEX 是以格拉納ダ工廠製陸戦型ガンダムRX-78(G)為基礎，在東歐前線進行改修強化的特規機體。有別於原本的教導隊試作機定位，本機換裝強化型光束步槍與更新的推進系統，整體作戰能力大幅提升，外型保留經典三色（紅・白・藍）配色但細節設計全面翻新，頭部V形天線更換為單眼感應器以強調戰場實用性。作品以此機為核心，展現「一架舊式原型機如何在一年戰爭末期東歐戰場上支撐起一支普通士兵小隊」的故事主軸，為經典的RX-78系列帶來全新詮釋視角。HG 1/144 套件由 Bandai Spirits 於2024年推出，是復讐のレクイエム系列最受矚目的主角機商品。",
     reviews: [
@@ -20993,6 +21061,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年7月5日",
     officialUrl: "https://bandai-hobby.net/item/01_5952/",
     imageUrl: "/images/hg-ms-15h-xaviers-gyan-hakui-packs-galactixx.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3236",
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "GQuuuuuuX", "ジークアクス", "ギャン", "MS-15", "エグザベ", "BOX0015"],
     description: "《機動戦士Gundam GQuuuuuuX》（ジークアクス）是2025年推出的全新鋼彈TV動畫系列。「エグザベ専用ギャン（ハクジ装備）」是作中角色エグザベ駕駛的MS-15 ギャン 衍生換裝型機體，「ハクジ（白騎）換裝包」是本機的核心特色，可依戰況切換不同追加裝備，大幅強化機動性與防禦力。外型以一年戰爭時代吉翁精英機 MS-15 ギャン 為基礎現代化，保留其標誌性獨眼頭部與圓形ニードル・ミサイル盾牌，搭配白銀基調配色展現「白騎士」的典雅視覺意象，在GQuuuuuuX系列中屬最具存在感的吉翁系機體之一。HG 1/144 套件由 Bandai Spirits 於2025年7月5日推出，附屬ハクジ換裝包零件與ニードル・ミサイル盾牌，精細重現換裝系統結構。",
     reviews: [
@@ -21033,6 +21102,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年10月26日（ガンダムベース限定）",
     officialUrl: "https://bandai-hobby.net/item/01_5515/",
     imageUrl: "/images/hg-g-self-perfect-pack-gb-limited-movie-ver.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4512",
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "Gのレコンギスタ", "G-セルフ", "ガンダムベース限定", "劇場版", "BOX0015"],
     description: "《ガンダム Gのレコンギスタ》是富野由悠季監督於2014年執導的TV動畫，並於2019-2022年間改編為五部劇場版完結，設定在宇宙世紀以後遙遠未來的「リギルド・センチュリー」時代。G-セルフ（G-Self）是主角ベルリ・ゼナムの座機，外型以藍白為基調並散佈鮮豔的黃色幾何裝飾，最大特色是可換裝多種「バックパック」擴充系統，在宇宙戰、大氣層突入、攻撃特化等不同場景發揮不同性能。「パーフェクトパック」（完全換裝包）是劇場版完結篇《宇宙からの帰還》中登場的G-セルフ最強形態，集所有換裝包精華於一身，展現壓倒性的最終機動力。本商品為 The Gundam Base（ガンダムベース）限定版，以劇場版設定色彩重現このパーフェクトパック装備形態，是收藏Gのレコンギスタ系列的夢幻逸品，入手難度相當高。",
     reviews: [
@@ -22007,6 +22077,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年2月",
     officialUrl: "https://p-bandai.jp/item/item-1000168447/",
     imageUrl: "/images/hg-efreet-jaeger.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2337",
     tags: ["ガンプラ", "HG", "Bandai", "ジオン軍", "イフリート", "バトルオペレーション コードフェアリー", "狙撃機", "BOX0014"],
     description: "《機動戦士ガンダム バトルオペレーション コードフェアリー》是以人氣網路對戰遊戲「機動戦士ガンダム バトルオペレーション」為背景的外傳漫畫作品，描繪一年戰爭中無名士兵們的戰場故事。「イフリート・イェーガー」是吉翁軍量產機「イフリート」的狙擊型衍生機體，由女性軍曹ヘレナ・ヘーゲル駕駛，機體以淡紫色為基調搭配白、深灰塗裝，頭部與肩部裝甲經過重新設計以降低被彈剪影並提升偽裝性。本品為BANDAI SPIRITS「HG」系列商品化，透過HGUCイフリート的骨架延伸開發，新規附屬專用狙擊步槍、熱能小刀與霰彈槍等多樣化武裝，即使不塗裝素組也能重現角色鮮明的配色分區，是一年戰爭MSV機體收藏中兼具個性與稀有度的一款狙擊型機體。",
     reviews: [
@@ -22030,6 +22101,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年2月",
     officialUrl: "https://bandai-hobby.net/item/01_4372/",
     imageUrl: "/images/hg-gundam-rose.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2479",
     tags: ["ガンプラ", "HG", "Bandai", "機動武闘伝Gガンダム", "ガンダムローズ", "ネオフランス", "BOX0014"],
     description: "《機動武闘伝Gガンダム》中，代表ネオフランス出征的貴公子ジョルジュ・ド・サンド以優雅高貴的戰鬥風格著稱，人稱「深紅薔薇的貴公子」，其愛機「ガンダムローズ」（GF13-009NF）以中世紀歐洲騎士為設計原型，左肩巨大的薔薇造型披風盾牌、以及可展開攻擊的「ローゼスビット」是其最大特徵。本品為BANDAI SPIRITS「HG」系列首度商品化的ガンダムローズ，2023年2月發售，五片式披風盾牌可各自朝前後左右獨立展開重現華麗的戰鬥姿態，頭部與腰部具備前後可動機構，雙臂與大腿新增旋轉軸提升動態擺姿能力，核心戰機「コアランダー」亦可分離組合重現跑步形態。套件附屬ローゼスビット效果零件與展示用支架，即使是HG級距也能重現接近RG等級的精細色分區，是G鋼彈系列人氣角色機體的收藏佳作。",
     reviews: [
@@ -22054,6 +22126,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年10月",
     officialUrl: "https://bandai-hobby.net/item/01_4209/",
     imageUrl: "/images/hg-nu-gundam-booster-bed.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4499",
     tags: ["ガンプラ", "HG", "Bandai", "逆襲のシャア", "νガンダム", "拡張パーツ", "ブースターベッド", "BOX0014"],
     description: "《機動戦士ガンダム 逆襲のシャア》中，アムロ・レイ搭乗的最終決戰機「νガンダム」在劇中曾以搭載大推力推進器的「ブースターベッド」進行高速軌道移動及對地攻擊支援，是強化艦隊機動作戰能力的關鍵運輸兼推進裝備。本品為BANDAI SPIRITS「HG」系列將此設定重新開模商品化，2022年10月發售，忠實重現左右兩具大型推進噴嘴與中央承載平台的細節造形，可供HG 1/144 νガンダム搭乘固定於平台之上重現搭載待機的經典畫面，推進部亦相容HGUC 1/144 89式基地噴射機並可透過MS連結零件搭配展示台自由擺設多種運用姿態。作為單體零件雖無角色機體，卻是νガンダム系列收藏中不可或缺的場景延伸道具，能大幅提升展示櫃的臨場感與可玩性。",
     reviews: [
@@ -22188,6 +22261,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年1月8日",
     officialUrl: "https://www.gundam-base.net/products/details.php?path=01_3382",
     imageUrl: "/images/hguc-zaku2-21st-real-type.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4327",
     tags: ["ガンプラ", "HG", "Bandai", "機動戦士ガンダム", "ザクII", "21stCENTURY REAL TYPE", "The Gundam Base限定", "BOX0014"],
     description: "《機動戰士鋼彈》原作中，MS-06 ザクII是吉翁公國軍的代表性量產機，深綠色機身與招牌單眼感測器是系列最具識別度的視覺符號之一。「21stCENTURY REAL TYPE Ver.」是The Gundam Base實體店鋪限定推出的原創配色企劃，由知名模型師川口克己完全監修，以貼近真實兵器質感的低彩度渋色塗裝重新詮釋經典機體，包裝亦採用擬真寫實畫風插畫呈現，有別於一般鮮豔動畫配色版本。套件標配限定原創水轉印貼紙，頭部天線可替換不同造型零件，單眼感測器可動，雙臂關節強化可動範圍，腰部並加入軟質材料零件提升下半身動作幅度。作為The Gundam Base限定通路商品，市場流通量相對稀少，是喜愛渋い写実塗裝路線、蒐集ザクII各式配色版本的鋼普拉收藏者矚目的一款。",
     reviews: [
@@ -25011,6 +25085,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年5月",
     officialUrl: "https://bandai-hobby.net/item/01_3918/",
     imageUrl: "/images/hg-gn-arms-type-e-real-color.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2258",
     tags: ["機動戦士ガンダム00", "HG", "GNアームズ", "TYPE-E", "リアルカラーVer.", "BANDAI SPIRITS", "ガンプラ", "プレミアムバンダイ限定"],
     description: "《機動戦士ガンダム00》劇中，「GNアームズ TYPE-E」是專為刹那・F・清英駕駛的ガンダムエクシア開發的支援武裝機體，可與エクシア合體強化火力，並在劇情中段的關鍵戰役發揮扭轉戰局的作用，是紅色機身塗裝之外另有深意的支援機設計代表作。本商品為「リアルカラーVer.」限定色版本，將原本鮮豔的紅色塗裝改為與另售RG系列ガンダムエクシア本體協調一致的低彩度深灰紫色調成形色，並附全新設計的写実系水貼，是Premium Bandai限定販售商品，2014年5月發售，可與エクシア合體重現劇中經典的擴充武裝形態，是喜愛統一色調陳列的資深玩家收藏首選。",
     reviews: [
@@ -25122,6 +25197,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年4月9日",
     officialUrl: "https://bandai-hobby.net/item/01_526/",
     imageUrl: "/images/hg-zaku2-big-gun-thunderbolt.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/971",
     tags: ["機動戦士ガンダム", "サンダーボルト", "HG", "ザクII", "ビッグガン", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダム サンダーボルト》以宇宙要塞攻防戰為舞台，用近未來爵士樂般的視覺風格重新詮釋一年戰爭時期的殘酷戰場，其中吉翁軍狙擊部隊操縱的量產型ザクII，背負大型增裝背包並手持超長距離狙擊武器「ビッグ・ガン」，是劇中極具壓迫感的視覺標誌之一。本商品重現動畫劇中配色，成形色、貼紙與包裝盒全面翻新，2016年4月9日發售，附狙擊姿態專用的可動式腳架與砲身穩定支架等豐富配件，可擺出多種伏地狙擊姿勢，是重現該作壓迫感十足戰場氛圍的重點單品。",
     reviews: [
@@ -25658,6 +25734,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月14日",
     officialUrl: "https://bandai-hobby.net/item/01_4290/",
     imageUrl: "/images/hg-beguir-pente.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/142",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "ベギルペンデ"],
     description: "《機動戰士鋼彈 水星的魔女》講述轉學至阿斯提卡西亞高等專門學園的少女蘇萊塔・墨丘利，因駕駛神秘機體捲入校園權力鬥爭與企業陰謀的故事。「ベギルペンデ」（CEK-077）是格拉斯利公司開發的機體，作為「ベギルベウ」的後繼型號，配備大型光束步槍與具備GUND-FORMAT干擾能力的十字形盾牌，是劇中具有一定威脅性的敵方機體之一。本商品為HG系列作品，2023年1月14日發售，盾牌內側可收納光束軍刀並具備拆裝機構，背包左右推進單元可個別獨立擺動，是水星的魔女套件中造型俐落、可動性頗受好評的一款。",
     reviews: [
@@ -25923,6 +26000,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年1月",
     officialUrl: "https://bandai-hobby.net/item/01_5110/",
     imageUrl: "/images/hg-mercury-ms-expansion-set1.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2455",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "拡張パーツ", "Premium Bandai限定"],
     description: "《機動戰士鋼彈 水星的魔女》劇中各家機體隨劇情推進不斷更換裝備配置，本商品即是彙整多台機體追加武裝的擴充零件套組。內容包含「ダリルバルデ」専用的コンポジットアームズ與背包、雙持ダヤ・アンビカー、光束軍刀刀身；「ガンダムファラクト」専用的ビームカリヴァ雙持武裝及跨下零件；「ミカエリス」専用ジャベリンブレイサー與兩種纜線；以及葛威爾専用機「ディランザ」的光束刀刃，並附水星的魔女武器展示台座。本商品為Premium Bandai限定販售，2024年1月出貨，須搭配另售的對應HG本體機體使用，方能重現劇中各機體換裝追加武裝後的多樣化姿態，是水星的魔女鋼普拉收藏中補完機體武裝配置的重點擴充商品。",
     reviews: [
@@ -25943,6 +26021,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年10月",
     officialUrl: "https://bandai-hobby.net/site/gundamdubai/",
     imageUrl: "/images/hg-rx78-2-dubai-expo.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2321",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム", "RX-78-2", "ドバイ国際博覧会", "日本館PRアンバサダー", "Premium Bandai限定"],
     description: "2021年於阿拉伯聯合大公國舉行的「2020年ドバイ国際博覧会」中，鋼彈系列原點機體「RX-78-2 ガンダム」獲選為日本館PR大使，象徵日本流行文化跨越國界、連結世界的橋樑角色。本商品由鋼彈原始設計師大河原邦男親自監修全新塗裝設計，以紅白對比色調融入「和柔的日本形」與麻葉紋等傳統日本意象，象徵日本館「where ideas meet」的策展主題。套件全新開模（PC-002聚縮醛零件除外），光束軍刀等武裝亦重新設計，包裝並收錄大河原邦男獨家訪談內容特別小冊。本商品為Premium Bandai限定販售，2021年10月發售，是鋼彈跨界國際博覽會宣傳活動周邊中極具紀念意義的一款限定商品。",
     reviews: [
@@ -26003,6 +26082,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年8月26日",
     officialUrl: "https://bandai-hobby.net/item/01_1080/",
     imageUrl: "/images/hg-star-burning-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/54",
     tags: ["ガンプラ", "HGBF", "1/144", "Bandai Spirits", "ガンダムビルドファイターズ", "スターバーニングガンダム", "イオリ・セイ"],
     description: "《ガンダムビルドファイターズ GMの逆襲》是原創短篇故事，描繪世界大賽冠軍イオリ・セイ與離世的搭檔レイジ的羈絆延續。「スターバーニングガンダム」是セイ集結多台自製鋼彈精華要素完成的完全原創機體，全高18.2公尺、重量78.9噸，搭載可對應多種戰鬥風格的「PSシステム」，機體結構足以承受プラヴスキー粒子啟動時的性能暴增。本商品為HGBF系列作品，2017年8月26日發售，標配可動式光束步槍與可分離盾牌，並附透明藍色特效零件重現粒子發光效果，色分件精細呈現機體紅白藍主色調，是《ビルドファイターズ》系列鋼普拉中匯集主角象徵意義的紀念性作品。",
     reviews: [],
@@ -26021,6 +26101,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年3月21日",
     officialUrl: "https://bandai-hobby.net/item/01_296/",
     imageUrl: "/images/hg-wing-zero-honoo.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/29",
     tags: ["ガンプラ", "HGBF", "1/144", "Bandai Spirits", "ガンダムビルドファイターズ", "ウイングガンダムゼロ炎", "コウエン・ユウセイ"],
     description: "《ガンダムビルドファイターズ》外傳漫画『ガンダムビルドファイターズ フレイムトライ』中，熱血格鬥系鋼普拉玩家コウエン・ユウセイ（紅炎勇星）自幼熱衷改造鋼普拉，以《新機動戦記ガンダムW》登場的「ウイングガンダムゼロ」為基礎，融入自身火熱格鬥風格與豐富改造經驗完成「ウイングガンダムゼロ炎」，全高17.0公尺、重量9.1噸。本商品為HGBF系列作品，2015年3月21日發售，標配大型光劍「ハイパーカレイズヴルフ」及全新造形的ツインバスターライフル、可收納光束軍刀的盾牌，並可變形為「ネオ・バードモード炎」，機身覆蓋象徵「燃え上がる炎」意象的火焰結晶裝甲，是《ビルドファイターズ》改造機系列中造型張力十足的代表作。",
     reviews: [],
@@ -26039,6 +26120,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年1月26日",
     officialUrl: "https://bandai-hobby.net/item/01_5073/",
     imageUrl: "/images/hg-immortal-justice-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1291",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダムSEED FREEDOM", "イモータルジャスティスガンダム", "COMPASS"],
     description: "劇場版《機動戰士鋼彈SEED FREEDOM》中，新興國家「ファウンデーション」透過已解散和平監視機構COMPASS取得的技術資料開發出「イモータルジャスティスガンダム」，機體共用「STTS-909 ライジングフリーダムガンダム」的核心骨架技術，「イモータル（不滅）」之名呼應其與「ZGMF-X09A ジャスティスガンダム」一脈相承的守護精神。本商品為HG系列作品，2024年1月26日發售，搭載「SEEDアクションシステム」特化印象深刻的動作姿勢重現，部分零件差替即可變形為MA形態，標配兼顧攻守的全新盾牌「ヴィーセルナーゲル」與「フラッシュエッジ4シールドブーメラン」，是SEED FREEDOM系列鋼普拉中造型銳利、話題度高的一款。",
     reviews: [
@@ -26059,6 +26141,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年1月13日",
     officialUrl: "https://bandai-hobby.net/item/01_5071/",
     imageUrl: "/images/hg-perfect-strike-freedom-rouge.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1289",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "ガンダムビルドメタバース", "パーフェクトストライクフリーダムルージュ", "ビルドシリーズ10周年"],
     description: "為紀念鋼彈模型競技題材「ビルドシリーズ」推出十週年，紀念映像作品《ガンダムビルドメタバース》中登場「ガンダムパーフェクトストライクフリーダムルージュ」，以人氣機體「パーフェクトストライクガンダム」融合「フリーダムガンダム」光翼意象，並以醒目的紅色塗裝重新演繹，是跨機體混合改裝美學的代表作。本商品為HG系列作品，2024年1月13日發售，標配可分離合體的雷射對艦刀「シュベルトゲベール」與超高脈衝砲「アグニ」，合體後可重現大型武裝「スーパーシュベルトゲベール」與「スーパーアグニ」，機動兵裝ウイング上的スーパードラグーン可自由拆裝，火箭錨「パンツァーアイゼン」的射出狀態以軟質導線表現，是ビルドシリーズ十週年紀念商品線中話題度極高的一款。",
     reviews: [
