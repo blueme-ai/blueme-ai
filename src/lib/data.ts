@@ -9232,7 +9232,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "lego-10274-ghostbusters-ecto1",
     addedAt: "2026-07-05",
-    name: "樂高 Ghostbusters ECTO-1",
+    name: "LEGO Ghostbusters ECTO-1",
     nameJa: "LEGO Ghostbusters ECTO-1",
     series: "Ghostbusters（魔鬼剋星）",
     character: "ECTO-1",
