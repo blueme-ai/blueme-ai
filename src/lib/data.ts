@@ -2257,6 +2257,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_5505/",
     imageUrl: "/images/fm-boost-raider-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2494",
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "Gundam SEED ECLIPSE", "P-Bandai", "可變形"],
     description: "《機動戰士鋼彈SEED ECLIPSE》是《機動戰士鋼彈SEED》系列近年推出的漫畫外傳企劃，故事設定於原作大戰前後的另一段時間線，透過全新視角補完SEED世界觀中未被詳述的角色背景與機體發展脈絡，深受SEED系列長年支持者關注。GAT-XX370增擊型鋼彈是該作登場的原創機體之一，延續SEED系列G兵器一貫的高機動性設計理念與模組化武裝概念。本品為Full Mechanics系列1/100比例商品，該系列主打較MG親民的價格帶與良好的分色成型技術，適合入門玩家與大量收藏系列機體的族群。本品並保留變形機構，可由標準人形態變形為鳥翼狀MA（機動裝甲）形態，重現SEED系列機體常見的雙形態作戰設定與高速突擊戰術。作為P-Bandai限定商品，僅透過premium bandai通路限量販售，未鋪貨至一般模型通路，補貨可能性低，對於收集SEED ECLIPSE外傳機體或關注G兵器系列變形機構設計的玩家而言，是值得留意的限定收藏品項。",
     reviews: [
@@ -2526,6 +2527,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4026/",
     imageUrl: "/images/fm-aile-calamity-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2357",
     tags: ["ガンプラ", "フルメカニクス", "Bandai", "Gundam SEED ECLIPSE", "地球聯合"],
     description: "《機動戰士鋼彈SEED ECLIPSE》為近年推出的SEED系列漫畫外傳企劃，設定於原作大戰前後的另一段時間線，透過全新支線劇情補完SEED世界觀中未被詳述的角色與機體發展，深受系列長年支持者關注與討論。GAT-X130降雷鋼彈為地球聯合軍開發的G兵器之一，本品所呈現的Aile形態，是機體搭載SEED系列傳統Aile Striker（空戰用飛翼背包）套件後的改裝版本，延續系列一貫的模組化武裝設計精神，讓同一機體平台得以因應不同戰術需求換裝。Full Mechanics系列主打較MG親民的價格與良好的分色成型技術，適合入門玩家與希望大量收藏系列機體的收藏者。本品也延續此系列一貫定位，重現降雷鋼彈換裝空戰套件後的機體輪廓與武裝配置，是補完SEED ECLIPSE外傳機體陣容、串聯SEED系列G兵器收藏系譜的重要一員，適合已收藏正史G兵器、希望延伸至外傳世界觀的玩家一併納入收藏，藉此感受SEED系列衍生作品對經典機體的重新演繹。",
     reviews: [
@@ -17391,6 +17393,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年5月21日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4096/",
     imageUrl: "/images/fm-raider-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1094",
     tags: ["ガンプラ", "フルメカニクス", "Mobile Suit Gundam SEED", "BANDAI SPIRITS", "可變形", "BOX0008"],
     description: "《機動戰士鋼彈SEED》是2002年播出、開創Cosmic Era世界觀的經典系列，劇中登場的五架強奪自地球軍的「鋼彈試作機」（G兵器）是全系列人氣機體的核心陣容之一。「雷達鋼彈」（GAT-X370）由歐爾菲・蘭斯洛特麾下的漢娜芙絲駕駛，最大特色是可由人形態變形為蜘蛛狀MA（機動裝甲）形態，並配備招牌武器「雷神之鎚（Mjolnir）」，以強悍的近戰破壞力著稱。本商品為Full Mechanics 1/100比例套件，以最新結構重新設計立體化，兼顧細節密度與組裝便利性。雙腿採多重關節設計，透過滑動機構與可動軸實現MS至MA形態的完整變形，肩部亦具備免換裝的變形機構；雷神之鎚的鎖鏈以鉛線重現，可透過轉動鎚身收納於內部。爪部單元可多軸靈活擺動，肩炮於MA形態下可連動彈出，並可與「FM 1/100 卡拉米緹鋼彈」（另售）搭配重現搭乘展示情境，是SEED系列G兵器收藏中份量十足的一件。",
     reviews: [
@@ -26231,6 +26234,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年6月26日",
     officialUrl: "https://bandai-hobby.net/item/01_3426/",
     imageUrl: "/images/fm-calamity-gundam-gatx131.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1095",
     tags: ["ガンプラ", "Full Mechanics", "1/100", "Bandai Spirits", "機動戦士ガンダムSEED", "カラミティガンダム", "GAT-X131", "地球連合"],
     description: "《機動戰士鋼彈SEED》中，地球聯合軍為對抗自然人陣營自主開發的四台G兵器之一「GAT-X131 カラミティガンダム」，搭載大口徑肩部加農砲「スキュラ」與雙聯裝拉姆加農盾「ケーファー・ツヴァイ」，以壓倒性遠程砲擊火力見長，是G兵器系列中重火力擔當的代表機體。本商品為「Full Mechanics」系列第一彈作品，作為系列全新刷新規格首發機種完全新規開模，2021年6月26日發售，頭部具備從機身拉出並鬆弛與衣領緩衝的連動機構，腹部可動軸具備前後左右擺動機關，雙臂以球形關節連接肩甲並結合肩部擺動、手肘雙關節、手腕雙關節等機構帶來豐富可動範圍，標配337mm電漿彈射巴祖卡「トーデスブロック」等武裝，與後續推出的「フルメカニクス エールカラミティガンダム」（SEED ECLIPSE外傳機體）屬於不同世界線、不同武裝配置的獨立機體，是SEED本傳G兵器收藏中重砲路線的代表作。",
     reviews: [
