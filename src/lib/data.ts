@@ -589,6 +589,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年（TAMASHII NATION 2025 活動限定）",
     officialUrl: "https://p-bandai.com/tw/item/A2785243001",
     imageUrl: "/images/metal-build-providence-climax-battle.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015544_DCq3YslP_300.pdf",
     tags: ["Gundam SEED", "プロヴィデンスガンダム", "METAL BUILD", "Bandai", "合金", "魂展限定"],
     description: "《機動戰士鋼彈SEED》於2002年播出，是鋼彈系列在新世紀重新開創的獨立世界觀作品，以Cosmic Era曆法與Coordinator（強化人）與Natural之間的衝突為主軸，人氣角色與機體設計深受粉絲喜愛。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色Rau Le Creuset駕駛，是ZAFT陣營技術結晶的最強試驗型MS之一。其最大特色為背部掛載的大型DRAGOON System（多拉貢系統）——一套可分離飛行的全方位無線遙控射擊兵器群，能對敵方展開立體式全向射擊，威壓感與戰術壓制力在整部作品中數一數二，也是Rau Le Creuset這名亦正亦邪角色最具代表性的座機。METAL BUILD是TAMASHII NATIONS旗下頂級完成品品牌，以大量合金壓鑄零件與精密可動結構聞名，此CLIMAX BATTLE Ver.為TAMASHII NATION 2025活動限定商品，充分再現DRAGOON全展開的極限攻擊形態，沉甸甸的金屬質感搭配細緻塗裝，視覺震撼力十足，屬活動限定、通路稀少的高規格收藏品。",
     reviews: [
@@ -671,6 +672,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年8月",
     officialUrl: "https://tamashiiweb.com/item/15365/",
     imageUrl: "/images/metal-build-burning-gundam-second.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015365_Lnjetcl0_300.pdf",
     tags: ["Gガンダム", "バーニングガンダム", "METAL BUILD", "Bandai", "合金", "P-Bandai限定"],
     description: "《機動武鬥傳G鋼彈》於1994年播出，是鋼彈系列首度脫離戰爭寫實路線、改以「格鬥錦標賽」為主軸的作品，各國代表機師駕駛象徵國家特色的Gundam互相比武，風格熱血誇張，開創了系列全新的娛樂方向。主角機GF13-017NJ神鋼彈（英文版稱Burning Gundam）由主角東方不敗駕駛，以格鬥流「東方不敗流」拳法搭配招牌絕招「God Finger」與最終奧義聞名，是整部作品精神象徵的核心機體。METAL BUILD是TAMASHII NATIONS的頂級完成品品牌，以精密可動關節與合金壓鑄骨架著稱，此版本附帶劇中後期強化形態「弐式（Second）」的替換零件，讓收藏者可重現神鋼彈初期與強化後兩種姿態。機體以紅白藍三色為主調，頭部王冠造型與展開的太陽能板翅翼重現最終決戰形態，合金骨架賦予紮實的重量感與可動性，屬P-Bandai限定通路商品，一般店鋪無法購得，是G鋼彈系列完成品中還原度與收藏價值兼具的代表作。",
     reviews: [
@@ -711,6 +713,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（METAL BUILD FESTIVAL 2024 活動限定）",
     officialUrl: "https://tamashiiweb.com/item/14987/",
     imageUrl: "/images/metal-build-strike-freedom-festival2024.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000014987_P60u4gvw_300.pdf",
     tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
     description: "《機動戰士鋼彈SEED DESTINY》是2004年播出的《SEED》續作，延續Cosmic Era世界觀，主角基拉・大和最終駕駛的強攻自由鋼彈（ZGMF-X20A Strike Freedom Gundam）是全系列公認的最強機體象徵之一。其最大特色是背部展開的巨大羽翼形態，搭載名為「Super Dragoon」的多拉貢系統，可展開大量遠端浮游砲台進行全方位無死角射擊，配合高機動姿態演出，是SEED系列中視覺震撼力最強的最終決戰兵裝。METAL BUILD是TAMASHII NATIONS頂級完成品品牌，以精密可動骨架與大量合金壓鑄零件構成，此為METAL BUILD FESTIVAL 2024活動限定特仕版，相較常規版本進一步強化配色層次與金屬光澤質感，塗裝更為細膩立體。全展開的Super Dragoon羽翼形態是整件作品最壯觀的展示配置，充分彰顯強攻自由鋼彈身為SEED宇宙最強機體之一的威壓氣場，屬活動限定通路商品，市場流通量有限，深受合金玩具收藏者青睞。",
     reviews: [
@@ -746,6 +749,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年（METAL BUILD FESTIVAL 2024 活動限定）",
     officialUrl: "https://tamashiiweb.com/item/14988/",
     imageUrl: "/images/metal-build-destiny-gundam-full-festival2024.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000014988_Qn0HPfMN_300.pdf",
     tags: ["Gundam SEED", "デスティニー", "METAL BUILD", "Bandai", "合金", "魂展限定", "Festival2024"],
     description: "《機動戰士鋼彈SEED DESTINY》中，ZGMF-X42S命運鋼彈是ZAFT陣營反派兼悲劇英雄シン・アスカ（真飛鳥）的座機，作為劇中與主角強攻自由鋼彈分庭抗禮的最強機體之一，兩者的多次交鋒是全劇最受矚目的高潮戲碼。命運鋼彈同樣配備類似的光束翼裝置——劇中稱為「Wings of Light」，能展開巨大光翼並發射高輸出光束攻擊，搭配機體本身的高速機動性，是SEED DESTINY世界觀中壓制力最強的武裝形態之一。METAL BUILD是TAMASHII NATIONS頂級完成品品牌，以精密關節與合金壓鑄骨架著稱，此為METAL BUILD FESTIVAL 2024活動限定「Full Package」全套版，附掌槍、展開形態的光束翼、以及高能量長程狙擊砲等全套武裝配件，讓收藏者可完整重現命運鋼彈在劇中最具視覺衝擊力的全副武裝戰鬥姿態。屬活動限定通路商品，配件之齊全與塗裝精緻度均為該角色玩具化作品中的頂規版本。",
     reviews: [
@@ -781,6 +785,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15065/",
     imageUrl: "/images/metal-build-strike-freedom-wing-of-light-repackage.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015065_SiplTJdi_300.pdf",
     tags: ["Gundam SEED", "ストライクフリーダム", "METAL BUILD", "Bandai", "オプションパーツ"],
     description: "強攻自由鋼彈（ZGMF-X20A Strike Freedom Gundam）出自《機動戰士鋼彈SEED DESTINY》，是主角基拉・大和的最終座機，劇中最為人稱道的必殺演出即是展開背部巨大光翼、化身「光之翼」形態進行全方位殲滅攻擊的場面，象徵此機在SEED宇宙中無可撼動的最強地位。此商品為METAL BUILD強攻自由鋼彈專用的追加零件套組「光の翼（Wings of Light）」的Re:PACKAGE重新包裝版，收錄大型光翼效果零件，可直接裝設於METAL BUILD版強攻自由鋼彈機體上，重現劇中最終決戰的全力覺醒形態，讓原本僅呈現常規姿態的完成品得以升級為象徵性的最強展示配置。作為選配零件商品，其存在也反映METAL BUILD系列一貫的模組化設計理念——透過追加選配套件持續延伸同一機體的收藏與展示可能性，對已收藏本體的玩家而言是不可或缺的升級組件，也是METAL BUILD Strike Freedom系列人氣居高不下的佐證之一。",
     reviews: [
@@ -4700,6 +4705,7 @@ export const collection: CollectibleItem[] = [
     height: "約 880mm",
     officialUrl: "https://tamashiiweb.com/item/15562/",
     imageUrl: "/images/proplica-nichirin-sword-shinobu-kocho.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/manuals/products/item_15562_manual.pdf",
     tags: ["鬼滅の刃", "胡蝶しのぶ", "PROPLICA", "日輪刀", "1/1", "BANDAI SPIRITS", "蟲の呼吸", "周邊"],
     description: "《鬼滅之刃》劇場版「無限城篇 第一章」延續原作漫畫尾聲最大規模的鬼殺隊總力戰，胡蝶忍作為蟲柱，以毒殺鬼的獨特戰法及輕巧靈活的「蟲之呼吸」聞名，其姊姊胡蝶香奈惠因遭鬼所害而未能達成弒鬼心願的悲劇背景，也讓忍這個角色的堅毅與溫柔格外令人動容。BANDAI SPIRITS PROPLICA 系列一貫以高擬真道具重現作品經典武具著稱，本作以 1:1 比例、約 880mm 全長重現胡蝶忍的招牌日輪刀，專用白色刀鞘施以金色塗裝並刻畫立體紋路，質感考究。機構方面內建納刀與拔刀自動音效感應、蟲之呼吸振動機構，以及呼應忍毒殺特性的「調合毒」模式，並收錄超過 70 句台詞，除忍本人語音外更特別收錄姊姊香奈惠的語音演出，分為「蟲柱・胡蝶忍模式」與「無限城決戰模式」兩種情境切換,同時收錄劇場版主題曲 Aimer〈太陽的看不見之處〉與 LiSA〈於殘酷之夜綻放光芒〉。附專屬底座方便展示，是鬼滅系列周邊中互動機構最為豐富的道具復刻商品之一。",
     reviews: [],
@@ -8264,6 +8270,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年8月（2025年12月再販）",
     officialUrl: "https://tamashiiweb.com/item/13226/",
     imageUrl: "/images/metal-build-freedom-concept2.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000013226_IOCIhuPE_300.pdf",
     tags: ["Gundam SEED", "フリーダムガンダム", "METAL BUILD", "Bandai", "合金", "CONCEPT2"],
     description: "ZGMF-X10A自由鋼彈是《機動戰士鋼彈SEED》主角基拉・大和在血腥情人節事件後、為對抗地球聯合軍而挺身駕駛的次世代MS，機體搭載可解除N干擾儀限制的核子反應爐，火力與機動性遠超同時期量產機，是劇中「以力量守護和平」理念的象徵性存在，招牌的「High-Mat Full Burst」全兵裝齊射姿勢更成為系列經典畫面，也奠定了自由鋼彈在鋼彈周邊商品市場中經久不衰的人氣地位。\n\nMETAL BUILD「CONCEPT 2」以全新設計思路重新詮釋這款人氣機體，機體骨架與外裝造型皆與初代METAL BUILD版本截然不同，追加更具躍動感的翼翅演出結構。背部主翼採前後可動軸設計，展開時呈現更具量感的輪廓；主武裝收束電漿光束槍可變換持握位置，重現全兵裝齊射的招牌姿勢。膝部關節、多節伸縮短臂與合金骨架的搭配，讓雙翼得以自由展開而無須扭轉砲身，關節活動範圍與姿勢重現度皆有大幅進化，是METAL BUILD SEED系列中評價最高的機體之一。",
     reviews: [
@@ -8288,6 +8295,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年10月",
     officialUrl: "https://tamashiiweb.com/item/13948/",
     imageUrl: "/images/metal-build-devise-exia.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000013948_B2EQOMiU_300.pdf",
     tags: ["Gundam 00", "デヴァイズエクシア", "METAL BUILD", "Bandai", "合金", "Revealed Chronicle"],
     description: "《機動戰士鋼彈00》描繪私設武裝組織「天人（Celestial Being）」為終結戰爭而以武力介入世界各國的故事，主角刹那・F・清英所駕駛的能天使鋼彈搭載GN Drive粒子驅動系統，並具備Trans-Am瞬間出力提升機構，是系列象徵性主力機體。「Revealed Chronicle」則是跳脫原作動畫框架、由機械設計師海老川兼武全新構思的衍生企劃，持續為00世界觀補充官方正史之外的假想機體，本機「GN-001/de-01RS鋼彈德凡斯・艾克西亞」即為能天使鋼彈在此設定下的強化衍生機。\n\n本作為METAL BUILD規格完成品，機體搭載雙重GN Drive驅動的GN Devise背包，可與其他選配武裝零件相容組裝，重現多種戰鬥形態；隨附全新武裝Proto GN Raster Sword光劍。合金與樹脂骨架構成的可動關節，讓能天使鋼彈系譜中這款強化衍生機在細節密度與可動幅度上都更進一步，是能天使系機體收藏中值得留意的一件延伸作品，也展現了00系列在動畫完結多年後持續擴充世界觀的創作能量。",
     reviews: [
@@ -9992,6 +10000,7 @@ export const collection: CollectibleItem[] = [
     height: "約240mm（シェリル用）／約220mm（ランカ用）",
     officialUrl: "https://tamashiiweb.com/item/13846/",
     imageUrl: "/images/proplica-microphone-sheryl-ranka-set.jpg",
+    manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000013846_al0XQKzK_300.pdf",
     tags: ["MACROSS0004@中壢收多易", "マクロス", "マクロスF", "PROPLICA", "マイク", "シェリル・ノーム", "ランカ・リー", "Bandai"],
     description: "《マクロスF》中兩位女主角シェリル・ノーム與ランカ・リー分別以「銀河妖精」與「次元灰姑娘」的稱號活躍於劇中舞台演出，兩人的歌聲與競爭關係貫穿全劇，是系列作品中歌姫元素發揮最為極致的一部，兩人代表歌曲亦廣受粉絲傳唱至今，成為系列最具代表性的音樂符號。「PROPLICA」是TAMASHII NATIONS旗下主打忠實道具重現的商品線，本品首度將劇中兩位歌姫使用的舞台麥克風以近乎實物大尺寸道具化推出，成為系列人氣雙人套組。麥克風本體忠實重現各角色專屬造型與配色細節，內建開關機構可切換角色台詞、歌曲、伴奏及紅外線通訊等多種模式，兩支麥克風各自收錄三首角色代表歌曲（含人聲版與伴奏版），更設計有紅外線通訊功能，讓兩支麥克風互相感應觸發合唱曲目，重現劇中對唱名場面。套組內含麥克風本體兩支、專用展示台座、連接零件與說明書，是兼具道具擬真與互動玩法的特色商品，讓粉絲能親身體驗劇中歌姫合唱的臨場感受。",
     reviews: [
