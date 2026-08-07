@@ -25361,6 +25361,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年9月",
     officialUrl: "https://bandai-hobby.net/item/01_3938/",
     imageUrl: "/images/mg-hi-nu-verka-hws-expansion.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2212",
     tags: ["機動戦士ガンダム", "逆襲のシャア", "MG", "Ver.Ka", "Hi-νガンダム", "HWS", "BANDAI", "ガンプラ", "プレミアムバンダイ限定"],
     description: "電影《機動戦士ガンダム 逆襲のシャア》中，アムロ・レイ駕駛的「Hi-νガンダム」在漫畫設定資料集中留有搭載大量追加武裝「H.W.S.（Heavy Weapon System）」的重裝形態，肩部與腿部加裝大型推進器與飛彈莢艙，是粉絲間熱議的重裝紙上設定機體。本商品為Premium Bandai限定販售的MG專用擴充配件組，需搭配另售的「MG 1/100 Hi-νガンダム Ver.Ka」本體使用，2014年9月發售，可完整重現卡通監修加藤誠所繪的重裝甲形態，是深度收藏Hi-νガンダム系列不可或缺的重點擴充配件。",
     reviews: [
