@@ -23249,7 +23249,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "smp-gaoking",
     addedAt: "2026-07-31",
-    name: "百獣戦隊ガオレンジャー 百獣合体ガオキング",
+    name: "百獣合体ガオキング",
     nameJa: "百獣合体ガオキング",
     series: "百獣戦隊ガオレンジャー（Hyakujuu Sentai Gaoranger, 2001）",
     character: "ガオキング（ガオライオン・ガオイーグル・ガオシャーク・ガオタイガー・ガオバイソン 五獣合體）",
@@ -25246,8 +25246,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-zaku2-big-gun-thunderbolt",
     addedAt: "2026-08-05",
-    name: "HG 1/144 量産型ザクII+ビッグ・ガン・セット（GUNDAM THUNDERBOLT Ver.）",
-    nameJa: "HG 1/144 量産型ザクII+ビッグ・ガン・セット（GUNDAM THUNDERBOLT Ver.）",
+    name: "HG 1/144 量産型ザク+ビッグ・ガン(GUNDAM THUNDERBOLT Ver.)",
+    nameJa: "HG 1/144 量産型ザク+ビッグ・ガン(GUNDAM THUNDERBOLT Ver.)",
     series: "機動戦士ガンダム サンダーボルト",
     character: "量産型ザクII＋ビッグ・ガン（Zaku II + Big Gun）",
     manufacturer: "BANDAI SPIRITS",
@@ -25597,8 +25597,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "smp-sun-vulcan-cosmo-bull",
     addedAt: "2026-08-05",
-    name: "太陽合体 コズモバルカン ブルバルカン",
-    nameJa: "太陽合体 コズモバルカン ブルバルカン",
+    name: "太陽合体 世界のスーパーミニプラ サンバルカン",
+    nameJa: "太陽合体 世界のスーパーミニプラ サンバルカン",
     series: "太陽戦隊サンバルカン",
     character: "コズモバルカン／ブルバルカン（Cosmo Vulcan / Bull Vulcan）",
     manufacturer: "BANDAI SPIRITS（食玩事業部）",
@@ -26136,8 +26136,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-star-burning-gundam",
     addedAt: "2026-08-06",
-    name: "HG 1/144 スターバーニングガンダム",
-    nameJa: "HG 1/144 スターバーニングガンダム",
+    name: "HGBF 1/144 スターバーニングガンダム",
+    nameJa: "HGBF 1/144 スターバーニングガンダム",
     series: "ガンダムビルドファイターズ GMの逆襲",
     character: "SB-011 スターバーニングガンダム（イオリ・セイの機体）",
     manufacturer: "BANDAI SPIRITS",
@@ -26155,8 +26155,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-wing-zero-honoo",
     addedAt: "2026-08-06",
-    name: "HG 1/144 ウイングガンダムゼロ炎",
-    nameJa: "HG 1/144 ウイングガンダムゼロ炎",
+    name: "HGBF 1/144 ウイングガンダムゼロ炎",
+    nameJa: "HGBF 1/144 ウイングガンダムゼロ炎",
     series: "ガンダムビルドファイターズ",
     character: "XXXG-00W0CV ウイングガンダムゼロ炎（コウエン・ユウセイの機体）",
     manufacturer: "BANDAI SPIRITS",
@@ -26338,7 +26338,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "rg-astray-gold-frame-amatsu-hana",
     addedAt: "2026-08-06",
-    name: "RG 1/144 ガンダムアストレイ ゴールドフレーム天ハナ",
+    name: "RG 1/144 ガンダムアストレイ ゴールドフレーム天（アマツ）ハナ",
     nameJa: "RG 1/144 ガンダムアストレイ ゴールドフレーム天（アマツ）ハナ",
     series: "機動戦士ガンダムSEED ASTRAY 天空の皇女（Mobile Suit Gundam SEED Astray: Princess of the Sky）",
     character: "風花アジャ搭乗機 MBF-P01-Re3 ガンダムアストレイ ゴールドフレーム天ハナ",
