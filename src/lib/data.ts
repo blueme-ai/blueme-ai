@@ -6523,7 +6523,7 @@ export const collection: CollectibleItem[] = [
     character: "GX-9900 Gundam X Unit 3（ガンダムX3号機）",
     manufacturer: "BANDAI SPIRITS",
     scale: "1/100",
-    price: "NT$1,150",
+    price: "¥4,320（含稅）",
     releaseDate: "2018年8月（P-Bandai限定）",
     officialUrl: "https://p-bandai.com/tw/item/A2440865001",
     imageUrl: "/images/mg-gundam-x-unit3.jpg",
