@@ -26735,7 +26735,7 @@ export const collection: CollectibleItem[] = [
     price: "¥8,900（含稅，需另加運費）",
     releaseDate: "2024年12月",
     officialUrl: "https://www.1999.co.jp/search?typ1_c=101&cat=figure&target=Producer&searchkey=HanaBee",
-    imageUrl: "/images/hanabee-yokoyama-ishimi-black-dress.jpg",
+    imageUrl: "/images/hanabee-yokoyama-ishimi-black-dress-official.jpg",
     tags: ["HanaBee", "横山石見", "原創フィギュア", "イラストバラ"],
     description: "HanaBee推出的原創角色「横山石見」黒礼服ver.，插畫原案由バラ操刀，以優雅性感的黑色禮服造型立體化，PU與樹脂複合材質呈現細膩的服裝光澤與人物體態，全高約280mm，是原創美少女雕像收藏者矚目的作品之一。",
     reviews: [],
