@@ -15942,7 +15942,7 @@ export const collection: CollectibleItem[] = [
     character: "ロキシー・ミグルディア（Roxy Migurdia）",
     manufacturer: "Good Smile Company",
     scale: "無比例（約100mm）",
-    price: "¥7,200",
+    price: "¥6,800（含稅）",
     releaseDate: "2022年8月",
     officialUrl: "https://www.goodsmile.com/en/product/9648/Nendoroid+Roxy+Migurdia",
     imageUrl: "/images/nendoroid-roxy-migurdia.jpg",
