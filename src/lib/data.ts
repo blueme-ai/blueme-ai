@@ -26104,7 +26104,7 @@ export const collection: CollectibleItem[] = [
     scale: "HG（Universal Century）1/144",
     price: "¥2,860（含稅）",
     releaseDate: "2024年5月31日",
-    officialUrl: "https://bandai-hobby.net/item/01_5065/",
+    officialUrl: "https://bandai-hobby.net/item/01_5211/",
     imageUrl: "/images/hg-gpz01-engage-gundam.jpg",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム U.C. ENGAGE", "エンゲージガンダム", "GPZ01", "Premium Bandai限定"],
     description: "手機遊戲《機動戦士ガンダム U.C. ENGAGE》以宇宙世紀為舞台展開原創戰略企劃，透過虛構機體補完歷代鋼彈作品之間的空白篇章。「RX-78GPZ01 エンゲージガンダム」是遊戲原創的鋼彈開發計畫延伸機體，與同系列的「エンゲージゼロ（MS00Z）」屬於不同編號、各自獨立的機體設定，展現阿納海姆電子在鋼彈開發史上的多元嘗試。本商品為HG系列作品，Premium Bandai限定販售，2024年5月31日發售，全新造形重現機體獨特輪廓，並可透過背包換裝變身為「スーパーエンゲージガンダム」強化形態，標配長步槍與無跑道基座台座，是《U.C. ENGAGE》原創機體立體化陣容中的重點新作。",
