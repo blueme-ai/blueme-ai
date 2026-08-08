@@ -12852,7 +12852,7 @@ export const collection: CollectibleItem[] = [
     character: "ヒカリ（Hikari／聖杯の剣もう一つの姿）",
     manufacturer: "Good Smile Company",
     scale: "1/7",
-    price: "¥19,800（含稅，原始定價）",
+    price: "¥20,166（含稅）",
     releaseDate: "2019年3月18日",
     height: "約210mm",
     officialUrl: "https://www.goodsmile.info/ja/product/7196/",
