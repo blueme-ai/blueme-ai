@@ -21906,7 +21906,7 @@ export const collection: CollectibleItem[] = [
     character: "GN-001REII ガンダムエクシア リペアII",
     manufacturer: "BANDAI SPIRITS",
     scale: "RG 1/144",
-    price: "¥2,700",
+    price: "¥2,750（含稅）",
     releaseDate: "2017年03月",
     officialUrl: "https://bandai-hobby.net/item/01_842/",
     imageUrl: "/images/rg-gundam-exia-repair2.jpg",
