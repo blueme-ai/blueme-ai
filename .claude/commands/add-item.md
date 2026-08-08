@@ -14,6 +14,14 @@
 - **非日系品牌**（threezero、Hot Toys、NECA 等）→ 用**中文**名稱為主（例：`threezero DLX 鋼鐵人 Mark VI`）
 - 若無中日文名稱，才用英文
 
+### ⚠️ Bandai 商品名稱/價格一律以日文官網為準（2026-08-08 確立）
+- **`name`／`nameJa`：逐字對齊日文官網商品頁標題**（不是「大概像」而是精確比對）。可以省略最前面的品牌/產品線前綴（如「DX超合金」「超合金魂」「聖闘士聖衣神話」），但前綴之後的核心文字（角色名、機體代號、版本副標、括號用字）必須跟官網一致，全形/半形、拗音、人名拼寫都要對齊。
+- **為什麼要對齊**：名稱跟官網不一致會導致（1）`manualUrl`（説明書連結）查不到對應頁面、（2）二手市場（駿河屋／ヤフオク）查價用 `nameJa` 當關鍵字，名稱不準命中率會變差。
+- **`price`：一律採用日文官網頁面上顯示的含稅日圓價格，直接抄，不要自己換算匯率**。不可以用台幣/美金/港幣（NT$／USD／HK$）取代——只有在真的找不到任何日文官網頁面、該商品是純海外限定（真的沒有日本本地版）時，才允許保留當地幣別價格，並在 price 裡註明原因。
+- **官網網域判斷**（依產品線）：Gunpla 用 `bandai-hobby.net` 或 `gundam-base.net`；魂系列（DX超合金／Metal Build／超合金魂／聖闘士聖衣神話／GFF METAL COMPOSITE 等）用 `tamashiiweb.com`；食玩/SMP 用 `bandai.co.jp/candy`；P-Bandai 限定找不到上述頁面時用 `p-bandai.jp`（日本）或 `p-bandai.com/tw`（台灣，不鎖區）；都找不到就退回 `bandaispirits.co.jp/products/search/detail.php` 總目錄查。
+- 這條規則不限於新增商品時套用，**既有資料若日後發現不一致也要照此修正**。
+- 範圍目前限定 Bandai 系列商品；非 Bandai 品牌（threezero、Good Smile 等）官網定價邏輯不同，暫不套用這條規則。
+
 ## `nameJa` 欄位
 - 永遠填日文商品名稱
 
