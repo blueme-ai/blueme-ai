@@ -15422,7 +15422,7 @@ export const collection: CollectibleItem[] = [
     character: "MS-07B グフ（Gouf）",
     manufacturer: "BANDAI SPIRITS",
     scale: "HGUC 1/144",
-    price: "1,700円（税別）",
+    price: "¥1,870（含稅）",
     releaseDate: "2016年4月",
     officialUrl: "https://bandai-hobby.net/item/01_531/",
     imageUrl: "/images/hguc-gouf.jpg",
