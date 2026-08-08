@@ -4111,7 +4111,7 @@ export const collection: CollectibleItem[] = [
     price: "¥24,800",
     releaseDate: "2023年8月",
     height: "約290mm",
-    officialUrl: "https://www.goodsmile.info/ja/product/13931/",
+    officialUrl: "https://www.goodsmile.com/ja/product/11077/",
     imageUrl: "/images/max-factory-asuna-ichinose-bunny.jpg",
     tags: ["ブルーアーカイブ", "一之瀬アスナ", "バニーガール", "Max Factory", "美少女フィギュア", "1/7", "POPQN"],
     description: "《Blue Archive》以未來都市為舞台，將各學園學生化身可招募角色，其中一之瀨飛鳥（阿斯娜）以拖地般的超長髮絲與親和開朗的個性成為人氣角色之一，其兔女郎造型更是遊戲內廣受歡迎的限定造型。Max Factory 忠實依照人氣繪師 POPQN 的插畫風格進行立體化，完整重現阿斯娜標誌性的超長秀髮、兔耳與黑色兔女郎緊身衣，搭配網狀絲襪展現優雅性感的一面，臉部表情特別選用她招牌的嬉皮笑臉，將角色開朗中帶點調皮的魅力發揮得淋漓盡致。頭頂光環以透明零件特別處理呈現通透光澤，台座則採大理石紋飾營造高級感。全高約 290mm 的比例讓細節得以充分展現，原版於 2023 年 8 月發售即造成搶購熱潮,2024 年 11 月應需求再版，足見其人氣之高。作為 Max Factory 近年美少女手辦的熱門商品，本作也體現了《Blue Archive》周邊市場需求的持續升溫。",
