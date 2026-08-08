@@ -25679,6 +25679,28 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
+    id: "hi-metal-r-vf19-fire-valkyrie-sound-booster",
+    addedAt: "2026-08-08",
+    name: "VF-19改 ファイヤーバルキリー対応 サウンドブースター",
+    nameJa: "VF-19改 ファイヤーバルキリー対応 サウンドブースター",
+    series: "マクロス7",
+    character: "熱気バサラ機用 サウンドブースター",
+    manufacturer: "BANDAI SPIRITS",
+    scale: "HI-METAL R（1/100）",
+    price: "¥6,600（含稅）",
+    releaseDate: "2025年2月",
+    officialUrl: "https://tamashiiweb.com/item/15100/",
+    imageUrl: "/images/hi-metal-r-vf19-sound-booster.jpg",
+    tags: ["マクロス7", "HI-METAL R", "VF-19改", "ファイヤーバルキリー", "熱気バサラ", "サウンドブースター", "BANDAI SPIRITS"],
+    description: "《マクロス7》主角熱気バサラ在戰鬥中同時肩負搖滾樂團Fire Bomber主唱身分，座機VF-19改「ファイヤーバルキリー」搭載的巨大音響裝備「サウンドブースター」是他「以歌代戰」理念的具體化身，能將戰場瞬間變成演唱會舞台，透過震撼音浪喚醒敵人沉睡的人性，是系列中最具個人風格與音樂色彩的機體設計之一。本商品為「HI-METAL R VF-19改 ファイヤーバルキリー」（另售）的專屬對應配件，可與戰機、GERWALK、機人三型態機體對接合體，重現バサラ邊戰鬥邊高唱的經典場面，並附贈以Fire Bomber樂團視覺意象打造的專用展示台座，讓玩家可單獨展示サウンドブースター的華麗機構與金屬質感塗裝。作為HI-METAL R VF-19改本體的延伸強化配件，是深度マクロス7收藏者重現原作標誌性演出不可或缺的一款。",
+    reviews: [
+      { title: "【徹底レビュー】HI-METAL R VF-19改 ファイヤーバルキリー対応 サウンドブースター", url: "https://shishioh.info/HI-METAL_R_SOUND_BOOSTER.php", lang: "ja" },
+    ],
+    youtube: [
+      { title: "バサラ機に合体【HI-METAL R VF-19改 ファイヤーバルキリー対応 サウンドブースター】ヲタファのレビュー", url: "https://www.youtube.com/watch?v=f47WI08W9wc", lang: "ja" },
+    ],
+  },
+  {
     id: "hi-metal-r-vf0s-phoenix-roy-focker",
     addedAt: "2026-08-05",
     name: "VF-0S フェニックス（ロイ・フォッカー機）",
