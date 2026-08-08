@@ -6744,7 +6744,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "asurada-vsx-r",
     addedAt: "2026-07-01",
-    name: "Variable Action Variations: Future GPX Cyber Formula - Asurada V.S.X-R",
+    name: "ヴァリアブルアクション バリエーションズ 新世紀GPXサイバーフォーミュラ アスラーダV.S.X-R",
     nameJa: "ヴァリアブルアクション バリエーションズ 新世紀GPXサイバーフォーミュラ アスラーダV.S.X-R",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "アスラーダV.S.X-R（Asurada V.S.X-R）",
@@ -10318,7 +10318,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mpm-07-bumblebee",
     addedAt: "2026-07-05",
-    name: "Takara Tomy 變形金剛 電影版 大黃蜂 MPM-07",
+    name: "トランスフォーマー マスターピースムービー MPM-7 バンブルビー",
     nameJa: "トランスフォーマー マスターピースムービー MPM-7 バンブルビー",
     series: "トランスフォーマー/バンブルビー",
     character: "Bumblebee",
@@ -10353,7 +10353,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mpm-08-megatron",
     addedAt: "2026-07-05",
-    name: "Takara Tomy 變形金剛 電影版 密卡登 MPM-08",
+    name: "トランスフォーマー マスターピースムービー MPM-8 メガトロン",
     nameJa: "トランスフォーマー マスターピースムービー MPM-8 メガトロン",
     series: "トランスフォーマー（2007年映画）",
     character: "Megatron",
@@ -10388,7 +10388,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mpm-11-ratchet",
     addedAt: "2026-07-05",
-    name: "Takara Tomy 變形金剛 電影版 救護車 MPM-11",
+    name: "トランスフォーマー マスターピースムービー MPM-11 ラチェット",
     nameJa: "トランスフォーマー マスターピースムービー MPM-11 ラチェット",
     series: "トランスフォーマー（2007年映画）",
     character: "Ratchet",
@@ -10516,7 +10516,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "tf-mpm-10-starscream",
     addedAt: "2026-07-08",
-    name: "Transformers Masterpiece Movie MPM-10 星星叫（天王星／紅蜘蛛）",
+    name: "トランスフォーマー マスターピース・ムービーシリーズ MPM-10 スタースクリーム",
     nameJa: "トランスフォーマー マスターピース・ムービーシリーズ MPM-10 スタースクリーム",
     series: "Transformers（2007電影版）",
     character: "Starscream（星星叫／天王星／紅蜘蛛）",
@@ -20025,7 +20025,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-aoi-ogre-an21-2022",
     addedAt: "2026-07-25",
-    name: "Variable Action Hi-SPEC: Future GPX Cyber Formula SIN - Ogre AN-21",
+    name: "ヴァリアブルアクション ハイスペック 新世紀GPXサイバーフォーミュラSIN オウガAN-21 (2022 17th)",
     nameJa: "ヴァリアブルアクション ハイスペック 新世紀GPXサイバーフォーミュラSIN オウガAN-21 (2022 17th)",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "OGRE AN-21（ドライバー：ブリード・カガ）",
@@ -20046,7 +20046,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-ogre-an21-livery-dx",
     addedAt: "2026-07-26",
-    name: "Variable Action: Future GPX Cyber Formula SIN - Ogre AN-21 -Livery Edition- DX Set",
+    name: "ヴァリアブルアクション Hi-Spec 新世紀GPXサイバーフォーミュラSIN 凰呀AN-21 -Livery Edition- DXセット",
     nameJa: "ヴァリアブルアクション Hi-Spec 新世紀GPXサイバーフォーミュラSIN 凰呀AN-21 -Livery Edition- DXセット",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "OGRE AN-21（ドライバー：ブリード・カガ）",
@@ -20070,7 +20070,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-hispec-nu-asurada-akf0g",
     addedAt: "2026-07-26",
-    name: "Variable Action Hi-SPEC: Future GPX Cyber Formula SIN - ν Asurada AKF-0/G",
+    name: "ヴァリアブルアクション Hi-SPEC 新世紀GPXサイバーフォーミュラSIN νアスラーダAKF-0/G",
     nameJa: "ヴァリアブルアクション Hi-SPEC 新世紀GPXサイバーフォーミュラSIN νアスラーダAKF-0/G",
     series: "新世紀GPXサイバーフォーミュラSIN（Future GPX Cyber Formula SIN）",
     character: "νアスラーダAKF-0/G（New Asurada）",
@@ -20094,7 +20094,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-hispec-united-super-asurada01",
     addedAt: "2026-07-26",
-    name: "Variable Action Hi-SPEC UNITED: Future GPX Cyber Formula - Super Asurada 01",
+    name: "ヴァリアブルアクション Hi-SPEC UNITED 新世紀GPXサイバーフォーミュラ スーパーアスラーダ01",
     nameJa: "ヴァリアブルアクション Hi-SPEC UNITED 新世紀GPXサイバーフォーミュラ スーパーアスラーダ01",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "スーパーアスラーダ01（Super Asurada 01）",
@@ -20118,7 +20118,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-alzard-np1",
     addedAt: "2026-07-26",
-    name: "Variable Action: Future GPX Cyber Formula SAGA - Al-Zard NP-1",
+    name: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラSAGA アルザードNP-1",
     nameJa: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラSAGA アルザードNP-1",
     series: "新世紀GPXサイバーフォーミュラSAGA（Future GPX Cyber Formula SAGA）",
     character: "Al-Zard NP-1（ドライバー：フィル・フリッツ／Car Number 6）",
@@ -20142,7 +20142,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-vision-asurada",
     addedAt: "2026-07-25",
-    name: "Variable Action Variations 1/24 Future GPX Cyber Formula VISION Asurada",
+    name: "ヴァリアブルアクション バリエーション 新世紀GPXサイバーフォーミュラ VISION ASURADA",
     nameJa: "ヴァリアブルアクション バリエーション 新世紀GPXサイバーフォーミュラ VISION ASURADA",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "VISION ASURADA（Car Number 30）",
@@ -20164,7 +20164,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-super-asurada-01-ver2",
     addedAt: "2026-07-25",
-    name: "Variable Action 2ndLAP: Future GPX Cyber Formula - Super Asurada 01 Ver.2",
+    name: "ヴァリアブルアクション 2nd LAP 新世紀GPXサイバーフォーミュラ スーパーアスラーダ01 Ver.2",
     nameJa: "ヴァリアブルアクション 2nd LAP 新世紀GPXサイバーフォーミュラ スーパーアスラーダ01 Ver.2",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "SUPER ASURADA 01（Car Number 30）",
@@ -20184,7 +20184,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-garland-sf03-livery",
     addedAt: "2026-07-25",
-    name: "GARLAND SF-03 -Livery Edition-",
+    name: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラSAGA ガーランドSF-03 -Livery Edition-",
     nameJa: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラSAGA ガーランドSF-03 -Livery Edition-",
     series: "新世紀GPXサイバーフォーミュラSAGA（Future GPX Cyber Formula SAGA）",
     character: "GARLAND SF-03（ドライバー：隼人・風見／Car Number 9）",
@@ -20202,7 +20202,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-super-asurada-akf11-livery",
     addedAt: "2026-07-25",
-    name: "Variable Action: Future GPX Cyber Formula 11 - SUPER ASURADA AKF-11 -Livery Edition-",
+    name: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラ11 スーパーアスラーダAKF-11 -Livery Edition-",
     nameJa: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラ11 スーパーアスラーダAKF-11 -Livery Edition-",
     series: "新世紀GPXサイバーフォーミュラ11（Future GPX Cyber Formula 11）",
     character: "SUPER ASURADA AKF-11（ドライバー：隼人・風見／Car Number 1）",
@@ -20224,7 +20224,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "threezero-asurada-gsx-30th",
     addedAt: "2026-07-25",
-    name: "VARIABLE ACTION Hi-SPEC UNITED FUTURE GPX CYBER FORMULA ASURADA G.S.X",
+    name: "ヴァリアブルアクション ハイスペック UNITED 新世紀GPXサイバーフォーミュラ アスラーダG.S.X",
     nameJa: "ヴァリアブルアクション ハイスペック UNITED 新世紀GPXサイバーフォーミュラ アスラーダG.S.X",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "ASURADA G.S.X（Car Number 30）",
@@ -20248,7 +20248,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mega-chogokin-scudregard-livery",
     addedAt: "2026-07-25",
-    name: "Cyber Formula Collection DX FUTURE GPX CYBER FORMULA Sugolegerd 10V5000-Livery Edition-",
+    name: "サイバーフォーミュラコレクションDX 新世紀GPXサイバーフォーミュラ スゴウレガード10V5000 -Livery Edition-",
     nameJa: "サイバーフォーミュラコレクションDX 新世紀GPXサイバーフォーミュラ スゴウレガード10V5000 -Livery Edition-",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "スゴウレガード10V5000（SUGO Legard）",
@@ -20288,7 +20288,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "va-night-saber-005-livery",
     addedAt: "2026-07-25",
-    name: "Variable Action FUTURE GPX CYBER FORMULA - KNIGHT SAVIOR 005 -Livery Edition-",
+    name: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラ ナイトセイバー005 -Livery Edition-",
     nameJa: "ヴァリアブルアクション 新世紀GPXサイバーフォーミュラ ナイトセイバー005 -Livery Edition-",
     series: "新世紀GPXサイバーフォーミュラ（Future GPX Cyber Formula）",
     character: "ナイトセイバー005（ドライバー：ナイト・シューマッハ）",
