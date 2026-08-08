@@ -19941,7 +19941,7 @@ export const collection: CollectibleItem[] = [
     character: "アリスリーゼ・ルゥ・ネビュリス9世",
     manufacturer: "FuRyu（F:NEX）",
     scale: "1/7",
-    price: "¥24,800（未稅）",
+    price: "¥27,280（含稅）",
     releaseDate: "2021年8月",
     officialUrl: "https://furyu-hm.com/products/fnx-dpkxqw48",
     imageUrl: "/images/furyu-fnex-alicereise-lou-nebulis-ix.jpg",
