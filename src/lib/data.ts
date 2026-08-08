@@ -11917,7 +11917,7 @@ export const collection: CollectibleItem[] = [
     character: "YF-29 Durandal Valkyrie（早乙女アルト機）用 Super Parts",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
     scale: "—",
-    price: "",
+    price: "¥3,150（魂web限定販售價，官網已下架）",
     releaseDate: "2011年",
     officialUrl: "",
     imageUrl: "/images/dx-chogokin-yf29-alto-super-parts.jpg",
