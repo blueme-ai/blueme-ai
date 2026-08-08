@@ -25273,7 +25273,7 @@ export const collection: CollectibleItem[] = [
     character: "ガンダムF91（Gundam F91）擴充武裝",
     manufacturer: "BANDAI SPIRITS",
     scale: "1/100（MG）",
-    price: "¥5,060（含稅）",
+    price: "¥6,820（含稅）",
     releaseDate: "2018年11月",
     officialUrl: "https://bandai-hobby.net/item/01_2044/",
     imageUrl: "/images/mg-f91-ver2-back-cannon-vsbr.jpg",
