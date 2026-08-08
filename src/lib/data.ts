@@ -4001,7 +4001,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "alter-rider-altria-alter-fgo",
     addedAt: "2026-06-26",
-    name: "ALTER ライダー／アルトリア・ペンドラゴン〔オルタ〕 1/7",
+    name: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
     nameJa: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
     series: "Fate/Grand Order",
     character: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
@@ -4138,7 +4138,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "amakuni-rider-altria-alter-fgo",
     addedAt: "2026-06-26",
-    name: "AMAKUNI ライダー／アルトリア・ペンドラゴン〔オルタ〕 1/7",
+    name: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
     nameJa: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
     series: "Fate/Grand Order",
     character: "ライダー／アルトリア・ペンドラゴン〔オルタ〕",
@@ -4302,8 +4302,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "kotobukiya-azurlane-taihou-17",
     addedAt: "2026-06-27",
-    name: "Kotobukiya 碧藍航線 大鳳 1/7",
-    nameJa: "碧蓝航线 大鳳 1/7スケールフィギュア【コトブキヤショップ限定品】",
+    name: "大鳳【コトブキヤショップ限定品】",
+    nameJa: "大鳳【コトブキヤショップ限定品】",
     series: "碧藍航線（Azur Lane）",
     character: "大鳳（Taihou）",
     manufacturer: "Kotobukiya（寿屋）",
@@ -4327,7 +4327,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "alter-xenosaga-iii-t-elos",
     addedAt: "2026-06-28",
-    name: "Xenosaga Ⅲ T-elos",
+    name: "ゼノサーガ エピソードIII T-elos",
     nameJa: "ゼノサーガ エピソードIII T-elos",
     series: "ゼノサーガ エピソードIII〈ツァラトゥストラはかく語りき〉（Xenosaga Episode III）",
     character: "T-elos（テロス）",
@@ -4350,7 +4350,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "alter-xenosaga-iii-kos-mos-ver4",
     addedAt: "2026-06-27",
-    name: "Xenosaga Ⅲ KOS-MOS Ver.4",
+    name: "ゼノサーガ エピソードIII KOS-MOS Ver.4",
     nameJa: "ゼノサーガ エピソードIII KOS-MOS Ver.4",
     series: "ゼノサーガ エピソードIII〈ツァラトゥストラはかく語りき〉（Xenosaga Episode III）",
     character: "KOS-MOS（Ver.4）",
@@ -4456,7 +4456,7 @@ export const collection: CollectibleItem[] = [
     price: "¥31,350（含稅）",
     releaseDate: "2023年6月",
     height: "約240mm",
-    officialUrl: "https://store.kadokawa.co.jp/shop/g/g301910003378/",
+    officialUrl: "https://kdcolle.kadokawa.co.jp/product/kumo/4935228288724.html",
     imageUrl: "/images/kdcolle-kumo-arachne-shiraori.jpg",
     tags: ["蜘蛛ですが、なにか？", "アラクネ", "白織", "KADOKAWA", "KDcolle", "1/7", "日系品牌"],
     description: "《蜘蛛也能有異世界》是近年頗受歡迎的異世界轉生輕小說改編作品，女主角由普通女高中生轉生為蜘蛛怪物，在弱肉強食的地下迷宮中不斷進化求生，最終蛻變為兼具強大戰鬥力與人形外貌的「白織」，其獨特的成長弧線與幽默自嘲的敘事風格廣受讀者喜愛。KADOKAWA「KDcolle」系列推出的這款 1/7 完成品最大亮點在於支援雙形態展示——蜘蛛型最終進化形態「Arachne」與人形「白織」可自由切換組裝，讓玩家依喜好呈現角色蛻變前後的樣貌對比,充分展現原作核心的成長主題。本作以小說封面插畫為設計依歸，力求貼近原作世界觀氛圍。搭配另售的 Miraitia LED 發光組件，還能讓蜘蛛型態的複眼部位發光，增添展示效果的臨場感。全高約 240mm，是該人氣輕小說 IP 立體化商品中頗具代表性的一款。雙形態切換的展示巧思充分呼應原作「弱肉強食、不斷進化」的核心主題，是該人氣輕小說 IP 立體化商品中頗具代表性的一款。",
@@ -7639,7 +7639,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-gquuuuuux-gfred",
     addedAt: "2026-07-03",
-    name: "HG 1/144 GFreD",
+    name: "HG 1/144 ジーフレッド",
     nameJa: "HG 1/144 ジーフレッド",
     series: "機動戦士Gundam GQuuuuuuX（機動戦士ガンダムジークアクス）",
     character: "ニャアン",
@@ -19887,7 +19887,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-providence-gundam-standard",
     addedAt: "2026-07-26",
-    name: "MG プロヴィデンスガンダム",
+    name: "MG 1/100 プロヴィデンスガンダム",
     nameJa: "MG 1/100 プロヴィデンスガンダム",
     series: "機動戰士鋼彈SEED",
     character: "GAT-X131 Providence Gundam",
@@ -19912,7 +19912,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-providence-gundam-premium-edition",
     addedAt: "2026-07-25",
-    name: "MG プロビデンスガンダム G.U.N.D.A.M. Premium Edition",
+    name: "MG プロヴィデンスガンダム G.U.N.D.A.M. プレミアムエディション",
     nameJa: "MG プロヴィデンスガンダム G.U.N.D.A.M. プレミアムエディション",
     series: "機動戰士鋼彈SEED",
     character: "GAT-X131 Providence Gundam",
@@ -19979,7 +19979,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-heavyarms-custom-ew",
     addedAt: "2026-07-25",
-    name: "MG ガンダムヘビーアームズ改 EW",
+    name: "MG 1/100 ガンダムヘビーアームズ改 EW",
     nameJa: "MG 1/100 ガンダムヘビーアームズ改 EW",
     series: "新機動戰記鋼彈W Endless Waltz",
     character: "XXXG-01H2 Gundam Heavyarms Custom EW",
@@ -20266,7 +20266,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "dlx-iron-man-mk22-hotrod",
     addedAt: "2026-07-25",
-    name: "threezero DLX Iron Man Mark XXII \"Hot Rod\"",
+    name: "threezero DLX 鋼鐵人 Mark XXII「Hot Rod」",
     nameJa: "DLX アイアンマン マーク22 ホットロッド",
     series: "Marvel Studios: Iron Man 3 / The Infinity Saga",
     character: "鋼鐵人 Iron Man（Mark XXII \"Hot Rod\"）",
@@ -20308,7 +20308,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "dlx-iron-man-mk5",
     addedAt: "2026-07-25",
-    name: "threezero DLX Iron Man Mark V",
+    name: "threezero DLX 鋼鐵人 Mark V",
     nameJa: "DLX アイアンマン マーク5",
     series: "Marvel Studios: Iron Man 2 / The Infinity Saga",
     character: "鋼鐵人 Iron Man（Mark V）",
@@ -20351,7 +20351,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-unicorn-luminous-crystal",
     addedAt: "2026-07-25",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED Unicorn Gundam (Luminous Crystal Body)",
+    name: "MG 1/100 ガンダムベース限定 ユニコーンガンダム(光の結晶体)",
     nameJa: "MG 1/100 ガンダムベース限定 ユニコーンガンダム(光の結晶体)",
     series: "機動戦士ガンダムUC",
     character: "RX-0 Unicorn Gundam",
@@ -20376,7 +20376,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-perfect-strike-grand-slam",
     addedAt: "2026-07-25",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED Perfect Strike Gundam (Grand Slam Equipped Type)",
+    name: "MG 1/100 ガンダムベース限定 パーフェクトストライクガンダム グランドスラム装備型",
     nameJa: "MG 1/100 ガンダムベース限定 パーフェクトストライクガンダム グランドスラム装備型",
     series: "機動戦士ガンダムSEED",
     character: "GAT-X105+AQM/E-YM1 Perfect Strike Gundam",
@@ -20400,7 +20400,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-rx-78-2-ver3-base-color",
     addedAt: "2026-07-25",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED RX-78-2 Gundam Ver.3.0 [The Gundam Base Color]",
+    name: "MG 1/100 ガンダムベース限定 RX-78-2 ガンダムVer.3.0 [ガンダムベースカラー]",
     nameJa: "MG 1/100 ガンダムベース限定 RX-78-2 ガンダムVer.3.0 [ガンダムベースカラー]",
     series: "機動戦士ガンダム",
     character: "RX-78-2 Gundam",
@@ -20424,7 +20424,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-aile-strike-verrm-clear",
     addedAt: "2026-07-25",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED Aile Strike Gundam Ver.RM [Clear Color]",
+    name: "MG 1/100 ガンダムベース限定 エールストライクガンダムVer.RM [クリアカラー]",
     nameJa: "MG 1/100 ガンダムベース限定 エールストライクガンダムVer.RM [クリアカラー]",
     series: "機動戦士ガンダムSEED",
     character: "GAT-X105 Aile Strike Gundam Ver.RM",
@@ -20447,7 +20447,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-freedom-ver2-clear",
     addedAt: "2026-07-25",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED Freedom Gundam Ver.2.0 [Clear Color]",
+    name: "MG 1/100 ガンダムベース限定 フリーダムガンダム Ver.2.0 [クリアカラー]",
     nameJa: "MG 1/100 ガンダムベース限定 フリーダムガンダム Ver.2.0 [クリアカラー]",
     series: "機動戦士ガンダムSEED",
     character: "ZGMF-X10A Freedom Gundam",
@@ -20470,7 +20470,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-zaku-warrior-live-concert",
     addedAt: "2026-07-25",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED Zaku Warrior [Live Concert Ver.]",
+    name: "MG 1/100 ガンダムベース限定 ザクウォーリア(ライブコンサート Ver.)",
     nameJa: "MG 1/100 ガンダムベース限定 ザクウォーリア(ライブコンサート Ver.)",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-1000 Zaku Warrior",
@@ -20493,7 +20493,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-zeta-gundam-iii-p2-red-zeta",
     addedAt: "2026-07-25",
-    name: "MG 1/100 MSZ-006P2/3C Zeta Gundam III P2 Type \"Red Zeta\"",
+    name: "MG 1/100 MSZ-006P2/3C ゼータガンダム３号機P２型 レッド・ゼータ",
     nameJa: "MG 1/100 MSZ-006P2/3C ゼータガンダム３号機P２型 レッド・ゼータ",
     series: "機動戦士ガンダム外伝 GUNDAM EVOLVE",
     character: "MSZ-006P2/3C Zeta Gundam III P2 Type",
@@ -20585,7 +20585,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-nt1-alex-ver2-clear",
     addedAt: "2026-07-25",
-    name: "MG 1/100 RX-78NT-1 Gundam NT-1 \"Alex\" Ver.2.0 [Clear Color]",
+    name: "MG 1/100 ガンダムNT-1 ver.2.0 [クリアカラー]",
     nameJa: "MG 1/100 ガンダムNT-1 ver.2.0 [クリアカラー]",
     series: "機動戦士ガンダム0080 ポケットの中の戦争",
     character: "RX-78NT-1 Gundam NT-1「Alex」",
@@ -20654,7 +20654,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "re100-vigna-zirah",
     addedAt: "2026-07-29",
-    name: "RE/100 1/100 VIGNA-ZIRAH",
+    name: "ＲＥ/100 1/100 ビギナ・ゼラ",
     nameJa: "ＲＥ/100 1/100 ビギナ・ゼラ",
     series: "機動戦士クロスボーン・ガンダム／機動戦士ガンダム シルエットフォーミュラ91",
     character: "XM-07G ビギナ・ゼラ（シェルフ・シェフィールド搭乗機）",
@@ -20679,7 +20679,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-f90iiiy-mission-pack-x",
     addedAt: "2026-07-29",
-    name: "MG 1/100 MISSION PACK X-TYPE for F90ⅢY CLUSTER GUNDAM",
+    name: "MG 1/100 F90ⅢY クラスターガンダム用 ミッションパック Xタイプ",
     nameJa: "MG 1/100 F90ⅢY クラスターガンダム用 ミッションパック Xタイプ",
     series: "機動戦士ガンダムF90（Formula91企劃）／シルエットフォーミュラ91",
     character: "F90ⅢY クラスターガンダム用 ミッションパック Xタイプ（Zenobia複合兵裝ユニット）",
@@ -20703,7 +20703,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "rg-unicorn-armed-armor-vnbs",
     addedAt: "2026-07-29",
-    name: "RG 1/144 EXPANSION UNIT ARMED ARMOR VN/BS",
+    name: "ＲＧ 1/144 拡張ユニット アームド・アーマーＶＮ／ＢＳ",
     nameJa: "ＲＧ 1/144 拡張ユニット アームド・アーマーＶＮ／ＢＳ",
     series: "機動戦士ガンダムUC（Gundam Unicorn）",
     character: "RX-0[N] バンシィ・ノルン（マリーダ・クルス搭乗機）用 アームド・アーマーVN/BS",
@@ -21138,8 +21138,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-g-self-perfect-pack-gb-limited-movie-ver",
     addedAt: "2026-07-29",
-    name: "HG 1/144 G-セルフ（パーフェクトパック装備型）〔劇場版 Gのレコンギスタ Ver.〕ガンダムベース限定",
-    nameJa: "HG 1/144 G-セルフ（パーフェクトパック装備型）〔劇場版 Gのレコンギスタ Ver.〕",
+    name: "HG 1/144 ガンダムベース限定 G-セルフ（パーフェクトパック装備型）〔劇場版 Gのレコンギスタ Ver.〕",
+    nameJa: "HG 1/144 ガンダムベース限定 G-セルフ（パーフェクトパック装備型）〔劇場版 Gのレコンギスタ Ver.〕",
     series: "ガンダム Gのレコンギスタ (Gundam Reconguista in G)",
     character: "G-Self（G-セルフ）パーフェクトパック装備型",
     manufacturer: "BANDAI SPIRITS",
@@ -22037,7 +22037,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-base-ms-cage",
     addedAt: "2026-07-29",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED MS CAGE",
+    name: "MG 1/100 ガンダムベース限定 MS CAGE",
     nameJa: "MG 1/100 ガンダムベース限定 MS CAGE",
     series: "機動戦士ガンダムUC（Mobile Suit Gundam UC）",
     character: "MS CAGE（附班上・雅面具・瑪莉妲・卡帝亞斯 1/100人物模型）",
@@ -22061,7 +22061,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "mg-gundam-f90-clear-color",
     addedAt: "2026-07-29",
-    name: "MG 1/100 THE GUNDAM BASE LIMITED ガンダムF90［クリアカラー］",
+    name: "MG 1/100 ガンダムベース限定 ガンダムF90［クリアカラー］",
     nameJa: "MG 1/100 ガンダムベース限定 ガンダムF90［クリアカラー］",
     series: "機動戦士ガンダムF90（Formula91企劃）",
     character: "ガンダムF90［クリアカラー版］",
@@ -22086,7 +22086,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "re100-gundam-mk3-unit8",
     addedAt: "2026-07-29",
-    name: "RE/100 1/100 GUNDAM Mk-III UNIT8",
+    name: "RE/100 1/100 ガンダムMk-III 8号機",
     nameJa: "RE/100 1/100 ガンダムMk-III 8号機",
     series: "機動戦士Zガンダム外伝『アナハイム・ラボラトリー・ログ』",
     character: "MSF-007-8 ガンダムMk-III 8号機（クワトロ・バジーナ用機）",
@@ -22307,7 +22307,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "hguc-zaku2-21st-real-type",
     addedAt: "2026-07-30",
-    name: "HG 1/144 THE GUNDAM BASE LIMITED ザクII（21stCENTURY REAL TYPE Ver.）",
+    name: "HG 1/144 ガンダムベース限定 ザクII（21stCENTURY REAL TYPE Ver.）",
     nameJa: "HG 1/144 ガンダムベース限定 ザクII（21stCENTURY REAL TYPE Ver.）",
     series: "機動戦士ガンダム（Mobile Suit Gundam）",
     character: "MS-06 ザクII（量産型）",
@@ -25723,7 +25723,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "moderoid-voltron-lion-force",
     addedAt: "2026-08-06",
-    name: "MODEROID Voltron",
+    name: "MODEROID ボルトロン",
     nameJa: "MODEROID ボルトロン",
     series: "Voltron: Defender of the Universe（百獣王ゴライオン 海外版）",
     character: "Voltron（Lion Force）",
