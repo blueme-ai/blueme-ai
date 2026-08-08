@@ -8671,7 +8671,7 @@ export const collection: CollectibleItem[] = [
     character: "Aile Strike Gundam（GAT-X105）Ver.RM",
     manufacturer: "BANDAI SPIRITS",
     scale: "MG 1/100",
-    price: "¥4,200",
+    price: "¥4,620（含稅）",
     releaseDate: "2013年05月25日",
     officialUrl: "https://bandai-hobby.net/item/01_5808/",
     imageUrl: "/images/mg-aile-strike-verrm.jpg",
