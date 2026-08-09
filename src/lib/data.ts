@@ -28503,7 +28503,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/6スケール（全高約27cm）",
     price: "人民幣199元",
     releaseDate: "2023年第4季",
-    officialUrl: "https://www.smzdm.com/p/84215805/",
+    officialUrl: "https://www.goodsmile.com/zh/product/12364/侍酒女郎　辛西婭",
     imageUrl: "/images/animester-cynthia-wine-waiter.jpg",
     tags: ["辛西娅", "Cynthia", "SHINY Series", "Animester", "大漫匠", "オリジナルキャラクター", "追視眼"],
     description: "大漫匠Animester SHINY系列角色「侍酒女郎 辛西娅」立體化，以酒吧侍酒女郎為主題，蕾絲禮服搭配託盤與酒杯的姿態重現迎賓招呼的瞬間。具備品牌招牌的追視眼技術，從各角度觀看都能感受到角色的視線互動，首發特典附贈限定紅色眼鏡配件，材質為PVC/ABS。",
