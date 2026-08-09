@@ -28237,6 +28237,28 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gsc-saber-lily-avalon.jpg",
     tags: ["セイバー・リリィ", "Fate/stay night", "Good Smile Company", "GSC", "河原隆幸"],
     description: "《Fate/stay night》漫畫版《劇場版 Unlimited Blade Works》原作插畫家武内崇筆下、以純白騎士王形象重新詮釋的「セイバー・リリィ」。本商品重現角色使出寶具「全て遠き理想郷（アヴァロン）」時揮劍斬擊的躍動瞬間，可替換裝備誓約勝利之劍「エクスカリバー」呈現另一種戰鬥姿態。由雕形師河原隆幸操刀，飄動的白色禮裝與髮絲細節皆展現高水準雕工，是Good Smile Company長年熱賣、多次再販的代表商品之一。",
+    reviews: [
+      { title: "【レビュー】 グッドスマイルカンパニー セイバー・リリィ 〜全て遠き理想郷(アヴァロン)〜", url: "https://shishioh.info/GOOD%20SMILE%20COMPANY-Saber%20Lily.php", lang: "ja" },
+      { title: "セイバー・リリィ -全て遠き理想郷(アヴァロン)- レビュー | TASTE", url: "https://taste-toy.info/post-177674/", lang: "ja" },
+      { title: "【レビュー】 セイバー・リリィ ～全て遠き理想郷(アヴァロン)～ | フィギュア レビューサイト NT-Studio", url: "http://www.nt-studio.info/gallery/1309/", lang: "ja" },
+    ],
+    youtube: [],
+  },
+  {
+    id: "gsc-saber-lily-caliburn",
+    addedAt: "2026-08-09",
+    name: "セイバー・リリィ ～勝利すべき黄金の剣（カリバーン）～",
+    nameJa: "セイバー・リリィ ～勝利すべき黄金の剣（カリバーン）～",
+    series: "Fate/unlimited codes",
+    character: "セイバー・リリィ",
+    manufacturer: "Good Smile Company",
+    scale: "1/7スケール（全高約230mm）",
+    price: "¥9,429（含稅）",
+    releaseDate: "2013年4月（グッドスマイルカンパニー10周年感謝企画）",
+    officialUrl: "https://www.goodsmile.info/ja/product/3614/",
+    imageUrl: "/images/gsc-saber-lily-caliburn.jpg",
+    tags: ["セイバー・リリィ", "Fate/unlimited codes", "Good Smile Company", "GSC", "河原隆幸", "カリバーン"],
+    description: "以《Fate/unlimited codes》為原型的「セイバー・リリィ」立體化，脫去厚重鎧甲、面帶微笑揮舞聖劍「カリバーン」的躍動英姿，劍鞘部分施以精緻裝飾雕刻，展現騎士姬意外柔美的體態。本商品為Good Smile Company十週年感謝企畫商品，由雕形師河原隆幸操刀，附贈カリバーン、劍鞘與展示台座。",
     reviews: [],
     youtube: [],
   },
@@ -28274,7 +28296,9 @@ export const collection: CollectibleItem[] = [
     tags: ["眼鏡娘", "ふじ子", "Uya", "オリジナルキャラクター"],
     description: "人氣插畫家ふじ子原創插畫「体育の授業を受けたくない眼鏡娘」立體化，以外表樸素卻內搭鮮豔內衣的反差魅力為賣點，重現角色抱胸躊躇的體育課前一幕。材質為PVC/ABS，附專用展示台座。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【美少女フィギュア】Uya「体育の授業を受けたくない眼鏡娘 illustration by ふじ子」【開封フィギュアレビュー】", url: "https://www.youtube.com/watch?v=ToN0z8ZswA0", lang: "ja" },
+    ],
   },
   {
     id: "sikianim-mizu-no-seijo",
@@ -28292,7 +28316,9 @@ export const collection: CollectibleItem[] = [
     tags: ["水の聖女", "COCOball", "SIKI ANIM", "オリジナルキャラクター", "特典版"],
     description: "人氣插畫家COCOball原創角色「水の聖女」立體化，以櫻花與流水為意象、身著和風薄紗禮裝的巫女形象呈現。特典版附贈專用展示台座與450mm×280mm尺寸的掛布タペストリー，材質為PVC/ABS。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【美少女フィギュア】SIKI ANIM「水の聖女」【開封フィギュアレビュー】", url: "https://www.youtube.com/watch?v=L23294DWEPw", lang: "ja" },
+    ],
   },
   {
     id: "modelway-lily-atdan",
@@ -28309,7 +28335,9 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/modelway-lily-atdan.jpg",
     tags: ["リリー", "ATDAN", "Model Way", "オリジナルキャラクター"],
     description: "人氣插畫家ATDAN原創角色「リリー」立體化，展現大膽服裝下若隱若現的豐滿身材，並附贈與角色互動的小貓配件，是Model Way企劃製作的1/6比例完成品。材質為PVC/ABS，附專用展示台座。",
-    reviews: [],
+    reviews: [
+      { title: "【フィギュア撮影】リリー illustration by ATDAN 1/6 スケールフィギュア[Model Way]", url: "https://epoch23.seesaa.net/article/517709163.html", lang: "ja" },
+    ],
     youtube: [],
   },
 ]
