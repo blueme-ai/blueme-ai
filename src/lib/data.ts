@@ -28595,7 +28595,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/7スケール（全高約262mm）",
     price: "景品（業者參考進貨價）",
     releaseDate: "2025年6月19日",
-    officialUrl: "https://jungle-scs-jpsale.jp/products/detail/593013",
+    officialUrl: "https://www.dcoco.co.jp/products/prize_albedo",
     imageUrl: "/images/elcoco-overlord-albedo.jpg",
     tags: ["オーバーロード", "アルベド", "エルココ", "Design COCO", "景品", "メイド服"],
     description: "アルベド身為納薩力克守護者統帥，對主人飛鼠（安茲・烏爾・恭）懷抱狂熱而扭曲的愛慕之情，是《オーバーロード》人氣最高的角色之一。エルココ以蜘蛛網與滿天星斗為背景意象，將角色重新詮釋為白色女僕裝造型，招牌黑色羊角與及腰長髮隨動作飄逸展開，胸口骷髏頭裝飾點綴出暗黑又不失俏皮的個性，網紋絲襪與吊襪帶細節同樣講究，是該廠牌旗下人氣角色景品系列的代表作之一。",
