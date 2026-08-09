@@ -28461,7 +28461,10 @@ export const collection: CollectibleItem[] = [
     tags: ["凱茜", "Wrestler Casey", "Animester", "大漫匠", "オリジナルキャラクター", "猫耳"],
     description: "大漫匠Animester原創角色「綿綿喵摔跤手 凱茜」立體化，以貓耳摔角手為主題，粉色捲髮搭配運動風緊身戰袍呈現角色活潑俏皮的一面。首發特典附贈可替換追視眼零件與毛絨材質尾巴配件，可自由擺出多種俏皮姿態，材質為PVC/ABS並附專用展示台座。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "1/6 Wrestler Casey Figure: Is Animester's Quality DECLINING?", url: "https://www.youtube.com/watch?v=VrR-nSbSPlY", lang: "en" },
+      { title: "NyanNyan Girl Wrestler Casey", url: "https://www.youtube.com/shorts/0I_I4oRUMVQ", lang: "en" },
+    ],
   },
   {
     id: "hapitopi-yokushitsu-imouto",
@@ -28479,6 +28482,8 @@ export const collection: CollectibleItem[] = [
     tags: ["浴室妹妹", "hitomio拾六", "Hapitopi", "オリジナルキャラクター", "追視眼", "温感塗装"],
     description: "人氣插畫家hitomio拾六原創角色「浴室妹妹」立體化，描繪假日早晨開啟浴室門、意外撞見妹妹沐浴後尷尬瞬間的曖昧情境。採用3D水晶追視眼可替換臉部零件，胸口部位施以溫感變色塗裝，加溫後衣物會呈現半透明效果，是Hapitopi品牌主打精緻機關工藝的代表作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "不專業開箱！可以期待嘅新廠！│Hapitopi 浴室妹妹 追視眼&溫感漆 hitomio拾六原畫", url: "https://www.youtube.com/watch?v=IL9Es6Ts4UE", lang: "zh" },
+    ],
   },
 ]
