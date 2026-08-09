@@ -28278,7 +28278,10 @@ export const collection: CollectibleItem[] = [
     tags: ["冬山あさこ", "家庭教師", "Tutor", "BearPanda", "くせ"],
     description: "插畫家くせ筆下原創角色「冬山あさこ」的1/6比例完成品，以「家庭教師」為主題呈現角色居家教學情境的性感形象。特典附贈兩款可替換臉部零件（含羞低眉版與眼罩版）及背景掛布タペストリー，材質為PVC/ABS，附專用展示台座。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【フィギュア】No.102 美少女フィギュア　家庭教師　冬山あさこ　Bear Panda", url: "https://www.youtube.com/watch?v=xHlmQC4XsTA", lang: "ja" },
+      { title: "【种草指南】BearPanda 冬山朝子 家庭教师", url: "https://www.bilibili.com/video/BV1HppazTEZ9/", lang: "zh" },
+    ],
   },
   {
     id: "uya-taiiku-jugyou-megane-musume",
