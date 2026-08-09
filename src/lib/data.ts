@@ -28259,7 +28259,10 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gsc-saber-lily-caliburn.jpg",
     tags: ["セイバー・リリィ", "Fate/unlimited codes", "Good Smile Company", "GSC", "河原隆幸", "カリバーン"],
     description: "以《Fate/unlimited codes》為原型的「セイバー・リリィ」立體化，脫去厚重鎧甲、面帶微笑揮舞聖劍「カリバーン」的躍動英姿，劍鞘部分施以精緻裝飾雕刻，展現騎士姬意外柔美的體態。本商品為Good Smile Company十週年感謝企畫商品，由雕形師河原隆幸操刀，附贈カリバーン、劍鞘與展示台座。",
-    reviews: [],
+    reviews: [
+      { title: "GSC 1/7セイバー・リリィ ～勝利すべき黄金の剣～ レビュー", url: "http://sokofig.blog.fc2.com/blog-entry-82.html", lang: "ja" },
+      { title: "セイバーリリィ～勝利すべき黄金の剣～", url: "http://siokazemarin.blog96.fc2.com/blog-entry-146.html", lang: "ja" },
+    ],
     youtube: [],
   },
   {
