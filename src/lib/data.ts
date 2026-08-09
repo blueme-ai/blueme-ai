@@ -28358,7 +28358,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【開箱】大漫匠 Animester 小惡魔 Lilith 追視眼 1/6", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=68304", lang: "zh" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "フィギュア：【大漫匠Animester】小悪魔リリス（簡易版動画）", url: "https://www.youtube.com/watch?v=kcBMWtJQm3o", lang: "ja" },
+    ],
   },
   {
     id: "kdcolle-asuna-undine-china-dress",
@@ -28377,7 +28379,9 @@ export const collection: CollectibleItem[] = [
     tags: ["アスナ", "ソードアート・オンライン", "KDcolle", "KADOKAWA", "Animester", "ウンディーネ"],
     description: "《ソードアート・オンライン》女主角「アスナ」以ALO精靈族「ウンディーネ」（水精靈）身分、身著紫色系旗袍禮服的姿態立體化。KADOKAWA新品牌KDcolle與中國原型廠Animester合作企劃，禮服身形線條經細膩雕琢，金色滾邊裝飾營造高貴氣質，腰間毛草配件可自由拆卸更換不同展示風格，是KDcolle系列中以高完成度、親民價格取勝的代表商品之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "『ソードアート・オンライン』💙 アスナ ウンディーネ チャイナドレスver. 1/7 完成品フィギュア", url: "https://www.youtube.com/watch?v=A5LBT8yd0Fc", lang: "ja" },
+    ],
   },
   {
     id: "sheisreal-hitomio-guitar-sister",
@@ -28433,7 +28437,9 @@ export const collection: CollectibleItem[] = [
     tags: ["地雷ちゃん", "地雷系女子", "DIGIGIRL", "オリジナルキャラクター", "Jirai Chan"],
     description: "DIGIGIRL品牌「Beauty collection」特集地雷系女子系列第一彈「地雷ちゃん」立體化，以雙馬尾、暗黑甜美穿搭詮釋日系「地雷系」次文化審美。臀部部位採體溫感應變色塗裝，加溫後會泛紅；臉部與裙裝零件可自由拆換，並附贈會於紫外線照射下發光的替換眼神零件，玩法豐富多變，是DIGIGIRL主打限定機關設計的代表商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "オリジナルキャラクター 地雷ちゃん DIGIGIRL 1/6スケール PVC、ABS 塗装済完成品フィギュア", url: "https://www.youtube.com/watch?v=wiNeCsIrZVQ", lang: "ja" },
+    ],
   },
   {
     id: "animester-wrestler-casey",
