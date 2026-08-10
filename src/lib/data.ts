@@ -30538,4 +30538,31 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [],
   },
+  {
+    id: "binding-caroline-yuri-bunny",
+    addedAt: "2026-08-10",
+    name: "BINDing クリエイターズ オピニオン キャロライン・ユリ バニーVer.",
+    nameJa: "BINDing クリエイターズ オピニオン キャロライン・ユリ バニーVer.",
+    series: "オリジナル（原案：sakiyamama）",
+    character: "キャロライン・ユリ（Caroline Yuri）",
+    manufacturer: "BINDing（native）",
+    scale: "1/4",
+    price: "¥30,800（含稅）",
+    releaseDate: "2021年4月",
+    height: "約350mm",
+    officialUrl: "https://www.native-web.jp/creators/4984/",
+    imageUrl: "/images/binding-caroline-yuri-bunny.jpg",
+    tags: ["BINDing", "native", "sakiyamama", "オリジナルキャラクター", "キャロライン・ユリ", "兔女郎", "1/4", "美少女フィギュア"],
+    description: "「キャロライン・ユリ」是BINDing旗下「クリエイターズ オピニオン」企劃邀請人氣插畫家sakiyamama繪製的原創兔女郎主題角色，以華麗性感的兔女郎造型與精緻五官設計展現該系列一貫的高完成度風格。本商品為1/4大比例完成品，網紋褲襪部位採用真實布料材質包覆呈現細膩質感，並附鏡面展示台座強化展示效果，全高約350mm，存在感十足。作為BINDing原創角色兔女郎系列的代表作之一，本作充分展現廠牌在原創美少女角色雕塑與塗裝工藝上的高水準，是喜愛原創角色與大比例兔女郎主題手辦收藏者矚目的重點商品。",
+    reviews: [
+      {
+        title: "BINDing「キャロライン・ユリ バニーVer.」フィギュアレビュー",
+        url: "https://fig-memo.com/figurereview/45401/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      { title: "【フィギュア】BINDing キャロライン・ユリ バニーVer.【開封動画】", url: "https://www.youtube.com/watch?v=xyNrRzGW5Tg", lang: "ja" },
+    ],
+  },
 ]
