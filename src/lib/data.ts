@@ -1117,7 +1117,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年7月",
     officialUrl: "https://tamashiiweb.com/item/14813/",
     imageUrl: "/images/dx-chogokin-vt1-super-ostrich.jpg",
-    tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《超時空要塞Macross》的世界觀不僅描繪星際戰爭，也細膩呈現統合軍體系下各式各樣的支援與非戰鬥用途機體，展現出這個系列在硬派科幻戰爭之外，同樣重視日常與生活感描寫的獨特魅力。VT-1「Super Ostrich」正是這類設定下的產物——作為VF-1的民間或訓練用改裝版本，其外觀捨棄了VF-1慣有的銳利戰鬥線條，轉而呈現較為圓潤敦厚的造型語言，機體塗裝與細節設計也更貼近民生用途機具的風格，是Macross世界觀中最具生活感與親和力的機體代表之一，在系列眾多以戰鬥機為主的商品陣容中顯得格外特殊。此為TAMASHII魂ウェブ商店限定的DX CHOGOKIN完成品，延續系列標誌性的金屬壓鑄骨架設計與多型態變形機構，精細重現VT-1有別於軍用機的獨特外型與塗裝細節，對於收藏Macross周邊、追求機體多樣性的玩家而言，是補完VF-1家族衍生譜系不可或缺的一件，也因限定通路而具備一定的收藏價值。",
     reviews: [
       {
@@ -1159,7 +1159,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14740/",
     imageUrl: "/images/dx-chogokin-yf21-guld.jpg",
-    tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《Macross Plus》（1994）是河森正治原案、菱田正和監督的OVA作品，以兩台次世代可變戰機競標試作機的對決為核心敘事，搭配電影級作畫水準與菅野洋子的音樂，在Macross系列中享有極高評價。YF-21由天才卻性格叛逆的試驗飛行員Guld Goa Bowman駕駛，機體最大特色是採用無操縱桿、直接讀取駕駛員腦波下達指令的BCS（Brain Computer System）腦波控制系統，搭配大型三角翼與前置鴨翼構成的未來感造型，與競爭對手機YF-19走的正統戰機路線形成鮮明對比，也埋下劇中人機合一失控危機的重要伏筆。此為TAMASHII NATIONS推出的DX CHOGOKIN版本，以現代DX規格的金屬壓鑄骨架與精密機構，重新演繹這架誕生於90年代的傳奇試作機，支援Fighter、GERWALK、Battroid三型態完全自由切換，變形流暢度與細節精度均達到現行DX CHOGOKIN系列的頂尖水準，是Macross Plus粉絲與可變機模型收藏者共同矚目的重點商品。",
     reviews: [
       {
@@ -1533,7 +1533,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年",
     officialUrl: "https://tamashiiweb.com/item/15495/",
     imageUrl: "/images/dx-chogokin-vf17s-nightmare-stealth.jpg",
-    tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《Macross 7》是1994年播出的Macross系列第三部電視動畫，以搖滾樂手主角熱気バサラ用歌聲對抗敵人的獨特設定聞名，風格熱血奔放，是系列中辨識度極高的一部支線作品。木崎ガムリン（Gamlin Kizaki）是劇中「Diamond Force」小隊隊長，性格剛毅嚴謹，與奔放不羈的主角形成鮮明對比，是全劇軍事路線的代表角色之一，其座機VF-17S夢魘隱形女武神也體現了這種硬派軍規風格。VF-17系列在Macross可變機譜系中主打隱形（ステルス）設計理念，強調匿蹤性與低可視度作戰，外型上捨棄了VF-1、VF-25等系列慣用的亮眼線條，轉而採用稜角分明、低調暗色的隱身戰機造型，與其他Macross機體相比獨樹一格。此為Bandai DX CHOGOKIN系列首度推出的Macross 7機體，延續系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，對長年期待Macross 7周邊商品化的粉絲而言，是備受矚目的重要新作。",
     reviews: [
       {
@@ -1903,7 +1903,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/14876/",
     imageUrl: "/images/dx-chogokin-vf31j-supersiegfried-hayate-revival.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《マクロスΔ》為2016年播出的電視動畫，故事描述偶像團體Walküre以歌聲淨化並對抗名為Var症候群的異常現象，並描寫Delta小隊（Chaos部隊）與溫達米亞王國之間的軍事衝突。隼・因梅爾曼是電視版主角，個性豪爽衝動，其座機VF-31J齊格菲於劇中後段加裝Super Pack強化為「スーパージークフリード」形態，換上大型戰略轟炸增裝背包與追加武裝，機體份量感與砲擊火力大幅提升，是隼參與決戰時的招牌形態。本品為DX超合金依現行系列規格重新開版的REVIVAL版本，相較多年前發售的舊版模具，關節結構、可動範圍與塗裝精緻度均有顯著提升，並改善舊版容易鬆動、掉漆等常見問題，三段變形機構（戰鬥機／過渡／人形態）也更為順暢緊實、組裝手感更佳。對於長年收藏VF-31系列、體驗過新舊版本差異的玩家而言，REVIVAL版本可謂以現代標準重新詮釋這部經典機體的代表作，讓新舊玩家皆能以更理想的品質體驗隼機招牌強化形態的魅力。",
     reviews: [
       {
@@ -1943,7 +1943,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/15103/",
     imageUrl: "/images/dx-chogokin-sv262hs-draken3.jpg",
-    tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《劇場版 マクロスΔ／Passionate Walküre》中，溫達米亞王國麾下的「皇家騎士團」是反派陣營的精銳戰鬥部隊，成員多為擁有特殊歌聲能力、對抗Walküre的敵對歌姬與王牌駕駛員。其座機Sv-262Hs德拉肯III在設計上刻意迴避VF系列常見的人形機器人輪廓，改採猛禽般的異形頭部與流線機身，僅具備類似Gerwalk的過渡形態，展現與地球統合軍VF系列截然不同的技術脈絡與美學語彙，是Macross系列少見的非人形變形機體。博格・康法特為皇家騎士團一員，座機即為此型號。DX超合金版本以深紅與金色為主色調，重現騎士團華麗而具侵略性的歐式紋章塗裝，機身線條銳利，可動性與變形機構在異型機體中仍維持一定水準，能重現獨特的滑翔攻擊姿態。此機作為Delta系列反派陣營代表機體之一，與Walküre護衛隊VF-31系列形成強烈對比，是完整收藏整個Delta系列雙陣營機體不可或缺的一件，也是展示櫃中最能凸顯Delta系列敵我機體設計差異的組合之一。",
     reviews: [
       {
@@ -1988,7 +1988,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15635/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
-    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《マクロスΔ》於2016年首播，講述偶像團體Walküre以歌聲對抗名為Var症候群的異常現象，並描寫Delta小隊與溫達米亞王國之間長達一整季的衝突與成長故事。VF-31凱洛斯是Delta小隊的量產配備機型，供非個人識別的一般隊員駕駛，機體性能與主角機同源，但塗裝與武裝配置較為簡樸實用。相較隼、美雷、博格等隊員專屬的客製識別塗裝機，凱洛斯以統一制式塗裝呈現部隊感與整齊劃一的軍事美學。本品為紀念《マクロスΔ》十週年推出的DX超合金VF-31A凱洛斯，是VF-31A首度以一般制式配色形式發售的版本——過去該系列多以主要角色的個人識別塗裝推出商品，此次改以量產支援機定位補完商品線，對於希望完整重現Delta小隊編制陣容、而非僅收藏主角機的收藏者而言別具意義。機體仍完整搭載三段變形機構，可動性與細節分色皆維持DX超合金系列一貫水準，是十週年紀念企劃中相當特別的一件商品，也讓玩家得以用制式量產機視角重新欣賞這部作品的世界觀。",
     reviews: [
       { title: "DX超合金 VF-31A カイロス マクロスΔ10th Anniv. レビュー", url: "https://www.amiami.jp/top/detail/review?gcode=FIGURE-193945", lang: "ja" },
@@ -3396,24 +3396,6 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/volks-dress-altria-gym.jpg",
     tags: ["Fate/Grand Order", "FGO", "アルトリア・ペンドラゴン", "セイバー", "Dollfie Dream", "衣装セット", "Volks", "体操服"],
     description: "本品為Volks旗下Dollfie Dream（DD/DDS）系列推出的セイバー／アルトリア・ペンドラゴン專屬衣裝套組之一，隨「サンタオルタ」聖誕限定人偶企劃同期推出，以日本校園經典的體操服造型呈現騎士王少見的日常學生風貌，內容含運動服上衣、燈籠褲（ブルマ）、襪子與室內鞋，套件對應DDS（SS/S/M/L/B）與DD（SS/S/M/L）多種身形規格。將平時手持聖劍、身披鎧甲的騎士王轉換為青春洋溢的體育課造型，反差魅力十足，是玩家為手邊アルトリア人偶增添日常主題展示變化的熱門選擇，也是FGO與Dollfie Dream聯名企劃中價格親民、CP值高的衣裝配件代表作。",
-    reviews: [],
-    youtube: [],
-  },
-  {
-    id: "volks-dress-altria-swimsuit",
-    addedAt: "2026-08-10",
-    name: "DDドレス／セイバー・アルトリア 水着セット",
-    nameJa: "DDドレス／セイバー・アルトリア 水着セット",
-    series: "Fate/Grand Order",
-    character: "セイバー／アルトリア・ペンドラゴン",
-    manufacturer: "Volks（ボークス）",
-    scale: "DD/DDS用衣装セット（M/L対応）",
-    price: "¥2,800（未稅）",
-    releaseDate: "2016年12月～2017年1月",
-    officialUrl: "https://dollfie.volks.co.jp/dd/special/fate-go/2016/drs_rider_altria_sa.html",
-    imageUrl: "/images/volks-dress-altria-swimsuit.jpg",
-    tags: ["Fate/Grand Order", "FGO", "アルトリア・ペンドラゴン", "セイバー", "Dollfie Dream", "衣装セット", "Volks", "水着"],
-    description: "本品為Volks旗下Dollfie Dream（DD/DDS）系列推出的セイバー／アルトリア・ペンドラゴン專屬衣裝套組之一，隨「サンタオルタ」聖誕限定人偶企劃同期推出，內容僅含泳裝本體與臂環兩項配件，價格親民、屬於輕量化的季節主題單品，讓玩家能以最低成本為手邊アルトリア人偶增添夏日海灘風格的展示變化。套件對應DDS（M/L）與DD（M/L）身形規格，與同系列的聖誕裝、體操服套組並列同期推出的三款衣裝企劃之一，是FGO與Dollfie Dream聯名周邊中規模最精簡、也最容易入手的配件商品。",
     reviews: [],
     youtube: [],
   },
@@ -24475,7 +24457,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12988/",
     imageUrl: "/images/dx-chogokin-vf1-strike-super-parts-movie.jpg",
     manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102580603.pdf",
-    tags: ["マクロス", "VF-1", "DX超合金", "ストライクパーツ", "スーパーパーツ", "愛・おぼえていますか", "DYRL", "TAMASHII NATIONS", "魂ウェブ商店限定", "macross0008"],
+    tags: ["マクロス", "VF-1", "DX超合金", "ストライクパーツ", "スーパーパーツ", "愛・おぼえていますか", "DYRL", "TAMASHII NATIONS", "魂ウェブ商店限定", "MACROSS0008"],
     description: "《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984劇場版）是原作電視版故事的劇場重製版本，以更精緻的作畫與嶄新的機體設計重新演繹一条輝、早瀬未沙、林明美之間的三角關係及對抗ゼントラーディ軍的戰爭，VF-1バルキリー是劇中統合軍主力可變戦機，具備戦鬥機・GERWALK・人型三段變形機構，是《マクロス》系列最具代表性的機體象徵。本商品為TAMASHII NATIONS「DX超合金 劇場版VF-1」系列專用的強化擴充配件組，魂ウェブ商店限定販售，2019年12月16日發售，收錄可安裝於劇場版VF-1本體的「ストライクパーツ」與「スーパーパーツ」兩種強化裝備，包含背部主噴射增速器、腿部推進槽、臂部微型導彈艙及對應武裝配件，安裝後可將標準版VF-1升格為劇場版中最廣為人知的超全武裝形態。作為DX超合金劇場版VF-1系列的重要周邊配件，本商品是完整重現DYRL劇場版標誌性視覺印象、補完該系列收藏層次不可或缺的擴充商品。",
     reviews: [
       { title: "【レビュー】DX超合金 劇場版VF-1対応ストライク／スーパーパーツセット", url: "https://shishioh.info/DX_Chogokin_STRIKE_SUPER_PARTS_SET_1.php", lang: "ja" },
@@ -25965,7 +25947,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14330/",
     imageUrl: "/images/hi-metal-r-vf0d-phoenix-kudo-shin.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000014330_UDPHippR_300.pdf",
-    tags: ["マクロスゼロ", "HI-METAL R", "VF-0D", "フェニックス", "工藤シン", "BANDAI SPIRITS", "macross0008"],
+    tags: ["マクロスゼロ", "HI-METAL R", "VF-0D", "フェニックス", "工藤シン", "BANDAI SPIRITS", "MACROSS0008"],
     description: "《超時空要塞ZERO》主角工藤シン駕駛的「VF-0Dフェニックス」是VF-0系列中少見的複座教官機型號，機首搭載雙人座艙、機翼採用D型專屬的裁切三角翼設計，是VF-0陣容中辨識度極高的訓練／指揮機型。本商品為「HI-METAL R」系列可變形玩具，2023年8月11日發售，D型特有的頭部造型、複座艙與クリップドデルタ翼皆為全新開模重現，戰機、GERWALK、機人三型態完全變形機構一應俱全，是マクロスゼロ收藏線中補完VF-0系列陣容的重點商品。",
     reviews: [],
     youtube: [
@@ -29325,20 +29307,20 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
-    id: "tf-mp1-convoy",
+    id: "tf-mp1l-convoy-final",
     addedAt: "2026-08-10",
-    name: "トランスフォーマー マスターピース MP-1 サイバトロン総司令官コンボイ",
-    nameJa: "トランスフォーマー マスターピース MP-1 サイバトロン総司令官コンボイ",
+    name: "トランスフォーマー マスターピース MP-1L コンボイ 最終生産",
+    nameJa: "トランスフォーマー マスターピース MP-1L コンボイ 最終生産",
     series: "トランスフォーマー（Transformers）",
     character: "コンボイ／オプティマスプライム（Convoy/Optimus Prime）",
     manufacturer: "タカラトミー（Takara Tomy）",
     scale: "マスターピース（Masterpiece）",
-    price: "¥10,500",
-    releaseDate: "2003年12月",
-    officialUrl: "https://tf.takaratomy.co.jp/products-lineup/tf_mp/mp-01",
-    imageUrl: "/images/tf-mp1-convoy.jpg",
-    tags: ["タカラトミー", "Takara Tomy", "トランスフォーマー", "Transformers", "マスターピース", "Masterpiece", "コンボイ", "Optimus Prime", "MP-01"],
-    description: "《トランスフォーマー》是1984年由TAKARA（現タカラトミー）與美國Hasbro共同推出的變形機器人玩具系列，以「可自由變形的機器人」為核心概念風靡全球，衍生出動畫、漫畫、電影等龐大跨媒體企劃，是機器人玩具史上最具代表性的經典IP之一。コンボイ（美版名Optimus Prime）身為博派（Cybertron）最高指揮官，忠誠正直、身先士卒守護和平，是系列中人氣最高、辨識度也最高的招牌角色，其變形為卡車拖車頭的經典造型深植人心。本品為「マスターピース」系列首發第一號商品MP-1，作為系列20週年紀念企劃第一彈，以當代最新技術重新詮釋初代動畫版コンボイ的經典造型，講究比例還原度與變形機構的合理性，兼顧玩具把玩樂趣與動畫設定準確度，是「マスターピース」這個至今仍持續推出新作的長壽高端系列的原點與奠基之作，深具紀念意義與收藏價值。",
+    price: "¥11,000",
+    releaseDate: "2011年3月26日",
+    officialUrl: "https://tf.takaratomy.co.jp/products-lineup/tf_archive_cat/tf_mp/mp-01l",
+    imageUrl: "/images/tf-mp1l-convoy-final.jpg",
+    tags: ["タカラトミー", "Takara Tomy", "トランスフォーマー", "Transformers", "マスターピース", "Masterpiece", "コンボイ", "Optimus Prime", "MP-01L", "最終生産"],
+    description: "《トランスフォーマー》是1984年由TAKARA（現タカラトミー）與美國Hasbro共同推出的變形機器人玩具系列，以「可自由變形的機器人」為核心概念風靡全球，是機器人玩具史上最具代表性的經典IP之一。コンボイ（美版名Optimus Prime）身為博派（Cybertron）最高指揮官，忠誠正直、身先士卒守護和平，是系列中人氣最高、辨識度也最高的招牌角色，其變形為卡車拖車頭的經典造型深植人心。本品為「マスターピース」系列首發第一號商品MP-1的「最終生産」版本，2011年3月26日發售，以當代技術重新調校2003年初版模具與細節，並標配全新的「サウンドステージ」配件——按下開關可播放由原版日語配音員玄田哲章重新錄製的台詞，是紀念MP-1停產絕版前的特別復刻版本，深具紀念意義與收藏價值。",
     reviews: [
       {
         title: "マスターピースMP-1 コンボイ レビュー",
@@ -29827,7 +29809,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年12月1日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=954&grp_id=5312",
     imageUrl: "/images/dx-chogokin-vf25s-messiah-ozma-ge43.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25S", "メサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "macross0008"],
+    tags: ["マクロス", "マクロスF", "VF-25S", "メサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "MACROSS0008"],
     description: "《マクロスF》是Macross系列自2008年推出的電視動畫作品，延續系列「歌聲改變戰局」的獨特世界觀，將偶像文化與變形機甲戰鬥揉合成獨樹一格的科幻歌唱作品。オズマ・リー是SMS部隊Skull小隊隊長，個性沉穩可靠、身經百戰，其座機VF-25S以隊長機規格搭載較高規格的機動性能。本商品為BANDAI「DX超合金」系列GE-43號機，作為劇集播出當期同步推出的初代商品，忠實重現主角機系列標誌性的Fighter、GERWALK、Battroid三型態完全變形機構，機身骷髏小隊標誌與塗裝細節皆精細呈現，是マクロスF系列DX超合金商品化陣容中最早期的代表作之一，也是後續「アーマードメサイア」與「リニューアルVer.」等衍生版本的原點商品。",
     reviews: [],
     youtube: [],
