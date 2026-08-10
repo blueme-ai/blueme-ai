@@ -29959,7 +29959,7 @@ export const collection: CollectibleItem[] = [
     price: "非賣品（景品）",
     releaseDate: "2011年2月",
     height: "約180mm",
-    officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIG-MOE-03796-R",
+    officialUrl: "https://1kuji.com/products/ma-1st",
     imageUrl: "/images/ichibankuji-sheryl-orleans-b.jpg",
     tags: ["マクロスF", "シェリル・ノーム", "一番くじ", "バンプレスト", "でかきゅんキャラ", "オルレアン", "景品"],
     description: "《マクロスF》中シェリル・ノーム的「オルレアン」造型取材自角色軍裝風主題演出服裝，白色軍裝搭配金色飾邊，展現角色英氣挺拔的另一種魅力。本品為「一番くじプレミアム マクロスF～歌姫コレクション～ファーストステージ」的B賞景品，與同年稍晚推出的ファイナルステージC賞為同一造型的不同波次獎項，以Q版誇張比例「でかきゅんキャラ」造型重新詮釋オルレアン造型，全高約180mm並附ABS材質展示台座，是一番くじ收藏者成套蒐集不同波次獎項的熱門周邊之一。",
