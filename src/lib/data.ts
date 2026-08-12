@@ -32649,7 +32649,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_6781/",
     imageUrl: "/images/hg-white-gundam-gq.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/4028",
-    tags: ["機動戦士Gundam GQuuuuuuX", "HG", "Bandai", "白いガンダム", "RX-78-02"],
+    tags: ["機動戦士Gundam GQuuuuuuX", "HG", "Bandai", "白いガンダム", "RX-78-02", "BOX0008"],
     description: "《機動戦士Gundam GQuuuuuuX》是富野由悠季原案監修、電視動畫版《機動戦士ガンダム》平行世界觀的最新企劃作品，劇場版《-Beginning-》中登場的「白いガンダム」重現了地球聯邦軍試作機RX-78-02原本設定的白、藍、紅、黃四色配色樣貌——也就是後來被夏亞奪取、改造為紅色機體之前的原始塗裝樣貌，對長年鋼彈粉絲而言具有特殊的情懷意義。本商品為HG規格全新開模套件，2025年5月發售，忠實重現原案設定中頭部與軀幹的獨特配色細節，側頭部造型與後續紅色鋼彈版本有所差異，並收錄全新開模的「ハイパーバズーカ」重砲武裝。套件配備光束步槍、可掛載於手臂或背包的盾牌關節配件，以及可動式瞄準鏡與前握把設計，展現HGGQ系列一貫的高完成度可動關節工藝。作為GQuuuuuuX系列鋼普拉陣容中極具話題性與情懷價值的一款作品，本作讓玩家得以一窺鋼彈神話原點的純白樣貌，是該系列收藏者矚目的重點新作。",
     reviews: [
       { title: "HG 白いガンダム レビュー", url: "https://schizophonic9.com/re9/hg_whitegundam.html", lang: "ja" },
@@ -32672,7 +32672,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://bandai-hobby.net/item/01_6782/",
     imageUrl: "/images/hg-char-zaku-gq.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/4029",
-    tags: ["機動戦士Gundam GQuuuuuuX", "HG", "Bandai", "シャア専用ザク", "MS-06S"],
+    tags: ["機動戦士Gundam GQuuuuuuX", "HG", "Bandai", "シャア専用ザク", "MS-06S", "BOX0008"],
     description: "《機動戦士Gundam GQuuuuuuX》世界觀中，「シャア専用ザク(GQ)」是本企劃全新詮釋的薩克II設計，延續夏亞座機一貫的招牌紅色塗裝與三倍速度傳說，同時融入了GQuuuuuuX獨有的機械設計美學語彙，與傳統HGUC版本呈現截然不同的視覺風格。本商品為HG規格全新開模套件，2025年12月6日發售，最大機構特色是可動式單眼與獨立可動肩部裝甲組件，讓玩家得以擺出更細膩的表情變化與更具張力的動態戰鬥姿勢。成型色以淡粉紅色為基調、軀幹與上臂及大腿部位配置紅色，即使不噴漆組裝也能達到接近原作設定的分色效果。套件配備全新設計的「ザク・バズーカ」與「ザク・マシンガン」、「ヒート・ホーク」等經典武裝，並附指揮官機專用頭盔遮陽板零件、左手平手及水貼紙，可自由切換一般兵與指揮官機兩種樣貌。作為GQuuuuuuX系列中與白いガンダム相互輝映的話題新作，是該企劃鋼普拉陣容中人氣與話題度皆相當出色的一款代表商品。",
     reviews: [
       { title: "HG シャア専用ザク（GQ） レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%B7%E3%83%A3%E3%82%A2%E5%B0%82%E7%94%A8%E3%82%B6%E3%82%AF%EF%BC%88gq%EF%BC%89", lang: "ja" },
@@ -32854,7 +32854,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年7月25日",
     officialUrl: "https://segaplaza.jp/prize/D122686/",
     imageUrl: "/images/ranma-luminasta-ranma.jpg",
-    tags: ["らんま1/2", "Luminasta", "SEGA", "早乙女乱馬（女）", "景品フィギュア", "BOX0008"],
+    tags: ["らんま1/2", "Luminasta", "SEGA", "早乙女乱馬（女）", "景品フィギュア"],
     description: "《らんま1/2》是高橋留美子創作的經典武術愛情喜劇漫畫，主角「早乙女乱馬」是自幼隨父親四處修行武術的少年，因意外落入呪泉郷而背負遇冷水即變身女性的體質，展開一連串爆笑又熱血的武術對決與感情糾葛故事，是日本漫畫史上長銷不衰的代表作之一。本商品重現的正是乱馬遇冷水後變身的女性型態，一身招牌紅色中國拳法服搭配俐落反手拳架勢，粉色長髮隨動作飄逸，與同系列推出的「シャンプー」共用紅色中式庭院造型底座與雲朵裝飾，可並排展示呼應原作劇情裡兩人多次交手的橋段。人偶動態感十足，展現女乱馬好勝爭強、隨時準備應戰的性格特質，臉部表情與髮型細節皆忠實呈現原作漫畫的角色神韻。作為景品公仔，本商品主要透過日本各地遊戲中心UFO夾娃娃機或線上夾娃娃平台取得，是らんま1/2動畫周邊收藏者相當喜愛的一款代表性新作。",
     reviews: [],
     youtube: [],
@@ -32891,7 +32891,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年2月5日",
     officialUrl: "https://bsp-prize.jp/item/2798229/",
     imageUrl: "/images/frieren-grandista.jpg",
-    tags: ["葬送のフリーレン", "Grandista", "バンプレスト", "フリーレン", "景品フィギュア", "BOX0008"],
+    tags: ["葬送のフリーレン", "Grandista", "バンプレスト", "フリーレン", "景品フィギュア"],
     description: "《葬送のフリーレン》是山田鐘人原作、アベツカサ作畫的奇幻漫畫，講述精靈魔法使「フリーレン」在勇者一行人擊敗魔王、迎來和平後，重新踏上旅程、逐漸理解「人類短暫一生」意義的故事，是近年話題度與口碑兼具的代表性作品。「Grandista」是BANDAI SPIRITS（バンプレスト）旗下以大尺寸、高完成度雕刻見長的景品公仔品牌，本商品配合動畫第二期播出時機推出，以作品極具代表性的關鍵視覺為藍本立體化，全高約26公分，充分展現「Grandista」一貫講究的分量感與細節雕工。人偶呈現フリーレン一貫的沉靜氣質與飄然立姿，髮絲漸層塗裝與金屬質感塗裝皆維持該系列高水準工藝，飄逸的斗篷與姿態營造出角色獨特的浮遊感氛圍。作為景品公仔，本商品主要透過日本各地遊戲中心UFO夾娃娃機或線上夾娃娃平台取得，是葬送のフリーレン周邊收藏者相當熱衷蒐集的一款代表性新作。",
     reviews: [
       { title: "葬送のフリーレン Grandista-FRIEREN- 開封レビュー", url: "https://torajirou-hobby.blog/2026/03/31/%E8%91%AC%E9%80%81%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3-grandista-frieren/", lang: "ja" },
