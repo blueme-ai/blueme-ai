@@ -24624,7 +24624,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-phoenix-ikki-2004",
     addedAt: "2026-07-31",
-    name: "聖闘士聖衣神話 フェニックス一輝",
+    name: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）",
     nameJa: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）",
     series: "聖闘士星矢",
     character: "フェニックス一輝（Phoenix Ikki）",
