@@ -32092,7 +32092,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "plamatea-angela-balzac",
     addedAt: "2026-08-12",
-    name: "PLAMATEA 安潔拉・巴爾扎克",
+    name: "PLAMATEA アンジェラ・バルザック",
     nameJa: "PLAMATEA 楽園追放 -Expelled from Paradise- アンジェラ・バルザック",
     series: "楽園追放 -Expelled from Paradise-（劇場動畫，2014）",
     character: "アンジェラ・バルザック",
@@ -32115,7 +32115,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "moderoid-new-arhan",
     addedAt: "2026-08-12",
-    name: "MODEROID 新亞爾漢（ニューアーハン）",
+    name: "MODEROID ニューアーハン",
     nameJa: "MODEROID 楽園追放 -Expelled from Paradise- ニューアーハン",
     series: "楽園追放 -Expelled from Paradise-（劇場動畫，2014）",
     character: "アンジェラ・バルザック",
@@ -32297,7 +32297,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "nendoroid-houshou-marine-ol",
     addedAt: "2026-08-12",
-    name: "ねんどろいど 宝鐘マリン OL衣裝Ver.",
+    name: "ねんどろいど 宝鐘マリン OL衣装Ver.",
     nameJa: "ねんどろいど ホロライブプロダクション 宝鐘マリン OL衣装Ver. #2725",
     series: "hololive",
     character: "宝鐘マリン",
@@ -32315,7 +32315,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "popup-parade-asuka-langley",
     addedAt: "2026-08-12",
-    name: "POP UP PARADE 亞絲卡・蘭格雷",
+    name: "POP UP PARADE アスカ・ラングレー",
     nameJa: "POP UP PARADE ヱヴァンゲリヲン新劇場版 アスカ・ラングレー",
     series: "ヱヴァンゲリヲン新劇場版（Rebuild of Evangelion）",
     character: "式波・アスカ・ラングレー",
@@ -32338,7 +32338,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "popup-parade-rei-ayanami-longhair",
     addedAt: "2026-08-12",
-    name: "POP UP PARADE 綾波零 長髮Ver.",
+    name: "POP UP PARADE 綾波レイ ロングヘアVer.",
     nameJa: "POP UP PARADE ヱヴァンゲリヲン新劇場版 綾波レイ ロングヘアVer.",
     series: "ヱヴァンゲリヲン新劇場版（Rebuild of Evangelion）",
     character: "綾波レイ",
@@ -32361,7 +32361,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-xi-penelope-funnel-effect-set",
     addedAt: "2026-08-12",
-    name: "HG Ξ鋼彈/佩涅羅佩用彈匣・飛彈特效組",
+    name: "HG 1/144 ガンダムベース限定 Ξガンダム/ペーネロペー用ファンネル・ミサイル エフェクトセット",
     nameJa: "HG 1/144 ガンダムベース限定 Ξガンダム/ペーネロペー用ファンネル・ミサイル エフェクトセット",
     series: "機動戦士ガンダム 閃光のハサウェイ（Mobile Suit Gundam: Hathaway's Flash）",
     character: "Ξガンダム／ペーネロペー",
