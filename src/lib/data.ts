@@ -12947,8 +12947,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "hg-amx018-todesritter",
     addedAt: "2026-07-15",
-    name: "HG 1/144 トーリスリッター",
-    nameJa: "HG 1/144 トーリスリッター",
+    name: "HG 1/144 AMX-018［HADES］トーリスリッター",
+    nameJa: "HG 1/144 AMX-018［HADES］トーリスリッター",
     series: "機動戦士ガンダム外伝 ミッシングリンク",
     character: "AMX-018 トーリスリッター（Todesritter）",
     manufacturer: "BANDAI SPIRITS",
@@ -24624,8 +24624,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-phoenix-ikki-2004",
     addedAt: "2026-07-31",
-    name: "フェニックス一輝",
-    nameJa: "フェニックス一輝",
+    name: "聖闘士聖衣神話 フェニックス一輝",
+    nameJa: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）",
     series: "聖闘士星矢",
     character: "フェニックス一輝（Phoenix Ikki）",
     manufacturer: "BANDAI SPIRITS",
