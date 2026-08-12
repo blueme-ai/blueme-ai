@@ -24625,8 +24625,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-phoenix-ikki-2004",
     addedAt: "2026-07-31",
-    name: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）",
-    nameJa: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）",
+    name: "聖闘士聖衣神話 フェニックス一輝",
+    nameJa: "聖闘士聖衣神話 フェニックス一輝",
     series: "聖闘士星矢",
     character: "フェニックス一輝（Phoenix Ikki）",
     manufacturer: "BANDAI SPIRITS",
@@ -32434,8 +32434,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-phoenix-ikki-2011-reprint",
     addedAt: "2026-08-12",
-    name: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）〈リバイバル版〉",
-    nameJa: "聖闘士聖衣神話 フェニックス一輝（初期青銅聖衣）〈リバイバル版〉",
+    name: "聖闘士聖衣神話 フェニックス一輝(初期青銅聖衣)",
+    nameJa: "聖闘士聖衣神話 フェニックス一輝(初期青銅聖衣)〈2011年リバイバル版〉",
     series: "聖闘士星矢",
     character: "フェニックス一輝（Phoenix Ikki）",
     manufacturer: "BANDAI SPIRITS",
