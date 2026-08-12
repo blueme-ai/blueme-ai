@@ -9599,7 +9599,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-sky-cross-sho-revival",
     addedAt: "2026-07-05",
-    name: "鋼鉄聖闘士スカイクロス翔＜リバイバル版＞",
+    name: "聖闘士聖衣神話 鋼鉄聖闘士スカイクロス翔＜リバイバル版＞",
     nameJa: "鋼鉄聖闘士スカイクロス翔＜リバイバル版＞",
     series: "聖闘士星矢（Saint Seiya）",
     character: "鋼鉄聖闘士 スカイクロス翔（Steel Saint Sky Cross Sho）",
@@ -13578,7 +13578,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-opyx-odysseus",
     addedAt: "2026-07-15",
-    name: "オピュクスオデッセウス",
+    name: "聖闘士聖衣神話EX オピュクスオデッセウス",
     nameJa: "オピュクスオデッセウス",
     series: "聖闘士星矢",
     character: "オピュクスオデッセウス",
@@ -19383,7 +19383,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "aquarius-camus-revival",
     addedAt: "2026-07-25",
-    name: "水瓶座カミュ〈リバイバル版〉",
+    name: "聖闘士聖衣神話EX 水瓶座カミュ〈リバイバル版〉",
     nameJa: "水瓶座カミュ〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "水瓶座カミュ（Aquarius Camus）",
@@ -19405,7 +19405,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "cancer-deathmask-revival",
     addedAt: "2026-07-25",
-    name: "蟹座デスマスク〈リバイバル版〉",
+    name: "聖闘士聖衣神話EX 蟹座デスマスク〈リバイバル版〉",
     nameJa: "蟹座デスマスク〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "蟹座デスマスク（Cancer Deathmask）",
@@ -19425,7 +19425,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "capricorn-shura-revival",
     addedAt: "2026-07-25",
-    name: "山羊座シュラ〈リバイバル版〉",
+    name: "聖闘士聖衣神話EX 山羊座シュラ〈リバイバル版〉",
     nameJa: "山羊座シュラ〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "山羊座シュラ（Capricorn Shura）",
@@ -19448,7 +19448,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scorpio-milo-revival",
     addedAt: "2026-07-25",
-    name: "蠍座ミロ〈リバイバル版〉",
+    name: "聖闘士聖衣神話EX 蠍座ミロ〈リバイバル版〉",
     nameJa: "蠍座ミロ〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "蠍座ミロ（Scorpio Milo）",
@@ -19470,7 +19470,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "gemini-kanon-revival",
     addedAt: "2026-07-25",
-    name: "双子座カノン〈リバイバル版〉",
+    name: "聖闘士聖衣神話EX 双子座カノン〈リバイバル版〉",
     nameJa: "双子座カノン〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "双子座カノン（Gemini Kanon）",
@@ -19494,7 +19494,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "gemini-saga-pope-ares",
     addedAt: "2026-07-25",
-    name: "ジェミニサガ〈教皇アーレス〉",
+    name: "聖闘士聖衣神話 ジェミニサガ〈教皇アーレス〉",
     nameJa: "ジェミニサガ〈教皇アーレス〉",
     series: "聖闘士星矢",
     character: "双子座サガ／教皇アーレス（Gemini Saga / Pope Ares）",
@@ -19516,7 +19516,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "pisces-aphrodite-ex-revival",
     addedAt: "2026-07-25",
-    name: "魚座アフロディーテ〈リバイバル版〉",
+    name: "聖闘士聖衣神話EX 魚座アフロディーテ〈リバイバル版〉",
     nameJa: "魚座アフロディーテ〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "魚座アフロディーテ（Pisces Aphrodite）",
@@ -19538,7 +19538,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "pisces-aphrodite-original",
     addedAt: "2026-07-25",
-    name: "魚座アフロディーテ",
+    name: "聖闘士聖衣神話 魚座アフロディーテ",
     nameJa: "魚座アフロディーテ",
     series: "聖闘士星矢",
     character: "魚座アフロディーテ（Pisces Aphrodite）",
@@ -19556,7 +19556,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "bear-geki",
     addedAt: "2026-07-25",
-    name: "ベアー・ゲキ",
+    name: "聖闘士聖衣神話 ベアー・ゲキ",
     nameJa: "ベアー・ゲキ",
     series: "聖闘士星矢",
     character: "熊座ゲキ（Bear Geki）",
@@ -19576,7 +19576,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "centaurus-babel",
     addedAt: "2026-07-25",
-    name: "ケンタウルス座バベル",
+    name: "聖闘士聖衣神話 ケンタウルス座バベル",
     nameJa: "ケンタウルス座バベル",
     series: "聖闘士星矢",
     character: "ケンタウルス座バベル（Centaurus Babel）",
@@ -19598,7 +19598,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "steel-saint-landcloth-daichi-revival",
     addedAt: "2026-07-25",
-    name: "鋼鉄聖闘士ランドクロス大地〈リバイバル版〉",
+    name: "聖闘士聖衣神話 鋼鉄聖闘士ランドクロス大地〈リバイバル版〉",
     nameJa: "鋼鉄聖闘士ランドクロス大地〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "大地（Daichi）",
@@ -19620,7 +19620,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "steel-saint-marinecloth-ushio-revival",
     addedAt: "2026-07-25",
-    name: "鋼鉄聖闘士マリンクロス潮〈リバイバル版〉",
+    name: "聖闘士聖衣神話 鋼鉄聖闘士マリンクロス潮〈リバイバル版〉",
     nameJa: "鋼鉄聖闘士マリンクロス潮〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "潮（Ushio）",
@@ -19640,7 +19640,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "appendix-aquarius-camus",
     addedAt: "2026-07-25",
-    name: "アクエリアスカミュ",
+    name: "聖闘士聖衣神話APPENDIX アクエリアスカミュ",
     nameJa: "アクエリアスカミュ",
     series: "聖闘士星矢",
     character: "水瓶座カミュ（Aquarius Camus）",
@@ -19660,7 +19660,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "appendix-gemini-saga-original-color-edition",
     addedAt: "2026-07-25",
-    name: "ジェミニサガ〈ORIGINAL COLOR EDITION〉",
+    name: "聖闘士聖衣神話APPENDIX ジェミニサガ〈ORIGINAL COLOR EDITION〉",
     nameJa: "ジェミニサガ〈ORIGINAL COLOR EDITION〉",
     series: "聖闘士星矢",
     character: "双子座サガ（Gemini Saga）",
@@ -19680,7 +19680,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "appendix-pegasus-seiya-final-holy-war",
     addedAt: "2026-07-25",
-    name: "ペガサス星矢〈最終青銅聖衣〉",
+    name: "聖闘士聖衣神話APPENDIX ペガサス星矢〈最終青銅聖衣〉",
     nameJa: "ペガサス星矢〈最終青銅聖衣〉",
     series: "聖闘士星矢",
     character: "天馬星矢（Pegasus Seiya）",
@@ -19700,7 +19700,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "appendix-wyvern-rhadamanthys",
     addedAt: "2026-07-25",
-    name: "ワイバーンラダマンティス",
+    name: "聖闘士聖衣神話APPENDIX ワイバーンラダマンティス",
     nameJa: "ワイバーンラダマンティス",
     series: "聖闘士星矢",
     character: "ワイバーン ラダマンティス（Wyvern Rhadamanthys）",
@@ -19718,7 +19718,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "display-stand-set-b",
     addedAt: "2026-07-25",
-    name: "専用ディスプレイスタンドセット B",
+    name: "聖闘士聖衣神話 専用ディスプレイスタンドセット B",
     nameJa: "専用ディスプレイスタンドセット B",
     series: "聖闘士星矢",
     character: "",
@@ -19736,7 +19736,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "display-stand-set-generic",
     addedAt: "2026-07-25",
-    name: "専用ディスプレイスタンドセット",
+    name: "聖闘士聖衣神話 専用ディスプレイスタンドセット",
     nameJa: "専用ディスプレイスタンドセット",
     series: "聖闘士星矢",
     character: "",
@@ -19754,7 +19754,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "tamashii-nation-2009-zodiac-coin-set",
     addedAt: "2026-07-25",
-    name: "エンブレムセット",
+    name: "聖闘士聖衣神話 エンブレムセット",
     nameJa: "エンブレムセット",
     series: "聖闘士星矢",
     character: "",
@@ -19774,7 +19774,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-aries-mu-original",
     addedAt: "2026-07-26",
-    name: "アリエスムウ",
+    name: "聖闘士聖衣神話 アリエスムウ",
     nameJa: "アリエスムウ",
     series: "聖闘士星矢",
     character: "白羊座ムウ（Aries Mu）",
@@ -19795,7 +19795,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-alpha-dubhe-siegfried-original",
     addedAt: "2026-07-26",
-    name: "アルファ星ドゥベジークフリート",
+    name: "聖闘士聖衣神話 アルファ星ドゥベジークフリート",
     nameJa: "アルファ星ドゥベジークフリート",
     series: "聖闘士星矢",
     character: "ドゥベのジークフリート（Alpha Dubhe Siegfried）",
@@ -19819,7 +19819,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-polaris-hilda",
     addedAt: "2026-07-26",
-    name: "ポラリスヒルダ -オーディーンの地上代行者-",
+    name: "聖闘士聖衣神話 ポラリスヒルダ -オーディーンの地上代行者-",
     nameJa: "ポラリスヒルダ -オーディーンの地上代行者-",
     series: "聖闘士星矢",
     character: "ポラリスヒルダ（Polaris Hilda）",
@@ -19840,7 +19840,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cygnus-hyoga-original",
     addedAt: "2026-07-26",
-    name: "キグナス氷河 初期青銅聖衣",
+    name: "聖闘士聖衣神話 キグナス氷河 初期青銅聖衣",
     nameJa: "キグナス氷河 初期青銅聖衣",
     series: "聖闘士星矢",
     character: "白鳥座氷河（Cygnus Hyoga）",
@@ -19861,7 +19861,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-dragon-shiryu-original",
     addedAt: "2026-07-26",
-    name: "ドラゴン紫龍（最終青銅聖衣）",
+    name: "聖闘士聖衣神話 ドラゴン紫龍（最終青銅聖衣）",
     nameJa: "ドラゴン紫龍（最終青銅聖衣）",
     series: "聖闘士星矢",
     character: "龍座紫龍（Dragon Shiryu）",
@@ -21786,7 +21786,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-gemini-saga-kanon",
     addedAt: "2026-07-29",
-    name: "ジェミニサガ/ジェミニカノン",
+    name: "聖闘士聖衣神話APPENDIX ジェミニサガ/ジェミニカノン",
     nameJa: "ジェミニサガ/ジェミニカノン",
     series: "聖闘士星矢",
     character: "双子座サガ／双子座カノン（Gemini Saga / Gemini Kanon）",
@@ -21806,7 +21806,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-aries-mu",
     addedAt: "2026-07-29",
-    name: "アリエスムウ",
+    name: "聖闘士聖衣神話APPENDIX アリエスムウ",
     nameJa: "アリエスムウ",
     series: "聖闘士星矢",
     character: "白羊座ムウ（Aries Mu）",
@@ -21826,7 +21826,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-chrysaor-krishna",
     addedAt: "2026-07-29",
-    name: "クリュサオルクリシュナ",
+    name: "聖闘士聖衣神話 クリュサオルクリシュナ",
     nameJa: "クリュサオルクリシュナ",
     series: "聖闘士星矢",
     character: "クリュサオルのクリシュナ（Chrysaor Krishna）",
@@ -21847,7 +21847,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-dragon-shiryu-god-cloth",
     addedAt: "2026-07-29",
-    name: "ドラゴン紫龍(神聖衣)",
+    name: "聖闘士聖衣神話 ドラゴン紫龍(神聖衣)",
     nameJa: "ドラゴン紫龍(神聖衣)",
     series: "聖闘士星矢",
     character: "龍座紫龍（Dragon Shiryu）",
@@ -21867,7 +21867,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-polaris-hilda-original",
     addedAt: "2026-07-29",
-    name: "ポラリスヒルダ",
+    name: "聖闘士聖衣神話 ポラリスヒルダ",
     nameJa: "ポラリスヒルダ",
     series: "聖闘士星矢",
     character: "ポラリスヒルダ（Polaris Hilda）",
@@ -21888,7 +21888,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-hypnos",
     addedAt: "2026-07-29",
-    name: "眠りを司る神ヒュプノス",
+    name: "聖闘士聖衣神話 眠りを司る神ヒュプノス",
     nameJa: "眠りを司る神ヒュプノス",
     series: "聖闘士星矢",
     character: "眠りを司る神ヒュプノス（Hypnos）",
@@ -21908,7 +21908,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-pegasus-seiya-god-cloth",
     addedAt: "2026-07-29",
-    name: "ペガサス星矢(神聖衣)",
+    name: "聖闘士聖衣神話 ペガサス星矢(神聖衣)",
     nameJa: "ペガサス星矢(神聖衣)",
     series: "聖闘士星矢",
     character: "天馬座星矢（Pegasus Seiya）",
@@ -21931,7 +21931,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-andromeda-shun-god-cloth",
     addedAt: "2026-07-29",
-    name: "アンドロメダ瞬(神聖衣)",
+    name: "聖闘士聖衣神話 アンドロメダ瞬(神聖衣)",
     nameJa: "アンドロメダ瞬(神聖衣)",
     series: "聖闘士星矢",
     character: "仙女座瞬（Andromeda Shun）",
@@ -21951,7 +21951,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-seahorse-baian",
     addedAt: "2026-07-29",
-    name: "シーホースバイアン",
+    name: "聖闘士聖衣神話 シーホースバイアン",
     nameJa: "シーホースバイアン",
     series: "聖闘士星矢",
     character: "海将軍先鋒 バイアン（Sea Horse Baian）",
@@ -21971,7 +21971,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-poseidon-royal-ornament",
     addedAt: "2026-07-29",
-    name: "海皇ポセイドン～ROYAL ORNAMENT EDITION～",
+    name: "聖闘士聖衣神話 海皇ポセイドン～ROYAL ORNAMENT EDITION～",
     nameJa: "海皇ポセイドン～ROYAL ORNAMENT EDITION～",
     series: "聖闘士星矢",
     character: "海皇ポセイドン（Sea Emperor Poseidon）",
@@ -21991,7 +21991,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-phecda-thor",
     addedAt: "2026-07-29",
-    name: "ガンマ星フェクダトール",
+    name: "聖闘士聖衣神話 ガンマ星フェクダトール",
     nameJa: "ガンマ星フェクダトール",
     series: "聖闘士星矢",
     character: "フェクダのトール（Gamma Phecda Thor）",
@@ -22011,7 +22011,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-aries-shion-pope-asia-edition",
     addedAt: "2026-07-29",
-    name: "アリエスシオン（冥衣）／教皇シオン ～ASIA EDITION～",
+    name: "聖闘士聖衣神話 アリエスシオン（冥衣）／教皇シオン ～ASIA EDITION～",
     nameJa: "アリエスシオン（冥衣）／教皇シオン ～ASIA EDITION～",
     series: "聖闘士星矢",
     character: "白羊座ムウの師シオン／教皇シオン（Aries Shion Surplice / Grand Pope Shion）",
@@ -22031,7 +22031,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ryumnades-casa",
     addedAt: "2026-07-29",
-    name: "リュムナデスカーサ",
+    name: "聖闘士聖衣神話 リュムナデスカーサ",
     nameJa: "リュムナデスカーサ",
     series: "聖闘士星矢",
     character: "リュムナデスカーサ（Ryumnades of Casa）",
@@ -22052,7 +22052,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-kraken-isaak",
     addedAt: "2026-07-29",
-    name: "クラーケンアイザック",
+    name: "聖闘士聖衣神話 クラーケンアイザック",
     nameJa: "クラーケンアイザック",
     series: "聖闘士星矢",
     character: "クラーケンアイザック（Isaak of Kraken）",
@@ -22073,7 +22073,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-sea-dragon-kanon",
     addedAt: "2026-07-29",
-    name: "シードラゴンカノン",
+    name: "聖闘士聖衣神話 シードラゴンカノン",
     nameJa: "シードラゴンカノン",
     series: "聖闘士星矢",
     character: "シードラゴンカノン（Kanon of Sea Dragon）",
@@ -22093,7 +22093,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-aquarius-camus-meii",
     addedAt: "2026-07-29",
-    name: "アクエリアスカミュ（冥衣）",
+    name: "聖闘士聖衣神話 アクエリアスカミュ（冥衣）",
     nameJa: "アクエリアスカミュ（冥衣）",
     series: "聖闘士星矢",
     character: "水瓶座カミュ（Aquarius Camus）",
@@ -22113,7 +22113,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-dark-phoenix",
     addedAt: "2026-07-29",
-    name: "暗黒フェニックス",
+    name: "聖闘士聖衣神話 暗黒フェニックス",
     nameJa: "暗黒フェニックス",
     series: "聖闘士星矢",
     character: "暗黒フェニックス一輝（Dark Phoenix Ikki）",
@@ -22670,7 +22670,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-poseidon-original",
     addedAt: "2026-07-30",
-    name: "海皇ポセイドン",
+    name: "聖闘士聖衣神話 海皇ポセイドン",
     nameJa: "海皇ポセイドン",
     series: "聖闘士星矢",
     character: "海皇ポセイドン（Sea Emperor Poseidon）",
@@ -22754,7 +22754,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-saori-kido-campaign",
     addedAt: "2026-07-30",
-    name: "城戸沙織 -購入キャンペーン特別限定品-",
+    name: "聖闘士聖衣神話 城戸沙織 -購入キャンペーン特別限定品-",
     nameJa: "城戸沙織 -購入キャンペーン特別限定品-",
     series: "聖闘士星矢",
     character: "城戸沙織／女神アテナ（Saori Kido／Athena）",
@@ -22772,7 +22772,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-gold-pegasus-seiya",
     addedAt: "2026-07-30",
-    name: "黄金系譜 ペガサス星矢",
+    name: "聖闘士聖衣神話 黄金系譜 ペガサス星矢",
     nameJa: "黄金系譜 ペガサス星矢",
     series: "聖闘士星矢",
     character: "ペガサス星矢",
@@ -22790,7 +22790,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-pandora",
     addedAt: "2026-07-30",
-    name: "パンドラ",
+    name: "聖闘士聖衣神話 パンドラ",
     nameJa: "パンドラ",
     series: "聖闘士星矢",
     character: "パンドラ",
@@ -22811,7 +22811,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-virgo-shaka",
     addedAt: "2026-07-30",
-    name: "バルゴシャカ",
+    name: "聖闘士聖衣神話EX バルゴシャカ",
     nameJa: "バルゴシャカ",
     series: "聖闘士星矢",
     character: "乙女座シャカ",
@@ -22831,7 +22831,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-sagittarius-aiolos",
     addedAt: "2026-07-30",
-    name: "サジタリアスアイオロス",
+    name: "聖闘士聖衣神話EX サジタリアスアイオロス",
     nameJa: "サジタリアスアイオロス",
     series: "聖闘士星矢",
     character: "射手座アイオロス",
@@ -22852,7 +22852,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-crystal-saint",
     addedAt: "2026-07-30",
-    name: "水晶聖闘士",
+    name: "聖闘士聖衣神話 水晶聖闘士",
     nameJa: "水晶聖闘士（クリスタルセイント）",
     series: "聖闘士星矢",
     character: "水晶聖闘士（クリスタルセイント）",
@@ -22872,7 +22872,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-scorpio-milo",
     addedAt: "2026-07-30",
-    name: "スコーピオンミロ",
+    name: "聖闘士聖衣神話EX スコーピオンミロ",
     nameJa: "スコーピオンミロ",
     series: "聖闘士星矢",
     character: "蠍座ミロ",
@@ -22892,7 +22892,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-gemini-saga",
     addedAt: "2026-07-30",
-    name: "ジェミニサガ",
+    name: "聖闘士聖衣神話EX ジェミニサガ",
     nameJa: "ジェミニサガ",
     series: "聖闘士星矢",
     character: "双子座サガ",
@@ -22912,7 +22912,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-aries-mu",
     addedAt: "2026-07-30",
-    name: "アリエスムウ",
+    name: "聖闘士聖衣神話EX アリエスムウ",
     nameJa: "アリエスムウ",
     series: "聖闘士星矢",
     character: "牡羊座ムウ",
@@ -22932,7 +22932,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-pegasus-seiya-casual",
     addedAt: "2026-07-30",
-    name: "ペガサス星矢（私服）",
+    name: "聖闘士聖衣神話APPENDIX ペガサス星矢（私服）",
     nameJa: "ペガサス星矢（私服）",
     series: "聖闘士星矢",
     character: "ペガサス星矢",
@@ -22952,7 +22952,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-scorpio-milo",
     addedAt: "2026-07-30",
-    name: "スコーピオンミロ",
+    name: "聖闘士聖衣神話APPENDIX スコーピオンミロ",
     nameJa: "スコーピオンミロ",
     series: "聖闘士星矢",
     character: "蠍座ミロ",
@@ -22972,7 +22972,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-pegasus-seiya-broken",
     addedAt: "2026-07-30",
-    name: "ペガサス星矢 新生青銅聖衣 ～Broken Version～",
+    name: "聖闘士聖衣神話 ペガサス星矢 新生青銅聖衣 ～Broken Version～",
     nameJa: "ペガサス星矢 新生青銅聖衣 ～Broken Version～",
     series: "聖闘士星矢",
     character: "星矢（ペガサス）",
@@ -22992,7 +22992,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-garuda-aiacos",
     addedAt: "2026-07-30",
-    name: "ガルーダ アイアコス",
+    name: "聖闘士聖衣神話 ガルーダ アイアコス",
     nameJa: "ガルーダ アイアコス",
     series: "聖闘士星矢",
     character: "アイアコス（ガルーダ）",
@@ -23012,7 +23012,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-wyvern-rhadamanthys",
     addedAt: "2026-07-30",
-    name: "ワイバーン ラダマンティス",
+    name: "聖闘士聖衣神話 ワイバーン ラダマンティス",
     nameJa: "ワイバーン ラダマンティス",
     series: "聖闘士星矢",
     character: "ラダマンティス（ワイバーン）",
@@ -23032,7 +23032,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-capricorn-shura-surplice",
     addedAt: "2026-07-30",
-    name: "カプリコーンシュラ（冥衣）",
+    name: "聖闘士聖衣神話 カプリコーンシュラ（冥衣）",
     nameJa: "カプリコーンシュラ（冥衣）",
     series: "聖闘士星矢",
     character: "シュラ（カプリコーン）",
@@ -23052,7 +23052,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-andromeda-shun-first-bronze",
     addedAt: "2026-07-30",
-    name: "アンドロメダ瞬（初期青銅聖衣）",
+    name: "聖闘士聖衣神話 アンドロメダ瞬（初期青銅聖衣）",
     nameJa: "アンドロメダ瞬（初期青銅聖衣）",
     series: "聖闘士星矢",
     character: "瞬（アンドロメダ）",
@@ -23072,7 +23072,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-siren-sorrento",
     addedAt: "2026-07-30",
-    name: "セイレーンソレント",
+    name: "聖闘士聖衣神話 セイレーンソレント",
     nameJa: "セイレーンソレント",
     series: "聖闘士星矢",
     character: "ソレント（セイレーン）",
@@ -23092,7 +23092,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-virgo-shaka",
     addedAt: "2026-07-30",
-    name: "バルゴシャカ",
+    name: "聖闘士聖衣神話APPENDIX バルゴシャカ",
     nameJa: "バルゴシャカ",
     series: "聖闘士星矢",
     character: "シャカ（バルゴ）",
@@ -23112,7 +23112,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-zeta-alcor-bud",
     addedAt: "2026-07-30",
-    name: "アルコルバド",
+    name: "聖闘士聖衣神話 アルコルバド",
     nameJa: "アルコルバド",
     series: "聖闘士星矢",
     character: "バド（ゼータ星アルコル）",
@@ -23132,7 +23132,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-ex-display-stage",
     addedAt: "2026-07-30",
-    name: "専用ディスプレイステージ",
+    name: "聖闘士聖衣神話EX 専用ディスプレイステージ",
     nameJa: "専用ディスプレイステージ",
     series: "聖闘士星矢",
     character: "展示台座配件（人偶本體不含）",
@@ -23150,7 +23150,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-pisces-aphrodite-surplice",
     addedAt: "2026-07-30",
-    name: "ピスケスアフロディーテ（冥衣）",
+    name: "聖闘士聖衣神話 ピスケスアフロディーテ（冥衣）",
     nameJa: "ピスケスアフロディーテ（冥衣）",
     series: "聖闘士星矢",
     character: "魚座アフロディーテ（Pisces Aphrodite）",
@@ -23170,7 +23170,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-dragon-shiryu-casual",
     addedAt: "2026-07-30",
-    name: "ドラゴン紫龍（私服）",
+    name: "聖闘士聖衣神話APPENDIX ドラゴン紫龍（私服）",
     nameJa: "ドラゴン紫龍（私服）",
     series: "聖闘士星矢",
     character: "紫龍（ドラゴン）",
@@ -23190,7 +23190,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "scm-appendix-leo-aiolia",
     addedAt: "2026-07-30",
-    name: "レオアイオリア",
+    name: "聖闘士聖衣神話APPENDIX レオアイオリア",
     nameJa: "レオアイオリア",
     series: "聖闘士星矢",
     character: "獅子座アイオリア",
@@ -24091,7 +24091,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "taurus-aldebaran-revival",
     addedAt: "2026-07-31",
-    name: "タウラスアルデバラン＜リバイバル版＞",
+    name: "聖闘士聖衣神話EX タウラスアルデバラン＜リバイバル版＞",
     nameJa: "タウラスアルデバラン＜リバイバル版＞",
     series: "聖闘士星矢",
     character: "金牛座（タウラス）アルデバラン（Taurus Aldebaran）",
@@ -24113,7 +24113,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "libra-dohko-revival",
     addedAt: "2026-07-31",
-    name: "ライブラ童虎＜リバイバル版＞",
+    name: "聖闘士聖衣神話EX ライブラ童虎＜リバイバル版＞",
     nameJa: "ライブラ童虎＜リバイバル版＞",
     series: "聖闘士星矢",
     character: "天秤座（ライブラ）童虎（Libra Dohko）",
@@ -24563,7 +24563,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-cygnus-hyoga-final-bronze",
     addedAt: "2026-07-31",
-    name: "キグナス氷河（最終青銅聖衣）",
+    name: "聖闘士聖衣神話 キグナス氷河（最終青銅聖衣）",
     nameJa: "キグナス氷河（最終青銅聖衣）",
     series: "聖闘士星矢",
     character: "キグナス氷河（Cygnus Hyoga）",
@@ -24583,7 +24583,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-pope-shion-2010-campaign",
     addedAt: "2026-07-31",
-    name: "教皇シオン（GOLD SAINT CAMPAIGN 特別限定品）",
+    name: "聖闘士聖衣神話 教皇シオン（GOLD SAINT CAMPAIGN 特別限定品）",
     nameJa: "教皇シオン（GOLD SAINT CAMPAIGN 特別限定品）",
     series: "聖闘士星矢",
     character: "教皇シオン（Grand Pope Shion）",
@@ -24645,7 +24645,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-pope-shion-2005",
     addedAt: "2026-07-31",
-    name: "教皇シオン",
+    name: "聖闘士聖衣神話 教皇シオン",
     nameJa: "教皇シオン",
     series: "聖闘士星矢",
     character: "教皇シオン（Grand Pope Shion）",
@@ -24665,7 +24665,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-delta-megrez-alberich",
     addedAt: "2026-07-31",
-    name: "デルタ星メグレスアルベリッヒ",
+    name: "聖闘士聖衣神話 デルタ星メグレスアルベリッヒ",
     nameJa: "デルタ星メグレスアルベリッヒ",
     series: "聖闘士星矢 アスガルド編",
     character: "デルタ星メグレスアルベリッヒ（Delta Star Megrez Alberich）",
@@ -24685,7 +24685,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-pegasus-seiya-initial",
     addedAt: "2026-07-31",
-    name: "ペガサス星矢 初期青銅聖衣",
+    name: "聖闘士聖衣神話 ペガサス星矢 初期青銅聖衣",
     nameJa: "ペガサス星矢 初期青銅聖衣",
     series: "聖闘士星矢",
     character: "ペガサス星矢（Pegasus Seiya）",
@@ -24705,7 +24705,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-lionet-ban",
     addedAt: "2026-07-31",
-    name: "ライオネット蛮",
+    name: "聖闘士聖衣神話 ライオネット蛮",
     nameJa: "ライオネット蛮",
     series: "聖闘士星矢",
     character: "ライオネット蛮（Lionet Ban）",
@@ -24727,7 +24727,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-pegasus-seiya-final",
     addedAt: "2026-07-31",
-    name: "ペガサス星矢（最終青銅聖衣）",
+    name: "聖闘士聖衣神話 ペガサス星矢（最終青銅聖衣）",
     nameJa: "ペガサス星矢（最終青銅聖衣）",
     series: "聖闘士星矢",
     character: "ペガサス星矢（Pegasus Seiya）",
@@ -24747,7 +24747,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-griffon-minos",
     addedAt: "2026-07-31",
-    name: "グリフォンミーノス",
+    name: "聖闘士聖衣神話 グリフォンミーノス",
     nameJa: "グリフォンミーノス",
     series: "聖闘士星矢 冥王ハーデス冥界編",
     character: "グリフォンミーノス（Griffon Minos）",
@@ -24767,7 +24767,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-alioth-fenrir",
     addedAt: "2026-07-31",
-    name: "イプシロン星アリオトフェンリル",
+    name: "聖闘士聖衣神話 イプシロン星アリオトフェンリル",
     nameJa: "イプシロン星アリオトフェンリル",
     series: "聖闘士星矢 アスガルド編",
     character: "イプシロン星アリオトフェンリル（Epsilon Alioth Fenrir）",
@@ -24788,7 +24788,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-dragon-shiryu-initial",
     addedAt: "2026-07-31",
-    name: "ドラゴン紫龍 初期青銅聖衣〈リバイバル版〉",
+    name: "聖闘士聖衣神話 ドラゴン紫龍 初期青銅聖衣〈リバイバル版〉",
     nameJa: "ドラゴン紫龍 初期青銅聖衣〈リバイバル版〉",
     series: "聖闘士星矢",
     character: "ドラゴン紫龍（Dragon Shiryu）",
@@ -24808,7 +24808,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-mizar-sid",
     addedAt: "2026-07-31",
-    name: "ゼータ星ミザールシド",
+    name: "聖闘士聖衣神話 ゼータ星ミザールシド",
     nameJa: "ゼータ星ミザールシド",
     series: "聖闘士星矢 アスガルド編",
     character: "ゼータ星ミザールシド（Zeta Mizar Sid）",
@@ -24829,7 +24829,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-benetnasch-mime",
     addedAt: "2026-07-31",
-    name: "エータ星ベネトナーシュミーメ",
+    name: "聖闘士聖衣神話 エータ星ベネトナーシュミーメ",
     nameJa: "エータ星ベネトナーシュミーメ",
     series: "聖闘士星矢 アスガルド編",
     character: "エータ星ベネトナーシュミーメ（Eta Benetnasch Mime）",
@@ -24849,7 +24849,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-merak-hagen",
     addedAt: "2026-07-31",
-    name: "ベータ星メラクハーゲン",
+    name: "聖闘士聖衣神話 ベータ星メラクハーゲン",
     nameJa: "ベータ星メラクハーゲン",
     series: "聖闘士星矢 アスガルド編",
     character: "ベータ星メラクハーゲン（Beta Merak Hagen）",
@@ -24870,7 +24870,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-aries-shion-surplice",
     addedAt: "2026-07-31",
-    name: "アリエスシオン〈冥衣〉",
+    name: "聖闘士聖衣神話 アリエスシオン〈冥衣〉",
     nameJa: "アリエスシオン〈冥衣〉",
     series: "聖闘士星矢 冥王ハーデス冥界編",
     character: "アリエスシオン（Aries Shion）",
@@ -25325,7 +25325,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-pegasus-seiya-initial-2003",
     addedAt: "2026-08-05",
-    name: "ペガサス星矢",
+    name: "聖闘士聖衣神話 ペガサス星矢",
     nameJa: "ペガサス星矢",
     series: "聖闘士星矢",
     character: "ペガサス星矢（Pegasus Seiya）",
@@ -25343,7 +25343,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-dragon-shiryu-initial-2003",
     addedAt: "2026-08-05",
-    name: "ドラゴン紫龍",
+    name: "聖闘士聖衣神話 ドラゴン紫龍",
     nameJa: "ドラゴン紫龍",
     series: "聖闘士星矢",
     character: "ドラゴン紫龍（Dragon Shiryu）",
@@ -25361,7 +25361,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-cygnus-hyoga-initial-2004",
     addedAt: "2026-08-05",
-    name: "キグナス氷河",
+    name: "聖闘士聖衣神話 キグナス氷河",
     nameJa: "キグナス氷河",
     series: "聖闘士星矢",
     character: "キグナス氷河（Cygnus Hyoga）",
@@ -25379,7 +25379,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-andromeda-shun-initial-2004",
     addedAt: "2026-08-05",
-    name: "アンドロメダ瞬",
+    name: "聖闘士聖衣神話 アンドロメダ瞬",
     nameJa: "アンドロメダ瞬",
     series: "聖闘士星矢",
     character: "アンドロメダ瞬（Andromeda Shun）",
@@ -25397,7 +25397,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-phoenix-ikki-final-bronze",
     addedAt: "2026-08-05",
-    name: "フェニックス一輝（最終青銅聖衣）",
+    name: "聖闘士聖衣神話 フェニックス一輝（最終青銅聖衣）",
     nameJa: "フェニックス一輝（最終青銅聖衣）",
     series: "聖闘士星矢 冥王ハーデス冥界編",
     character: "フェニックス一輝（Phoenix Ikki）",
@@ -25417,7 +25417,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-andromeda-shun-final-bronze-2006",
     addedAt: "2026-08-05",
-    name: "アンドロメダ瞬（最終青銅聖衣）",
+    name: "聖闘士聖衣神話 アンドロメダ瞬（最終青銅聖衣）",
     nameJa: "アンドロメダ瞬（最終青銅聖衣）",
     series: "聖闘士星矢 冥王ハーデス冥界編",
     character: "アンドロメダ瞬（Andromeda Shun）",
@@ -25435,7 +25435,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-wolf-nachi",
     addedAt: "2026-08-05",
-    name: "ウルフ那智",
+    name: "聖闘士聖衣神話 ウルフ那智",
     nameJa: "ウルフ那智",
     series: "聖闘士星矢",
     character: "ウルフ那智（Wolf Nachi）",
@@ -25455,7 +25455,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-lyra-orphee",
     addedAt: "2026-08-05",
-    name: "ライラオルフェ",
+    name: "聖闘士聖衣神話 ライラオルフェ",
     nameJa: "ライラオルフェ",
     series: "聖闘士星矢 冥王ハーデス冥界編",
     character: "ライラオルフェ（Lyra Orphee）",
@@ -25475,7 +25475,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-unicorn-jabu",
     addedAt: "2026-08-05",
-    name: "ユニコーン邪武",
+    name: "聖闘士聖衣神話 ユニコーン邪武",
     nameJa: "ユニコーン邪武",
     series: "聖闘士星矢",
     character: "ユニコーン邪武（Unicorn Jabu）",
@@ -25495,7 +25495,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-hydra-ichi",
     addedAt: "2026-08-05",
-    name: "ヒドラ市",
+    name: "聖闘士聖衣神話 ヒドラ市",
     nameJa: "ヒドラ市",
     series: "聖闘士星矢",
     character: "ヒドラ市（Hydra Ichi）",
@@ -25515,7 +25515,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-perseus-algol",
     addedAt: "2026-08-05",
-    name: "ペルセウスアルゴル",
+    name: "聖闘士聖衣神話 ペルセウスアルゴル",
     nameJa: "ペルセウスアルゴル",
     series: "聖闘士星矢",
     character: "ペルセウスアルゴル（Perseus Algol）",
@@ -28053,7 +28053,7 @@ export const collection: CollectibleItem[] = [
   {
     id: "saint-cloth-myth-bennu-kagaho",
     addedAt: "2026-08-06",
-    name: "ベヌウ輝火",
+    name: "聖闘士聖衣神話 ベヌウ輝火",
     nameJa: "ベヌウ輝火",
     series: "聖闘士星矢 THE LOST CANVAS 冥王神話",
     character: "輝火（ベヌウ）",
@@ -29482,30 +29482,6 @@ export const collection: CollectibleItem[] = [
       {
         title: "聖闘士聖衣神話：サジタリアス アイオロス [レビュー]",
         url: "https://toroplus.blog/saintclothmyth-saint/sagittarius-aiolos/",
-        lang: "ja",
-      },
-    ],
-    youtube: [],
-  },
-  {
-    id: "scm-aries-mu-2005",
-    addedAt: "2026-08-10",
-    name: "聖闘士聖衣神話 アリエスムウ",
-    nameJa: "聖闘士聖衣神話 アリエスムウ",
-    series: "聖闘士星矢",
-    character: "牡羊座ムウ（Aries Mu）",
-    manufacturer: "バンダイ（BANDAI）",
-    scale: "聖闘士聖衣神話",
-    price: "¥4,400",
-    releaseDate: "2005年6月",
-    officialUrl: "https://tamashiiweb.com/item/451/",
-    imageUrl: "/images/scm-aries-mu-2005.jpg",
-    tags: ["聖闘士星矢", "聖闘士聖衣神話", "セイントクロスマイス", "黄金聖闘士", "牡羊座", "ムウ", "BANDAI", "初版"],
-    description: "《聖闘士星矢》是車田正美創作的經典少年漫畫，描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。牡羊座ムウ是黃金十二宮聖鬥士之一，個性溫和沉穩、身兼聖衣修復師身份，是唯一能修復受損聖衣的專業工匠，也是十二宮守關戰的第一關把關者，其超能力「念力」與異度空間傳送技法獨具特色，在黃金聖鬥士中以智者形象著稱。本商品為「聖闘士聖衣神話」系列2005年推出的初版可動人偶，招牌粉紫色長髮與牡羊角造型聖衣皆細膩重現，全身可動關節結合精細塗裝與金屬質感壓鑄合金部位，是初代聖闘士聖衣神話系列黃金十二宮陣容的重要一員。",
-    reviews: [
-      {
-        title: "聖闘士聖衣神話：アリエスムウ [レビュー]",
-        url: "https://toroplus.blog/saintclothmyth-saint/aries-mu/",
         lang: "ja",
       },
     ],
