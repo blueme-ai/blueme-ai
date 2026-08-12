@@ -32353,4 +32353,26 @@ export const collection: CollectibleItem[] = [
       { title: "コスパ最強‼︎【POP UP PARADE 綾波レイ ロングヘアVer】", url: "https://www.youtube.com/watch?v=E22BVmaXtRE", lang: "ja" },
     ],
   },
+  {
+    id: "hg-xi-penelope-funnel-effect-set",
+    addedAt: "2026-08-12",
+    name: "HG Ξ鋼彈/佩涅羅佩用彈匣・飛彈特效組",
+    nameJa: "HG 1/144 ガンダムベース限定 Ξガンダム/ペーネロペー用ファンネル・ミサイル エフェクトセット",
+    series: "機動戦士ガンダム 閃光のハサウェイ（Mobile Suit Gundam: Hathaway's Flash）",
+    character: "Ξガンダム／ペーネロペー",
+    manufacturer: "BANDAI SPIRITS（ガンダムベース限定）",
+    scale: "HG 1/144",
+    price: "¥2,530（含稅）",
+    releaseDate: "2026年4月25日",
+    officialUrl: "https://www.gundam-base.net/products/details.php?path=01_7228",
+    imageUrl: "/images/hg-xi-penelope-funnel-effect-set.jpg",
+    tags: ["機動戦士ガンダム 閃光のハサウェイ", "HG", "Bandai", "ガンダムベース限定", "エフェクトパーツ"],
+    description: "《機動戦士ガンダム 閃光のハサウェイ》劇場版中，主角機「Ξ（クスィー）ガンダム」與敵對陣營王牌機「ペーネロペー」皆搭載大量彈匣（ファンネル）兵裝，兩機於太空中展開的彈匣飛彈交錯攻防場面是全片視覺張力最強的高潮戲之一。本商品為紀念劇場版上映推出的「THE GUNDAM BASE」官方限定選配零件組，收錄透明色成型的彈匣飛彈發射特效與12基彈匣飛彈零件，可裝設於另售的HGUC 1/144 Ξガンダム、HGUC 1/144 ペーネロペー，以及後續作品HG 1/144 アリュゼウス身上，讓玩家自行搭配重現劇中激烈的彈幕交火場景。特效零件所搭配的持架設有多組安裝孔位，可自由調整彈匣飛彈的角度與位置，重現隨機且富有動態感的飛行軌跡，而經過細節加工的彈匣飛彈本體亦大幅提升整體戰鬥場面的說服力與展示效果。作為THE GUNDAM BASE限定通路商品，僅在官方直營店與線上商店販售，是Ξガンダム／ペーネロペー系列鋼普拉玩家用來提升展示效果的人氣選配單品。",
+    reviews: [
+      { title: "HGUC ΞガンダムVSペーネロペー ファンネル・ミサイルエフェクトセット レビュー", url: "https://schizophonic9.com/re7/hguc_xivs.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "（HGクスィーとペーネロペーがセットに！ファンネルミサイルとエフェクトが付属！）HGUC 1/144 ΞガンダムVSペーネロペー ファンネル・ミサイル エフェクトセット レビュー", url: "https://www.youtube.com/watch?v=2XIZQ5fMYsM", lang: "ja" },
+    ],
+  },
 ]
