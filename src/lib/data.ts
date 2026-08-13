@@ -32870,7 +32870,7 @@ export const collection: CollectibleItem[] = [
     scale: "景品フィギュア（約14×18cm）",
     price: "¥1,850（景品業者參考進貨價，非市售零售價）",
     releaseDate: "2025年7月25日",
-    officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-188608-R",
+    officialUrl: "https://segaplaza.jp/prize/D122685/",
     imageUrl: "/images/ranma-luminasta-shampoo.jpg",
     tags: ["らんま1/2", "Luminasta", "SEGA", "シャンプー", "景品フィギュア"],
     description: "《らんま1/2》中的「シャンプー」是中國武術世家出身的中國拳法少女，個性活潑直率、對主角早乙女乱馬展現熱烈追求，是作品中人氣居高不下的女主角之一，招牌中式旗袍造型與雙丸子頭髮型深植人心。「Luminasta」是SEGA旗下主打精緻立體展示台座造型的景品公仔品牌，本商品重現シャンプー招牌粉紅色旗袍搭配俏皮踢腿姿勢，背景同樣搭配紅色中式庭院造型底座與雲朵裝飾，與同系列「らんま」形成呼應成套的視覺風格。人偶姿態展現角色靈巧敏捷的武術身手與嬌俏可愛的性格魅力，塗裝細節與髮絲層次表現皆維持該系列一貫的高水準工藝。作為景品公仔，本商品主要透過日本各地遊戲中心UFO夾娃娃機或線上夾娃娃平台取得，是らんま1/2動畫周邊收藏者相當喜愛蒐集成套的一款代表性新作。",
