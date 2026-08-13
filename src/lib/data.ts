@@ -707,8 +707,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "metal-build-strike-freedom-festival2024",
     addedAt: "2026-06-20",
-    name: "ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
-    nameJa: "ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
+    name: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
+    nameJa: "METAL BUILD ストライクフリーダムガンダム [METAL BUILD FESTIVAL 2024]",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-X20A Strike Freedom Gundam",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
@@ -743,8 +743,8 @@ export const collection: CollectibleItem[] = [
   {
     id: "metal-build-destiny-full-festival2024",
     addedAt: "2026-06-20",
-    name: "デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
-    nameJa: "デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
+    name: "METAL BUILD デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
+    nameJa: "METAL BUILD デスティニーガンダム (フルパッケージ) [METAL BUILD FESTIVAL 2024]",
     series: "機動戦士ガンダムSEED DESTINY",
     character: "ZGMF-X42S Destiny Gundam",
     manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
