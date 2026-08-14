@@ -33677,6 +33677,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年12月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102610416000&grp_id=5325",
     imageUrl: "/images/mg-blaze-zaku-phantom-warrior.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2599",
     tags: ["機動戦士ガンダムSEED DESTINY", "Gundam SEED DESTINY", "MG", "Bandai", "ブレイズザクファントム", "ブレイズザクウォーリア", "ZAFT"],
     description: "《機動戦士ガンダムSEED DESTINY》中，「ブレイズザクファントム」是ザフト軍配備的新型量產機，標配全新開模的「ブレイズウィザード」強化裝備，是劇中量產機陣容的強化代表機型之一。本商品為MG規格套件，機體綠色迷彩以成型色分色完整重現，並可透過零件替換組裝為未搭載強化裝備的「ブレイズザクウォーリア」樣貌，一盒即可體驗兩種機體形態的收藏樂趣。套件關節可動範圍廣泛，細節雕刻精緻，是SEED DESTINY系列MG鋼普拉陣容中人氣量產機代表作品，深受ザフト軍機體收藏者喜愛。",
     reviews: [],
