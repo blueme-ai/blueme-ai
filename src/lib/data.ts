@@ -31898,7 +31898,6 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年8月（初版），其後多次再販",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102652959000&grp_id=5325",
     imageUrl: "/images/hg-gespenst-mk2.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/1585_2.pdf",
     tags: ["スーパーロボット大戦OG", "HG", "Bandai", "ゲシュペンストMk-II"],
     description: "「ゲシュペンストMk-II」是《スーパーロボット大戦OG》世界觀中「ゲシュペンスト」系列的後繼強化機種，承襲初代機的量產兵器定位並大幅強化性能，是OG世界觀中期作品裡主角陣營中堅戰力的代表機種之一。本商品以系列招牌的藍色機體塗裝成型，忠實重現Mk-II特有的銳角肩甲與流線造型。最大特色是可透過替換零件選擇組裝成「タイプR」或「タイプS」兩種不同配置樣貌，滿足玩家依角色設定或個人喜好自由選擇的收藏需求，套件並新開模具收錄「メガビームライフル」與「メガブラスターキャノン」等強化武裝零件。作為既有HG ゲシュペンスト套件的姊妹作，本商品沿用鋼普拉等級的分色精度與關節可動工藝標準，具備腹部滑動機構、手臂、髖關節與前裝甲多處可動點，可展現更大幅度的射擊與格鬥姿勢，並附加多款替換手部零件擴充展示可能性。是機戦OG鋼普拉化陣容持續擴展的重要一員，深受スパロボ系列機體收藏者喜愛。",
     reviews: [
@@ -31921,7 +31920,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年3月22日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102683533000&grp_id=5325",
     imageUrl: "/images/mg-gundam-vidar.jpg",
-    manualUrl: "https://manual.bandai-hobby.net/pdf/554.pdf",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2938",
     tags: ["機動戦士ガンダム 鉄血のオルフェンズ", "MG", "Bandai", "ガンダムヴィダール", "マクギリス・ファリド"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》以「ガンダムフレーム」為核心機體設計概念，「ガンダムヴィダール」是野心家マクギリス・ファリド奪取並駕駛的高性能機體，外型銳利且武裝獨特，是作品後半段劇情的重要反派機體。本商品為MG規格套件，睽違多年推出的鐵血系列正規MG新作，由機械設計監修行部一平協力考證，採用升級版「ガンダムフレーム」骨架設計，較初代バルバトス系列在肩部與軀幹可動範圍上更進一步強化，展現更具張力的格鬥動作姿勢。套件配備可自由替換的拳型、張開型、持械型與扣扳機型四種手部零件，並具備雙軸腕關節可調整多角度持械姿勢；胸部「アーバー反應爐」以透明粉紅色件搭配燙金貼紙呈現能量發光效果，細節質感相當講究。武裝方面重現角色標誌性的巨大電磁鞭與長槍，是鐵血のオルフェンズ鋼普拉陣容中相隔多年後備受矚目的高規格強化機體新作。",
     reviews: [
