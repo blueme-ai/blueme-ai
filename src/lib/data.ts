@@ -33067,7 +33067,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102671486000&grp_id=5325",
     imageUrl: "/images/option-parts-set-10-galaxy-booster.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/1660",
-    tags: ["ガンダムビルドファイターズ", "MG", "Bandai", "オプションパーツセット", "ギャラクシーブースター", "1/144"],
+    tags: ["ガンダムビルドファイターズ", "HG", "Bandai", "オプションパーツセット", "ギャラクシーブースター", "1/144"],
     description: "「オプションパーツセット ガンプラ」是BANDAI SPIRITS推出的鋼普拉泛用擴充配件系列，可透過「ストライカーパックシステム」共通掛載機構，將背包裝備自由裝配於多款1/144比例鋼普拉機體上。本商品「ガンプラ10（ギャラクシーブースター）」重現「ビルドストライクギャラクシーコスモス」的招牌背包裝備，最大特色是12枚翼片皆可獨立可動，能自由擺出多種展翼形態與姿態組合，大幅提升機體的展示可玩性。套件內含連接零件與台座各一組，可安裝於絕大多數具備標準背包接口的1/144鋼普拉機體，是喜愛自由改裝與客製化展示的鋼普拉玩家相當實用的一款擴充配件。",
     reviews: [],
     youtube: [],
@@ -33086,7 +33086,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102671424000&grp_id=5325",
     imageUrl: "/images/option-parts-set-05-plavsky-power-gate.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/1655",
-    tags: ["ガンダムビルドファイターズ", "MG", "Bandai", "オプションパーツセット", "プラフスキーパワーゲート", "1/144"],
+    tags: ["ガンダムビルドファイターズ", "HG", "Bandai", "オプションパーツセット", "プラフスキーパワーゲート", "1/144"],
     description: "「オプションパーツセット ガンプラ」是BANDAI SPIRITS推出的鋼普拉泛用擴充配件系列，透過「ストライカーパックシステム」共通掛載機構自由裝配於多款1/144比例機體。本商品「ガンプラ05（ユニバースブースター プラフスキーパワーゲート）」重現金黃色系巨大展翼推進背包裝備，套件內含效果零件、連接零件、ビルドストライクガンダム フルパッケージ専用零件、台座與貼紙，可依機體造型自由組合展現不同的翼展視覺效果。是喜愛自由改裝與客製化展示的鋼普拉玩家相當實用的一款擴充配件，也是ビルドファイターズ系列中人氣居高不下的經典裝備之一。",
     reviews: [
       { title: "オプションパーツセット ガンプラ０５（ユニバースブースター プラフスキーパワーゲート） レビュー", url: "https://schizophonic9.com/re9/opset_universe.html", lang: "ja" },
