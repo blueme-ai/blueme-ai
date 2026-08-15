@@ -17885,6 +17885,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年4月",
     officialUrl: "https://bandai-hobby.net/item/01_4393/",
     imageUrl: "/images/hg-vayeate-mercurius-suivant.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2478",
     tags: ["ガンプラ", "HG", "Endless Waltz", "OZ", "P-Bandai", "BANDAI SPIRITS", "BOX0008"],
     description: "《新機動戰記鋼彈W》劇場版《Endless Waltz》中，ヴァイエイト與メリクリウス原是特列斯麾下OZ組織打造的高性能兩機一組決戰兵裝，分別由特羅瓦與張五飛短暫駕駛，以搭載大量浮游炮「プラネットディフェンサー」的獨特作戰型態聞名。「シュイヴァン（Suivant，法語意為隨從）」是後續衍生企劃中登場的追加規格版本，在維持原機辨識度的基礎上重新設計輪廓與武裝比例，呈現更具現代感的線條與精緻度。本商品為兩機一組套件，全數新規開模製作，並非沿用舊版HGAC素體。ヴァイエイト・シュイヴァン配備兩門新規光束加農炮，具備展開發射口的機構，頭部造型亦重新雕琢；メリクリウス・シュイヴァン隨附20枚プラネットディフェンサー與專用展示支架，背部新規關節零件搭配球形可動設計，並附屬「AS撃墜盾」（天蠍座型）強化細節密度與可動性能。本商品為P-Bandai Hobby Online限定販售，僅透過官方通路購入，市場流通量有限，是鋼彈W外傳機體收藏者相當珍視的一組限定商品。",
     reviews: [
@@ -29546,6 +29547,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年3月4日",
     officialUrl: "https://gundam-official.com/witch-from-mercury/product/52/",
     imageUrl: "/images/hg-gundam-lfrith-ur.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/145",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "ガンダムルブリスウル", "BOX0016"],
     description: "《機動戰士鋼彈 水星的魔女》講述轉學至阿斯提卡西亞高等專門學園的少女蘇萊塔・墨丘利，因駕駛神秘機體捲入校園權力鬥爭與企業陰謀的故事。「ガンダムルブリスウル」是主角機「ガンダムルブリス」歷經劇情發展後的重裝形態之一，相較原型機更添厚重裝甲與壓迫感，展現截然不同的視覺風貌。本商品為HG系列作品，2023年3月4日發售，全新開模呈現機體厚重的裝甲造型，背部搭載可展開的相位陣列砲，標配光束加特林槍與雙持光束軍刀刃，零件精簡但色分表現到位，是水星的魔女鋼普拉系列中人氣居高不下的重裝型主角機商品化版本。",
     reviews: [
@@ -29680,6 +29682,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年3月18日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4326/",
     imageUrl: "/images/hg-gundam-lfrith-thorn.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/148",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "ガンダムルブリスソーン", "BOX0016"],
     description: "《機動戰士鋼彈 水星的魔女》講述轉學至阿斯提卡西亞高等專門學園的少女蘇萊塔・墨丘利，因駕駛神秘機體捲入校園權力鬥爭與企業陰謀的故事。「ガンダムルブリスソーン」是主角機「ガンダムルブリス」的另一種重裝形態，與「ウル」型走剛猛路線不同，「ソーン」型強調銳利尖刺造型的視覺意象，展現機體改裝設計的多樣可能性。本商品為HG系列作品，2023年3月18日發售，背部搭載大型背包裝置，標配專屬武裝與盾牌，與同期推出的ルブリスウル互為姊妹作，是水星的魔女鋼普拉系列中補完主角機改裝陣容的重點商品。",
     reviews: [
@@ -29700,6 +29703,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年2月25日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4601/",
     imageUrl: "/images/hg-providence-gundam-r13.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/344",
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED", "プロヴィデンスガンダム", "R13", "BOX0016"],
     description: "《機動戰士鋼彈SEED》於2002年播出，是鋼彈系列在新世紀重新開創的獨立世界觀作品，以Cosmic Era曆法與Coordinator（強化人）與Natural之間的衝突為主軸。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色勞・魯・克魯賽駕駛，是ZAFT陣營技術結晶的最強試驗型MS、也是全劇最後登場的鋼彈機體。其最大特色為背部掛載的大型DRAGOON System（多拉貢系統）——一套可分離飛行的全方位無線遙控射擊兵器群，威壓感與戰術壓制力在整部作品中數一數二。本商品為HG系列R13號機作品，2012年2月25日發售，新增可對應Action Base 2（另售）的支架相容零件以重現SEED系列招牌動作姿勢，並附全新設計貼紙與更新過的成型色，是SEED系列HG鋼普拉收藏中平易近人的入門經典款。",
     reviews: [],
@@ -29718,6 +29722,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月14日",
     officialUrl: "https://global.bandai-hobby.net/en-us/item/01_4289/",
     imageUrl: "/images/hg-michaelis.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/137",
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "ミカエリス", "BOX0016"],
     description: "《機動戰士鋼彈 水星的魔女》講述轉學至阿斯提卡西亞高等專門學園的少女蘇萊塔・墨丘利，因駕駛神秘機體捲入校園權力鬥爭與企業陰謀的故事。「ミカエリス」是劇中重要角色シャディク・ゼネリ所駕駛的機體，右臂搭載可展開的大型武裝、左臂配備小型盾牌，兩者皆可裝設透明成形的光束零件，是外型充滿壓迫感的敵方陣營代表機體之一。本商品為HG系列作品，2023年1月14日發售，標配盾牌、關節零件、光束軍刀零件兩把及貼紙一張，色分件表現到位、組裝難度親民，是水星的魔女鋼普拉系列中人氣角色座機商品化的代表作。",
     reviews: [],
@@ -32695,6 +32700,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年7月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102655981000&grp_id=5325",
     imageUrl: "/images/hg-lfrith-jiu.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2497",
     tags: ["機動戦士ガンダム 水星の魔女", "HG", "Bandai", "ガンダムルブリス", "ルブリスジウ", "Premium Bandai限定"],
     description: "《機動戦士ガンダム 水星の魔女》官方外傳漫畫《ヴァナディースハート》中登場的「ガンダムルブリスジウ」，是駕駛員キュウテップ・ラボット的座機，延續本傳主角機「ガンダムルブリス」系列一貫的黑色透殼裝甲美學，同時發展出獨具特色的巨大合體武裝「虎の手」（虎爪手），可依戰況切換射擊與格鬥兩種截然不同的戰鬥風格，是外傳作品中相當受矚目的原創機體設計。本商品為HG規格全新開模套件，2023年7月出貨，密度極高的細節雕刻與黑色透明零件的運用，讓機體在鋼普拉化後呈現出比本傳系列更為銳利前衛的視覺風格。套件武裝配置豐富多樣，「虎の手」可拆解重組為多種持械形態，並可與系列其他ルブリス機體的武裝零件互相搭配相容，擴充收藏與把玩樂趣。作為Premium Bandai限定商品，本作是水星の魔女系列鋼普拉陣容中少見取材自外傳漫畫的原創機體，其細節密度與武裝機關複雜度皆超越一般HG規格水準，深受該系列鋼普拉收藏者高度評價。",
     reviews: [
@@ -33486,6 +33492,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年1月31日（再販）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112384140000&grp_id=5325",
     imageUrl: "/images/hg-legend-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/4193",
     tags: ["機動戦士ガンダムSEED DESTINY", "Gundam SEED DESTINY", "HG", "Bandai", "レジェンドガンダム", "ZGMF-X666S"],
     description: "《機動戦士ガンダムSEED DESTINY》中，「レジェンドガンダム」是原作用高性能量產機的最終決戰型態，招牌特徵是巨大的「シールド」實體防禦盾與貫穿力強大的「高エネルギービームライフル」，是劇中頗具威脅性的強敵機體之一。本商品為HG規格套件，採用透明零件重現原作中「攻撃モード」發動時的光效展開場景，內構採「SEEDアクションシステム」高可動骨架設計，能重現SEED系列特有的張力十足戰鬥姿態。套件標配高能量光束步槍、雙持ビームジャベリン、ビームシールド與光刃特效零件，是SEED DESTINY系列鋼普拉陣容中人氣居高不下的一款代表性強敵機體作品。",
     reviews: [],
