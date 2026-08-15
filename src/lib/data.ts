@@ -34481,6 +34481,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2011年4月30日",
     officialUrl: "https://bandai-hobby.net/item/01_3720/",
     imageUrl: "/images/rg-aile-strike-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/658",
     tags: ["機動戦士ガンダムSEED", "Gundam SEED", "RG", "Bandai", "エールストライクガンダム", "GAT-X105"],
     description: "《機動戦士ガンダムSEED》中，「エールストライクガンダム」是主角キラ・ヤマト初期駕駛的主力機體，搭載「エールストライカーパック」翼型推進背包提升機動性。本商品為RG系列第3彈作品，採「アドバンスドMSジョイント」關節構造大幅提升可動範圍，套件標配寫實質感貼紙與豐富多色分色成型，並附キラ・ヤマト站姿與坐姿人形配件。套件細節雕刻與可動性皆維持RG系列一貫高水準工藝，是SEED系列鋼普拉陣容中人氣居高不下的一款經典代表作品。",
     reviews: [
@@ -34522,6 +34523,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年2月29日",
     officialUrl: "https://bandai-hobby.net/item/01_5740/",
     imageUrl: "/images/rg-skygrasper-launcher-sword.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/845",
     tags: ["機動戦士ガンダムSEED", "Gundam SEED", "RG", "Bandai", "スカイグラスパー", "FX-550"],
     description: "《機動戦士ガンダムSEED》中，「スカイグラスパー」是地球連合軍高機動戰鬥機，可與ストライクガンダム組合為「ランチャーストライク」或「ソードストライク」形態，是劇中相當活躍的支援機體之一。本商品為RG規格套件，收錄「ランチャーパック」與「ソードパック」兩種裝備型態，可自由變形展現戰鬥機與武裝掛載形態，套件細節雕刻精緻並可與RG エールストライクガンダム等機體組合展示，是SEED系列鋼普拉陣容中人氣支援機體代表作品。",
     reviews: [],
@@ -34559,6 +34561,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2017年7月8日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660185062000&grp_id=5325",
     imageUrl: "/images/mg-00-zanraiser.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2860",
     tags: ["機動戦士ガンダム00", "Gundam 00", "MG", "Bandai", "ダブルオーザンライザー"],
     description: "《機動戦士ガンダム00V》外傳設定中，「ダブルオーザンライザー」是00ガンダム與オーライザー、ザンユニット三者合體而成的最強決戰形態，標配巨大武裝「GNバスターソードIII」。本商品為MG規格標準配色套件，全長含武裝約300mm，完整重現機體變形機構與精密細節雕刻，00ガンダム、オーライザー、ザンユニット三者皆可分離組裝，並具備展開式「四腕戰鬥」姿態的可動掛架機構。是00系列MG鋼普拉陣容中規格與話題度兼具的一款代表性作品。",
     reviews: [
@@ -34672,6 +34675,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年5月",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102685698000&grp_id=5325",
     imageUrl: "/images/hg-red-gundam-gq.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3103",
     tags: ["機動戦士Gundam GQuuuuuuX", "HG", "Bandai", "赤いガンダム", "gMS-q"],
     description: "《機動戦士Gundam GQuuuuuuX》劇場版中，「赤いガンダム」重現地球聯邦軍試作機RX-78-02原本被夏亞奪取改造後的紅色塗裝樣貌，招牌特徵是頭部與軀幹獨特配色。本商品為HG規格全新開模套件，標配可掛載於手臂或背包的護盾關節配件，並附可透過接口掛載的2枚「ビット」配件，套件豐富武裝與可動關節工藝皆維持HG系列高水準，是GQuuuuuuX系列鋼普拉陣容中話題度極高的一款代表作品。",
     reviews: [
@@ -34692,6 +34696,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年9月27日",
     officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=TOY-GDM-6852",
     imageUrl: "/images/rg-wing-gundam-zero-tv.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/3897",
     tags: ["新機動戦記ガンダムW", "Gundam Wing", "RG", "BANDAI SPIRITS", "ウイングガンダムゼロ"],
     description: "《新機動戦記ガンダムW》原作TV版中，「ウイングガンダムゼロ」是主角ヒイロ・ユイ的最終決戰機體，招牌特徵是巨大天使羽翼狀翼型裝甲。本商品為RG規格全新開模套件，重現原作TV版特有的翼型裝甲造型，標配RG系列獨創機構，包括翼型連結器5軸可動關節、連動可動巴斯特加農砲，並可變形為「ネオバード」形態。套件細節雕刻與可動性皆維持RG系列一貫高水準工藝，是ガンダムW系列鋼普拉陣容中人氣居高不下的一款代表性新作。",
     reviews: [],
@@ -34879,6 +34884,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年10月26日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102674142000&grp_id=5325",
     imageUrl: "/images/hg-black-knight-squad-carla.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1885",
     tags: ["機動戦士ガンダムSEED FREEDOM", "Gundam SEED FREEDOM", "HG", "Bandai", "ブラックナイトスコード", "カルラ"],
     description: "《機動戦士ガンダムSEED FREEDOM》劇場版結局登場的「ブラックナイトスコードカルラ」是由「オルフェ」與「イングリット」共同駕駛的機體，是劇場版最終決戰的話題機體之一。本商品為HG規格套件，內建「SEEDアクションシステム」高可動骨架，標配可展開的背包裝備與光翼特效零件，機體並施以金色雕紋與寫實金屬光澤成型色分色。套件細節雕刻與可動性皆維持該系列高水準工藝，是SEED FREEDOM系列鋼普拉陣容中話題度極高的一款代表性強敵機體作品。",
     reviews: [
