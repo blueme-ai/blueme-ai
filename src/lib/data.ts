@@ -12543,6 +12543,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年11月20日（Premium Bandai限定）",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102672698000&grp_id=5325",
     imageUrl: "/images/mg-narrative-gundam-b-packs-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/2456",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダムNT", "ナラティブガンダム", "Ver.Ka", "Premium Bandai限定"],
     description: "《機動戦士ガンダムNT》是2018年上映的鋼彈系列劇場版動畫，故事銜接《機動戦士ガンダムUC》後續時間線，講述主角ヨナ・バシュタ駕駛「ナラティブガンダム」執行代號「不死鳥狩り作戦」，追尋失落的獨角獣鋼彈技術與角色救贖的故事。ナラティブガンダム可依任務需求換裝A、B、C三種不同背包裝備，其中B裝備搭載特色武裝「有線遠隔攻撃端末」，象徵機體在特定戰術情境下的支援攻擊能力。本商品為由知名機械設計師加藤單（Katoki Hajime）監修的Ver.Ka規格全新造形背包套件，有線遠隔攻撃端末搭載可動軸心機構，可重現電影中不干涉MS本體肩部的射出姿勢，並具備纜線拉出、捲收演出機構，重現武裝發射的動態過程。標準配件包含Action Base與武裝展示台座，可將B裝備與有線攻撃端末以射出狀態同時展示，另附ジオン式サイコフレーム透明跑道零件及C裝備背包用轉接零件，方便玩家日後擴充收藏其他裝備版本，是Ver.Ka系列中造型考究、細節豐富的一款高規格商品。加藤單監修的Ver.Ka系列一貫以貼近電影演出的細膩機構設計著稱，本商品作為背包裝備套件，也讓玩家能靈活切換ナラティブガンダム不同任務形態的收藏玩法。",
     reviews: [],
@@ -12567,6 +12568,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年6月29日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102666949000&grp_id=5325",
     imageUrl: "/images/mg-sinanju-stein-narrative-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/1618",
     tags: ["BOX0002", "ガンプラ", "MG", "1/100", "Bandai", "機動戦士ガンダムNT", "シナンジュ・スタイン", "Ver.Ka"],
     description: "「シナンジュ・スタイン」是《機動戦士ガンダムUC》系列衍生設定中登場的原型機，承繼RX-0系列全機身精神框架技術，機體造型同時融合聯邦與吉翁雙方的設計語彙，象徵其身世與技術來源的複雜性。本商品以《機動戦士ガンダムNT》劇場版登場的「ナラティブVer.」造形為基礎，由加藤單以Ver.Ka規格重新詮釋設計，該版本機體駕駛員為敵方陣營角色ゾルタン・アッカネン（Zoltan Akkanen）。造型上各部位施以精細engraving刻紋線條，此次版本更以純白／純黑零件精準分色呈現機體雙陣營配色，有別於一般版本多以貼紙表現的作法，色彩對比更為銳利分明。武裝方面雙持ビームアックス可連結成長柄ビームナギナタ，亦可拆卸裝設於盾牌上展開光束刃，呈現多種武裝組合變化；手部採用與νガンダムVer.Ka同款的「情感操作器SP」設計，各指節可獨立可動，大幅提升持械與細膩動作的表現力。另附立姿與坐姿兩款ゾルタン・アッカネン人偶，方便玩家搭配情境展示，是Ver.Ka系列中兼具設計深度與細節密度的代表作品。機體融合聯邦與吉翁設計語彙的獨特身世，加上加藤單一貫細膩的機構詮釋手法，使本商品成為鋼彈UC系列衍生機體收藏中話題性與完成度兼具的一款。",
     reviews: [
@@ -13890,6 +13892,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年5月23日",
     officialUrl: "https://bandai-hobby.net/item/01_335/",
     imageUrl: "/images/hgbf-denial-gundam.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/734",
     tags: ["BOX0005", "ガンプラ", "HGBF", "1/144", "Bandai", "ガンダムビルドファイターズトライ", "ディナイアルガンダム"],
     description: "《ガンダムビルドファイターズトライ》為高達模型競技題材動畫系列作品之一，描述主角們操縱自製鋼彈模型於虛擬戰鬥系統中一較高下。「ディナイアルガンダム」是劇中登場、專攻近身戰鬥的原創機體，本商品以HGBF比例呈現其獨特設計。機體配色以深灰與海軍藍為主要基調，並搭配透明紫零件點綴關鍵部位，塑造出低調卻帶神秘感的視覺印象。造型上採小頭配長腿的誇張比例設計，突顯重視機動力與貼身纏鬥的戰鬥風格，與系列中強調火力壓制的機體形成鮮明對比。可動結構方面，本機與同系列人氣機體「ビルドバーニングガンダム」共通部分關節零件，確保基礎可動性與骨架強度，方便玩家擺出各式高難度動作姿勢。套件另標配兩種光子粒子特效零件，可安裝於武裝或手部位置，重現角色使出必殺技瞬間迸發粒子光效的招牌演出畫面，讓靜態展示也能呈現躍動感十足的戰鬥張力。作為HGBF系列一貫親民定位的商品，套件組裝難度適中，色彩分色精度亦有一定水準，玩家無需大量塗裝即可重現機體特色配色，是《ビルドファイターズ》系列中造型獨樹一格、深受近戰機體愛好者關注的一款作品。",
     reviews: [
@@ -15572,6 +15575,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年3月",
     officialUrl: "https://gundam-official.com/witch-from-mercury/product/93/",
     imageUrl: "/images/hg-gundam-aerial-rebuild.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/147",
     tags: ["機動戦士ガンダム 水星の魔女", "ガンダムエアリアル", "HG", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダム 水星の魔女》是鋼彈系列近年備受矚目的原創電視動畫，以商業競技「決鬥」制度與莫比爾套裝（MS）產業為背景，描繪女主角蘇萊塔與神秘鋼彈機體「エアリアル」之間深厚的羈絆，該機更以搭載黑歷史級「鋼彈比特」系統與神秘的貝殼骨架著稱，是全劇最具話題性的存在。「改修型」是劇情後期經過重新調整改修的エアリアル版本，捨棄部分厚重裝甲、換裝更輕量化的骨架與武裝配置，展現角色與夥伴機體歷經劇情試煉後脫胎換骨的全新面貌，是原作故事重要轉折點的象徵機體。本商品為HG系列以親民規格立體化此改修版本，色分精細、免額外塗裝即具備高完成度，光束軍刀與長槍等武裝配件一應俱全，關節可動範圍出色，能重現劇中決鬥場面的多種戰鬥姿態。作為主角機「エアリアル」持續擴充的改版商品，本作讓玩家得以親手重現原作故事後期蘇萊塔與エアリアル羈絆更加深化的關鍵劇情，也是「水星の魔女」系列HG商品線中人氣居高不下的代表作品之一。",
     reviews: [
@@ -15829,6 +15833,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年4月",
     officialUrl: "https://bandai-hobby.net/item/01_531/",
     imageUrl: "/images/hguc-gouf.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/464",
     tags: ["機動戦士ガンダム", "グフ", "ジオン公国軍", "HGUC", "BANDAI SPIRITS", "ガンプラ"],
     description: "《機動戦士ガンダム》是1979年開播的初代鋼彈動畫，奠定了「寫實系機器人」的敘事風格與商業模式，是整個鋼彈系列與機器人動畫產業的原點之作。「グフ（Gouf）」是吉翁公國軍為陸戰用途開發的量產型莫比爾套裝，配備獨特的熱能鞭與大型盾牌，機動性與格鬥能力優於前代薩克，是初代鋼彈中辨識度極高的經典反派機體之一，其設計師大河原邦男的線條美學至今仍深受粉絲喜愛。本商品為HGUC（High Grade Universal Century）系列的「Revive Ver.」重新設計版本，相較舊有HGUC模具在關節可動性與比例協調度上皆有大幅提升，色分精細、免額外塗裝即具備高完成度。套件標配招牌熱能鞭、大型盾牌與機關槍等武裝配件，關節可動範圍出色，能重現原作中格鬥戰鬥的多種姿態。作為初代鋼彈U.C.世界觀中量產機收藏線的經典代表，本作讓玩家得以用現代規格重溫吉翁軍陸戰王牌機體的俐落身影，也是HGUC系列持續以「Revive」規格重新詮釋初代經典機體的代表作品之一。",
     reviews: [
