@@ -35920,7 +35920,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年3月",
     officialUrl: "https://www.taito.co.jp/prize/0477776510",
     imageUrl: "/images/bicute-raphtalia-s3.jpg",
-    tags: ["盾の勇者の成り上がり", "ラフタリア", "BiCute Bunnies", "FuRyu", "景品"],
+    tags: ["景品0001", "盾の勇者の成り上がり", "ラフタリア", "BiCute Bunnies", "FuRyu", "景品"],
     description: "《盾の勇者の成り上がり》中主角尚文的夥伴「ラフタリア」，本商品為FuRyu「BiCute Bunnies Figure」大型景品系列，以招牌貓耳造型搭配黑色兔女郎裝與網眼絲襪呈現角色成熟性感的一面，全高約25cm，2025年3月起於全國景品機台登場，是Season 3周邊收藏中人氣居高不下的一款代表商品。",
     reviews: [],
     youtube: [],
