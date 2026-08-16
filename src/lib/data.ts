@@ -28970,7 +28970,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年10月16日",
     officialUrl: "https://bsp-prize.jp/item/2773116/",
     imageUrl: "/images/ranma-shampoo-glitterglamours.jpg",
-    tags: ["らんま1/2", "シャンプー", "GLITTER&GLAMOURS", "Banpresto", "景品"],
+    tags: ["景品0001", "らんま1/2", "シャンプー", "GLITTER&GLAMOURS", "Banpresto", "景品"],
     description: "《らんま1/2》是高橋留美子的經典格鬥戀愛喜劇，講述遭詛咒會因冷熱水變身男女的主角早乙女らんま，與未婚妻天道あかね及一群性格鮮明的追求者、對手間展開的爆笑生活。中國武術世家出身的美少女シャンプー是らんま的狂熱追求者之一，性格直率熱情。Banpresto「GLITTER&GLAMOURS」系列首次以此系列規格詮釋シャンプー，身著招牌戰鬥服，搭配貓咪意象的可愛俏皮姿勢，是該系列在《らんま1/2》作品線中的代表商品之一。",
     reviews: [],
     youtube: [],
