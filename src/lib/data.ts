@@ -36224,7 +36224,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年6月17日",
     officialUrl: "https://www.hpoi.net/hobby/99322",
     imageUrl: "/images/xingluoguan-nuomimi.jpg",
-    tags: ["景品0001", "オリジナルキャラクター", "星萝馆", "糯米米", "1/7", "猫耳"],
+    tags: ["オリジナルキャラクター", "星萝馆", "糯米米", "1/7", "猫耳"],
     description: "由「会説話的蒲公英」與「suntank」共同設計的原創貓耳角色「糯米米」，以半透明睡裙搭配招牌貓耳貓尾呈現角色慵懶可愛的居家魅力。本商品為中國原型廠「星萝馆」推出的1/7比例塗裝完成品フィギュア，全高約200mm（含台座），2025年6月17日發售，採手感漆塗裝提升觸感質地，是中國原創貓耳角色フィギュア中人氣居高不下的代表商品。",
     reviews: [],
     youtube: [],
