@@ -36067,7 +36067,7 @@ export const collection: CollectibleItem[] = [
     character: "MSM-07S シャア専用ズゴック",
     manufacturer: "BANDAI",
     scale: "MG 1/100",
-    price: "非賣品（絕版）",
+    price: "¥3,300（含稅）",
     releaseDate: "2003年11月",
     officialUrl: "https://bandai-hobby.net/item/01_2901/",
     imageUrl: "/images/mg-char-zgok.jpg",
