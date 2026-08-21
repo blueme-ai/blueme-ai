@@ -29894,8 +29894,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/alter-saber-dress-code.jpg",
     tags: ["Fate", "Fate/stay night", "セイバー", "アルトリア・ペンドラゴン", "ALTER", "アルター", "1/7", "PVC完成品"],
     description: "《Fate/stay night》是Type-Moon於2004年推出的視覺小說原作，描繪召喚英靈（從者）並肩作戰的聖杯戰爭故事，是Fate系列的原點作品。セイバー（アルトリア・ペンドラゴン）身為不列顛傳說中的「騎士王」，手持聖劍Excalibur、性格剛毅正直卻背負孤獨宿命，是Fate系列自初代作品以來最具代表性的招牌角色。本品為ALTER旗下「ドレスコード」系列1/7完成品，一改角色平時鎧甲戰鬥裝束，改以優雅禮服造型呈現騎士王卸下武裝、盛裝出席正式場合的另一面魅力，原型製作由林本亮操刀，珍珠光澤處理的禮服質感與細膩的皺褶雕刻皆展現ALTER一貫的高完成度水準，全高約270mm，是アルトリア角色商品化陣容中優雅路線的代表作之一。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "アルター セイバー ドレスコード レビュー", url: "https://hacchaka.net/archives/51893206.html", lang: "ja" },
+      { title: "【レビュー】 アルター 1/7 セイバー ドレスコード [Fate/stay night]", url: "https://shishioh.info/ALTER_Saber_Dress_Code.php", lang: "ja" },
+    ],
+    youtube: [
+      { title: "[フィギュアレビュー]セイバーと一緒に踊りたい！【Fate/stay night】セイバー/ドレスコード〜Figure review〜", url: "https://www.youtube.com/watch?v=aoC-8_c7Icg", lang: "ja" },
+    ],
   },
   {
     id: "alter-saber-alter-dress-ver",
