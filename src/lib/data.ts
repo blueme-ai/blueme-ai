@@ -36423,7 +36423,7 @@ export const collection: CollectibleItem[] = [
     scale: "TENITOL TALL（ノンスケール、全高約310mm／台座含）",
     price: "¥10,450（含稅）",
     releaseDate: "2025年8月31日",
-    officialUrl: "https://www.hlj.com/tenitol-tall-anna-yanami-makeine-too-many-losing-heroines-fruamu-tnl0108",
+    officialUrl: "https://furyu-hm.com/products/tnl-uxxn4yel",
     imageUrl: "/images/furyu-tenitol-tall-anna-yanami.jpg",
     tags: ["負けヒロインが多すぎる", "Makeine", "八奈見杏菜", "Anna Yanami", "FuRyu", "TENITOL", "水着"],
     description: "《負けヒロインが多すぎる！》人氣角色「八奈見杏菜」以夏日海邊比基尼造型立體化，加入FuRyu平價向大尺寸品牌「TENITOL」旗下「TENITOL TALL」系列。單手高舉沙灘球、另一手比出勝利手勢的躍動姿態，捕捉角色開朗活潑、精神百倍投入海邊玩樂的瞬間，隨風飄逸的髮絲與泳裝綁帶細節皆講究雕琢。原型製作為Sparrow Co., Ltd.，上色由B_Sachi負責，全高約31cm的大尺寸規格在平價向商品線中相當有存在感，是動畫化後人氣急速攀升的本作代表角色立體化商品之一。",
