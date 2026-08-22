@@ -36390,4 +36390,26 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [],
   },
+  {
+    id: "banpresto-grandista-son-goku",
+    addedAt: "2026-08-22",
+    name: "ドラゴンボールZ Grandista-SON GOKU-",
+    nameJa: "ドラゴンボールZ Grandista-SON GOKU-",
+    series: "ドラゴンボールZ",
+    character: "孫悟空（超サイヤ人）",
+    manufacturer: "BANDAI SPIRITS（Banpresto）",
+    scale: "Grandista（全高約22cm）",
+    price: "アミューズメント景品（プライズ、店頭価格不定）",
+    releaseDate: "2025年3月5日",
+    officialUrl: "https://bsp-prize.jp/item/2739494/",
+    imageUrl: "/images/banpresto-grandista-son-goku.jpg",
+    tags: ["ドラゴンボールZ", "Dragon Ball Z", "孫悟空", "超サイヤ人", "Grandista", "Banpresto", "景品"],
+    description: "《ドラゴンボールZ》主角孫悟空以超級賽亞人形態、蓄勢待發準備放出龜派氣功的姿態立體化，是Banpresto「Grandista」系列以壓倒性尺寸與雕刻密度為賣點的代表商品線之一。全高約22cm，透過誇張的肌肉線條與衣物飄動感呈現戰鬥張力，臉部表情刻畫出角色蓄力瞬間的專注神情，充分展現Grandista系列一貫追求的動態魄力與量感造型。本商品為日本國內遊戲中心夾娃娃機台專用的景品（プライズ）商品，2025年3月5日起於各店鋪陸續上架，非一般零售通路販售，價格因店鋪與取得方式而異，是ドラゴンボール角色收藏線中人氣居高不下的代表作之一。",
+    reviews: [
+      { title: "【超サイヤ人孫悟空レビュー】ドラゴンボールZ Grandista-SON GOKU-（2025年最新作プライズフィギュア）", url: "https://omochalaheadchala.com/2025/03/08/%E3%80%90%E8%B6%85%E3%82%B5%E3%82%A4%E3%83%A4%E4%BA%BA%E5%AD%AB%E6%82%9F%E7%A9%BA%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABz-grandista/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【レビュー】Grandista-SON GOKU-【ドラゴンボールZ】", url: "https://www.youtube.com/watch?v=x0Eif5nZsYE", lang: "ja" },
+    ],
+  },
 ]
