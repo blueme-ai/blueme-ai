@@ -27430,7 +27430,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年1月17日",
     officialUrl: "https://segaplaza.jp/prize/D122084/",
     imageUrl: "/images/macross-f-figurizm-ranka-toki-meikyu.jpg",
-    tags: ["マクロスF", "ランカ・リー", "FIGURIZMα", "時の迷宮", "SEGA", "景品"],
+    tags: ["景品0001", "マクロスF", "ランカ・リー", "FIGURIZMα", "時の迷宮", "SEGA", "景品"],
     description: "《劇場短編マクロスF～時の迷宮～》紀念短篇中，SEGA「FIGURIZMα」以ランカ・リー手持紙飛機、單腳躍起的活潑姿態立體化，招牌綠髮搭配私服短版上衣與牛仔短褲，捕捉角色充滿元氣的日常瞬間，全高約9×17cm，可與同系列シェリル・ノーム版本並列展示，重現劇中兩人一同奔跑嬉鬧的溫馨場景。",
     reviews: [],
     youtube: [],
