@@ -33700,7 +33700,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年1月",
     officialUrl: "https://tamashiiweb.com/item/15468/",
     imageUrl: "/images/hi-metal-r-vf0s-phoenix-ghost.jpg",
-    tags: ["マクロスゼロ", "Macross Zero", "HI-METAL R", "BANDAI SPIRITS", "VF-0S", "フェニックス", "ロイ・フォッカー"],
+    tags: ["マクロスゼロ", "Macross Zero", "HI-METAL R", "BANDAI SPIRITS", "VF-0S", "フェニックス", "ロイ・フォッカー", "MACROSS0009"],
     description: "《マクロスゼロ》是《超時空要塞マクロス》系列世界觀最初期的OVA外傳作品，「VF-0Sフェニックス」是王牌飛行員「ロイ・フォッカー」的專屬座機，本商品重現機體標配無人偵察機「QF-2200D-B ゴースト」的特攻突擊最強裝備組合。「HI-METAL R」是BANDAI SPIRITS旗下主打高質感金屬質地與完整三段變形機構重現的可動人偶品牌，本商品完整支援「ファイター」「ガウォーク」「バトロイド」三段變形，並可自由選擇搭載或不搭載ゴースト的兩種展示形態，標配3種主翼配件（標準型、懸掛型、バトロイド専用型）、槍炮、多款飛彈莢艙、飛行員人形與展示台座。台座並印有骷髏頭標誌，是マクロスゼロ系列周邊收藏者與HI-METAL R系列收藏者相當熱衷蒐集的一款頂級規格代表作品。",
     reviews: [],
     youtube: [],
