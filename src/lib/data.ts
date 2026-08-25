@@ -1256,7 +1256,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/14151/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）是一名出身歌舞伎世家、卻選擇成為可變戰機駕駛員的青年，其座機VF-25F Messiah在劇中歷經多次強化改裝，是全劇人氣與戲份最高的機體之一。「Super Pack（超音速噴射背包）」是VF-25系列常見的強化配置，透過在機體背部加裝大型推進與火力模組，大幅提升高速突破與持久作戰能力，使原本靈巧的Messiale機體轉變為更具火力壓制力的姿態，是劇中中後期空戰場面的常見配置。此為REVIVAL復刻版本，依循現行DX CHOGOKIN的製造規格重新調整模具與塗裝配方，相較初版在關節可動範圍、零件公差與塗裝精細度上均有明顯提升，展現品牌對經典機體的持續優化誠意。機體延續系列標誌性的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Alto機VF-25F眾多版本中兼具還原度與現代工藝水準的代表作品之一。",
     reviews: [
       {
@@ -1416,7 +1416,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14559/",
     imageUrl: "/images/dx-chogokin-vf171ex-armored-alto-revival.jpg",
-    tags: ["マクロス", "マクロスF", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-171EX", "アーマード", "ナイトメア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
     description: "《劇場版Macross Frontier：The Wings of Goodbye》是Frontier系列劇場版三部曲的完結篇，講述主角早乙女アルト在情感與戰爭雙重糾葛下走向最終抉擇的故事，是整個Frontier世界觀情感濃度最高的一部作品。VF-171EX（夢魘改良型）是電視版VF-171 Nightmare的強化衍生機型，專為劇場版完結篇量身打造，是Alto在片中最終決戰時所駕駛的座機，象徵其角色弧線的最終總結。「ARMORED（全套裝甲）」形態透過在機體各部位加裝大型裝甲外殼，大幅強化防禦與火力輸出，使原本靈巧的VF-171EX轉變為重裝突擊姿態，是Alto在劇場版終幕中面對最終決戰時所展現的最強戰鬥形態，視覺上也因大型裝甲外殼而呈現強烈的重裝壓迫感。此為REVIVAL復刻版本，依現行DX CHOGOKIN規格重新調整模具與塗裝精度，延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Macross Frontier劇場版周邊中份量感與劇情意義兼具的重點收藏。",
     reviews: [
       {
@@ -1669,6 +1669,54 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
+    id: "dx-chogokin-vf31f-siegfried-messer",
+    addedAt: "2026-08-25",
+    name: "DX超合金 VF-31F ジークフリード（メッサー・イーレフェルト機）",
+    nameJa: "DX超合金 VF-31F ジークフリード（メッサー・イーレフェルト機）",
+    series: "マクロスΔ（Macross Delta）",
+    character: "VF-31F Siegfried（メッサー・イーレフェルト機）",
+    manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
+    scale: "1/60",
+    price: "¥22,000",
+    releaseDate: "2017年4月22日",
+    officialUrl: "https://tamashiiweb.com/item/11671/",
+    imageUrl: "/images/dx-chogokin-vf31f-siegfried-messer.jpg",
+    tags: ["マクロス", "マクロスΔ", "VF-31F", "ジークフリード", "メッサー", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
+    description: "《超時空要塞Δ》中，メッサー・イーレフェルト是Δ小隊隊長，性格沉穩老練，座機VF-31F齊格弗里德在劇中以「死神」的個人徽章塗裝著稱，是Δ小隊機體陣容中辨識度極高的一架。本商品為DX超合金系列作品，2017年4月22日發售，新雕刻頭部造型重現死神識別標誌，並隨附メッサー與搭檔カナメ・バッカニア兩款駕駛員人形、6種替換手腕、格鬥小刀與多機無人僚機掛載板等豐富配件，完整支援戦闘機、ガウォーク、バトロイド三型態變形機構。延續系列標誌性金屬壓鑄骨架與精密可動關節，是マクロスΔ電視版隊長機收藏中兼具人氣角色與紮實規格的代表作品。",
+    reviews: [
+      {
+        title: "DX超合金 VF-31Fジークフリード(メッサー・イーレフェルト機) レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52003075.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "[マクロストイの傑作玩具!!!]DX超合金 VF-31F ジークフリード＆リルドラケン レビュー",
+        url: "https://www.youtube.com/watch?v=lPZzEzqrHwQ",
+        lang: "ja",
+      },
+    ],
+  },
+  {
+    id: "dx-chogokin-vf31f-siegfried-messer-super-parts",
+    addedAt: "2026-08-25",
+    name: "DX超合金 VF-31F ジークフリード（メッサー・イーレフェルト機）用スーパーパーツセット",
+    nameJa: "DX超合金 VF-31F ジークフリード（メッサー・イーレフェルト機）用スーパーパーツセット",
+    series: "マクロスΔ（Macross Delta）",
+    character: "VF-31F Siegfried 用 Super Parts（メッサー・イーレフェルト機）",
+    manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
+    scale: "1/60",
+    price: "¥7,480",
+    releaseDate: "2017年10月",
+    officialUrl: "https://tamashiiweb.com/item/12119/",
+    imageUrl: "/images/dx-chogokin-vf31f-siegfried-messer-super-parts.jpg",
+    tags: ["マクロス", "マクロスΔ", "VF-31F", "ジークフリード", "メッサー", "スーパーパーツ", "魂ウェブ商店限定", "DX超合金", "1/60", "Bandai", "MACROSS0009"],
+    description: "《超時空要塞Δ》劇中メッサー・イーレフェルト所駕駛的VF-31F齊格弗里德，在部分戰鬥場面曾裝備大型超音速追加背包強化航程與火力，是Δ小隊隊長機重裝配置的具體呈現。本商品為魂ウェブ商店限定販售的「スーパーパーツセット」超音速追加背包配件組，2017年10月發送，須搭配另售的DX超合金 VF-31Fジークフリード（メッサー・イーレフェルト機）本體使用，本身不含機體本體。透過裝設大型推進背包，可將標準機體升級為劇中重裝突擊形態，延續Macross系列自VF-1以來「Super Pack」外掛式強化傳統，是深度收藏メッサー機各種形態的玩家不可或缺的補完配件。",
+    reviews: [],
+    youtube: [],
+  },
+  {
     id: "dx-chogokin-vf31ax-first-limited-hayate",
     addedAt: "2026-06-20",
     name: "DX超合金 初回限定版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）",
@@ -1682,7 +1730,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13691/",
     imageUrl: "/images/dx-chogokin-vf31ax-first-limited-hayate.jpg",
     manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102621085.pdf",
-    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "初回限定", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
     description: "《劇場版Macross Δ：Passionate Walküre》延續電視動畫《Macross Δ》的世界觀，講述新生代王牌飛行員與偶像團體「Walküre」共同對抗「Var症候群」與敵對勢力的故事，是Macross系列近年最具代表性的一部作品。VF-31AX Kairos-Plus是主角Hayate Immelmann在劇場版中駕駛的強化型機體，相較電視版標準機型VF-31，此機採用全新骨架設計，大幅強化了整體可動性與戰鬥性能，是Δ系列機體中技術層次最高的機型之一，象徵劇情推進下主角戰力的全面升級。此為初回限定版本，除標準配件外另附更多特別零件與規格配置，展現初回限定商品一貫的高規格待遇。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，變形流暢度與細節精度均達現行DX CHOGOKIN頂尖水準，是Macross Δ劇場版機體收藏中規格最完整的初期版本之一，深受系列玩家青睞。",
     reviews: [
       {
@@ -25203,7 +25251,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年7月25日",
     officialUrl: "https://tamashiiweb.com/item/1113/",
     imageUrl: "/images/dx-chogokin-vf25f-armored-parts-alto-color.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25", "アーマードパーツ", "アルト", "DX超合金", "Bandai"],
+    tags: ["マクロス", "マクロスF", "VF-25", "アーマードパーツ", "アルト", "DX超合金", "Bandai", "MACROSS0009"],
     description: "《マクロスF》主角早乙女アルト座機VF-25F メサイアバルキリー，劇中曾裝備強化裝甲與追加武裝的「アーマード」形態，重裝甲賦予機體更強的防禦力與火力支援能力，是劇中面對強敵時的重裝配置。本商品為2009年隨劇場版上映時期推出的初版擴充裝甲配件組，須搭配另售的DX超合金 VF-25F メサイアバルキリー（早乙女アルト機）本體使用，本身不含機體本體。裝甲配色比照アルト機標準塗裝設計，讓玩家可將既有的メサイアバルキリー本體升級為劇中的「アーマードメサイア」重裝外觀，重現戦闘機、ガウォーク、戦闘人形三型態下的追加裝甲展開演出。相較後來推出的「リニューアルVer.」重新設計版，此為原始初版配件，比例與細節刻畫皆保留2009年當代的設計風格，是深度收藏DX超合金VF-25系列、重現アルト機重裝甲形態的早期珍貴配件。",
     reviews: [],
     youtube: [],
@@ -25258,7 +25306,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14700/",
     imageUrl: "/images/himetal-r-vf0a-phoenix-shin-ghost.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000014700_WLJ4LKh0_300.pdf",
-    tags: ["マクロス", "マクロスゼロ", "VF-0A", "HI-METAL R", "Bandai", "工藤シン", "ゴースト", "可變形"],
+    tags: ["マクロス", "マクロスゼロ", "VF-0A", "HI-METAL R", "Bandai", "工藤シン", "ゴースト", "可變形", "MACROSS0009"],
     description: "《マクロスゼロ》主角工藤シン所駕駛的VF-0A フェニックス，是統合軍尚未完全掌握OTM技術前的初代可變戦闘機，機體造型較後期VF-1更顯厚重原始，是系列世界觀承先啟後的重要機種。本商品為「HI-METAL R」系列作品，重現最終決戰中工藤シン機搭載無人僚機QF-2200D-B「ゴースト」的最終戰裝備樣式，機體採用全新開模的A型頭部與大量新造武裝零件，ゴースト與武裝零件同樣支援戦闘機、GERWALK、Battroid三段變形機構，可與本體聯動展示戰鬥隊形。塗裝以灰藍色系為基調，忠實呈現工藤シン機低調沉穩的機體識別色，並延續HI-METAL R系列講究金屬質感與精密關節可動的一貫工藝水準。作為マクロスゼロ後期劇情高潮的具體立體化呈現，是VF-0系列收藏者重現最終決戰場面不可或缺的一款。",
     reviews: [],
     youtube: [],
@@ -27503,7 +27551,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13993/",
     imageUrl: "/images/hi-metal-r-vf0s-phoenix-roy-focker.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000013993_SY3ApPHN_300.pdf",
-    tags: ["マクロスゼロ", "HI-METAL R", "VF-0S", "フェニックス", "ロイ・フォッカー", "BANDAI SPIRITS"],
+    tags: ["マクロスゼロ", "HI-METAL R", "VF-0S", "フェニックス", "ロイ・フォッカー", "BANDAI SPIRITS", "MACROSS0009"],
     description: "《超時空要塞ZERO》中，傳奇王牌飛行員ロイ・フォッカー駕駛的「VF-0Sフェニックス」是VF-1女武神系列的原型機種，白色機身搭配骷髏標誌，代表統合軍最早期實戰化的可變戰鬥機。本商品為「HI-METAL R」系列可變形玩具，2022年10月22日發售，可在戰鬥機、GERWALK、機人三型態間完整變形，標配專屬展示台座與ロイ・フォッカー個人徽章，與YAMATO時代1/60「完全変形」系列屬於不同規格與世代的獨立收藏品，是近年重新詮釋マクロスゼロ角色機的代表商品。",
     reviews: [],
     youtube: [
