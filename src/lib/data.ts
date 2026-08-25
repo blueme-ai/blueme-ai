@@ -1211,7 +1211,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年5月28日",
     officialUrl: "https://tamashiiweb.com/item/13806/",
     imageUrl: "/images/dx-chogokin-vf25-worldwide-anniv.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスF", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスF", "VF-25", "ワールドワイドアニバーサリー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Frontier》於2008年播出，是Macross系列邁入21世紀後最成功的續作之一，以偶像歌手、可變戰機與異星生命體的三方糾葛為主軸，插曲《星間飛行》等歌曲更成為系列代表作，帶動VF-25系列機體人氣長期居高不下。VF-25 Messiah是本作主角小隊的標準配置機體，設計上延續Macross系列一貫的Fighter、GERWALK、Battroid三型態變形美學，同時導入更符合現代審美的流線造型，是Frontier世界觀中辨識度最高的機體之一。此為紀念DX CHOGOKIN系列全球發展、推出的「Worldwide Anniversary」紀念版本，特別配合全球周年活動設計了專屬塗裝與豐富配件，色彩層次與細節處理較常規版本更為講究。機體延續系列標誌性的金屬壓鑄骨架與完全變形機構，三型態切換流暢紮實，作為紀念性質的特別版本，此商品兼具機體本身的高人氣與周年紀念的稀缺性，對Macross Frontier系列收藏者而言具有特殊的收藏意義。",
     reviews: [
       {
@@ -1474,7 +1474,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/13952/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-max-full-set.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスF", "マクロスΔ", "YF-29", "デュランダル", "マクシミリアン・ジーナス", "フルセットパック", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《Macross Delta 絕對LIVE!!!!!!》是2021年上映的劇場版，作為電視動畫《Macross Δ》的劇情延伸與總結篇，同時也串連起《Macross Frontier》世界觀，讓兩代主角世代在劇中產生交集，是系列橋接不同時代作品的重要嘗試。Maximilian Jenius（Max）是初代《超時空要塞Macross》的傳奇王牌飛行員，其後代與其本人在後續多部Macross作品中持續登場，象徵系列老玩家心中的傳承符號，此次於Delta劇場版中駕駛次世代高性能可變機YF-29 Durandal，延續其王牌飛行員的地位。YF-29是Macross宇宙中性能最頂尖的可變機之一，由《Frontier》世界觀的技術延伸而來，象徵新舊世代科技與人物的接軌。此為附全套Super Part追加零件的「Full Set Pack」版本，收錄機體強化所需的完整配件組合，延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與三型態完全變形機構，是連結Frontier與Delta兩個世代、兼具傳承意義與高規格工藝的收藏逸品。",
     reviews: [
       {
@@ -1842,7 +1842,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/13759/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-mirage.jpg",
     manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102629753.pdf",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版Macross Δ：Passionate Walküre》中，Mirage Farina Jenius是新生代王牌飛行員之一，同時也是初代Macross傳奇王牌Maximilian Jenius（Max）的孫女，血統傳承的設定讓這名角色在系列世代交替的敘事中別具意義，也讓其座機VF-31AX Kairos-Plus承載著跨世代呼應的象徵性。此機與同隊主角Hayate Immelmann所駕駛的VF-31AX共用機體平台，但採用獨特的翠綠色塗裝方案，色調清新明亮，有別於隊上其他成員機體慣用的配色，是Δ小隊中辨識度最高、也最具個人風格的機體塗裝之一。VF-31AX相較電視版標準機型VF-31採用全新骨架設計，大幅強化了整體可動性與戰鬥性能，是Δ系列中技術規格最高的機型之一。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Δ劇場版周邊中兼具世代傳承意義與獨特視覺辨識度的收藏作品。",
     reviews: [
       {
@@ -1932,7 +1932,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年",
     officialUrl: "https://tamashiiweb.com/item/13935/",
     imageUrl: "/images/dx-chogokin-vf31ax-movie-borg.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《劇場版 マクロスΔ／Passionate Walküre》為2021年上映的完結篇電影，承接電視版劇情，描繪Delta小隊在對抗溫達米亞王國與Var症候群威脅中的最終決戰，也為隼、美雷等主要角色的故事線畫下句點。博格・康法特是Delta小隊（Walküre護衛隊）成員之一，座機為電影版新規格VF-31AX凱洛斯Plus，性能較電視版VF-31有全面提升。DX超合金系列以合金壓鑄搭配高精度可動關節為賣點，完整重現Fighter（戰鬥機）、Gerwalk（過渡形態）、Battroid（人形態）三段變形機構，變形過程操作直覺，關節可動範圍大，塗裝分色與細節皆貼近設定原畫。相較隼機與美雷機常見的主角識別配色，博格機採用不同的個人識別塗裝與部件分割，凸顯角色個性與部隊識別，是收集Delta小隊全員專屬座機不可或缺的一件。本品為魂ウェブ限定商品，發售後不再版，市場流通量有限，具一定收藏與轉手價值，對於希望並列展示隼、美雷、博格三機完整陣容的玩家而言，本品是補齊全隊收藏拼圖的重要一塊。",
     reviews: [
       {
@@ -9666,7 +9666,7 @@ export const collection: CollectibleItem[] = [
     height: "約260mm（バトロイド形態）",
     officialUrl: "https://tamashiiweb.com/item/11786/",
     imageUrl: "/images/dx-chogokin-vf31c-siegfried-mirage.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスΔ", "VF-31C", "ジークフリード", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスΔ", "VF-31C", "ジークフリード", "ミラージュ", "ジーナス", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《TV版マクロスΔ》中ミラージュ・ファリーナ・ジーナス是傳奇王牌マックス・ジーナス與ミリア・ファリーナ夫婦的孫女，血統背景使她自幼便被寄予厚望，個性認真拘謹卻在與ハヤテ等隊員的相處中逐漸敞開心房，是Δ小隊中技術扎實的重要戰力，其身世也讓老牌Macross粉絲倍感親切。她在劇中前期駕駛的VF-31C ジークフリード，粉紫白灰的個人配色與ハヤテ機的紅色形成鮮明對比，展現角色沉穩內斂的性格特質。\n\n本商品為TV版時期機體的DX超合金立體化，此為劇場版VF-31AX Kairos-Plus之前的版本，新頭部雕刻與專屬塗裝辨識度高。內附換手、格鬥小刀、ミラージュ與マキナ兩款駕駛員人偶及專用台座，可重現三段變形機構與多種展示姿勢，是喜愛Jenius家族血統設定的收藏者值得入手的一件。",
     reviews: [
       {
@@ -9695,7 +9695,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年5月",
     officialUrl: "https://tamashiiweb.com/item/12418/",
     imageUrl: "/images/dx-chogokin-vf31c-siegfried-superparts-mirage.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスΔ", "VF-31C", "ジークフリード", "ミラージュ", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスΔ", "VF-31C", "ジークフリード", "ミラージュ", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "延續傳奇王牌マックス・ジーナス與ミリア血脈的ミラージュ・ファリーナ・ジーナス，在《マクロスΔ》劇情推進中隨隊伍屢屢面對溫德米亞王國的強力攻勢，其座機VF-31C ジークフリード亦需搭配強化裝備才能對抗日益升級的戰局，呼應劇中Δ小隊整體戰力持續進化的設定脈絡，也讓這位低調的技術派角色在戰鬥表現上不落人後。\n\n本套組為DX超合金VF-31Cジークフリード（ミラージュ機）本體追加的Super Parts擴充配件，魂ウェブ商店限定販售，2017年底受注、2018年5月出貨。裝設後可將本體升格為強化版「スーパージークフリード」形態，大幅提升機體的武裝密度與整體量感，與ハヤテ機的VF-31J專用Super Parts為對應但獨立的套組，方便玩家依角色分別收集強化配件，完整重現Δ小隊在後段戰役中的火力升級陣容。",
     reviews: [],
     youtube: [
@@ -9719,7 +9719,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年9月29日",
     officialUrl: "https://tamashiiweb.com/item/1786/",
     imageUrl: "/images/dx-chogokin-vf25g-messiah-michael-renewal.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《マクロスF》中ミハエル・ブラン是天鳳隊（Skull小隊）成員之一，個性沉穩內斂、擅長狙擊戰術，與隊上的ルカ形成鮮明對比，其座機VF-25G メサイアバルキリー是VF-25系列中特化遠距離精準打擊的狙擊型號，搭載大型狙擊裝備以發揮其戰術特長，也讓天鳳隊在正面交戰之外多了一層戰術縱深。\n\n本商品為リニューアルVer.（改良重製版），沿用アルト機・オズマ機時期建立的關節結構並持續優化，肩部與頸部可動範圍更自然，可重現趴姿射擊等狙擊姿勢，充分展現ミハエル機的戰術定位。標配專屬大型狙擊槍，並附有アルト・オズマ機當初未附屬的Super Parts，是VF-25G系列中可動性與遊玩性最完整的版本，發售時間早於後續2023年推出的スーパーメサイアバルキリー リバイバルVer.，對比之下更能看出關節設計的世代演進。",
     reviews: [
       {
@@ -9748,7 +9748,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年8月",
     officialUrl: "https://tamashiiweb.com/item/10627/",
     imageUrl: "/images/dx-chogokin-vf25g-tornado-parts-renewal.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "トルネードパーツ", "擴充套件", "DX超合金", "Bandai"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "トルネードパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "《劇場版マクロスF 絶対LIVE!!!!!!～サヨナラノツバサ～》中Vajra侵略危機升級，天鳳隊成員ミハエル・ブラン的座機VF-25G メサイアバルキリー在劇情高潮的空戰中換裝了強化用龍捲風裝甲，以應對更為凶猛的敵方戰力，展現角色從狙擊支援轉為正面迎敵的戰術轉變，也呼應電影後段全員總動員迎戰Vajra本體的高潮氛圍。\n\n本套組為DX超合金VF-25Gメサイアバルキリー（ミハエル機）リニューアルVer.本體追加的Tornado Parts擴充配件，魂ウェブ商店限定販售，2014年2月受注、8月出貨。裝上後可重現劇場版中米海爾機的強化龍捲風裝甲形態，外裝造型較標準版更具份量感與攻擊性，不含本體，需另行搭配本體套件組裝使用，是補完劇場版劇情戰鬥場面不可或缺的擴充配件。",
     reviews: [],
     youtube: [
@@ -9772,7 +9772,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年10月",
     officialUrl: "https://tamashiiweb.com/item/10421/",
     imageUrl: "/images/dx-chogokin-vf25g-super-parts-renewal.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロスF", "VF-25G", "メサイア", "ミハエル・ブラン", "リニューアルVer.", "スーパーパーツ", "擴充套件", "DX超合金", "Bandai"],
     description: "《マクロスF》系列中VF-25系可變戰機在面對Vajra蟲族的高強度戰鬥時，往往需要搭配額外裝甲與武裝強化才能發揮完整戰力，Super Parts正是此類強化構型的代表性配備，能大幅提升機體的裝甲防禦與整體火力密度，呼應劇中戰局逐步升級的敘事節奏，也讓原本以狙擊見長的機體多了一層正面對抗的能力。\n\n本套組為DX超合金VF-25Gメサイアバルキリー（ミハエル・ブラン機）リニューアルVer.本體追加的Super Parts擴充配件，不含本體，需搭配本體套件組裝使用。裝上後可強化機體火力與防禦外觀，讓原先以狙擊為特長的メサイア機也能具備正面迎敵的重裝甲形態，與同系列的Tornado Parts分屬不同的強化構型，收藏者可依喜好選擇不同形態進行展示，完整呈現VF-25G機體的多樣化戰術面貌。",
     reviews: [],
     youtube: [
@@ -9796,7 +9796,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年5月10日",
     officialUrl: "https://tamashiiweb.com/item/10603/",
     imageUrl: "/images/dx-chogokin-yf29-durandal-ozma.jpg",
-    tags: ["MACROSS003@中壢收多易", "マクロス", "マクロス30", "YF-29", "デュランダル", "オズマ・リー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0003@中壢收多易", "マクロス", "マクロス30", "YF-29", "デュランダル", "オズマ・リー", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "《マクロス30 銀河を繋ぐ歌姫》是為紀念Macross系列30週年推出的遊戲作品，串聯歷代主角與機體展開跨時空劇情，オズマ・リー身為天鳳隊隊長、シェリル的兄長角色，性格穩重可靠，是《マクロスF》系列中舉足輕重的支援型角色，在正傳中始終以沉著冷靜的形象守護隊員與シェリル。本作中他駕駛次世代試驗機YF-29 デュランダルバルキリー登場，展現超越常規天鳳隊機體的壓倒性戰力，也讓這位配角角色有機會駕駛系列中最頂尖的機體亮相。\n\n本商品為DX超合金立體化版本，深灰黑的沉穩塗裝與アルト／マックス機的鮮豔配色形成對比，貼合オズマ沉穩內斂的角色性格。機體腳踝可動範圍優異，GERWALK形態可做出漂亮的鳥足站姿，各形態皆可掛載槍炮，標配可動手指，細節與可玩性兼具，是YF-29系列收藏中呈現不同駕駛員個性配色的重要一件。",
     reviews: [
       {
