@@ -1042,7 +1042,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年1月",
     officialUrl: "https://tamashiiweb.com/item/14111/",
     imageUrl: "/images/dx-chogokin-vf1a-angel-birds.jpg",
-    tags: ["マクロス", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0010"],
+    tags: ["マクロス", "VF-1A", "エンジェルバーズ", "特別塗裝", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0011"],
     description: "《超時空要塞Macross》中，「Angel Birds」是統合軍設定的飛行表演隊，專門在和平時期進行特技飛行展示，藉此凝聚軍民士氣、展現統合軍的技術實力，是劇中呈現地球文明重建與日常一面的重要設定之一，與主線的星際戰爭形成對比。VF-1A是女武神系列中的量產標準型，此版本專為Angel Birds表演隊設計了特殊塗裝，全機以藍白為主色調，線條俐落明快，有別於一般作戰機體慣用的迷彩或軍規配色，呈現出表演隊特有的清爽亮眼氣質，也讓玩家得以一窺Macross世界觀中非戰鬥用途機體的另一種美學面貌。此為TAMASHII魂ウェブ商店限定的DX CHOGOKIN版本，延續系列一貫的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，精細重現Angel Birds塗裝的每一處細節分色，在陣容眾多以軍用迷彩為主的VF-1系列收藏品中，是視覺風格最為獨特清新的一款，也因限定通路而具備一定的收藏稀缺性。",
     reviews: [
           {
@@ -1256,7 +1256,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/14151/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0010"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0011"],
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）是一名出身歌舞伎世家、卻選擇成為可變戰機駕駛員的青年，其座機VF-25F Messiah在劇中歷經多次強化改裝，是全劇人氣與戲份最高的機體之一。「Super Pack（超音速噴射背包）」是VF-25系列常見的強化配置，透過在機體背部加裝大型推進與火力模組，大幅提升高速突破與持久作戰能力，使原本靈巧的Messiale機體轉變為更具火力壓制力的姿態，是劇中中後期空戰場面的常見配置。此為REVIVAL復刻版本，依循現行DX CHOGOKIN的製造規格重新調整模具與塗裝配方，相較初版在關節可動範圍、零件公差與塗裝精細度上均有明顯提升，展現品牌對經典機體的持續優化誠意。機體延續系列標誌性的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Alto機VF-25F眾多版本中兼具還原度與現代工藝水準的代表作品之一。",
     reviews: [
       {
@@ -1331,7 +1331,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14354/",
     imageUrl: "/images/dx-chogokin-vf25g-super-messiah-michael-revival.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0010"],
+    tags: ["マクロス", "マクロスF", "VF-25G", "スーパーメサイア", "マイケル", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0011"],
     description: "《Macross Frontier》主角小隊中，Michael Blanc是隊上技術性最強、負責遠程精準打擊的狙擊手角色，其座機VF-25G相較其他隊員機體採用完全不同的機首設計——大型化的感測器頭部取代了常規機首，以支援長程狙擊所需的高精度標定系統，是VF-25系列中外觀辨識度最獨特的一款，也體現了Macross設計團隊在同一系列基礎機型上發展多元角色定位的巧思。此為加裝「Super Pack（超音速噴射背包）」強化形態的REVIVAL復刻版本，Super Pack賦予機體更強的高速機動與持久作戰能力，讓原本以精準狙擊見長的VF-25G在近距離作戰時也具備更高存活率。REVIVAL版依現行DX CHOGOKIN規格重新調整模具與塗裝，可動性與零件精度均優於初版。延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Frontier小隊眾多座機周邊中，最能體現角色個人特色與戰術定位的一款收藏品。",
     reviews: [
       {
@@ -1460,36 +1460,6 @@ export const collection: CollectibleItem[] = [
     description: "《劇場版Macross Frontier：The Wings of Goodbye》中，早乙女アルト所駕駛的VF-171EX ナイトメアプラスEX，於劇場版終盤決戰換裝大型裝甲外殼強化防禦與火力，是重現Alto最終戰姿態不可或缺的裝備。本商品為2012年12月發送的初版「アーマードパーツ」擴充配件組，須搭配另售的DX超合金 VF-171EX ナイトメアプラスEX本體使用，本身不含機體本體。裝設後可將標準機體升級為劇場版終幕的重裝突擊形態，是後續2024年推出「アーマードナイトメアプラスEX リバイバルVer.」完全體商品問世前，最早期讓玩家自行組裝重現此形態的配件商品，對長年收藏DX超合金VF-171EX系列的玩家而言別具紀念意義。",
     reviews: [],
     youtube: [],
-  },
-  {
-    id: "hmr-vf2ss-sap-nexx-gilbert",
-    addedAt: "2026-08-25",
-    name: "HI-METAL R VF-2SS バルキリーII＋SAP（ネックス・ギルバート機）",
-    nameJa: "HI-METAL R VF-2SS バルキリーII＋SAP（ネックス・ギルバート機）",
-    series: "超時空要塞マクロスII -LOVERS AGAIN-",
-    character: "VF-2SS Valkyrie II（ネックス・ギルバート機）",
-    manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
-    scale: "HI-METAL R",
-    price: "¥15,400",
-    releaseDate: "2018年11月10日",
-    officialUrl: "https://tamashiiweb.com/item/12632/",
-    imageUrl: "/images/hmr-vf2ss-sap-nexx-gilbert.jpg",
-    tags: ["マクロス", "マクロスII", "Macross II", "VF-2SS", "HI-METAL R", "ネックス・ギルバート", "SAP", "BANDAI SPIRITS", "MACROSS0012"],
-    description: "《超時空要塞マクロスII -LOVERS AGAIN-》為系列首部OVA外傳，主角ネックス・ギルバート（Nexx Gilbert）駕駛VF-2SS バルキリーII投入對抗異星種族マルドゥーク的戰爭，是該作UN Spacey陣營的主角機。本商品為「HI-METAL R」系列於2017年推出本體一年後、2018年11月追加發售的強化版本，新開發ネックス機專用槍械與可掛載於腿部的SAP（強化武裝包）零件，完整支援ファイター、ガウォーク、バトロイド三段變形機構，並可不換零件重現軌道砲射擊模式。相較同系列深藍色塗裝的シルビー・ジーナ機版本，本商品採用主角機標準的白色塗裝，是VF-2SS系列收藏中份量與規格兼具的代表作品。",
-    reviews: [
-      {
-        title: "HI-METAL R VF-2SS バルキリーII+SAP(ネックス・ギルバート機) レビュー | はっちゃか",
-        url: "https://hacchaka.net/archives/52034302.html",
-        lang: "ja",
-      },
-    ],
-    youtube: [
-      {
-        title: "HI-METAL R VF-2SS バルキリーII + SAP ネックス・ギルバート機 VF-2SS Valkyrie II - Nex Gilbert Ver",
-        url: "https://www.youtube.com/watch?v=SQMOaPoZi7k",
-        lang: "ja",
-      },
-    ],
   },
   {
     id: "dx-chogokin-yf29-durandal-max-full-set",
@@ -1841,7 +1811,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年7月21日",
     officialUrl: "https://tamashiiweb.com/item/12492/",
     imageUrl: "/images/dx-chogokin-vf31s-siegfried-arad.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31S", "ジークフリード", "アラド・メルダース", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0010"],
+    tags: ["マクロス", "マクロスΔ", "VF-31S", "ジークフリード", "アラド・メルダース", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0011"],
     description: "《超時空要塞Δ》中，アラド・メルダース是Δ小隊隊長，作風沉穩且經驗豐富，座機VF-31S齊格弗里德為隊長專用規格，機頭與尾翼施以獨特的紅藍配色與骷髏龍族徽印記，是隊長機辨識度最高的塗裝設計之一。本商品為DX超合金系列作品，2018年7月21日發售，新雕刻S型專屬頭部造型，隨附アラド與搭檔ミラージュ・ファリーナ・ジーナス兩款駕駛員人形、6種替換手腕、格鬥小刀、大型飛彈與多機無人僚機掛載板等豐富配件，三型態變形機構幾乎無須拆換零件即可完整重現。延續系列標誌性金屬壓鑄骨架與精密可動關節，是マクロスΔ電視版隊長機收藏中份量與規格兼具的代表作品。",
     reviews: [
       {
@@ -8289,7 +8259,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15224/",
     imageUrl: "/images/hmr-vf2ss-sap-silvie-gena-lovers-again.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015224_39N3xa9l_300.pdf",
-    tags: ["マクロスII", "VF-2SS", "バルキリー", "シルビー・ジーナ", "HI-METAL R", "TAMASHII NATIONS", "SAP"],
+    tags: ["マクロスII", "VF-2SS", "バルキリー", "シルビー・ジーナ", "HI-METAL R", "TAMASHII NATIONS", "SAP", "MACROSS0012"],
     description: "VF-2SS為OVA《超時空要塞マクロスII -LOVERS AGAIN-》中登場的可變戰鬥機，由女主角シルビー・ジーナ駕駛。作品為《超時空要塞マクロス》系列首部OVA外傳，描繪地球統合軍與新種族マルドゥーク的星際戰爭，在系列世界觀中屬於較為獨立的支線設定，シルビー・ジーナ以歌聲鼓舞士氣的女武神駕駛員形象，也延續了初代女主角林明美「用歌聲對抗敵人」的系列傳統精神。機體可在戰鬥機、GERWALK、機器人三型態間變形，並可掛載強化用的SAP（特殊武裝包）大幅提升火力，是VF-2系列中兼具速度與火力的代表機型。\\n\\n本商品為TAMASHII NATIONS「HI-METAL R」系列的可變可動完成品，全高約160mm，三段變形機構完整重現原作設定，SAP可於三種形態下裝備，兼顧演出彈性；駕駛艙可開闔並內建希薇・吉娜駕駛員模型，機體並可不換零件切換軌道砲射擊模式，機構設計相當巧妙。附贈印有女神歌手イシュタル圖樣的紀念專用展示台座，是深度マクロス系列收藏者不可錯過的一件。",
     reviews: [
       {
@@ -11888,7 +11858,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年6月15日",
     officialUrl: "https://tamashiiweb.com/item/10317/",
     imageUrl: "/images/dx-chogokin-rvf25-messiah-luca-renewal.jpg",
-    tags: ["MACROSS0005@中壢收多易", "MACROSS0010", "マクロス", "マクロスF", "マクロス30周年", "RVF-25", "メサイア", "ルカ・アンジェローニ", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["MACROSS0005@中壢收多易", "MACROSS0011", "マクロス", "マクロスF", "マクロス30周年", "RVF-25", "メサイア", "ルカ・アンジェローニ", "リニューアルVer.", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
     description: "ルカ・アンジェローニ為《マクロスフロンティア》劇中重要配角飛行員，個性溫和穩重，與主角アルト形成鮮明對比，其座機RVF-25為電子戰專用型メサイアバルキリー，負責前線電子干擾與情報支援任務，是劇中空戰場面不可或缺的戰術要角。本商品為該機體之リニューアルVer.（Renewal Ver.），綠色塗裝搭配獨特頭部造型、刀刃天線與圓盤狀雷達罩（Radome）為最大外觀特徵，呼應其電子戰機種的任務定位。雷達罩可展開重現「大氣偵察模式」機構，並具備閉鎖防呆設計避免誤觸損壞，機構細節考量周到。標準配件包含駕駛員人偶、可換手部、槍莢與專用底座，方便玩家展示收藏。另可加購對應的Super Parts＆Ghost Set擴充套件，進一步豐富武裝與飛行支援機構的重現度，是マクロスF系列電子戰機體收藏中頗具特色的一件作品。商品塗裝細節精緻，綠色機身與雷達罩銀灰色澤對比鮮明，充分展現電子戰機種應有的獨特識別度。變形操作順暢，雷達罩展開機構設計巧妙不易誤觸損壞，兼顧收藏展示與把玩樂趣。對於長年收藏マクロスF系列DX超合金的玩家而言，本作補齊了電子戰機種的重要陣容，讓主角機、電子戰機等多樣機種展示更加完整豐富，具備一定的系列收藏意義。",
     reviews: [
       {
@@ -11912,7 +11882,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2013年11月",
     officialUrl: "https://tamashiiweb.com/item/10422/",
     imageUrl: "/images/dx-chogokin-rvf25-luca-super-parts-ghost-set.jpg",
-    tags: ["マクロス", "マクロスF", "RVF-25", "メサイア", "ルカ・アンジェローニ", "スーパーパーツ", "ゴースト", "魂ウェブ商店限定", "DX超合金", "1/60", "Bandai", "MACROSS0010"],
+    tags: ["マクロス", "マクロスF", "RVF-25", "メサイア", "ルカ・アンジェローニ", "スーパーパーツ", "ゴースト", "魂ウェブ商店限定", "DX超合金", "1/60", "Bandai", "MACROSS0011"],
     description: "《劇場版マクロスF～サヨナラノツバサ～》中，ルカ・アンジェローニ所駕駛的電子戰機RVF-25メサイアバルキリー，曾裝備大型超音速追加背包與無人偵察機「ゴースト」協同作戰，強化航程與偵蒐支援能力。本商品為魂ウェブ商店限定販售的「スーパーパーツ＆ゴーストセット」擴充配件組，須搭配另售的DX超合金 RVF-25 メサイアバルキリー（ルカ・アンジェローニ機）リニューアルVer.本體使用，本身不含機體本體。套組包含超音速追加背包與可獨立變形展示的ゴースト無人僚機，延續Macross系列自VF-1以來「Super Pack」外掛式強化與無人僚機協同作戰的設定傳統，是深度收藏ルカ機各種形態、重現劇場版電子戰支援陣容不可或缺的補完配件。",
     reviews: [],
     youtube: [],
@@ -13041,7 +13011,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2010年9月25日",
     officialUrl: "https://tamashiiweb.com/item/1319/",
     imageUrl: "/images/dx-vb6-konig-monster-sp.jpg",
-    tags: ["マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "VB-6", "DX超合金", "SP Ver.", "Bandai", "可變形", "合金", "MACROSS0010"],
+    tags: ["マクロスVF-X2", "マクロスF", "ケーニッヒモンスター", "VB-6", "DX超合金", "SP Ver.", "Bandai", "可變形", "合金", "MACROSS0011"],
     description: "「劇場版マクロスF～イツワリノウタヒメ～」是マクロスF系列電視動畫劇情重新剪輯並加入新演出的首部劇場版作品，講述S.M.S.部隊在異星生命體ヴァジュラ威脅下的初期戰鬥故事。「VB-6 ケーニッヒ・モンスター」為S.M.S.部隊運用的大型可變爆撃機，以厚重裝甲與強大火力著稱，是該作機體陣容中重火力支援的代表機種之一。本商品為與標準版「DX超合金 VB-6 ケーニッヒ・モンスター」（GE-51）同日發售的特別規格「SP Ver.」，取材自劇場版演出中的機體樣貌。相較標準版，SP Ver.追加了S.M.S.部隊識別塗裝與機體標誌等細節，デストロイド形態的肩部塗裝與貼紙配置也更貼近劇場版畫面演出，讓玩家能同時收藏標準與特別規格兩種版本進行比較。作為同款機體的差異化收藏選項，本商品保留原有的完全變形機構與豐富配件組合，是喜愛比較同一機體不同塗裝版本的マクロス收藏者的合適選擇。同日發售標準版與SP Ver.的作法，也讓玩家能依個人偏好選擇貼近遊戲原設或劇場版演出的塗裝版本，豐富同一機體的收藏面向。",
     reviews: [
       {
