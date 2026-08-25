@@ -1256,7 +1256,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年",
     officialUrl: "https://tamashiiweb.com/item/14151/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-revival.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0010"],
     description: "《Macross Frontier》主角早乙女アルト（Alto Saotome）是一名出身歌舞伎世家、卻選擇成為可變戰機駕駛員的青年，其座機VF-25F Messiah在劇中歷經多次強化改裝，是全劇人氣與戲份最高的機體之一。「Super Pack（超音速噴射背包）」是VF-25系列常見的強化配置，透過在機體背部加裝大型推進與火力模組，大幅提升高速突破與持久作戰能力，使原本靈巧的Messiale機體轉變為更具火力壓制力的姿態，是劇中中後期空戰場面的常見配置。此為REVIVAL復刻版本，依循現行DX CHOGOKIN的製造規格重新調整模具與塗裝配方，相較初版在關節可動範圍、零件公差與塗裝精細度上均有明顯提升，展現品牌對經典機體的持續優化誠意。機體延續系列標誌性的金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Alto機VF-25F眾多版本中兼具還原度與現代工藝水準的代表作品之一。",
     reviews: [
       {
@@ -25335,7 +25335,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年11月14日",
     officialUrl: "https://tamashiiweb.com/item/1177/",
     imageUrl: "/images/dx-chogokin-vf25f-super-messiah-alto-ge42s.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "スーパーメサイア", "アルト", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
     description: "《マクロスF》主角早乙女アルト座機VF-25F メサイアバルキリー，裝備追加武裝與強化推進器後化身「スーパーメサイア」，是劇中中後段高強度戰鬥常見的強化配置，火力與機動性均較標準型大幅提升，深受粉絲喜愛。本商品為2009年11月發售的DX超合金初版「スーパーメサイア」商品，機體本身已完整內建超級武裝套件，無需另購配件即可完整重現強化型態。延續系列標誌性的金屬壓鑄骨架與完全變形機構，戦闘機、ガウォーク、戦闘人形三型態切換流暢紮實，配色忠實還原アルト機標準塗裝設定，並附有槍莢、格鬥用小刀等武裝配件。相較於後續推出、成型與塗裝改為消光處理的「リバイバルVer.」重製版，本商品是最初問世、光澤感較為強烈的原始版本，對長年收藏VF-25系列的玩家而言別具紀念意義。",
     reviews: [],
     youtube: [],
