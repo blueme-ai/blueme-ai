@@ -3958,6 +3958,25 @@ export const collection: CollectibleItem[] = [
 
   // ── Nendoroid ─────────────────────────────────────────────────────────────
   {
+    id: "nendoroid-eris-konosuba3",
+    addedAt: "2026-08-25",
+    name: "ねんどろいど エリス「この素晴らしい世界に祝福を！3」",
+    nameJa: "ねんどろいど エリス「この素晴らしい世界に祝福を！3」",
+    series: "この素晴らしい世界に祝福を！3（KonoSuba: God's Blessing on This Wonderful World! 3）",
+    character: "エリス（Eris）",
+    manufacturer: "Good Smile Company",
+    scale: "Nendoroid（Non-Scale）",
+    price: "¥7,300（含稅）",
+    releaseDate: "2025年1月",
+    height: "約100mm",
+    officialUrl: "https://www.goodsmile.com/en/product/36075/Nendoroid+Eris",
+    imageUrl: "/images/nendoroid-eris-konosuba3.jpg",
+    tags: ["このすば", "KonoSuba", "エリス", "ねんどろいど", "Good Smile Company", "GSC", "#2551"],
+    description: "《この素晴らしい世界に祝福を！》是人氣異世界搞笑輕小說改編動畫，第三季劇情深入描寫掌管死者靈魂往生事務的女神「エリス」，其銀白色長髮搭配紫金色系神官服飾與招牌溫柔笑容，是系列中人氣持續攀升的重要角色之一。本商品為Good Smile Company「ねんどろいど」系列第2551號作品，套件標配笑臉、眨眼、困擾表情等多款替換臉部零件，並附「天界背景中台紙」等選配關節配件，重現角色在天界執掌職務的場景氛圍。Q版比例下仍細膩呈現角色飄逸長髮與神官服裝細節，是このすば系列ねんどろいど收藏者用來補完角色陣容的話題新作之一。",
+    reviews: [],
+    youtube: [],
+  },
+  {
     id: "nendoroid-snow-miku-crystal-snow-2026",
     addedAt: "2026-06-23",
     name: "ねんどろいど 雪ミク Crystal Snow ver.",
