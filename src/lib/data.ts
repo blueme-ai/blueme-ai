@@ -37261,4 +37261,27 @@ export const collection: CollectibleItem[] = [
       { title: "(ガンプラ) 鉄血のオルフェンズ HG 1/144 漏影 レビュー HG 1/144 GUNPLA IRON-BLOODED ORPHANS ROUEI", url: "https://www.youtube.com/watch?v=H-71d-Af66s", lang: "ja" },
     ],
   },
+  {
+    id: "eva-final-model-mortal-mind-ccstoys",
+    addedAt: "2026-08-27",
+    name: "鉄魄（MORTAL MIND）シリーズ エヴァンゲリオンANIMA エヴァンゲリオン最終号機 合金可動フィギュア",
+    nameJa: "鉄魄（MORTAL MIND）シリーズ エヴァンゲリオンANIMA エヴァンゲリオン最終号機 合金可動フィギュア",
+    series: "エヴァンゲリオンANIMA（Evangelion ANIMA）",
+    character: "エヴァンゲリオン最終号機（EVANGELION FINAL MODEL）",
+    manufacturer: "CCSTOYS",
+    scale: "合金可動フィギュア（全高約29cm）",
+    price: "¥39,500（含稅）",
+    releaseDate: "2024年7月",
+    height: "約29cm",
+    officialUrl: "https://www.amiami.jp/top/detail/detail?gcode=FIGURE-175356",
+    imageUrl: "/images/eva-final-model-mortal-mind-ccstoys.jpg",
+    tags: ["エヴァンゲリオンANIMA", "Evangelion", "最終号機", "CCSTOYS", "鉄魄", "MORTAL MIND", "合金可動フィギュア"],
+    description: "山下いくと執筆的《エヴァンゲリオンANIMA》官方外傳小說中，初號機經過最終進化後現出的究極型態「エヴァンゲリオン最終号機（EVANGELION FINAL MODEL）」，是碇真嗣在平行世界故事線中駕駛的終極決戰兵裝，象徵EVA系列機體設計美學的最終進化樣貌。本商品為CCSTOYS「鉄魄（MORTAL MIND）」高階合金可動人偶系列作品，2024年7月發售，全高約29公分，採用PVC、ABS、POM、PV、金屬合金及磁鐵等多種材質構成，全身大量使用合金零件呈現厚重紮實的質感，關節設計依循人體骨骼與肌肉運動邏輯，實現寬廣且自然的可動範圍。套組標配飛行背包、腿部裝甲及「孫六村正劍」「プログレッシブナイフ」「ロンギヌスの槍」「パワード・エイト」等原作標誌性武裝配件，另附光之翼特效零件、六組可替換左右手腕及專用展示台座與支撐關節，是エヴァ系列高階可動玩具收藏中話題度與完成度兼具的代表作，深受外傳小說粉絲與機甲玩具愛好者矚目。",
+    reviews: [
+      { title: "【CCSTOYS】鉄魄 エヴァンゲリオン最終号機を開封【エヴァンゲリオンANIMA】", url: "https://www.youtube.com/watch?v=Uy7dHSuKHJg", lang: "ja" },
+    ],
+    youtube: [
+      { title: "メタルビルド超える解像度！ エヴァンゲリオン最終号機！【鉄魄(MORTAL MIND) レビュー】CCSTOYS EVANGELION FINAL MODEL review", url: "https://www.youtube.com/watch?v=uYXh-D7TJLQ", lang: "ja" },
+    ],
+  },
 ]
