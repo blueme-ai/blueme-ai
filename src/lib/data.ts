@@ -37284,4 +37284,27 @@ export const collection: CollectibleItem[] = [
       { title: "メタルビルド超える解像度！ エヴァンゲリオン最終号機！【鉄魄(MORTAL MIND) レビュー】CCSTOYS EVANGELION FINAL MODEL review", url: "https://www.youtube.com/watch?v=uYXh-D7TJLQ", lang: "ja" },
     ],
   },
+  {
+    id: "mg-fazz-verka",
+    addedAt: "2026-08-28",
+    name: "MG 1/100 F.A.テストMS FAZZ Ver.Ka",
+    nameJa: "MG 1/100 F.A.テストMS FAZZ Ver.Ka",
+    series: "機動戦士ガンダム・センチネル（Mobile Suit Gundam Sentinel）",
+    character: "FAZZ（FA-010A）",
+    manufacturer: "BANDAI SPIRITS",
+    scale: "MG 1/100",
+    price: "¥12,100（未稅）",
+    releaseDate: "2020年2月15日",
+    officialUrl: "https://bandai-hobby.net/item/01_2584/",
+    imageUrl: "/images/mg-fazz-verka.jpg",
+    manualUrl: "https://manual.bandai-hobby.net/menus/detail/636",
+    tags: ["ガンプラ", "MG", "Bandai", "Ver.Ka", "Katoki", "ガンダム・センチネル", "UC"],
+    description: "《機動戦士ガンダム・センチネル》是1987年起於模型雜誌上連載的宇宙世紀架空外傳企劃，設定於U.C.0088「佩宗事件」期間，由地球聯邦軍組成的特務部隊「E.F.S.F.タスクフォースα」為對抗新生吉翁殘存勢力所投入的一系列實驗機體與強化裝備，是連結《Z鋼彈》與《ZZ鋼彈》兩部作品之間空白時期的重要補完設定。FAZZ（FA-010A）即為此企劃中的代表機體之一，其名稱意為「Full Armor ZZ」的測試型態，是為驗證後續FA-010S全裝甲ZZ鋼彈之裝甲系統與武裝配置而製作的實用評估試驗機，機體在ZZ鋼彈的基礎上加裝大量追加裝甲與武裝，包括雙管Mega Beam Rifle、Hyper Mega Cannon等重型火器，外觀厚重霸氣，是ガンダム・センチネル系列中人氣極高的機體之一。本商品由知名機械設計師加藤真（Katoki Hajime）重新監修設計，沿用MG ZZ鋼彈Ver.Ka的骨架與素體並大幅新規開模追加裝甲零件，前臂採用滾轉軸設計使追加裝甲在手臂上舉時不會產生干涉，腿部裝甲同樣配合腿部動作靈活連動，各處搭載的飛彈莢艙艙門皆可開闔展示，並附有Ver.Ka系列特有的細緻情報量貼紙，讓玩家重現FAZZ分隊的塗裝細節。全備時份量感十足，是Ver.Ka系列愛好者與ガンダム・センチネル世界觀收藏者不可錯過的重量級商品。",
+    reviews: [
+      { title: "MG FAZZ Ver.Ka レビュー | schizophonic9", url: "https://schizophonic9.com/re5/mg_fazzverka.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "MG FAZZ Ver.Ka を作る！！【ガンプラ/レビュー/プラモデル】", url: "https://www.youtube.com/watch?v=di7TzI2fE_g", lang: "ja" },
+    ],
+  },
 ]
