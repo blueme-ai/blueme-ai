@@ -37705,28 +37705,6 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
-    id: "legendbb-musha-gundam-mk3",
-    addedAt: "2026-08-28",
-    name: "BB戦士 No.404 LEGENDBB 武者頑駄無真悪参",
-    nameJa: "BB戦士 No.404 LEGENDBB 武者頑駄無真悪参",
-    series: "SD武者頑駄無（SD Musha Gundam）",
-    character: "武者頑駄無真悪参（Musha Gundam Mark-III）",
-    manufacturer: "BANDAI SPIRITS",
-    scale: "BB戦士（ノンスケール）",
-    price: "¥1,430（含稅）",
-    releaseDate: "2017年11月11日",
-    officialUrl: "https://bandai-hobby.net/item/01_1155/",
-    imageUrl: "/images/legendbb-musha-gundam-mk3.jpg",
-    tags: ["ガンプラ", "SD", "BB戦士", "LEGENDBB", "Bandai", "武者頑駄無", "戦国時代"],
-    description: "《SD武者頑駄無》世界觀中，「真駆参大将軍」乃是承襲初代飛駆鳥大將軍血脈的傳奇強者，而武者頑駄無真悪参（俗稱Musha Gundam Mark-III）正是這位大將軍尚未覺醒為將軍之前、身為年輕武者時期的先祖形象，講述其率領家臣對抗黑暗軍勢、最終開創大將軍血脈傳承的前傳故事。機體造型延續武者頑駄無一貫的戰國武將鎧甲美學，全身以黑金雙色為基調，頭盔飾以誇張的金色新月形犄角裝飾，展現武將的威嚴氣勢。本商品標配全新開模的「銀盾」與收納於盾牌內的「銀狼劍」，另附三叉戟長槍可自由替換武裝組合，擴充多種擺姿可能性。作為LEGENDBB系列第404彈紀念商品，本商品雖大量沿用既有武者頑駄無系列零件基礎重新編成，但透過全新開模配件賦予角色鮮明個性，是深諳SD鋼彈武者世界觀血脈傳承脈絡、鎖定資深粉絲收藏向的紀念版本。",
-    reviews: [
-      { title: "【レジェンドBB】武者頑駄無真悪参 レビュー【BB戦士】", url: "https://gunplapocchi.com/musha-gundam-mk3/", lang: "ja" },
-    ],
-    youtube: [
-      { title: "（異世界へと消え騎士になった武者）LEGENDBB 武者頑駄無真悪参 レビュー", url: "https://www.youtube.com/watch?v=WITj9TheOdI", lang: "ja" },
-    ],
-  },
-  {
     id: "aurora-akatsuki-pobo",
     addedAt: "2026-08-28",
     name: "曙光閣（Aurora）1/100 破曉 アカツキガンダム（オオワシ／シラヌイ双背包）",
