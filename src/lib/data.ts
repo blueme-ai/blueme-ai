@@ -38124,9 +38124,7 @@ export const collection: CollectibleItem[] = [
     tags: ["グレートマジンカイザー", "真マジンガーZERO", "鉄魄", "MORTAL MIND", "CCSTOYS", "合金可動フィギュア", "勇者仕様"],
     description: "CCSTOYS「鉄魄（MORTAL MIND）」系列，《真マジンガーZERO vs 暗黒大将軍》グレートマジンカイザー特別色「勇者仕様」合金可動人偶，機身不含Great Booster約255mm、含Great Booster約320mm，以黑色金屬塗裝取代原版配色帶來更強悍視覺份量，並新增專屬「正義」機魄特效零件、多款替換手部與凱薩之劍等武裝配件。",
     reviews: [],
-    youtube: [
-      { title: "【ここだけが許せない！】星4つ！ 鉄魄(MORTAL MIND) シリーズ グレートマジンカイザー CCSTOYS 丁寧に レビュー する動画 C&A", url: "https://www.youtube.com/watch?v=vSdd850_tyo", lang: "ja" },
-    ],
+    youtube: [],
   },
   {
     id: "ichibankuji-oregairu-yukinoshita-swimsuit",
@@ -38758,9 +38756,7 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロスF", "VF-25F", "メサイアバルキリー", "DX超合金", "BANDAI", "フォールドクリアVer", "MACROSS0004@中壢收多易"],
     description: "《マクロスF》早乙女アルト機VF-25Fメサイアバルキリー的魂ウェブ商店限定「フォールドクリアVer.」，以特殊透明鍍膜重現摺躍空間中的七彩光澤效果，機體可完整變形為戰鬥機、GERWALK、Battroid三形態，是2009年發售、專為魂ウェブ商店打造的限定收藏版本。",
     reviews: [],
-    youtube: [
-      { title: "【マクロス玩具レビュー】 DX超合金 VF-25F トルネードメサイア アルト機 ／ DX Chogokin VF-25F Messiah", url: "https://www.youtube.com/watch?v=WdcUP2kyMA0", lang: "ja" },
-    ],
+    youtube: [],
   },
   {
     id: "mpm-4-optimus-prime",
