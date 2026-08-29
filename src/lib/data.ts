@@ -38141,7 +38141,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年10月",
     officialUrl: "https://1kuji.com/products/oregairu3-09",
     imageUrl: "/images/ichibankuji-oregairu-yukinoshita-swimsuit.jpg",
-    tags: ["やはり俺の青春ラブコメはまちがっている。", "雪ノ下雪乃", "一番くじ", "BANDAI SPIRITS", "水着", "X0004@中壢收多易"],
+    tags: ["やはり俺の青春ラブコメはまちがっている。", "雪ノ下雪乃", "一番くじ", "BANDAI SPIRITS", "水着"],
     description: "一番くじ「やはり俺の青春ラブコメはまちがっている。完 -青春Summer Memories-」B賞，雪ノ下雪乃水着造型景品フィギュア，全高約19cm，取材自一番くじ限定描き下ろし插畫首次立體化，重現角色端莊外表下難得展現的夏日活潑一面。",
     reviews: [],
     youtube: [],
@@ -38159,7 +38159,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年10月",
     officialUrl: "https://1kuji.com/products/oregairu3-09",
     imageUrl: "/images/ichibankuji-oregairu-yuigahama-swimsuit.jpg",
-    tags: ["やはり俺の青春ラブコメはまちがっている。", "由比ヶ浜結衣", "一番くじ", "BANDAI SPIRITS", "水着", "X0004@中壢收多易"],
+    tags: ["やはり俺の青春ラブコメはまちがっている。", "由比ヶ浜結衣", "一番くじ", "BANDAI SPIRITS", "水着"],
     description: "一番くじ「やはり俺の青春ラブコメはまちがっている。完 -青春Summer Memories-」C賞，由比ヶ浜結衣水着造型景品フィギュア，全高約19cm，取材自一番くじ限定描き下ろし插畫首次立體化，笑容滿點的水着身姿是本賞人氣焦點之一。",
     reviews: [],
     youtube: [],
@@ -38177,7 +38177,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年10月",
     officialUrl: "https://1kuji.com/products/oregairu3-09",
     imageUrl: "/images/ichibankuji-oregairu-isshiki-swimsuit.jpg",
-    tags: ["やはり俺の青春ラブコメはまちがっている。", "一色いろは", "一番くじ", "BANDAI SPIRITS", "水着", "X0004@中壢收多易"],
+    tags: ["やはり俺の青春ラブコメはまちがっている。", "一色いろは", "一番くじ", "BANDAI SPIRITS", "水着"],
     description: "一番くじ「やはり俺の青春ラブコメはまちがっている。完 -青春Summer Memories-」D賞，一色いろは水着造型景品フィギュア，全高約19cm，取材自一番くじ限定描き下ろし插畫首次立體化，小惡魔般的表情與泳裝姿態充分展現角色魅力。",
     reviews: [
       { title: "【一番くじ】やはり俺の青春ラブコメはまちがっている。完 -青春Summer Memories- D賞『一色いろは フィギュア』 - 柳きまぐれフィギュアレビュー", url: "https://fg-yanagi.hatenablog.com/entry/2020/10/10/175726", lang: "ja" },
@@ -38796,7 +38796,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年8月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2020/4549660465713000.html",
     imageUrl: "/images/superminipla-tobikage-vol2.jpg",
-    tags: ["忍者戦士飛影", "TOBIKAGE", "スーパーミニプラ", "BANDAI", "食玩", "X0004@中壢收多易"],
+    tags: ["忍者戦士飛影", "TOBIKAGE", "スーパーミニプラ", "BANDAI", "食玩"],
     description: "《忍者戦士飛影》食玩模型套件Vol.2，收錄「飛影」與「鳳雷鷹」，3個入BOX，免膠水組裝並可重現機體變形合體機構，飛影另附新造型「サンダーアローガン」，鳳雷鷹則以A/B兩截式零件組合重現，是スーパーミニプラ系列還原度頗受好評的一彈。",
     reviews: [],
     youtube: [
@@ -38816,7 +38816,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年1月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/4549660503484000.html",
     imageUrl: "/images/superminipla-tobikage-vol3.jpg",
-    tags: ["忍者戦士飛影", "TOBIKAGE", "スーパーミニプラ", "BANDAI", "食玩", "X0004@中壢收多易"],
+    tags: ["忍者戦士飛影", "TOBIKAGE", "スーパーミニプラ", "BANDAI", "食玩"],
     description: "《忍者戦士飛影》食玩模型套件Vol.3，收錄「爆竜」與「零影」，3個入BOX，同樣採A/B兩截式零件組合設計重現角色變形機構，免膠水組裝即可完成，是スーパーミニプラ忍者戦士飛影系列的完結彈。",
     reviews: [],
     youtube: [
@@ -39054,7 +39054,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2021年2月",
     officialUrl: "https://www.bandai.co.jp/candy/products/2021/1000150819.html",
     imageUrl: "/images/superminipla-biodragon.jpg",
-    tags: ["超電子バイオマン", "バイオドラゴン", "SUPER MINIPLA", "スーパーミニプラ", "BANDAI", "プレミアムバンダイ限定", "食玩", "スーパー戦隊", "X0004@中壢收多易"],
+    tags: ["超電子バイオマン", "バイオドラゴン", "SUPER MINIPLA", "スーパーミニプラ", "BANDAI", "プレミアムバンダイ限定", "食玩", "スーパー戦隊"],
     description: "《超電子バイオマン》正義陣營母艦「バイオドラゴン」的SUPER MINIPLA ビッグスケール規格食玩模型，Premium Bandai限定販售，全長約24.5cm，可收納另售「電子合体 バイオロボ」的バイオジェット1號、2號及バイオロボ全套武裝，是SMP系列重現本作正義陣營完整艦隊編制的重量級商品。",
     reviews: [],
     youtube: [
