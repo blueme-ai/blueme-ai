@@ -30839,7 +30839,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年11月",
     officialUrl: "https://www.megahobby.jp/products/item/48/",
     imageUrl: "/images/megahouse-klanklang-micron.jpg",
-    tags: ["マクロスF", "クラン・クラン", "Klan Klang", "メガハウス", "Excellent Model", "マイクローン"],
+    tags: ["マクロスF", "クラン・クラン", "Klan Klang", "メガハウス", "Excellent Model", "マイクローン", "X0001@中壢收多易"],
     description: "クラン・クラン是《マクロスF》中隸屬SMS的ゼントラーディ族小隊長，身為巨人族卻能透過「マイクローン化」縮小為與人類相仿的體型，身材嬌小卻性格豪爽是其角色魅力所在。本品為MegaHouse「エクセレントモデル」系列作品，重現角色マイクローン化後的青春可愛外型，動感十足的姿態雕塑充分展現角色活潑俏皮的一面，是マクロスF人氣配角角色商品化陣容中發售時間較早的代表作之一，與同系列後續推出的「アーマードVer.」形成角色巨人型態與人類型態的鮮明對照。",
     reviews: [],
     youtube: [],
