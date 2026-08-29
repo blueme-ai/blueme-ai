@@ -1117,7 +1117,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年7月",
     officialUrl: "https://tamashiiweb.com/item/14813/",
     imageUrl: "/images/dx-chogokin-vt1-super-ostrich.jpg",
-    tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "VT-1", "スーパーオーストリッチ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《超時空要塞Macross》的世界觀不僅描繪星際戰爭，也細膩呈現統合軍體系下各式各樣的支援與非戰鬥用途機體，展現出這個系列在硬派科幻戰爭之外，同樣重視日常與生活感描寫的獨特魅力。VT-1「Super Ostrich」正是這類設定下的產物——作為VF-1的民間或訓練用改裝版本，其外觀捨棄了VF-1慣有的銳利戰鬥線條，轉而呈現較為圓潤敦厚的造型語言，機體塗裝與細節設計也更貼近民生用途機具的風格，是Macross世界觀中最具生活感與親和力的機體代表之一，在系列眾多以戰鬥機為主的商品陣容中顯得格外特殊。此為TAMASHII魂ウェブ商店限定的DX CHOGOKIN完成品，延續系列標誌性的金屬壓鑄骨架設計與多型態變形機構，精細重現VT-1有別於軍用機的獨特外型與塗裝細節，對於收藏Macross周邊、追求機體多樣性的玩家而言，是補完VF-1家族衍生譜系不可或缺的一件，也因限定通路而具備一定的收藏價值。",
     reviews: [
       {
@@ -1159,7 +1159,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/14740/",
     imageUrl: "/images/dx-chogokin-yf21-guld.jpg",
-    tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "マクロスプラス", "YF-21", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《Macross Plus》（1994）是河森正治原案、菱田正和監督的OVA作品，以兩台次世代可變戰機競標試作機的對決為核心敘事，搭配電影級作畫水準與菅野洋子的音樂，在Macross系列中享有極高評價。YF-21由天才卻性格叛逆的試驗飛行員Guld Goa Bowman駕駛，機體最大特色是採用無操縱桿、直接讀取駕駛員腦波下達指令的BCS（Brain Computer System）腦波控制系統，搭配大型三角翼與前置鴨翼構成的未來感造型，與競爭對手機YF-19走的正統戰機路線形成鮮明對比，也埋下劇中人機合一失控危機的重要伏筆。此為TAMASHII NATIONS推出的DX CHOGOKIN版本，以現代DX規格的金屬壓鑄骨架與精密機構，重新演繹這架誕生於90年代的傳奇試作機，支援Fighter、GERWALK、Battroid三型態完全自由切換，變形流暢度與細節精度均達到現行DX CHOGOKIN系列的頂尖水準，是Macross Plus粉絲與可變機模型收藏者共同矚目的重點商品。",
     reviews: [
       {
@@ -1456,7 +1456,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2012年12月",
     officialUrl: "https://tamashiiweb.com/item/10079/",
     imageUrl: "/images/dx-chogokin-vf171ex-armored-parts-alto.jpg",
-    tags: ["マクロス", "マクロスF", "VF-171EX", "ナイトメアプラス", "アーマードパーツ", "アルト", "DX超合金", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスF", "VF-171EX", "ナイトメアプラス", "アーマードパーツ", "アルト", "DX超合金", "Bandai", "MACROSS0012@中壢收多易"],
     description: "《劇場版Macross Frontier：The Wings of Goodbye》中，早乙女アルト所駕駛的VF-171EX ナイトメアプラスEX，於劇場版終盤決戰換裝大型裝甲外殼強化防禦與火力，是重現Alto最終戰姿態不可或缺的裝備。本商品為2012年12月發送的初版「アーマードパーツ」擴充配件組，須搭配另售的DX超合金 VF-171EX ナイトメアプラスEX本體使用，本身不含機體本體。裝設後可將標準機體升級為劇場版終幕的重裝突擊形態，是後續2024年推出「アーマードナイトメアプラスEX リバイバルVer.」完全體商品問世前，最早期讓玩家自行組裝重現此形態的配件商品，對長年收藏DX超合金VF-171EX系列的玩家而言別具紀念意義。",
     reviews: [],
     youtube: [],
@@ -1576,7 +1576,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2026年",
     officialUrl: "https://tamashiiweb.com/item/15495/",
     imageUrl: "/images/dx-chogokin-vf17s-nightmare-stealth.jpg",
-    tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "マクロス7", "VF-17S", "ナイトメア", "ステルス", "ガムリン", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《Macross 7》是1994年播出的Macross系列第三部電視動畫，以搖滾樂手主角熱気バサラ用歌聲對抗敵人的獨特設定聞名，風格熱血奔放，是系列中辨識度極高的一部支線作品。木崎ガムリン（Gamlin Kizaki）是劇中「Diamond Force」小隊隊長，性格剛毅嚴謹，與奔放不羈的主角形成鮮明對比，是全劇軍事路線的代表角色之一，其座機VF-17S夢魘隱形女武神也體現了這種硬派軍規風格。VF-17系列在Macross可變機譜系中主打隱形（ステルス）設計理念，強調匿蹤性與低可視度作戰，外型上捨棄了VF-1、VF-25等系列慣用的亮眼線條，轉而採用稜角分明、低調暗色的隱身戰機造型，與其他Macross機體相比獨樹一格。此為Bandai DX CHOGOKIN系列首度推出的Macross 7機體，延續系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，對長年期待Macross 7周邊商品化的粉絲而言，是備受矚目的重要新作。",
     reviews: [
       {
@@ -2042,7 +2042,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年11月",
     officialUrl: "https://tamashiiweb.com/item/14075/",
     imageUrl: "/images/tinysession-vf25f-alto-sheryl.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25F", "TINY SESSION", "タイニーセッション", "アルト", "シェリル・ノーム", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスF", "VF-25F", "TINY SESSION", "タイニーセッション", "アルト", "シェリル・ノーム", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION（タイニーセッション）」是BANDAI COLLECTORS推出的全新可動人偶系列，將マクロス系列機體以Q版造型呈現，並隨附劇中角色的迷你人形，讓玩家可自由組合「機體×角色」呈現互動情境，是有別於DX超合金寫實規格的另一種輕鬆收藏取向。本商品重現《マクロスF》主角早乙女アルト座機VF-25F メサイアバルキリー，隨附女主角シェリル・ノーム的迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。作為系列第一彈商品，是マクロスF人氣角色與機體組合收藏的入門首選。",
     reviews: [],
     youtube: [],
@@ -2060,7 +2060,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2022年11月18日",
     officialUrl: "https://tamashiiweb.com/item/14074/",
     imageUrl: "/images/tinysession-vf25g-michael-ranka.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25G", "TINY SESSION", "タイニーセッション", "ミハエル", "ランカ・リー", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスF", "VF-25G", "TINY SESSION", "タイニーセッション", "ミハエル", "ランカ・リー", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」系列第一彈商品之一，重現《マクロスF》狙擊手ミハエル・ブラン座機VF-25G メサイアバルキリー，隨附女主角ランカ・リー的迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。VF-25G以大型化感測器頭部取代常規機首為外觀特徵，是VF-25系列中辨識度最獨特的一款，Q版造型下依然清楚呈現此設計巧思，是マクロスF人氣角色與機體組合收藏的代表作品之一。",
     reviews: [],
     youtube: [],
@@ -2078,7 +2078,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年3月25日",
     officialUrl: "https://tamashiiweb.com/item/14149/",
     imageUrl: "/images/tinysession-vf31j-hayate-freyja.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31J", "TINY SESSION", "タイニーセッション", "ハヤテ", "フレイア・ヴィオン", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "TINY SESSION", "タイニーセッション", "ハヤテ", "フレイア・ヴィオン", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」マクロスΔ系列第一彈商品，重現Δ小隊隊員ハヤテ・インメルマン座機VF-31J ジークフリード，隨附ワルキューレ成員フレイア・ヴィオン的迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。Q版造型下依然清楚重現Δ小隊主力機的標誌性線條與塗裝，是マクロスΔ人氣角色與機體組合收藏的入門代表作品。",
     reviews: [],
     youtube: [],
@@ -2096,7 +2096,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年3月25日",
     officialUrl: "https://tamashiiweb.com/item/14150/",
     imageUrl: "/images/tinysession-vf31f-messer-kaname.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31F", "TINY SESSION", "タイニーセッション", "メッサー", "カナメ・バッカニア", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスΔ", "VF-31F", "TINY SESSION", "タイニーセッション", "メッサー", "カナメ・バッカニア", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」マクロスΔ系列商品，重現Δ小隊隊長メッサー・イーレフェルト座機VF-31F ジークフリード，隨附ワルキューレ成員カナメ・バッカニアの迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。Q版造型仍清楚重現メッサー機標誌性的死神識別塗裝，是マクロスΔ隊長機收藏中兼具人氣角色與輕巧收藏取向的代表作品。",
     reviews: [],
     youtube: [],
@@ -2114,7 +2114,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年4月29日",
     officialUrl: "https://tamashiiweb.com/item/14209/",
     imageUrl: "/images/tinysession-vf31s-arad-mikumo.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31S", "TINY SESSION", "タイニーセッション", "アラド・メルダース", "美雲・ギンヌメール", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスΔ", "VF-31S", "TINY SESSION", "タイニーセッション", "アラド・メルダース", "美雲・ギンヌメール", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」マクロスΔ系列商品，重現Δ小隊隊長アラド・メルダース座機VF-31S ジークフリード，隨附ワルキューレ成員美雲・ギンヌメールの迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、可替換的コンテナ、専用台座與替換手腕等配件。Q版造型仍清楚重現アラド機標誌性的紅藍配色與骷髏龍族徽印記，是マクロスΔ隊長機收藏中兼具人氣角色與輕巧收藏取向的代表作品。",
     reviews: [],
     youtube: [],
@@ -2132,7 +2132,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月24日",
     officialUrl: "https://tamashiiweb.com/item/14210/",
     imageUrl: "/images/tinysession-vf31c-mirage-makina.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31C", "TINY SESSION", "タイニーセッション", "ミラージュ", "マキナ・中島", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスΔ", "VF-31C", "TINY SESSION", "タイニーセッション", "ミラージュ", "マキナ・中島", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」マクロスΔ系列商品，重現Δ小隊紅一點ミラージュ・ファリーナ・ジーナス座機VF-31C ジークフリード，隨附兼任機師與偶像的ワルキューレ成員マキナ・中島の迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、専用台座與替換手腕等配件。Q版造型仍清楚重現ミラージュ機標誌性配色，是マクロスΔ小隊機收藏中兼具人氣角色與輕巧收藏取向的代表作品。",
     reviews: [],
     youtube: [],
@@ -2150,7 +2150,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2023年6月24日",
     officialUrl: "https://tamashiiweb.com/item/14211/",
     imageUrl: "/images/tinysession-vf31e-chuck-reina.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31E", "TINY SESSION", "タイニーセッション", "チャック・マスタング", "レイナ・プラウラー", "Bandai", "MACROSS0012"],
+    tags: ["マクロス", "マクロスΔ", "VF-31E", "TINY SESSION", "タイニーセッション", "チャック・マスタング", "レイナ・プラウラー", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」マクロスΔ系列商品，重現Δ小隊隊員チャック・マスタング座機VF-31E ジークフリード，隨附ワルキューレ成員レイナ・プラウラーの迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、専用台座與替換手腕等配件。本商品可將雷達罩翻轉展開作為5體迷你人形共同展示的小舞台，是「TINY SESSION」マクロスΔ系列收藏中頗具巧思的一件作品。",
     reviews: [],
     youtube: [],
@@ -2168,7 +2168,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/14876/",
     imageUrl: "/images/dx-chogokin-vf31j-supersiegfried-hayate-revival.jpg",
-    tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "マクロスΔ", "VF-31J", "スーパージークフリード", "ハヤテ", "リバイバル", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《マクロスΔ》為2016年播出的電視動畫，故事描述偶像團體Walküre以歌聲淨化並對抗名為Var症候群的異常現象，並描寫Delta小隊（Chaos部隊）與溫達米亞王國之間的軍事衝突。隼・因梅爾曼是電視版主角，個性豪爽衝動，其座機VF-31J齊格菲於劇中後段加裝Super Pack強化為「スーパージークフリード」形態，換上大型戰略轟炸增裝背包與追加武裝，機體份量感與砲擊火力大幅提升，是隼參與決戰時的招牌形態。本品為DX超合金依現行系列規格重新開版的REVIVAL版本，相較多年前發售的舊版模具，關節結構、可動範圍與塗裝精緻度均有顯著提升，並改善舊版容易鬆動、掉漆等常見問題，三段變形機構（戰鬥機／過渡／人形態）也更為順暢緊實、組裝手感更佳。對於長年收藏VF-31系列、體驗過新舊版本差異的玩家而言，REVIVAL版本可謂以現代標準重新詮釋這部經典機體的代表作，讓新舊玩家皆能以更理想的品質體驗隼機招牌強化形態的魅力。",
     reviews: [
       {
@@ -2208,7 +2208,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2024年",
     officialUrl: "https://tamashiiweb.com/item/15103/",
     imageUrl: "/images/dx-chogokin-sv262hs-draken3.jpg",
-    tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "マクロスΔ", "Sv-262", "ドラケンIII", "ウィンダミア人", "ボーグ", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《劇場版 マクロスΔ／Passionate Walküre》中，溫達米亞王國麾下的「皇家騎士團」是反派陣營的精銳戰鬥部隊，成員多為擁有特殊歌聲能力、對抗Walküre的敵對歌姬與王牌駕駛員。其座機Sv-262Hs德拉肯III在設計上刻意迴避VF系列常見的人形機器人輪廓，改採猛禽般的異形頭部與流線機身，僅具備類似Gerwalk的過渡形態，展現與地球統合軍VF系列截然不同的技術脈絡與美學語彙，是Macross系列少見的非人形變形機體。博格・康法特為皇家騎士團一員，座機即為此型號。DX超合金版本以深紅與金色為主色調，重現騎士團華麗而具侵略性的歐式紋章塗裝，機身線條銳利，可動性與變形機構在異型機體中仍維持一定水準，能重現獨特的滑翔攻擊姿態。此機作為Delta系列反派陣營代表機體之一，與Walküre護衛隊VF-31系列形成強烈對比，是完整收藏整個Delta系列雙陣營機體不可或缺的一件，也是展示櫃中最能凸顯Delta系列敵我機體設計差異的組合之一。",
     reviews: [
       {
@@ -2253,7 +2253,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2025年",
     officialUrl: "https://tamashiiweb.com/item/15635/",
     imageUrl: "/images/dx-chogokin-vf31a-kairos-delta10th.webp",
-    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "マクロスΔ", "VF-31A", "カイロス", "10周年", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《マクロスΔ》於2016年首播，講述偶像團體Walküre以歌聲對抗名為Var症候群的異常現象，並描寫Delta小隊與溫達米亞王國之間長達一整季的衝突與成長故事。VF-31凱洛斯是Delta小隊的量產配備機型，供非個人識別的一般隊員駕駛，機體性能與主角機同源，但塗裝與武裝配置較為簡樸實用。相較隼、美雷、博格等隊員專屬的客製識別塗裝機，凱洛斯以統一制式塗裝呈現部隊感與整齊劃一的軍事美學。本品為紀念《マクロスΔ》十週年推出的DX超合金VF-31A凱洛斯，是VF-31A首度以一般制式配色形式發售的版本——過去該系列多以主要角色的個人識別塗裝推出商品，此次改以量產支援機定位補完商品線，對於希望完整重現Delta小隊編制陣容、而非僅收藏主角機的收藏者而言別具意義。機體仍完整搭載三段變形機構，可動性與細節分色皆維持DX超合金系列一貫水準，是十週年紀念企劃中相當特別的一件商品，也讓玩家得以用制式量產機視角重新欣賞這部作品的世界觀。",
     reviews: [
       { title: "DX超合金 VF-31A カイロス マクロスΔ10th Anniv. レビュー", url: "https://www.amiami.jp/top/detail/review?gcode=FIGURE-193945", lang: "ja" },
@@ -8085,7 +8085,7 @@ export const collection: CollectibleItem[] = [
     height: "約300mm（Battroid形態）",
     officialUrl: "https://tamashiiweb.com/item/1031/",
     imageUrl: "/images/dx-chogokin-vf25g-messiah-michael.jpg",
-    tags: ["マクロスF", "VF-25G", "メサイアバルキリー", "ミハエル・ブラン", "DX超合金", "1/60", "可變形", "GE-44", "MACROSS0012"],
+    tags: ["マクロスF", "VF-25G", "メサイアバルキリー", "ミハエル・ブラン", "DX超合金", "1/60", "可變形", "GE-44", "MACROSS0012@中壢收多易"],
     description: "《マクロスF》（2008）是河森正治原案的《超時空要塞》系列電視動畫，描繪移民艦隊「マクロス・フロンティア」號在銀河邊境遭遇未知生命體「バジュラ」襲擊，飛行員駕駛可變形戰機「バルキリー」並以歌聲共同對抗危機的故事，是系列在新世代重新獲得廣大人氣的重要作品。VF-25G是隊員ミハエル・ブラン的專用機，在三架VF-25主力機中偏向支援與精準狙擊定位，藍白配色與其冷靜沉著的性格相呼應，是隊伍中不可或缺的後援戰力。\\n\\n本品為DX超合金VF-25G「メサイアバルキリー」ミハエル機的最初期原版，1/60比例，Battroid形態全高約300mm，可完整切換Fighter（戰機）、Gerwalk（半人形）、Battroid（人形）三段變形，並可加裝「スーパーパーツ」強化背包套件，裝上後仍保有完整變形能力，展現超合金系列一貫的高完成度工程設計。隨附三對替換手型、狙擊槍、可動式錨爪、突擊小刀，以及ミハエル・ブラン與クラン・クラン小尺寸駕駛人偶與專用展示台，是マクロスF系列最早推出的VF-25G立體化商品，深具紀念意義。",
     reviews: [
       {
@@ -8151,7 +8151,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2014年6月21日",
     officialUrl: "https://tamashiiweb.com/item/10637/",
     imageUrl: "/images/dx-chogokin-yf25-prophecy.jpg",
-    tags: ["マクロスF", "YF-25", "プロフェシー", "VF-25", "DX超合金", "TAMASHII NATIONS", "バルキリー", "BANDAI SPIRITS", "MACROSS0012"],
+    tags: ["マクロスF", "YF-25", "プロフェシー", "VF-25", "DX超合金", "TAMASHII NATIONS", "バルキリー", "BANDAI SPIRITS", "MACROSS0012@中壢收多易"],
     description: "「YF-25 プロフェシー」是《劇場版マクロスF 虚空歌姫〜イツワリノウタヒメ〜》登場的試作型可變戰鬥機，由新星工業與L.A.I公司在「Triangle計畫」下以「YF-24 エボリューション」為原型開發，是後來量產配備機「VF-25 メサイア」的直系前身。機體本身其實並未直接出現於電影正片，而是隨電影預售套票贈送的模型率先公開，其後才在BD／DVD追加畫面中登場，是系列中相當特殊的「先玩具、後動畫」機體，主要駕駛為《マクロス30》主角リオン・榊，肩負銜接舊世代與新世代バルキリー技術的設定使命。\\n\\n本商品為Bandai「DX超合金」系列重現的完成品，戰鬥機形態能完整變形為巴特羅伊德形態，全高約220mm，主體採用ABS與壓鑄合金混合構造，忠實還原試作機特有的塗裝與雙人座艙罩；頭部以透明零件呈現內部結構細節，質感出色。配件包含專用槍械、展示台座、左右各三種替換手掌以及駕駛員人偶，作為系列中話題性十足的試作機立體化商品，對マクロスF與VF-25系列收藏者而言別具意義。",
     reviews: [
       {
@@ -8438,7 +8438,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/15224/",
     imageUrl: "/images/hmr-vf2ss-sap-silvie-gena-lovers-again.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000015224_39N3xa9l_300.pdf",
-    tags: ["マクロスII", "VF-2SS", "バルキリー", "シルビー・ジーナ", "HI-METAL R", "TAMASHII NATIONS", "SAP", "MACROSS0012"],
+    tags: ["マクロスII", "VF-2SS", "バルキリー", "シルビー・ジーナ", "HI-METAL R", "TAMASHII NATIONS", "SAP", "MACROSS0012@中壢收多易"],
     description: "VF-2SS為OVA《超時空要塞マクロスII -LOVERS AGAIN-》中登場的可變戰鬥機，由女主角シルビー・ジーナ駕駛。作品為《超時空要塞マクロス》系列首部OVA外傳，描繪地球統合軍與新種族マルドゥーク的星際戰爭，在系列世界觀中屬於較為獨立的支線設定，シルビー・ジーナ以歌聲鼓舞士氣的女武神駕駛員形象，也延續了初代女主角林明美「用歌聲對抗敵人」的系列傳統精神。機體可在戰鬥機、GERWALK、機器人三型態間變形，並可掛載強化用的SAP（特殊武裝包）大幅提升火力，是VF-2系列中兼具速度與火力的代表機型。\\n\\n本商品為TAMASHII NATIONS「HI-METAL R」系列的可變可動完成品，全高約160mm，三段變形機構完整重現原作設定，SAP可於三種形態下裝備，兼顧演出彈性；駕駛艙可開闔並內建希薇・吉娜駕駛員模型，機體並可不換零件切換軌道砲射擊模式，機構設計相當巧妙。附贈印有女神歌手イシュタル圖樣的紀念專用展示台座，是深度マクロス系列收藏者不可錯過的一件。",
     reviews: [
       {
@@ -24950,7 +24950,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/12988/",
     imageUrl: "/images/dx-chogokin-vf1-strike-super-parts-movie.jpg",
     manualUrl: "https://bsp-354831313727-cs-public.s3.ap-northeast-1.amazonaws.com/docs/answers/url/4573102580603.pdf",
-    tags: ["マクロス", "VF-1", "DX超合金", "ストライクパーツ", "スーパーパーツ", "愛・おぼえていますか", "DYRL", "TAMASHII NATIONS", "魂ウェブ商店限定", "MACROSS0008"],
+    tags: ["マクロス", "VF-1", "DX超合金", "ストライクパーツ", "スーパーパーツ", "愛・おぼえていますか", "DYRL", "TAMASHII NATIONS", "魂ウェブ商店限定", "MACROSS0008@中壢收多易"],
     description: "《超時空要塞マクロス 愛・おぼえていますか》（DYRL，1984劇場版）是原作電視版故事的劇場重製版本，以更精緻的作畫與嶄新的機體設計重新演繹一条輝、早瀬未沙、林明美之間的三角關係及對抗ゼントラーディ軍的戰爭，VF-1バルキリー是劇中統合軍主力可變戦機，具備戦鬥機・GERWALK・人型三段變形機構，是《マクロス》系列最具代表性的機體象徵。本商品為TAMASHII NATIONS「DX超合金 劇場版VF-1」系列專用的強化擴充配件組，魂ウェブ商店限定販售，2019年12月16日發售，收錄可安裝於劇場版VF-1本體的「ストライクパーツ」與「スーパーパーツ」兩種強化裝備，包含背部主噴射增速器、腿部推進槽、臂部微型導彈艙及對應武裝配件，安裝後可將標準版VF-1升格為劇場版中最廣為人知的超全武裝形態。作為DX超合金劇場版VF-1系列的重要周邊配件，本商品是完整重現DYRL劇場版標誌性視覺印象、補完該系列收藏層次不可或缺的擴充商品。",
     reviews: [
       { title: "【レビュー】DX超合金 劇場版VF-1対応ストライク／スーパーパーツセット", url: "https://shishioh.info/DX_Chogokin_STRIKE_SUPER_PARTS_SET_1.php", lang: "ja" },
@@ -25602,7 +25602,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年12月17日",
     officialUrl: "https://tamashiiweb.com/item/1192/",
     imageUrl: "/images/dx-chogokin-macross-quarter-ge48.jpg",
-    tags: ["マクロス", "マクロスF", "マクロス・クォーター", "DX超合金", "Bandai", "S.M.S", "可變形", "MACROSS0012"],
+    tags: ["マクロス", "マクロスF", "マクロス・クォーター", "DX超合金", "Bandai", "S.M.S", "可變形", "MACROSS0012@中壢收多易"],
     description: "《マクロスF》劇中登場的「マクロス・クォーター」是私設軍事組織S.M.S的旗艦，由初代マクロス級戰艦四分之一比例縮小改造而成，具備要塞艦與可變形機動兵器雙重身份，是劇中多場關鍵戰役的核心戰力，也是系列中辨識度極高的巨型可變艦艇。本商品為BANDAI「DX超合金」系列作品，重現要塞艦型態（戰艦形態）與強襲形態（機器人形態）之間免替換零件的完全變形機構，並可呈現クォーター特有的中間過渡形態Gerwalk樣式展示。機體以ABS、壓鑄合金與PVC塗裝製作，頭頂高約24公分、全高約30公分，份量十足；配件包含專用於要塞艦型態的展示台座，可穩定支撐艦體本身、砲手機與搬運機，另附各型態展示用組合台座。作為DX超合金系列中少見的大型戰艦類商品，是マクロスF收藏者重現S.M.S艦隊陣容不可或缺的旗艦級收藏品。",
     reviews: [
       { title: "超合金マクロスクォーター レビュー", url: "https://schizophonic9.com/macrossquarter.html", lang: "ja" },
@@ -26440,7 +26440,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://tamashiiweb.com/item/14330/",
     imageUrl: "/images/hi-metal-r-vf0d-phoenix-kudo-shin.jpg",
     manualUrl: "https://tamashiiweb.com/storage/images/products/imported/item_0000014330_UDPHippR_300.pdf",
-    tags: ["マクロスゼロ", "HI-METAL R", "VF-0D", "フェニックス", "工藤シン", "BANDAI SPIRITS", "MACROSS0008"],
+    tags: ["マクロスゼロ", "HI-METAL R", "VF-0D", "フェニックス", "工藤シン", "BANDAI SPIRITS", "MACROSS0008@中壢收多易"],
     description: "《超時空要塞ZERO》主角工藤シン駕駛的「VF-0Dフェニックス」是VF-0系列中少見的複座教官機型號，機首搭載雙人座艙、機翼採用D型專屬的裁切三角翼設計，是VF-0陣容中辨識度極高的訓練／指揮機型。本商品為「HI-METAL R」系列可變形玩具，2023年8月11日發售，D型特有的頭部造型、複座艙與クリップドデルタ翼皆為全新開模重現，戰機、GERWALK、機人三型態完全變形機構一應俱全，是マクロスゼロ收藏線中補完VF-0系列陣容的重點商品。",
     reviews: [],
     youtube: [
@@ -30267,7 +30267,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2008年12月1日",
     officialUrl: "https://tamashiiweb.com/item/954/",
     imageUrl: "/images/dx-chogokin-vf25s-messiah-ozma-ge43.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25S", "メサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "MACROSS0008"],
+    tags: ["マクロス", "マクロスF", "VF-25S", "メサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "MACROSS0008@中壢收多易"],
     description: "《マクロスF》是Macross系列自2008年推出的電視動畫作品，延續系列「歌聲改變戰局」的獨特世界觀，將偶像文化與變形機甲戰鬥揉合成獨樹一格的科幻歌唱作品。オズマ・リー是SMS部隊Skull小隊隊長，個性沉穩可靠、身經百戰，其座機VF-25S以隊長機規格搭載較高規格的機動性能。本商品為BANDAI「DX超合金」系列GE-43號機，作為劇集播出當期同步推出的初代商品，忠實重現主角機系列標誌性的Fighter、GERWALK、Battroid三型態完全變形機構，機身骷髏小隊標誌與塗裝細節皆精細呈現，是マクロスF系列DX超合金商品化陣容中最早期的代表作之一，也是後續「アーマードメサイア」與「リニューアルVer.」等衍生版本的原點商品。",
     reviews: [
       { title: "【ＤＸ超合金】 ＶＦ－２５Ｓ メサイアバルキリー （オズマ・リー機）[レビュー]", url: "https://toroplus.blog/tyougoukinn/vf25s-messiah-ozma/", lang: "ja" },
@@ -30987,7 +30987,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年8月12日",
     officialUrl: "https://tamashiiweb.com/item/1097/",
     imageUrl: "/images/dx-chogokin-vf25s-armored-messiah-ozma-ge47.jpg",
-    tags: ["マクロス", "マクロスF", "VF-25S", "アーマードメサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "GE-47", "初版", "MACROSS0012"],
+    tags: ["マクロス", "マクロスF", "VF-25S", "アーマードメサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "GE-47", "初版", "MACROSS0012@中壢收多易"],
     description: "《マクロスF》是Macross系列自2008年推出的電視動畫作品，オズマ・リー是SMS部隊Skull小隊隊長，個性沉穩可靠、身經百戰，其座機VF-25S以隊長機規格搭載較高規格的機動性能。本商品為BANDAI「DX超合金」系列GE-47號機，是「アーマードメサイア」強化裝甲形態的最初期原版商品，2009年8月12日發售，全身裝甲以厚重量感重現角色主力機強化裝備狀態，內建可動砲塔、飛彈艙開闔、起落架艙門等豐富機構演出。作為後續「リバイバルVer.」復刻版的原點商品，是マクロスF系列DX超合金收藏中份量感十足的重點作品之一。",
     reviews: [],
     youtube: [],
