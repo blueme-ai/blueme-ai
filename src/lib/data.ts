@@ -30601,7 +30601,7 @@ export const collection: CollectibleItem[] = [
     height: "戦闘機形態 全長約25cm",
     officialUrl: "https://arcadia.ac/products/detail/237",
     imageUrl: "/images/yamato-vf1s-strike-roy-focker.jpg",
-    tags: ["マクロス", "劇場版", "VF-1S", "YAMATO", "ロイ・フォッカー", "可變形", "1/60", "ストライクパーツ", "スーパーパーツ"],
+    tags: ["マクロス", "劇場版", "VF-1S", "YAMATO", "ロイ・フォッカー", "可變形", "1/60", "ストライクパーツ", "スーパーパーツ", "X0004@中壢收多易"],
     description: "《超時空要塞 愛・おぼえていますか》是マクロス系列首部劇場版，ロイ・フォッカー作為主角一条輝的教官與精神導師，其專屬座機VF-1S超級女武神也承載了系列早期最令人動容的悲壯情懷。本商品為YAMATO推出的1/60比例完全變形版本，標配完整的ストライクパーツ（強化裝甲套件）與スーパーパーツ用微型飛彈莢艙（替換式），可依玩家喜好切換為標準機或強化版超級女武神形態，配件量在同系列中相當豐富。Fighter、GERWALK、Battroid三型態完全變形機構一應俱全，標配駕駛員人偶、槍型武器、中距離飛彈、飛彈莢艙及多種形狀補完零件，全長約25cm，是VF-1S ロイ・フォッカー機商品化版本中規格與配件量最為齊全的一款。",
     reviews: [],
     youtube: [],
@@ -38000,7 +38000,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年7月（已絕版）",
     officialUrl: "https://brickset.com/sets/75828-1/Ecto-1-2",
     imageUrl: "/images/lego-75828-ecto-1-2.png",
-    tags: ["LEGO", "Ghostbusters", "魔鬼剋星", "Ecto-1", "2016電影版", "X0004@中壢收多易"],
+    tags: ["LEGO", "Ghostbusters", "魔鬼剋星", "Ecto-1", "2016電影版"],
     description: "2016年上映的《Ghostbusters（魔鬼剋星）》重啟電影版，由四位女性捉鬼特工重新演繹經典IP，片中登場的「Ecto-1」與小型偵察車「Ecto-2」延續原版靈車改裝概念，並加入更現代化的科幻裝備細節。本商品為LEGO配合2016年電影推出的套組，共556顆零件，同時收錄Ecto-1主車與小型飛行載具Ecto-2兩台載具，並附4個2016電影版角色人偶，車頂搭載偵測儀器與捕鬼裝備細節重現度高，是樂高魔鬼剋星系列中電影版收藏支線的代表商品，現已絕版。",
     reviews: [],
     youtube: [
