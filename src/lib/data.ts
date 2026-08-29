@@ -38021,7 +38021,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年8月",
     officialUrl: "https://sen-ti-nel.co.jp/items/tatsunoko-gatchaman-g1/",
     imageUrl: "/images/sentinel-gatchaman-g1.jpg",
-    tags: ["科学忍者隊ガッチャマン", "千値練", "Sentinel", "タツノコヒーローズ", "ファイティングギア", "X0004@中壢收多易"],
+    tags: ["科学忍者隊ガッチャマン", "千値練", "Sentinel", "タツノコヒーローズ", "ファイティングギア", "ETC0001@中壢收多易"],
     description: "千値練「タツノコヒーローズ ファイティングギア」系列第3彈，科學忍者隊隊長大鷲の健（G1號）造型可動人偶，白色基調戰鬥服搭配胸前紅色標誌，胸部內建LED發光機構重現徽章發光演出，全高約180mm，部分部位使用合金材質增加份量感，隨附拳、手刀等多種替換手部與迴力鏢配件。",
     reviews: [
       { title: "【製品レビュー】 タツノコヒーローズ ファイティングギア 科学忍者隊ガッチャマン G1号 | 千値練スタッフブログ", url: "https://ameblo.jp/sen-ti-nel-info/entry-12069385129.html", lang: "ja" },
@@ -38041,7 +38041,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2015年11月",
     officialUrl: "https://sen-ti-nel.co.jp/items/tatsunoko-gatchaman-g2/",
     imageUrl: "/images/sentinel-gatchaman-g2.jpg",
-    tags: ["科学忍者隊ガッチャマン", "千値練", "Sentinel", "タツノコヒーローズ", "ファイティングギア", "X0004@中壢收多易"],
+    tags: ["科学忍者隊ガッチャマン", "千値練", "Sentinel", "タツノコヒーローズ", "ファイティングギア", "ETC0001@中壢收多易"],
     description: "千値練「タツノコヒーローズ ファイティングギア」系列第4彈，科學忍者隊副隊長コンドルのジョー（G2號）造型可動人偶，重現角色招牌紅白戰鬥服全塗裝設計，胸部同樣內建LED發光機構，全高約180mm，是與G1號成對收藏的隊伍代表角色。",
     reviews: [
       { title: "『科学忍者隊ガッチャマン』コンドルのジョー デコマスレビューをぶち込んでやるぜ！ | 千値練スタッフブログ", url: "https://ameblo.jp/sen-ti-nel-info/entry-12028425920.html", lang: "ja" },
