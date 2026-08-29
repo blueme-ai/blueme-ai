@@ -10001,7 +10001,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年7月23日",
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102595515000&grp_id=5325",
     imageUrl: "/images/hg-gran-saurer.jpg",
-    tags: ["MACROSS0002@中壢收多易", "熱血最強ゴウザウラー", "エルドラン", "グランザウラー", "ゴウザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル"],
+    tags: ["X0005@中壢收多易", "熱血最強ゴウザウラー", "エルドラン", "グランザウラー", "ゴウザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル"],
     description: "「勇者系列」是日昇（Sunrise）自1990年代起推出的經典機器人動畫系列，《熱血最強ゴウザウラー》為系列中「エルドラン」三部曲的第三作，故事描繪外星文明遺留的智慧生命體エルドラン協助地球少年對抗侵略者，機體設計融合恐龍與重機械美學，兼具熱血與科幻元素，深受當年觀眾喜愛，也奠定了後續勇者系列以「夥伴機器人」為核心的敘事傳統。「グランザウラー」是劇中主力合體機體之一，以強悍的近戰武裝著稱，是恐龍系機體陣容中人氣頗高的一款。\n\n本商品為紀念該作放送25週年、由ゴウザウラーデザインワークス山田天寛監修重新推出的HG規格プラモデル化。套件附屬キングブレード（約300mm）、ビッグランサー、トリケラシールド等招牌武裝零件，並可與另售的HG ゴウザウラー、HG マグナザウラー合體，重現作品最終決戰形態「キングゴウザウラー」，是勇者系列老玩家重溫經典的紀念性商品。",
     reviews: [
       {
@@ -37849,7 +37849,7 @@ export const collection: CollectibleItem[] = [
     height: "約135mm",
     officialUrl: "https://www.goodsmile.info/ja/product/10924/MODEROID+%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B6%E3%83%BC%E3%83%88.html",
     imageUrl: "/images/moderoid-winzert.jpg",
-    tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "X0004@中壢收多易"],
+    tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "X0005@中壢收多易"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年分別駕駛石、木、金屬三屬性機體，其中「ウインザート」為金屬屬性機體，操縦者擅長機動與飛行戰術，是三人組中負責遠程支援與速攻突破的關鍵戰力。本品為Good Smile Company旗下MODEROID系列模型套件，全高約135mm，全關節可動並可完整重現由「臉部形態」變形為「戰鬥形態」的機構，附專用魔法陣造型展示台座能重現浮空展示效果，並隨附可拆換手腕與專用弓型武裝「Sturm Kaiser」，可擺出拉弓射箭的姿態，是收齊グランゾート三人組陣容的重要一員。",
     reviews: [
       { title: "MODEROID 魔動王グランゾート ウインザートをレビュー！プラクション世代に直撃のシリーズ！ | monodas.com", url: "https://monodas.com/moderoid/1009/", lang: "ja" },
@@ -37872,7 +37872,7 @@ export const collection: CollectibleItem[] = [
     height: "約135mm",
     officialUrl: "https://www.goodsmile.info/ja/product/10923/MODEROID+%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%93%E3%83%BC%E3%83%88.html",
     imageUrl: "/images/moderoid-aquabeat.jpg",
-    tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "X0004@中壢收多易"],
+    tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "X0005@中壢收多易"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年分別駕駛石、木、金屬三屬性機體，其中「アクアビート」為木屬性機體，機動靈活擅長輔助與牽制戰術。本品為Good Smile Company旗下MODEROID系列模型套件，全高約135mm，全關節可動並可完整重現由「臉部形態」變形為「戰鬥形態」的機構，附專用魔法陣造型展示台座能重現浮空展示效果，並隨附可拆換手腕與可左右分離裝備雙手的專用武裝「Wave Kaiser」三叉戟，玩家評價其關節鬆緊適中、色分精準，是系列中完成度極高的一件。",
     reviews: [
       { title: "Moderoid アクアビート 製作・レビュー | 英国とミニチュアと私", url: "https://ameblo.jp/lilliputlane-fan/entry-12887519486.html", lang: "ja" },
@@ -37895,7 +37895,7 @@ export const collection: CollectibleItem[] = [
     height: "約135mm",
     officialUrl: "https://www.goodsmile.info/ja/product/10925/MODEROID+%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%BE%E3%83%BC%E3%83%88.html",
     imageUrl: "/images/moderoid-granzort.jpg",
-    tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "X0004@中壢收多易"],
+    tags: ["MODEROID", "Good Smile Company", "プラモデル", "模型套件", "魔動王グランゾート", "Granzort", "X0005@中壢收多易"],
     description: "《魔動王グランゾート》是サンライズ於1989年播出的合體機械人動畫，講述三位少年分別駕駛石、木、金屬三屬性機體，其中「グランゾート」為主角機體、石屬性，是三人組隊長座機，象徵團隊核心戰力。本品為Good Smile Company旗下MODEROID系列模型套件，全高約135mm，全關節可動並可完整重現由「臉部形態」變形為「戰鬥形態」的機構，附專用魔法陣造型展示台座能重現浮空展示效果，並隨附魔力特效零件與可拆換手腕，專用「大地之劍」Erdikizer可選擇一般或纏繞火焰特效兩種型態展示，是收齊グランゾート三人組主角機體的核心必收品項。",
     reviews: [
       { title: "MODEROID 「グランゾート」 レビュー - moo.jp", url: "http://myhobby.moo.jp/mode-granz/review.html", lang: "ja" },
@@ -38896,7 +38896,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2018年12月",
     officialUrl: "https://bandai-hobby.net/item/01_1994/",
     imageUrl: "/images/hg-gosaurer.jpg",
-    tags: ["熱血最強ゴウザウラー", "エルドラン", "ゴウザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル", "X0004@中壢收多易"],
+    tags: ["熱血最強ゴウザウラー", "エルドラン", "ゴウザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル", "X0005@中壢收多易"],
     description: "《熱血最強ゴウザウラー》系列合體主機「ゴウザウラー」的HG規格模型套件，紀念原作放送25週年推出，由マッハプテラ、ランドステゴ、サンダーブラキオ三台恐龍機體合體變形而成，可與另售HG グランザウラー、HG マグナザウラー再合體重現最終形態「キングゴウザウラー」，附ザウラーブレード與ザウラーシールド。",
     reviews: [
       { title: "HG 「ゴウザウラー」 レビュー - moo.jp", url: "https://myhobby.moo.jp/hg-gosaurer/review.html", lang: "ja" },
@@ -38918,7 +38918,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2019年7月",
     officialUrl: "https://bandai-hobby.net/item/01_2303/",
     imageUrl: "/images/hg-magna-saurer.jpg",
-    tags: ["熱血最強ゴウザウラー", "エルドラン", "マグナザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル", "X0004@中壢收多易"],
+    tags: ["熱血最強ゴウザウラー", "エルドラン", "マグナザウラー", "HG", "1/300", "Bandai", "勇者シリーズ", "プラモデル", "X0005@中壢收多易"],
     description: "《熱血最強ゴウザウラー》合體機體「マグナザウラー」的HG規格模型套件，可由マグナタイラノ形態透過部分換裝為マグナザウラー形態，並可與另售HG ゴウザウラー合體重現「スーパーザウラージェット」與「熱血最強アームドマグナバスター」，是完整收齊三機合體キングゴウザウラー的最後一塊拼圖。",
     reviews: [],
     youtube: [
@@ -39036,7 +39036,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年",
     officialUrl: "https://www.amazon.co.jp/dp/B00IW3RIFW",
     imageUrl: "/images/brave-repli-gaigar.jpg",
-    tags: ["勇者王ガオガイガー", "レプリガイガー", "BRAVE合金", "CM's Corporation", "X0004@中壢收多易"],
+    tags: ["勇者王ガオガイガー", "レプリガイガー", "BRAVE合金", "CM's Corporation", "X0005@中壢收多易"],
     description: "《勇者王ガオガイガーFINAL》反派複製體「レプリガイガー」(2.0仕様)，為CM's Corporation「BRAVE合金」系列第24X彈、直販限定商品。劇中設定為敵方組織以「パスキューマシン」複製技術，仿造正義機體ガイガー所製造出的黑暗鏡像複製體，同系列另有スターガオガイガーVer.2可供比對配色差異。CM's Corporation已於2014年結束營業。",
     reviews: [],
     youtube: [],
