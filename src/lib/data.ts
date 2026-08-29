@@ -6252,7 +6252,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandai.co.jp/candy/products/2023/1000181499.html",
     imageUrl: "/images/smp-srx-tenka-muteki.jpg",
     manualUrl: "https://www.bandai.co.jp/candy/pdf/guide2023/1000181499.pdf",
-    tags: ["ETC0001@中壢收多易", "SMP", "スーパーロボット大戦", "SRX", "天下無敵", "オプションパーツ", "バンダイスピリッツ", "食玩", "P-Bandai限定", "OG"],
+    tags: ["SMP", "スーパーロボット大戦", "SRX", "天下無敵", "オプションパーツ", "バンダイスピリッツ", "食玩", "P-Bandai限定", "OG"],
     description: "《スーパーロボット大戦》系列的原創劇情線「OG（Original Generations）」以R系列駕駛員與其座機為主軸，跳脫跨作品聯動框架自成一套完整原創世界觀，SRX為劇中由R-1、R-2 Powered、R-3 Powered三機合體而成的最終決戰用巨大機體，象徵R小隊三名駕駛員羈絆凝聚而成的力量，是OG世界觀中人氣長期居高不下的招牌合體機體之一，也是系列吉祥物般的存在。「天下無敵の剣」為SRX在特定劇情高潮中展現的必殺絕招演出，象徵其戰力的極致展現。\n\n本品為BANDAI SPIRITS「SMP」（食玩模型企劃）系列推出的SRX武裝配件擴充套組，內含重現「天下無敵の剣」效果所需的特效零件、R-1火焰翼展開效果零件，以及R-GUN Powered專用支架等配件，讓已持有SMP SRX本體套組的玩家能不必額外改造即可完整重現動畫中最終決戰場景的必殺演出姿態。本品為Premium Bandai（魂限）限定品，2023年5月出貨，本體機體不含於此組包內，需另行購買，屬於典型的特效追加型擴充商品。",
     reviews: [
       {
@@ -10696,7 +10696,7 @@ export const collection: CollectibleItem[] = [
     height: "約100mm",
     officialUrl: "https://www.goodsmile.info/ja/product/3989/",
     imageUrl: "/images/nendoroid-ranka-lee-350.jpg",
-    tags: ["MACROSS0002@中壢收多易", "マクロス", "マクロスF", "ランカ・リー", "ねんどろいど", "Good Smile Company", "GSC", "#350"],
+    tags: ["ETC0001@中壢收多易", "マクロス", "マクロスF", "ランカ・リー", "ねんどろいど", "Good Smile Company", "GSC", "#350"],
     description: "《超時空要塞Frontier（マクロスフロンティア）》是超時空要塞系列的重要作品之一，延續系列一貫的可變戰機與歌姫文化世界觀，講述殖民船隊フロンティア面對神秘外星生物ヴァジュラ的威脅，同時交織兩位歌姫與駕駛員之間情感糾葛的故事，是系列作品中商業與口碑俱佳的代表之作。ランカ・リー（Ranka Lee）是本作女主角之一，原為前代歌姫的孤兒，逐步從素人偶像成長為足以獨當一面的歌姫，其成長歷程與歌唱表現是本作重要看點，代表曲「星間飛行」更是系列經典金曲之一，傳唱度極高。本品為Good Smile Company ねんどろいど系列作品，商品編號#350，重現電視版第二期片頭曲及最終回中「星間飛行」的演出服裝造型，色彩鮮明活潑。附三款替換表情，包括吶喊、歌唱以及招牌眨眼表情，選配部件涵蓋麥克風等舞台演出道具，並附上專屬舞台造型底座，讓玩家能重現ランカ在演唱會現場盡情高歌的動態瞬間，是系列早期商品化中辨識度與收藏價值兼具的經典一作。",
     reviews: [
       {
@@ -11808,7 +11808,7 @@ export const collection: CollectibleItem[] = [
     height: "約100mm",
     officialUrl: "https://www.goodsmile.info/ja/product/3900/",
     imageUrl: "/images/nendoroid-sheryl-nome-330.jpg",
-    tags: ["MACROSS0002@中壢收多易", "マクロス", "マクロスF", "シェリル・ノーム", "ねんどろいど", "Good Smile Company", "GSC", "#330"],
+    tags: ["ETC0001@中壢收多易", "マクロス", "マクロスF", "シェリル・ノーム", "ねんどろいど", "Good Smile Company", "GSC", "#330"],
     description: "《超時空要塞Frontier》是マクロス系列2007年作品，延續系列一貫「歌聲對抗異形」的核心命題，劇中兩位歌姬シェリル・ノーム與ランカ・リー的三角關係與歌唱演出，是該作深植人心的重要看點。シェリル・ノーム作為銀河知名的當紅偶像歌手，舞台魅力四射，個性強勢又帶有脆弱的一面，是系列女主角中辨識度極高的角色。本商品為Good Smile Company「ねんどろいど」系列作品，商品編號#330，服裝重現電視版片頭曲與最終回演出中的招牌造型，Q版比例搭配精緻服裝細節。隨附三款替換表情：微笑、吶喊與熱唱，充分表現角色演唱時情緒起伏的多樣面貌，選配部件包含麥克風、替換手臂與腿部道具，並附專屬舞台底座可與標準底座連接組合，重現她的Live演出姿態。需特別說明，本品與Alter/MegaHouse「ALPHA X OMEGA」推出的1/7比例シェリル・ノーム雕像為完全不同品牌、不同比例的獨立商品，並非重複收藏。商品整體塗裝細膩，服裝褶皺與配色層次分明，充分展現Good Smile Company一貫的高品質工藝水準。表情零件雕刻生動傳神，眼部繪製精緻，可依展示情境自由替換營造不同氛圍。對於收藏マクロスF系列周邊商品的玩家而言，本作與同系列ランカ・リー等角丸商品並列展示，更能完整呈現該作雙女主角魅力，是系列粉�:絲不可錯過的Q版收藏代表作。",
     reviews: [
       {
