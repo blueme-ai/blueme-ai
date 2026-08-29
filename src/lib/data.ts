@@ -38738,7 +38738,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2009年9月",
     officialUrl: "https://tamashiiweb.com/item/953/",
     imageUrl: "/images/chogokin-vf25f-messiah-fold-clear.jpg",
-    tags: ["マクロスF", "VF-25F", "メサイアバルキリー", "DX超合金", "BANDAI", "フォールドクリアVer"],
+    tags: ["マクロスF", "VF-25F", "メサイアバルキリー", "DX超合金", "BANDAI", "フォールドクリアVer", "MACROSS0004@中壢收多易"],
     description: "《マクロスF》早乙女アルト機VF-25Fメサイアバルキリー的魂ウェブ商店限定「フォールドクリアVer.」，以特殊鍍膜重現摺躍空間中的七彩光澤效果。",
     reviews: [],
     youtube: [],
