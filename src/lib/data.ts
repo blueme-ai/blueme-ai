@@ -5701,7 +5701,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660032250000&grp_id=5325",
     imageUrl: "/images/mg-v2-gundam-ver-ka.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/854",
-    tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "バンダイ", "1/100", "変形", "勝利二式"],
+    tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "バンダイ", "1/100", "変形", "勝利二式", "X0001@中壢收多易"],
     description: "《機動戰士V鋼彈》（1993）是宇宙世紀系列中風格最為冷冽殘酷的一部，少年主角烏索・埃溫在戰爭中被迫快速成長，最終座機「勝利二式鋼彈」正是他歷經多次機體損毀與強化後所駕駛的終極形態，象徵著這段慘烈成長歷程的終點。本作 MG 1/100 比例套件由長年負責鋼彈機體設計監修的角色設計師香瀧一（カトキハジメ）親自操刀 Ver.Ka 版本，將原作中比例略顯特殊的機體造型重新調整,更貼近他手繪設定稿中英挺俐落的體態比例。V2 鋼彈是宇宙世紀機體中構造最為複雜的可變形機種之一，由 Top Fighter、Core Fighter、Bottom Fighter 三機分離合體構成,MG 等級的骨架完整重現此一分離合體機構,並可個別展示各分離形態,把玩樂趣與觀賞層次遠超一般套件。套件並附 Ver.Ka 專屬水轉印貼紙及烏索・埃溫、瑪貝特・芬格哈特、夏克蒂・卡林等複數駕駛員人偶,展現多視角敘事細節。最終武裝「光之翼」特效零件完成後極具視覺震撼,是《V鋼彈》系列中規格最高的旗艦套件,組裝難度堪比 MG νガンダム Ver.Ka,深受高階模型玩家推崇。",
     reviews: [
       {
@@ -5763,7 +5763,7 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555298000&grp_id=5325",
     imageUrl: "/images/mg-v2-assault-buster-expansion.jpg",
     manualUrl: "https://manual.bandai-hobby.net/menus/detail/2665",
-    tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "P-Bandai", "バンダイ", "1/100", "擴充套件", "Assault Buster"],
+    tags: ["Gunpla", "MG", "Vガンダム", "Ver.Ka", "P-Bandai", "バンダイ", "1/100", "擴充套件", "Assault Buster", "X0001@中壢收多易"],
     description: "「勝利二式突擊殲滅型鋼彈」是《機動戰士V鋼彈》劇情尾聲，烏索・埃溫為迎戰扎那斯庫帝國最終決戰而動用的滿載武裝形態，結合「突擊型」與「殲滅型」兩套強化裝甲系統於一身，象徵主角在故事終章傾盡全力一戰的關鍵時刻。本套件為 P-Bandai 限定的擴充配件組，需搭配基礎版「MG V2 鋼彈 Ver.Ka」主體套件（另售）使用，內含 Assault 型裝甲、Buster 型裝甲、主體骨架更新零件以及 Ver.Ka 專屬水轉印貼紙，可依喜好組裝出三種形態：突擊型、殲滅型，或雙系統同時搭載的全武裝突擊殲滅型，充分還原原作中機體因應戰局變化而升級改裝的設定巧思。金色零件採用精緻成形色呈現，搭配大型光束加農砲與殲滅型發射器等大口徑武裝，完整重現決戰時最強武裝配置的壓迫感，整組完成後氣勢遠超基礎版本。對已收藏 MG V2 鋼彈 Ver.Ka 主體的玩家而言，本擴充套件是提升機體完整度與視覺震撼力不可或缺的追加收藏。",
     reviews: [
       {
@@ -5835,7 +5835,7 @@ export const collection: CollectibleItem[] = [
     height: "約234mm",
     officialUrl: "https://www.goodsmile.info/ja/product/308/",
     imageUrl: "/images/max-factory-kotona-elegance.jpg",
-    tags: ["ゾイドジェネシス", "コトナ・エレガンス", "マックスファクトリー", "1/7", "水着"],
+    tags: ["ゾイドジェネシス", "コトナ・エレガンス", "マックスファクトリー", "1/7", "水着", "X0001@中壢收多易"],
     description: "《Zoids Genesis》（2005）是 Zoids 系列少數以人類角色互動與冒險故事為敘事核心的作品，科托娜・愛麗甘思作為兩大女主角之一，成長於商業繁盛的拉坎市集，性格活潑爽朗、待人真誠，是劇中為主角一行人帶來不少溫暖與活力的關鍵角色。Max Factory 以水著造型將她立體化為 1/7 比例 PVC 完成品，全高約 234mm，重現角色身穿白色鑲邊比基尼、右手持透明藍色泳圈的清爽夏日形象，金色長髮隨姿態自然飄逸，燦爛笑容充分捕捉了科托娜開朗直率的性格特質。原型師智惠理（Chieri）的雕塑手法細膩，身形比例自然寫實，服飾滾邊與細節線條清晰俐落，色彩飽和明亮，成功重現作品獨有的南國明快氛圍。本作最初於 2006 年冬季 Wonder Festival 以原型師限定套件形式先行亮相，翌年才正式以 PVC 完成品公開販售，發售管道與時間點的特殊性使其成為《Zoids Genesis》女性角色周邊中入手難度最高、也最受玩家追捧的一款收藏品。",
     reviews: [
       {
@@ -39014,7 +39014,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2020年（再生産）",
     officialUrl: "https://p-bandai.jp/",
     imageUrl: "/images/mg-barbatos-expansion-parts.jpg",
-    tags: ["機動戦士ガンダム 鉄血のオルフェンズ", "ガンダムバルバトス", "MG", "1/100", "Bandai", "プレミアムバンダイ", "プラモデル", "拡張パーツ", "X0004@中壢收多易"],
+    tags: ["機動戦士ガンダム 鉄血のオルフェンズ", "ガンダムバルバトス", "MG", "1/100", "Bandai", "プレミアムバンダイ", "プラモデル", "拡張パーツ", "X0001@中壢收多易"],
     description: "《機動戦士ガンダム 鉄血のオルフェンズ》MG 1/100 ガンダムバルバトス（另售）專用拡張パーツセット，透過大量新造型裝甲與武裝零件可重現機體第1～6形態，並附1/100比例鉄華団ワーカー與オルガ・イツカ人偶，以及水貼紙供細節加工，是鉄血系列MG商品線中補完機體全形態的重要擴充套件。",
     reviews: [
       { title: "MG ガンダムバルバトス用拡張パーツセット レビュー", url: "https://schizophonic9.com/re6/mg_barbatosexpansion.html", lang: "ja" },
