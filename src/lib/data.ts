@@ -39129,9 +39129,13 @@ export const collection: CollectibleItem[] = [
     officialUrl: "https://www.goodsmile.info/ja/product/10691/ねんどろいど+アクア+Winter+Ver.html",
     imageUrl: "/images/nendoroid-aqua-winter.jpg",
     tags: ["この素晴らしい世界に祝福を", "アクア", "ねんどろいど", "Good Smile Company", "Nendoroid", "#1540", "X0002@中壢收多易", "冬服"],
-    description: "《この素晴らしい世界に祝福を！》駄女神アクア身穿冬季服裝的Winter Ver.ねんどろいど，一改平時水之女神造型，呈現角色圍上圍巾禦寒的可愛冬日形象，是基本款アクア之外的季節限定版本。",
-    reviews: [],
-    youtube: [],
+    description: "《この素晴らしい世界に祝福を！》駄女神アクア身穿冬季服裝的Winter Ver.ねんどろいど，附可拆卸保暖帽、捕蟲網、雪之精靈（x2）與裝瓶雪精靈等配件，並附可重現「土下座」道歉姿勢的替換身體零件，呈現角色圍上圍巾禦寒的可愛冬日形象，是基本款アクア之外的季節限定版本。",
+    reviews: [
+      { title: "『このすば』冬の装いの駄女神「アクア」がデフォルメフィギュア化！グッドスマイルカンパニーの「ねんどろいど アクア Winter Ver.」を製品レビュー！ | 電撃ホビーウェブ", url: "https://hobby.dengeki.com/reviews/1172763/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【Nendoroid】ねんどろいど アクア Winter Ver.", url: "https://www.youtube.com/watch?v=aonWxgneE34", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-utaha-base",
