@@ -38124,7 +38124,9 @@ export const collection: CollectibleItem[] = [
     tags: ["グレートマジンカイザー", "真マジンガーZERO", "鉄魄", "MORTAL MIND", "CCSTOYS", "合金可動フィギュア", "勇者仕様"],
     description: "CCSTOYS「鉄魄（MORTAL MIND）」系列，《真マジンガーZERO vs 暗黒大将軍》グレートマジンカイザー特別色「勇者仕様」合金可動人偶，機身不含Great Booster約255mm、含Great Booster約320mm，以黑色金屬塗裝取代原版配色帶來更強悍視覺份量，並新增專屬「正義」機魄特效零件、多款替換手部與凱薩之劍等武裝配件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "就沒見過這麼正義的機體！ CCS 鐵魄 大魔神凱撒 勇者式樣 開箱試玩", url: "https://www.youtube.com/watch?v=kXVUQYHuIhI", lang: "zh" },
+    ],
   },
   {
     id: "ichibankuji-oregairu-yukinoshita-swimsuit",
