@@ -38000,7 +38000,7 @@ export const collection: CollectibleItem[] = [
     releaseDate: "2016年7月（已絕版）",
     officialUrl: "https://brickset.com/sets/75828-1/Ecto-1-2",
     imageUrl: "/images/lego-75828-ecto-1-2.png",
-    tags: ["LEGO", "Ghostbusters", "魔鬼剋星", "Ecto-1", "2016電影版"],
+    tags: ["LEGO", "Ghostbusters", "魔鬼剋星", "Ecto-1", "2016電影版", "X0004@中壢收多易"],
     description: "2016年上映的《Ghostbusters（魔鬼剋星）》重啟電影版，由四位女性捉鬼特工重新演繹經典IP，片中登場的「Ecto-1」與小型偵察車「Ecto-2」延續原版靈車改裝概念，並加入更現代化的科幻裝備細節。本商品為LEGO配合2016年電影推出的套組，共556顆零件，同時收錄Ecto-1主車與小型飛行載具Ecto-2兩台載具，並附4個2016電影版角色人偶，車頂搭載偵測儀器與捕鬼裝備細節重現度高，是樂高魔鬼剋星系列中電影版收藏支線的代表商品，現已絕版。",
     reviews: [],
     youtube: [
