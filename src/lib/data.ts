@@ -39256,4 +39256,27 @@ export const collection: CollectibleItem[] = [
     ],
     youtube: [],
   },
+  {
+    id: "figmon-bunny-girl-anna",
+    addedAt: "2026-08-30",
+    name: "FIGMON 兔女郎Anna 安娜",
+    nameJa: "バニーガール アンナ",
+    series: "原創角色",
+    character: "Anna（安娜）",
+    manufacturer: "FIGMON",
+    scale: "1/4（全高約450mm）",
+    price: "¥369（人民幣，含稅）",
+    releaseDate: "2025年7月",
+    officialUrl: "https://www.hpoi.net/hobby/96960",
+    imageUrl: "/images/figmon-bunny-girl-anna.jpg",
+    tags: ["FIGMON", "兔女郎", "Bunny Girl", "Anna", "1/4", "原創角色"],
+    description: "「兔女郎Anna（安娜）」是新興中國品牌FIGMON推出的首款原創角色立體化作品，由原畫師vortex繪製、mzy001上色，以經典兔女郎主題呈現角色性感豐滿的身形曲線與招牌兔耳造型。本作以1/4大比例呈現，全高約45公分，材質為ABS／PVC塗裝完成品，兔耳部分已預先組裝完成，無需另外拼裝，搭配專用展示台座，是近年中國原創GK手辦市場中親民定價、話題度頗高的代表作品之一。",
+    reviews: [
+      { title: "【心得】FIGMON 1/4 兔女郎 Anna 安娜 開箱 | 巴哈姆特", url: "https://forum.gamer.com.tw/C.php?bsn=60036&snA=74924", lang: "zh" },
+    ],
+    youtube: [
+      { title: "1/4 Bunny Anna: Figmon's 1st Figure is Promising!", url: "https://www.youtube.com/watch?v=Ig-ABBygHTE", lang: "en" },
+      { title: "CHEAP 1/4 Bunny Girl Anna - FIGURE UNBOXING - FIGMON", url: "https://www.youtube.com/watch?v=Ci3CQGWaALU", lang: "en" },
+    ],
+  },
 ]
