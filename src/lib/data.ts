@@ -4317,6 +4317,36 @@ export const collection: CollectibleItem[] = [
         ],
   },
   {
+    id: "dlx-iron-man-mark2-chrome",
+    addedAt: "2026-09-02",
+    name: "threezero DLX 鋼鐵人 Mark II（Chrome Edition）",
+    nameJa: "threezero DLX アイアンマン マーク2（クロームエディション）",
+    series: "Marvel Cinematic Universe / Iron Man (2008)",
+    character: "鋼鐵人 Iron Man（Mark II）",
+    manufacturer: "threezero",
+    scale: "1/12",
+    price: "US$109.90",
+    releaseDate: "2026年",
+    officialUrl: "https://www.threezerohk.com/shop/marvel-studios-the-infinity-saga-dlx-iron-man-mark-2-chrome-edition-6929",
+    imageUrl: "/images/dlx-iron-man-mark2-chrome.jpg",
+    tags: ["Marvel", "Iron Man", "threezero", "DLX", "Infinity Saga", "1/12", "可動", "合金"],
+    description: "2008年上映的《鋼鐵人》開啟了Marvel電影宇宙的序幕，講述軍火商東尼・史塔克在遭恐怖組織綁架、目睹自家武器造成的傷害後幡然醒悟，秘密打造動力裝甲展開自我救贖的故事，也奠定了往後十餘年MCU龐大敘事版圖的起點。Mark II是東尼在蓋爾科夫莊園完成初代簡陋盔甲後，返回私人莊園中秘密研發的第二套裝甲，主要用於測試飛行系統與懸浮穩定性，尚未進行最終塗裝前的全銀色拋光外觀，成為系列中極具識別度的過渡型號。此為threezero DLX系列的Chrome Edition版本，以高反光鍍鉻塗裝重現鈦合金裝甲的金屬光澤，比標準版更加強調Mark II未上色時的原始工業質感，胸口與眼部並配有冰藍色LED發光效果。DLX系列採用合金骨架搭配精密塗裝與可動關節，約48處可動點，1/12比例並附多款替換手型與展示台座配件，方便玩家重現飛行測試等經典動作場景。對已收藏標準版Mark II的玩家而言，Chrome Edition是進一步呈現裝甲金屬質感層次的特別版本。",
+    reviews: [
+          {
+            title: "threezero DLX \"The Infinity Saga Iron Man Mark II (Chrome Edition)\" | Toy People",
+            url: "https://www.toy-people.com/en/?p=101183",
+            lang: "en",
+          },
+        ],
+    youtube: [
+          {
+            title: "Threezero DLX IRON MAN MARK 2 (Chrome Edition) Marvel: The Infinity Saga 1/12 Action Figure Review",
+            url: "https://www.youtube.com/watch?v=a5E84L4dw20",
+            lang: "en",
+          },
+        ],
+  },
+  {
     id: "dlx-iron-man-mark3",
     addedAt: "2026-06-23",
     name: "threezero DLX 鋼鐵人 Mark III",
