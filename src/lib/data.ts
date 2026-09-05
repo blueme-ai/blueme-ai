@@ -38261,7 +38261,7 @@ export const collection: CollectibleItem[] = [
     scale: "1/6",
     price: "¥19,800（含稅）",
     releaseDate: "2026年8月",
-    officialUrl: "https://www.goodsmile.com/en/product/60710/Yui+Yuigahama+Light+Novel+Ver.",
+    officialUrl: "https://www.goodsmile.com/ja/product/60710",
     imageUrl: "/images/goodsmile-yui-yuigahama-original.jpg",
     tags: ["やはり俺の青春ラブコメはまちがっている。", "俺ガイル", "由比ヶ浜結衣", "Good Smile Company"],
     description: "《やはり俺の青春ラブコメはまちがっている。》由比ヶ浜結衣以輕小說插畫家ぽんかん⑧原畫為藍本推出的1/6比例塗裝完成品，全高約240mm，重現角色「溫暖中帶著一絲落寞」的神情，一改平時開朗直率的形象，制服外套與襯衫的柔軟質感刻畫細膩，是俺ガイル系列高規格比例模型代表作之一。",
