@@ -39417,4 +39417,27 @@ export const collection: CollectibleItem[] = [
       { title: "「騎士ユニコーンガンダム」をつくってみた / BB戦士 LEGENDBB 385 1/144【シゲチャンネル】", url: "https://www.youtube.com/watch?v=HbT1eoBF-wo", lang: "ja" },
     ],
   },
+  {
+    id: "orangecat-arx8-laevatein-final",
+    addedAt: "2026-09-10",
+    name: "橘貓工業×WAVE 1/35 ARX-8 レーバテイン＆XL-3 緊急展開ブースター 最終決戦仕様",
+    nameJa: "ARX-8 レーバテイン＆XL-3 緊急展開ブースター 最終決戦仕様",
+    series: "フルメタル・パニック！Invisible Victory（驚爆危機！IV）",
+    character: "ARX-8 レーバテイン（烈焰魔劍／Laevatein）",
+    manufacturer: "橘貓工業（Orange Cat Industry）× WAVE",
+    scale: "1/35",
+    price: "¥14,300（含稅）",
+    releaseDate: "2026年7月",
+    officialUrl: "https://www.hobby-wave.com/products/km108/",
+    imageUrl: "/images/arx8-laevatein-final.jpg",
+    tags: ["フルメタル・パニック", "驚爆危機", "橘貓工業", "WAVE", "ARX-8", "レーバテイン", "アームスレイブ", "XL-3"],
+    description: "《フルメタル・パニック！Invisible Victory》劇中主角相良宗介所駕駛的最終決戰機體「ARX-8 レーバテイン（烈焰魔劍）」，是繼承ARX-7 アーバレスト血統、由機體搭載AI「アル」不甘敗北而主導重新設計、並在獵人・古賓與美樹・久田見協助下完成的最強アームスレイブ（Arm Slave，人形機動兵器）。本商品由中國原型廠橘貓工業與日本模型大廠WAVE跨國聯手開發，屬於雙方高規格職人系列聯名企劃，是目前市面上最為完整、忠實還原機體立體造型的レーバテイン套件之一。1/35比例組裝完成後全高約24公分，總零件數超過1300個，骨架與外裝採用多色灰階與金屬感成型色分色，並搭配部分預塗裝跑道與漸層塗裝零件，兼顧免上色完成度與細節精緻度。套件標配可發光LED單元，可點亮機體攝影機眼部與駕駛艙螢幕；外裝甲板具備連動機構，能隨關節動作自然開合，重現劇中「最終決戰規格」全副武裝形態，並隨附另售外的XL-3緊急展開推進器（ブースター）超大型背部裝備組件，翼展約46.5公分，武裝配件齊全。作為中日聯名職人向企劃的代表作，兼具可動性、機構玩法與展示氣勢，是驚爆危機系列機體收藏者近年最受矚目的重量級新品之一。",
+    reviews: [
+      { title: "橘貓工業 x WAVE 2026年6月發售：模型 1/35《驚爆危機 IV》ARX-8 Laevatein ＆XL-3緊急展開推進器 [最終決戰規格]", url: "https://www.taghobby.com/archives/928045", lang: "zh" },
+      { title: "「フルメタル・パニック！IV」より「レーバテイン」がXL-3緊急展開ブースターなどを装備して1/35スケールプラモ化！", url: "https://hobby.watch.impress.co.jp/docs/news/2117783.html", lang: "ja" },
+    ],
+    youtube: [
+      { title: "超乎想象!! 橘猫工业-烈焰魔剑 Orange Cat Industry X WAVE 1/35 Full Metal Panic! ARX-8 Laevatein", url: "https://www.youtube.com/watch?v=pygd--JoNLA", lang: "zh" },
+    ],
+  },
 ]
