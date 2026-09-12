@@ -39452,7 +39452,7 @@ export const collection: CollectibleItem[] = [
     price: "￥16,700（含稅）",
     releaseDate: "2026年8月",
     height: "全高約250mm",
-    officialUrl: "https://www.goodsmile.com/en/product/1136999",
+    officialUrl: "https://www.goodsmile.com/ja/product/1136999/%E3%82%AB%E3%83%BC%E3%82%B7%E3%82%A2+%E5%80%A6%E5%A7%BF%E3%81%AE%E3%81%B2%E3%81%A8%E6%B3%A2+%E6%B0%B4%E7%9D%80Ver.",
     imageUrl: "/images/katya-surfside-leisure-swimsuit.jpg",
     tags: ["尘白禁区", "Snowbreak", "凯茜娅", "Katya", "Good Smile Arts Shanghai", "泳裝", "1/7比例"],
     description: "《尘白禁区》是近年人氣崛起的國產二次元射擊手遊，凱茜婭（凯茜娅）為遊戲中人氣角色之一，以幹練俐落的形象深受玩家喜愛。本商品為Good Smile Arts Shanghai與GOOD SMILE COMPANY推出的1/7比例「冰凉倦姿Ver.」完成品，以夏日海灘為主題重新演繹角色形象，身著清涼泳裝擺出俏皮眨眼比心姿勢，細膩呈現肌膚質感漸層與泳裝配件的精緻雕刻，並標配可替換的睜眼笑容表情零件供玩家切換展示。套件附專用沙灘造型台座，是《尘白禁区》周邊商品線中話題度頗高的夏日主題代表作。",
