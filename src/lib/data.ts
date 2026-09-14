@@ -39479,4 +39479,26 @@ export const collection: CollectibleItem[] = [
       { title: "伝説合体！グレートダ・ガーンGX 変形合体を徹底解説【SMP ガ・オーン】ヲタファの食玩レビュー / SMP GREAT DA-GARN GX / GA-ORN", url: "https://www.youtube.com/watch?v=LqD_AhD7AQc", lang: "ja" },
     ],
   },
+  {
+    id: "popynica-jet-pilder-mazinger-z",
+    addedAt: "2026-09-14",
+    name: "ポピニカ ジェットパイルダー号",
+    nameJa: "ポピニカ ジェットパイルダー号",
+    series: "マジンガーZ",
+    character: "兜甲児／ジェットパイルダー号",
+    manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
+    scale: "ポピニカ（全長約65mm）",
+    price: "¥9,900（含稅）",
+    releaseDate: "2026年8月29日",
+    officialUrl: "https://tamashiiweb.com/item/15750/",
+    imageUrl: "/images/popynica-jet-pilder-mazinger-z.jpg",
+    tags: ["マジンガーZ", "ジェットパイルダー号", "ポピニカ", "Bandai", "TAMASHII NATIONS", "兜甲児"],
+    description: "《マジンガーZ》劇中兜甲児搭乘的專用駕駛艙載具「ジェットパイルダー号」，繼「ホバーパイルダー号」復刻好評後推出的續作，以厚重壓感的壓鑄合金（ダイキャスト）機身搭配銀色電鍍大型噴射引擎，重現原作中「パイルダーオン」的經典登場場面。透明座艙罩可開闔，內裝兜甲児塗裝人偶；兩側主翼可收折，左右噴射引擎可內縮，藉此與另售的「無敵の王者 ジャンボマシンダー マジンガーZ」頭部進行パイルダーオン合體。相較1974年初代版本，本商品將主翼展開開關從機身上方移至後方噴嘴處，細節設計更貼近懷舊玩具的操作手感。",
+    reviews: [
+      { title: "【マジンガーZ】「ポピニカ ジェットパイルダー号」を比較検証！ホバーパイルダー号や旧版と比べてその仕様を確認しよう！【超合金の魂】", url: "https://hjweb.jp/article/2609733/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "先行展示 TAMASHII NATIONS 超合金 マジンガーZシリーズ ポピニカ ジェットパイルダー号 Chogokin Jet Pilder Mazinger Z", url: "https://www.youtube.com/watch?v=il724MMm32k", lang: "ja" },
+    ],
+  },
 ]
