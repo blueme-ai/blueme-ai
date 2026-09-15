@@ -39501,4 +39501,26 @@ export const collection: CollectibleItem[] = [
       { title: "先行展示 TAMASHII NATIONS 超合金 マジンガーZシリーズ ポピニカ ジェットパイルダー号 Chogokin Jet Pilder Mazinger Z", url: "https://www.youtube.com/watch?v=il724MMm32k", lang: "ja" },
     ],
   },
+  {
+    id: "tron-mazinkaiser-alloy-frame",
+    addedAt: "2026-09-15",
+    name: "マジンカイザー 合金フレームプラスチックモデルキット",
+    nameJa: "マジンカイザー 合金フレームプラスチックモデルキット",
+    series: "マジンカイザー",
+    character: "マジンカイザー",
+    manufacturer: "TRON MODEL × DRAGON HORSE",
+    scale: "全高約30cm（展開時最大幅約95cm）",
+    price: "¥13,200（含稅）",
+    releaseDate: "2026年4月",
+    officialUrl: "https://hjweb.jp/article/2646852/",
+    imageUrl: "/images/tron-mazinkaiser-alloy-frame.jpg",
+    tags: ["マジンガーZ", "マジンカイザー", "TRON MODEL", "DRAGON HORSE", "合金フレーム", "プラモデル"],
+    description: "「マジンカイザー」是2001年OVA作品推出的マジンガーZ強化重詮釋機體，厚重威武的機體設計與熱血演出風格長年深受經典機器人動畫迷喜愛。本商品為中國廠牌TRON MODEL與DRAGON HORSE（ドラゴンホース）合作推出的「合金フレームプラスチックモデルキット」，內部採用預先組裝完成的鋅合金骨架，讓組裝完成品即使是塑膠外殼也能呈現接近合金完成品的厚重質感與密度。機身外裝施以金屬色與珍珠塗裝的預塗裝處理，胸部、雙臂與頭部搭載磁吸控制式發光單元，可重現多種戰鬥燈光演出效果。全高約30cm，雙翼展開後最大寬幅可達約95cm，隨附武裝可合體組成全長41cm的「アルティメットカイザーブレード」，並附屬專用展示台座，是喜愛マジンガー系列厚重機甲美學、同時追求高性價比大型組裝模型收藏者值得關注的一款。",
+    reviews: [
+      { title: "最大幅はなんと95cm！「マジンカイザー」が超ビッグスケールの\"プラキット\"で登場。合金フレームに発光ギミック、メタリック塗装まで、規格外のスペシャルアイテムを見逃すな【TRON MODEL×DRAGON HORSE】", url: "https://hjweb.jp/article/2646852/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【価格破壊×置き場所破壊】TRON MODELマジンカイザー 合金フレームプラキットをレビュー！/MAZINKAISER/マジンガーZ/MAZINGER Z/プラモデル【異常コスパ】", url: "https://www.youtube.com/watch?v=42iSxnfe4U8", lang: "ja" },
+    ],
+  },
 ]
