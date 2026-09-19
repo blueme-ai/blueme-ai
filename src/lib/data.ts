@@ -1244,6 +1244,36 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
+    id: "dx-chogokin-vf25-topgun-maverick",
+    addedAt: "2026-09-19",
+    name: "DX超合金 VF-25 メサイアバルキリー トップガン マーヴェリックVer.",
+    nameJa: "DX超合金 VF-25 メサイアバルキリー トップガン マーヴェリックVer.",
+    series: "マクロスF（Macross Frontier）× TOP GUN: Maverick",
+    character: "VF-25 Messiah Valkyrie",
+    manufacturer: "BANDAI SPIRITS（TAMASHII NATIONS）",
+    scale: "1/60",
+    price: "¥26,400",
+    releaseDate: "2026年9月12日",
+    officialUrl: "https://tamashiiweb.com/item/15598/",
+    imageUrl: "/images/dx-chogokin-vf25-topgun-maverick.jpg",
+    tags: ["マクロス", "マクロスF", "VF-25", "トップガン", "TOP GUN Maverick", "コラボ", "DX超合金", "1/60", "Bandai", "可變形", "合金"],
+    description: "2026年，派拉蒙電影《捍衛戰士：獨行俠》與河森正治經典動畫《Macross Frontier》展開一場橫跨真人電影與動畫作品的奇蹟聯名，將劇中主角小隊的標準配置機體VF-25 Messiah Valkyrie，套上電影主角「獨行俠」座機的專屬塗裝與識別配色。此聯名概念呼應了兩部作品共通的核心魅力——駕駛員與高性能戰機之間生死與共的羈絆，以及超越現實與虛構界線的飛行浪漫。機體延續Battroid、GERWALK、Fighter三型態完全變形機構，戰機模式的流線造型換上灰藍雙色塗裝，呼應獨行俠愛機的迷彩基調；Battroid模式的頭部則加入紅白黑三色線條，設計靈感取自電影主角的飛行頭盔配色，並隨附專屬塗裝與燙印標誌，是本次聯名企劃的視覺核心。配件包含專用槍口、突擊刀、可收展起落架，並附一般三型態展示台座與紀念款斜角展示台，可重現戰機與GERWALK形態的動態停放姿態。作為DX CHOGOKIN系列少見的跨IP聯名商品，此作品兼具Macross系列機體人氣與電影話題性雙重魅力，對於同時追隨兩部作品的收藏者而言，是極具紀念意義且獨一無二的限定塗裝版本。",
+    reviews: [
+      {
+        title: "DX超合金 VF-25 メサイアバルキリー トップガン マーヴェリックVer. レビュー | はっちゃか",
+        url: "https://hacchaka.net/archives/52136422.html",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "DX CHOGOKIN VF-25 MESSIAH VALKYRIE Top Gun: Maverick Ver. promotional video",
+        url: "https://www.youtube.com/watch?v=UVaIVYtK4AY",
+        lang: "en",
+      },
+    ],
+  },
+  {
     id: "dx-chogokin-vf25f-super-messiah-alto-revival",
     addedAt: "2026-06-20",
     name: "DX超合金 VF-25F スーパーメサイアバルキリー（早乙女アルト機）リバイバルVer.",
