@@ -24314,7 +24314,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【4月24日（日）受注締切！】「SMP 百獣合体 ガオライオン＆ガオエレファント」トライ品レビュー！", url: "https://bandaicandy.hateblo.jp/entry/20220422_smp", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【SMPC】SMP ガオライオン レビュー！でかいほうです", url: "https://www.youtube.com/watch?v=r5gQQEhJSlk", lang: "ja" },
+    ],
   },
   {
     id: "smp-gaoikaros",
@@ -24335,7 +24337,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【光れ】7月18日（月）発売！SMP 百獣合体 ガオイカロス 発売直前レビュー！", url: "https://bandaicandy.hateblo.jp/entry/20220717_smp", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "SMP百獣合体「ガオイカロス」戦隊ロボの変形合体レビュー Gaoicarus GaoRanger スーパーミニプラ 食玩", url: "https://www.youtube.com/watch?v=rYLvp2JiHI4", lang: "ja" },
+      { title: "【SMPC】SMP ガオイカロス レビュー！", url: "https://www.youtube.com/watch?v=AbE1WPGP9W0", lang: "ja" },
+    ],
   },
   {
     id: "smp-gaoking",
@@ -25805,7 +25810,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "超合金マクロスクォーター レビュー", url: "https://schizophonic9.com/macrossquarter.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "玩具屋さんで買ったDX超合金マクロス・クォーター、箱がボロ過ぎるんだが｜マクコレ", url: "https://www.youtube.com/watch?v=DdT5P9s_AIE", lang: "ja" },
+    ],
   },
   {
     id: "macross-display-stand-valkyrie-black",
@@ -25916,7 +25923,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】超合金魂 GX-59 ダルタニアス（アトラウス・ベラリオス・ガンパー）", url: "https://shishioh.info/SOC_GX-59_DALTANIOUS_1.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【未来ロボ ダルタニアス】傑作玩具！超合金魂 GX-59 ダルタニアス ヲタファの変形合体ロボレビュー", url: "https://www.youtube.com/watch?v=c4A8j3KgXG0", lang: "ja" },
+      { title: "[なぜ胸にライオンの顔があるのだ！？]超合金魂 GX-59R 未来ロボ ダルタニアス レビュー", url: "https://www.youtube.com/watch?v=d7epwjg69wE", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx54-tobikage-kuroshishi",
@@ -25934,7 +25944,10 @@ export const collection: CollectibleItem[] = [
     tags: ["忍者戦士飛影", "TOBIKAGE", "超合金魂", "飛影", "黒獅子", "Bandai", "TAMASHII NATIONS"],
     description: "《忍者戦士飛影》是1985年播出的東映機器人動畫，主角機「飛影」融合忍者與機甲美學，可變形為飛行形態的「変形飛影」，並能與多台獣魔支援機合體強化，是東映機器人系列中風格獨樹一格的忍者題材作品。本商品「超合金魂 GX-54 飛影＆黒獅子」收錄飛影本體與獣魔「黒獅子」，透過合體機構可將黒獅子與変形飛影核心形態結合，變身為戰力更強大的「獣魔・黒獅子」形態。全身關節可動範圍充足，能重現忍者機甲蓄力出拳、拔刀迎戰等經典架式；黑金配色搭配銳利的機甲輪廓，呈現濃厚和風忍者美學的視覺印象。作為「忍者戦士飛影」系列超合金魂陣容的核心商品，是喜愛此系列世界觀的資深機甲玩家收藏版圖中不可或缺的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【忍者戦士飛影】獣魔に完全変形！超合金魂 GX-54 飛影&黒獅子 ヲタファの変形徹底レビュー", url: "https://www.youtube.com/watch?v=iqIVhASEbCw", lang: "ja" },
+      { title: "【HG玩具開箱】超合金魂GX-54-飛影 與 黑獅子", url: "https://www.youtube.com/watch?v=45DakVrTONs", lang: "zh" },
+    ],
   },
   {
     id: "soc-gx55-tobikage-horaidaka",
@@ -25954,7 +25967,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】バンダイ 超合金魂 GX-55 飛影＆鳳雷鷹 [忍者戦士 飛影] 飛影編", url: "https://shishioh.info/b-GX-55.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【HG玩具開箱】超合金魂GX-55-飛影 與 鳳雷鷹", url: "https://www.youtube.com/watch?v=Tcx4OdlpEVM", lang: "zh" },
+    ],
   },
   {
     id: "soc-gx56-reikage-bakuryu",
@@ -25992,7 +26007,9 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者エクスカイザー", "マスターピース", "キングエクスカイザー", "TAKARA", "勇者シリーズ"],
     description: "《勇者エクスカイザー》是1990年播出的「勇者シリーズ」開山之作，主角機エクスカイザー可與支援機「キングローダー」合體強化為「キングエクスカイザー」，樹立了後續勇者系列「主角機＋支援機合體」的經典公式。本商品為紀念系列15週年推出的「マスターピース勇者」系列第一彈，2005年12月31日發售，以成人玩家取向的高完成度規格重新詮釋這款經典角色，收錄エクスカイザー本體、キングローダー本體、專用展示台座及多款替換手部零件，並附有ジェットブーメラン、スパイクカッター等劇中經典武裝。全身關節採可動設計，可重現變形合體機構與劇中招牌戰鬥姿態，塗裝忠實還原原作配色。作為勇者系列首部作品的旗艦級復刻商品，是資深勇者系列收藏者心中極具代表性的紀念之作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【勇者エクスカイザー】タカラ MP キングエクスカイザー ヲタファの傑作玩具レビュー", url: "https://www.youtube.com/watch?v=3n_8KWaw5PA", lang: "ja" },
+    ],
   },
   {
     id: "takara-mp002-dragon-kizer",
@@ -26010,7 +26027,9 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者エクスカイザー", "マスターピース", "ドラゴンカイザー", "TAKARA", "勇者シリーズ"],
     description: "《勇者エクスカイザー》劇中，キングローダー損毀後，エクスカイザー與新召喚的支援機「ドラゴンジェット」合體，化身戰力更強大的「ドラゴンカイザー」，是劇情中後段的關鍵強化形態。本商品為「マスターピース勇者」系列第二彈，2006年3月發售，可與另售的MP-B01キングエクスカイザー合體組成「グレートエクスカイザー」超大型合體形態，大幅擴充系列整體的收藏與把玩深度。全身內建豐富可動軸，能重現背後裝設的サンダーアロー拔出動作，以及ドラゴンアーチェリー構弓等劇中經典演出姿態，金銀配色搭配銳利的龍形機甲線條，展現不同於エクスカイザー本體的華麗霸氣視覺印象。作為勇者系列復刻企劃的重量級延伸商品，是完整重現原作合體演出、深度收藏勇者エクスカイザー陣容不可或缺的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【勇者エクスカイザー】タカラ MP ドラゴンカイザー ヲタファの傑作玩具レビュー", url: "https://www.youtube.com/watch?v=4JG-lof1Afk", lang: "ja" },
+    ],
   },
   {
     id: "saint-cloth-myth-pegasus-seiya-initial-2003",
@@ -26396,7 +26415,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG ヒュッケバイン（PTX-08R） レビュー", url: "https://schizophonic9.com/re9/hg_ptx08r.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【バンダイ驚異のメカニズム！ついに元祖ヒュッケバインがプラモに！？】HG ヒュッケバイン(PTX-08R) レビュー", url: "https://www.youtube.com/watch?v=hI805zYCHYc", lang: "ja" },
+      { title: "HG Huckebein Review", url: "https://www.youtube.com/watch?v=Ixm7BwBlvnM", lang: "en" },
+    ],
   },
   {
     id: "moderoid-nikick",
@@ -26416,7 +26438,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MODEROID ナイキック レビュー", url: "https://schizophonic9.com/re9/moderoid_nikick.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【超時空世紀オーガス】最新の3段変形キット！モデロイド ナイキック / MODEROID NIKICK", url: "https://www.youtube.com/watch?v=9aLryW2UJic", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-gatcha-spartan",
@@ -26434,7 +26458,10 @@ export const collection: CollectibleItem[] = [
     tags: ["科学忍者隊ガッチャマン", "ガッチャマンF", "MODEROID", "ガッチャスパルタン", "GOOD SMILE COMPANY", "プラモデル"],
     description: "《科学忍者隊ガッチャマンF》為經典特攝英雄動畫《科学忍者隊ガッチャマン》系列作品，科學忍者隊搭乘的巨大戰鬥機「ガッチャスパルタン」由G-1至G-5五架機體合體組成，是系列中辨識度最高的合體機械之一，象徵科學忍者隊團結一致的核心精神。本商品為「MODEROID」系列可動模型，2025年7月發售，合體全長約330mm、大型量體感十足，重現五機合體變形機構，並附科學忍者隊隊長「大鷲の健」手持ガッチャマンフェンサー的同比例未上色人偶，以及以科學忍者隊鳥形徽章為造型的專用展示台座，可重現在空中飛行的展示效果，是喜愛特攝合體機械的資深玩家收藏重點。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "5機のGメカが変形合体【MODEROID ガッチャスパルタン】全長約330mmのビッグサイズ！ ヲタファのプラモレビュー", url: "https://www.youtube.com/watch?v=v71H8nKa6ts", lang: "ja" },
+      { title: "MODEROID ガッチャスパルタン レビュー モデロイド gatcha spartan review", url: "https://www.youtube.com/watch?v=IbBqOuHq5qU", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-orguss2-olson-special",
@@ -26471,7 +26498,9 @@ export const collection: CollectibleItem[] = [
     tags: ["六神合体ゴッドマーズ", "超合金魂", "ゴッドマーズ", "超合金50周年", "BANDAI SPIRITS"],
     description: "《六神合体ゴッドマーズ》是1981年播出的機器人動畫，六位擁有不同顏色能力的兄弟分別駕駛獨立機體，合體組成巨大機器人「ゴッドマーズ」，其核心機體「ゴッドガイヤー」可完整收納於機身「魔神スフィンクス」之中，是日本合體機器人動畫史上構造設計最為精密複雜的代表作之一。本商品為紀念「超合金」品牌50週年推出的「超合金魂」特別版本，2025年9月20日發售，六台機體各自新增電鍍加工零件，核心機體ゴッドガイヤー更以紅銀雙色電鍍呈現近乎全身鍍膜的豪華規格，標配巨大寶具「マーズフラッシュ」、原創超合金設計配件「六神合体の剣」，以及可分離合體為三架戰機的宇宙戰艦「コスモクルーザー」，是紀念性與收藏價值兼具的頂級精品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【超合金50周年版】超合金魂 GX-40SP 六神合体ゴッドマーズ ヲタファの変形合体レビュー", url: "https://www.youtube.com/watch?v=h5tqpODoOyI", lang: "ja" },
+    ],
   },
   {
     id: "smp-galaxymega-deltamega",
