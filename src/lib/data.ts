@@ -30590,7 +30590,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【ＤＸ超合金】 ＶＦ－２５Ｓ メサイアバルキリー （オズマ・リー機）[レビュー]", url: "https://toroplus.blog/tyougoukinn/vf25s-messiah-ozma/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【マクロスF】DX超合金 VF-25S メサイアバルキリー (オズマ・リー機) リニューアルVer. & アーマードパーツ ヲタファのマクロスレビュー", url: "https://www.youtube.com/watch?v=2S8qsxtlC68", lang: "ja" },
+    ],
   },
   {
     id: "ichibankuji-sheryl-lastfrontier-lastone",
@@ -30940,7 +30942,9 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスF", "VF-27", "ルシファー", "グレイス・オコナー", "DX超合金", "1/60", "Bandai", "可變形", "合金", "魂ウェブ商店限定", "初版"],
     description: "《Macross Frontier》中グレイス・オコナー是統合軍高層背後操縱全局的關鍵反派角色，其座機VF-27βルシファーバルキリー以苔綠色塗裝呈現與主角陣營機體截然不同的陰鬱氣質。VF-27是Frontier世界觀中設計最為前衛的可變機系列之一，流線型機身搭配獨特的深色塗裝，在講究速度與威嚇感的造型語言上獨樹一格。本商品為DX CHOGOKIN系列2010年6月推出的魂ウェブ商店限定初版商品，標配「ニューヘッドプラス」全新開模頭部零件，可透過換裝呈現一般機形態，套組內容包含本體、左右各三種替換用手首、替換用頭部（一般機用）、替換用座艙罩、光束槍與專用展示台座。延續系列標誌性金屬壓鑄骨架與三型態完全變形機構，是Macross Frontier反派陣營機體周邊中辨識度與收藏價值兼具的初版逸品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】DX超合金 VF-27β ルシファー（一般機）／ VF-27β Lucifer", url: "https://www.youtube.com/watch?v=FbbDq4hrYjc", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-variable-stand-smoke",
@@ -31142,7 +31146,9 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロスF", "シェリル・ノーム", "メガハウス", "ALPHA×OMEGA", "エクセレントモデル", "1/8", "美少女フィギュア", "ラスト・フロンティア"],
     description: "《マクロスF》以「歌聲能改變戰局」的獨特世界觀，將偶像文化與變形機甲戰鬥揉合出獨樹一格的科幻歌唱作品，銀河的妖精シェリル・ノーム是系列人氣最高的偶像角色之一。本品為ALTER與MegaHouse合作品牌「ALPHA×OMEGA」旗下「エクセレントモデル」系列作品，取材自劇場版《ラスト・フロンティア》相關演出造型重新詮釋角色形象，原型製作由あかつき操刀，塗裝由Colorist Fantasista Tc負責。1/8比例完成品細膩呈現角色華麗舞台裝的層次感與動態姿勢，是マクロスF美少女フィギュア商品化陣容中人氣角色的代表版本之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "メガハウス エクセレントモデル『マクロス・フロンティア』シェリル・ノーム(ラスト・フロンティアバージョン)をレビュー", url: "https://www.youtube.com/watch?v=W9GMhdPa8bw", lang: "ja" },
+    ],
   },
   {
     id: "megahouse-klanklang-micron",
@@ -31308,7 +31314,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスF", "VF-25S", "アーマードメサイア", "オズマ・リー", "DX超合金", "Bandai", "可變形", "合金", "GE-47", "初版", "MACROSS0012@中壢收多易"],
     description: "《マクロスF》是Macross系列自2008年推出的電視動畫作品，オズマ・リー是SMS部隊Skull小隊隊長，個性沉穩可靠、身經百戰，其座機VF-25S以隊長機規格搭載較高規格的機動性能。本商品為BANDAI「DX超合金」系列GE-47號機，是「アーマードメサイア」強化裝甲形態的最初期原版商品，2009年8月12日發售，全身裝甲以厚重量感重現角色主力機強化裝備狀態，內建可動砲塔、飛彈艙開闔、起落架艙門等豐富機構演出。作為後續「リバイバルVer.」復刻版的原點商品，是マクロスF系列DX超合金收藏中份量感十足的重點作品之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】DX超合金 VF-25S アーマードメサイア", url: "https://www.youtube.com/watch?v=ViOlLmgTqvM", lang: "ja" },
+      { title: "【マクロスF】DX超合金 VF-25S メサイアバルキリー (オズマ・リー機) リニューアルVer. & アーマードパーツ", url: "https://www.youtube.com/watch?v=2S8qsxtlC68", lang: "ja" },
+    ],
   },
   {
     id: "volks-dress-altria-swimsuit",
@@ -31433,7 +31442,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Transformers", "變形金剛", "Masterpiece", "TAKARA TOMY MALL限定"],
     description: "MP-18B ブルーストリーク為タカラトミーモール限定販售版本，沿用MP-18普勞爾（Prowl）的模具但拿掉警車頂燈，重現長年只在動畫中登場、從未推出過官方商品的夢幻角色「藍色閃電」ブルーストリーク。車輛模式重現舊Diaclone配色的藍色車身搭配銀色引擎蓋，機器人模式則以銀與金屬藍為主色，是MP系列玩家間評價極高的稀有限定機體。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【幻のダイアクロン 青×銀 カラーだ！】MP-18B ブルーストリーク ヲタファのトランスフォーマー レビュー", url: "https://www.youtube.com/watch?v=7hREdsSYbCE", lang: "ja" },
+    ],
   },
   {
     id: "mg-weapon-armor-hanger-fa-gundam-tb",
@@ -34163,7 +34174,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ROBOTECH", "マクロス", "Macross", "threezero", "ROBO-DOU", "VF-1S", "Roy Fokker"],
     description: "《ROBOTECH》是《超時空要塞マクロス》在北美發行時的在地化改編作品，深受歐美機戰玩具收藏者喜愛。「VF-1S Veritech」是主角機的可變形戰鬥機，本商品重現主角僚機飛行員「Roy Fokker」的專屬座機塗裝，機身標誌性骷髏頭標記與招牌配色皆忠實還原。「ROBO-DOU」是threezero旗下主打高剛性合金骨架與精密關節工藝的可動人偶品牌，本商品可完整重現機體在「Fighter（戰機）」「Guardian（守護者）」「Battloid（人形）」三種形態間的自由變形，內構鋅合金骨架提供高達109處可動關節，展現極為靈活的擺拍表現力。標配GU-11槍炮、多組飛彈與替換手型配件，是ROBOTECH／マクロス系列周邊收藏者相當期待的一款高規格可動玩具新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "VF 1S Veritech Roy Fokker Robo Dou ThreeZero Figure Review", url: "https://www.youtube.com/watch?v=0yE_Gd5PsNc", lang: "en" },
+      { title: "[4K] Robotech VF-1S Roy Fokker by Threezero – Full Transformation Review", url: "https://www.youtube.com/watch?v=Hp6fRMz5ojM", lang: "en" },
+    ],
   },
   {
     id: "rg-blast-impulse-gundam",
@@ -34418,7 +34432,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロスゼロ", "Macross Zero", "HI-METAL R", "BANDAI SPIRITS", "VF-0S", "フェニックス", "ロイ・フォッカー", "MACROSS0009"],
     description: "《マクロスゼロ》是《超時空要塞マクロス》系列世界觀最初期的OVA外傳作品，「VF-0Sフェニックス」是王牌飛行員「ロイ・フォッカー」的專屬座機，本商品重現機體標配無人偵察機「QF-2200D-B ゴースト」的特攻突擊最強裝備組合。「HI-METAL R」是BANDAI SPIRITS旗下主打高質感金屬質地與完整三段變形機構重現的可動人偶品牌，本商品完整支援「ファイター」「ガウォーク」「バトロイド」三段變形，並可自由選擇搭載或不搭載ゴースト的兩種展示形態，標配3種主翼配件（標準型、懸掛型、バトロイド専用型）、槍炮、多款飛彈莢艙、飛行員人形與展示台座。台座並印有骷髏頭標誌，是マクロスゼロ系列周邊收藏者與HI-METAL R系列收藏者相當熱衷蒐集的一款頂級規格代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】バンダイ HI-METAL R VF-0S フェニックス（ロイ・フォッカー機）", url: "https://www.youtube.com/watch?v=lEByW0qjfBk", lang: "ja" },
+      { title: "【マクロス ゼロ】超精密に3段変形！HI-METAL R VF-0S フェニックス(ロイ・フォッカー機)ヲタファの遊び方レビュー", url: "https://www.youtube.com/watch?v=jrVzVyJ-ooI", lang: "ja" },
+    ],
   },
   {
     id: "momoko-glowing-succubus",
@@ -34539,7 +34556,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "おもちゃ：アルカディア SV-51γ ノーラ・ポリャンスキー搭乗機 レビュー", url: "https://ameblo.jp/kanagawakenmin0217/entry-12750241098.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】アルカディア 1/60 SV-51γ ノーラ機 最終決戦仕様", url: "https://www.youtube.com/watch?v=Zc8sLr7TPNE", lang: "ja" },
+      { title: "【マクロス玩具レビュー】比較と戻し変形 アルカディア 1/60 SV-51γ ノーラ機（Part 2）", url: "https://www.youtube.com/watch?v=3MrHULNz9pg", lang: "ja" },
+    ],
   },
   {
     id: "rg-weapon-set-rx78-2-ver2",
@@ -35632,7 +35652,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG VF-22S シュトゥルムフォーゲルII(ミリア・ファリーナ・ジーナス機) レビュー", url: "https://schizophonic9.com/re9/hg_vf-22smilia.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】HG 1/100 VF-22S シュツルムフォーゲルⅡ（ミリア機）", url: "https://www.youtube.com/watch?v=lCNMaqqSX78", lang: "ja" },
+      { title: "(最強夫婦の機体がHGに登場！)HG 1/100 VF-22S シュトゥルムフォーゲルII(マックス機＆ミリア機) レビュー", url: "https://www.youtube.com/watch?v=cXIvyS8NFw0", lang: "ja" },
+    ],
   },
   {
     id: "hg-vf22s-sturmvogel2-max",
@@ -35650,7 +35673,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス7", "Macross 7", "HG", "Bandai", "VF-22S", "シュトゥルムフォーゲル", "マクシミリアン"],
     description: "《マクロス7》中，「VF-22S シュトゥルムフォーゲルII」是傳說王牌飛行員「マクシミリアン・ジーナス」駕駛的青色系可變戰鬥機。本商品為HG『マクロス』プラモシリーズ規格套件，採「ショートカットチェンジ」設計，透過部分零件替換即可輕鬆完成バトロイド、ガウォーク、ファイター三段變形，與ミリア機形成呼應成套的視覺主題，是マクロス7系列鋼普拉陣容中人氣居高不下的一款代表性機體作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】HG VF-22S シュツルムフォーゲルⅡ（マクシミリアン・ジーナス機）", url: "https://www.youtube.com/watch?v=TEbDu6OTr9A", lang: "ja" },
+      { title: "(最強夫婦の機体がHGに登場！)HG 1/100 VF-22S シュトゥルムフォーゲルII(マックス機＆ミリア機) レビュー", url: "https://www.youtube.com/watch?v=cXIvyS8NFw0", lang: "ja" },
+    ],
   },
   {
     id: "option-parts-set-14-gunbarrel-striker",
@@ -35813,7 +35839,9 @@ export const collection: CollectibleItem[] = [
     tags: ["トランスフォーマー", "Transformers", "TAKARA TOMY", "バンブルビー", "Bumblebee", "40周年"],
     description: "為紀念《トランスフォーマー》系列誕生40週年，「40TH SELECTION」以劇中形象重新推出「バンブルビー」（原MPM-3規格），完整重現實寫電影版中的黃色跑車人氣角色。人偶頭部內建可展開的戰鬥面罩機構，右臂可裝配標配武器配件，採全可動關節設計支援多樣化擺拍姿態。是トランスフォーマー系列40周年紀念商品陣容中人氣居高不下的一款代表性角色作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "トランスフォーマー４０周年記念シリーズ！MPM-3バンブルビーがリカラーで登場！40TH SELECTION バンブルビー", url: "https://www.youtube.com/watch?v=LbwUI08bjf8", lang: "ja" },
+    ],
   },
   {
     id: "transformers-basara-prime",
