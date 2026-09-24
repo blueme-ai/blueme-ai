@@ -20842,7 +20842,9 @@ export const collection: CollectibleItem[] = [
       { title: "レビュー308 SMP ドラゴンシーザー クリアカラーver.【前編】", url: "https://syoku-gun.blog/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC308%E3%80%80smp-%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%80%80%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BCver-%E3%80%90/", lang: "ja" },
       { title: "レビュー309 SMPドラゴンシーザー クリアカラーver.【後編】", url: "https://syoku-gun.blog/レビュー309　smpドラゴンシーザー　クリアカラーver-【/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【SMPC】SMP ドラゴンシーザー クリアカラーVer.のレビュー", url: "https://www.youtube.com/watch?v=VWTNVnCjmZM", lang: "ja" },
+    ],
   },
   {
     id: "smp-gingaioh",
@@ -31656,7 +31658,9 @@ export const collection: CollectibleItem[] = [
     tags: ["超電磁マシーン ボルテスV", "特攝", "SMP", "食玩", "Premium Bandai限定"],
     description: "以2025年3月發售的「SMP 超電磁マシーン ボルテスV ブイトゥギャザーセットSPエディション」為基礎，改以動畫原色（アニメカラー）重新推出，包裝設計與成型色皆全面翻新，並附組裝完成後可收納的吸塑盒，重現5台裝甲機合體為ボルテスV的經典場景，為Premium Bandai限定商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "食玩で変形合体！【SMP ボルテスV レガシー レッツ・ボルトイン！セット】ヲタファのレビュー", url: "https://www.youtube.com/watch?v=FVeGG6awQLs", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx76x3-grendizer-spazer",
@@ -32280,7 +32284,9 @@ export const collection: CollectibleItem[] = [
     tags: ["未来戦隊タイムレンジャー", "特攝", "SMP", "食玩", "Premium Bandai限定"],
     description: "《未来戦隊タイムレンジャー》登場的大型恐龍型機器人ブイレックス，以SMP食玩組裝模型形式重現，透過齒輪連動半自動變形機構，可從恐龍模式變形為機器人模式，重現前所未見的可動範圍，是戰隊系列大型機體食玩收藏中規格豪華的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "大型恐竜型ロボ【SMPブイレックスロボ】の変形ギミックがすごい！未来戦隊タイムレンジャー ヲタファ", url: "https://www.youtube.com/watch?v=5eea981JM_o", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-orguss",
@@ -32299,7 +32305,10 @@ export const collection: CollectibleItem[] = [
     tags: ["超時空世紀オーガス", "MODEROID", "Good Smile Company", "組裝模型"],
     description: "《超時空世紀オーガス》主角機オーガス以MODEROID系列組裝模型立體化，全高約160mm，最大特色是「免換裝零件即可重現4種變形形態」，套件採預先分色成型並附水貼紙，組裝門檻親民同時保留豐富的變形樂趣，是MODEROID系列中話題度頗高的機體作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "差し替えなし！脅威の4段変形【MODEROID オーガス】ヲタファの変形徹底解説レビュー", url: "https://www.youtube.com/watch?v=C6vF07ctleo", lang: "ja" },
+      { title: "オーガスキターーーー！ モデロイド MODEROID 超時空世紀 オーガス 開封レビュー！", url: "https://www.youtube.com/watch?v=4SEwY6apFNk", lang: "ja" },
+    ],
   },
   {
     id: "animester-nucleargold-vodka-jing",
@@ -32341,7 +32350,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】 SMP デンジタイガー", url: "https://shishioh.info/SMP_DENJITIGER.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【電子戦隊デンジマン】傑作 SMP デンジタイガー ダイデンジンを格納可能！ヲタファの戦隊ミニプラ レビュー", url: "https://www.youtube.com/watch?v=gfT06XoCRmE", lang: "ja" },
+      { title: "【感動！パーフェクト！】星5つ！ SMP デンジタイガー 製作 丁寧にレビューする動画", url: "https://www.youtube.com/watch?v=xkNNCQ-yzPw", lang: "ja" },
+    ],
   },
   {
     id: "smp-gao-god",
@@ -32360,7 +32372,9 @@ export const collection: CollectibleItem[] = [
     tags: ["百獣戦隊ガオレンジャー", "特攝", "SMP", "食玩", "Premium Bandai限定"],
     description: "《百獣戦隊ガオレンジャー》千年一度降臨的百獣之神「ガオゴッド」，以SMP食玩組裝模型形式重現，收錄ガオレオン、ガオコンドル、ガオバッファロー、ガオソーシャーク、ガオジャガー五台百獸合體機構，完整重現原作中「千年之友」們集結化身巨神的熱血場面，是戰隊系列合體機體食玩收藏中份量豪華的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【百獣戦隊ガオレンジャー】ついに神獣降臨！ SMP 百獣合体 ガオゴッド ヲタファの戦隊ミニプラ レビュー", url: "https://www.youtube.com/watch?v=XQIrpJaMr7s", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-albedo",
@@ -32400,7 +32414,9 @@ export const collection: CollectibleItem[] = [
     tags: ["タイムボカンシリーズ", "逆転イッパツマン", "SMP", "食玩", "Premium Bandai限定"],
     description: "《タイムボカンシリーズ 逆転イッパツマン》系列第3彈食玩SMP商品，重現主角搭乘的「トッキュウマンモス」變身場景，可與駕駛イッパツマン搭乘的「弾丸ブースター」合體，重現原作經典合體橋段，是懷舊タツノコ機械人動畫周邊收藏中話題度頗高的限定商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "SMP 三冠王 トッキュウマンモスSPセット レビュー プレミアムバンダイ限定", url: "https://www.youtube.com/watch?v=OwFHXLcl-bw", lang: "ja" },
+    ],
   },
   {
     id: "smp-daijujin-clear",
@@ -32418,7 +32434,9 @@ export const collection: CollectibleItem[] = [
     tags: ["恐竜戦隊ジュウレンジャー", "特攝", "SMP", "食玩", "Premium Bandai限定", "クリアカラー"],
     description: "系列首彈《恐竜戦隊ジュウレンジャー》主力機「大獣神」以透明成型色重新商品化，透明質感呼應原作中「恐龍晶石（ダイノクリスタル）」的意象。可與另售的「SMP ドラゴンシーザー クリアカラーVer.」「SMP 獣騎神 キングブラキオン クリアカラーVer.」組合，重現剛龍神・獣帝大獣神等強化合體形態，是懷舊戰隊機甲收藏中透明配色系列的核心商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【SMPC】SMP 大獣神クリアカラーVer.のレビュー SMP UNION＆ワンダーフェスティバル2024", url: "https://www.youtube.com/watch?v=aAcx75zeFeY", lang: "ja" },
+    ],
   },
   {
     id: "smp-jdecker",
@@ -32440,7 +32458,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【徹底レビュー】SMP [SHOKUGAN MODELING PROJECT] 勇者警察ジェイデッカー", url: "https://shishioh.info/SMP_J-DECKER.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "変形合体ギミックをじっくり解説！【SMP 勇者警察ジェイデッカー】ヲタファの食玩レビュー", url: "https://www.youtube.com/watch?v=C61SDcVFnWQ", lang: "ja" },
+      { title: "(ついにジェイデッカーがSMPに登場！)SMP 勇者警察ジェイデッカー レビュー", url: "https://www.youtube.com/watch?v=0nxsiVARBI8", lang: "ja" },
+    ],
   },
   {
     id: "smp-r1-kai",
@@ -32623,6 +32644,8 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       { title: "レビュー300 THE合体 ダ・ガーンX 【前編】", url: "https://syoku-gun.blog/レビュー300　the合体-ダ・ガーンx　【前編】/", lang: "ja" },
+      { title: "【伝説の勇者ダ・ガーン】変形合体を徹底解説! THE合体 ダ・ガーンX ヲタファのレビュー", url: "https://www.youtube.com/watch?v=XKRJU1Tx9Kw", lang: "ja" },
+      { title: "正統進化！甦れ地球の勇者！【THE合体】ダ・ガーンX/伝説の勇者ダ・ガーン【メカスマ】レビュー", url: "https://www.youtube.com/watch?v=pDD6bNSJU2A", lang: "ja" },
     ],
   },
   {
@@ -33872,7 +33895,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "『機動戦艦ナデシコ』ブラックサレナがMODEROIDに登場！エステバリスを同時にディスプレイ可能な豪華キットを丁寧な塗装でレビュー", url: "https://hjweb.jp/article/2001548/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "傑作！【MODEROID ブラックサレナ】ヲタファのプラモレビュー", url: "https://www.youtube.com/watch?v=LaSnwOUNzDg", lang: "ja" },
+      { title: "【プラモデル】ブラックサレナが待望のモデロイド化！！MODEROIDブラックサレナ", url: "https://www.youtube.com/watch?v=yPTtzAneMv8", lang: "ja" },
+    ],
   },
   {
     id: "mg-astray-blue-frame-second-revise",
@@ -35317,7 +35343,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MODEROID アーハン レビュー", url: "https://schizophonic9.com/re7/moderoid_arhan.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【超絶！球体から完全変形するプラモ】 MODEROID アーハン（楽園追放）ヲタファのレビュー", url: "https://www.youtube.com/watch?v=9yXj-Zy29ZE", lang: "ja" },
+    ],
   },
   {
     id: "moshowtoys-date-masamune-mctj03",
@@ -36034,7 +36062,10 @@ export const collection: CollectibleItem[] = [
     tags: ["SMP", "超電磁マシーン ボルテスV", "特攝", "SHOKUGAN MODELING PROJECT", "食玩", "Premium Bandai限定"],
     description: "《超電磁マシーン ボルテスV》劇中五兄弟駕駛五台「ボルトマシン」合體為巨大機器人「ボルテスV」，本商品為「SMP」食玩模型系列的「Vトゥギャザーセット」特別版，以復古玩具風配色重新詮釋，標配全新雙向展示用透明粉色底座，並附劇中多款經典武裝與追加零件，完整重現五機合體機構與「V字斬」等必殺技姿態。本商品為Premium Bandai限定，2025年3月出貨，其後於2026年5月推出改用動畫原色塗裝的「レッツ・ボルトイン！セット」版本，二者為包裝與配色不同的獨立商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "部分塗装仕上げで組む！【SMP 超電磁マシーン ボルテスV Vトゥギャザーセット】ヲタファのプラモデルレビュー", url: "https://www.youtube.com/watch?v=1yypEpJPnEU", lang: "ja" },
+      { title: "SMPボルテスⅤブイトゥギャザーセットを組む！", url: "https://www.youtube.com/watch?v=Rdvnq1eG1PM", lang: "ja" },
+    ],
   },
   {
     id: "smp-goldran-gorsoduran",
