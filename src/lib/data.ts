@@ -12240,7 +12240,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "断空剣&強化ウイング【スーパーミニプラ】超獣機神ダンクーガ(後編) 食玩レビュー", url: "https://www.youtube.com/watch?v=r_jfKVt1aV4", lang: "ja" },
+    ],
   },
   {
     id: "smp-zambot3-40th",
@@ -12309,7 +12311,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "スーパーミニプラ 勇者王ガオガイガー SPパックセット 開封 PB限定", url: "https://www.youtube.com/watch?v=n1AjoCmk0-0", lang: "ja" },
+    ],
   },
   {
     id: "smp-gaogaigar3-choryujin",
@@ -12791,7 +12795,10 @@ export const collection: CollectibleItem[] = [
         lang: "en",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【マクロス玩具レビュー】やまと1/60 完全変形 VF-4G ライトニングⅢ Part 1（ファイター形態）", url: "https://www.youtube.com/watch?v=oUHDT34Bz84", lang: "ja" },
+      { title: "【マクロス玩具レビュー】やまと1/60 完全変形 VF-4G ライトニングⅢ Part 2（変形～バトロイド形態）", url: "https://www.youtube.com/watch?v=waVYY09HWuY", lang: "ja" },
+    ],
   },
   {
     id: "yamato-vb6-konig-monster-1999",
@@ -12948,7 +12955,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【スーパーミニプラ】GAOGAIGAR/勇者王ガオガイガー 食玩candy toyレビュー", url: "https://www.youtube.com/watch?v=YAA7idRbUoE", lang: "ja" },
+    ],
   },
   {
     id: "smp-yusha-ou-gaogaigar-6",
@@ -12972,7 +12981,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "俺達は一つだぁぁっ！【スーパーミニプラ】ジェネシックガオガイガー[後編]/勇者王ガオガイガー6 食玩レビュー", url: "https://www.youtube.com/watch?v=p1JPrWuoXWk", lang: "ja" },
+    ],
   },
   {
     id: "gx-97-daileon",
@@ -12997,7 +13008,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【巨獣特捜 ジャスピオン 超合金魂 GX-97 ダイレオン】これは傑作の決定版！ヲタファのレビュー", url: "https://www.youtube.com/watch?v=uhn7p-vgOZ8", lang: "ja" },
+      { title: "超合金魂 GX-97 超惑星戦闘巨人 ダイレオン / SOUL OF CHOGOKIN DAILEON", url: "https://www.youtube.com/watch?v=3BiYdSQxmus", lang: "ja" },
+    ],
   },
   {
     id: "hg-shenlong-clear-color",
@@ -13095,7 +13109,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【HG ウイングガンダム [クリアカラー]】教えて!ガンプラコンシェルジュ!!", url: "https://www.youtube.com/watch?v=Z6dhFj2gG8s", lang: "ja" },
+      { title: "【クリアガンプラ】HG ウイングガンダム(クリアカラー)でクリアパーツの透明度上げる方法を比較してみた!", url: "https://www.youtube.com/watch?v=7H8hn3L37bs", lang: "ja" },
+    ],
   },
   {
     id: "mg-narrative-gundam-b-packs-verka",
@@ -13200,7 +13217,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【出力全開！！】MG1/100 ガンダムアストレイ・レッドドラゴン【ゆっくりレビュー】", url: "https://www.youtube.com/watch?v=pKGcqtcwvN4", lang: "ja" },
+      { title: "【ガンプラレビュー】夢にまでみたレッドドラゴンを遂に入手！MGガンダムアストレイレッドドラゴンを組み立てよう！", url: "https://www.youtube.com/watch?v=jO5m_s-ziEM", lang: "ja" },
+    ],
   },
   {
     id: "hg-tolro800-torohachi",
@@ -13462,7 +13482,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】プレバン限定 HGUC 1/144 レッドライダー 製作 レビュー 紹介", url: "https://www.youtube.com/watch?v=vc_ZeL2ka_w", lang: "ja" },
+      { title: "【ガンプラ】1/144HGレッドライダー！塗装しなくていいレベルの白パーツ【フルプラ工場】", url: "https://www.youtube.com/watch?v=vWyrPWVlWZo", lang: "ja" },
+    ],
   },
   {
     id: "hg-rx80br-black-rider",
@@ -13487,7 +13510,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】ペイルライダー計画で開発された試作3号機！HG 1/144 ブラックライダー レビュー", url: "https://www.youtube.com/watch?v=cJCvRj1cPw0", lang: "ja" },
+    ],
   },
   {
     id: "hg-rx80wr-white-rider",
@@ -13512,7 +13537,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】プレバン限定キットの比較 レッドライダー ホワイトライダー ブラックライダー", url: "https://www.youtube.com/watch?v=qqsJOp0iciA", lang: "ja" },
+    ],
   },
   {
     id: "hg-amx018-todesritter",
@@ -13618,7 +13645,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG 1/144 アクア・ハンブラビⅡ (A.O.Z RE-BOOT版) 開封・組立・レビュー", url: "https://www.youtube.com/watch?v=tqYi2HvrQeU", lang: "ja" },
+      { title: "バーザムやウーンドウォートと変形合体が楽しめるガンプラ！HGアクア・ハンブラビⅡをレビュー", url: "https://www.youtube.com/watch?v=AydwfbGW4nM", lang: "ja" },
+    ],
   },
   {
     id: "hg-rx80pr-pale-rider-space-clear",
@@ -13956,7 +13986,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "(バンダイ驚異のメカニズム！)MGSD ガンダムエアリアル レビュー", url: "https://www.youtube.com/watch?v=YB8-HGGV31E", lang: "ja" },
+      { title: "MGSD ガンダムエアリアル レビュー！盾からビットへ差し替え無し全変形が凄い！", url: "https://www.youtube.com/watch?v=4yPhdjQdb9w", lang: "ja" },
+    ],
   },
   {
     id: "mgsd-destiny-gundam",
@@ -13981,7 +14014,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "デフォルメだけどバッキバキ！MGSD デスティニーガンダム【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=KEXFQCFQ4wU", lang: "ja" },
+      { title: "MGSDデスティニーガンダム レビュー！光の翼が異常すぎる…シリーズ最高峰か？", url: "https://www.youtube.com/watch?v=CN1YHPPExLY", lang: "ja" },
+    ],
   },
   {
     id: "mg-garmor-realtype",
@@ -14469,7 +14505,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラレビュー#071 [HGBF 1/144 NK-13J ディナイアルガンダム]", url: "https://www.youtube.com/watch?v=n9fqQiJgwM0", lang: "ja" },
+      { title: "HG Denial Gundam review２ HG ディナイアルガンダム 完成編 ガンプラ", url: "https://www.youtube.com/watch?v=0tKVkeEfS7U", lang: "ja" },
+    ],
   },
   {
     id: "rx78f00e-glrss-feather-unit",
@@ -14897,7 +14936,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【再販記念】超合金魂『グレンダイザー』宇宙の王者セットを今こそ振り返る！", url: "https://www.youtube.com/watch?v=iorabFr42YQ", lang: "ja" },
+      { title: "約20年前の超合金魂『グレンダイザー 宇宙の王者セット』を発掘 / UFOロボグレンダイザー", url: "https://www.youtube.com/watch?v=GL4RbI7ChyY", lang: "ja" },
+    ],
   },
   {
     id: "gx34-gunbuster",
@@ -17529,7 +17571,9 @@ export const collection: CollectibleItem[] = [
         lang: "zh",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラ「MG 1/100 ガンダムF90用 ミッションパック Oタイプ&Uタイプ」開封・組立・レビュー", url: "https://www.youtube.com/watch?v=O1wibJc0cC4", lang: "ja" },
+    ],
   },
   {
     id: "mg-f90-mission-pack-w",
@@ -20408,7 +20452,9 @@ export const collection: CollectibleItem[] = [
       { title: "聖闘士聖衣神話 ポラリスヒルダ-オーディーンの地上代行者- レビュー", url: "https://hacchaka.net/archives/52096105.html", lang: "ja" },
       { title: "聖闘士聖衣神話 : ポラリスヒルダ-オーディーンの地上代行者- [レビュー]", url: "https://toroplus.blog/saintclothmyth-godwarrior/polarishilda-odinagency/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話 北極星ポラリスヒルダ【リバイバル版】の紹介です！", url: "https://www.youtube.com/watch?v=6HTp6bmdSBY", lang: "ja" },
+    ],
   },
   {
     id: "saint-cygnus-hyoga-original",
@@ -21485,7 +21531,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MG ゼータガンダム3号機P2型 レッド・ゼータ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%BC%E3%83%BC%E3%82%BF%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A03%E5%8F%B7%E6%A9%9Fp2%E5%9E%8B-%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%BC%E3%83%BC%E3%82%BF", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ニュータイプ専用Zガンダム「MG1/100 Zガンダム3号機P2型 レッドゼータ」プレバンキット！WR形態に完全変形", url: "https://www.youtube.com/watch?v=FV1zFUx4TdE", lang: "ja" },
+    ],
   },
   {
     id: "mg-unicorn-banshee-verka",
@@ -21625,7 +21673,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MG ギラ・ドーガ（フル・フロンタル専用機） レビュー", url: "https://schizophonic9.com/re3/mg_frontalgeara.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "フロンタルのドーガ「MG 1/100 ギラ・ドーガ（フル・フロンタル専用機）」開封・組立・レビュー / 機動戦士ガンダムUC", url: "https://www.youtube.com/watch?v=dEt6pMlZHaI", lang: "ja" },
+    ],
   },
   {
     id: "re100-vigna-zirah",
@@ -22435,7 +22485,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話： ドラゴン紫龍 （神聖衣）[レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/dragonshiryu-godcloth/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話 龍星座ドラゴン紫龍【神聖衣】の紹介です アニメカラー", url: "https://www.youtube.com/watch?v=CyOvPpQEjrs", lang: "ja" },
+    ],
   },
   {
     id: "scm-polaris-hilda-original",
@@ -22456,7 +22508,9 @@ export const collection: CollectibleItem[] = [
       { title: "聖闘士聖衣神話： ポラリス ヒルダ [レビュー]", url: "https://toroplus.blog/saintclothmyth-godwarrior/polaris-hilda/", lang: "ja" },
       { title: "魂ウェブ商店限定 聖闘士聖衣神話 ポラリス ヒルダ レビュー", url: "https://ameblo.jp/shining-leo/entry-10472887690.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話 ポラリスヒルダの紹介です！", url: "https://www.youtube.com/watch?v=i_779PVxkIE", lang: "ja" },
+    ],
   },
   {
     id: "scm-hypnos",
@@ -22476,7 +22530,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話 眠りを司る神ヒュプノス", url: "https://ameblo.jp/jo73/entry-10185699531.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【26】眠りを司る神 ヒュプノス セイントクロスマイス 冥王ハーデスエリシオン編 フィギュアレビュー", url: "https://www.youtube.com/watch?v=xCqchCNxZj4", lang: "ja" },
+      { title: "聖闘士星矢 聖闘士聖衣神話 眠りを司る神ヒュプノスの紹介", url: "https://www.youtube.com/watch?v=-vhTvOkeTxU", lang: "ja" },
+    ],
   },
   {
     id: "scm-pegasus-seiya-god-cloth",
@@ -22519,7 +22576,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話 アンドロメダ瞬(神聖衣) レビュー", url: "https://ameblo.jp/shining-leo/entry-10305017444.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話 アンドロメダ星座アンドロメダ瞬【神聖衣】の紹介です アニメカラー", url: "https://www.youtube.com/watch?v=u4ZtiSpKP7E", lang: "ja" },
+    ],
   },
   {
     id: "scm-seahorse-baian",
@@ -22620,7 +22679,9 @@ export const collection: CollectibleItem[] = [
       { title: "聖闘士聖衣神話 リュムナデス カーサ レビュー", url: "http://hima-toy.cocolog-nifty.com/blog/2008/08/myth_lyumnades_8acc.html", lang: "ja" },
       { title: "聖闘士聖衣神話 リュムナデスカーサ レビュー | はっちゃか", url: "https://hacchaka.net/archives/51366685.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "EX版最後の海闘士！リュムナデスカーサレビュー オブジェ形態再現！聖闘士聖衣神話EX プレミアムバンダイ限定", url: "https://www.youtube.com/watch?v=4k4NVDsKLEA", lang: "ja" },
+    ],
   },
   {
     id: "scm-kraken-isaak",
@@ -23379,7 +23440,10 @@ export const collection: CollectibleItem[] = [
       { title: "聖闘士聖衣神話EX パンドラ レビュー（含初版比較）", url: "https://hacchaka.net/archives/52120076.html", lang: "ja" },
       { title: "聖闘士聖衣神話EX：パンドラ [レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/pandora-ex/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話 闇の代行者パンドラの紹介です", url: "https://www.youtube.com/watch?v=gTrmVr7MfBk", lang: "ja" },
+      { title: "『おもちゃの国アリス』 #1156 「聖闘士聖衣神話 パンドラの紹介」", url: "https://www.youtube.com/watch?v=KMx1jMkXIPw", lang: "ja" },
+    ],
   },
   {
     id: "scm-ex-virgo-shaka",
@@ -23399,7 +23463,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話EX バルゴシャカ レビュー", url: "https://ameblo.jp/shining-leo/entry-11392533723.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話EX 乙女座 バルゴシャカ(リバイバル版)開封レビュー", url: "https://www.youtube.com/watch?v=akYtpgB6hHU", lang: "ja" },
+      { title: "【玩具レビュー】聖闘士聖衣神話EX 乙女版バルゴのシャカ 20thリバイバル版", url: "https://www.youtube.com/watch?v=20LuAbZwS9M", lang: "ja" },
+    ],
   },
   {
     id: "scm-ex-sagittarius-aiolos",
@@ -23420,7 +23487,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話EX サジタリアスアイオロス レビュー", url: "https://ameblo.jp/shining-leo/entry-11350906547.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "玩具紹介♯45 聖闘士聖衣神話EX サジタリアス アイオロス（リバイバル版）", url: "https://www.youtube.com/watch?v=NHDv9_Ywj0A", lang: "ja" },
+    ],
   },
   {
     id: "scm-crystal-saint",
@@ -23460,7 +23529,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話EX スコーピオンミロ レビュー", url: "https://ameblo.jp/shining-leo/entry-11259681920.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話EX スコーピオンミロ フィギュア レビュー", url: "https://www.youtube.com/watch?v=4l98bTBvD0c", lang: "ja" },
+    ],
   },
   {
     id: "scm-ex-gemini-saga",
@@ -23480,7 +23551,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話EX：ジェミニサガ(リバイバル版)[レビュー]", url: "https://toroplus.blog/saintclothmyth-ex/geminisaga-revival-ex/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話EX ジェミニサガ GOLD24【魂ネイション2021】開催記念商品 unboxing", url: "https://www.youtube.com/watch?v=UtLekeHvVrs", lang: "ja" },
+    ],
   },
   {
     id: "scm-ex-aries-mu",
@@ -23500,7 +23573,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話EX アリエスムウ レビュー", url: "https://hacchaka.net/archives/51794086.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話EX 牡羊座 アリエスムウ リバイバル版 キキ付属", url: "https://www.youtube.com/watch?v=UHlRrNtg3dY", lang: "ja" },
+      { title: "聖闘士聖衣神話EX アリエスムウ リバイバル版 / ARIES MU REVIVAL VERSION", url: "https://www.youtube.com/watch?v=Dl4OwhCYLXw", lang: "ja" },
+    ],
   },
   {
     id: "scm-appendix-pegasus-seiya-casual",
@@ -23560,7 +23636,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：ペガサス星矢（新生青銅聖衣）Broken Version [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/pegasusseiya-newcloth-broken/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話EX 天馬座 ペガサス星矢 (新生青銅聖衣) フィギュア レビュー ブロークンクロス", url: "https://www.youtube.com/watch?v=_MYSzwV-s9Y", lang: "ja" },
+    ],
   },
   {
     id: "scm-garuda-aiacos",
@@ -23580,7 +23658,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：ガルーダ アイアコス [レビュー]", url: "https://toroplus.blog/saintclothmyth-specter/garudaaiacos/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話EX 天雄星の冥闘士ガルーダアイアコスの紹介", url: "https://www.youtube.com/watch?v=c9kdlQKXhHc", lang: "ja" },
+    ],
   },
   {
     id: "scm-wyvern-rhadamanthys",
@@ -23600,7 +23680,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【レビュー】バンダイ 聖闘士聖衣神話（一般・ウェブ）一覧", url: "https://shishioh.info/BANDAI_CLOTHMYTH.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話EX 天猛星の冥闘士ワイバーンラダマンティスの紹介【冥界三巨頭】", url: "https://www.youtube.com/watch?v=KtosW7N7fmY", lang: "ja" },
+    ],
   },
   {
     id: "scm-capricorn-shura-surplice",
@@ -23640,7 +23722,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：アンドロメダ瞬（初期青銅聖衣）[レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/andromedasyun-fastbronze/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 アンドロメダ瞬（初期青銅聖衣）20th Anniversary Ver. 開封・レビュー", url: "https://www.youtube.com/watch?v=_2qna-BgpSY", lang: "ja" },
+    ],
   },
   {
     id: "scm-siren-sorrento",
@@ -25273,7 +25357,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話 ペガサス星矢 初期青銅聖衣 レビュー", url: "https://hacchaka.net/archives/51545298.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 ペガサス星矢 初期青銅聖衣 原作版 Pegasus Seiya Initial Bronze Cloth (comic ver.)", url: "https://www.youtube.com/watch?v=elMaAXHwWgs", lang: "ja" },
+    ],
   },
   {
     id: "saint-cloth-myth-lionet-ban",
