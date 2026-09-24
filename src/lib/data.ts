@@ -34876,7 +34876,10 @@ export const collection: CollectibleItem[] = [
     tags: ["スーパーロボット大戦OG", "SRW OG", "超合金魂", "BANDAI SPIRITS", "龍虎王", "虎龍王"],
     description: "《スーパーロボット大戦OG》世界觀中，「龍虎王」與「虎龍王」是由兩台機體透過合體變形機構切換樣貌的原創機體，招牌特徵是威猛的龍虎造型頭部與展開幅度極大的翼型裝甲，是OG系列原創陣容中話題度與人氣兼具的代表機體之一。「超合金魂」是BANDAI SPIRITS旗下主打高質感金屬質地與細膩機構重現的高階可動人偶品牌，本商品完整重現機體招牌的變形機構，可透過零件替換自由切換「龍虎王」與「虎龍王」兩種樣貌，並標配可替換武裝零件。套件關節可動範圍廣泛，並具備手指可動機構以利擺出更細膩的姿態，是機戦OG系列超合金魂陣容中規格與話題度兼具的一款代表性新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【前編】龍虎王の変形合体を徹底解説【スパロボOG 超合金魂 GX-119 龍虎王／虎龍王】", url: "https://www.youtube.com/watch?v=H0l1jBNV64c", lang: "ja" },
+      { title: "【後編】虎龍王の変形合体を徹底解説【スパロボOG 超合金魂 GX-119 龍虎王／虎龍王】", url: "https://www.youtube.com/watch?v=yjEckTJk82g", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx7278-daijujin",
@@ -34894,7 +34897,10 @@ export const collection: CollectibleItem[] = [
     tags: ["恐竜戦隊ジュウレンジャー", "スーパー戦隊", "超合金魂", "BANDAI SPIRITS", "大獣神", "ドラゴンシーザー", "獣帝大獣神"],
     description: "《恐竜戦隊ジュウレンジャー》中，「大獣神」是由五隻恐龍守護獸合體而成的巨大守護神，與後續登場的「ドラゴンシーザー」進一步合體後即化身最強形態「獣帝大獣神」，是戦隊系列合體機器人的經典代表之一。本商品為超合金魂「GX-72 大獣神」與「GX-78 ドラゴンシーザー」的合售套組，完整重現五隻恐龍型守護獸的合體變形機構，並可再度與ドラゴンシーザー合體升級為獣帝大獣神最強樣貌，套件內建大量壓鑄合金零件與多款替換武裝配件。作為戦隊系列超合金魂陣容中規格最完整的重量級套組，是ジュウレンジャー與戦隊機器人周邊收藏者相當熱衷蒐集的一款代表性經典復刻作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【超合金魂】今、神に進化する！GX-72 大獣神 ヲタファの歴代戦隊ロボレビュー", url: "https://www.youtube.com/watch?v=SM5IUwTyfCs", lang: "ja" },
+      { title: "★★Xmas生配信★★《超合金魂》獣帝大獣神 を生配信レビューデス!!", url: "https://www.youtube.com/watch?v=4ht2rPlpeM0", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx104-gaofaigar",
@@ -34912,7 +34918,10 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者王ガオガイガーFINAL", "GaoGaiGar", "超合金魂", "BANDAI SPIRITS", "ガオファイガー"],
     description: "《勇者王ガオガイガーFINAL》中，「ガオファイガー」是由「幻の五体合体」機構變形而成的最終決戰形態，可與多種「ガオーマシン」自由組合進行「ファイナルフュージョン」，是系列中人氣居高不下的強化最終形態機體。本商品為超合金魂規格套件，不需替換零件即可重現「ファントムガオーからガオファーへ」的變形機構與「ファイナルフュージョン」合體演出，標配電動式鑽頭旋轉機構、可展開的「ウルテックエンジン」部件，並首度立體化重現「高速飛行モード」樣貌。套件細節雕刻與變形機構皆維持超合金魂系列高水準工藝，是ガオガイガー系列周邊收藏者相當矚目的一款代表性強化形態作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "これで完璧！戻し変形や注意ポイントなど徹底解説【超合金魂GX-104 ガオファイガー】", url: "https://www.youtube.com/watch?v=xCXHv_2n-GU", lang: "ja" },
+      { title: "20余年越しの決定版【超合金魂GX-104 ガオファイガー】完全変形合体を実現！ヲタファの徹底解説レビュー", url: "https://www.youtube.com/watch?v=pBQm2FdVfeM", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx59r-daltanious",
@@ -34930,7 +34939,10 @@ export const collection: CollectibleItem[] = [
     tags: ["未来ロボ ダルタニアス", "超合金魂", "BANDAI SPIRITS", "ダルタニアス", "GX-59R"],
     description: "《未来ロボ ダルタニアス》是東映動畫推出的經典巨大機器人動畫作品，主角機「ダルタニアス」由三台載具合體而成，招牌武裝為腰間收納的巨劍「ダルタニアスソード」。本商品為超合金魂「GX-59R」重製版本，相較初版GX-59在關節可動性與塗裝精度上皆有大幅提升，忠實重現機體合體變形機構與經典造型細節，標配多款武裝配件與替換零件。作為經典懷舊機器人動畫超合金魂化陣容的重製代表作品，是ダルタニアス與昭和機器人動畫周邊收藏者相當懷念矚目的一款話題新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【今堂々のリニューアル！】超合金魂 GX-59R 未来ロボ ダルタニアス ヲタファの変形合体ロボレビュー", url: "https://www.youtube.com/watch?v=cnhsEwgM-hQ", lang: "ja" },
+      { title: "[なぜ胸にライオンの顔があるのだ！？]超合金魂 GX-59R 未来ロボ ダルタニアス レビュー", url: "https://www.youtube.com/watch?v=d7epwjg69wE", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx33r-leopardon",
@@ -34948,7 +34960,10 @@ export const collection: CollectibleItem[] = [
     tags: ["スパイダーマン", "東映スパイダーマン", "超合金魂", "BANDAI SPIRITS", "レオパルドン", "マーベラー"],
     description: "《スパイダーマン》東映電視版是特攝史上首度將漫威角色特攝化的話題作品，巨大機器人「レオパルドン」由太空船「マーベラー」變形而成，是特攝史上最早期的巨大機器人形象之一。本商品為超合金魂「GX-33R」重製套組，收錄可變形為レオパルドン的マーベラー太空船，並附贈當年原作播映期間從未商品化過的「スパイダーブレスレット」語音互動配件，重現角色召喚場景的臨場感。套件標配多款武裝配件，是特攝與昭和機器人動畫周邊收藏者相當矚目的一款話題重製新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【スパイダーマン (東映)】超合金魂 GX-33R レオパルドン＆マーベラー召喚セット ヲタファのレビュー", url: "https://www.youtube.com/watch?v=pPb8hKpc7E0", lang: "ja" },
+      { title: "超合金魂 GX-33R レオパルドン&マーベラー召喚セットをレビュー", url: "https://www.youtube.com/watch?v=f9qW7gBebjM", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx95-gordian",
@@ -34966,7 +34981,10 @@ export const collection: CollectibleItem[] = [
     tags: ["闘士ゴーディアン", "超合金魂", "BANDAI SPIRITS", "ゴーディアン", "GX-95"],
     description: "《闘士ゴーディアン》是東映動畫推出的經典巨大機器人動畫作品，主角機「ゴーディアン」可分離合體為五台獨立機械，招牌特徵是精密複雜的合體機構與招牌武裝陣容。本商品為超合金魂規格套件，忠實重現機體五機合體與分離機構，套件收錄豐富武裝零件與精緻塗裝配色，展現超合金魂系列一貫講究的合體機構、造型與武裝配件豐富度。是昭和機器人動畫超合金魂化陣容中規格與話題度兼具的一款代表性復刻作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【開封編】驚異の分身合体！超合金魂 GX-95 闘士ゴーディアン ヲタファの雄々し勇ましレビュー", url: "https://www.youtube.com/watch?v=nRBuxvzOhEs", lang: "ja" },
+      { title: "【合体解説編】驚異の分身合体！超合金魂 GX-95 闘士ゴーディアン", url: "https://www.youtube.com/watch?v=SFn6SD_6h5g", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx29r-blackox",
@@ -34984,7 +35002,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鉄人28号", "Tetsujin 28-go", "超合金魂", "BANDAI SPIRITS", "ブラックオックス", "GX-29R", "X0004@中壢收多易"],
     description: "《鉄人28号》是日本機器人動畫的始祖級經典作品，「ブラックオックス」是敵對陣營運用的黑色巨大機器人，與主角機鉄人28号形成鮮明對比。本商品為超合金魂「GX-29R」重製版本，標配LED發光眼部機構、可替換的負傷損壞頭部零件，並附兩位科學家人形配件，同時支援與另售的鉄人28号超合金魂進行互動功能連動。作為經典始祖機器人動畫超合金魂化陣容的重製代表作品，是鉄人28号與昭和機器人動畫周邊收藏者相當懷念矚目的一款話題新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ブラックオックス再び超合金魂で登場！", url: "https://www.youtube.com/watch?v=ZAC_OtTpBjc", lang: "ja" },
+      { title: "【超合金魂】『鉄人28号VSブラックオックス』 特に「ブラックオックス」で遊ぶ", url: "https://www.youtube.com/watch?v=ESIXO07YUZI", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx88-dairugger",
@@ -35003,7 +35024,10 @@ export const collection: CollectibleItem[] = [
     tags: ["機甲艦隊ダイラガーXV", "超合金魂", "BANDAI SPIRITS", "ダイラガーXV", "GX-88"],
     description: "《機甲艦隊ダイラガーXV》是東映動畫推出的巨大機器人動畫作品，主角機「ダイラガーXV」以史無前例的15機合體機構著稱，可依戰術需求拆分為5機一組的小隊編成，是合體機器人動畫中規格最為複雜精密的代表作品之一。本商品為超合金魂規格套件，全高約290mm，完整重現15機合體與5機小隊編成的多樣化組合玩法，標配大量替換手部零件、武裝配件與專用展示台座。作為超合金魂陣容中合體複雜度數一數二的重量級套組，是ダイラガーXV與合體機器人動畫周邊收藏者相當矚目的一款代表性作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【究極の15体合体！】超合金魂 GX-88 機甲艦隊ダイラガーXV ヲタファの傑作超合金レビュー", url: "https://www.youtube.com/watch?v=tfKdRU8OV1U", lang: "ja" },
+      { title: "今更だが＾＾；超合金魂 GX-88 機甲艦隊ダイラガーXVレビュー！", url: "https://www.youtube.com/watch?v=HOiNaPk5Rbo", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx24r-tetsujin28",
@@ -35021,7 +35045,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鉄人28号", "Tetsujin 28-go", "超合金魂", "BANDAI SPIRITS", "音声内蔵", "GX-24R", "X0004@中壢收多易"],
     description: "《鉄人28号》是日本機器人動畫的始祖級經典作品，「鉄人28号」是由少年主角金田正太郎操控遙控器指揮作戰的巨大鋼鐵機器人。本商品為超合金魂「GX-24R」規格套件，重現1963年版動畫的復古造型設計，最大特色是內建1963年原版動畫的經典語音機構，重現當年播映時的懷舊聲光效果。作為始祖級機器人動畫超合金魂化陣容中最具紀念價值的代表作品，是鉄人28号與昭和機器人動畫周邊收藏者相當珍視的一款話題新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "企画担当者岡崎氏が語る、「超合金魂 GX-24R 鉄人28号 (1963) 楽曲搭載バージョン」の魅力", url: "https://www.youtube.com/watch?v=YkJg8OJYDiA", lang: "ja" },
+      { title: "超合金魂 GX-24R 鉄人28号 (1963) 楽曲搭載バージョン", url: "https://www.youtube.com/watch?v=xmIO52EC19k", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx71-golion",
@@ -35039,7 +35066,10 @@ export const collection: CollectibleItem[] = [
     tags: ["百獣王ゴライオン", "GoLion", "Voltron", "超合金魂", "BANDAI SPIRITS", "ゴライオン", "GX-71"],
     description: "《百獣王ゴライオン》是東映動畫推出、後於美國改編為《Voltron》廣為人知的經典巨大機器人動畫作品，主角機「ゴライオン」由五隻獅子型機械合體而成，是五獅合體機構的始祖代表作品。本商品為超合金魂規格套件，完整重現五獅合體機構，標配豐富武裝配件與多款替換表情零件，並附城堡造型收納展示台座。作為五獅合體機器人動畫超合金魂化陣容的代表作品，是ゴライオン與Voltron系列周邊收藏者相當熱衷蒐集的一款經典復刻代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【ギブアップせい！】超合金魂 ゴライオン GX-71 百獣王ゴライオン ヲタファの超合金レビュー", url: "https://www.youtube.com/watch?v=LyzO9tb95mY", lang: "ja" },
+      { title: "[再販記念!!!] 超合金魂 GX-71 百獣王ゴライオン レビュー", url: "https://www.youtube.com/watch?v=RXo-Gq2HW2A", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-stargaogaigar-option-2016",
@@ -35057,7 +35087,10 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者王ガオガイガー", "GaoGaiGar", "超合金魂", "BANDAI SPIRITS", "スターガオガイガー", "オプションセット"],
     description: "《勇者王ガオガイガー》中，「スターガオガイガー」是主角機ガオガイガー強化改裝而成的最終決戰形態，本商品為魂ウェブ商店限定推出的初版超合金魂擴充配件套組，可為既有超合金魂ガオガイガー本體升級為スターガオガイガー樣貌，標配專屬武裝與強化零件。作為ガオガイガー系列超合金魂陣容中歷史較早的擴充套組，是勇者系列超合金魂收藏者用以追溯系列早期規格演進的一款代表性配件作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[君たちに最新情報をお届けしよう！] 超合金魂GX-68X スターガオガイガーオプションセット レビュー", url: "https://www.youtube.com/watch?v=GrQOfsyiDnY", lang: "ja" },
+      { title: "【勇者王ガオガイガー】超合金魂 スターガオガイガー オプションセット ヲタファの遊び方レビュー", url: "https://www.youtube.com/watch?v=hdyjbZ_Gtbw", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx69-goldymarg",
@@ -35075,7 +35108,10 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者王ガオガイガー", "GaoGaiGar", "超合金魂", "BANDAI SPIRITS", "ゴルディーマーグ", "GX-69"],
     description: "《勇者王ガオガイガー》中，「ゴルディーマーグ」是隸屬プリムエイド陣營的合體機器人，招牌特徵是精悍的機甲造型與獨特的合體變形機構。本商品為超合金魂規格套件，忠實重現機體合體變形機構與招牌武裝配置，套件細節雕刻與可動性皆維持超合金魂系列一貫高水準工藝，是勇者系列超合金魂陣容中人氣角色機體的代表性作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【勇者王ガオガイガー】超合金魂 GX-69 ゴルディーマーグ 完全変形 レビュー", url: "https://www.youtube.com/watch?v=ukyvETPxeC4", lang: "ja" },
+      { title: "超合金魂 ガオガイガー& ゴルディーマーグ 必殺技 ハンマー・ヘル・アンド・ヘブン レビュー", url: "https://www.youtube.com/watch?v=4SUOCig8h9M", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx68-gaogaigar",
@@ -35093,7 +35129,10 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者王ガオガイガー", "GaoGaiGar", "超合金魂", "BANDAI SPIRITS", "ガオガイガー", "GX-68"],
     description: "《勇者王ガオガイガー》是「勇者系列」中人氣居高不下的代表作品，「ガオガイガー」是由主角機「ガイガー」與獅子型守護星獣「ギャレオン」合體而成的最強勇者機體，招牌特徵是威風凜凜的獅子鬃毛造型頭盔與招牌武裝「プロテクトシェード」。本商品為超合金魂規格套件，是該系列陣容中最具代表性的招牌機體，忠實重現機體合體變形機構與精密關節可動工藝，標配豐富武裝配件。作為勇者系列超合金魂陣容的核心代表作品，是ガオガイガー與勇者系列周邊收藏者長年珍藏矚目的一款經典代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "超傑作玩具をサクッと解説！【勇者王ガオガイガー】超合金魂 GX-68 ガオガイガー レビュー", url: "https://www.youtube.com/watch?v=iUoXwPkHrqE", lang: "ja" },
+      { title: "【僕らの勇者王!!】超合金魂 GX-68 勇者王ガオガイガー 変形合体徹底レビュー", url: "https://www.youtube.com/watch?v=vkqkgGqfNqk", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx62-dangardA",
@@ -35111,7 +35150,10 @@ export const collection: CollectibleItem[] = [
     tags: ["惑星ロボ ダンガードA", "Danguard Ace", "超合金魂", "BANDAI SPIRITS", "ダンガードA", "GX-62"],
     description: "《惑星ロボ ダンガードA》是永井豪原案監修的經典巨大機器人動畫作品，主角機「ダンガードA」以「オープンゲット」發射機構與招牌鑽頭武裝著稱，是永井豪機器人動畫世界觀中的代表作品之一。本商品為超合金魂規格套件，忠實重現機體招牌造型與武裝配置，套件細節雕刻與塗裝配色皆維持超合金魂系列一貫水準，是昭和機器人動畫超合金魂化陣容中的懷舊代表作品，深受永井豪作品周邊收藏者喜愛。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【惑星ロボ ダンガードA】サテライザーから完全変形！超合金魂 GX-62 ヲタファのじっくり変形レビュー", url: "https://www.youtube.com/watch?v=32rd87GHl78", lang: "ja" },
+      { title: "【昭和ロボのロマン】超合金魂 GX-62 ダンガードA【完全変形】", url: "https://www.youtube.com/watch?v=ewSyoIkB4eA", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-gx61-daioja",
@@ -35129,7 +35171,9 @@ export const collection: CollectibleItem[] = [
     tags: ["最強ロボ ダイオージャ", "Saikyo Robo Daioja", "超合金魂", "BANDAI SPIRITS", "ダイオージャ", "GX-61"],
     description: "《最強ロボ ダイオージャ》是東映動畫推出的巨大機器人動畫作品，主角機「ダイオージャ」以招牌巨劍武裝與王者氣勢造型著稱。本商品為超合金魂規格套件，忠實重現機體招牌造型與武裝配置，套件細節雕刻與可動性皆維持超合金魂系列一貫高水準工藝，是昭和機器人動畫超合金魂化陣容中的懷舊代表作品，深受該世代機器人動畫周邊收藏者喜愛。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【最強ロボ ダイオージャ】傑作！超合金魂 GX-61 ダイオージャ ヲタファの変形合体レビュー", url: "https://www.youtube.com/watch?v=KS2GXsaysus", lang: "ja" },
+    ],
   },
   {
     id: "figurerise-lacus-clyne-gcp",
