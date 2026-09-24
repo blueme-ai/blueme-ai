@@ -28337,7 +28337,10 @@ export const collection: CollectibleItem[] = [
       { title: "RG ストライクフリーダムガンダム レビュー", url: "https://hacchaka.net/archives/51900191.html", lang: "ja" },
       { title: "【ガンプラ】RG 1/144 ストライクフリーダムガンダム レビュー", url: "https://gunplapocchi.com/rg-strike-freedom-gundam/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "RG 1/144 ストライクフリーダムガンダム レビュー", url: "https://www.youtube.com/watch?v=lBZuPg1X8ak", lang: "ja" },
+      { title: "【ガンプラレビュー】神々しい！ RG 1/144 ストライクフリーダム", url: "https://www.youtube.com/watch?v=IAsCLVnqiUc", lang: "ja" },
+    ],
   },
   {
     id: "gx114-yanus-venus-a",
@@ -28398,7 +28401,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "RG フォースインパルスガンダム SpecII レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/rg-%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-specii", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "(RGインパルスがSEED FREEDOM仕様に！)RG 1/144 フォースインパルスガンダム SpecII レビュー", url: "https://www.youtube.com/watch?v=pPz8LRKuldg", lang: "ja" },
+      { title: "ガンプラ RG 1/144 フォースインパルスガンダム SpecII レビュー", url: "https://www.youtube.com/watch?v=Th2yIFGUrBM", lang: "ja" },
+    ],
   },
   {
     id: "gx71sp-golion-voltron-50th",
@@ -28440,7 +28446,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "RG ウイングガンダム レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/rg-%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【バンダイ驚異のメカニズム】RG 1/144 ウイングガンダム レビュー", url: "https://www.youtube.com/watch?v=BHFk7XEIA8M", lang: "ja" },
+      { title: "【ガンプラ】RG ウイングガンダムが新規造形で立体化！RG 1/144 ウイングガンダム レビュー", url: "https://www.youtube.com/watch?v=jsC5sBOecN0", lang: "ja" },
+    ],
   },
   {
     id: "rg-00-xn-raiser",
@@ -28586,7 +28595,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG エンゲージガンダム レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%BC%E3%82%B8%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "幻の機体！HGエンゲージガンダムレビュー！", url: "https://www.youtube.com/watch?v=0p4alZlG-L0", lang: "ja" },
+      { title: "ゲームに登場する幻の機体エンゲージガンダムが早くもHGで参戦", url: "https://www.youtube.com/watch?v=FfJP5hGlxp8", lang: "ja" },
+    ],
   },
   {
     id: "hg-star-burning-gundam",
@@ -28605,7 +28617,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HGBF", "1/144", "Bandai Spirits", "ガンダムビルドファイターズ", "スターバーニングガンダム", "イオリ・セイ", "BOX0016"],
     description: "《ガンダムビルドファイターズ GMの逆襲》是原創短篇故事，描繪世界大賽冠軍イオリ・セイ與離世的搭檔レイジ的羈絆延續。「スターバーニングガンダム」是セイ集結多台自製鋼彈精華要素完成的完全原創機體，全高18.2公尺、重量78.9噸，搭載可對應多種戰鬥風格的「PSシステム」，機體結構足以承受プラヴスキー粒子啟動時的性能暴增。本商品為HGBF系列作品，2017年8月26日發售，標配可動式光束步槍與可分離盾牌，並附透明藍色特效零件重現粒子發光效果，色分件精細呈現機體紅白藍主色調，是《ビルドファイターズ》系列鋼普拉中匯集主角象徵意義的紀念性作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "（セイ君の新型！）HGBF 1/144 スターバーニングガンダム レビュー", url: "https://www.youtube.com/watch?v=NVCmf63Zu3s", lang: "ja" },
+      { title: "【ガンダムビルドファイターズ GMの逆襲】1/144 スターバーニングガンダム ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=8VNWm8ILu04", lang: "ja" },
+    ],
   },
   {
     id: "hg-wing-zero-honoo",
@@ -28624,7 +28639,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HGBF", "1/144", "Bandai Spirits", "ガンダムビルドファイターズ", "ウイングガンダムゼロ炎", "コウエン・ユウセイ"],
     description: "《ガンダムビルドファイターズ》外傳漫画『ガンダムビルドファイターズ フレイムトライ』中，熱血格鬥系鋼普拉玩家コウエン・ユウセイ（紅炎勇星）自幼熱衷改造鋼普拉，以《新機動戦記ガンダムW》登場的「ウイングガンダムゼロ」為基礎，融入自身火熱格鬥風格與豐富改造經驗完成「ウイングガンダムゼロ炎」，全高17.0公尺、重量9.1噸。本商品為HGBF系列作品，2015年3月21日發售，標配大型光劍「ハイパーカレイズヴルフ」及全新造形的ツインバスターライフル、可收納光束軍刀的盾牌，並可變形為「ネオ・バードモード炎」，機身覆蓋象徵「燃え上がる炎」意象的火焰結晶裝甲，是《ビルドファイターズ》改造機系列中造型張力十足的代表作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "（炎を纏ったウイングゼロ！）HGBF 1/144 ウイングガンダムゼロ炎 レビュー", url: "https://www.youtube.com/watch?v=_ggCH4audMs", lang: "ja" },
+      { title: "リデコだけどほぼ別人な見た目に！？ウイングガンダムゼロ炎をレビュー！", url: "https://www.youtube.com/watch?v=zs_qGqTXgOM", lang: "ja" },
+    ],
   },
   {
     id: "hg-immortal-justice-gundam",
@@ -28645,7 +28663,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG イモータルジャスティスガンダム レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%A4%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B9%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "(イモータルジャスティスが早速HG化！)HG 1/144 イモータルジャスティスガンダム レビュー", url: "https://www.youtube.com/watch?v=gIpg1O2o5sU", lang: "ja" },
+      { title: "ガンプラ HG 1/144 イモータルジャスティスガンダム レビュー【機動戦士ガンダムSEED FREEDOM】", url: "https://www.youtube.com/watch?v=VWZblhAOZoo", lang: "ja" },
+    ],
   },
   {
     id: "hg-perfect-strike-freedom-rouge",
@@ -28666,7 +28687,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG ガンダムパーフェクトストライクフリーダムルージュ レビュー", url: "https://schizophonic9.com/re8/hg_pstrikefreedomrouge.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "名前が長すぎてトレンドになる機体！ガンダムパーフェクトストライクフリーダムルージュ【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=LOyJrC1gKPI", lang: "ja" },
+      { title: "【ガンプラ】HG 1/144 ガンダムパーフェクトストライクフリーダムルージュ レビュー！！", url: "https://www.youtube.com/watch?v=KThtYnAG8bw", lang: "ja" },
+    ],
   },
   {
     id: "hgbf-build-burning-gundam",
@@ -28706,7 +28730,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "FULL MECHANICS カラミティガンダムのパッケージ・ランナー レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/full-mechanics-%E3%82%AB%E3%83%A9%E3%83%9F%E3%83%86%E3%82%A3%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%81%AE%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【カラミティがフルメカニクスで登場！】FULL MECHANICS 1/100 カラミティガンダム レビュー", url: "https://www.youtube.com/watch?v=WYwXGK1kDhc", lang: "ja" },
+      { title: "【ガンプラ】悪の3兵器！FULL MECHANICS 1/100 カラミティガンダム レビュー", url: "https://www.youtube.com/watch?v=2z2qFpW7thI", lang: "ja" },
+    ],
   },
   {
     id: "moderoid-king-squasher",
@@ -28748,7 +28775,10 @@ export const collection: CollectibleItem[] = [
       { title: "漆黒の守護騎士「クイーンサイダロン」がMODEROID化！ 丁寧な塗装と加工で往年の名作を楽しむ", url: "https://hjweb.jp/article/1461791/", lang: "ja" },
       { title: "【レビュー】MODEROID クイーンサイダロン", url: "https://shishioh.info/MODEROIDE_QUEEN_CIDERON.php", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【モデロイド】やってやるぜー！MODEROID クイーンサイダロン", url: "https://www.youtube.com/watch?v=XlmBA-Jmc18", lang: "ja" },
+      { title: "MODEROID キングスカッシャー & クイーンサイダロン 比較レビュー", url: "https://www.youtube.com/watch?v=-v21eDnuWYY", lang: "ja" },
+    ],
   },
   {
     id: "saint-cloth-myth-bennu-kagaho",
@@ -28789,7 +28819,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "スーパーミニプラ 「電子合体 バイオロボ」 レビュー", url: "http://myhobby.moo.jp/smi-biorobo/review.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "今回も安定のクオリティ！【スーパーミニプラ】電子合体バイオロボ/超電子バイオマン 食玩レビュー", url: "https://www.youtube.com/watch?v=RBspGACJ4V4", lang: "ja" },
+      { title: "【超電子バイオマン】スーパーミニプラ 電子合体 バイオロボ ヲタファの歴代戦隊レビュー", url: "https://www.youtube.com/watch?v=aJEdWG7M4gA", lang: "ja" },
+    ],
   },
   {
     id: "rg-astray-gold-frame-amatsu-hana",
@@ -28811,7 +28844,10 @@ export const collection: CollectibleItem[] = [
       { title: "RG ガンダムアストレイ ゴールドフレーム天（アマツ）ハナ レビュー", url: "https://gundamsblog.net/ガンプラ/ガンダムアストレイ-ゴールドフレーム天ハナ", lang: "ja" },
       { title: "RG ガンダムアストレイ ゴールドフレーム天ハナ レビュー", url: "https://schizophonic9.com/re5/rg_amatsuhana.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【簡単仕上げ】RG ガンダムアストレイ ゴールドフレーム天（アマツ）ハナ", url: "https://www.youtube.com/watch?v=3qAU2i550G4", lang: "ja" },
+      { title: "【ガンプラ】簡単作成 RG 1/144 ガンダムアストレイ ゴールドフレーム天（アマツ）ハナ", url: "https://www.youtube.com/watch?v=nGUDR5dHb_c", lang: "ja" },
+    ],
   },
   {
     id: "smp-king-j-der-silverion-hammer",
@@ -28830,7 +28866,10 @@ export const collection: CollectibleItem[] = [
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "勇者王ガオガイガー", "キングジェイダー", "スーパー戦隊", "バンダイキャンディ", "食玩", "P-Bandai限定"],
     description: "《勇者王ガオガイガー》是東映動畫1997年播出的「勇者系列」完結篇，講述地球守護者GGG（機動要塞G-STONE）對抗侵略地球的機械生命體「ゾンダー」的熱血機甲故事。「キングジェイダー」是誕生自宇宙彼方「銀河守護星」的勇者機神，手持巨大的「シルバリオンハンマー」（銀色版ゴルディオンハンマー）作為封印邪惡最終兵器的關鍵武裝，是系列後期劇情高潮不可或缺的核心機體。本商品是2017年首度發售的SMP「キングジェイダー」睽違多年復刻升級版，新增全塗裝重現的「シルバリオンハンマー」及專用手腕零件，可重現角色標誌性的「ヘル・アンド・ヘブン」握持姿態，並沿用Super Mini-Pla ゴルディオンハンマー同款模具進行銀色塗裝與去湯口修正。作為Premium Bandai限定販售商品，是勇者系列與SMP合體機甲收藏陣容中份量十足的紀念性商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【模活】SMPキングジェイダー&シルバリオンハンマー組立配信", url: "https://www.youtube.com/watch?v=irpfqkAuQm0", lang: "ja" },
+      { title: "【勇者王ガオガイガー】スーパーミニプラ キングジェイダー ヲタファのプラモレビュー", url: "https://www.youtube.com/watch?v=Yc9IV0sNlrQ", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-ex001-glassfeather",
@@ -29137,7 +29176,9 @@ export const collection: CollectibleItem[] = [
       { title: "超合金魂：GX-45A マジンガー Z熱海ナイトバージョン [レビュー]", url: "https://toroplus.blog/tyougoukinn-spirit/gx45a-mazinger_z-atami/", lang: "ja" },
       { title: "魂ネイション2009Autumn限定 超合金魂 GX-45A マジンガーZ 熱海ナイトバージョン レビュー", url: "https://unoyo.hatenablog.com/entry/20091004/p2", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "超合金魂 GX-45A マジンガーZ 熱海ナイトバージョン Soul of Chogokin - GX-45A Mazinger Z - Night Ver.", url: "https://www.youtube.com/watch?v=S8TbCoWQBgQ", lang: "en" },
+    ],
   },
   {
     id: "soc-gx106-star-beast-dol-giran",
@@ -29156,7 +29197,10 @@ export const collection: CollectibleItem[] = [
     tags: ["宇宙刑事ギャバン", "超合金魂", "BANDAI SPIRITS", "TAMASHII NATIONS"],
     description: "《宇宙刑事ギャバン》中登場、伴隨主角行動的搭檔機械「電子星獣ドル」與收納母艦「ギラン円盤」超合金魂立體化。ドル可完全變形為飛行形態，內建音效功能會播放劇中人氣插曲《光る戦士ドル・ギラン》，ギラン円盤內部收納了サイバリアン、ガビオン與供ドル駕駛艙使用的迷你ギャバン人偶，並附贈三片敵方魔空戦闘円盤配件。全高約270mm，採壓鑄合金、ABS與POM材質製成，是《宇宙刑事》系列近年少見的大型機械類超合金魂商品，機構與音效還原度受到玩具評測媒體肯定。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ドルギランに変形合体！超合金魂 電子星獣ドル & ギラン円盤セット GX-106 レビュー！", url: "https://www.youtube.com/watch?v=FZea_6sAjqU", lang: "ja" },
+      { title: "超合金魂 GX-106 電子星獣ドル＆ギラン円盤 丁寧にレビュー", url: "https://www.youtube.com/watch?v=55dFfaxB8ow", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx08r-aphrodai-a-vs-gx09r-minerva-x",
@@ -29177,7 +29221,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "超合金魂：GX-08R アフロダイA vs GX-09R ミネルバX [レビュー]", url: "https://toroplus.blog/tyougoukinn-spirit/gx08r-afurodai-gx-09r-minerva/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ぼったくり？】決定的な違い！超合金魂 GX-08R アフロダイA vs GX-09R ミネルバX リニューアル バージョン", url: "https://www.youtube.com/watch?v=H4VolvY_qBk", lang: "ja" },
+      { title: "Firts Impression 超合金魂 GX-08R アフロダイA vs GX-09R ミネルバX", url: "https://www.youtube.com/watch?v=a9THsndIlVI", lang: "en" },
+    ],
   },
   {
     id: "soc-gx25r-garada-k7-gx26r-doublas-m2",
@@ -29219,7 +29266,9 @@ export const collection: CollectibleItem[] = [
     tags: ["マジンガーZ", "ラインX1", "ダイアナンA", "超合金魂", "BANDAI SPIRITS", "TAMASHII NATIONS"],
     description: "《マジンガーZ》動畫第61話登場、與美麗仿生人ロレーライ合體而成的超級機器人「ラインX1」首次超合金魂立體化，並與マジンガーZ新搭檔機「ダイアナンA」組成第二彈女性型機體雙人套組。ラインX1胸口可替換兩種表情的ロレーライ面部零件是最大特色，頭部鞭狀武器採用球形關節構造可自由擺動姿勢；套組並附贈雙方替換手部零件、專用展示台、スカーレットモービル與飛彈頭等豐富配件。作為マジンガーZシリーズ稀有女性型機體陣容的延伸作品，本品在系列收藏者間評價頗高。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "超合金魂 マジンガーZシリーズ GX-108 ラインX１ & GX-11R ダイアナンA", url: "https://www.youtube.com/watch?v=KtTX9GphKCk", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx101-daitetsujin-17",
@@ -29241,7 +29290,10 @@ export const collection: CollectibleItem[] = [
       { title: "超合金魂：GX-101 大鉄人17 [レビュー]", url: "https://toroplus.blog/tyougoukinn-spirit/gx101-daitetsujin17/", lang: "ja" },
       { title: "「超合金魂 GX-101 大鉄人17」レビュー 重量感、完全変形、発光＆サウンドギミックなど、懐かしさと新しさを備えた最新アイテム", url: "https://hobby.watch.impress.co.jp/docs/review/1403677.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【究極の鉄人】星5つ！ 超合金魂GX-101 大鉄人17 丁寧にレビュー", url: "https://www.youtube.com/watch?v=cSHWxzvLWO0", lang: "ja" },
+      { title: "【超合金魂】45年ぶりに完全変形で活！ GX-101 大鉄人17 ヲタファの傑作玩具レビュー", url: "https://www.youtube.com/watch?v=niuzuj2BiJ8", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx101x-one-eight",
@@ -29260,7 +29312,10 @@ export const collection: CollectibleItem[] = [
     tags: ["大鉄人17", "ワンエイト", "超合金魂", "BANDAI SPIRITS", "TAMASHII NATIONS", "魂ウェブ商店限定"],
     description: "《大鉄人17》中登場、與主角機體大鉄人17並肩作戰的搭檔機器人「ワンエイト」超合金魂立體化，作為魂ウェブ商店限定商品於2022年推出，與同年3月發售的GX-101 大鉄人17互為呼應的成對作品。銀灰色為基調的機身塗裝搭配標誌性的紅色「18」號碼胸章，是《大鉄人17》作品中辨識度極高的角色設計，本商品重現了角色沉穩厚重的特攝機器人質感。因屬魂ウェブ商店線上限定販售商品，並非一般實體店面鋪貨款式，收藏取得難度較高。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "超合金魂GX-101X ワンエイト プレミアムバンダイ 限定 丁寧にレビュー", url: "https://www.youtube.com/watch?v=J5Qp9WUTsOU", lang: "ja" },
+      { title: "【大鉄人17】悲劇の弟ロボット登場！超合金魂 GX-101X ワンエイト ヲタファの遊び方レビュー", url: "https://www.youtube.com/watch?v=Aro7ye7f_28", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx105-mazinger-z-kakumei-shinka",
@@ -29279,7 +29334,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マジンガーZ", "超合金魂", "BANDAI SPIRITS", "TAMASHII NATIONS", "マジンガーZ放送50周年"],
     description: "紀念《マジンガーZ》放送50周年推出的全新設計マジンガーZ超合金魂，副標「革進-KAKUMEI SHINKA-」意指關節可動機構的革新進化，使角色能做出如屈膝蹲踞等過去版本難以呈現的動態姿勢。胸部裝甲板可替換觸發彈簧式飛彈發射機構，手肘關節結合火箭飛拳的射出機構，無需替換零件即可重現必殺技動作；並附贈可前後切換配置的ジェットスクランダー飛行套件與駕駛艙ホバーパイルダー。全高約165mm，壓鑄合金與ABS材質構成，是マジンガーZ系列50周年紀念商品陣容的核心主力機體。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[迷ったらとりあえず買っとけ!!!]超合金魂 GX-105 マジンガーZ 革進 レビュー", url: "https://www.youtube.com/watch?v=CZB2HFife9E", lang: "ja" },
+      { title: "【50年目の革命&進化】超合金魂 GX-105 マジンガーZ 革進 ヲタファの徹底解説&比較レビュー", url: "https://www.youtube.com/watch?v=4iz65D2DZis", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx10r-boss-borot",
@@ -29300,7 +29358,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "超合金魂：GX-10R ボスボロット [レビュー]", url: "https://toroplus.blog/tyougoukinn-spirit/gx10r-bossborot/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【どこが違う？】新旧 徹底比較！超合金魂GX-10R ボスボロット リニューアルバージョン", url: "https://www.youtube.com/watch?v=LYjUIvZXHnU", lang: "ja" },
+      { title: "超合金魂 ボスボロット レビュー (マジンガーzより)", url: "https://www.youtube.com/watch?v=87aSpAtGUdc", lang: "ja" },
+    ],
   },
   {
     id: "soc-gx102-mazinkaiser-skl",
@@ -29874,7 +29935,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ユナ", "くまクマ熊ベアー", "POP UP PARADE", "Good Smile Company", "黒クマ", "X0003@中壢收多易"],
     description: "《くまクマ熊ベアー》主角優奈身穿黑白熊裝手套的招牌形象「POP UP PARADE」規格立體化，全高約170～180mm，材質為ABS／PVC塗裝完成品並附專用展示台座，是該系列中還原度高、親民入手的代表商品，由Design Coco操刀角色設計。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【フィギュア】グッドスマイルカンパニー POP UP PARADE くまクマ熊ベアー ユナ【開封レビュー】", url: "https://www.youtube.com/watch?v=Cs4x5bAqBNY", lang: "ja" },
+      { title: "【フィギュア】箱開け紹介！くまクマ熊ベアー ユナ POP UP PARADE【レビュー】", url: "https://www.youtube.com/watch?v=kMwcaAaPH8c", lang: "ja" },
+    ],
   },
   {
     id: "ichibankuji-macrossf-ranka-orange-venus",
@@ -30270,7 +30334,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG ガンダムルブリスウル レビュー", url: "https://gundamsblog.net/ガンプラ/hg-ガンダムルブリスウル", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG1/144 ガンダムルブリスウル レビュー！", url: "https://www.youtube.com/watch?v=C___KgxRZ2s", lang: "ja" },
+      { title: "ハートを撃ち抜かれるクオリティ！HGガンダムルブリスウル！【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=dSLRFWjWe2M", lang: "ja" },
+    ],
   },
   {
     id: "frs-miorine-rembran",
@@ -30290,7 +30357,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "Figure-rise Standard ミオリネ・レンブラン レビュー", url: "https://gundamsblog.net/ガンプラ/figure-rise-standard-ミオリネ・レンブラン", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Figure rise Standard ミオリネ・レンブラン レビュー", url: "https://www.youtube.com/watch?v=uhS0zRzqz8Q", lang: "ja" },
+      { title: "【ガンプラレビュー】ミオリネ・レンブラン / Figure-rise Standard #895", url: "https://www.youtube.com/watch?v=9kseYEvQzBU", lang: "ja" },
+    ],
   },
   {
     id: "hg-kyoukaisenki-weaponset",
@@ -30364,7 +30434,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "1/72", "Bandai Spirits", "境界戦機", "Kyoukai Senki", "メイレス", "BOX0016"],
     description: "《境界戦機》是Bandai Spirits旗下原創機甲題材動畫作品，描繪近未來世界中各國以「アメイン」系列人形兵器展開領土衝突的戰爭故事。「メイレスレイキ」為劇中登場的メイレス系機體之一，配備電擊發射器與超熱振動薙刀等特色武裝，展現靈活多變的戰鬥風格。本商品為HG系列作品，2021年12月18日發售，機身背部搭載可展開的大型後裙甲，推進器單元可自由旋轉調整角度，是境界戦機系列メイレス機體陣容中造型俐落、可動範圍優異的一款商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "HG 1/72 メイレスレイキ レビュー", url: "https://www.youtube.com/watch?v=qjz22F2MHQw", lang: "ja" },
+      { title: "【境界戦機】1/72メイレスレイキをパチ組みレビュー", url: "https://www.youtube.com/watch?v=OHd8i2fZ5EA", lang: "ja" },
+    ],
   },
   {
     id: "hg-mailes-jogan",
@@ -30384,7 +30457,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG境界戦機 メイレスジョウガン レビュー", url: "https://schizophonic9.com/re7/hg_jogan.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG 1/72 メイレスジョウガン レビュー", url: "https://www.youtube.com/watch?v=PRWqgF4_UWw", lang: "ja" },
+      { title: "【境界戦機】HG 1/72 メイレスジョウガン サンプルレビュー", url: "https://www.youtube.com/watch?v=FnoAqkzFpLI", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-lfrith-thorn",
@@ -30405,7 +30481,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "『HG 1/144 ガンダムルブリスソーン』＆『HG 1/144 ガンダムエアリアル(改修型)』レビュー", url: "https://www.gundam-base.net/staffblog/39895.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG1/144 ガンダムルブリスソーン レビュー！！やっぱりあった謎ギミック！", url: "https://www.youtube.com/watch?v=gWrZHiTNbw8", lang: "ja" },
+      { title: "HG 1/144 ガンダムルブリスソーン レビュー！", url: "https://www.youtube.com/watch?v=srAdY6-c7-M", lang: "ja" },
+    ],
   },
   {
     id: "hg-providence-gundam-r13",
@@ -30424,7 +30503,9 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "1/144", "Bandai", "機動戦士ガンダムSEED", "プロヴィデンスガンダム", "R13", "BOX0016"],
     description: "《機動戰士鋼彈SEED》於2002年播出，是鋼彈系列在新世紀重新開創的獨立世界觀作品，以Cosmic Era曆法與Coordinator（強化人）與Natural之間的衝突為主軸。GAT-X131 Providence Gundam於劇集終盤登場，由反派角色勞・魯・克魯賽駕駛，是ZAFT陣營技術結晶的最強試驗型MS、也是全劇最後登場的鋼彈機體。其最大特色為背部掛載的大型DRAGOON System（多拉貢系統）——一套可分離飛行的全方位無線遙控射擊兵器群，威壓感與戰術壓制力在整部作品中數一數二。本商品為HG系列R13號機作品，2012年2月25日發售，新增可對應Action Base 2（另售）的支架相容零件以重現SEED系列招牌動作姿勢，並附全新設計貼紙與更新過的成型色，是SEED系列HG鋼普拉收藏中平易近人的入門經典款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラレビュー#640 [HGGS 1/144 ZGMF-X13A プロヴィデンスガンダム] R13", url: "https://www.youtube.com/watch?v=iwH-Rw3Efy0", lang: "ja" },
+    ],
   },
   {
     id: "hg-michaelis",
@@ -30443,7 +30524,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "1/144", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "ミカエリス", "BOX0016"],
     description: "《機動戰士鋼彈 水星的魔女》講述轉學至阿斯提卡西亞高等專門學園的少女蘇萊塔・墨丘利，因駕駛神秘機體捲入校園權力鬥爭與企業陰謀的故事。「ミカエリス」是劇中重要角色シャディク・ゼネリ所駕駛的機體，右臂搭載可展開的大型武裝、左臂配備小型盾牌，兩者皆可裝設透明成形的光束零件，是外型充滿壓迫感的敵方陣營代表機體之一。本商品為HG系列作品，2023年1月14日發售，標配盾牌、關節零件、光束軍刀零件兩把及貼紙一張，色分件表現到位、組裝難度親民，是水星的魔女鋼普拉系列中人氣角色座機商品化的代表作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "HG1/144 ミカエリス レビュー！令和のギャン！", url: "https://www.youtube.com/watch?v=BsNG8rsscqc", lang: "ja" },
+      { title: "HG 1/144 ミカエリス 機動戦士ガンダム 水星の魔女 製作 レビュー", url: "https://www.youtube.com/watch?v=RF6STqJo4ME", lang: "ja" },
+    ],
   },
   {
     id: "frs-suletta-mercury",
@@ -30461,7 +30545,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "Figure-rise Standard", "Bandai Spirits", "機動戦士ガンダム 水星の魔女", "スレッタ・マーキュリー", "BOX0016"],
     description: "《機動戰士鋼彈 水星的魔女》講述轉學至阿斯提卡西亞高等專門學園的少女蘇萊塔・墨丘利，因駕駛神秘機體「魔女的鋼彈」捲入校園權力鬥爭與企業陰謀的故事，是女主角視角敘事在鋼彈系列中的重要里程碑作品。スレッタ・マーキュリー個性純樸善良卻身懷過人的機體駕駛天賦，從邊境小行星轉學至權貴雲集的名校，逐步捲入超乎想像的命運洪流，是本作最核心的靈魂人物。本商品為Figure-rise Standard系列角色模型作品，2022年10月15日發售，透過印刷與水轉印貼紙技法重現角色多種表情演出，套件並附招牌吉祥物Haro與專屬展示台座，是該系列角色鋼普拉收藏中人氣最高、話題度也最高的代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【サクッとレビュー】Figure-rise Standard スレッタ・マーキュリー", url: "https://www.youtube.com/watch?v=v6MgBtIVRgU", lang: "ja" },
+      { title: "Figure-rise Standard スレッタ･マーキュリー レビュー", url: "https://www.youtube.com/watch?v=gKpZ7zL12Eo", lang: "ja" },
+    ],
   },
   {
     id: "frs-shishibu-shion",
@@ -31299,7 +31386,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鋼彈", "Gunpla", "HG", "機動戰士鋼彈 雷霆宙域戰記", "阿特拉斯鋼彈"],
     description: "阿特拉斯鋼彈（RX-78AL）是《機動戰士鋼彈 雷霆宙域戰記》第二季登場的主角機體，由地球聯邦軍南極基地打造，搭載可自由變形展開的背部次腳，能重現多種戰鬥形態。套件附有光束軍刀、軌道砲、刀刃盾牌與突擊步槍等豐富武裝，關節可動範圍廣，能重現原作動畫中激烈的戰鬥姿勢。HG系列標準比例1/144，組裝簡易同時保有高完成度的細節雕刻。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "HGアトラスガンダム組立てレビュー！", url: "https://www.youtube.com/watch?v=SdiNYy-KGIo", lang: "ja" },
+      { title: "（迫力満点のサブレッグ！）HG アトラスガンダム レビュー", url: "https://www.youtube.com/watch?v=prhCsZEHwkY", lang: "ja" },
+    ],
   },
   {
     id: "mgsd-gundam-barbatos",
@@ -31318,7 +31408,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鋼彈", "Gunpla", "MGSD", "機動戰士鋼彈 鐵血的孤兒", "巴巴托斯"],
     description: "MGSD（Master Grade SD）系列將SD鋼彈的可愛比例與MG級的高精密關節結構結合，重現《機動戰士鋼彈 鐵血的孤兒》主角機巴巴托斯。頭部4軸可動、腰部連動汽缸機構、肩部裝甲可展開、膝甲可動等豐富機構，將原作標誌性的「鋼彈骨架」外露設計完整重現。全高約115mm，是SD比例中細節與可動性兼具的高完成度套件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "MGSD ガンダムバルバトス レビュー", url: "https://www.youtube.com/watch?v=khCnKlORWBw", lang: "ja" },
+      { title: "MGSDガンダムバルバトス レビュー！SD最高峰の可動とギミック！", url: "https://www.youtube.com/watch?v=1NhP0G_I3Dc", lang: "ja" },
+    ],
   },
   {
     id: "tf-mp18b-bluestreak",
@@ -31597,7 +31690,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マジンガーZ", "超合金魂", "GX", "魂ウェブ商店限定"],
     description: "為紀念劇場版《マジンガーZ対暗黒大将軍》上映50周年而推出，將マジンガー系列最強反派「暗黒大将軍」首次以超合金魂系列商品化。斗篷部分採用內含鋼絲的布料零件重現飄逸質感，長劍與鎧甲裝飾等處大量使用電鍍零件，呈現豪華威嚴的反派氣場，是マジンガー粉絲期待已久的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "暗黒大将軍 超合金魂GX-110 レビュー【圧倒的な存在感！】", url: "https://www.youtube.com/watch?v=NXS7_RakXXg", lang: "ja" },
+      { title: "[Review] : S.O.C. GX-110 Ankoku Daishogun", url: "https://www.youtube.com/watch?v=3oQ3jCmwWd0", lang: "en" },
+    ],
   },
   {
     id: "chogokin-gx111-great-mazinger",
@@ -31615,7 +31711,10 @@ export const collection: CollectibleItem[] = [
     tags: ["グレートマジンガー", "超合金魂", "GX", "魂ウェブ商店限定"],
     description: "為紀念《グレートマジンガー》放送50周年推出的全新設計商品，以「革進」為主題重新詮釋機體結構與可動機構，全身配色與細節雕刻皆大幅翻新，展現比以往超合金魂版本更精緻的完成度與更豐富的可動範圍，是紀念系列中的旗艦商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "傑作【偉大な勇者が革命進化！】超合金魂 GX-111 グレートマジンガー 革進 ヲタファのレビュー", url: "https://www.youtube.com/watch?v=eftZQY13QgQ", lang: "ja" },
+      { title: "グレートマジンガー 革進 -KAKUMEI SHINKA- 超合金魂 GX-111 レビュー", url: "https://www.youtube.com/watch?v=Y2bQL34qLZM", lang: "ja" },
+    ],
   },
   {
     id: "mg-eclipse-maneuver-striker",
@@ -31633,7 +31732,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鋼彈", "Gunpla", "MG", "機動戰士鋼彈SEED ECLIPSE", "選配套件", "Premium Bandai限定"],
     description: "為MG 1/100 エクリプスガンダム設計的擴充選配套件，Premium Bandai限定販售。內含4具精密雕刻的推進背包單元，可裝備於MA（機動兵裝）形態，並具備可變形的戰鬥機形態，推進單元透過手臂連結可靈活擺動，擴充機體的武裝與展示形態多樣性。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "圧巻の大ボリューム！MGエクリプス専用 マニューバストライカー", url: "https://www.youtube.com/watch?v=uTCoO5pdcwI", lang: "ja" },
+      { title: "【ガンプラ パチ組みレビュー】MG マニューバストライカー エクリプスガンダム", url: "https://www.youtube.com/watch?v=lp6GF51wbEY", lang: "ja" },
+    ],
   },
   {
     id: "legendbb-victory-daishogun-clear",
@@ -31670,7 +31772,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鋼彈", "Gunpla", "HG", "機動戰士鋼彈 水星的魔女", "ガンダムエアリアル", "Premium Bandai限定"],
     description: "重現《機動戦士ガンダム 水星の魔女》第9話高潮劇情中，ガンダムエアリアル達到「パーメットスコア・シックス」狀態的特別配色版本。胸部殻體單元以嵌入成型與透明零件重現發光效果，貼紙印刷改為藍色以呼應劇中的パーメットスコア6色調，藍黃外裝甲、關節與光束步槍部分皆採用金屬質感成型色。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "2023年7月発送 HG 1/144 ガンダムエアリアル パーメットスコア・シックス 開封・組立・レビュー", url: "https://www.youtube.com/watch?v=QVjuwxRe7tg", lang: "ja" },
+      { title: "サクッと1分レビュー！HGガンダムエアリアル パーメットスコア・シックス", url: "https://www.youtube.com/watch?v=VLjFdIlcc90", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-helios",
@@ -31688,7 +31793,10 @@ export const collection: CollectibleItem[] = [
     tags: ["鋼彈", "Gunpla", "HG", "GUNDAM BREAKER BATTLOGUE", "ガンダムヘリオス"],
     description: "「GUNDAM BREAKER BATTLOGUE」企劃第1彈原創機體，融合手機遊戲《機動戦士ガンダムバトルオペレーション》系列自訂改裝系統的世界觀設計。ガンダムヘリオス結合了ガンダムアリオス的機體架構、フリーダムガンダム的可動翼與ユニコーンガンダム的psycho-frame技術要素，呈現原創混合設計的獨特魅力，套件內附掃描動畫觀看用QR code。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "HG 1/144 ガンダムヘリオス レビュー", url: "https://www.youtube.com/watch?v=dDbN-Z24J9o", lang: "ja" },
+      { title: "僕が考えた最強のガンダム！HG 1/144 ガンダムヘリオス レビュー", url: "https://www.youtube.com/watch?v=JYgDgkkhvb8", lang: "ja" },
+    ],
   },
   {
     id: "figurerise-kamen-rider-kabuto",
@@ -33399,7 +33507,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG シャア専用ザク（GQ） レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/hg-%E3%82%B7%E3%83%A3%E3%82%A2%E5%B0%82%E7%94%A8%E3%82%B6%E3%82%AF%EF%BC%88gq%EF%BC%89", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ジークアクス版のシャア専用ザク！】HG 1/144 シャア専用ザク(GQ) レビュー", url: "https://www.youtube.com/watch?v=S4VwQQWVHRU", lang: "ja" },
+      { title: "【ガンプラ】HG 1/144 シャア専用ザク(GQ)部分塗装/簡単製作", url: "https://www.youtube.com/watch?v=hJWZdh0QEq0", lang: "ja" },
+    ],
   },
   {
     id: "animester-nanami-pulse",
@@ -33758,7 +33869,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【ガンプラ】MG 1/100 ガンダムアストレイ ブルーフレームセカンドリバイ レビュー", url: "https://gunplapocchi.com/mg-gundam-astray-blue-frame-second-revise/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】タクティカルアームズ！ MG 1/100 アストレイブルーフレーム セカンドリバイ", url: "https://www.youtube.com/watch?v=FDkwPbUde-A", lang: "ja" },
+    ],
   },
   {
     id: "mg-wing-gundam-zero-ew",
@@ -33777,7 +33890,10 @@ export const collection: CollectibleItem[] = [
     tags: ["新機動戦記ガンダムW", "Gundam Wing", "MG", "Bandai", "ウイングガンダムゼロ", "Endless Waltz"],
     description: "《新機動戦記ガンダムW Endless Waltz》是《機動戦士ガンダムW》的劇場版總集篇，「ウイングガンダムゼロ（EW版）」是主角ヒイロ・ユイ在劇場版中駕駛的最終決戰機體，招牌特徵是巨大的天使羽翼狀翼型與可展開機構。本商品為MG規格套件，重現機體招牌的鳥翼造型與展開機構，翼面採彈性材質重現羽翼細部動態，並可透過翼型變化重現大氣圈突入姿態。套件配備可開闔式肩部機炮，以及重現「バスターライフル」射擊姿態專用展示台座，是ガンダムW系列鋼普拉陣容中經典且長銷不衰的一款代表作品，深受W系列收藏者喜愛。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "羽が美しい！MGウイングガンダムゼロEWレビュー！", url: "https://www.youtube.com/watch?v=xREf9wo11rI", lang: "ja" },
+      { title: "限定 MG 1/100 ウイングガンダムゼロEW ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=XuQN02YbVvw", lang: "ja" },
+    ],
   },
   {
     id: "furai-megazord-black-limited",
@@ -33818,7 +33934,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MG スタークジェガン レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AF%E3%82%B8%E3%82%A7%E3%82%AC%E3%83%B3", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "MG1/100 スタークジェガン レビュー！", url: "https://www.youtube.com/watch?v=nxmYIOiuJbw", lang: "ja" },
+      { title: "【MG スタークジェガン】ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=4eKJRg2oM2Q", lang: "ja" },
+    ],
   },
   {
     id: "gx117-mazinger-z-strengthened",
@@ -33836,7 +33955,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マジンガーZ", "超合金魂", "BANDAI SPIRITS", "マジンガーZ", "強化型", "革進"],
     description: "《マジンガーZ》是永井豪原作的巨大機器人動畫始祖作品，「マジンガーZ（強化型）」是原作後期劇情中登場的強化改裝版本，換裝更強力的新武裝以對抗日益強大的敵人。「超合金魂」是BANDAI SPIRITS旗下主打高質感金屬質地與細膩機構重現的高階可動人偶品牌，本商品以「革進 -KAKUMEI SHINKA-」為題重新詮釋強化型樣貌，新增「アイアンカッター」「ドリルミサイル」「サザンクロスナイフ」等後期經典裝備，頭部與雙臂重新開模對應原作後期設定造型。標配全新雕刻可動式「ジェットスクランダー」，雙翼與引擎部位可動、並可磁吸方式與頭部結合，重現「マジンパンチ」飛拳發射機構。作為マジンガーZ系列超合金魂陣容中話題度與收藏價值兼具的一款強化型代表作品，是機器人動畫始祖粉絲與超合金魂收藏者相當矚目的重點新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "マジンガーZ（強化型）革進 -KAKUMEI SHINKA- 超合金魂 レビュー", url: "https://www.youtube.com/watch?v=FXFvw0qimVk", lang: "ja" },
+      { title: "強化武器を新たに装備！超合金魂「マジンガーZ（強化型）革進」豊富なギミックを徹底解説！【バンマニ!】", url: "https://www.youtube.com/watch?v=4gileJbMvMs", lang: "ja" },
+    ],
   },
   {
     id: "option-parts-set-10-galaxy-booster",
@@ -34006,7 +34128,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "RG ブラストインパルスガンダムSpecII レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/rg-%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0specii", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "RG 1/144 ブラストインパルスガンダム SpecII 開封・組立・各種比較・レビュー", url: "https://www.youtube.com/watch?v=KNkzz_3IMtg", lang: "ja" },
+      { title: "光の速さで売り切れた【RGブラストインパルスガンダムSpecⅡ（HG、MGと比較）】", url: "https://www.youtube.com/watch?v=p7eauSrkAww", lang: "ja" },
+    ],
   },
   {
     id: "ranma-noodlestopper-shampoo",
@@ -34105,7 +34230,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG ヒュッケバインMk-III レビュー", url: "https://schizophonic9.com/re8/hg_huckebeinmk3.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "(バンダイ驚異のメカニズム！)HG ヒュッケバインMk-III レビュー", url: "https://www.youtube.com/watch?v=SOePo0xcCcI", lang: "ja" },
+      { title: "HGヒュッケバインMk-Ⅲレビュー！ガンプラの技術が活きるスパロボ機体！", url: "https://www.youtube.com/watch?v=4h4jyXbbyq8", lang: "ja" },
+    ],
   },
   {
     id: "mg-custom-set-rx78-2-ver3",
@@ -34272,7 +34400,10 @@ export const collection: CollectibleItem[] = [
     tags: ["機動戦士ガンダムSEED DESTINY", "Gundam SEED DESTINY", "HG", "Bandai", "レジェンドガンダム", "ZGMF-X666S"],
     description: "《機動戦士ガンダムSEED DESTINY》中，「レジェンドガンダム」是原作用高性能量產機的最終決戰型態，招牌特徵是巨大的「シールド」實體防禦盾與貫穿力強大的「高エネルギービームライフル」，是劇中頗具威脅性的強敵機體之一。本商品為HG規格套件，採用透明零件重現原作中「攻撃モード」發動時的光效展開場景，內構採「SEEDアクションシステム」高可動骨架設計，能重現SEED系列特有的張力十足戰鬥姿態。套件標配高能量光束步槍、雙持ビームジャベリン、ビームシールド與光刃特效零件，是SEED DESTINY系列鋼普拉陣容中人氣居高不下的一款代表性強敵機體作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】HG 1/144 レジェンドガンダム レビュー【機動戦士ガンダムSEED DESTINY】", url: "https://www.youtube.com/watch?v=J6J4iBceoYw", lang: "ja" },
+      { title: "【HGレジェンドがリメイク！】HG 1/144 レジェンドガンダム レビュー", url: "https://www.youtube.com/watch?v=4vQLFaPZZfk", lang: "ja" },
+    ],
   },
   {
     id: "hg-ryuoumaru",
@@ -34290,7 +34421,10 @@ export const collection: CollectibleItem[] = [
     tags: ["魔神英雄伝ワタル", "Mashin Hero Wataru", "HG", "BANDAI SPIRITS", "龍王丸"],
     description: "《魔神英雄伝ワタル》是「勇者系列」的先驅作品，「龍王丸」是主角ワタル駕駛的魔神機體，招牌特徵是威風凜凜的龍型頭盔與招牌武裝「鳳龍剣」，是80年代末勇者系機器人動畫的代表性形象之一。本商品為HG規格套件，忠實重現原作設定的比例與造型，透過抽拉胸部兩側區塊、肩部裝甲可動機構等設計擴大手臂可動範圍，能重現必殺技「鳳龍剣」的招牌架勢姿態。套件並可透過零件替換重現「鳳王形態」，是魔神英雄伝ワタル與勇者系列周邊收藏者相當懷念矚目的一款代表性立體化作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "リアル等身で鳳凰形態に完全変形！【HG Amplified IMGN 龍王丸】ヲタファのプラモレビュー", url: "https://www.youtube.com/watch?v=vS4pS9dBUHY", lang: "ja" },
+      { title: "HG 龍王丸 Amplified IMGN レビュー 【魔神英雄伝ワタル】", url: "https://www.youtube.com/watch?v=ht3ZwBgM-GU", lang: "ja" },
+    ],
   },
   {
     id: "mg-astray-red-frame-kai",
@@ -34431,7 +34565,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MGデルタプラス レビュー", url: "https://schizophonic9.com/re/mg_deltaplus_p.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】MGデルタプラスをレビュー", url: "https://www.youtube.com/watch?v=ex2fdaZTMKw", lang: "ja" },
+      { title: "MG1/100 デルタプラスを作る！レビュー", url: "https://www.youtube.com/watch?v=1ShU8cMOWLQ", lang: "ja" },
+    ],
   },
   {
     id: "full-mechanics-freedom-gcp",
@@ -34471,7 +34608,10 @@ export const collection: CollectibleItem[] = [
     tags: ["機動戦士ガンダムSEED DESTINY", "Gundam SEED DESTINY", "MG", "Bandai", "ブレイズザクファントム", "ブレイズザクウォーリア", "ZAFT"],
     description: "《機動戦士ガンダムSEED DESTINY》中，「ブレイズザクファントム」是ザフト軍配備的新型量產機，標配全新開模的「ブレイズウィザード」強化裝備，是劇中量產機陣容的強化代表機型之一。本商品為MG規格套件，機體綠色迷彩以成型色分色完整重現，並可透過零件替換組裝為未搭載強化裝備的「ブレイズザクウォーリア」樣貌，一盒即可體驗兩種機體形態的收藏樂趣。套件關節可動範圍廣泛，細節雕刻精緻，是SEED DESTINY系列MG鋼普拉陣容中人氣量產機代表作品，深受ザフト軍機體收藏者喜愛。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【機動戦士ガンダムSEED DESTINY】MG ブレイズザクファントム／ブレイズザクウォーリア ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=L9sIqkPalEk", lang: "ja" },
+      { title: "【ガンプラレビュー】ブレイズザクファントム MG プレミアムバンダイ限定", url: "https://www.youtube.com/watch?v=_ualShwJen4", lang: "ja" },
+    ],
   },
   {
     id: "ichibankuji-macrossf-second-stage-f",
@@ -35200,7 +35340,9 @@ export const collection: CollectibleItem[] = [
     tags: ["機動戦士ガンダム0083", "Gundam 0083", "MG", "Bandai", "ステイメン", "GP03S"],
     description: "《機動戦士ガンダム0083 STARDUST MEMORY》中，「ガンダム試作3号機 ステイメン」（RX-78GP03S）是地球聯邦軍開發的攻擊用試作機動戰士，招牌特徵是可搭載巨大衛星系統「デンドロビウム」的對接介面設計，是劇中話題度極高的試作機系列之一。本商品為MG規格套件，重現機體招牌的可動骨架與連動機構，套件標配巴祖卡砲、盾牌、光束步槍與光束軍刀等豐富武裝配件。作為2001年發售的早期MG系列作品，套件比例協調且機構聯動設計評價甚高，是0083系列與試作機鋼普拉陣容中長銷不衰的一款經典代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "MG 1/100 ガンダム試作3号機(ステイメン) ガンプラ 開封・組立・レビュー / 機動戦士ガンダム0083", url: "https://www.youtube.com/watch?v=AFK4TPjgl4o", lang: "ja" },
+    ],
   },
   {
     id: "rg-wing-gundam-ew",
@@ -35257,7 +35399,10 @@ export const collection: CollectibleItem[] = [
     tags: ["機動戦士ガンダム 逆襲のシャア", "Char's Counterattack", "MG", "Bandai", "リ・ガズィ", "RGZ-91"],
     description: "《機動戦士ガンダム 逆襲のシャア》世界觀中，「リ・ガズィ」（RGZ-91）是地球聯邦軍以ZZガンダム技術為基礎開發的可變機動戰士，後續νガンダム完成前的過渡試作機體，招牌特徵是簡潔俐落的白綠色系機體塗裝。本商品為MG規格套件，忠實重現機體造型與變形機構，套件關節可動範圍廣泛，是アムロ座機νガンダム登場前的重要過渡機體之一，深受UC世界觀試作機系列收藏者喜愛的一款經典代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "MG 1/100 リ・ガズィ ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=S7Mlw9VwlQo", lang: "ja" },
+      { title: "【逆シャア】MGリ・ガズィ【フルプラ工場】", url: "https://www.youtube.com/watch?v=Rkw6E_gFOfA", lang: "ja" },
+    ],
   },
   {
     id: "rg-aile-strike-gundam",
@@ -35278,7 +35423,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "RG エールストライクガンダムを作ってみたよ", url: "https://nyanpla.net/rgreview/production9/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "RG エールストライクガンダム レビュー", url: "https://www.youtube.com/watch?v=WIF8yTeh8dI", lang: "ja" },
+      { title: "【機動戦士ガンダムSEED】RG 1/144 エールストライクガンダム", url: "https://www.youtube.com/watch?v=r_DF-TLm-gA", lang: "ja" },
+    ],
   },
   {
     id: "mg-strike-rouge-ootori-verrm",
@@ -35299,7 +35447,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MGストライクルージュオオトリ装備レビュー", url: "https://schizophonic9.com/re3/mg_ootori.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラMG】ストライクルージュオオトリ装備 機動戦士ガンダムSEED【フルプラ工場】", url: "https://www.youtube.com/watch?v=9pFmltGLi4c", lang: "ja" },
+      { title: "【ガンプラ】MG 1/100 ストライクルージュ オオトリ装備 Ver.RM", url: "https://www.youtube.com/watch?v=L9DNJFrQurc", lang: "ja" },
+    ],
   },
   {
     id: "rg-skygrasper-launcher-sword",
@@ -35337,7 +35488,9 @@ export const collection: CollectibleItem[] = [
     tags: ["機動戦士ガンダムSEED", "Gundam SEED", "MG", "Bandai", "ストライクガンダム", "I.W.S.P."],
     description: "《機動戦士ガンダムSEED》中，「I.W.S.P.」（Improved World Sky Patrol）是ストライクガンダム專用的重裝武裝背包，整合了ランチャーストライカー與エールストライカー的火力與機動性能，是遊戲與外傳作品中登場的人氣強化裝備形態。本商品為MG規格套件，完整重現機體標配的大型光束加農砲與展開式武裝艙門機構，套件關節可動範圍廣泛，細節雕刻精緻，是SEED系列MG鋼普拉陣容中話題度極高的一款重裝強化代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "最強のストライクはコレっしょ？ MG 1/100 ストライクガンダム + I.W.S.P. 素組み・レビュー", url: "https://www.youtube.com/watch?v=sKXQqNa-ovs", lang: "ja" },
+    ],
   },
   {
     id: "mg-00-zanraiser",
@@ -35433,7 +35586,10 @@ export const collection: CollectibleItem[] = [
     tags: ["スーパーロボット大戦OG", "SRW OG", "HG", "BANDAI SPIRITS", "アシュセイヴァー"],
     description: "《スーパーロボット大戦OG》系列中，「アシュセイヴァー」是首度以HG規格立體化的原創機體，招牌武裝為可展開的「ソードブレイカー」與「ハルバート・ランチャー」，並標配「ファイアダガー」投擲武裝、「ガンレイピア」與「レーザーブレード」等豐富武裝配件，並附アクションベース7専用展示台座。套件關節可動範圍廣泛，是機戦OG系列鋼普拉陣容中話題度極高的一款首度立體化代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "HG アシュセイヴァー レビュー", url: "https://www.youtube.com/watch?v=ghIHbUzupPU", lang: "ja" },
+      { title: "奇跡の初立体化【HG アシュセイヴァー /スパロボOG】ヲタファのスパロボレビュー", url: "https://www.youtube.com/watch?v=dDyXxS0rAx8", lang: "ja" },
+    ],
   },
   {
     id: "hg-wing-gundam-zero-clear",
@@ -35472,7 +35628,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【ガンプラ】HG 1/144 赤いガンダム レビュー", url: "https://gunplapocchi.com/gunpla-red-gundam/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "HG 赤いガンダム レビュー！密度狂ってるガンプラ…", url: "https://www.youtube.com/watch?v=ukBvBM9aQHE", lang: "ja" },
+      { title: "これでいいのか？HG赤いガンダム！【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=Jq-MLub7V0Q", lang: "ja" },
+    ],
   },
   {
     id: "rg-wing-gundam-zero-tv",
@@ -35491,7 +35650,10 @@ export const collection: CollectibleItem[] = [
     tags: ["新機動戦記ガンダムW", "Gundam Wing", "RG", "BANDAI SPIRITS", "ウイングガンダムゼロ"],
     description: "《新機動戦記ガンダムW》原作TV版中，「ウイングガンダムゼロ」是主角ヒイロ・ユイ的最終決戰機體，招牌特徵是巨大天使羽翼狀翼型裝甲。本商品為RG規格全新開模套件，重現原作TV版特有的翼型裝甲造型，標配RG系列獨創機構，包括翼型連結器5軸可動關節、連動可動巴斯特加農砲，並可變形為「ネオバード」形態。套件細節雕刻與可動性皆維持RG系列一貫高水準工藝，是ガンダムW系列鋼普拉陣容中人氣居高不下的一款代表性新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "最高のTV版ゼロ！RG ウイングガンダムゼロ レビュー！", url: "https://www.youtube.com/watch?v=wL9FH-d0qJo", lang: "ja" },
+      { title: "30年待った完成度！RGウイングガンダムゼロ【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=mT1oWPaxaQk", lang: "ja" },
+    ],
   },
   {
     id: "option-parts-set-01-aile-striker",
@@ -35718,7 +35880,10 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者王ガオガイガー", "GaoGaiGar", "HG", "BANDAI SPIRITS", "超竜神", "CHORYUJIN"],
     description: "《勇者王ガオガイガー》中，「超竜神」是由「氷竜」與「炎竜」兩台巨大機械龍透過「シンメトリードッキング（對稱合體）」結合而成的支援型巨大機器人。本商品為HG規格塑膠套件，追求更具張力的動態擺拍表現，套件可透過零件替換重現氷竜、炎竜個別車輛型態變形為機器人型態，並可再度對稱合體為超竜神完整樣貌。相較超合金魂規格，HG版本以更親民的價位重現機體合體變形機構，是勇者系列鋼普拉陣容中話題度與性價比兼具的一款代表性作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "(HGで超竜神が登場！氷竜と炎竜が合体！)HG 超竜神 レビュー", url: "https://www.youtube.com/watch?v=UjXxHCx36FU", lang: "ja" },
+      { title: "【プラモデルレビュー】HG超竜神 炎竜", url: "https://www.youtube.com/watch?v=NkELcyXffpo", lang: "ja" },
+    ],
   },
   {
     id: "popupparade-rit-l",
