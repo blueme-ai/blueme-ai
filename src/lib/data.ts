@@ -20201,7 +20201,9 @@ export const collection: CollectibleItem[] = [
     tags: ["SAINT0001", "聖闘士星矢", "聖闘士聖衣神話", "黄金聖闘士", "初版"],
     description: "《聖闘士星矢》描繪身披聖衣的聖鬥士們為守護女神雅典娜而戰的熱血故事。魚座アフロディーテ以絕美外貌與劇毒玫瑰花瓣攻擊著稱。本商品為2006年發售的「聖闘士聖衣神話」系列初版商品，尚未冠上後續「EX」子系列名稱，忠實還原原作漫畫初登場時的配色方案，與後續重製的EX版形成世代對照，適合喜愛收藏不同世代模具規格的資深玩家。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話EX 魚座の黄金聖闘士ピスケスアフロディーテの紹介です！", url: "https://www.youtube.com/watch?v=O_R92M0QyFE", lang: "ja" },
+    ],
   },
   {
     id: "bear-geki",
@@ -20285,7 +20287,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：鋼鉄聖闘士マリンクロス潮 [リバイバル版] [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/steel-marinecloth-revival/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【76】スチールセイント リバイバル版3体 聖闘士聖衣神話 鋼鉄聖闘士 フィギュアレビュー 翔 潮 大地", url: "https://www.youtube.com/watch?v=VGlYVEqhuXM", lang: "ja" },
+    ],
   },
   {
     id: "appendix-aquarius-camus",
@@ -20508,7 +20512,10 @@ export const collection: CollectibleItem[] = [
       { title: "第72弾 キグナス氷河 初期青銅聖衣 | 聖闘士聖衣神話 レビュー", url: "https://ameblo.jp/saint-cloth-myth/entry-10885248792.html", lang: "ja" },
       { title: "聖闘士聖衣神話：キグナス氷河 初期青銅聖衣 [レビュー]", url: "https://toroplus.blog/saintclothmyth-saint/cygnushyoga-fastbronze/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 キグナス氷河 初期青銅聖衣＜リバイバル版＞開封レビュー", url: "https://www.youtube.com/watch?v=jLxZp91Y_Uw", lang: "ja" },
+      { title: "2024年3月発送「聖闘士聖衣神話 キグナス氷河（初期青銅聖衣）20th Anniversary Ver.」開封・レビュー", url: "https://www.youtube.com/watch?v=pYXsHzVja8s", lang: "ja" },
+    ],
   },
   {
     id: "saint-dragon-shiryu-original",
@@ -22500,7 +22507,10 @@ export const collection: CollectibleItem[] = [
       { title: "聖闘士聖衣神話：クリュサオル クリシュナ [レビュー]", url: "https://toroplus.blog/saintclothmyth-marina/chrysaor-krishna/", lang: "ja" },
       { title: "聖闘士聖衣神話 クリュサオルクリシュナ レビュー", url: "https://hacchaka.net/archives/51371775.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "『おもちゃの国アリス』 #1835 「聖闘士聖衣神話EX クリュサオルクリシュナの紹介」", url: "https://www.youtube.com/watch?v=7gtJwC1Zh5g", lang: "ja" },
+      { title: "【聖闘士聖衣神話EX】クリュサオル・クリシュナ 装着＆換装 解説", url: "https://www.youtube.com/watch?v=TWhnfdQV0JA", lang: "ja" },
+    ],
   },
   {
     id: "scm-dragon-shiryu-god-cloth",
@@ -22673,7 +22683,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話 ガンマ星フェクダトール", url: "https://e-matsusaka.jp/murajin/2009/09/23/818/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話EX ガンマ星の神闘士フェクダトールの紹介です", url: "https://www.youtube.com/watch?v=odyuIaaTzdU", lang: "ja" },
+      { title: "『おもちゃの国アリス』 #3212「聖闘士聖衣神話EX ガンマ星フェクダトールの紹介(オブジェ形態編)」", url: "https://www.youtube.com/watch?v=jF1UPCZGG98", lang: "ja" },
+    ],
   },
   {
     id: "scm-aries-shion-pope-asia-edition",
@@ -22693,7 +22706,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：アリエス シオン（冥衣） / 教皇シオン [レビュー]", url: "https://toroplus.blog/saintclothmyth-specter/ariession-specter-popesion/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Saint Cloth Myth EX - Aries Shion (Surplice) & The Pope Set", url: "https://www.youtube.com/watch?v=rEy4icRQzJg", lang: "en" },
+    ],
   },
   {
     id: "scm-ryumnades-casa",
@@ -22757,7 +22772,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：シードラゴン カノン [レビュー]", url: "https://toroplus.blog/saintclothmyth-marina/sea-dragon-kanon/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話EX 海龍シードラゴンカノンの紹介です！", url: "https://www.youtube.com/watch?v=Lu9TD_lnRmk", lang: "ja" },
+    ],
   },
   {
     id: "scm-aquarius-camus-meii",
@@ -22777,7 +22794,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話 アクエリアスカミュ(冥衣) レビュー", url: "https://ameblo.jp/shining-leo/entry-10218648774.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "SAINT CLOTH MYTH EX AQUARIUS CAMUS (SURPLICE) 20th REVIVAL Ver. / アクエリアスカミュ(冥衣) display", url: "https://www.youtube.com/watch?v=41UslHQXRA4", lang: "en" },
+    ],
   },
   {
     id: "scm-dark-phoenix",
@@ -23779,7 +23798,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：セイレーン ソレント [レビュー]", url: "https://toroplus.blog/saintclothmyth-marina/siren-sorrento/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士星矢 聖闘士聖衣神話EX 海魔女セイレーンソレントの紹介です！", url: "https://www.youtube.com/watch?v=lY2SCnm5e9k", lang: "ja" },
+    ],
   },
   {
     id: "scm-appendix-virgo-shaka",
@@ -23819,7 +23840,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話EX ゼータ星アルコルバド レビュー", url: "https://hacchaka.net/archives/52079999.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "玩具紹介♯62 聖闘士聖衣神話EX ゼータ星 アルコル バド", url: "https://www.youtube.com/watch?v=iwt-w1SW6Ic", lang: "ja" },
+    ],
   },
   {
     id: "scm-ex-display-stage",
@@ -25337,7 +25360,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話 フェニックス一輝 初期青銅聖衣 リバイバル版 レビュー", url: "https://gekirobogun.sakura.ne.jp/SAINT/phoenix_ikki.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "聖闘士聖衣神話 フェニックス一輝 初期青銅聖衣 リバイバル版開封レビュー", url: "https://www.youtube.com/watch?v=lP9XBC7Xj2E", lang: "ja" },
+    ],
   },
   {
     id: "saint-cloth-myth-pope-shion-2005",
@@ -25502,7 +25527,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "聖闘士聖衣神話：ドラゴン紫龍（初期青銅聖衣）20th Anniversary Ver. [レビュー]（含リバイバル版比較）", url: "https://toroplus.blog/saintclothmyth-saint/dragon-siryuu-fastbronze-20th/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "『おもちゃの国アリス』 #1721 「聖闘士聖衣神話 ドラゴン紫龍 初期青銅聖衣(リバイバル版)の紹介(装着形態編)」", url: "https://www.youtube.com/watch?v=1vLYRo1REIc", lang: "ja" },
+    ],
   },
   {
     id: "saint-cloth-myth-mizar-sid",
