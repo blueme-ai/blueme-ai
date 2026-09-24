@@ -2076,7 +2076,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスF", "VF-25F", "TINY SESSION", "タイニーセッション", "アルト", "シェリル・ノーム", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION（タイニーセッション）」是BANDAI COLLECTORS推出的全新可動人偶系列，將マクロス系列機體以Q版造型呈現，並隨附劇中角色的迷你人形，讓玩家可自由組合「機體×角色」呈現互動情境，是有別於DX超合金寫實規格的另一種輕鬆收藏取向。本商品重現《マクロスF》主角早乙女アルト座機VF-25F メサイアバルキリー，隨附女主角シェリル・ノーム的迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。作為系列第一彈商品，是マクロスF人氣角色與機體組合收藏的入門首選。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【TINY SESSION】VF-25F MESSIAH VALKYRIE (ALTO) with SHERYL", url: "https://www.youtube.com/watch?v=qw0evX309S4", lang: "en" },
+      { title: "TINY SESSION マクロスF VF-25F メサイアバルキリー(アルト機) with シェリル 約100mm 塗装済み可動フィギュア", url: "https://www.youtube.com/watch?v=TQqLQGWbZQ8", lang: "ja" },
+    ],
   },
   {
     id: "tinysession-vf25g-michael-ranka",
@@ -2094,7 +2097,9 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスF", "VF-25G", "TINY SESSION", "タイニーセッション", "ミハエル", "ランカ・リー", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」系列第一彈商品之一，重現《マクロスF》狙擊手ミハエル・ブラン座機VF-25G メサイアバルキリー，隨附女主角ランカ・リー的迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。VF-25G以大型化感測器頭部取代常規機首為外觀特徵，是VF-25系列中辨識度最獨特的一款，Q版造型下依然清楚呈現此設計巧思，是マクロスF人氣角色與機體組合收藏的代表作品之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "マクロス TINY SESSION VF-25G メサイアバルキリー(ミシェル機) with ランカ レビュー", url: "https://www.youtube.com/watch?v=N5TECQmjH5E", lang: "ja" },
+    ],
   },
   {
     id: "tinysession-vf31j-hayate-freyja",
@@ -2112,7 +2117,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスΔ", "VF-31J", "TINY SESSION", "タイニーセッション", "ハヤテ", "フレイア・ヴィオン", "Bandai", "MACROSS0012@中壢收多易"],
     description: "「TINY SESSION」マクロスΔ系列第一彈商品，重現Δ小隊隊員ハヤテ・インメルマン座機VF-31J ジークフリード，隨附ワルキューレ成員フレイア・ヴィオン的迷你人形，全高約100mm，可完整變形為戦闘機、バトロイド形態，並附槍莢、專用台座與替換手腕等配件。Q版造型下依然清楚重現Δ小隊主力機的標誌性線條與塗裝，是マクロスΔ人氣角色與機體組合收藏的入門代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【可愛いかよ】マクロス TINY SESSION VF-31J ジークフリード", url: "https://www.youtube.com/watch?v=xLV3FwSYwPM", lang: "ja" },
+      { title: "Tiny Session macross Delta VF-31J Siegfried ハヤテ インメルマン機／フレイア", url: "https://www.youtube.com/watch?v=G70ldGlHmg8", lang: "ja" },
+    ],
   },
   {
     id: "tinysession-vf31f-messer-kaname",
@@ -2846,7 +2854,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ONE PIECE", "海賊王", "ゴーイングメリー号", "超合金", "CHOGOKIN", "25周年", "TAMASHII NATIONS"],
     description: "「ゴーイングメリー号」是《ONE PIECE》草帽海賊團初代船艦，以擬人化的羊首船艏與溫暖木質色調深植人心，是海賊團夥伴羈絆與冒險起點的重要象徵，其結局的告別場景更是系列粉絲心中最催淚的經典橋段之一。本商品為紀念TV動畫放送25週年推出的「超合金」規格立體化作品，全高約280mm，標配可重現船體損毀狀態的替換零件組、印有25週年紀念插畫的特別版帆布零件、可播放日版首代主題曲「We Are!」（TV Size）的專用台座、新雕刻魯夫迷你人偶（立於船艏）、可重現全體船員的11尊迷你人偶、大小救生艇，以及船靈克拉巴（Klabautermann，附專用台座）。作為橫跨動畫史四分之一世紀的紀念商品，本品在細節與收藏企劃規模上均屬空前規格，是ONE PIECE系列收藏者用來紀念系列里程碑不可錯過的重點大型商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "¿ESPECTACULAR? Going Merry - 25th Anniversary Memorial Edition One Piece by Bandai Tamashii Nations", url: "https://www.youtube.com/watch?v=xz9nIQDOWNs", lang: "es" },
+      { title: "Going Merry 25th Anniversary Memorial Edition One Piece Bandai Chogokin UNBOXING RÁPIDO", url: "https://www.youtube.com/watch?v=v4MYMNG9G6M", lang: "es" },
+    ],
   },
   {
     id: "hg-alyzeus",
@@ -7397,7 +7408,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラ「RG 1/144 ガンダムアストレイ ゴールドフレーム天ミナ」開封・組立・レビュー", url: "https://www.youtube.com/watch?v=7gomjKSl-dw", lang: "ja" },
+      { title: "（凄いボリューム！）RG ガンダムアストレイ ゴールドフレーム天ミナ レビュー", url: "https://www.youtube.com/watch?v=f5v0hp2zluQ", lang: "ja" },
+    ],
   },
   {
     id: "rg-astray-gold-frame-amatsu-mina",
@@ -11401,6 +11415,8 @@ export const collection: CollectibleItem[] = [
         url: "https://www.tfw2005.com/boards/threads/unique-toys-utr-02-challenger-the-last-knight-optimus-prime-video-review.1160669/",
         lang: "en",
       },
+      { title: "Unique Toys UTR-02 Challenger (Transformers 3rd Party The Last Knight Optimus Prime) Review", url: "https://www.youtube.com/watch?v=XD3jaPjZu70", lang: "en" },
+      { title: "Unboxing Unique Toys UT-R02 Challenger Optimus Prime Transformers The Last Knight", url: "https://www.youtube.com/watch?v=Oeixb1ZEeU8", lang: "en" },
     ],
   },
   {
@@ -11615,7 +11631,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【百獣戦隊ガオレンジャー】大傑作！SMP 百獣合体 ガオナイト ヲタファの戦隊ミニプラ レビュー", url: "https://www.youtube.com/watch?v=fG3MR82Sv6o", lang: "ja" },
+      { title: "SMP「ガオナイト」戦隊ロボの変形合体レビュー スーパーミニプラ 食玩【プレバン限定】", url: "https://www.youtube.com/watch?v=FSnFaSky364", lang: "ja" },
+    ],
   },
   {
     id: "smp-gaohunter",
@@ -11719,7 +11738,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "#187:ミニプラ全界合体シリーズPBバトルシーザーロボ", url: "https://www.youtube.com/watch?v=qtxkWjOAE_8", lang: "ja" },
+      { title: "【Zenkaiger】mini-pla Battle Caesar Robo wotafa's model kit review", url: "https://www.youtube.com/watch?v=Zi1uQ5uewVQ", lang: "ja" },
+    ],
   },
   {
     id: "super-minipla-trider-g7",
@@ -12572,7 +12594,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【太陽戦隊サンバルカン】プレバン限定 スーパーミニプラ ビッグスケール ジャガーバルカン ヲタファのプラモデルレビュー", url: "https://www.youtube.com/watch?v=aNRryZnY3kk", lang: "ja" },
+      { title: "ギミック再現が楽しすぎる！【スーパーミニプラ】ジャガーバルカン/太陽戦隊サンバルカン 食玩レビュー", url: "https://www.youtube.com/watch?v=S3jrMEmIZR8", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-yf29-superparts-ozma",
@@ -12883,7 +12908,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Part.1【マクロスF】祝！再販！DX超合金 YF-29 デュランダルバルキリー (早乙女アルト機) ヲタファの変形レビュー", url: "https://www.youtube.com/watch?v=wcq-KJPQhPU", lang: "ja" },
+      { title: "【マクロス玩具レビュー】DX超合金 YF-29 デュランダル アルト機", url: "https://www.youtube.com/watch?v=uz9F0J4iFHQ", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-yf29-durandal-alto-super-parts",
@@ -14096,7 +14124,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ゆっくりレビュー】MG 1/100 真武者頑駄無 戦国の陣 黒衣大鎧", url: "https://www.youtube.com/watch?v=5OIkZRBVldc", lang: "ja" },
+      { title: "【MGガンプラ】昔欲しかった真武者頑駄無:戦国の陣が豪華すぎる！【フルプラ工場】", url: "https://www.youtube.com/watch?v=fkt-sz9b4hU", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-snowmiku-sweetsnow-2939",
