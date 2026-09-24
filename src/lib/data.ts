@@ -13429,7 +13429,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "Many Flaws, But I'm Keeping It! POP UP PARADE Albedo Dress Ver Review and Unboxing", url: "https://www.youtube.com/watch?v=8yR-3wxI0mw", lang: "en" },
+    ],
   },
   {
     id: "bearpanda-she-is-real-nafu",
@@ -31889,7 +31891,10 @@ export const collection: CollectibleItem[] = [
     tags: ["宝鐘マリン", "hololive", "POP UP PARADE", "Good Smile Company", "VTuber", ],
     description: "hololive人氣VTuber宝鐘マリン以海賊船長造型立體化，POP UP PARADE系列以親民價格、17~18cm易展示尺寸與快速出貨為訴求，重現マリン標誌性的船長帽與俏皮神情，是hololive粉絲入門收藏的熱門選擇。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【お値段以上♪】グッスマのお手軽ブランド-POP UP PARADE-宝鐘マリン開封！！", url: "https://www.youtube.com/watch?v=YGXsM0rPiF4", lang: "ja" },
+      { title: "AHOY！ POPUP PARADE 宝鐘マリン 開封", url: "https://www.youtube.com/watch?v=kl6Wo-4Pcw8", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-usada-pekora",
@@ -31908,7 +31913,10 @@ export const collection: CollectibleItem[] = [
     tags: ["兎田ぺこら", "hololive", "POP UP PARADE", "Good Smile Company", "VTuber", ],
     description: "hololive人氣VTuber兎田ぺこら以標誌性兔耳與招牌笑容立體化，POP UP PARADE系列一貫以親民價格與易展示尺寸為特色，忠實重現ぺこら活潑逗趣的形象，是兔田粉絲間人氣極高的入門款收藏。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "こんぺここんぺここんぺこー♪兎田ぺこら ポッパレフィギュア レビュー！POP UP PARADE", url: "https://www.youtube.com/watch?v=6_E7R_AqrNQ", lang: "ja" },
+      { title: "POP UP PARADE 兎田ぺこらをレビューする", url: "https://www.youtube.com/watch?v=8BF-BTCtGso", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-fujiwara-no-sai",
@@ -31984,7 +31992,9 @@ export const collection: CollectibleItem[] = [
     tags: ["ネコぱら", "ココナツ", "POP UP PARADE", "Good Smile Company", "貓娘", ],
     description: "《ネコぱら》甜點店「ラ・ソレイユ」制服造型的貓娘ココナツ以POP UP PARADE系列親民規格立體化，與同系列アズキ為搭配商品，是ネコぱら系列平價收藏中人氣頗高的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "POP UP PARADE ココナツ フィギュア", url: "https://www.youtube.com/watch?v=4I4kBqB6ozw", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-azuki",
@@ -32060,7 +32070,9 @@ export const collection: CollectibleItem[] = [
     tags: ["ネコぱら", "ショコラ", "POP UP PARADE", "Good Smile Company", "貓娘", ],
     description: "《ネコぱら》甜點店「ラ・ソレイユ」制服造型的貓娘ショコラ以POP UP PARADE系列親民規格立體化，標誌性捲曲雙馬尾與可愛神情是本作最大看點，與同系列バニラ為搭配商品，是系列中最早推出的平價款之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "No.１２ ネコミミ×メイド服×絶対領域＝神！【グッスマ POP UP PARADE ショコラ byネコぱら】フィギュアレビュー", url: "https://www.youtube.com/watch?v=ibgisvkDSTc", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-maple",
@@ -32098,7 +32110,10 @@ export const collection: CollectibleItem[] = [
     tags: ["星街すいせい", "hololive", "POP UP PARADE SP", "Good Smile Company", "VTuber", ],
     description: "「POP UP PARADE SP」是突破一般POP UP PARADE框架、細節與塗裝更加講究的高規格支線系列，本作以精細的細格紋塗裝重現星街すいせい制服造型的立體化魅力，是彗星粉絲間評價極高的一款進階版收藏。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "グッドスマイルカンパニー POP UP PARADE SP ホロライブ 星街すいせいノンスケールフィギュアレビュー動画", url: "https://www.youtube.com/watch?v=f_6tZ0YjU50", lang: "ja" },
+      { title: "ワンランクアップ？ポッパレSP【ホロライブ】グッスマ 星街すいせい ノンスケールフィギュア開封レビュー！", url: "https://www.youtube.com/watch?v=-C6KpUIJBDA", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-sakura-miko",
@@ -32117,7 +32132,9 @@ export const collection: CollectibleItem[] = [
     tags: ["さくらみこ", "hololive", "POP UP PARADE", "Good Smile Company", "VTuber", ],
     description: "hololive人氣VTuber、廢柴巫女偶像さくらみこ以POP UP PARADE系列親民規格立體化，取材自繪師おるだん插畫，捕捉みこち標誌性的可愛魅力，是hololive粉絲間人氣頗高的入門款收藏。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "グッスマ POP UP PARADE さくらみこ ノンスケールフィギュアレビュー動画", url: "https://www.youtube.com/watch?v=W6AHPv3-4f0", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-shirakami-flare",
@@ -32362,7 +32379,9 @@ export const collection: CollectibleItem[] = [
     tags: ["オーバーロード", "アルベド", "POP UP PARADE", "Good Smile Company"],
     description: "《オーバーロードIV》納薩力克樓層守護者統帥アルベド，以POP UP PARADE系列親民規格立體化，白色禮服搭配黑色羽翼呈現「純白慈悲之魔」的形象反差，全高約190mm。與另售的「POP UP PARADE SP アルベド 漆黒のドレスVer.」為不同配色版本的姊妹作，是喜愛アルベド角色魅力的收藏者常見的入門選擇。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "4K So Much Details! Pop Up Parade Albedo Unboxing and Review", url: "https://www.youtube.com/watch?v=0fEcmYTxnBg", lang: "en" },
+    ],
   },
   {
     id: "smp-tokkyuman-moss-sp",
@@ -33771,7 +33790,9 @@ export const collection: CollectibleItem[] = [
     tags: ["hololive", "ホロライブ", "figma", "Max Factory", "さくらみこ", "Vtuber"],
     description: "「hololive production」是覆蓋全球的知名Vtuber企劃，「さくらみこ」是隸屬hololive 0期生的巫女系Vtuber，以獨特高亢嗓音、爆笑失言與「35P」粉絲文化著稱，是hololive初期陣容中人氣居高不下的代表人物之一。「figma」是Max Factory旗下主打高可動關節的經典可動人偶品牌，本商品重現さくらみこ招牌巫女服造型，標配笑臉、閉眼「35」表情、生氣表情等多款替換臉件，並附麥克風、圍棋棋盤等趣味小道具，可重現角色直播間的經典橋段與招牌動作。人偶關節可動範圍廣，服裝與髮飾細節塗裝精緻，是hololive周邊收藏者與さくらみこ粉絲相當熱衷蒐集的一款代表性可動人偶。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[簡單開箱] figma-641 櫻巫女", url: "https://www.youtube.com/watch?v=0HfJMhzanbM", lang: "zh" },
+    ],
   },
   {
     id: "figma-hoshimachi-suisei",
@@ -33789,7 +33810,10 @@ export const collection: CollectibleItem[] = [
     tags: ["hololive", "ホロライブ", "figma", "Max Factory", "星街すいせい", "Vtuber"],
     description: "「星街すいせい」是隸屬hololive 3期生「アイドル部」出身的偶像系Vtuber，同時具備歌手身分正式出道，以歌唱實力與獨特毒舌吐槽風格深受粉絲喜愛，是hololive代表性人氣成員之一。「figma」是Max Factory旗下主打高可動關節的經典可動人偶品牌，本商品重現星街すいせい招牌格紋制服造型，搭配皇冠髮飾與招牌配色，標配歌唱表情、微笑表情、「黑化」瘋狂表情等多款替換臉件，並附麥克風、斧頭、蘋果汁等趣味小道具重現直播間經典橋段。人偶關節可動範圍廣，服裝與髮飾層次塗裝精緻，是hololive周邊收藏者與星街すいせい粉絲相當熱衷蒐集的一款代表性可動人偶。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ホロライブプロダクション figma 星街すいせい", url: "https://www.youtube.com/watch?v=8ZLpkiUXm9Y", lang: "ja" },
+      { title: "figma Hoshimachi Suisei - 星街すいせい", url: "https://www.youtube.com/watch?v=uwXN61udQTY", lang: "en" },
+    ],
   },
   {
     id: "dolls-frontline-ots14-ziyuxin",
@@ -34072,7 +34096,10 @@ export const collection: CollectibleItem[] = [
     tags: ["陰の実力者になりたくて", "The Eminence in Shadow", "POP UP PARADE", "GOOD SMILE COMPANY", "ベータ", "シャドウガーデン"],
     description: "《陰の実力者になりたくて！》是人氣異世界暗黑英雄輕小說改編動畫，「ベータ」是主角所率領秘密組織「シャドウガーデン」的七陰之一，銀灰色短髮搭配沉穩氣質，個性冷靜且擅長潛入偵查，是組織中人氣頗高的成員之一。「POP UP PARADE」是GOOD SMILE COMPANY旗下強調親民尺寸與高完成度雕刻的可動人偶品牌，此次推出全高約200mm的「L size」加大規格版本，忠實重現角色招牌黑金配色緊身戰鬥服與貓爪造型手套。人偶姿態展現角色冷豔幹練的一面，塗裝細節與服裝光澤質感表現皆維持該系列一貫高水準工藝，是陰の實力者周邊收藏者相當熱衷蒐集的一款代表性大尺寸作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ベータ L size 陰の実力者になりたくて！ POP UP PARADE", url: "https://www.youtube.com/watch?v=NAj2FsxozZM", lang: "ja" },
+      { title: "Alpha & Beta by Pop up Parade L - Figure unboxing", url: "https://www.youtube.com/watch?v=emHTSQetJmE", lang: "en" },
+    ],
   },
   {
     id: "popupparade-alpha-l",
@@ -34090,7 +34117,9 @@ export const collection: CollectibleItem[] = [
     tags: ["陰の実力者になりたくて", "The Eminence in Shadow", "POP UP PARADE", "GOOD SMILE COMPANY", "アルファ", "シャドウガーデン"],
     description: "《陰の実力者になりたくて！》是人氣異世界暗黑英雄輕小說改編動畫，「アルファ」是主角所率領秘密組織「シャドウガーデン」的首席「七陰」，精靈族出身，一頭亞麻色長髮與尖耳朵是招牌特徵，個性對主角忠心耿耿又帶有病嬌傾向，是組織中人氣最高的角色之一。「POP UP PARADE」是GOOD SMILE COMPANY旗下強調親民尺寸與高完成度雕刻的可動人偶品牌，此次推出全高約210mm的「L size」加大規格版本，忠實重現角色招牌黑金配色緊身戰鬥服。人偶姿態微微環抱身體，展現角色略帶嬌羞卻依舊幹練的獨特魅力，塗裝細節與髮絲層次表現精緻，是陰の實力者周邊收藏者相當熱衷蒐集的一款代表性大尺寸作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "Alpha & Beta by Pop up Parade L - Figure unboxing", url: "https://www.youtube.com/watch?v=emHTSQetJmE", lang: "en" },
+    ],
   },
   {
     id: "threezero-vf1s-roy-fokker",
@@ -35847,7 +35876,9 @@ export const collection: CollectibleItem[] = [
     tags: ["デート・ア・ライブ", "Date A Live", "POP UP PARADE", "GOOD SMILE COMPANY", "時崎狂三", "制服Ver"],
     description: "《デート・ア・ライブ》中，「時崎狂三」是擁有多重時間能力的精靈之一，招牌特徵是左眼化為時鐘錶盤造型。「POP UP PARADE」是GOOD SMILE COMPANY旗下強調親民尺寸與高完成度雕刻的可動人偶品牌，此次推出全高約200mm的「L size」加大規格版本，一改招牌哥德蘿莉風造型，改以角色就讀來禪高中的制服樣貌登場，飄逸雙馬尾隨動作展開，展現角色青春校園氣息的一面。原型製作由「まんぞくマモル」操刀，是Date A Live周邊收藏者相當熱衷蒐集的一款代表性大尺寸作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【POP UP PARADE Lサイズ】デートアライブ時崎狂三開封しながら駄弁る", url: "https://www.youtube.com/watch?v=Cve6kF4eWzk", lang: "ja" },
+    ],
   },
   {
     id: "popupparade-rikka-takarada-l",
@@ -35866,7 +35897,10 @@ export const collection: CollectibleItem[] = [
     tags: ["グリッドマン ユニバース", "Gridman Universe", "POP UP PARADE", "GOOD SMILE COMPANY", "宝多六花"],
     description: "《劇場版 グリッドマン ユニバース》中，「宝多六花」是女主角之一，招牌特徵是及肩黑髮搭配紅色蝴蝶結制服領結。「POP UP PARADE」是GOOD SMILE COMPANY旗下強調親民尺寸與高完成度雕刻的可動人偶品牌，此次推出全高約220mm的「L size」加大規格版本，重現角色劇場版中的制服造型，人偶姿態與表情雕刻精緻可愛，標配專用展示台座。是グリッドマン ユニバース周邊收藏者相當熱衷蒐集的一款代表性大尺寸作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【ふともも太いって】POP UP PARADE 劇場版グリッドマンユニバース 宝多立花 L size フィギュア 開封レビュー", url: "https://www.youtube.com/watch?v=rXf710O2xIc", lang: "ja" },
+      { title: "POP UP PARADE 劇場版 グリッドマン ユニバース 宝多六花 Lsize 完成品フィギュア", url: "https://www.youtube.com/watch?v=zhy16IRQjKs", lang: "ja" },
+    ],
   },
   {
     id: "hg-black-knight-squad-carla",
