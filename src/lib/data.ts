@@ -1271,6 +1271,7 @@ export const collection: CollectibleItem[] = [
         url: "https://www.youtube.com/watch?v=UVaIVYtK4AY",
         lang: "en",
       },
+      { title: "【マクロス玩具レビュー】まさかのコラボがカッコ良い！ DX超合金 VF-25 メサイアバルキリー トップガン マーヴェリックVer. ／ TOP GUM MAVERICK Ver.", url: "https://www.youtube.com/watch?v=jlxwUrp34R4", lang: "ja" },
     ],
   },
   {
@@ -38296,7 +38297,10 @@ export const collection: CollectibleItem[] = [
     tags: ["やはり俺の青春ラブコメはまちがっている。", "俺ガイル", "由比ヶ浜結衣", "Good Smile Company"],
     description: "《やはり俺の青春ラブコメはまちがっている。》由比ヶ浜結衣以輕小說插畫家ぽんかん⑧原畫為藍本推出的1/6比例塗裝完成品，全高約240mm，重現角色「溫暖中帶著一絲落寞」的神情，一改平時開朗直率的形象，制服外套與襯衫的柔軟質感刻畫細膩，是俺ガイル系列高規格比例模型代表作之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【展示】グッドスマイルカンパニー 俺ガイル 由比ヶ浜結衣 原作Ver. フィギュア", url: "https://www.youtube.com/watch?v=Iiazz-Vtmxw", lang: "ja" },
+      { title: "由比ヶ浜結衣 原作Ver. 1/6スケールフィギュア【俺ガイル 】", url: "https://www.youtube.com/watch?v=AVjEZWXZJpE", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-1466-yui-yuigahama",
@@ -39115,7 +39119,9 @@ export const collection: CollectibleItem[] = [
     tags: ["勇者王ガオガイガー", "レプリガイガー", "BRAVE合金", "CM's Corporation", "X0005@中壢收多易"],
     description: "《勇者王ガオガイガーFINAL》反派複製體「レプリガイガー」(2.0仕様)，為CM's Corporation「BRAVE合金」系列第24X彈、直販限定商品。劇中設定為敵方組織以「パスキューマシン」複製技術，仿造正義機體ガイガー所製造出的黑暗鏡像複製體，同系列另有スターガオガイガーVer.2可供比對配色差異。CM's Corporation已於2014年結束營業。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【白いギャレオン】BRAVE合金 24x レプリガイガー【本編見たらﾋｻﾞ白いじゃん！】", url: "https://www.youtube.com/watch?v=zrmdJJW1t0g", lang: "ja" },
+    ],
   },
   {
     id: "superminipla-biodragon",
@@ -39312,7 +39318,10 @@ export const collection: CollectibleItem[] = [
       { title: "MG ∀ガンダム／ターンＸ［ナノスキンイメージ］のパッケージ・ランナー レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E2%88%80%EF%BC%8F%E3%82%BF%E3%83%BC%E3%83%B3%EF%BD%98%EF%BC%BB%E3%83%8A%E3%83%8E%E3%82%B9%E3%82%AD%E3%83%B3%EF%BC%BD%E3%81%AE%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8", lang: "ja" },
       { title: "MG ターンＸ［ナノスキンイメージ］ レビュー", url: "https://gundamsblog.net/%E3%82%AC%E3%83%B3%E3%83%97%E3%83%A9/mg-%E3%82%BF%E3%83%BC%E3%83%B3%EF%BD%98%EF%BC%BB%E3%83%8A%E3%83%8E%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%EF%BC%BD", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【∀ガンダム】うおぉぉ！レアキットの1/100MGターンXを入手したぞ！機体説明も含めつつレビュー【フルプラ御大将】", url: "https://www.youtube.com/watch?v=tEZb_vB4pWI", lang: "ja" },
+      { title: "【ガンプラ】∀のお兄さん！ MG 1/100 ターンX [日本語字幕]", url: "https://www.youtube.com/watch?v=uQWUS3B8qDQ", lang: "ja" },
+    ],
   },
   {
     id: "popupparade-tohka-uniform-l",
