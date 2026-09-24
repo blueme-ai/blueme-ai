@@ -29464,7 +29464,9 @@ export const collection: CollectibleItem[] = [
       { title: "セイバー・リリィ -全て遠き理想郷(アヴァロン)- レビュー | TASTE", url: "https://taste-toy.info/post-177674/", lang: "ja" },
       { title: "【レビュー】 セイバー・リリィ ～全て遠き理想郷(アヴァロン)～ | フィギュア レビューサイト NT-Studio", url: "http://www.nt-studio.info/gallery/1309/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "WH32 GSC - Saber Lily - Distant Avalon - Huge Scale Ver.", url: "https://www.youtube.com/watch?v=iXZfE0teV5w", lang: "en" },
+    ],
   },
   {
     id: "gsc-saber-lily-caliburn",
@@ -30891,7 +30893,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Fate", "セイバー", "アルトリア・ペンドラゴン", "ALTER", "アルター", "1/6", "PVC完成品", "メイド"],
     description: "《Fate/hollow ataraxia》為《Fate/stay night》的後日談外傳作品，セイバー（アルトリア・ペンドラゴン）身為不列顛傳說中的「騎士王」，手持聖劍Excalibur、性格剛毅正直卻背負孤獨宿命，是Fate系列自初代作品以來最具代表性的招牌角色。本品為ALTER旗下「メイドVer. R」系列1/6完成品，與同系列黑化版「セイバーオルタ メイドVer.」為成對推出的姊妹作，以女僕裝造型呈現騎士王卸下鎧甲後的反差萌魅力。原型製作由倉本育馬（ミリメートルモデリング）操刀，全高約260mm，是セイバー角色商品化陣容中話題性十足的cosplay主題代表作，與黑化版本相互輝映、形成經典對照組合。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【ALTER】fate/hollow ataraxia セイバー メイドVer. R【1/6スケールフィギュア】レビュー", url: "https://www.youtube.com/watch?v=y3aKZd8dl0k", lang: "ja" },
+    ],
   },
   {
     id: "gfy-rx78f00-148",
@@ -31169,7 +31173,10 @@ export const collection: CollectibleItem[] = [
     tags: ["千値練", "Sentinel", "RIOBOT", "スーパーロボット大戦", "R-GUN", "OG", "変形合体", "ダイキャスト"],
     description: "《スーパーロボット大戦》系列的原創劇情線「OG（Original Generations）」以R小隊駕駛員與其座機為主軸，「R-GUN Powered」是支援機體「R-GUN」強化後的形態，可變形為巨型砲擊武器「メタルジェノサイダーモード」，全長可達約400mm，是R小隊戰鬥系統中火力支援的核心存在，亦可與「R-1」等機體合體組成最終決戰用機體「SRX」。本品為千値練「RIOBOT」系列推出的變形可動人偶，與同系列「RIOBOT SRX」及「R-1」共同構成完整的SRX合體陣容，採用ABS與壓鑄合金材質打造銳利細節，忠實重現機體複雜的變形機構與原畫配色，是RIOBOT系列補完OG世界觀機體收藏不可或缺的重點商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【こうでいいんじゃない？完全変形への道】R-GUNパワード 千値練 RIOBOT ヲタファのレビュー", url: "https://www.youtube.com/watch?v=xY4RkNIfhwM", lang: "ja" },
+      { title: "RIOBOT 変形合体 R-GUNパワード レビュー前編 スパロボOG 【千値練】", url: "https://www.youtube.com/watch?v=H661JS-fuqc", lang: "ja" },
+    ],
   },
   {
     id: "ichibankuji-sheryl-black-rabbit-dokidoki",
@@ -31598,7 +31605,10 @@ export const collection: CollectibleItem[] = [
     tags: ["艦隊これくしょん", "艦娘", "陸奥", "SPMフィギュア", "SEGA", "獎品景品"],
     description: "《艦隊これくしょん -艦これ-》人氣艦娘「陸奥」超級高級景品，以戰艦擬人化角色標誌性的和服風軍裝造型呈現，全高約23cm，細節雕刻與塗裝精緻，展現陸奥沉穩內斂又不失英氣的角色魅力，是艦これ系列景品中評價很高的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【みんな目からウロコだった】艦隊これくしょん-艦これ- スーパープレミアムフィギュア “長門”＆“陸奥”＆“艤装”【SEGA】", url: "https://www.youtube.com/watch?v=i3Y2-_hvhKk", lang: "ja" },
+      { title: "【開封レビュー】戦艦陸奥、出撃よ！艦隊これくしょん～艦これ～ スーパープレミアムフィギュア", url: "https://www.youtube.com/watch?v=ZkCrvJltmkQ", lang: "ja" },
+    ],
   },
   {
     id: "kancolle-mutsu-souzou-41cm",
@@ -31674,7 +31684,9 @@ export const collection: CollectibleItem[] = [
     tags: ["鋼彈", "Gunpla", "BB戰士", "機動戰士鋼彈 逆襲的夏亞", "薩克比"],
     description: "為紀念「GUNDAM SIDE-F」1週年推出的限定商品，以等身大νガンダム特別影像中登場的MSN-04FF薩克比為原型，SD化為BB戰士系列可動模型。新規開模的雙角力場產生器（ファンネル）可裝備於手臂、互相連結，或立於Action Base 5上展示，單眼可左右移動，武裝豐富，各部位關節可動範圍廣，為BB戰士No.382薩克比的塗裝改版並新增雙角力場產生器。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【ガンプラ】明太子美味しそう！BB戦士 MSN-04FF サザビー", url: "https://www.youtube.com/watch?v=F9b_M7Ag7Ao", lang: "ja" },
+    ],
   },
   {
     id: "dbz-grandista-son-gohan",
@@ -31831,7 +31843,10 @@ export const collection: CollectibleItem[] = [
     tags: ["SDガンダム武者頑駄無", "Gunpla", "BB戰士", "LEGENDBB", "THE GUNDAM BASE限定", "クリアカラー", "BOX0018"],
     description: "歷代最強大將軍「飛駆鳥大将軍」以透明成型色搭配增量銀色電鍍呈現的THE GUNDAM BASE限定版本，附有與父親設計相呼應的戰鬥面罩與銀色電鍍光鳳劍。頭盔、冠飾、鎧甲、羽翼、足甲與砲身等處金色電鍍搭配增量的銀色電鍍與透明零件，呈現比一般版更加華麗威嚴的視覺效果。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "（圧倒的かっこよさ！メッキ＆クリア多色の豪華仕様！）レジェンドBB 飛駆鳥大将軍 レビュー", url: "https://www.youtube.com/watch?v=3NFiwG_etGM", lang: "ja" },
+      { title: "【SDガンダム】LEGEND BB 飛駆鳥大将軍をレビュー！【七人の超将軍】", url: "https://www.youtube.com/watch?v=xp6eYtw-mxI", lang: "ja" },
+    ],
   },
   {
     id: "hg-gundam-aerial-permet6",
@@ -33315,7 +33330,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "おもちゃの巣（玩具レビュー）: HG ザクⅡ ユニクロカラー レビュー", url: "https://sumourobotto.livedoor.blog/archives/38743365.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【ユニクロ限定】ガンプラ HG 1/144 シャア専用ザクⅡ（ユニクロカラー）レビュー", url: "https://www.youtube.com/watch?v=LuB-Vb9sAvY", lang: "ja" },
+    ],
   },
   {
     id: "animester-lucia-crimson-abyss",
@@ -33440,7 +33457,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "HG MSオプションセット8＆SAUモビルワーカー レビュー", url: "http://schizophonic9.com/re4/hg_op8.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ガンプラ「HG 1/144 MSオプションセット8 ＆SAUモビルワーカー」#01組立/ 鉄血のオルフェンズ", url: "https://www.youtube.com/watch?v=US5kzRsD9AE", lang: "ja" },
+    ],
   },
   {
     id: "hg-ms-option-set-9",
@@ -34130,7 +34149,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "オプションパーツセット ガンプラ０５（ユニバースブースター プラフスキーパワーゲート） レビュー", url: "https://schizophonic9.com/re9/opset_universe.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "(ストライク達と合体！)オプションパーツセット ガンプラ 05 (ユニバースブースター プラフスキーパワーゲート) レビュー", url: "https://www.youtube.com/watch?v=ArAyH_G79TU", lang: "ja" },
+      { title: "HGBC 1/144 ユニバースブースタープラフスキーパワーゲート レビュー", url: "https://www.youtube.com/watch?v=GUKIrzGVSKs", lang: "ja" },
+    ],
   },
   {
     id: "play-arts-kai-2b-dx",
