@@ -26947,7 +26947,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "その着せ替え人形は恋をする（着せ恋） 喜多川海夢 黒江雫ver. T-most プライズ フィギュア レビュー", url: "https://dagangadoll.com/kisekoi-8/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【その着せ替え人形は恋をする】T-most 喜多川海夢 フィギュア～黒江雫ver.～開封レビュー！", url: "https://www.youtube.com/watch?v=4Sla_WBysdM", lang: "ja" },
+      { title: "【着せ恋】喜多川海夢の黒江雫Ver.なプライズフィギュアを開封してレビューしましょう。【T-most】", url: "https://www.youtube.com/watch?v=E8yK7X_wl58", lang: "ja" },
+    ],
   },
   {
     id: "taito-tmost-kitagawa-marin-liz",
@@ -27001,7 +27004,10 @@ export const collection: CollectibleItem[] = [
     tags: ["景品0001", "その着せ替え人形は恋をする", "着せ恋", "喜多川海夢", "黒江雫", "AMP＋", "TAITO", "景品"],
     description: "「AMP＋」品牌的黑江雫版海夢，以坐姿呈現角色慵懶而妖艷的氣質，黑色蕾絲洋裝與鎖鏈裝飾在小尺寸中依然保有豐富細節，是T-most大型台座版之外，適合搭配展示、價格親民的另一種收藏選擇。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【レビュー】ARTIST MASTERPIECE＋ 喜多川海夢 フィギュア ～黒江雫衣装 ver.～【着せ恋】", url: "https://www.youtube.com/watch?v=cUP_qhtlTMA", lang: "ja" },
+      { title: "【フィギュアレビュー】もはや市販品クオリティ！AMP＋ 喜多川海夢 フィギュア ～黒江雫 ver.～", url: "https://www.youtube.com/watch?v=TU8FLZbChAU", lang: "ja" },
+    ],
   },
   {
     id: "amp-plus-kitagawa-marin-kuroe-shizuku-costume",
@@ -27019,7 +27025,10 @@ export const collection: CollectibleItem[] = [
     tags: ["景品0001", "その着せ替え人形は恋をする", "着せ恋", "喜多川海夢", "黒江雫衣装", "AMP＋", "TAITO", "景品"],
     description: "本商品維持海夢本人的髮型與妝容，僅穿上「黒江雫衣装」——與黒江雫ver不同，此版本刻意保留海夢自身特徵、僅借用角色服裝進行二次創作式的Cosplay詮釋，呈現原作中「海夢式」黑江雫的獨特演繹角度，是系列中概念較為特殊的一款變體。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【新作プライズ】喜多川海夢フィギュア〜黒江雫衣装ver.〜AMP＋開封レビュー！", url: "https://www.youtube.com/watch?v=lw3ebdNgC_M", lang: "ja" },
+      { title: "【着せ恋】AMP＋ 喜多川海夢 フィギュア ～黒江雫 ver.～開封レビュー！", url: "https://www.youtube.com/watch?v=SgphRRSXQMk", lang: "ja" },
+    ],
   },
   {
     id: "ranma-shampoo-relaxtime",
@@ -27037,7 +27046,9 @@ export const collection: CollectibleItem[] = [
     tags: ["景品0001", "らんま1/2", "シャンプー", "Relax time", "Banpresto", "景品"],
     description: "《らんま1/2》是高橋留美子的經典格鬥戀愛喜劇，講述遭詛咒會因冷熱水變身男女的主角早乙女らんま，與未婚妻天道あかね及一群性格鮮明的追求者、對手間展開的爆笑生活。中國武術世家出身的美少女シャンプー是らんま的狂熱追求者之一，性格直率熱情、對愛情毫不掩飾。Banpresto「Relax time」系列以角色卸下日常裝束、放鬆自在的居家姿態立體化，本作呈現シャンプー穿著招牌紅色旗袍坐臥的慵懶模樣，是該系列少見以中華風角色詮釋「放鬆時刻」主題的作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[Ranma 1/2] -Relax time- Shampoo unboxing review!", url: "https://www.youtube.com/watch?v=Gax5Y1QdxcA", lang: "en" },
+    ],
   },
   {
     id: "kage-jitsuryokusha-relaxtime-alpha",
@@ -27775,7 +27786,9 @@ export const collection: CollectibleItem[] = [
     tags: ["この素晴らしい世界に祝福を", "このすば", "アクア", "KDcolle", "10周年"],
     description: "《この素晴らしい世界に祝福を！》（通稱「このすば」）講述宅男少年佐藤和真意外身亡後，帶著自封女神アクア一同轉生至異世界展開的爆笑冒險物語。アクア身為（自稱）水之女神，法力強大卻總是狀況外，是全系列最大笑點來源之一。本商品為原作小說10周年紀念版，以水舞般的躍動姿態立體化，飄逸藍色長髮與水流特效基座相互呼應，全高約180mm，是紀念系列中完成度極高的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【最新美少女フィギュアレビュー】『この素晴らしい世界に祝福を！』 アクア 原作版 10周年記念ver.", url: "https://www.youtube.com/watch?v=oEse2V9oLY8", lang: "ja" },
+    ],
   },
   {
     id: "kdcolle-konosuba-megumin-10th",
@@ -27991,7 +28004,9 @@ export const collection: CollectibleItem[] = [
     tags: ["景品0001", "機動戦士ガンダムSEED FREEDOM", "ラクス・クライン", "GLITTER&GLAMOURS", "Banpresto", "景品"],
     description: "ラクス・クライン是《機動戦士ガンダムSEED》系列中ZAFT議長之女，同時是傳說中的歌姬與自由號駕駛員的重要精神支柱。Banpresto「GLITTER&GLAMOURS」系列以劇場版《SEED FREEDOM》中身著白色駕駛服、手持頭盔的沉靜站姿重新詮釋角色，粉色長髮與駕駛服的流線剪裁搭配細膩紋理刻畫，全高約22cm，呈現角色柔美卻堅毅的核心特質。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【SEED FREEDOM】パイロットスーツ姿のラクス・クラインのプライズフィギュアを開封レビュー", url: "https://www.youtube.com/watch?v=Z1Q91Opi8V4", lang: "ja" },
+    ],
   },
   {
     id: "gundam-seed-freedom-lacus-clyne-racing",
@@ -28009,7 +28024,9 @@ export const collection: CollectibleItem[] = [
     tags: ["景品0001", "機動戦士ガンダムSEED FREEDOM", "ラクス・クライン", "GLITTER&GLAMOURS", "Banpresto", "景品"],
     description: "Banpresto「GLITTER&GLAMOURS」系列以賽車女郎造型重新詮釋ラクス・クライン，黑色皮革風上衣搭配短裙與白色外套，手持指揮旗的俏皮站姿展現角色平時罕見的活潑一面，全高約22cm，與Pilot suit ver.可並列展示，呈現角色文靜歌姬形象之外的反差魅力。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【プライズフィギュア】GLITTER&GLAMOURS-Lacus Clyne-Racing ver.【開封＆完成品チェック！】", url: "https://www.youtube.com/watch?v=VUTaiwMiquU", lang: "ja" },
+    ],
   },
   {
     id: "gundam-char-counterattack-quess-paraya",
@@ -28063,7 +28080,9 @@ export const collection: CollectibleItem[] = [
     tags: ["景品0001", "機動戦士ガンダムSEED FREEDOM", "ラクス・クライン", "GLITTER&GLAMOURS", "Banpresto", "景品"],
     description: "Banpresto「GLITTER&GLAMOURS」系列首波ラクス・クライン泳裝造型，白紫配色比基尼搭配沙灘球道具，展現角色柔美溫婉的沙灘假期一面，全高約22cm，與Pilot suit ver.、Racing ver.可並列展示，完整呈現GLITTER&GLAMOURS系列為此角色打造的多套主題造型。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "グリッターグラマラス ラクス クライン GLITTER&GLAMOURS-Lacus Clyne", url: "https://www.youtube.com/watch?v=8Z3tD-y-7zo", lang: "ja" },
+    ],
   },
   {
     id: "macross-f-figurizm-sheryl-toki-meikyu",
@@ -28237,7 +28256,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "ガンプラ「1/144 RX-78F00 HMT ガンダム高機動型」レビュー", url: "https://hobby.watch.impress.co.jp/docs/review/1430577.html", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "1/144 RX-78F00 HMTガンダム高機動型レビュー！", url: "https://www.youtube.com/watch?v=vW4H_xx73es", lang: "ja" },
+    ],
   },
   {
     id: "gunpla-rx78f00-gundam-gdock",
@@ -28257,7 +28278,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【ガンプラ】1/144 RX-78F00 ガンダム＆ガンダムドック レビュー", url: "https://gunplapocchi.com/gunpla-rx-78f00-gundam-g-dock/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "（ガンダムドックが付属！）1/144 RX-78F00 ガンダム＆ガンダムドック レビュー", url: "https://www.youtube.com/watch?v=8RY6x6hurq0", lang: "ja" },
+      { title: "【ガンプラ】横浜の動く実物大ガンダムがキット化！1/144 RX-78F00 ガンダム＆ガンダムドック レビュー", url: "https://www.youtube.com/watch?v=mYPy__ZUqT4", lang: "ja" },
+    ],
   },
   {
     id: "hg-beguir-pente",
@@ -28298,7 +28322,10 @@ export const collection: CollectibleItem[] = [
     tags: ["SDガンダム", "クロスシルエット", "SDCS", "Bandai", "GUNDAM FACTORY YOKOHAMA", "RX-78F00", "限定", "BOX0018"],
     description: "「GUNDAM FACTORY YOKOHAMA」以橫濱山下碼頭展示的全高18公尺「動く実物大ガンダム」為原型，推出多款不同規格的立體化商品，「RX-78F00 ガンダム」即是象徵此設施的原創機體。本商品為「SDガンダム クロスシルエット（SDCS）」系列作品，以Q版比例搭配內構骨架的可動設計，外裝零件全新開模重現橫濱高達的標誌性細節與塗裝分色，SDCS系列一貫強調「可動性」與「改造彈性」，玩家可另行購買其他SDCS骨架零件自由改換比例與姿勢。作為GUNDAM FACTORY YOKOHAMA限定販售商品，本作兼具Q版收藏的親和力與紀念性周邊的稀有度，是橫濱動く高達周邊收藏中價格親民的入門款代表作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "模型誌掲載レベルの作り込み！？SDガンダム『RX-78F00』", url: "https://www.youtube.com/watch?v=Cvi_w8asj-4", lang: "ja" },
+      { title: "賢哥的玩具分享175 SDガンダムクロスシルエット SDCS RX-78F00 ガンダム", url: "https://www.youtube.com/watch?v=DQBnVczk4Ik", lang: "zh" },
+    ],
   },
   {
     id: "sdcs-rx78-2-clear-color",
@@ -29885,7 +29912,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ユナ", "くまクマ熊ベアー", "FREEing", "黒クマ", "1/4"],
     description: "《くまクマ熊ベアー》講述遊戲少女優奈穿越異世界、靠著熊裝備四處冒險的異世界喜劇。本商品為FREEing「クマスーツVer.」黑熊系列首作，熊耳造型配件、略帶羞澀的表情與網紋絲襪細節皆是系列招牌工藝，由そんそーす操刀原型、谷本裕人負責塗裝，是該系列奠定人氣基礎的初代商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "FREEing B-Style ユナ クマスーツVer. 「くまクマ熊ベアー」", url: "https://www.youtube.com/watch?v=PYPOK4fFEpY", lang: "ja" },
+      { title: "【くまクマ熊ベアー】ユナ♡クマスーツ フィギュア 1/4", url: "https://www.youtube.com/watch?v=Y18SE2Ur_-8", lang: "ja" },
+    ],
   },
   {
     id: "popupparade-yuna-lsize",
@@ -30570,7 +30600,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "Figure-rise Standard", "Bandai Spirits", "境界戦機", "Kyoukai Senki", "紫々部シオン", "BOX0016"],
     description: "《境界戦機》是Bandai Spirits旗下原創機甲題材動畫作品，描繪近未來世界中各國以「アメイン」系列人形兵器展開領土衝突的戰爭故事。紫々部シオン是劇中駕駛メイレス系機體「メイレスレイキ」的女性駕駛員角色，個性活潑開朗，與機體搭載的AI輔助系統「I-LeS（イリス）ナユタ」形成有趣的搭檔互動。本商品為Figure-rise Standard系列角色模型作品，2021年12月18日發售，套件標配三種可替換表情零件（含印刷微笑臉、生氣臉與驚訝臉），並附招牌AI吉祥物「ナユタ」與多種手部零件，讓玩家能同時展示駕駛員與其搭乘機體メイレスレイキ組成的完整場景，是境界戦機系列角色鋼普拉中人氣頗高的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "（シオンがプラモデルに！）Figure-rise Standard 紫々部 シオン レビュー", url: "https://www.youtube.com/watch?v=bsJYztN5xb0", lang: "ja" },
+      { title: "【レビュー】「紫々部 シオン」のプラモって実際どうなの？ / Figure-rise Standard【シゲチャンネル】", url: "https://www.youtube.com/watch?v=GbB9bglVjb0", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-vf25s-messiah-ozma-ge43",
@@ -31831,7 +31864,9 @@ export const collection: CollectibleItem[] = [
     tags: ["仮面ライダーカブト", "特攝", "Figure-rise Standard", "組裝模型"],
     description: "2006年播出的平成假面騎士作品《仮面ライダーカブト》以Figure-rise Standard系列組裝模型呈現，胸部與肩甲部位重新開模，擴大胸部可動範圍，髖關節結構強化可重現Rider Kick與CLOCK UP等招牌姿勢。套件附Masked Form裝甲、カブトクナイガン、3種カブトゼクター、ゼクトメイザー、9種替換手部零件、Rider Kick特效零件與展示台座，可動性與細節重現度兼具。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "フィギュアライズスタンダード 仮面ライダーカブト 素組 レビュー", url: "https://www.youtube.com/watch?v=T-4PjffeI1g", lang: "ja" },
+    ],
   },
   {
     id: "ruling-type01-fullarmed-battlemachine",
@@ -31887,7 +31922,10 @@ export const collection: CollectibleItem[] = [
     tags: ["機動戦士ガンダムZZ", "Figure-rise Standard", "プルツー", "組裝模型", "BOX0018"],
     description: "「ガンダムヒロイン」企劃鋼普拉系列作品，將《機動戰士鋼彈ZZ》強化人角色普爾兔以駕駛服造型立體化。頭部可替換安全帽或裸頭髮型，並附替換表情零件，安全帽面罩可拆卸開放，胸部裝甲可呈現開襟與閉合兩種穿著狀態，是Figure-rise Standard系列中人氣頗高的女性角色作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "(バンダイ驚異のメカニズム！プルツーがプラモに！)Figure-rise Standard プルツー レビュー", url: "https://www.youtube.com/watch?v=qK_-drlP8Io", lang: "ja" },
+      { title: "感動レベルの完成度！フィギュアライズ、至極のプルツーキットを徹底レビュー！", url: "https://www.youtube.com/watch?v=buq9tLMjNvo", lang: "ja" },
+    ],
   },
   {
     id: "popup-parade-houshou-marine",
@@ -33688,7 +33726,9 @@ export const collection: CollectibleItem[] = [
     tags: ["らんま1/2", "GLITTER&GLAMOURS", "バンプレスト", "シャンプー", "景品フィギュア"],
     description: "《らんま1/2》是高橋留美子的經典少年漫畫改編動畫作品，「シャンプー」是中國武術世家出身的中國拳法少女，個性活潑主動、對主角早乙女乱馬展現熱烈追求，是作品中人氣居高不下的女主角之一。「GLITTER&GLAMOURS」是BANDAI SPIRITS（バンプレスト）旗下主打角色魅力展現的景品公仔品牌，本商品為シャンプー系列第二彈作品，2026年2月推出，一改首彈的旗袍造型，改以中式服裝外罩圍裙的可愛裝扮登場，左手並持有第二期新登場角色「ムース」的變身道具，呼應原作劇情發展。人偶姿勢動感十足，展現角色靈巧敏捷的武術少女形象，臉部表情與髮絲細節皆維持該品牌一貫的高水準塗裝工藝。作為景品公仔，本商品主要透過日本各地遊戲中心的UFO夾娃娃機或線上夾娃娃平台取得，是らんま1/2動畫周邊收藏者相當熱衷蒐集的一款話題新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【らんま1/2】GLITTER＆GLAMOURS-SHAMPOO-Ⅱ開封レビュー！", url: "https://www.youtube.com/watch?v=NBEc1RnHmec", lang: "ja" },
+    ],
   },
   {
     id: "onepiece-grandista-boa-hancock",
@@ -33744,7 +33784,9 @@ export const collection: CollectibleItem[] = [
     tags: ["らんま1/2", "Luminasta", "SEGA", "早乙女乱馬（女）", "景品フィギュア"],
     description: "《らんま1/2》是高橋留美子創作的經典武術愛情喜劇漫畫，主角「早乙女乱馬」是自幼隨父親四處修行武術的少年，因意外落入呪泉郷而背負遇冷水即變身女性的體質，展開一連串爆笑又熱血的武術對決與感情糾葛故事，是日本漫畫史上長銷不衰的代表作之一。本商品重現的正是乱馬遇冷水後變身的女性型態，一身招牌紅色中國拳法服搭配俐落反手拳架勢，粉色長髮隨動作飄逸，與同系列推出的「シャンプー」共用紅色中式庭院造型底座與雲朵裝飾，可並排展示呼應原作劇情裡兩人多次交手的橋段。人偶動態感十足，展現女乱馬好勝爭強、隨時準備應戰的性格特質，臉部表情與髮型細節皆忠實呈現原作漫畫的角色神韻。作為景品公仔，本商品主要透過日本各地遊戲中心UFO夾娃娃機或線上夾娃娃平台取得，是らんま1/2動畫周邊收藏者相當喜愛的一款代表性新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[Ranma 1/2] Luminasta \"Ranma\" & \"Shampoo\" unboxing", url: "https://www.youtube.com/watch?v=RtVvJhEYQvw", lang: "en" },
+    ],
   },
   {
     id: "ranma-luminasta-shampoo",
@@ -33762,7 +33804,9 @@ export const collection: CollectibleItem[] = [
     tags: ["らんま1/2", "Luminasta", "SEGA", "シャンプー", "景品フィギュア"],
     description: "《らんま1/2》中的「シャンプー」是中國武術世家出身的中國拳法少女，個性活潑直率、對主角早乙女乱馬展現熱烈追求，是作品中人氣居高不下的女主角之一，招牌中式旗袍造型與雙丸子頭髮型深植人心。「Luminasta」是SEGA旗下主打精緻立體展示台座造型的景品公仔品牌，本商品重現シャンプー招牌粉紅色旗袍搭配俏皮踢腿姿勢，背景同樣搭配紅色中式庭院造型底座與雲朵裝飾，與同系列「らんま」形成呼應成套的視覺風格。人偶姿態展現角色靈巧敏捷的武術身手與嬌俏可愛的性格魅力，塗裝細節與髮絲層次表現皆維持該系列一貫的高水準工藝。作為景品公仔，本商品主要透過日本各地遊戲中心UFO夾娃娃機或線上夾娃娃平台取得，是らんま1/2動畫周邊收藏者相當喜愛蒐集成套的一款代表性新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[Ranma 1/2] Luminasta \"Ranma\" & \"Shampoo\" unboxing", url: "https://www.youtube.com/watch?v=RtVvJhEYQvw", lang: "en" },
+    ],
   },
   {
     id: "frieren-grandista",
@@ -34258,7 +34302,10 @@ export const collection: CollectibleItem[] = [
     tags: ["推しの子", "Oshi no Ko", "T-most", "タイトー", "星野アイ", "景品フィギュア"],
     description: "《【推しの子】》是横槍メンゴ作畫、赤坂アカ原作的人氣演藝圈題材漫畫改編動畫，「星野アイ」是頂級偶像團體「B小町」的傳奇成員，同時也是雙胞胎主角愛與後見的母親，招牌特徵是雙馬尾髮型與招牌愛心手勢比讚姿態，是本作中人氣最高的角色之一。「T-most」是TAITO旗下最高階景品公仔品牌，本商品是該品牌第三彈作品，採該廠最大規格「1/6比例」全高約29公分，重現アイ經典的招牌比讚吐舌姿態與偶像舞台服裝細節。人偶存在感十足，臉部表情與雙馬尾髮絲層次塗裝皆維持T-most品牌一貫的頂級工藝水準，是【推しの子】周邊收藏者與アイ角色粉絲相當熱衷蒐集的一款代表性話題新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【推しの子】T-most アイ フィギュア開封レビュー！", url: "https://www.youtube.com/watch?v=FFuUcC7a1Po", lang: "ja" },
+      { title: "【推しの子】星野アイの T-mostプライズフィギュアが大ボリュームすぎた件【開封レビュー／タイトー】", url: "https://www.youtube.com/watch?v=f7_KL-_9LJ4", lang: "ja" },
+    ],
   },
   {
     id: "amp-plus-frieren-taito",
@@ -34279,7 +34326,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "「葬送のフリーレン」 フリーレン AMP＋ プライズ フィギュア レビュー", url: "https://dagangadoll.com/frieren-19/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【葬送のフリーレン】AMP＋ フリーレン フィギュア開封レビュー！", url: "https://www.youtube.com/watch?v=zVR2NQiFR1c", lang: "ja" },
+      { title: "【レビュー】AMP＋ フリーレン フィギュア【葬送のフリーレン】", url: "https://www.youtube.com/watch?v=QwdpERC1SWI", lang: "ja" },
+    ],
   },
   {
     id: "hg-huckebein-mk3",
@@ -36512,7 +36562,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Mighty Morphin Power Rangers", "Power Rangers", "Legacy", "BANDAI", "Megazord", "20th Anniversary"],
     description: "《Mighty Morphin Power Rangers》劇中五位戰士駕駛「暴龍」「乳齒象」「三角龍」「劍齒虎」「翼手龍」五台恐龍戰獸合體而成的主力機器人「Megazord」，是整個Power Rangers系列最具代表性的合體機甲圖騰。本商品為紀念系列20週年推出的「Legacy Collection」復刻規格，施以金屬塗裝並加入壓鑄合金零件提升質感與重量感，忠實重現90年代原版玩具的合體機構與配色，2013年首次推出、2015年5月再版，是美系特攝機甲收藏者相當熱衷蒐集的懷舊代表商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "Mighty Morphin Megazords Review (Hasbro - Megazord, Dragonzord, Tigerzord)", url: "https://www.youtube.com/watch?v=Rxuv4cFSByw", lang: "en" },
+    ],
   },
   {
     id: "pr-legacy-thunder-megazord",
@@ -36530,7 +36582,10 @@ export const collection: CollectibleItem[] = [
     tags: ["Mighty Morphin Power Rangers", "Power Rangers", "Legacy", "BANDAI", "Thunder Megazord", "White Ranger"],
     description: "《Mighty Morphin Power Rangers》劇中White Ranger所召喚的「Thunder Megazord」，由White Tigerzord等雷系戰獸合體而成，是白色戰士專屬的強化型主力機甲，可與「Legacy White Tigerzord」互相變化組合。本商品為系列20週年紀念「Legacy Collection」復刻規格，施以金屬塗裝並加入壓鑄合金零件，2016年2月發售，全高約13吋，是美系特攝機甲收藏線中規格最為豪華的重點商品之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "Legacy Thunder Megazord Review (Mighty Morphin Power Rangers)", url: "https://www.youtube.com/watch?v=5EF7WfsIn7A", lang: "en" },
+      { title: "Legacy Thunder Megazord Unboxing/Review [Mighty Morphin Power Rangers]", url: "https://www.youtube.com/watch?v=eA3F00tq1YE", lang: "en" },
+    ],
   },
   {
     id: "pr-legacy-ninja-megazord",
@@ -36548,7 +36603,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Mighty Morphin Power Rangers", "Power Rangers", "Legacy", "BANDAI", "Ninja Megazord"],
     description: "《Mighty Morphin Power Rangers》「忍者篇」中戰士們召喚的「Ninja Megazord」，由五隻忍者動物戰獸合體而成，可分解為個別戰獸並與Zord Builder系列其他商品自由組合出全新合體形態。本商品為系列20週年紀念「Legacy Collection」復刻規格，施以金屬塗裝並加入壓鑄合金零件，2016年11月1日發售，是美系特攝機甲收藏線中人氣居高不下的一款代表商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "Legacy Ninja Megazord Review! (Power Rangers/Kakuranger)", url: "https://www.youtube.com/watch?v=GexAmNceTNU", lang: "en" },
+    ],
   },
   {
     id: "pr-legacy-white-tigerzord",
@@ -36566,7 +36623,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Mighty Morphin Power Rangers", "Power Rangers", "Legacy", "BANDAI", "White Tigerzord", "White Ranger"],
     description: "《Mighty Morphin Power Rangers》劇中White Ranger的專屬戰獸「White Tigerzord」，可從白虎獸型形態變化為人形「Warrior Mode」戰士形態，並可進一步變化合體為「Thunder Megazord」。本商品為系列20週年紀念「Legacy Collection」復刻規格，施以金屬塗裝並加入壓鑄合金零件，2015年於Toys R Us通路發售，是White Ranger機體收藏陣容中不可或缺的一員。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "Mighty Morphin Megazords Review (Hasbro - Megazord, Dragonzord, Tigerzord)", url: "https://www.youtube.com/watch?v=Rxuv4cFSByw", lang: "en" },
+    ],
   },
   {
     id: "pr-legacy-dragonzord",
@@ -36585,7 +36644,9 @@ export const collection: CollectibleItem[] = [
     tags: ["Mighty Morphin Power Rangers", "Power Rangers", "Legacy", "BANDAI", "Dragonzord", "Green Ranger"],
     description: "《Mighty Morphin Power Rangers》劇中Green Ranger所召喚的巨大戰獸「Dragonzord」，以標誌性的長頸恐龍造型與胸前旋轉飛彈砲聞名，是初代綠色戰士最具代表性的座駕。本商品為系列20週年紀念「Legacy Collection」復刻規格，施以金屬塗裝並加入壓鑄合金零件，全高約11吋，2014年於Toys R Us通路發售，可與「Legacy Megazord」組合重現劇中經典聯合作戰場面。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "Power Rangers Legacy Dragonzord Review w/ 2010 Megazord and Titanus", url: "https://www.youtube.com/watch?v=TO_1wdHZqCw", lang: "en" },
+    ],
   },
   {
     id: "pr-legacy-titanus-black",
