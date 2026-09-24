@@ -2801,7 +2801,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "Bandai", "Zガンダム", "泰坦斯", "可變", "巨型MS"],
     description: "サイコガンダムMk-II是《機動戦士ΖガンダムΖΖ》系列中由地球聯邦軍泰坦斯部隊開發的強化型新人類專用巨大機動兵器，承襲初代サイコガンダム的量產強化構想，配備更強力的推進系統與武裝，是劇中極具壓迫感的巨型反派機體之一。本品為HG 1/144系列推出的可動完成品，全高約270mm，是系列中用來補完Ζガンダム主要機體陣容的最大型作品，可從標準戰鬥形態變形為「移動要塞形態（Mobile Fortress Mode）」，並附半毀損頭部零件重現劇中名場面。套件標配ACTION BASE 4與武裝展示台座，透過分件成型技術達成無需塗裝即可呈現複雜配色，是Ζガンダム系列收藏者用來完整呈現泰坦斯巨型兵器陣容不可或缺的重點商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【全部開封します！】HG 1/144 サイコ・ガンダムMk-II、MG 1/100 ガンダムヴィダール、SDW HEROES 3機合体 ジェネラル・フォートレス 【順次レビュー】ヲタファ", url: "https://www.youtube.com/watch?v=fpRaqsOelSQ", lang: "ja" },
+      { title: "傑作【完全変形を徹底解説!!】 HG 1/144 サイコガンダムMk-II 機動戦士Zガンダム ヲタファのガンプラレビュー", url: "https://www.youtube.com/watch?v=TkBHfTe1YZg", lang: "ja" },
+    ],
   },
   {
     id: "hg-destroy-gundam",
@@ -2821,7 +2824,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "Bandai", "SEED DESTINY", "O.M.N.I.強化軍", "可變", "巨型MS"],
     description: "デストロイガンダム是《機動戦士ガンダムSEED DESTINY》中由O.M.N.I.強化軍開發的巨大可變機動戦士，以壓倒性的火力與體積在劇中造成毀滅性破壞，是系列中最具代表性的「巨大MS破壞場面」之一。本品為HG 1/144系列推出的完成品，全高約390mm，是HG規格中數一數二的大型套件，可從標準人形形態變形為MA（機動兵器）形態，五指關節可動並能擺出多種手勢表情。套件並標配全長約260mm的大型光束特效零件，採用偏光成型技術，隨觀看角度呈現不同色彩變化，重現劇中光束兵器發射的震撼場面，是SEED DESTINY系列收藏者展示巨型MS破壞力不可或缺的重點商品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【新商品開封レビュー✨】全高約390mmのビッグスケール！「HG 1/144 デストロイガンダム」を開封レビュー✨", url: "https://www.youtube.com/watch?v=2wLFQma4FA8", lang: "ja" },
+      { title: "(バンダイ驚異のメカニズム！超でかい！大量のエフェクトや変形ギミックを再現)HG 1/144 デストロイガンダム レビュー", url: "https://www.youtube.com/watch?v=LTXJ4J1Wmmg", lang: "ja" },
+    ],
   },
   {
     id: "chogokin-going-merry-25th",
@@ -2860,7 +2866,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "Bandai", "閃光のハサウェイ", "キルケーの魔女", "巨型MS", "可變形"],
     description: "アリュゼウス是劇場版《機動戦士ガンダム 閃光のハサウェイ キルケーの魔女》中登場的超大型MS，組裝完成後全高約25cm，遠超一般HG規格約10cm的常規尺寸，展現壓倒性的存在感與威嚇力。本品採全新開模設計，可透過零件換裝重現劇中四種形態：MS形態、飛行形態、アリュゼウス半壊状態，以及內部搭載的量産型νガンダム分離形態，並標配對應各形態展示用的專用台座。套件在尺寸、分色、可動與變形機構等各面向均達到HG系列史上最高規格的還原度，是ハサウェイ系列劇場版新作機體立體化的重點商品，也是喜愛巨大MS與多形態變形設計收藏者不可錯過的話題新作。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "すぐ変形できねぇ！圧倒的ボリュームのHGアリュゼウス！【ガンプラレビュー】", url: "https://www.youtube.com/watch?v=-9jigG5adOU", lang: "ja" },
+      { title: "超巨大MS 飛行形態へ変形【HG 1/144 アリュゼウス 閃光のハサウェイ キルケーの魔女】外装ユニット装着を徹底解説 ヲタファのレビュー", url: "https://www.youtube.com/watch?v=kiAteBa03Nw", lang: "ja" },
+    ],
   },
   {
     id: "hg-xi-gundam-circe",
@@ -2879,7 +2888,10 @@ export const collection: CollectibleItem[] = [
     tags: ["ガンプラ", "HG", "Bandai", "閃光のハサウェイ", "キルケーの魔女", "可變形", "主角機"],
     description: "Ξガンダム（RX-105）是劇場版《機動戦士ガンダム 閃光のハサウェイ》主角ハサウェイ・ノア所駕駛的主力機體，具備MS形態與利用ミノフスキー・フライト・システム實現的飛行形態間自由變形能力，是宇宙世紀系列後期作品中極具代表性的主角機之一。本品為配合續篇劇場版《キルケーの魔女》推出的全新規格版本，追加可重現劇中高潮場景「ガンダムフェイス」的可替換頭部零件，以及全新設定的光束步槍槍管固定架、破損狀態盾牌零件等劇中場景專屬配件，讓玩家能忠實重現電影終盤的關鍵演出畫面。套件延續系列標誌性的雙形態變形機構與精細分色技術，是《ハサウェイ》系列劇場版收藏者不可錯過的主角機最新規格版本。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "違いはどこだよ！クスィーガンダム キルケーの魔女版【ガンプラレビュー】HG XI GUNDAM", url: "https://www.youtube.com/watch?v=ylu4hHQ5TEw", lang: "ja" },
+      { title: "【ダメージ表現を色分けで再現！？新規造形フェイス＆武装が付属！？】HG 1/144 Ξガンダム (閃光のハサウェイ キルケーの魔女) レビュー", url: "https://www.youtube.com/watch?v=gEVgfjln51c", lang: "ja" },
+    ],
   },
   {
     id: "mg-pmx003-the-o",
@@ -2901,7 +2913,10 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "MG 1/100 PMX-003 ジ・O 詳細レポート｜圧倒的ボリュームと完全再現の隠し腕ギミック！", url: "https://gunplareinfo.blog/mg-pmx003-the-o-review/", lang: "ja" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "【機動戦士Z ガンダム MG 1/100 ジ・O】レアキットを部分塗装で仕上げる！ヲタファのガンプラじっくりレビュー", url: "https://www.youtube.com/watch?v=7qpwair1_bc", lang: "ja" },
+      { title: "【MGジ・Oは本当にデカいHGなのか徹底検証】超入手困難！ MG 1/100 PMX-003 ジ・O 再販 HGUC と比較しながら製作、丁寧にレビュー", url: "https://www.youtube.com/watch?v=KMQbMS2WQ3o", lang: "ja" },
+    ],
   },
   {
     id: "mc-kshatriya-deluxe-set",
@@ -5583,7 +5598,9 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "ハイレゾリューションって、こんなにすごいの？アストレイノワールで衝撃受けまくり！！！", url: "https://www.youtube.com/watch?v=DlQoRAFqcyY", lang: "ja" },
+    ],
   },
   {
     id: "dlx-iron-man-mark3-battle-damaged",
@@ -11132,7 +11149,10 @@ export const collection: CollectibleItem[] = [
         lang: "ja",
       },
     ],
-    youtube: [],
+    youtube: [
+      { title: "『おもちゃの国アリス』 #2633 「DX超合金 VF-19 ADVANCEの紹介」", url: "https://www.youtube.com/watch?v=9iYVhBdADas", lang: "ja" },
+      { title: "『おもちゃの国アリス』 #244 「DX超合金 VF-19 ADVANCEの紹介」", url: "https://www.youtube.com/watch?v=6gIUVMoDbRA", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-vf25s-messiah-ozma-armored-parts-renewal",
@@ -38570,7 +38590,10 @@ export const collection: CollectibleItem[] = [
     tags: ["Re:ゼロから始める異世界生活", "リゼロ", "レム", "ねんどろいど", "Good Smile Company", "Nendoroid", "#663", "X0002@中壢收多易"],
     description: "《Re:ゼロから始める異世界生活》雙子女僕レム的ねんどろいど，重現角色對主角昴堅定不移的愛意與武鬥派女僕的俐落身手，是リゼロ角色商品化中人氣最高、討論度最熱烈的代表作之一。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "ねんどろいど Re:ゼロから始める異世界生活 レム 開封レビュー！", url: "https://www.youtube.com/watch?v=nnDUBvc6kro", lang: "ja" },
+      { title: "【ねんどろいど】Re:ゼロから始める異世界生活 レム 開封", url: "https://www.youtube.com/watch?v=KWjMUCL_j7I", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-kato-megumi-base",
@@ -38678,7 +38701,9 @@ export const collection: CollectibleItem[] = [
     tags: ["冴えない彼女の育てかた", "加藤恵", "ねんどろいど", "Good Smile Company", "Nendoroid", "#819", "X0002@中壢收多易"],
     description: "《冴えない彼女の育てかた》加藤恵初次登場「ヒロイン服」造型的ねんどろいど，重現她與主角相遇時的坡道經典場景服裝，隨附大小兩種貝雷帽，並可與另售基本款組合重現原作第7卷廣播劇場面的替換零件，是角色商品線中故事性最濃厚的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "冴えない彼女の育てかた Memorial【ねんどろいど加藤恵 ヒロイン服Ver.】フィギュア開封レビュー！グッドスマイルカンパニー figure review", url: "https://www.youtube.com/watch?v=ODs2Ia_2jyw", lang: "ja" },
+    ],
   },
   {
     id: "nendoroid-yunyun",
