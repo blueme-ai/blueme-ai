@@ -1827,7 +1827,10 @@ export const collection: CollectibleItem[] = [
     tags: ["マクロス", "マクロスΔ", "VF-31AX", "カイロスプラス", "ハヤテ", "再販", "DX超合金", "1/60", "Bandai", "可變形", "合金", "MACROSS0009"],
     description: "《劇場版Macross Δ：Passionate Walküre》主角Hayate Immelmann所駕駛的VF-31AX Kairos-Plus，是Δ系列技術層次最高的強化型機體之一。此為2023年6月24日發售的「劇場版」一般再販版本，取代最初2021年首賣即售罄的初回限定版，讓因缺貨而錯過首發的玩家得以補齊收藏；相較初回限定版，此再販版本不含限定版專屬的展示台座等加購配件，其餘機體規格與變形機構完全相同。延續DX CHOGOKIN系列標誌性金屬壓鑄骨架與Fighter、GERWALK、Battroid三型態完全變形機構，是Macross Δ劇場版機體收藏中較易入手取得的一般流通版本。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【マクロスΔ】DX超合金 初回限定版 VF-31AX カイロスプラス（ハヤテ・インメルマン機）劇場版マクロスΔ 絶対LIVE サンプルレビュー", url: "https://www.youtube.com/watch?v=-6_k1b8CBbo", lang: "ja" },
+      { title: "【マクロス玩具レビュー】注意点と戻し変形！ DX超合金 VF-31AX カイロスプラス（ハヤテ・インメルマン機）", url: "https://www.youtube.com/watch?v=Lxt-RXQVdDc", lang: "ja" },
+    ],
   },
   {
     id: "dx-chogokin-vf31s-siegfried-arad",
@@ -3295,7 +3298,10 @@ export const collection: CollectibleItem[] = [
     tags: ["FREEing", "B-Style", "閃乱カグラ", "雪泉", "Senran Kagura", "兔女郎", "1/4", "完成品フィギュア"],
     description: "《閃乱カグラ》系列是自2011年起發展的日本忍者主題動作遊戲，以「巨乳忍者少女」的角色魅力與破壞衣裝的戰鬥演出風格著稱，並衍生出多款遊戲、動畫與周邊作品，長年累積大量死忠粉絲。《シノビマスター 閃乱カグラ NEW LINK》為系列智慧型手機遊戲作品，延續系列一貫的角色魅力路線並持續推出新造型。雪泉為系列人氣角色之一，隸屬月影學園，個性溫柔沉穩卻身懷絕技，是玩家票選中常年名列前茅的看板角色。本品為FREEing旗下B-Style系列1/4大比例兔女郎手辦，兔女郎服裝為本次商品原創設計，加上大型緞帶與右手持絲質高帽的舞台風造型，展現與遊戲原作不同的嶄新魅力。下半身網紋褲襪部位延續B-Style系列一貫特色，以獨立零件呈現網狀紋理質感，比一般塗裝表現更為立體逼真，身高約385mm，是該系列眾多角色商品化陣容中相當受矚目的一款。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【フィギュア】閃乱カグラ 雪泉 バニーVer. 【フリーイング】", url: "https://www.youtube.com/watch?v=JTdTShi5tOo", lang: "ja" },
+      { title: "フィギュアレビュー #198 シノビマスター 閃乱カグラNewLink 雪泉 FREEing", url: "https://www.youtube.com/watch?v=GFHElzyIoSE", lang: "ja" },
+    ],
   },
   {
     id: "qsix-yumi-wedding2018",
@@ -33351,7 +33357,10 @@ export const collection: CollectibleItem[] = [
     tags: ["戦双パニッシュ", "Punishing Gray Raven", "AniMester", "Nuclear Gold Reconstruction", "包膠可動", "1/9"],
     description: "《戦双パニッシュ：グレイレイヴン》（Punishing: Gray Raven）是中國米哈遊旗下龍成網絡開發的科幻動作手機遊戲，以構造體少女對抗「腐蝕」的末日世界觀著稱，露西亞（Lucia）是遊戲中人氣居高不下的招牌角色之一，兼具率真開朗的個性與強悍的戰鬥能力。本商品「深紅之淵」（Crimson Abyss）是AniMester與Nuclear Gold Reconstruction廠牌聯名推出的1/9比例包膠可動人偶，全高約22公分，忠實重現角色原畫中深紅與黑色交織的暗黑風格戰鬥服裝，搭配銳利的雙持武裝造型，展現角色墮落與覺醒交織的複雜形象。套組配件豐富，附贈3對替換手型、2款替換髮型、2種替換表情臉件，以及雙刀、刀鞘與專用展示台座，可自由組合重現角色多種戰鬥姿態與神情變化。作為聯名限定商品，本作在發售後迅速成為稀有搶手貨，是《戦双パニッシュ》系列周邊收藏者與包膠可動人偶愛好者共同矚目的一款代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "【599】核金重構 - 战双帕弥什 露西亚·深红之渊 1/9 包胶可动手办", url: "https://www.youtube.com/watch?v=yihcjdATciI", lang: "zh" },
+      { title: "核金重构 露西亚·深红之渊 1/9包胶可动手办", url: "https://www.youtube.com/watch?v=AWcTIgYg8FU", lang: "zh" },
+    ],
   },
   {
     id: "hg-altron-gundam",
@@ -35441,7 +35450,9 @@ export const collection: CollectibleItem[] = [
     reviews: [
       { title: "【MOSHOW】可動沒有極限! 先祖效應 甲斐之虎 可動玩具開箱介紹", url: "https://www.toy-people.com/?p=69426", lang: "zh" },
     ],
-    youtube: [],
+    youtube: [
+      { title: "「爆玩具」1/72 MOSHOW 模壽 先祖效應 甲斐之虎 武田信玄 戰國合金", url: "https://www.youtube.com/watch?v=B-krp632lVs", lang: "zh" },
+    ],
   },
   {
     id: "moderoid-arhan-original",
@@ -35482,7 +35493,9 @@ export const collection: CollectibleItem[] = [
     tags: ["MOSHOW TOYS", "模壽", "Noble Class", "梵天丸", "伊達政宗", "先祖效應", "合金", "中國品牌"],
     description: "MOSHOW TOYS（模壽）「先祖效應 PROGENITOR EFFECT」系列中，「梵天丸」（MCT-J03）取材自日本戰國名將伊達政宗青年時期的幼名，以獨眼龍武將的招牌新月頭盔為造型主題。本商品為「進階型」升級版本，機體長度約31公分，採ABS、POM、PVC與金屬合金等多種材質構成，關節可動範圍廣泛便於擺出多樣戰鬥姿態，標配豐富武裝配件與金屬展示台座。是「先祖效應」系列與日本戰國題材機甲愛好者相當熱衷蒐集的一款進階規格代表作品。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "[Unboxing開封] 梵天丸 卓越級｜MOSHOW TOYS模壽｜MCT-J03｜伊达政宗", url: "https://www.youtube.com/watch?v=xvGMWBwhSOA", lang: "zh" },
+    ],
   },
   {
     id: "megurine-luka-tony-ver",
