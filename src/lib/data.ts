@@ -2855,8 +2855,8 @@ export const collection: CollectibleItem[] = [
     description: "「ゴーイングメリー号」是《ONE PIECE》草帽海賊團初代船艦，以擬人化的羊首船艏與溫暖木質色調深植人心，是海賊團夥伴羈絆與冒險起點的重要象徵，其結局的告別場景更是系列粉絲心中最催淚的經典橋段之一。本商品為紀念TV動畫放送25週年推出的「超合金」規格立體化作品，全高約280mm，標配可重現船體損毀狀態的替換零件組、印有25週年紀念插畫的特別版帆布零件、可播放日版首代主題曲「We Are!」（TV Size）的專用台座、新雕刻魯夫迷你人偶（立於船艏）、可重現全體船員的11尊迷你人偶、大小救生艇，以及船靈克拉巴（Klabautermann，附專用台座）。作為橫跨動畫史四分之一世紀的紀念商品，本品在細節與收藏企劃規模上均屬空前規格，是ONE PIECE系列收藏者用來紀念系列里程碑不可錯過的重點大型商品。",
     reviews: [],
     youtube: [
-      { title: "¿ESPECTACULAR? Going Merry - 25th Anniversary Memorial Edition One Piece by Bandai Tamashii Nations", url: "https://www.youtube.com/watch?v=xz9nIQDOWNs", lang: "es" },
-      { title: "Going Merry 25th Anniversary Memorial Edition One Piece Bandai Chogokin UNBOXING RÁPIDO", url: "https://www.youtube.com/watch?v=v4MYMNG9G6M", lang: "es" },
+      { title: "¿ESPECTACULAR? Going Merry - 25th Anniversary Memorial Edition One Piece by Bandai Tamashii Nations", url: "https://www.youtube.com/watch?v=xz9nIQDOWNs", lang: "en" },
+      { title: "Going Merry 25th Anniversary Memorial Edition One Piece Bandai Chogokin UNBOXING RÁPIDO", url: "https://www.youtube.com/watch?v=v4MYMNG9G6M", lang: "en" },
     ],
   },
   {
