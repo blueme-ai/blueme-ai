@@ -40158,4 +40158,28 @@ export const collection: CollectibleItem[] = [
       { title: "【価格破壊×置き場所破壊】TRON MODELマジンカイザー 合金フレームプラキットをレビュー！/MAZINKAISER/マジンガーZ/MAZINGER Z/プラモデル【異常コスパ】", url: "https://www.youtube.com/watch?v=42iSxnfe4U8", lang: "ja" },
     ],
   },
+  {
+    id: "legendbb-musha-godmaru-final-battle",
+    addedAt: "2026-09-25",
+    name: "BB戦士 LEGENDBB 武者號斗丸（最終決戦Ver.）",
+    nameJa: "BB戦士 LEGENDBB 武者號斗丸（最終決戦Ver.）",
+    series: "SDガンダム外伝 新SD戦国伝",
+    character: "武者號斗丸",
+    manufacturer: "BANDAI SPIRITS",
+    scale: "SD",
+    price: "¥2,200（含稅）",
+    releaseDate: "2014年1月",
+    officialUrl: "https://bandai-hobby.net/item/01_3903/",
+    imageUrl: "/images/legendbb-musha-godmaru-final.jpg",
+    tags: ["SDガンダム", "BB戦士", "LEGEND BB", "新SD戦国伝", "武者號斗丸", "Bandai", "P-Bandai限定"],
+    description: "「武者號斗丸」是《新SD戰國傳》系列的主角機體，LEGEND BB 系列以「最終決戰Ver.」重現其最終決戰時的形態。套件為 Premium Bandai 限定販售，大量使用金、銀電鍍零件與全新造型，頭盔金飾、胸甲與寶玉呈現豪華質感，並附電鍍劍身。可組裝出輕裝型態、武者號斗丸基本型態與「爆熱の陣」等多種形態，是 LEGEND BB 系列中兼具可玩性與收藏價值的代表作。",
+    reviews: [
+      { title: "LEGEND BB 武者號斗丸(最終決戦Ver.) - 多々買いは数だよ兄者", url: "https://aurum08.hatenablog.com/entry/20140126/1390701184", lang: "ja" },
+      { title: "【レジェンドBB】武者號斗丸（ゴッド丸） レビュー【BB戦士】", url: "https://gunplapocchi.com/musha-godmaru/", lang: "ja" },
+    ],
+    youtube: [
+      { title: "各種形態再現な上、金メッキで非常に豪華！LEGENDBB武者號斗丸(最終決戦Ver.) レビュー", url: "https://www.youtube.com/watch?v=kP1L1feGJ5k", lang: "ja" },
+      { title: "【新SD戦国伝】超豪華仕様の決定版！LEGEND BB 武者號斗丸(最終決戦Ver)をレビュー！【超機動大将軍】", url: "https://www.youtube.com/watch?v=pnonpUIIqjY", lang: "ja" },
+    ],
+  },
 ]
