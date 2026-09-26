@@ -40216,7 +40216,10 @@ export const collection: CollectibleItem[] = [
     tags: ["エヴァンゲリオン", "BEYBLADE X", "ベイブレードX", "TAKARA TOMY", "EVANGELION 30th Anniv."],
     description: "《福音戰士》30 週年聯名的 BEYBLADE X 套組，以零號機（EVAARC BO-70E，橘）、初號機（EVABRAVE A1-70V，紫）與 2 號機（EVABRUSH T2-70A，紅）為意象，附特別印刷長型發射握把 2 個與「EVA HANGAR」造型陀螺收納盒。為 Takara Tomy Mall、EVANGELION STORE 限定的受注生產商品，遊玩需另購 BEYBLADE X 專用競技場。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      { title: "數據全公開!! 泛用人型決戰陀螺!零件大埔包!「CX-00福音戰士聯名套組!!」阿土 戰鬥陀螺 爆裂世代 BEYBLADE X", url: "https://www.youtube.com/watch?v=VGhRXpusPCo", lang: "zh" },
+      { title: "EVA聯名系列陀螺新品開箱！內含賽場超實用零件 精美收藏品 福音戰士主題戰鬥陀螺｜DanChi支線任務 Feat. namaste 阿土", url: "https://www.youtube.com/watch?v=IjL5dXo8f1c", lang: "zh" },
+    ],
   },
   {
     id: "overlord-ainz-ooal-gown-figure-banpresto",
