@@ -8,6 +8,7 @@ export type CatalogEntry = {
   no: number
   name: string
   series: string
+  work: string
   maker: string
   scale: string
   price: string
@@ -48,6 +49,11 @@ export function makerGroup(manufacturer: string) {
   return base
 }
 
+// Series label for tight spaces: drop the bracketed English/alt titles.
+export function shortSeries(series: string) {
+  return series.replace(/\s*[（(][^）)]*[）)]\s*/g, " ").trim() || series
+}
+
 export function releaseYear(releaseDate: string) {
   return releaseDate.match(/(19|20)\d{2}/)?.[0] ?? "—"
 }
@@ -63,6 +69,7 @@ export function buildCatalog(collection: CollectibleItem[]): CatalogEntry[] {
     no: idx + 1,
     name: item.name,
     series: item.series,
+    work: shortSeries(item.series),
     maker: makerGroup(item.manufacturer),
     scale: item.scale,
     price: item.price,

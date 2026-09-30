@@ -44,7 +44,7 @@ export default function Controls({ searchRef, ...p }: Props) {
           <h2 className="mt-4 text-[clamp(44px,7.4vw,132px)] leading-[0.88] tracking-[-0.05em] font-medium">
             Every object,
             <br />
-            <em className="font-serif font-normal italic tracking-[-0.02em]">numbered.</em>
+            <em className="font-serif font-normal italic tracking-[-0.02em]">catalogued.</em>
           </h2>
         </div>
         <p className="sm:col-span-5 sm:justify-self-end text-right">

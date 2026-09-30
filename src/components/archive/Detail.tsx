@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { CollectibleItem, ReviewLink } from "@/lib/data"
-import { formatNo, type CatalogEntry } from "@/lib/catalog"
+import type { CatalogEntry } from "@/lib/catalog"
 import { isBoxTag } from "@/lib/tags"
 import { fadeRef } from "@/lib/imgFade"
 import BoxBadge from "./BoxBadge"
@@ -97,12 +97,6 @@ export default function Detail({
       <div ref={scrollRef} className="h-full overflow-y-auto lg:overflow-hidden lg:grid lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]">
         {/* Stage */}
         <div className="relative bg-tile h-[62svh] lg:h-full overflow-hidden">
-          <span
-            aria-hidden
-            className="absolute -left-[0.06em] -bottom-[0.2em] font-medium tracking-[-0.07em] leading-none text-[clamp(120px,24vw,420px)] text-ink/[0.05] select-none tabular-nums"
-          >
-            {formatNo(entry.no)}
-          </span>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             key={`full-${entry.id}`}
@@ -123,8 +117,7 @@ export default function Detail({
             className="detail-thumb blend absolute inset-0 m-auto w-[82%] h-[78%] object-contain transition-opacity duration-500"
           />
           <div className="absolute inset-x-0 top-0 gutter h-14 flex items-center justify-between mono-label">
-            <span className="flex items-center gap-3">
-              No.{formatNo(entry.no)}
+            <span className="flex items-center gap-3 min-w-0">
               {entry.box && <BoxBadge box={entry.box} />}
             </span>
             <button onClick={close} className="lg:hidden grid place-items-center size-9 rounded-full bg-ink text-paper" aria-label="Close">

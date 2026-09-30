@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useRef, useState } from "react"
-import { formatNo, type CatalogEntry } from "@/lib/catalog"
+import type { CatalogEntry } from "@/lib/catalog"
 import { shortPrice } from "./Grid"
 import BoxBadge from "./BoxBadge"
 
@@ -39,8 +39,7 @@ export default function IndexList({ items, onOpen }: { items: CatalogEntry[]; on
 
   return (
     <div className="gutter" onPointerLeave={() => setHover(null)}>
-      <div className="hidden md:grid grid-cols-[72px_minmax(0,5fr)_minmax(0,3fr)_minmax(0,2fr)_64px_110px] gap-6 py-3 mono-label text-mute border-b border-ink">
-        <span>No.</span>
+      <div className="hidden md:grid grid-cols-[minmax(0,5fr)_minmax(0,3fr)_minmax(0,2fr)_64px_110px] gap-6 py-3 mono-label text-mute border-b border-ink">
         <span>Object</span>
         <span>Series</span>
         <span>Maker</span>
@@ -55,13 +54,10 @@ export default function IndexList({ items, onOpen }: { items: CatalogEntry[]; on
               onClick={() => onOpen(item.id)}
               onPointerEnter={() => setHover(item)}
               onFocus={() => setHover(item)}
-              className="group relative w-full text-left grid grid-cols-[52px_minmax(0,1fr)_auto] md:grid-cols-[72px_minmax(0,5fr)_minmax(0,3fr)_minmax(0,2fr)_64px_110px] gap-x-4 md:gap-6 items-baseline py-4 border-b border-line"
+              className="group relative w-full text-left grid grid-cols-[minmax(0,1fr)_auto] md:grid-cols-[minmax(0,5fr)_minmax(0,3fr)_minmax(0,2fr)_64px_110px] gap-x-4 md:gap-6 items-baseline py-4 border-b border-line"
               data-cursor="Open"
             >
               <span className="absolute inset-0 bg-ink origin-bottom scale-y-0 group-hover:scale-y-100 transition-transform duration-500 ease-[var(--ease-out)]" />
-              <span className="relative font-mono text-[12px] text-mute group-hover:text-paper/60 tabular-nums transition-colors">
-                {formatNo(item.no)}
-              </span>
               <span className="relative min-w-0">
                 <span className="flex items-center gap-2 min-w-0 transition-transform duration-500 group-hover:translate-x-2">
                   <span className="text-[15px] md:text-[17px] tracking-[-0.015em] font-medium truncate group-hover:text-paper transition-colors">
@@ -71,7 +67,7 @@ export default function IndexList({ items, onOpen }: { items: CatalogEntry[]; on
                 </span>
                 <span className="md:hidden flex items-center gap-2 min-w-0 mt-0.5">
                   {item.box && <BoxBadge box={item.box} className="shrink-0" />}
-                  <span className="text-[12px] text-mute truncate group-hover:text-paper/60">{item.series}</span>
+                  <span className="text-[12px] text-mute truncate group-hover:text-paper/60">{item.work}</span>
                 </span>
               </span>
               <span className="relative hidden md:block text-[13px] text-mute truncate group-hover:text-paper/70 transition-colors">
