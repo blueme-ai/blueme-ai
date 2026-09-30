@@ -5,7 +5,7 @@ description: "Add one or more collectibles (Gunpla, figures, Nendoroid/figma, su
 
 # add-item
 
-Adds collectibles to `/Users/chengsiyang/Projects/blueme-ai/src/lib/data.ts` (the `collection: CollectibleItem[]` array) and deploys the change. This repo auto-deploys to https://blueme-ai.vercel.app on every push to `main` via Vercel's GitHub integration — a plain `git push` is the deploy step, nothing else is needed.
+Adds collectibles to `/Users/chengsiyang/Projects/blueme-ai/src/lib/data.ts` (the `collection: CollectibleItem[]` array) and deploys the change. This repo auto-deploys to https://blueme-ai.vercel.app on every push to `main` via Vercel's GitHub integration — a plain `git push` is the deploy step (if it doesn't trigger, run `npx vercel --prod --yes`). After the production deploy, always run `scripts/sync-preview.sh` to merge main into the `redesign` preview branch and redeploy https://blueme-ai-redesign.vercel.app.
 
 ## Standard flow (always in this order)
 

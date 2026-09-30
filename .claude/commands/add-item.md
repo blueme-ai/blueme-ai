@@ -107,6 +107,7 @@
 ## 部署
 - 新增完成後 `git add` + `git commit` + `git push`
 - **Vercel 不一定會從 GitHub push 自動觸發**（視環境而定）——push 後如果 Vercel 沒有自動部署，執行：`npx vercel --prod --yes`
+- **正式站部署完成後，接著執行 `scripts/sync-preview.sh`**：把 main 的新資料合併到 `redesign`（新版樣板）分支並重新部署預覽站 https://blueme-ai-redesign.vercel.app ，讓兩邊保持同步。若回報 merge conflict，手動解決後再跑一次。（新版樣板正式上線、`redesign` 分支合併刪除後，此步驟會自動略過）
 - **部署完成後，用 Telegram 傳訊息給用戶，內容包含異動說明和網址 https://blueme-ai.vercel.app**
 
 ## ⚠️ 系列（`series`）正確性確認
