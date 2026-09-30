@@ -5,6 +5,7 @@ import type { CollectibleItem, ReviewLink } from "@/lib/data"
 import { formatNo, type CatalogEntry } from "@/lib/catalog"
 import { isBoxTag } from "@/lib/tags"
 import { fadeRef } from "@/lib/imgFade"
+import BoxBadge from "./BoxBadge"
 
 type SecondhandData = {
   yahoo: { price: string; url: string } | null
@@ -122,9 +123,9 @@ export default function Detail({
             className="detail-thumb blend absolute inset-0 m-auto w-[82%] h-[78%] object-contain transition-opacity duration-500"
           />
           <div className="absolute inset-x-0 top-0 gutter h-14 flex items-center justify-between mono-label">
-            <span>
+            <span className="flex items-center gap-3">
               No.{formatNo(entry.no)}
-              {entry.box && <span className="ml-3 text-amber">{entry.box}</span>}
+              {entry.box && <BoxBadge box={entry.box} />}
             </span>
             <button onClick={close} className="lg:hidden grid place-items-center size-9 rounded-full bg-ink text-paper" aria-label="Close">
               ✕

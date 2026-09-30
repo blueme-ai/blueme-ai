@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react"
 import { formatNo, type CatalogEntry } from "@/lib/catalog"
 import { fadeRef } from "@/lib/imgFade"
+import BoxBadge from "./BoxBadge"
 import type { Stats } from "./Archive"
 
 function useCountUp(target: number, delay = 0, duration = 1800) {
@@ -119,6 +120,7 @@ function Shelf({ picks, onOpen }: { picks: CatalogEntry[]; onOpen: (id: string, 
               className="blend absolute inset-0 m-auto w-[82%] h-[76%] object-contain group-hover:scale-[1.06]"
             />
             <span className="absolute left-3 top-3 mono-label text-mute">No.{formatNo(p.no)}</span>
+            {p.box && <BoxBadge box={p.box} className="absolute right-3 top-3" />}
             <span className="absolute left-3 right-3 bottom-3 text-[12px] leading-snug line-clamp-1 opacity-0 translate-y-1 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500">
               {p.name}
             </span>

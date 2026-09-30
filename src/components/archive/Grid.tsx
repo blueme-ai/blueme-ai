@@ -3,6 +3,7 @@
 import { memo } from "react"
 import { formatNo, type CatalogEntry } from "@/lib/catalog"
 import { fadeRef } from "@/lib/imgFade"
+import BoxBadge from "./BoxBadge"
 
 type OpenFn = (id: string, from?: HTMLElement | null) => void
 
@@ -38,10 +39,8 @@ const Card = memo(function Card({ item, index, onOpen }: { item: CatalogEntry; i
             decoding="async"
             className="blend absolute inset-0 m-auto w-[80%] h-[80%] object-contain group-hover:scale-[1.05]"
           />
-          <span className="absolute left-3 top-3 mono-label text-mute">No.{formatNo(item.no)}</span>
-          {item.box && (
-            <span className="absolute right-3 top-3 mono-label text-amber">{item.box}</span>
-          )}
+          <span className="absolute left-2.5 top-2.5 sm:left-3 sm:top-3 mono-label text-mute">No.{formatNo(item.no)}</span>
+          {item.box && <BoxBadge box={item.box} className="absolute left-2 bottom-2 sm:left-3 sm:bottom-3 shadow-sm" />}
           <span className="absolute right-3 bottom-3 grid place-items-center size-8 rounded-full bg-ink text-paper text-sm scale-0 group-hover:scale-100 transition-transform duration-500 ease-[var(--ease-out)]">
             ↗
           </span>

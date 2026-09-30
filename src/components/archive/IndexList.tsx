@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react"
 import { formatNo, type CatalogEntry } from "@/lib/catalog"
 import { shortPrice } from "./Grid"
+import BoxBadge from "./BoxBadge"
 
 type OpenFn = (id: string, from?: HTMLElement | null) => void
 
@@ -62,11 +63,15 @@ export default function IndexList({ items, onOpen }: { items: CatalogEntry[]; on
                 {formatNo(item.no)}
               </span>
               <span className="relative min-w-0">
-                <span className="block text-[15px] md:text-[17px] tracking-[-0.015em] font-medium truncate group-hover:text-paper transition-[color,transform] duration-500 group-hover:translate-x-2">
-                  {item.name}
+                <span className="flex items-center gap-2 min-w-0 transition-transform duration-500 group-hover:translate-x-2">
+                  <span className="text-[15px] md:text-[17px] tracking-[-0.015em] font-medium truncate group-hover:text-paper transition-colors">
+                    {item.name}
+                  </span>
+                  {item.box && <BoxBadge box={item.box} className="shrink-0 hidden md:inline-flex" />}
                 </span>
-                <span className="md:hidden block text-[12px] text-mute truncate group-hover:text-paper/60">
-                  {item.series}
+                <span className="md:hidden flex items-center gap-2 min-w-0 mt-0.5">
+                  {item.box && <BoxBadge box={item.box} className="shrink-0" />}
+                  <span className="text-[12px] text-mute truncate group-hover:text-paper/60">{item.series}</span>
                 </span>
               </span>
               <span className="relative hidden md:block text-[13px] text-mute truncate group-hover:text-paper/70 transition-colors">
