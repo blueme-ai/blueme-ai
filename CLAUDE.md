@@ -54,6 +54,7 @@ git pull
 → npx tsc --noEmit（必須通過）
 → git add + git commit + git push
 → npx vercel --prod --yes（若 Vercel 未自動觸發）
+→ scripts/sync-preview.sh（同步新版樣板預覽站 redesign 分支）
 → Telegram reply 通知用戶，附網址 https://blueme-ai.vercel.app
 ```
 
