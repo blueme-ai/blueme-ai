@@ -37,11 +37,13 @@ const Card = memo(function Card({ item, index, onOpen }: { item: CatalogEntry; i
             alt={item.name}
             loading={index < 8 ? "eager" : "lazy"}
             decoding="async"
-            className="blend absolute inset-0 m-auto w-[80%] h-[80%] object-contain group-hover:scale-[1.05]"
+            className="blend absolute inset-0 m-auto w-[76%] h-[76%] sm:w-[80%] sm:h-[80%] object-contain group-hover:scale-[1.05]"
           />
-          <span className="absolute left-2.5 top-2.5 sm:left-3 sm:top-3 mono-label text-mute">No.{formatNo(item.no)}</span>
-          {item.box && <BoxBadge box={item.box} className="absolute left-2 bottom-2 sm:left-3 sm:bottom-3 shadow-sm" />}
-          <span className="absolute right-3 bottom-3 grid place-items-center size-8 rounded-full bg-ink text-paper text-sm scale-0 group-hover:scale-100 transition-transform duration-500 ease-[var(--ease-out)]">
+          <span className="absolute left-2 top-2 sm:left-3 sm:top-3 mono-label text-mute bg-paper/85 backdrop-blur-sm rounded-full px-2 py-1 leading-none">
+            No.{formatNo(item.no)}
+          </span>
+          {item.box && <BoxBadge box={item.box} className="absolute right-2 bottom-2 sm:right-3 sm:bottom-3 shadow-sm" />}
+          <span className="absolute right-3 top-3 grid place-items-center size-8 rounded-full bg-ink text-paper text-sm scale-0 group-hover:scale-100 transition-transform duration-500 ease-[var(--ease-out)]">
             ↗
           </span>
         </div>
