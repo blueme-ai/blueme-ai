@@ -24,15 +24,22 @@ function useCountUp(target: number, delay = 0, duration = 1800) {
   return value
 }
 
-function Stat({ label, value, delay }: { label: string; value: number; delay: number }) {
+function Stat({ label, value, delay, href }: { label: string; value: number; delay: number; href: string }) {
   const n = useCountUp(value, delay)
   return (
-    <div className="fade-up border-t border-ink pt-3" style={{ "--d": `${delay / 1000}s` } as React.CSSProperties}>
-      <p className="mono-label text-mute">{label}</p>
+    <a
+      href={href}
+      className="group block fade-up border-t border-ink pt-3 hover:text-blue hover:border-blue transition-colors"
+      style={{ "--d": `${delay / 1000}s` } as React.CSSProperties}
+    >
+      <p className="mono-label text-mute group-hover:text-blue flex justify-between">
+        {label}
+        <span aria-hidden className="opacity-0 group-hover:opacity-100 transition-opacity">↘</span>
+      </p>
       <p className="mt-2 text-[clamp(32px,4.4vw,64px)] leading-none font-medium tracking-[-0.045em] tabular-nums">
         {n.toLocaleString()}
       </p>
-    </div>
+    </a>
   )
 }
 
@@ -75,10 +82,10 @@ export default function Hero({
             每一件都附上編號、出處、官方資料與開箱評測，像博物館一樣逐件建檔。
           </p>
           <div className="lg:col-span-8 grid grid-cols-2 sm:grid-cols-4 gap-x-5 gap-y-8">
-            <Stat label="Objects" value={stats.objects} delay={700} />
-            <Stat label="Series" value={stats.series} delay={820} />
-            <Stat label="Makers" value={stats.makers} delay={940} />
-            <Stat label="Boxes" value={stats.boxes} delay={1060} />
+            <Stat label="Objects" value={stats.objects} delay={700} href="#archive" />
+            <Stat label="Series" value={stats.series} delay={820} href="#ledger" />
+            <Stat label="Makers" value={stats.makers} delay={940} href="#ledger" />
+            <Stat label="Boxes" value={stats.boxes} delay={1060} href="#ledger" />
           </div>
         </div>
       </div>

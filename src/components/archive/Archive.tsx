@@ -3,6 +3,8 @@
 import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState } from "react"
 import { flushSync } from "react-dom"
 import type { CatalogEntry } from "@/lib/catalog"
+import { computeInsights } from "@/lib/insights"
+import { isBoxTag } from "@/lib/tags"
 import Header from "./Header"
 import Hero from "./Hero"
 import Controls, { type SortKey, type ViewMode } from "./Controls"
@@ -10,6 +12,8 @@ import Grid from "./Grid"
 import IndexList from "./IndexList"
 import Detail from "./Detail"
 import Footer from "./Footer"
+import Favourites from "./Favourites"
+import Ledger from "./Ledger"
 import Cursor from "./Cursor"
 
 export type Stats = {
@@ -33,6 +37,7 @@ export default function Archive({ catalog, stats }: { catalog: CatalogEntry[]; s
   const [openId, setOpenId] = useState<string | null>(null)
   const archiveRef = useRef<HTMLElement>(null)
   const searchRef = useRef<HTMLInputElement>(null)
+  const pushedRef = useRef(false)
 
   const deferredQuery = useDeferredValue(query)
 
@@ -85,11 +90,30 @@ export default function Archive({ catalog, stats }: { catalog: CatalogEntry[]; s
   const byId = useMemo(() => new Map(catalog.map((c) => [c.id, c])), [catalog])
   const openEntry = openId ? byId.get(openId) ?? null : null
 
+  // The open record lives in the hash. Opening pushes one history entry so the
+  // browser back button closes the sheet; stepping between records replaces it.
+  const setHash = useCallback((id: string) => {
+    if (location.hash) history.replaceState(null, "", `#${id}`)
+    else {
+      history.pushState(null, "", `#${id}`)
+      pushedRef.current = true
+    }
+  }, [])
+
+  const clearHash = useCallback(() => {
+    if (pushedRef.current) {
+      pushedRef.current = false
+      history.back()
+    } else if (location.hash) {
+      history.replaceState(null, "", location.pathname + location.search)
+    }
+  }, [])
+
   // Shared-element morph from the card image into the detail sheet.
   const open = useCallback((id: string, from?: HTMLElement | null) => {
     const doc = document as Document & { startViewTransition?: (cb: () => void) => unknown }
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches
-    history.replaceState(null, "", `#${id}`)
+    setHash(id)
     if (!doc.startViewTransition || !from || reduce) {
       setOpenId(id)
       return
@@ -99,12 +123,12 @@ export default function Archive({ catalog, stats }: { catalog: CatalogEntry[]; s
       from.style.viewTransitionName = ""
       flushSync(() => setOpenId(id))
     })
-  }, [])
+  }, [setHash])
 
   const close = useCallback(() => {
-    history.replaceState(null, "", location.pathname + location.search)
+    clearHash()
     setOpenId(null)
-  }, [])
+  }, [clearHash])
 
   // Neighbour navigation follows the current filtered order.
   const step = useCallback(
@@ -120,15 +144,23 @@ export default function Archive({ catalog, stats }: { catalog: CatalogEntry[]; s
     [filtered, openId]
   )
 
-  // Deep links: /#item-id opens that record.
+  // Deep links: /#item-id opens that record; going back past it closes the sheet.
   useEffect(() => {
     const fromHash = () => {
       const id = decodeURIComponent(location.hash.slice(1))
       if (id && byId.has(id)) setOpenId(id)
+      else if (!id) {
+        pushedRef.current = false
+        setOpenId(null)
+      }
     }
     fromHash()
+    window.addEventListener("popstate", fromHash)
     window.addEventListener("hashchange", fromHash)
-    return () => window.removeEventListener("hashchange", fromHash)
+    return () => {
+      window.removeEventListener("popstate", fromHash)
+      window.removeEventListener("hashchange", fromHash)
+    }
   }, [byId])
 
   // ⌘K or "/" jumps to search.
@@ -149,27 +181,51 @@ export default function Archive({ catalog, stats }: { catalog: CatalogEntry[]; s
     setTimeout(() => searchRef.current?.focus({ preventScroll: true }), 450)
   }
 
-  function pickTag(t: string) {
-    setTag(t)
-    setMaker(null)
-    setQuery("")
-    setOpenId(null)
-    history.replaceState(null, "", location.pathname)
+  function showInIndex(f: { tag?: string; maker?: string; query?: string }) {
+    setTag(f.tag ?? null)
+    setMaker(f.maker ?? null)
+    setQuery(f.query ?? "")
+    if (openId) {
+      setOpenId(null)
+      clearHash()
+    }
     requestAnimationFrame(() => archiveRef.current?.scrollIntoView({ behavior: "smooth" }))
   }
+  const pickTag = (t: string) => showInIndex({ tag: t })
+
+  const insights = useMemo(
+    () =>
+      computeInsights(
+        catalog.map((c) => ({ id: c.id, addedAt: c.addedAt, series: c.work, manufacturer: c.maker, price: c.price, tags: c.tags, favorite: c.favorite }))
+      ),
+    [catalog]
+  )
+  const favourites = useMemo(() => catalog.filter((c) => c.favorite).reverse(), [catalog])
 
   const heroPicks = useMemo(() => {
-    // An even sample across the whole archive for the hero shelf.
+    // Favourites lead the hero shelf, topped up with an even sample across the archive.
     const n = 28
     const stepSize = Math.max(1, Math.floor(catalog.length / n))
-    return catalog.filter((_, i) => i % stepSize === 0).slice(0, n)
-  }, [catalog])
+    const sample = catalog.filter((c, i) => i % stepSize === 0 && !c.favorite)
+    return [...favourites, ...sample].slice(0, n)
+  }, [catalog, favourites])
+
+  const part = (n: number) => String(n + (favourites.length ? 1 : 0)).padStart(2, "0")
 
   return (
     <>
       <Header total={stats.objects} onSearch={focusSearch} />
       <main>
         <Hero stats={stats} picks={heroPicks} onOpen={open} />
+        {favourites.length > 0 && <Favourites items={favourites} part="02" onOpen={open} />}
+        <Ledger
+          insights={insights}
+          part={part(2)}
+          activeBox={tag && isBoxTag(tag) ? tag : null}
+          onBox={(b) => showInIndex({ tag: b })}
+          onSeries={(s) => showInIndex({ query: s })}
+          onMaker={(m) => showInIndex({ maker: m })}
+        />
         <section ref={archiveRef} id="archive" className="scroll-mt-14">
           <Controls
             searchRef={searchRef}
@@ -187,6 +243,7 @@ export default function Archive({ catalog, stats }: { catalog: CatalogEntry[]; s
             setView={setView}
             shown={filtered.length}
             total={catalog.length}
+            part={part(3)}
           />
           {filtered.length === 0 ? (
             <Empty

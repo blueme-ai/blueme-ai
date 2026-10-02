@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, type RefObject } from "react"
+import { useEffect, useRef, useState, type RefObject } from "react"
 import { isBoxTag } from "@/lib/tags"
 
 export type SortKey = "newest" | "oldest" | "release" | "name"
@@ -29,18 +29,20 @@ type Props = {
   setView: (v: ViewMode) => void
   shown: number
   total: number
+  part: string
 }
 
 export default function Controls({ searchRef, ...p }: Props) {
   const [tagsOpen, setTagsOpen] = useState(false)
   const topMakers = p.makers.slice(0, 9)
   const filtering = !!(p.query.trim() || p.maker || p.tag)
+  const tucked = useTuckOnScroll() && !tagsOpen
 
   return (
     <>
       <div className="gutter pt-28 sm:pt-40 pb-8 sm:pb-12 grid gap-6 sm:grid-cols-12 items-end">
         <div className="sm:col-span-7">
-          <p className="mono-label text-mute">(02) The Index</p>
+          <p className="mono-label text-mute">({p.part}) The Index</p>
           <h2 className="mt-4 text-[clamp(44px,7.4vw,132px)] leading-[0.88] tracking-[-0.05em] font-medium">
             Every object,
             <br />
@@ -57,7 +59,12 @@ export default function Controls({ searchRef, ...p }: Props) {
         </p>
       </div>
 
-      <div className="sticky top-14 z-30 bg-paper/90 backdrop-blur-md border-y border-line">
+      {/* On small screens the bar tucks away while scrolling down and returns on the way up. */}
+      <div
+        className={`sticky top-14 z-30 bg-paper/90 backdrop-blur-md border-y border-line transition-transform duration-300 ease-[var(--ease-out)] ${
+          tucked ? "max-lg:-translate-y-[calc(100%+3.5rem)]" : ""
+        }`}
+      >
         <div className="gutter flex flex-col lg:flex-row lg:items-center gap-3 lg:gap-6 py-3">
           <label className="relative flex items-center gap-3 lg:w-[28%] min-w-0 border-b border-transparent focus-within:border-ink transition-colors">
             <span className="mono-label text-mute shrink-0">Find</span>
@@ -76,7 +83,7 @@ export default function Controls({ searchRef, ...p }: Props) {
             )}
           </label>
 
-          <div className="flex-1 min-w-0 flex gap-1.5 overflow-x-auto no-scrollbar fade-edge -mx-1 px-1 pr-12">
+          <div className="flex-1 min-w-0 flex gap-1.5 overflow-x-auto no-scrollbar fade-edge -mx-1 px-1 pr-16">
             <Chip active={!p.maker} onClick={() => p.setMaker(null)}>
               All
             </Chip>
@@ -147,6 +154,25 @@ export default function Controls({ searchRef, ...p }: Props) {
       </div>
     </>
   )
+}
+
+function useTuckOnScroll() {
+  const [tucked, setTucked] = useState(false)
+  const last = useRef(0)
+  useEffect(() => {
+    const onScroll = () => {
+      const y = window.scrollY
+      const dy = y - last.current
+      if (Math.abs(dy) < 8) return
+      const archive = document.getElementById("archive")
+      const pastTop = archive ? y > archive.offsetTop + 320 : y > 600
+      setTucked(dy > 0 && pastTop)
+      last.current = y
+    }
+    window.addEventListener("scroll", onScroll, { passive: true })
+    return () => window.removeEventListener("scroll", onScroll)
+  }, [])
+  return tucked
 }
 
 function Chip({

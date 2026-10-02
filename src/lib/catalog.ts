@@ -18,6 +18,8 @@ export type CatalogEntry = {
   thumb: string
   tags: string[]
   box?: string
+  favorite?: boolean
+  note?: string
 }
 
 // Same maker is spelled several ways across entries (katakana / romaji / case).
@@ -79,6 +81,8 @@ export function buildCatalog(collection: CollectibleItem[]): CatalogEntry[] {
     thumb: thumbFor(item.imageUrl),
     tags: item.tags,
     box: item.tags.find(isBoxTag),
+    ...(item.favorite ? { favorite: true } : {}),
+    ...(item.note ? { note: item.note } : {}),
   }))
 }
 

@@ -42,6 +42,9 @@ const Card = memo(function Card({ item, index, onOpen }: { item: CatalogEntry; i
           <span className="absolute left-2 top-2 sm:left-3 sm:top-3 max-w-[calc(100%-1rem)] sm:max-w-[calc(100%-4rem)] truncate text-[11px] sm:text-[12px] text-ink-2 bg-paper/85 backdrop-blur-sm rounded-full px-2.5 py-1 leading-none">
             {item.work}
           </span>
+          {item.favorite && (
+            <span className="absolute left-2 bottom-2 sm:left-3 sm:bottom-3 rounded-full bg-blue text-paper font-mono text-[11px] leading-none px-2 py-1">★ Fav</span>
+          )}
           {item.box && <BoxBadge box={item.box} className="absolute right-2 bottom-2 sm:right-3 sm:bottom-3 shadow-sm" />}
           <span className="absolute right-3 top-3 grid place-items-center size-8 rounded-full bg-ink text-paper text-sm scale-0 group-hover:scale-100 transition-transform duration-500 ease-[var(--ease-out)]">
             ↗

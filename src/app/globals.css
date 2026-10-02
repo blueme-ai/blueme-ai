@@ -201,7 +201,7 @@ img[data-fade][data-error] {
 }
 
 .fade-edge {
-  mask-image: linear-gradient(90deg, #000 calc(100% - 48px), transparent);
+  mask-image: linear-gradient(90deg, #000 calc(100% - 72px), transparent);
 }
 
 .no-scrollbar {

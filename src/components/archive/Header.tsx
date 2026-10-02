@@ -47,10 +47,10 @@ export default function Header({ total, onSearch }: { total: number; onSearch: (
         <div className="flex justify-end">
           <button
             onClick={onSearch}
-            className="group flex items-center gap-3 mono-label rounded-full border border-line pl-4 pr-1.5 py-1.5 hover:border-ink transition-colors"
+            className="group flex items-center gap-3 mono-label rounded-full border border-line pl-4 pr-1.5 pointer-coarse:pr-4 py-1.5 min-h-10 hover:border-ink transition-colors"
           >
             Search
-            <kbd className="font-mono text-[10px] rounded-full bg-ink text-paper px-2 py-0.5 group-hover:bg-blue transition-colors">
+            <kbd className="pointer-coarse:hidden font-mono text-[10px] rounded-full bg-ink text-paper px-2 py-0.5 group-hover:bg-blue transition-colors">
               ⌘K
             </kbd>
           </button>

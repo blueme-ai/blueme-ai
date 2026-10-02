@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from "react"
 import type { CollectibleItem, ReviewLink } from "@/lib/data"
 import type { CatalogEntry } from "@/lib/catalog"
 import { isBoxTag } from "@/lib/tags"
+import { distinctNameJa } from "@/lib/insights"
 import { fadeRef } from "@/lib/imgFade"
 import BoxBadge from "./BoxBadge"
 
@@ -36,7 +37,26 @@ export default function Detail({
   const [loaded, setLoaded] = useState<CollectibleItem | null>(null)
   const item = loaded?.id === entry.id ? loaded : cache.get(entry.id) ?? null
   const [closing, setClosing] = useState(false)
+  const [photo, setPhoto] = useState({ id: entry.id, index: 0 })
+  const shown = photo.id === entry.id ? photo.index : 0
   const scrollRef = useRef<HTMLDivElement>(null)
+  const touch = useRef<{ x: number; y: number } | null>(null)
+  const photos = [entry.imageUrl, ...(item?.images ?? [])]
+  const nameJa = item ? distinctNameJa(item) : undefined
+
+  // Horizontal swipe on the stage moves to the neighbouring record.
+  const onTouchStart = (e: React.TouchEvent) => {
+    touch.current = { x: e.touches[0].clientX, y: e.touches[0].clientY }
+  }
+  const onTouchEnd = (e: React.TouchEvent) => {
+    const start = touch.current
+    touch.current = null
+    if (!start) return
+    const dx = e.changedTouches[0].clientX - start.x
+    const dy = e.changedTouches[0].clientY - start.y
+    if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return
+    onStep(dx < 0 ? 1 : -1)
+  }
 
   useEffect(() => {
     let alive = true
@@ -94,17 +114,25 @@ export default function Detail({
       aria-label={entry.name}
       className={`fixed inset-0 z-50 bg-paper ${closing ? "sheet-out" : "sheet-in"}`}
     >
+      <button
+        onClick={close}
+        className="lg:hidden fixed right-[var(--gutter)] top-2.5 z-20 flex items-center gap-2 rounded-full bg-ink text-paper mono-label pl-4 pr-1.5 py-1.5"
+        aria-label="Close"
+      >
+        Close
+        <span className="grid place-items-center size-6 rounded-full bg-paper text-ink text-[11px]">✕</span>
+      </button>
       <div ref={scrollRef} className="h-full overflow-y-auto lg:overflow-hidden lg:grid lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]">
         {/* Stage */}
-        <div className="relative bg-tile h-[62svh] lg:h-full overflow-hidden">
+        <div className="relative bg-tile h-[66svh] lg:h-full overflow-hidden touch-pan-y" onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            key={`full-${entry.id}`}
+            key={`full-${entry.id}-${shown}`}
             ref={fadeRef}
             data-fade
-            src={entry.imageUrl}
+            src={photos[shown] ?? entry.imageUrl}
             alt={entry.name}
-            className="detail-full blend absolute inset-0 m-auto w-[82%] h-[78%] object-contain"
+            className="detail-full blend absolute inset-x-0 top-14 bottom-20 m-auto w-[86%] h-[calc(100%-8.5rem)] lg:inset-0 lg:w-[82%] lg:h-[78%] object-contain"
           />
           {/* Thumbnail is already cached from the listing: it morphs in instantly, then yields to the full image. */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -114,20 +142,31 @@ export default function Detail({
             alt=""
             aria-hidden
             style={{ viewTransitionName: "hero-image" }}
-            className="detail-thumb blend absolute inset-0 m-auto w-[82%] h-[78%] object-contain transition-opacity duration-500"
+            className={`detail-thumb blend absolute inset-x-0 top-14 bottom-20 m-auto w-[86%] h-[calc(100%-8.5rem)] lg:inset-0 lg:w-[82%] lg:h-[78%] object-contain transition-opacity duration-500 ${shown ? "hidden" : ""}`}
           />
           <div className="absolute inset-x-0 top-0 gutter h-14 flex items-center justify-between mono-label">
-            <span className="flex items-center gap-3 min-w-0">
+            <span className="flex items-center gap-2 min-w-0">
               {entry.box && <BoxBadge box={entry.box} />}
+              {entry.favorite && <span className="rounded-full bg-blue text-paper font-mono text-[11px] leading-none px-2 py-1">★ Fav</span>}
             </span>
-            <button onClick={close} className="lg:hidden grid place-items-center size-9 rounded-full bg-ink text-paper" aria-label="Close">
-              ✕
-            </button>
           </div>
-          <div className="absolute inset-x-0 bottom-0 gutter pb-5 flex items-center justify-between mono-label">
+          <div className="absolute inset-x-0 bottom-0 gutter pb-4 lg:pb-5 flex items-center justify-between gap-3 mono-label">
             <span className="tabular-nums text-mute">
               {position >= 0 ? `${String(position + 1).padStart(String(count).length, "0")} / ${count}` : ""}
             </span>
+            {photos.length > 1 && (
+              <span className="flex gap-1.5" role="group" aria-label="Photos">
+                {photos.map((src, i) => (
+                  <button
+                    key={`${i}-${src}`}
+                    onClick={() => setPhoto({ id: entry.id, index: i })}
+                    aria-label={`Photo ${i + 1}`}
+                    aria-pressed={i === shown}
+                    className={`size-2.5 rounded-full border border-ink transition-colors ${i === shown ? "bg-ink" : "hover:bg-ink/40"}`}
+                  />
+                ))}
+              </span>
+            )}
             <span className="flex gap-2">
               <StepButton label="Previous" disabled={position <= 0} onClick={() => onStep(-1)}>←</StepButton>
               <StepButton label="Next" disabled={position < 0 || position >= count - 1} onClick={() => onStep(1)}>→</StepButton>
@@ -137,9 +176,9 @@ export default function Detail({
 
         {/* Record */}
         <div className="lg:h-full lg:overflow-y-auto">
-          <div className="sticky top-0 z-10 bg-paper/90 backdrop-blur-md gutter h-14 flex items-center justify-between border-b border-line">
+          <div className="sticky top-0 z-10 bg-paper/90 backdrop-blur-md gutter max-lg:pr-32 h-14 flex items-center justify-between border-b border-line">
             <span className="mono-label text-mute truncate pr-4">{entry.series}</span>
-            <button onClick={close} className="group mono-label flex items-center gap-2 shrink-0" data-cursor="Close">
+            <button onClick={close} className="group mono-label hidden lg:flex items-center gap-2 shrink-0" data-cursor="Close">
               Close
               <span className="grid place-items-center size-7 rounded-full border border-ink group-hover:bg-ink group-hover:text-paper transition-colors">
                 ✕
@@ -151,10 +190,17 @@ export default function Detail({
             <h2 className="text-[clamp(28px,3.3vw,52px)] leading-[1.08] tracking-[-0.035em] font-medium fade-up">
               {entry.name}
             </h2>
-            {item?.nameJa && item.nameJa !== entry.name && (
+            {nameJa && (
               <p className="mt-3 text-mute text-[15px] fade-up" style={{ "--d": "0.08s" } as React.CSSProperties}>
-                {item.nameJa}
+                {nameJa}
               </p>
+            )}
+
+            {entry.note && (
+              <figure className="mt-10 border-l-2 border-blue pl-5 fade-up" style={{ "--d": "0.1s" } as React.CSSProperties}>
+                <blockquote className="font-serif italic text-[22px] sm:text-[26px] leading-snug text-ink">“{entry.note}”</blockquote>
+                <figcaption className="mt-3 mono-label text-mute">Collector’s note</figcaption>
+              </figure>
             )}
 
             <dl className="mt-10 grid grid-cols-2 border-t border-ink fade-up" style={{ "--d": "0.12s" } as React.CSSProperties}>
