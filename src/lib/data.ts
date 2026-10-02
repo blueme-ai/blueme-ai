@@ -23,6 +23,9 @@ export type CollectibleItem = {
   description: string
   reviews: ReviewLink[]
   youtube: ReviewLink[]
+  favorite?: boolean // 本命精選：首頁優先展示
+  note?: string // 收藏者自己的話（入手故事、心得）
+  images?: string[] // 額外照片（盒子、細節…），主圖仍是 imageUrl
 }
 
 export const collection: CollectibleItem[] = [
