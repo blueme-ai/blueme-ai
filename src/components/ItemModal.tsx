@@ -1,9 +1,10 @@
 "use client"
 
-import { useEffect, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import { CollectibleItem, ReviewLink } from "@/lib/data"
 import { isBoxTag } from "@/lib/tags"
-import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box, ShoppingCart, Loader2, Package } from "lucide-react"
+import { distinctNameJa } from "@/lib/insights"
+import { X, ExternalLink, PlayCircle, BookOpen, Tag, Ruler, Calendar, DollarSign, Box, ShoppingCart, Loader2, Package, ChevronLeft, ChevronRight, Star, Quote } from "lucide-react"
 
 type SecondhandData = {
   yahoo: { price: string; url: string } | null
@@ -18,15 +19,69 @@ const langLabel: Record<ReviewLink["lang"], string> = {
   en: "English",
 }
 
-export default function ItemModal({ item, onClose, onTagClick }: { item: CollectibleItem; onClose: () => void; onTagClick?: (tag: string) => void }) {
+type Props = {
+  item: CollectibleItem
+  onClose: () => void
+  onTagClick?: (tag: string) => void
+  onPrev?: () => void
+  onNext?: () => void
+  position?: { index: number; total: number }
+}
+
+export default function ItemModal({ item, onClose, onTagClick, onPrev, onNext, position }: Props) {
   const [secondhand, setSecondhand] = useState<SecondhandData | null>(null)
   const [loadingSecondhand, setLoadingSecondhand] = useState(false)
+  const [shown, setShown] = useState(0)
+  const [itemId, setItemId] = useState(item.id)
+  const closeRef = useRef<HTMLButtonElement>(null)
+  const panelRef = useRef<HTMLDivElement>(null)
+  const touch = useRef<{ x: number; y: number } | null>(null)
+  const photos = [item.imageUrl, ...(item.images ?? [])]
+  const nameJa = distinctNameJa(item)
+
+  // New item: reset per-item state and scroll back to the top.
+  if (itemId !== item.id) {
+    setItemId(item.id)
+    setShown(0)
+    setSecondhand(null)
+  }
+  useEffect(() => {
+    panelRef.current?.scrollTo({ top: 0 })
+  }, [item.id])
 
   useEffect(() => {
-    const handler = (e: KeyboardEvent) => e.key === "Escape" && onClose()
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose()
+      else if (e.key === "ArrowLeft") onPrev?.()
+      else if (e.key === "ArrowRight") onNext?.()
+    }
     window.addEventListener("keydown", handler)
     return () => window.removeEventListener("keydown", handler)
-  }, [onClose])
+  }, [onClose, onPrev, onNext])
+
+  useEffect(() => {
+    const prev = document.body.style.overflow
+    document.body.style.overflow = "hidden"
+    closeRef.current?.focus({ preventScroll: true })
+    return () => {
+      document.body.style.overflow = prev
+    }
+  }, [])
+
+  // Horizontal swipe on touch screens moves between items.
+  const onTouchStart = (e: React.TouchEvent) => {
+    touch.current = { x: e.touches[0].clientX, y: e.touches[0].clientY }
+  }
+  const onTouchEnd = (e: React.TouchEvent) => {
+    const start = touch.current
+    touch.current = null
+    if (!start) return
+    const dx = e.changedTouches[0].clientX - start.x
+    const dy = e.changedTouches[0].clientY - start.y
+    if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return
+    if (dx < 0) onNext?.()
+    else onPrev?.()
+  }
 
   async function checkSecondhand() {
     const keyword = item.nameJa ?? item.name
@@ -45,42 +100,95 @@ export default function ItemModal({ item, onClose, onTagClick }: { item: Collect
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm"
+      className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/80 backdrop-blur-sm"
       onClick={onClose}
+      role="dialog"
+      aria-modal="true"
+      aria-label={item.name}
     >
       <div
+        ref={panelRef}
         className="relative bg-zinc-900 rounded-2xl w-full max-w-4xl max-h-[92vh] overflow-y-auto border border-zinc-700 shadow-2xl"
         onClick={(e) => e.stopPropagation()}
+        onTouchStart={onTouchStart}
+        onTouchEnd={onTouchEnd}
       >
-        <button
-          className="absolute top-4 right-4 z-10 text-zinc-400 hover:text-white transition-colors bg-zinc-800/80 rounded-full p-1.5"
-          onClick={onClose}
-        >
-          <X size={18} />
-        </button>
+        {/* Sticky bar so close / prev / next stay reachable while scrolling a long record. */}
+        <div className="sticky top-0 z-10 flex items-center justify-between gap-2 px-3 py-2 bg-zinc-900/90 backdrop-blur border-b border-zinc-800">
+          <div className="flex items-center gap-1">
+            <NavButton label="上一件" onClick={onPrev}><ChevronLeft size={18} /></NavButton>
+            <NavButton label="下一件" onClick={onNext}><ChevronRight size={18} /></NavButton>
+            {position && (
+              <span className="ml-1 text-xs text-zinc-500 tabular-nums">
+                {position.index + 1} / {position.total}
+              </span>
+            )}
+          </div>
+          <button
+            ref={closeRef}
+            type="button"
+            aria-label="關閉"
+            className="flex items-center gap-1 text-sm text-zinc-200 bg-zinc-800 hover:bg-zinc-700 rounded-full pl-3 pr-2.5 py-1.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400"
+            onClick={onClose}
+          >
+            關閉 <X size={16} />
+          </button>
+        </div>
 
         <div className="flex flex-col sm:flex-row">
-          <div className="sm:w-72 shrink-0 bg-zinc-800 flex items-center justify-center rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none min-h-64">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={item.imageUrl}
-              alt={item.name}
-              className="w-full sm:h-full object-contain rounded-t-2xl sm:rounded-l-2xl sm:rounded-tr-none max-h-[50vh] sm:max-h-[85vh]"
-              onError={(e) => {
-                ;(e.target as HTMLImageElement).src =
-                  "https://placehold.co/300x400/18181b/52525b?text=No+Image"
-              }}
-            />
+          <div className="sm:w-80 shrink-0 bg-zinc-800 flex flex-col sm:rounded-bl-2xl">
+            <div className="flex-1 flex items-center justify-center min-h-64">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                key={photos[shown]}
+                src={photos[shown]}
+                alt={item.name}
+                className="w-full sm:h-full object-contain max-h-[50vh] sm:max-h-[75vh]"
+                onError={(e) => {
+                  ;(e.target as HTMLImageElement).src =
+                    "https://placehold.co/300x400/18181b/52525b?text=No+Image"
+                }}
+              />
+            </div>
+            {photos.length > 1 && (
+              <div className="flex gap-2 p-2 overflow-x-auto">
+                {photos.map((src, i) => (
+                  <button
+                    key={`${i}-${src}`}
+                    type="button"
+                    onClick={() => setShown(i)}
+                    aria-label={`第 ${i + 1} 張照片`}
+                    aria-current={i === shown}
+                    className={`shrink-0 size-14 rounded-lg overflow-hidden border-2 ${i === shown ? "border-indigo-400" : "border-transparent opacity-60 hover:opacity-100"}`}
+                  >
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={src} alt="" className="size-full object-cover" />
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
 
           <div className="flex-1 p-6 flex flex-col gap-4">
             <div>
-              <p className="text-xs text-indigo-400 font-medium mb-1">{item.series}</p>
+              <p className="text-xs text-indigo-400 font-medium mb-1 flex items-center gap-2">
+                {item.series}
+                {item.favorite && (
+                  <span className="shrink-0 whitespace-nowrap inline-flex items-center gap-1 text-[11px] bg-amber-400 text-zinc-950 rounded-full px-2 py-0.5">
+                    <Star size={10} fill="currentColor" /> 本命
+                  </span>
+                )}
+              </p>
               <h2 className="text-xl font-bold text-white leading-tight">{item.name}</h2>
-              {item.nameJa && (
-                <p className="text-sm text-zinc-500 mt-0.5">{item.nameJa}</p>
-              )}
+              {nameJa && <p className="text-sm text-zinc-500 mt-0.5">{nameJa}</p>}
             </div>
+
+            {item.note && (
+              <blockquote className="relative rounded-xl bg-amber-500/10 border border-amber-500/30 px-4 py-3 text-sm text-amber-100 leading-relaxed">
+                <Quote size={14} className="absolute -top-2 left-3 text-amber-400 bg-zinc-900" />
+                {item.note}
+              </blockquote>
+            )}
 
             <div className="grid grid-cols-2 gap-3 text-sm">
               <InfoRow icon={<Box size={14} />} label="廠商" value={item.manufacturer} />
@@ -249,6 +357,21 @@ export default function ItemModal({ item, onClose, onTagClick }: { item: Collect
         </div>
       </div>
     </div>
+  )
+}
+
+function NavButton({ label, onClick, children }: { label: string; onClick?: () => void; children: React.ReactNode }) {
+  return (
+    <button
+      type="button"
+      aria-label={label}
+      title={label}
+      onClick={onClick}
+      disabled={!onClick}
+      className="grid place-items-center size-9 rounded-full text-zinc-300 hover:bg-zinc-800 hover:text-white disabled:opacity-30 disabled:pointer-events-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400"
+    >
+      {children}
+    </button>
   )
 }
 

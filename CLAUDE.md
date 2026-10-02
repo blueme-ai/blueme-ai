@@ -41,6 +41,7 @@ git pull origin main
 | Telegram 通知 | 必須用 `reply` MCP tool，純文字輸出用戶看不到 |
 | `price` 欄位 | 型別是 `string`，不可填 `null`，空值用 `""` |
 | BOX 標籤 | `BOX` + 3～4 位數字（`BOX0015`），寫進 `tags` 陣列 |
+| 個人欄位（選填） | `favorite: true`＝本命精選（首頁置頂）、`note`＝用戶自己的心得、`images`＝額外照片路徑陣列；**內容只能由用戶提供，不可自行編寫** |
 
 ## 工作流程（每次收到商品照片）
 
