@@ -1,8 +1,8 @@
 import { NextRequest } from "next/server"
-import { exec } from "child_process"
+import { execFile } from "child_process"
 import { promisify } from "util"
 
-const execAsync = promisify(exec)
+const execFileAsync = promisify(execFile)
 
 type PriceResult = {
   price: string
@@ -50,9 +50,11 @@ async function fetchSurugayaViaStealth(keyword: string): Promise<PriceResult> {
   // Add 中古 filter to only search used/secondhand items
   const searchUrl = `https://www.suruga-ya.jp/search?search_word=${encodeURIComponent(keyword)}&restrict%5B%5D=sale_classified%3D%E4%B8%AD%E5%8F%A4`
   try {
-    const { stdout } = await execAsync(
-      `browser-act stealth-extract "${searchUrl}" --content-type html`,
-      { timeout: 30000 }
+    // execFile (no shell): user input is passed as a single argv entry, never interpreted by a shell
+    const { stdout } = await execFileAsync(
+      "browser-act",
+      ["stealth-extract", searchUrl, "--content-type", "html"],
+      { timeout: 30000, maxBuffer: 20 * 1024 * 1024 }
     )
     // In-stock used items: <p class="price_teika">中古：<span class="text-red"><strong>¥X,XXX</strong>
     const itemBoxes = stdout.match(/<div class="item_box"[\s\S]*?(?=<div class="item_box"|$)/g) ?? []
@@ -72,7 +74,7 @@ async function fetchSurugayaViaStealth(keyword: string): Promise<PriceResult> {
 
 export async function GET(request: NextRequest) {
   const q = request.nextUrl.searchParams.get("q")
-  if (!q) return Response.json({ error: "q is required" }, { status: 400 })
+  if (!q || q.length > 200) return Response.json({ error: "q is required (max 200 chars)" }, { status: 400 })
 
   const [yahoo, surugaya] = await Promise.allSettled([
     fetchYahooAuctions(q),
