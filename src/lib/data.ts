@@ -40651,7 +40651,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-yuusha-exkaiser-king.jpg",
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "勇者エクスカイザー", "キングエクスカイザー", "キングローダー", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ"],
     description: "《勇者エクスカイザー》是1990年播出的「勇者シリーズ」開山之作，主角機エクスカイザー可呼叫支援機「キングローダー」合體強化為「キングエクスカイザー」，確立了後續系列「主角機＋支援機合體」的經典公式。本商品為BANDAI CANDY食玩事業部「SHOKUGAN MODELING PROJECT（SMP）」推出的2026年新版，2026年10月19日發售，建議售價8,180日圓（含稅8,998日圓），與2022年「SMP ALTERNATIVE DESTINY」版、以及TAKARA的MP超合金系列皆為完全不同的獨立商品。\n\n第一彈內含エクスカイザー（組裝後全高約68mm）與キングローダー（全長約200mm）兩台機體。エクスカイザー可從車形態變形為機器人形態，キングローダー則能重現連結車與飛行形態，並可將エクスカイザー收納其中，不需更換或拆卸零件；兩者合體後即為全高約150mm的キングエクスカイザー，並附有重現「フォームアップ」合體過程的展示用手臂。配件包含戴面罩與露出臉部的兩種表情零件、カイザーソード，以及重現必殺技「サンダーフラッシュ」的金色刀刃特效件。這次的盒面印有「巨大合体!! キングエクスカイザー!!」字樣。本品另可與Premium Bandai限定的「ドラゴンジェット＆超巨大合体セット」組合出グレートエクスカイザー形態，是勇者系列老玩家與SMP收藏者都不容錯過的一款。",
-    reviews: [],
+    reviews: [
+      {
+        title: "【SMP・エクスカイザー】素組みレビュー＆改修箇所洗い出し！！ | のどかな日常",
+        url: "https://nodokalife.com/exkizer-sugumi",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -40670,7 +40676,18 @@ export const collection: CollectibleItem[] = [
     tags: ["聖闘士星矢", "セインティア翔", "聖闘士聖衣神話EX", "戦神アレス", "Bandai", "魂ウェブ"],
     description: "《聖闘士星矢 セインティア翔》是車田正美原作《聖闘士星矢》的外傳系列，以女性聖闘士（セインティア）為主角。戰神阿瑞斯（アレス）出現在該作第十話最後，是雙子座撒加體內的邪惡人格脫去黃金聖衣的外殼後，以神的姿態降臨的形態，作品宣傳語即「脫下雙子的黃金之殼，降臨新世界的鬥爭之神」。本商品是「聖闘士聖衣神話EX」系列的一員，2019年10月12日發售，日本官網標示建議售價14,300日圓（含稅），全高約180mm，材質為ABS、PVC與壓鑄合金。造型方面以新造零件重現與雙子座黃金聖衣相似的銀色電鍍鎧甲，搭配紅色鮮豔配色；背後的披風由可動的三片零件構成，並附有巨大的翼狀裝飾，整體氣勢非常強烈。附屬配件包含替換表情零件三種、替換髮型零件、替換手腕（左四種、右五種）、劍、黃金蘋果，以及可重現聖衣「物件形態」的物件框架一組，可以展示劇中未登場的設計。盒面為黑紅色調，印有「戦神アレス」與Saintia翔標誌，是這系列中視覺效果相當華麗的一款，也是收藏雙子座撒加相關商品時值得搭配展示的一件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "REVIEW GOD OF WAR ARES EX SAGA SAINTIA SHO MYTH CLOTH SAINT SEIYA",
+        url: "https://www.youtube.com/watch?v=SFr8MbPkYNY",
+        lang: "fr",
+      },
+      {
+        title: "#7 les review du sanctuaire - saga god of war ares ex bandai",
+        url: "https://www.youtube.com/watch?v=0wfYZ8vaU20",
+        lang: "fr",
+      },
+    ],
   },
   {
     id: "moderoid-mugen-caliber",
