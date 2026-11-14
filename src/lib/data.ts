@@ -40737,7 +40737,18 @@ export const collection: CollectibleItem[] = [
     tags: ["AniMester", "大漫匠", "蝕欲魔女", "莉莉安娜", "Desire Witch", "1/6", "追視眼", "原創", "中國品牌"],
     description: "「蝕欲魔女」是AniMester（大漫匠）推出的原創1/6人形系列，莉莉安娜為其第一彈，以黑髮尖耳的魔女形象呈現成熟魅惑的暗黑氣質。本品為塗裝完成品，材質PVC與ABS，全高約32cm，採用磁控光效追視眼（紅色愛心瞳孔以LED點亮，內附CR927電池一顆），首批版本附有可替換的水貼表情臉部與限定魔杖。盒面標示「1/6比例 追視眼 手辦」。日本HLJ標示2025年7月18日發售，國內官方標價約298人民幣；官方頁面不易取得，officialUrl暫以HLJ商品頁代替，之後找到hpoi或官方詞條再替換。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Lilianna Desire Witch by Animester, In-depth Figure review",
+        url: "https://www.youtube.com/watch?v=ww9nPumJ4L0",
+        lang: "en",
+      },
+      {
+        title: "The Desire Witch Liliana Figure Unboxing",
+        url: "https://www.youtube.com/watch?v=cj8TUaHB3OA",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "sikianim-alvina-chan",
@@ -40762,6 +40773,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.bilibili.com/video/BV1BJ4m1u7LP/",
         lang: "zh",
       },
+      {
+        title: "Unboxing Anime Figure Alvina-chan - 1/7 - Wet Ver ASMR by Siki Anim",
+        url: "https://www.youtube.com/shorts/qs6muqKNDe4",
+        lang: "en",
+      },
     ],
   },
   {
@@ -40780,7 +40796,34 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/taito-tmost-albedo-pure-white-devil.jpg",
     tags: ["オーバーロード", "アルベド", "T-most", "TAITO", "景品", "1/6", "純白の悪魔"],
     description: "《オーバーロード》是丸山くがね原作的黑暗奇幻作品，アルベド是納薩力克地下大墳墓的樓層守護者統帥，深愛主角飛鼠。本品為TAITO最高階景品品牌「T-most」的1/6比例作品，官方標示全高約29cm、全1種，以「純白の悪魔」為題，重現白色禮服搭配漆黑羽翼與長髮的對比造型，盒面為深紫夜景背景與T-most標誌。官方頁面未標示發售日，檢索資料顯示原定2026年2月下旬登場，タイクレ限定版則為2026年3月中旬。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "オーバーロード T-most アルベド フィギュア～純白の悪魔ver.～ レビュー | 玩具YOUα",
+        url: "https://ganguyouasobi.blog.jp/archives/59744247.html",
+        lang: "ja",
+      },
+      {
+        title: "アルベド T-most ～純白の悪魔ver.～ プライズフィギュア レビュー | ダガンガドール",
+        url: "https://dagangadoll.com/overlord-13/",
+        lang: "ja",
+      },
+      {
+        title: "T-most アルベド ～純白の悪魔ver.～を入手したのでレビューしてみる | やさすけのブログ",
+        url: "https://yasasuke327.com/24554/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "オーバーロード T-most アルベド フィギュア～純白の悪魔ver.～｜プライズフィギュア開封＆完成品紹介",
+        url: "https://www.youtube.com/watch?v=adj390vlOJg",
+        lang: "ja",
+      },
+      {
+        title: "【新作プライズ開封】オーバーロード T-most アルベド フィギュア～純白の悪魔ver.～【開封レビュー】",
+        url: "https://www.youtube.com/watch?v=K7JBw-fnLBw",
+        lang: "ja",
+      },
+    ],
   },
 ]
