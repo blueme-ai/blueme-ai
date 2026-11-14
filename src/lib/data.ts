@@ -40678,14 +40678,14 @@ export const collection: CollectibleItem[] = [
     reviews: [],
     youtube: [
       {
-        title: "REVIEW GOD OF WAR ARES EX SAGA SAINTIA SHO MYTH CLOTH SAINT SEIYA",
+        title: "REVIEW GOD OF WAR ARES EX SAGA SAINTIA SHO MYTH CLOTH SAINT SEIYA（法文）",
         url: "https://www.youtube.com/watch?v=SFr8MbPkYNY",
-        lang: "fr",
+        lang: "en",
       },
       {
-        title: "#7 les review du sanctuaire - saga god of war ares ex bandai",
+        title: "#7 les review du sanctuaire - saga god of war ares ex bandai（法文）",
         url: "https://www.youtube.com/watch?v=0wfYZ8vaU20",
-        lang: "fr",
+        lang: "en",
       },
     ],
   },
