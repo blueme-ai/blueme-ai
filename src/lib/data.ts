@@ -26623,6 +26623,27 @@ export const collection: CollectibleItem[] = [
     ],
   },
   {
+    id: "moderoid-gatcha-spartan-unite-color",
+    addedAt: "2026-11-16",
+    name: "MODEROID ガッチャスパルタン ユーナイトカラーVer.（科学忍者隊ガッチャマンF）",
+    nameJa: "MODEROID ガッチャスパルタン ユーナイトカラーVer.",
+    series: "科学忍者隊ガッチャマンF",
+    character: "ガッチャスパルタン（Gatcha Spartan）ユーナイトカラーVer.",
+    manufacturer: "GOOD SMILE COMPANY",
+    scale: "MODEROID（合體全長約330mm）",
+    price: "¥9,800（含稅）",
+    releaseDate: "2026年8月",
+    officialUrl: "https://www.goodsmile.com/ja/product/1142469/MODEROID+%E3%82%AC%E3%83%83%E3%83%81%E3%83%A3%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%83%B3+%E3%83%A6%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BCVer.",
+    imageUrl: "/images/moderoid-gatcha-spartan-unite-color.jpg",
+    tags: ["科学忍者隊ガッチャマン", "ガッチャマンF", "MODEROID", "ガッチャスパルタン", "ユーナイトカラー", "GOOD SMILE COMPANY", "グッスマ公式ショップ限定", "プラモデル"],
+    description: "《科学忍者隊ガッチャマンF》是經典特攝英雄動畫《科学忍者隊ガッチャマン》的續篇系列，科學忍者隊搭乘的大型戰鬥機「ガッチャスパルタン」由ガッチャ1號至5號五架Gメカ合體而成，以矢尻般的銳利剪影成為系列最具代表性的合體機械之一。本商品是2025年8月發售的MODEROID「ガッチャスパルタン」的限定版本，僅在Good Smile Company官方商店販售，機體整體顏色統一為紅色，重現劇中五機合體時的配色；ガッチャ2至5號採用以合體時色彩為基礎的商品原創配色，ガッチャ1號機首附紅、白兩種成型色零件可自行選擇安裝。合體後全長約330mm，同樣可重現五機變形合體機構（合體時需使用部分輔助零件），並附同比例、拿著ガッチャマンフェンサー的組裝式「大鷲の健」人偶（未塗裝單色成型、需使用接著劑），讓他站在機體上即可重現「科學忍法ハイパーシュート」，專用的科學忍者隊鳥形徽章台座也改為象徵特效的透明成型色，可擺出飛行姿態展示。官方商店限定、每人限購3個、售完為止，對喜愛特攝合體機械的收藏家來說是一款不容錯過的限定色版本。",
+    reviews: [],
+    youtube: [
+      { title: "【MODEROIDガッチャスパルタン】5連合体！劇中仕様のユナイト•カラーで再登場！", url: "https://www.youtube.com/watch?v=eXm__VBh3xc", lang: "ja" },
+      { title: "【予告＆開封】限定版ガッチャスパルタン・完全変形Rダイガン・タイムライタンを一挙開封！", url: "https://www.youtube.com/watch?v=5_NaI2ThArQ", lang: "ja" },
+    ],
+  },
+  {
     id: "moderoid-orguss2-olson-special",
     addedAt: "2026-08-05",
     name: "MODEROID オーガスII オルソン・スペシャル（超時空世紀オーガス）",
@@ -27438,6 +27459,27 @@ export const collection: CollectibleItem[] = [
     description: "《公女殿下の家庭教師》講述被逐出王宮的家庭教師アレン，受命前往邊境公爵家教導次女リディヤ・リンスター的異世界劍與魔法物語。リディヤ身為林斯特家次女，劍術天賦驚人、被譽為「深紅公主」，性格高傲卻帶著幾分俏皮可愛的反差魅力。FuRyu「Trio-Try-iT」系列以自信微笑、手持雙刀的凜然站姿呈現角色劍術世家的英氣，紅色軍裝式戰鬥服搭配白色短裙，全高約21cm，是該作品景品化的首波作品，展現角色高貴又不失活潑的魅力。",
     reviews: [],
     youtube: [],
+  },
+  {
+    id: "furyu-rozen-maiden-suiseiseki",
+    addedAt: "2026-11-16",
+    name: "ローゼンメイデン Trio-Try-iT Figure－翠星石－",
+    nameJa: "TVアニメ「ローゼンメイデン」 Trio-Try-iT Figureー翠星石ー",
+    series: "ローゼンメイデン",
+    character: "翠星石（Suiseiseki）",
+    manufacturer: "FuRyu",
+    scale: "Trio-Try-iT（約16cm）",
+    price: "景品",
+    releaseDate: "2026年8月",
+    officialUrl: "https://furyuprize.com/sp/ttt/171.html",
+    imageUrl: "/images/furyu-rozen-maiden-suiseiseki.jpg",
+    tags: ["ローゼンメイデン", "翠星石", "Trio-Try-iT", "FuRyu", "景品"],
+    description: "《ローゼンメイデン》是PEACH-PIT創作的奇幻作品，描述由人偶師ローゼン打造、擁有生命的「薔薇乙女」們為了成為完美少女「愛麗絲」而展開的「愛麗絲遊戲」。翠星石是薔薇乙女的第三人偶，與蒼星石是雙胞胎姊妹，擁有一綠一紅的異色瞳，說話習慣帶著「ですぅ」的語尾，個性傲嬌嘴硬，卻也有溫柔細心的一面，是作品中人氣極高的角色。本商品是FuRyu「Trio-Try-iT」系列的TV動畫版《ローゼンメイデン》景品公仔，全1種、全高約16cm，2026年8月起陸續在日本的娃娃機與線上夾娃娃平台登場，同系列另有真紅、水銀燈、蒼星石等人偶陸續推出。造型以她標誌性的深綠色洋裝為主體，裙襬與袖口帶有黑色荷葉邊，頭戴白色蕾絲頭紗並用手拉起頭紗的姿勢，搭配長長的捲髮與帶著淺淺微笑的表情，並附透明展示底座。是喜歡《ローゼンメイデン》與景品公仔的收藏家值得入手的一款。",
+    reviews: [],
+    youtube: [
+      { title: "Trio-Try-iTフィギュア　ローゼンメイデン　～翠星石 すいせいせき～【プライズフィギュア開封】", url: "https://www.youtube.com/watch?v=wDK9v-EOHwk", lang: "ja" },
+      { title: "翠星石 フィギュアレビュー | フリュー「Trio-Try-iT」シリーズ ローゼンメイデン フィギュア", url: "https://www.youtube.com/watch?v=bxxWsB6R_8U", lang: "ja" },
+    ],
   },
   {
     id: "figuarts-zero-mirage-farina-jenius",
@@ -40651,7 +40693,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/smp-yuusha-exkaiser-king.jpg",
     tags: ["SMP", "SHOKUGAN MODELING PROJECT", "勇者エクスカイザー", "キングエクスカイザー", "キングローダー", "バンダイキャンディ", "食玩", "勇者シリーズ", "サンライズ"],
     description: "《勇者エクスカイザー》是1990年播出的「勇者シリーズ」開山之作，主角機エクスカイザー可呼叫支援機「キングローダー」合體強化為「キングエクスカイザー」，確立了後續系列「主角機＋支援機合體」的經典公式。本商品為BANDAI CANDY食玩事業部「SHOKUGAN MODELING PROJECT（SMP）」推出的2026年新版，2026年10月19日發售，建議售價8,180日圓（含稅8,998日圓），與2022年「SMP ALTERNATIVE DESTINY」版、以及TAKARA的MP超合金系列皆為完全不同的獨立商品。\n\n第一彈內含エクスカイザー（組裝後全高約68mm）與キングローダー（全長約200mm）兩台機體。エクスカイザー可從車形態變形為機器人形態，キングローダー則能重現連結車與飛行形態，並可將エクスカイザー收納其中，不需更換或拆卸零件；兩者合體後即為全高約150mm的キングエクスカイザー，並附有重現「フォームアップ」合體過程的展示用手臂。配件包含戴面罩與露出臉部的兩種表情零件、カイザーソード，以及重現必殺技「サンダーフラッシュ」的金色刀刃特效件。這次的盒面印有「巨大合体!! キングエクスカイザー!!」字樣。本品另可與Premium Bandai限定的「ドラゴンジェット＆超巨大合体セット」組合出グレートエクスカイザー形態，是勇者系列老玩家與SMP收藏者都不容錯過的一款。",
-    reviews: [],
+    reviews: [
+      {
+        title: "【SMP・エクスカイザー】素組みレビュー＆改修箇所洗い出し！！ | のどかな日常",
+        url: "https://nodokalife.com/exkizer-sugumi",
+        lang: "ja",
+      },
+    ],
     youtube: [],
   },
   {
@@ -40670,7 +40718,18 @@ export const collection: CollectibleItem[] = [
     tags: ["聖闘士星矢", "セインティア翔", "聖闘士聖衣神話EX", "戦神アレス", "Bandai", "魂ウェブ"],
     description: "《聖闘士星矢 セインティア翔》是車田正美原作《聖闘士星矢》的外傳系列，以女性聖闘士（セインティア）為主角。戰神阿瑞斯（アレス）出現在該作第十話最後，是雙子座撒加體內的邪惡人格脫去黃金聖衣的外殼後，以神的姿態降臨的形態，作品宣傳語即「脫下雙子的黃金之殼，降臨新世界的鬥爭之神」。本商品是「聖闘士聖衣神話EX」系列的一員，2019年10月12日發售，日本官網標示建議售價14,300日圓（含稅），全高約180mm，材質為ABS、PVC與壓鑄合金。造型方面以新造零件重現與雙子座黃金聖衣相似的銀色電鍍鎧甲，搭配紅色鮮豔配色；背後的披風由可動的三片零件構成，並附有巨大的翼狀裝飾，整體氣勢非常強烈。附屬配件包含替換表情零件三種、替換髮型零件、替換手腕（左四種、右五種）、劍、黃金蘋果，以及可重現聖衣「物件形態」的物件框架一組，可以展示劇中未登場的設計。盒面為黑紅色調，印有「戦神アレス」與Saintia翔標誌，是這系列中視覺效果相當華麗的一款，也是收藏雙子座撒加相關商品時值得搭配展示的一件。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "REVIEW GOD OF WAR ARES EX SAGA SAINTIA SHO MYTH CLOTH SAINT SEIYA（法文）",
+        url: "https://www.youtube.com/watch?v=SFr8MbPkYNY",
+        lang: "en",
+      },
+      {
+        title: "#7 les review du sanctuaire - saga god of war ares ex bandai（法文）",
+        url: "https://www.youtube.com/watch?v=0wfYZ8vaU20",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "moderoid-mugen-caliber",
@@ -40737,7 +40796,18 @@ export const collection: CollectibleItem[] = [
     tags: ["AniMester", "大漫匠", "蝕欲魔女", "莉莉安娜", "Desire Witch", "1/6", "追視眼", "原創", "中國品牌"],
     description: "「蝕欲魔女」是AniMester（大漫匠）推出的原創1/6人形系列，莉莉安娜為其第一彈，以黑髮尖耳的魔女形象呈現成熟魅惑的暗黑氣質。本品為塗裝完成品，材質PVC與ABS，全高約32cm，採用磁控光效追視眼（紅色愛心瞳孔以LED點亮，內附CR927電池一顆），首批版本附有可替換的水貼表情臉部與限定魔杖。盒面標示「1/6比例 追視眼 手辦」。日本HLJ標示2025年7月18日發售，國內官方標價約298人民幣；官方頁面不易取得，officialUrl暫以HLJ商品頁代替，之後找到hpoi或官方詞條再替換。",
     reviews: [],
-    youtube: [],
+    youtube: [
+      {
+        title: "Lilianna Desire Witch by Animester, In-depth Figure review",
+        url: "https://www.youtube.com/watch?v=ww9nPumJ4L0",
+        lang: "en",
+      },
+      {
+        title: "The Desire Witch Liliana Figure Unboxing",
+        url: "https://www.youtube.com/watch?v=cj8TUaHB3OA",
+        lang: "en",
+      },
+    ],
   },
   {
     id: "sikianim-alvina-chan",
@@ -40762,6 +40832,11 @@ export const collection: CollectibleItem[] = [
         url: "https://www.bilibili.com/video/BV1BJ4m1u7LP/",
         lang: "zh",
       },
+      {
+        title: "Unboxing Anime Figure Alvina-chan - 1/7 - Wet Ver ASMR by Siki Anim",
+        url: "https://www.youtube.com/shorts/qs6muqKNDe4",
+        lang: "en",
+      },
     ],
   },
   {
@@ -40780,7 +40855,34 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/taito-tmost-albedo-pure-white-devil.jpg",
     tags: ["オーバーロード", "アルベド", "T-most", "TAITO", "景品", "1/6", "純白の悪魔"],
     description: "《オーバーロード》是丸山くがね原作的黑暗奇幻作品，アルベド是納薩力克地下大墳墓的樓層守護者統帥，深愛主角飛鼠。本品為TAITO最高階景品品牌「T-most」的1/6比例作品，官方標示全高約29cm、全1種，以「純白の悪魔」為題，重現白色禮服搭配漆黑羽翼與長髮的對比造型，盒面為深紫夜景背景與T-most標誌。官方頁面未標示發售日，檢索資料顯示原定2026年2月下旬登場，タイクレ限定版則為2026年3月中旬。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      {
+        title: "オーバーロード T-most アルベド フィギュア～純白の悪魔ver.～ レビュー | 玩具YOUα",
+        url: "https://ganguyouasobi.blog.jp/archives/59744247.html",
+        lang: "ja",
+      },
+      {
+        title: "アルベド T-most ～純白の悪魔ver.～ プライズフィギュア レビュー | ダガンガドール",
+        url: "https://dagangadoll.com/overlord-13/",
+        lang: "ja",
+      },
+      {
+        title: "T-most アルベド ～純白の悪魔ver.～を入手したのでレビューしてみる | やさすけのブログ",
+        url: "https://yasasuke327.com/24554/",
+        lang: "ja",
+      },
+    ],
+    youtube: [
+      {
+        title: "オーバーロード T-most アルベド フィギュア～純白の悪魔ver.～｜プライズフィギュア開封＆完成品紹介",
+        url: "https://www.youtube.com/watch?v=adj390vlOJg",
+        lang: "ja",
+      },
+      {
+        title: "【新作プライズ開封】オーバーロード T-most アルベド フィギュア～純白の悪魔ver.～【開封レビュー】",
+        url: "https://www.youtube.com/watch?v=K7JBw-fnLBw",
+        lang: "ja",
+      },
+    ],
   },
 ]
