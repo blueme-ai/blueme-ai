@@ -7354,8 +7354,13 @@ export const collection: CollectibleItem[] = [
     imageUrl: "/images/gsas-karin-kakudate-bunny-game-playing.jpg",
     tags: ["ブルーアーカイブ", "角楯カリン", "バニーガール", "スケールフィギュア", "Good Smile Company", "Good Smile Arts Shanghai", "C&C"],
     description: "《蔚藍檔案（Blue Archive）》中，角楯卡琳是祕密組織「C&C」的成員，平時沉著冷靜、不愛多說，戰鬥時以精準的火力支援隊友，在玩家之間人氣很高。本商品取材自人氣插畫家 POPQN 筆下的「兔女郎」造型，設定為潛入任務時換上兔女郎裝扮的卡琳，以 1/7 比例將她雙肘撐在牌桌上、低頭看著手中撲克牌的瞬間立體化。全高約210mm，塑膠塗裝完成品，附展示台座與賭桌場景，桌面上堆疊的籌碼與牌面細節讓整個畫面像是正在進行一場牌局。官方特別說明，這件可以和同系列的「一之瀨明日奈（兔女郎）Game Playing Ver.」並排擺放，重現兩人同桌對賭的場面，兩件合在一起才能完整呈現 POPQN 插畫的氣氛。原型由 RXCC 製作、彩色由乳牛負責、設計為 Mx2J，由 Good Smile Arts Shanghai 製造、Good Smile Company 發售，2024年12月出貨，定價22,000日圓（含稅）。服裝雖然換成了兔女郎，卡琳那份「我還是跟平常一樣」的淡定表情仍被保留，是收藏蔚藍檔案兔女郎系列時不容錯過的一件。",
-    reviews: [],
-    youtube: [],
+    reviews: [
+      { title: "ブルーアーカイブ 角楯カリン(バニーガール) Game Playing Ver.フィギュアレビュー | 如月大騎のアニヲタブログ", url: "https://aniwotablog.com/blue-archive-00", lang: "ja" },
+    ],
+    youtube: [
+      { title: "【美少女フィギュア】グッドスマイルアーツ上海「ブルーアーカイブ -Blue Archive- 角楯カリン(バニーガール) Game Playing Ver. 」【開封フィギュアレビュー】", url: "https://www.youtube.com/watch?v=lQf6WKf5YtQ", lang: "ja" },
+      { title: "[Unboxing] 開封 Blue Archive Karin Kakudate (Bunny Girl) Game Playing Ver. 1/7 Complete Figure", url: "https://www.youtube.com/watch?v=8J6pI5dFqE8", lang: "en" },
+    ],
   },
   {
     id: "hasuki-pa009-friede-sp",
