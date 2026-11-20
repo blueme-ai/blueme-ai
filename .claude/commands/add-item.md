@@ -44,6 +44,10 @@
 - 不需要每種語系都涵蓋——有中文就用中文，沒有就找日文，都沒有才用英文
 - 找不到才留 `[]`
 - **搜尋時用中文或日文商品名搜尋**（用英文名往往找不到）——以 `name` 或 `nameJa` 欄位的文字作為搜尋關鍵字
+- **⚠️ 不能只靠 WebSearch 就說「找不到」（2026-11-20 使用者指出）**：WebSearch 回來的多半是新聞與商店頁，幾乎不會列出 YouTube 影片。2026-11-20 角楯カリン 一案，WebSearch 說找不到，但直接用 `nameJa` 在 YouTube 搜尋就有一堆開箱影片。**要用商品完整原名（`nameJa`，不要再加「開箱」「レビュー」等字）：**
+  - **YouTube：直接抓搜尋結果頁**（不靠 WebSearch），例：`curl -s -A "Mozilla/5.0 ..." "https://www.youtube.com/results?search_query=<URL編碼的nameJa>"`，從 `var ytInitialData = {...};` 的 JSON 裡找 `videoRenderer`（videoId、標題、頻道、長度），挑標題含完整商品名、含「開封／レビュー／開箱／Unboxing／review」的；長度 0:30 以下的官方宣傳短片不算開箱。`curl https://www.youtube.com/oembed?url=...&format=json` 可驗證標題。
+  - **開箱文：** 另外用 `"<nameJa>" レビュー` 與 `"<nameJa>" 開箱` 各搜一次（WebSearch 即可），找得到的個人部落格／評測站優先（例：fig-memo、aniwotablog 這類逐件評測）。
+  - 兩邊都試過才能回報「找不到」，並在回報裡寫出試了哪些關鍵字。
 
 ## 商品圖片（重要！）
 - 新增商品後，**必須立即**從官方網站抓取商品主圖，**下載到本地**再透過 Vercel 提供
